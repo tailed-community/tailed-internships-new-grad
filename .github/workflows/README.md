@@ -1,3 +1,4 @@
 # Workflows Placeholder
 
-GitHub Actions automation will be added in a later branch after the fetchers are implemented.
+This repository uses `.github/workflows/update-jobs.yml` as the production workflow.
+It runs daily and can also be triggered manually with workflow dispatch.
