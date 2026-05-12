@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sample-rbc-analyst-new-grad-2026",
+    "company": "RBC",
+    "title": "Business Analyst, New Grad",
+    "location": "Toronto, ON",
+    "category": "new_grad",
+    "season": "2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  },
+  {
+    "id": "sample-shopify-apm-new-grad-2026",
+    "company": "Shopify",
+    "title": "Associate Product Manager, New Grad",
+    "location": "Canada Remote",
+    "category": "new_grad",
+    "season": "2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  }
+]

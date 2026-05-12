@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sample-shopify-product-intern-2026",
+    "company": "Shopify",
+    "title": "Product Intern",
+    "location": "Canada Remote",
+    "category": "internship",
+    "season": "Summer 2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  },
+  {
+    "id": "sample-td-data-analyst-intern-2026",
+    "company": "TD Bank",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON",
+    "category": "internship",
+    "season": "Summer 2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  }
+]
