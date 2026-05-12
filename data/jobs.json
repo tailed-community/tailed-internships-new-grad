@@ -1,0 +1,41 @@
+[
+  {
+    "id": "sample-shopify-product-intern-2026",
+    "company": "Shopify",
+    "title": "Product Intern",
+    "location": "Canada Remote",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  },
+  {
+    "id": "sample-td-bank-data-analyst-intern-2026",
+    "company": "TD Bank",
+    "title": "Data Analyst Intern",
+    "location": "Toronto, ON",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  },
+  {
+    "id": "sample-rbc-business-analyst-new-grad-2026",
+    "company": "RBC",
+    "title": "Business Analyst, New Grad",
+    "location": "Toronto, ON",
+    "type": "new_grad",
+    "season": "2026",
+    "source": "manual",
+    "url": "https://example.com",
+    "date_posted": null,
+    "date_added": "2026-05-12",
+    "active": true
+  }
+]

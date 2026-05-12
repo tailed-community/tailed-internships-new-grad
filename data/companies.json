@@ -1,0 +1,20 @@
+[
+  {
+    "company": "RBC",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1",
+    "enabled": false
+  },
+  {
+    "company": "Shopify",
+    "source": "lever",
+    "slug": "shopify",
+    "enabled": false
+  },
+  {
+    "company": "Stripe",
+    "source": "greenhouse",
+    "slug": "stripe",
+    "enabled": false
+  }
+]
