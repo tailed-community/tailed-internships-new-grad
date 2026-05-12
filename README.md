@@ -26,25 +26,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 
 <!-- INTERNSHIPS_TABLE_END -->
 
-## Data
-
-This repository stores job listings in JSON so the data can be reused by automation scripts and the future Tail’ed website.
-
-- `data/internships.json` stores active internship listings.
-- `data/new_grad.json` stores active new grad listings.
-- `data/archived.json` stores listings that are no longer active.
-- `data/companies.json` stores company sources for future automated fetching.
-
-## Roadmap
-
-- Set up the repository foundation
-- Add Workday job fetching
-- Add Greenhouse job fetching
-- Add Lever job fetching
-- Generate README tables from JSON
-- Run daily updates with GitHub Actions
-- Reuse the JSON data in the Tail’ed website
-
 ## Contributing
 
 Contributions are welcome. You can help by adding missing internships, fixing broken links, or suggesting company sources.

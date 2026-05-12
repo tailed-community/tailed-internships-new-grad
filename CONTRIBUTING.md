@@ -12,10 +12,12 @@
 
 Contributors can update:
 
-- `data/internships.json`
-- `data/new_grad.json`
+- `data/jobs.json`
 
-Please follow the existing JSON schema for every job entry.
+Please follow the existing JSON schema for every job entry and set the correct `type`:
+
+- `"internship"`
+- `"new_grad"`
 
 ## Add a Company Source
 
