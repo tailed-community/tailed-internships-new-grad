@@ -28,6 +28,44 @@ UPPERCASE_LOCATION_TOKENS = {
 }
 
 SEASON_NAMES = ("Summer", "Fall", "Winter", "Spring")
+PROVINCE_NAME_TO_CODE = {
+    "ontario": "ON",
+    "quebec": "QC",
+    "québec": "QC",
+    "british columbia": "BC",
+    "alberta": "AB",
+    "manitoba": "MB",
+    "saskatchewan": "SK",
+    "nova scotia": "NS",
+    "new brunswick": "NB",
+    "newfoundland and labrador": "NL",
+    "prince edward island": "PE",
+    "northwest territories": "NT",
+    "nunavut": "NU",
+    "yukon": "YT",
+}
+PROVINCE_CODES = {
+    "ON",
+    "QC",
+    "BC",
+    "AB",
+    "MB",
+    "SK",
+    "NS",
+    "NB",
+    "NL",
+    "PE",
+    "NT",
+    "NU",
+    "YT",
+}
+COUNTRY_TOKENS = {
+    "canada",
+    "united states",
+    "united states of america",
+    "usa",
+    "us",
+}
 
 
 def _slug(value: str) -> str:
@@ -52,53 +90,168 @@ def _format_word(word: str) -> str:
     return token[0].upper() + token[1:].lower()
 
 
+def _normalize_province(token: str) -> str:
+    cleaned = token.strip().strip(".")
+    if not cleaned:
+        return ""
+    upper = cleaned.upper()
+    if upper in PROVINCE_CODES:
+        return upper
+    return PROVINCE_NAME_TO_CODE.get(cleaned.lower(), "")
+
+
+def _clean_city(token: str) -> str:
+    words = [word for word in token.split(" ") if word]
+    return " ".join(_format_word(word) for word in words).strip()
+
+
+def _split_location_tokens(location: str) -> list[str]:
+    return [part.strip() for part in re.split(r"\s*,\s*", location) if part.strip()]
+
+
+def normalize_single_location(location: str) -> str:
+    text = re.sub(r"\s+", " ", str(location or "").strip())
+    if not text:
+        return ""
+
+    lowered = text.lower()
+    if "remote" in lowered:
+        if "canada" in lowered:
+            return "Canada Remote"
+        return "Remote"
+
+    if lowered == "multiple locations":
+        return "Multiple Locations"
+    number_match = re.match(r"^(\d+)\s+locations?$", lowered)
+    if number_match:
+        return f"{number_match.group(1)} Locations"
+
+    parts = _split_location_tokens(text)
+    if not parts:
+        return ""
+
+    filtered_parts = [part for part in parts if part.lower() not in COUNTRY_TOKENS]
+    if not filtered_parts:
+        filtered_parts = parts
+
+    province = ""
+    province_index = -1
+    for index in range(len(filtered_parts) - 1, -1, -1):
+        candidate = _normalize_province(filtered_parts[index])
+        if candidate:
+            province = candidate
+            province_index = index
+            break
+
+    city = ""
+    search_end = province_index if province_index > -1 else len(filtered_parts)
+    for index in range(search_end - 1, -1, -1):
+        token = filtered_parts[index]
+        if re.search(r"\d", token):
+            continue
+        if _normalize_province(token):
+            continue
+        if token.lower() in COUNTRY_TOKENS:
+            continue
+        city = _clean_city(token)
+        if city:
+            break
+
+    if city and province:
+        return f"{city}, {province}"
+    if city:
+        return city
+    if province:
+        return province
+
+    fallback = _clean_city(filtered_parts[-1])
+    return fallback if fallback else ""
+
+
 def format_location(location: str) -> str:
     text = re.sub(r"\s+", " ", str(location or "").strip())
     if not text:
         return "Not specified"
 
-    lowered = text.lower()
-    if lowered == "canada remote":
-        return "Canada Remote"
-    if lowered == "multiple locations":
-        return "Multiple Locations"
+    segments = [seg.strip() for seg in re.split(r"\s*;\s*|\s*/\s*", text) if seg.strip()]
+    if not segments:
+        segments = [text]
 
-    number_match = re.match(r"^(\d+)\s+locations?$", lowered)
-    if number_match:
-        return f"{number_match.group(1)} Locations"
+    cleaned: list[str] = []
+    seen: set[str] = set()
+    for segment in segments:
+        normalized = normalize_single_location(segment)
+        if not normalized:
+            continue
+        key = normalized.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        cleaned.append(normalized)
 
-    parts = [part.strip() for part in text.split(",") if part.strip()]
-    if not parts:
+    if not cleaned:
         return "Not specified"
-
-    formatted_parts: list[str] = []
-    for part in parts:
-        words = [word for word in part.split(" ") if word]
-        formatted = " ".join(_format_word(word) for word in words).strip()
-        formatted_parts.append(formatted if formatted else part)
-
-    return ", ".join(formatted_parts) if formatted_parts else "Not specified"
+    return " / ".join(cleaned)
 
 
-def _extract_raw_location(raw_job: dict[str, Any]) -> str:
-    locations_text = raw_job.get("locationsText")
-    if isinstance(locations_text, str) and locations_text.strip():
-        return locations_text.strip()
+def _extract_location_values_from_entry(entry: Any) -> list[str]:
+    if isinstance(entry, str):
+        return [entry]
+    if not isinstance(entry, dict):
+        return []
+
+    values: list[str] = []
+    for key in ("displayName", "location", "primaryLocation", "primaryLocationDescriptor"):
+        value = entry.get(key)
+        if isinstance(value, str) and value.strip():
+            values.append(value.strip())
+
+    city = entry.get("city")
+    region = entry.get("state") or entry.get("province") or entry.get("region")
+    country = entry.get("country")
+    if isinstance(city, str) and city.strip():
+        combined = city.strip()
+        if isinstance(region, str) and region.strip():
+            combined = f"{combined}, {region.strip()}"
+        if isinstance(country, str) and country.strip():
+            combined = f"{combined}, {country.strip()}"
+        values.append(combined)
+
+    return values
+
+
+def format_locations(raw_job: dict[str, Any]) -> str:
+    candidates: list[str] = []
 
     locations = raw_job.get("locations")
     if isinstance(locations, list) and locations:
-        parts: list[str] = []
         for entry in locations:
-            if isinstance(entry, str) and entry.strip():
-                parts.append(entry.strip())
-            elif isinstance(entry, dict):
-                value = entry.get("location") or entry.get("displayName") or entry.get("city")
-                if isinstance(value, str) and value.strip():
-                    parts.append(value.strip())
-        if parts:
-            return ", ".join(parts)
+            candidates.extend(_extract_location_values_from_entry(entry))
+    else:
+        for key in ("locationsText", "primaryLocation", "primaryLocationDescriptor"):
+            value = raw_job.get(key)
+            if isinstance(value, str) and value.strip():
+                candidates.append(value.strip())
 
-    return "Not specified"
+    if not candidates:
+        return "Not specified"
+
+    cleaned: list[str] = []
+    seen: set[str] = set()
+    for candidate in candidates:
+        formatted = format_location(candidate)
+        if formatted == "Not specified":
+            continue
+        for piece in [part.strip() for part in formatted.split(" / ") if part.strip()]:
+            key = piece.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            cleaned.append(piece)
+
+    if not cleaned:
+        return "Not specified"
+    return " / ".join(cleaned)
 
 
 def extract_season(title: str) -> str:
@@ -153,7 +306,7 @@ def normalize_workday_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         return None
 
     source = str(raw_job.get("_source", "workday")).strip() or "workday"
-    location = format_location(_extract_raw_location(raw_job))
+    location = format_locations(raw_job)
     career_url = str(raw_job.get("_career_url", "")).strip()
     external_path = str(raw_job.get("externalPath", "")).strip()
 
