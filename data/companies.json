@@ -3,7 +3,21 @@
     "company": "RBC",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1",
-    "enabled": false
+    "tenant": "rbc",
+    "site": "RBCGLOBAL1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   },
   {
     "company": "Shopify",
