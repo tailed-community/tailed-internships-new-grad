@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "workday-rbc-job-fredericton-new-brunswick-canada-client-advisor-intern-r-0000162025-1",
+    "company": "RBC",
+    "title": "Client Advisor Intern",
+    "location": "Fredericton, New Brunswick, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/FREDERICTON-New-Brunswick-Canada/Client-Advisor-Intern_R-0000162025-1",
+    "date_posted": "Posted 19 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-13"
+  },
+  {
+    "id": "workday-rbc-job-bridgewater-nova-scotia-canada-client-advisor-intern-r-0000170573",
+    "company": "RBC",
+    "title": "Client Advisor Intern",
+    "location": "Bridgewater, Nova Scotia, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BRIDGEWATER-Nova-Scotia-Canada/Client-Advisor-Intern_R-0000170573",
+    "date_posted": "Posted 12 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-13"
+  }
+]
