@@ -18,6 +18,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 ## Internships
 
 <!-- INTERNSHIPS_TABLE_START -->
+<!-- prettier-ignore -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
 | RBC | Banking Advisor Intern - Mobile | 3 Locations | Not specified | 2026-05-15 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORTHERN-BRUCE-PENINSULA-Ontario-Canada/Banking-Advisor-Intern---Mobile_R-0000172271) |
@@ -104,8 +105,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Relationship Manager Intern, Commercial Finance Services,  Indigenous market | 10 Locations | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Commercial-Finance-Services---Indigenous-market_R-0000172260) |
 | RBC | Relationship Manager Intern, Commercial Financial Services | Toronto, ON | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000148674-1) |
 | RBC | Relationship Manager Intern, Commercial Markets | Halifax, NS | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Relationship-Manager-Intern--Commercial-Markets_R-0000169916) |
-| Shopify | Product Intern | Canada Remote | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
-| TD Bank | Data Analyst Intern | Toronto, ON | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
+
 <!-- INTERNSHIPS_TABLE_END -->
 
 ## Contributing
