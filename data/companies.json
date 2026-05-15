@@ -40,6 +40,26 @@
     ]
   },
   {
+    "company": "Manulife",
+    "source": "workday",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs",
+    "tenant": "manulife",
+    "site": "MFCJH_Jobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Shopify",
     "source": "lever",
     "slug": "shopify",
