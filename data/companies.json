@@ -20,6 +20,26 @@
     ]
   },
   {
+    "company": "TD",
+    "source": "workday",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+    "tenant": "td",
+    "site": "TD_Bank_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Shopify",
     "source": "lever",
     "slug": "shopify",
