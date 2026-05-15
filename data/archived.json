@@ -82,5 +82,19 @@
     "date_added": "2026-05-12",
     "active": false,
     "date_archived": "2026-05-15"
+  },
+  {
+    "id": "workday-rbc-job-truro-nova-scotia-canada-financial-advisor-intern-r-0000171876",
+    "company": "RBC",
+    "title": "Financial Advisor Intern",
+    "location": "Truro, NS, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TRURO-Nova-Scotia-Canada/Financial-Advisor-Intern_R-0000171876",
+    "date_posted": "Posted 4 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-15"
   }
 ]
