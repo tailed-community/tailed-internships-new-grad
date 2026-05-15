@@ -1,6 +1,6 @@
 # Tail’ed Community Internships
 
-A community-maintained list of internships across Canada and remote-friendly locations.
+A community-maintained list of internships across the world.
 
 Built by Tail’ed Community to help students discover opportunities faster.
 
