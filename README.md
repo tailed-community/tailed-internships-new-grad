@@ -29,6 +29,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | TD | Intern | New York | Not specified | 2026-05-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Intern_R_1489428) |
 | TD | Software Engineer Intern/Co-op (Fall 2026) | Toronto, ON | Fall 2026 | 2026-05-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) |
 | TD | TD Internship – Global Transaction Banking (July to December 2026) | Singapore | 2026 | 2026-05-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Singapore-Singapore/TD-Internship---Global-Transaction-Banking--July-to-December-2026-_R_1481431) |
+| TD | Underwriting Automation Intern/Co-op (FALL 2026) | Markham, ON / Toronto, ON | Fall 2026 | 2026-05-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Underwriting-Automation-Intern-Co-op--FALL-_R_1488893) |
 | RBC | Banking Advisor Intern | Milton, ON, Canada | Not specified | 2026-05-14 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MILTON-Ontario-Canada/Banking-Advisor-Intern_R-0000172433) |
 | RBC | Banking Advisor Intern | Vancouver | Not specified | 2026-05-14 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/681-MAIN-STVANCOUVER/Banking-Advisor-Intern_R-0000171852-1) |
 | RBC | Banking Advisor Intern | Oakville, ON, Canada | Not specified | 2026-05-14 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000171720) |
