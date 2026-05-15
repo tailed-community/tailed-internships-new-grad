@@ -335,6 +335,16 @@ def _extract_location_values_from_entry(entry: Any) -> list[tuple[str, str | Non
 def _extract_priority_candidates(raw_job: dict[str, Any]) -> list[list[tuple[str, str | None]]]:
     prioritized: list[list[tuple[str, str | None]]] = []
 
+    detail_locations_values: list[tuple[str, str | None]] = []
+    detail_locations = raw_job.get("_detail_locations")
+    if isinstance(detail_locations, list) and detail_locations:
+        for entry in detail_locations:
+            if isinstance(entry, str) and entry.strip():
+                detail_locations_values.append((entry.strip(), None))
+            elif isinstance(entry, dict):
+                detail_locations_values.extend(_extract_location_values_from_entry(entry))
+    prioritized.append(detail_locations_values)
+
     locations_values: list[tuple[str, str | None]] = []
     locations = raw_job.get("locations")
     if isinstance(locations, list) and locations:

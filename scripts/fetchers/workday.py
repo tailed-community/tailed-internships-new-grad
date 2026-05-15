@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 from urllib.parse import urlparse
+import re
 
 import requests
 
@@ -28,6 +29,159 @@ def build_workday_jobs_url(company: dict[str, Any]) -> str:
         raise ValueError("Could not determine Workday tenant/site from company config.")
 
     return f"{origin}/wday/cxs/{tenant}/{site}/jobs"
+
+
+def is_vague_location_text(location: str) -> bool:
+    text = str(location or "").strip().lower()
+    if not text:
+        return False
+    if text in {"multiple locations", "several locations"}:
+        return True
+    return bool(re.match(r"^\d+\s+locations?$", text))
+
+
+def build_workday_detail_url(company: dict[str, Any], external_path: str) -> str:
+    raw_url = str(company.get("url", "")).strip()
+    if not raw_url:
+        raise ValueError("Missing company url for Workday source.")
+
+    parsed = urlparse(raw_url)
+    origin = f"{parsed.scheme}://{parsed.netloc}"
+
+    tenant = str(company.get("tenant", "")).strip() or parsed.netloc.split(".")[0]
+    site = str(company.get("site", "")).strip() or parsed.path.strip("/").split("/")[0]
+    if not tenant or not site:
+        raise ValueError("Could not determine Workday tenant/site from company config.")
+
+    clean_path = str(external_path or "").strip()
+    if not clean_path:
+        raise ValueError("Missing externalPath for Workday detail fetch.")
+    clean_path = clean_path.lstrip("/")
+
+    return f"{origin}/wday/cxs/{tenant}/{site}/{clean_path}"
+
+
+def fetch_workday_job_detail(company: dict[str, Any], raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    external_path = str(raw_job.get("externalPath", "")).strip()
+    if not external_path:
+        return None
+
+    try:
+        detail_url = build_workday_detail_url(company, external_path)
+    except Exception as error:
+        print(f"[workday] {company.get('company', 'Unknown')} detail URL error: {error}")
+        return None
+
+    raw_url = str(company.get("url", "")).strip()
+    parsed = urlparse(raw_url)
+    origin = f"{parsed.scheme}://{parsed.netloc}"
+
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Tail'ed Community Job Fetcher/1.0",
+        "Origin": origin,
+        "Referer": raw_url,
+    }
+
+    try:
+        response = requests.get(detail_url, headers=headers, timeout=20)
+        response.raise_for_status()
+        data = response.json()
+    except requests.RequestException as error:
+        print(
+            f"[workday] {company.get('company', 'Unknown')} detail request failed "
+            f"for {external_path}: {error}"
+        )
+        return None
+    except ValueError as error:
+        print(
+            f"[workday] {company.get('company', 'Unknown')} detail JSON parse failed "
+            f"for {external_path}: {error}"
+        )
+        return None
+
+    if not isinstance(data, dict):
+        return None
+    return data
+
+
+def _extract_text_candidates(value: Any) -> list[str]:
+    results: list[str] = []
+    if isinstance(value, str):
+        text = value.strip()
+        if text:
+            results.append(text)
+        return results
+
+    if isinstance(value, list):
+        for item in value:
+            results.extend(_extract_text_candidates(item))
+        return results
+
+    if isinstance(value, dict):
+        for key in (
+            "displayName",
+            "descriptor",
+            "location",
+            "primaryLocation",
+            "primaryLocationDescriptor",
+            "locationsText",
+        ):
+            entry = value.get(key)
+            if isinstance(entry, str) and entry.strip():
+                results.append(entry.strip())
+
+        city = value.get("city")
+        region = value.get("region") or value.get("state") or value.get("province")
+        country = value.get("country") or value.get("countryName") or value.get("countryDescriptor")
+        if isinstance(city, str) and city.strip():
+            combined = city.strip()
+            if isinstance(region, str) and region.strip():
+                combined = f"{combined}, {region.strip()}"
+            if isinstance(country, str) and country.strip():
+                combined = f"{combined}, {country.strip()}"
+            results.append(combined)
+
+    return results
+
+
+def extract_workday_detail_locations(detail_data: dict[str, Any]) -> list[str]:
+    job_info = detail_data.get("jobPostingInfo")
+    candidates: list[str] = []
+    fallback_candidates: list[str] = []
+
+    if isinstance(job_info, dict):
+        for key in (
+            "locations",
+            "location",
+            "primaryLocation",
+            "primaryLocationDescriptor",
+            "locationsText",
+            "additionalLocations",
+        ):
+            if key in job_info:
+                candidates.extend(_extract_text_candidates(job_info.get(key)))
+
+        if "jobRequisitionLocation" in job_info:
+            fallback_candidates.extend(_extract_text_candidates(job_info.get("jobRequisitionLocation")))
+
+    if "hiringOrganization" in detail_data:
+        fallback_candidates.extend(_extract_text_candidates(detail_data.get("hiringOrganization")))
+
+    if not candidates:
+        candidates = fallback_candidates
+
+    deduped: list[str] = []
+    seen: set[str] = set()
+    for candidate in candidates:
+        key = candidate.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(candidate)
+
+    return deduped
 
 
 def fetch_workday_search(
@@ -206,5 +360,54 @@ def fetch_workday_jobs(company: dict[str, Any]) -> list[dict[str, Any]]:
 
         seen_keys.add(key)
         deduped.append(job)
+
+    max_detail_fetches_raw = company.get("max_detail_fetches", 50)
+    try:
+        max_detail_fetches = max(0, int(max_detail_fetches_raw))
+    except (TypeError, ValueError):
+        max_detail_fetches = 50
+
+    detail_fetch_attempts = 0
+    for job in deduped:
+        locations_text = str(job.get("locationsText", "")).strip()
+        has_locations = isinstance(job.get("locations"), list) and len(job.get("locations", [])) > 0
+        has_primary = bool(str(job.get("primaryLocation", "")).strip())
+        has_primary_descriptor = bool(str(job.get("primaryLocationDescriptor", "")).strip())
+        has_external_path = bool(str(job.get("externalPath", "")).strip())
+
+        should_fetch_detail = (
+            is_vague_location_text(locations_text)
+            and not has_locations
+            and not has_primary
+            and not has_primary_descriptor
+            and has_external_path
+        )
+        if not should_fetch_detail:
+            continue
+        if detail_fetch_attempts >= max_detail_fetches:
+            break
+
+        detail_fetch_attempts += 1
+        title = str(job.get("title", "(no title)")).strip() or "(no title)"
+        print(f"Fetching detail locations for {company_name}: {title}")
+
+        detail_data = fetch_workday_job_detail(company, job)
+        if not detail_data:
+            print(
+                f"Could not recover detail locations; using fallback "
+                f"'{locations_text or 'Not specified'}'."
+            )
+            continue
+
+        detail_locations = extract_workday_detail_locations(detail_data)
+        job["_detail"] = detail_data
+        if detail_locations:
+            job["_detail_locations"] = detail_locations
+            print(f"Recovered {len(detail_locations)} detail locations.")
+        else:
+            print(
+                f"Could not recover detail locations; using fallback "
+                f"'{locations_text or 'Not specified'}'."
+            )
 
     return deduped
