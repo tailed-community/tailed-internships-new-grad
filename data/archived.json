@@ -26,5 +26,61 @@
     "date_added": "2026-05-12",
     "active": false,
     "date_archived": "2026-05-13"
+  },
+  {
+    "id": "workday-rbc-job-vancouver-british-columbia-canada-banking-advisor-intern-r-0000170565",
+    "company": "RBC",
+    "title": "Banking Advisor Intern",
+    "location": "Vancouver, BC",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Banking-Advisor-Intern_R-0000170565",
+    "date_posted": "Posted 13 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-15"
+  },
+  {
+    "id": "workday-rbc-job-vancouver-british-columbia-canada-client-advisor-intern-2-r-0000170474",
+    "company": "RBC",
+    "title": "client advisor intern-2",
+    "location": "Vancouver, BC",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/client-advisor-intern-2_R-0000170474",
+    "date_posted": "Posted 13 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-15"
+  },
+  {
+    "id": "workday-rbc-job-abbotsford-british-columbia-canada-client-advisor-intern-high-street-branch-r-0000170404",
+    "company": "RBC",
+    "title": "Client Advisor Intern - High Street Branch",
+    "location": "Abbotsford, BC",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ABBOTSFORD-British-Columbia-Canada/Client-Advisor-Intern---High-Street-Branch_R-0000170404",
+    "date_posted": "Posted 13 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-15"
+  },
+  {
+    "id": "workday-rbc-job-thunder-bay-ontario-canada-relationship-manager-intern-commercial-financial-services-r-0000168930-1",
+    "company": "RBC",
+    "title": "Relationship Manager Intern, Commercial Financial Services",
+    "location": "Thunder Bay, ON",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/THUNDER-BAY-Ontario-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000168930-1",
+    "date_posted": "Posted 11 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-15"
   }
 ]
