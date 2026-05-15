@@ -61,10 +61,25 @@ PROVINCE_CODES = {
 }
 COUNTRY_TOKENS = {
     "canada",
+    "ca",
     "united states",
     "united states of america",
     "usa",
     "us",
+    "france",
+    "united kingdom",
+    "uk",
+}
+COUNTRY_MAP = {
+    "canada": "Canada",
+    "ca": "Canada",
+    "united states": "United States",
+    "united states of america": "United States",
+    "usa": "United States",
+    "us": "United States",
+    "france": "France",
+    "united kingdom": "United Kingdom",
+    "uk": "United Kingdom",
 }
 
 
@@ -109,15 +124,81 @@ def _split_location_tokens(location: str) -> list[str]:
     return [part.strip() for part in re.split(r"\s*,\s*", location) if part.strip()]
 
 
-def normalize_single_location(location: str) -> str:
+def _is_generic_location_value(value: str) -> bool:
+    lowered = str(value or "").strip().lower()
+    if not lowered:
+        return True
+    if lowered == "multiple locations":
+        return True
+    if re.match(r"^\d+\s+locations?$", lowered):
+        return True
+    return False
+
+
+def _normalize_country(token: str) -> str | None:
+    cleaned = token.strip().strip(".")
+    if not cleaned:
+        return None
+    return COUNTRY_MAP.get(cleaned.lower())
+
+
+def _extract_country_from_free_text(text: str) -> str | None:
+    lowered = text.lower()
+    for raw, normalized in sorted(COUNTRY_MAP.items(), key=lambda item: -len(item[0])):
+        if re.search(rf"\b{re.escape(raw)}\b", lowered):
+            return normalized
+    return None
+
+
+def _normalize_region(token: str) -> str:
+    province = _normalize_province(token)
+    if province:
+        return province
+
+    cleaned = token.strip().strip(".")
+    if re.fullmatch(r"[A-Za-z]{2}", cleaned):
+        return cleaned.upper()
+    return ""
+
+
+def strip_workday_address_prefix(location: str) -> str:
+    text = str(location or "").strip()
+    if ":" not in text:
+        return text
+    return text.split(":")[-1].strip()
+
+
+def extract_country_hint(location_object: dict) -> str | None:
+    for key in ("country", "countryName", "countryDescriptor"):
+        value = location_object.get(key)
+        if isinstance(value, str) and value.strip():
+            normalized = _normalize_country(value)
+            if normalized:
+                return normalized
+            return _clean_city(value.strip())
+    return None
+
+
+def normalize_single_location(location: str, country_hint: str | None = None) -> str:
     text = re.sub(r"\s+", " ", str(location or "").strip())
+    if not text:
+        return ""
+    text = strip_workday_address_prefix(text)
     if not text:
         return ""
 
     lowered = text.lower()
     if "remote" in lowered:
-        if "canada" in lowered:
-            return "Canada Remote"
+        country = _extract_country_from_free_text(text)
+        for token in _split_location_tokens(text):
+            normalized_country = _normalize_country(token)
+            if normalized_country:
+                country = normalized_country
+                break
+        if not country and country_hint:
+            country = _normalize_country(country_hint) or _clean_city(country_hint)
+        if country:
+            return f"{country} Remote"
         return "Remote"
 
     if lowered == "multiple locations":
@@ -131,13 +212,23 @@ def normalize_single_location(location: str) -> str:
         return ""
 
     filtered_parts = [part for part in parts if part.lower() not in COUNTRY_TOKENS]
+    country = None
+    for part in parts:
+        normalized_country = _normalize_country(part)
+        if normalized_country:
+            country = normalized_country
+    if not country and country_hint:
+        country = _normalize_country(country_hint) or _clean_city(country_hint)
+
+    if not filtered_parts:
+        filtered_parts = [part for part in parts if not _normalize_country(part)]
     if not filtered_parts:
         filtered_parts = parts
 
     province = ""
     province_index = -1
     for index in range(len(filtered_parts) - 1, -1, -1):
-        candidate = _normalize_province(filtered_parts[index])
+        candidate = _normalize_region(filtered_parts[index])
         if candidate:
             province = candidate
             province_index = index
@@ -149,7 +240,7 @@ def normalize_single_location(location: str) -> str:
         token = filtered_parts[index]
         if re.search(r"\d", token):
             continue
-        if _normalize_province(token):
+        if _normalize_region(token):
             continue
         if token.lower() in COUNTRY_TOKENS:
             continue
@@ -157,18 +248,28 @@ def normalize_single_location(location: str) -> str:
         if city:
             break
 
+    if city and province and country:
+        return f"{city}, {province}, {country}"
     if city and province:
         return f"{city}, {province}"
+    if city and country:
+        return f"{city}, {country}"
     if city:
         return city
+    if province and country:
+        return f"{province}, {country}"
     if province:
         return province
+    if country:
+        return country
 
     fallback = _clean_city(filtered_parts[-1])
+    if fallback and country:
+        return f"{fallback}, {country}"
     return fallback if fallback else ""
 
 
-def format_location(location: str) -> str:
+def format_location_text(location: str, country_hint: str | None = None) -> str:
     text = re.sub(r"\s+", " ", str(location or "").strip())
     if not text:
         return "Not specified"
@@ -180,7 +281,7 @@ def format_location(location: str) -> str:
     cleaned: list[str] = []
     seen: set[str] = set()
     for segment in segments:
-        normalized = normalize_single_location(segment)
+        normalized = normalize_single_location(segment, country_hint=country_hint)
         if not normalized:
             continue
         key = normalized.lower()
@@ -194,20 +295,31 @@ def format_location(location: str) -> str:
     return " / ".join(cleaned)
 
 
-def _extract_location_values_from_entry(entry: Any) -> list[str]:
+def format_location(location: str) -> str:
+    return format_location_text(location)
+
+
+def _extract_location_values_from_entry(entry: Any) -> list[tuple[str, str | None]]:
     if isinstance(entry, str):
-        return [entry]
+        return [(entry, None)]
     if not isinstance(entry, dict):
         return []
 
-    values: list[str] = []
-    for key in ("displayName", "location", "primaryLocation", "primaryLocationDescriptor"):
+    values: list[tuple[str, str | None]] = []
+    country_hint = extract_country_hint(entry)
+    for key in ("displayName", "descriptor", "location", "primaryLocation", "primaryLocationDescriptor"):
         value = entry.get(key)
         if isinstance(value, str) and value.strip():
-            values.append(value.strip())
+            values.append((value.strip(), country_hint))
 
     city = entry.get("city")
-    region = entry.get("state") or entry.get("province") or entry.get("region")
+    region = (
+        entry.get("state")
+        or entry.get("province")
+        or entry.get("region")
+        or entry.get("countryRegion")
+        or entry.get("countryRegionDescriptor")
+    )
     country = entry.get("country")
     if isinstance(city, str) and city.strip():
         combined = city.strip()
@@ -215,43 +327,88 @@ def _extract_location_values_from_entry(entry: Any) -> list[str]:
             combined = f"{combined}, {region.strip()}"
         if isinstance(country, str) and country.strip():
             combined = f"{combined}, {country.strip()}"
-        values.append(combined)
+        values.append((combined, country_hint))
 
     return values
 
 
-def format_locations(raw_job: dict[str, Any]) -> str:
-    candidates: list[str] = []
+def _extract_priority_candidates(raw_job: dict[str, Any]) -> list[list[tuple[str, str | None]]]:
+    prioritized: list[list[tuple[str, str | None]]] = []
 
+    locations_values: list[tuple[str, str | None]] = []
     locations = raw_job.get("locations")
     if isinstance(locations, list) and locations:
         for entry in locations:
-            candidates.extend(_extract_location_values_from_entry(entry))
-    else:
-        for key in ("locationsText", "primaryLocation", "primaryLocationDescriptor"):
-            value = raw_job.get(key)
-            if isinstance(value, str) and value.strip():
-                candidates.append(value.strip())
+            locations_values.extend(_extract_location_values_from_entry(entry))
+    prioritized.append(locations_values)
 
-    if not candidates:
-        return "Not specified"
+    primary_location_values: list[tuple[str, str | None]] = []
+    primary_location = raw_job.get("primaryLocation")
+    if isinstance(primary_location, str) and primary_location.strip():
+        primary_location_values.append((primary_location.strip(), None))
+    elif isinstance(primary_location, dict):
+        primary_location_values.extend(_extract_location_values_from_entry(primary_location))
+    prioritized.append(primary_location_values)
 
-    cleaned: list[str] = []
+    primary_descriptor_values: list[tuple[str, str | None]] = []
+    primary_descriptor = raw_job.get("primaryLocationDescriptor")
+    if isinstance(primary_descriptor, str) and primary_descriptor.strip():
+        primary_descriptor_values.append((primary_descriptor.strip(), None))
+    elif isinstance(primary_descriptor, dict):
+        primary_descriptor_values.extend(_extract_location_values_from_entry(primary_descriptor))
+    prioritized.append(primary_descriptor_values)
+
+    locations_text_values: list[tuple[str, str | None]] = []
+    locations_text = raw_job.get("locationsText")
+    if isinstance(locations_text, str) and locations_text.strip():
+        locations_text_values.append((locations_text.strip(), None))
+    prioritized.append(locations_text_values)
+
+    return prioritized
+
+
+def _dedupe_ordered(values: list[str]) -> list[str]:
     seen: set[str] = set()
-    for candidate in candidates:
-        formatted = format_location(candidate)
-        if formatted == "Not specified":
+    deduped: list[str] = []
+    for value in values:
+        key = value.lower()
+        if key in seen:
             continue
-        for piece in [part.strip() for part in formatted.split(" / ") if part.strip()]:
-            key = piece.lower()
-            if key in seen:
-                continue
-            seen.add(key)
-            cleaned.append(piece)
+        seen.add(key)
+        deduped.append(value)
+    return deduped
 
-    if not cleaned:
-        return "Not specified"
-    return " / ".join(cleaned)
+
+def format_locations(raw_job: dict[str, Any]) -> str:
+    prioritized = _extract_priority_candidates(raw_job)
+    generic_fallback = ""
+
+    for candidates in prioritized:
+        if not candidates:
+            continue
+
+        normalized_parts: list[str] = []
+        generic_parts: list[str] = []
+        for candidate, country_hint in candidates:
+            formatted = format_location_text(candidate, country_hint=country_hint)
+            if formatted == "Not specified":
+                continue
+            pieces = [part.strip() for part in formatted.split(" / ") if part.strip()]
+            for piece in pieces:
+                if _is_generic_location_value(piece):
+                    generic_parts.append(piece)
+                else:
+                    normalized_parts.append(piece)
+
+        normalized_parts = _dedupe_ordered(normalized_parts)
+        generic_parts = _dedupe_ordered(generic_parts)
+
+        if normalized_parts:
+            return " / ".join(normalized_parts)
+        if generic_parts and not generic_fallback:
+            generic_fallback = " / ".join(generic_parts)
+
+    return generic_fallback or "Not specified"
 
 
 def extract_season(title: str) -> str:
