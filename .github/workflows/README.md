@@ -3,7 +3,9 @@
 ## Update Job Listings
 
 - Production workflow: `.github/workflows/update-jobs.yml`
-- Fetches jobs from enabled sources
+- Runs source-scoped updates sequentially
+- Currently executes `workday`, then `greenhouse`, then `lever`
+- Each source run updates only companies from that source
 - Updates `data/jobs.json`
 - Updates `data/archived.json`
 - Regenerates internship and new grad tables in `README.md` and `NEW_GRAD.md`
