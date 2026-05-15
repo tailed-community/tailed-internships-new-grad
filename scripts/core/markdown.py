@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any
 import re
 
+from core.normalize import format_location_text
 
 TABLE_HEADER = "| Company | Role | Location | Season | Date Added | Apply |"
 TABLE_DIVIDER = "|---|---|---|---|---|---|"
@@ -18,6 +19,29 @@ def _parse_date(value: Any) -> datetime:
         return datetime.strptime(text, "%Y-%m-%d")
     except ValueError:
         return datetime.min
+
+
+def _format_date_display(value: Any) -> str:
+    text = str(value or "").strip()
+    if not text:
+        return "Not specified"
+    try:
+        return datetime.strptime(text, "%Y-%m-%d").strftime("%Y-%m-%d")
+    except ValueError:
+        return "Not specified"
+
+
+def _format_season_display(value: Any) -> str:
+    text = str(value or "").strip()
+    if not text:
+        return "Not specified"
+    if text.lower() == "unknown":
+        return "Not specified"
+    return text
+
+
+def _escape_cell(value: str) -> str:
+    return value.replace("|", r"\|").strip()
 
 
 def generate_jobs_table(jobs: list[dict[str, Any]], job_type: str) -> str:
@@ -43,11 +67,11 @@ def generate_jobs_table(jobs: list[dict[str, Any]], job_type: str) -> str:
         return "\n".join(lines)
 
     for job in filtered:
-        company = str(job.get("company", "Unknown")).strip() or "Unknown"
-        title = str(job.get("title", "Unknown")).strip() or "Unknown"
-        location = str(job.get("location", "Not specified")).strip() or "Not specified"
-        season = str(job.get("season", "Not specified")).strip() or "Not specified"
-        date_added = str(job.get("date_added", "Unknown")).strip() or "Unknown"
+        company = _escape_cell(str(job.get("company", "Unknown")).strip() or "Unknown")
+        title = _escape_cell(str(job.get("title", "Unknown")).strip() or "Unknown")
+        location = _escape_cell(format_location_text(str(job.get("location", "")).strip()))
+        season = _escape_cell(_format_season_display(job.get("season")))
+        date_added = _escape_cell(_format_date_display(job.get("date_added")))
         url = str(job.get("url", "")).strip() or "#"
         lines.append(f"| {company} | {title} | {location} | {season} | {date_added} | [Apply]({url}) |")
 
