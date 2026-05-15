@@ -18,7 +18,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 ## Internships
 
 <!-- INTERNSHIPS_TABLE_START -->
-<!-- prettier-ignore -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
 | Manulife | Articling Student - 10-Month Contract | Toronto, ON / Waterloo, ON | Not specified | 2026-05-15 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Articling-Student---10-Month-Contract_JR26050014) |
@@ -150,7 +149,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Relationship Manager Intern, Commercial Markets | Halifax, NS, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Relationship-Manager-Intern--Commercial-Markets_R-0000169916) |
 | Shopify | Product Intern | Canada Remote | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
 | TD Bank | Data Analyst Intern | Toronto, ON | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
-
 <!-- INTERNSHIPS_TABLE_END -->
 
 ## Contributing
