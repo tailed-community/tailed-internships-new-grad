@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
 from typing import Any
@@ -9,6 +10,14 @@ from core.dedupe import dedupe_jobs
 from core.markdown import generate_jobs_table, update_markdown_table
 from core.normalize import normalize_workday_job
 from fetchers.workday import fetch_workday_jobs
+
+
+SOURCE_HANDLERS = {
+    "workday": {
+        "fetch_jobs": fetch_workday_jobs,
+        "normalize_job": normalize_workday_job,
+    },
+}
 
 
 def load_json_list(path: Path) -> list[dict[str, Any]]:
@@ -32,7 +41,31 @@ def save_json_list(path: Path, data: list[dict[str, Any]]) -> None:
         file.write("\n")
 
 
-def main() -> None:
+def _parse_source_filter(raw_sources: list[str] | None) -> set[str] | None:
+    if not raw_sources:
+        return None
+
+    parsed_sources: set[str] = set()
+    for raw_source in raw_sources:
+        for part in str(raw_source).split(","):
+            source = part.strip().lower()
+            if source:
+                parsed_sources.add(source)
+
+    return parsed_sources or None
+
+
+def main(argv: list[str] | None = None) -> None:
+    parser = argparse.ArgumentParser(description="Fetch and merge job listings by source.")
+    parser.add_argument(
+        "--source",
+        action="append",
+        dest="sources",
+        help="Limit the run to one or more sources. Repeat the flag or use a comma-separated list.",
+    )
+    args = parser.parse_args(argv)
+    selected_sources = _parse_source_filter(args.sources)
+
     repo_root = Path(__file__).resolve().parents[1]
     companies_path = repo_root / "data" / "companies.json"
     jobs_path = repo_root / "data" / "jobs.json"
@@ -48,30 +81,43 @@ def main() -> None:
         return
 
     enabled_companies = [company for company in companies if company.get("enabled") is True]
+    if selected_sources is not None:
+        enabled_companies = [
+            company
+            for company in enabled_companies
+            if str(company.get("source", "")).strip().lower() in selected_sources
+        ]
     if not enabled_companies:
-        print("No enabled companies found in data/companies.json. Exiting.")
+        if selected_sources is None:
+            print("No enabled companies found in data/companies.json. Exiting.")
+        else:
+            requested = ", ".join(sorted(selected_sources))
+            print(f"No enabled companies found for source filter: {requested}. Exiting.")
         return
 
     errors_count = 0
-    raw_workday_jobs_count = 0
+    raw_jobs_count = 0
     normalized_fetched_jobs: list[dict[str, Any]] = []
+    touched_targets: set[tuple[str, str]] = set()
 
     for company in enabled_companies:
         company_name = str(company.get("company", "Unknown"))
         source = str(company.get("source", "")).strip().lower()
-        if source != "workday":
+        handler = SOURCE_HANDLERS.get(source)
+        if handler is None:
             print(f"Skipping enabled company {company_name} with unsupported source '{source}'.")
             continue
 
-        print(f"Fetching Workday jobs for {company_name}...")
+        print(f"Fetching {source} jobs for {company_name}...")
         try:
-            raw_jobs = fetch_workday_jobs(company)
-            raw_workday_jobs_count += len(raw_jobs)
+            raw_jobs = handler["fetch_jobs"](company)
+            touched_targets.add((source, company_name))
+            raw_jobs_count += len(raw_jobs)
             print(f"Fetched {len(raw_jobs)} unique raw jobs for {company_name}.")
 
             normalized_count = 0
             for raw_job in raw_jobs:
-                normalized = normalize_workday_job(raw_job)
+                normalized = handler["normalize_job"](raw_job)
                 if normalized is None:
                     continue
                 normalized_fetched_jobs.append(normalized)
@@ -88,6 +134,7 @@ def main() -> None:
         existing_jobs=existing_jobs,
         fetched_jobs=deduped_fetched_jobs,
         existing_archived_jobs=existing_archived_jobs,
+        touched_targets=touched_targets,
     )
     active_jobs = dedupe_jobs(active_jobs)
 
@@ -123,8 +170,10 @@ def main() -> None:
     new_grad_count = sum(1 for job in active_jobs if job.get("type") == "new_grad")
 
     print("\nUpdate summary")
+    if selected_sources is not None:
+        print(f"- requested sources: {', '.join(sorted(selected_sources))}")
     print(f"- enabled companies checked: {len(enabled_companies)}")
-    print(f"- fetched raw Workday jobs: {raw_workday_jobs_count}")
+    print(f"- fetched raw jobs: {raw_jobs_count}")
     print(f"- active jobs saved: {len(active_jobs)}")
     print(f"- internships count: {internships_count}")
     print(f"- new grad count: {new_grad_count}")

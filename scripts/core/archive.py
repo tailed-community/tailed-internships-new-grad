@@ -16,20 +16,28 @@ def _job_key(job: dict[str, Any]) -> str:
     return f"fallback::{company}::{title}::{location}::{url}"
 
 
+def _target_key(source: str, company: str) -> str:
+    return f"{source.strip().lower()}::{company.strip().lower()}"
+
+
+def _job_target_key(job: dict[str, Any]) -> str:
+    source = str(job.get("source", "")).strip()
+    company = str(job.get("company", "")).strip()
+    return _target_key(source, company)
+
+
 def merge_active_and_archive(
     existing_jobs: list[dict[str, Any]],
     fetched_jobs: list[dict[str, Any]],
     existing_archived_jobs: list[dict[str, Any]],
+    touched_targets: set[tuple[str, str]] | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     today = date.today().isoformat()
 
     existing_by_key = {_job_key(job): job for job in existing_jobs if isinstance(job, dict)}
     archived_by_key = {_job_key(job): job for job in existing_archived_jobs if isinstance(job, dict)}
-
-    fetched_workday_companies = {
-        str(job.get("company", "")).strip()
-        for job in fetched_jobs
-        if str(job.get("source", "")).strip() == "workday"
+    normalized_touched_targets = {
+        _target_key(source, company) for source, company in (touched_targets or set())
     }
 
     fetched_by_key = {_job_key(job): job for job in fetched_jobs if isinstance(job, dict)}
@@ -54,11 +62,7 @@ def merge_active_and_archive(
         if not isinstance(job, dict):
             continue
 
-        company = str(job.get("company", "")).strip()
-        source = str(job.get("source", "")).strip()
-
-        is_target_company = source == "workday" and company in fetched_workday_companies
-        if is_target_company:
+        if _job_target_key(job) in normalized_touched_targets:
             continue
 
         carry = dict(job)
@@ -82,9 +86,7 @@ def merge_active_and_archive(
     for job in existing_jobs:
         if not isinstance(job, dict):
             continue
-        company = str(job.get("company", "")).strip()
-        source = str(job.get("source", "")).strip()
-        if source != "workday" or company not in fetched_workday_companies:
+        if _job_target_key(job) not in normalized_touched_targets:
             continue
 
         key = _job_key(job)

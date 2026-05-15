@@ -1,4 +1,4 @@
-name: Update Job Listings
+name: Update Job Listings By Source
 
 on:
   schedule:
@@ -9,12 +9,15 @@ permissions:
   contents: write
 
 jobs:
-  update-jobs:
+  update-jobs-by-source:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,17 +27,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run job updater
-        run: python scripts/main.py
-
-      - name: Commit and push changes
+      - name: Run source updaters sequentially
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json data/archived.json README.md NEW_GRAD.md
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "chore: update job listings"
-          git push
+          for source in workday greenhouse lever; do
+            echo "Running updater for source: $source"
+            python scripts/main.py --source "$source"
+
+            git add data/jobs.json data/archived.json README.md NEW_GRAD.md
+            if git diff --cached --quiet; then
+              echo "No $source changes to commit"
+              continue
+            fi
+
+            git commit -m "chore: update $source jobs"
+            git pull --rebase
+            git push
+          done
