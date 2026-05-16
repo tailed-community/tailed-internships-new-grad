@@ -96,5 +96,33 @@
     "date_added": "2026-05-12",
     "active": false,
     "date_archived": "2026-05-15"
+  },
+  {
+    "id": "workday-rbc-job-london-ontario-canada-client-advisor-intern-r-0000169395",
+    "company": "RBC",
+    "title": "Client Advisor Intern",
+    "location": "London, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LONDON-Ontario-Canada/Client-Advisor-Intern_R-0000169395",
+    "date_posted": "Posted Today",
+    "date_added": "2026-05-15",
+    "active": false,
+    "date_archived": "2026-05-16"
+  },
+  {
+    "id": "workday-rbc-job-niagara-falls-ontario-canada-financial-advisor-intern-r-0000170774",
+    "company": "RBC",
+    "title": "Financial Advisor Intern",
+    "location": "Niagara Falls, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NIAGARA-FALLS-Ontario-Canada/Financial-Advisor-Intern_R-0000170774",
+    "date_posted": "Posted 7 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-16"
   }
 ]
