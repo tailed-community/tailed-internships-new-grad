@@ -21,11 +21,42 @@ Please follow the existing JSON schema for every job entry and set the correct `
 
 ## Add a Company Source
 
-Companies will later be added to:
+Contributors should add company career pages to:
 
-`data/companies.json`
+- `data/company_sources.csv`
 
-For now, companies can be added with `enabled` set to `false` until the fetcher supports them.
+CSV columns:
+
+- `company`
+- `url`
+- `enabled`
+
+Current support:
+
+- Workday URLs on `myworkdayjobs.com`
+
+Automation flow:
+
+- `data/company_sources.csv` is the human-maintained source of truth.
+- `data/companies.json` is generated runtime config.
+- The daily Workday update workflow runs `python scripts/sync_companies.py` automatically before `python scripts/main.py --source workday`.
+
+Optional local command:
+
+```bash
+python scripts/sync_companies.py
+```
+
+This regenerates:
+
+- `data/companies.json`
+
+Notes:
+
+- `data/companies.json` is generated runtime config and should not be edited by hand for normal company additions.
+- Contributors normally only need to edit `data/company_sources.csv`.
+- Unsupported URLs are skipped by the sync script with a warning.
+- Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
 ## Pull Request Guidelines
 
