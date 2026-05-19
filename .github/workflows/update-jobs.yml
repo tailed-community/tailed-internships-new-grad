@@ -33,9 +33,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for source in workday greenhouse lever; do
             echo "Running updater for source: $source"
+            if [ "$source" = "workday" ]; then
+              python scripts/sync_companies.py
+            fi
             python scripts/main.py --source "$source"
 
-            git add data/jobs.json data/archived.json README.md NEW_GRAD.md
+            git add data/company_sources.csv data/companies.json data/jobs.json data/archived.json README.md NEW_GRAD.md
             if git diff --cached --quiet; then
               echo "No $source changes to commit"
               continue

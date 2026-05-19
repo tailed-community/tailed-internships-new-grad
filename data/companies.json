@@ -1,10 +1,10 @@
 [
   {
-    "company": "RBC",
+    "company": "BDO",
     "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1",
-    "tenant": "rbc",
-    "site": "RBCGLOBAL1",
+    "url": "https://bdo.wd3.myworkdayjobs.com/BDO",
+    "tenant": "bdo",
+    "site": "BDO",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -20,11 +20,191 @@
     ]
   },
   {
-    "company": "TD",
+    "company": "Best Buy Canada",
     "source": "workday",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
-    "tenant": "td",
-    "site": "TD_Bank_Careers",
+    "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career",
+    "tenant": "bestbuycanada",
+    "site": "BestBuyCA_Career",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "BMO",
+    "source": "workday",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged",
+    "tenant": "bmo",
+    "site": "Privileged",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "CAE",
+    "source": "workday",
+    "url": "https://cae.wd3.myworkdayjobs.com/career",
+    "tenant": "cae",
+    "site": "career",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Canadian Tire",
+    "source": "workday",
+    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site",
+    "tenant": "canadiantirecorporation",
+    "site": "Enterprise_External_Careers_Site",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "CIBC",
+    "source": "workday",
+    "url": "https://cibc.wd3.myworkdayjobs.com/campus",
+    "tenant": "cibc",
+    "site": "campus",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Ciena",
+    "source": "workday",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers",
+    "tenant": "ciena",
+    "site": "Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "General Motors",
+    "source": "workday",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm",
+    "tenant": "generalmotors",
+    "site": "careers_gm",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Irving Oil",
+    "source": "workday",
+    "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent",
+    "tenant": "irvingoil",
+    "site": "IOL_Careers_CoopStudent",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Johnson Electric",
+    "source": "workday",
+    "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE",
+    "tenant": "johnsonelectric",
+    "site": "Career_JE",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Lumentum",
+    "source": "workday",
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE",
+    "tenant": "lumentum",
+    "site": "LITE",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -60,6 +240,26 @@
     ]
   },
   {
+    "company": "RBC",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1",
+    "tenant": "rbc",
+    "site": "RBCGLOBAL1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Shopify",
     "source": "lever",
     "slug": "shopify",
@@ -70,5 +270,65 @@
     "source": "greenhouse",
     "slug": "stripe",
     "enabled": false
+  },
+  {
+    "company": "Sun Life",
+    "source": "workday",
+    "url": "https://sunlife.wd3.myworkdayjobs.com/Campus",
+    "tenant": "sunlife",
+    "site": "Campus",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "TD",
+    "source": "workday",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+    "tenant": "td",
+    "site": "TD_Bank_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Visa",
+    "source": "workday",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers",
+    "tenant": "visa",
+    "site": "Visa_Early_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   }
 ]
