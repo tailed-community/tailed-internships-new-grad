@@ -880,5 +880,47 @@
     "date_added": "2026-05-15",
     "active": false,
     "date_archived": "2026-05-18"
+  },
+  {
+    "id": "workday-rbc-job-stratford-ontario-canada-financial-advisor-intern-r-0000170448",
+    "company": "RBC",
+    "title": "Financial Advisor Intern",
+    "location": "Stratford, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/STRATFORD-Ontario-Canada/Financial-Advisor-Intern_R-0000170448",
+    "date_posted": "Posted 13 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-19"
+  },
+  {
+    "id": "workday-rbc-job-st-johns-newfoundland-and-labrador-canada-client-advisor-intern-r-0000171061",
+    "company": "RBC",
+    "title": "Client Advisor Intern",
+    "location": "St. John's, NL, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Client-Advisor-Intern_R-0000171061",
+    "date_posted": "Posted 13 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-19"
+  },
+  {
+    "id": "workday-rbc-job-halifax-nova-scotia-canada-relationship-manager-intern-commercial-markets-r-0000169916",
+    "company": "RBC",
+    "title": "Relationship Manager Intern, Commercial Markets",
+    "location": "Halifax, NS, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Relationship-Manager-Intern--Commercial-Markets_R-0000169916",
+    "date_posted": "Posted 6 Days Ago",
+    "date_added": "2026-05-12",
+    "active": false,
+    "date_archived": "2026-05-19"
   }
 ]

@@ -20,6 +20,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| Manulife | Fall 2026 Operations Excellence Intern (Canada) | Montreal, QC | Fall 2026 | 2026-05-19 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Fall-2026-Operations-Excellence-Intern--Canada-_JR26050716) |
+| Manulife | Fall Co-op 2026 Transformation Portfolio Oversight & Reporting Specialist (Canada) | Montreal, QC | Fall | 2026-05-19 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Fall-Co-op-2026-Transformation-Portfolio-Oversight---Reporting-Specialist--Canada-_JR26050718) |
+| RBC | Intern - Product Control | Putrajaya | Not specified | 2026-05-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern---Product-Control_R-0000166196) |
+| RBC | Internship | Putrajaya | Not specified | 2026-05-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Internship_R-0000166817) |
 | Manulife | Co-op Program – Data and Finance Internship 2026 Jul - Dec | Hong Kong | 2026 | 2026-05-18 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Program---Data-and-Finance-Internship-2026-Jul---Dec_JR26031582) |
 | Manulife | Co-op Program:  Asia Risk Management | Hong Kong | Not specified | 2026-05-18 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Program--Operational-Risk--Asia-Risk-Management_JR26040658) |
 | RBC | Private Banking Advisor Intern | Langley, BC, Canada | Not specified | 2026-05-16 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LANGLEY-British-Columbia-Canada/Private-Banking-Advisor-Intern_R-0000172731) |
@@ -80,8 +84,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Banking Advisor Intern | Windsor, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINDSOR-Ontario-Canada/Banking-Advisor-Intern_R-0000171717) |
 | RBC | Branch Manager Intern | La Sarre, QC, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LA-SARRE-Quebec-Canada/Branch-Manager-Intern_R-0000163663-1) |
 | RBC | Client Advisor Intern | Pincher Creek, AB, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PINCHER-CREEK-Alberta-Canada/Client-Advisor-Intern_R-0000166711-2) |
-| RBC | Client Advisor Intern | St. John's, NL, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Client-Advisor-Intern_R-0000171061) |
-| RBC | Financial Advisor Intern | Stratford, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/STRATFORD-Ontario-Canada/Financial-Advisor-Intern_R-0000170448) |
 | RBC | Financial Planner Intern | Hamilton, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Planner-Intern_R-0000171655-1) |
 | RBC | Group Advantage Consultant Intern | Mississauga, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MISSISSAUGA-Ontario-Canada/Group-Advantage-Consultant_R-0000158504) |
 | RBC | Group Consultant Intern, RBC Group Advantage | Orangeville, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ORANGEVILLE-Ontario-Canada/Group-Consultant-Intern--RBC-Group-Advantage_R-0000171189) |
@@ -95,7 +97,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Relationship Manager Intern, Business Markets | Vancouver, BC, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000162768-2) |
 | RBC | Relationship Manager Intern, Commercial Finance Services,  Indigenous market | Vancouver, BC, Canada / Langley, BC, Canada / Whistler, BC, Canada / Kelowna, BC, Canada / Victoria, BC, Canada / Vancouver / Richmond, BC, Canada / North Vancouver, BC, Canada / Surrey, BC, Canada / Nanaimo, BC, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Commercial-Finance-Services---Indigenous-market_R-0000172260) |
 | RBC | Relationship Manager Intern, Commercial Financial Services | Toronto, ON, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000148674-1) |
-| RBC | Relationship Manager Intern, Commercial Markets | Halifax, NS, Canada | Not specified | 2026-05-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Relationship-Manager-Intern--Commercial-Markets_R-0000169916) |
 | Shopify | Product Intern | Canada Remote | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
 | TD Bank | Data Analyst Intern | Toronto, ON | Summer 2026 | 2026-05-12 | [Apply](https://example.com) |
 <!-- INTERNSHIPS_TABLE_END -->
