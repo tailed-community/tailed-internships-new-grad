@@ -21,5 +21,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Motors | Software Developer - Early Career | Markham, ON, Canada | Not specified | 2026-05-19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755) |
 | General Motors | Software Developer - Early Career | Markham, ON, Canada / Oshawa, ON, Canada | Not specified | 2026-05-19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896) |
 | General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | California, United States / Michigan, United States | Not specified | 2026-05-19 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) |
+| Shell | Shell Graduate Program 2026 – Malaysia | Lutong Miri / Miri / Cyberjaya-Wisma Shell / Kuala Lumpur Menara Shell / Bintulu | 2026 | 2026-05-19 | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Lutong-Miri/Shell-Graduate-Program-2026---Malaysia_R181964) |
 | RBC | Business Analyst, New Grad | Toronto, ON | 2026 | 2026-05-12 | [Apply](https://example.com) |
 <!-- NEW_GRAD_TABLE_END -->
