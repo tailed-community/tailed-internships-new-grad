@@ -20,15 +20,18 @@ NEW_GRAD_PATTERNS = [
     r"\bentry[\s-]?level\b",
     r"\buniversity graduate\b",
     r"\brecent graduate\b",
-    r"\brotational program\b",
 ]
 
-SENIOR_ROLE_KEYWORDS = [
-    "senior",
-    "staff",
-    "principal",
-    "director",
-    "head of",
+EXPERIENCED_ROLE_PATTERNS = [
+    r"\bsenior\b",
+    r"\bsr\.?\b",
+    r"\bmanager\b",
+    r"\bdirector\b",
+    r"\bprincipal\b",
+    r"\bstaff\b",
+    r"\blead\b",
+    r"\bhead of\b",
+    r"\bexperienced\b",
 ]
 
 
@@ -62,15 +65,13 @@ def classify_job_type(title: str) -> str | None:
     if not normalized:
         return None
 
-    # Keep clear internship/new-grad roles even if extra words are present.
     if is_likely_internship(normalized):
         return "internship"
+
+    if _contains_pattern(normalized, EXPERIENCED_ROLE_PATTERNS):
+        return None
+
     if is_likely_new_grad(normalized):
         return "new_grad"
-
-    if _contains_pattern(
-        normalized, [rf"\b{re.escape(keyword)}\b" for keyword in SENIOR_ROLE_KEYWORDS]
-    ):
-        return None
 
     return None
