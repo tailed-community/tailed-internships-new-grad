@@ -47,7 +47,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Management-Consulting--September-2026-_JR6296",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -60,7 +60,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -73,7 +73,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Co-op-or-Intern--Cyber-Cloud-Security--September-2026-_JR6294",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -86,7 +86,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Cloud-Analyst--September-2026-_JR6293",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -99,7 +99,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR6292",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -112,20 +112,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--September-2026-_JR6289",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-bdo-job-oakville-co-op-or-intern-indirect-tax-summer-2026-gta-offices-jr6108",
-    "company": "BDO",
-    "title": "Co-op or Intern, Indirect Tax (Summer 2026) GTA Offices",
-    "location": "Oakville / Markham / Toronto  Bay St",
-    "type": "internship",
-    "season": "Summer 2026",
-    "source": "workday",
-    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Summer-2026--GTA-Offices_JR6108",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -138,7 +125,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/St-Johns---Kenmount-Rd/Co-op-or-Intern--Assurance--Fall-2026-_JR6045",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -164,7 +151,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Articling-Student_JR6322",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -177,7 +164,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst--Data---Analytics---New-Grad--May-2026-_JR5658-1",
-    "date_posted": "Posted 19 Days Ago",
+    "date_posted": "Posted 20 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -221,6 +208,19 @@
     "active": true
   },
   {
+    "id": "workday-biogen-job-milan-italy-customer-excellence-operations-internship-req23343",
+    "company": "Biogen",
+    "title": "Customer Excellence & Operations Internship",
+    "location": "Italy",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Milan-Italy/Customer-Excellence---Operations-Internship_REQ23343",
+    "date_posted": "Posted Today",
+    "date_added": "2026-05-20",
+    "active": true
+  },
+  {
     "id": "workday-biogen-job-milan-italy-junior-customer-market-insights-data-analytics-internship-req23064",
     "company": "Biogen",
     "title": "Junior Customer & Market Insights / Data Analytics Internship",
@@ -234,6 +234,19 @@
     "active": true
   },
   {
+    "id": "workday-biogen-job-milan-italy-stage-junior-customer-market-insights-data-analytics-analyst-req23344",
+    "company": "Biogen",
+    "title": "Stage – Junior Customer & Market Insights / Data Analytics Analyst",
+    "location": "Italy",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Milan-Italy/Stage---Junior-Customer---Market-Insights---Data-Analytics-Analyst_REQ23344",
+    "date_posted": "Posted Today",
+    "date_added": "2026-05-20",
+    "active": true
+  },
+  {
     "id": "workday-biogen-job-cambridge-ma-co-op-global-trade-compliance-req22351",
     "company": "Biogen",
     "title": "Co-op, Global Trade Compliance",
@@ -242,20 +255,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Global-Trade-Compliance_REQ22351",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-biogen-job-research-triangle-park-nc-co-op-bio-quality-assurance-req22431",
-    "company": "Biogen",
-    "title": "Co-op, Bio Quality Assurance",
-    "location": "Research Triangle Park, NC",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Bio-Quality-Assurance_REQ22431",
-    "date_posted": "Posted 30+ Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -268,7 +268,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -281,8 +281,21 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Decision---Quality-Analytics-Innovation_REQ22295",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
+    "active": true
+  },
+  {
+    "id": "workday-bmo-job-montreal-qc-can-assistante-administrative-co-op-stage-t-2026-r260015232",
+    "company": "BMO",
+    "title": "Assistante administrative (co-op/stage), été 2026",
+    "location": "Montreal, QC",
+    "type": "internship",
+    "season": "2026",
+    "source": "workday",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/MONTREAL-QC-CAN/Assistante-administrative--co-op-stage---t-2026_R260015232",
+    "date_posted": "Posted Yesterday",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -294,7 +307,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technical-Analyst--Fall-2026--Co-op-Internship---_R260014957-3",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -307,7 +320,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/MONTREAL-QC-CAN/Assistant-administratif--co-op-stage---t-2026_R260015048",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -320,7 +333,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Barrie-ON-CAN/Systems-Analyst--Fall-2026--Co-op-Internship----4-months_R260014848-2",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -333,7 +346,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Salesforce-Administrator--Fall-2026--Co-op-Internship----12-months_R260014544-3",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -346,7 +359,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -359,7 +372,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Control-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013658",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -372,7 +385,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Marketing-Coordinator--Fall-2026--Co-op-Internship----8-Months_R260013944",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -385,7 +398,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Marketing-Coordinator--Fall-2026--Co-op-Internship----4-Months_R260013946",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -398,7 +411,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Capital-Markets-Treasury--Fall-2026--Co-op-Internship----4-Months_R260013126-2",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -411,7 +424,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -424,7 +437,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013180",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -437,7 +450,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Fall-2026--Co-op-Internship----8-Months_R260013661",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -450,7 +463,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -463,7 +476,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Finance-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013117-2",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -476,7 +489,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013124-2",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -489,7 +502,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -502,7 +515,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Barrie-ON-CAN/Operations-Analyst--Fall-2026--Co-op-Internship----8-Months_R260013678",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -515,7 +528,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Operations-Analyst--Fall-2026--Co-op-Internship----8-Months_R260013680-3",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -528,7 +541,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Project-Coordinator--Fall-2026--Co-op-Internship----4-Months_R260013612",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -541,7 +554,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -554,7 +567,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -567,7 +580,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technical-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013188-1",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -580,7 +593,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Trade-Desk-Support-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013616",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -593,7 +606,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Trade-Desk-Support-Analyst--Fall-2026--Co-op-Internship----8-Months_R260013676-1",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -606,7 +619,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Richmond-BC/Simulator-Technician-I-For-Abbotsford-AND-Richmond-Locations_121280",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -619,7 +632,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-200-Tax-Intern_121964",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -632,7 +645,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-SSE-150-Environment--Health---Safety-Intern_121858",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -645,7 +658,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-200-Product-Cybersecurity-Specialist-Intern_121843-1",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -658,7 +671,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/_121837",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -671,7 +684,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105-Data-Analyst--Intern---_120935",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -684,7 +697,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-ESG-100-Sustainable-Development-Intern_121870",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -697,7 +710,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DBA---Data-Engineering-COOP_120899",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -723,7 +736,7 @@
     "season": "Summer",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Systems-Engineering-Co-op--Summer-_121982",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -736,7 +749,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Co-op_121904",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -749,7 +762,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/IT-Co-Op_121691",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -775,7 +788,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/First-Nations--Inuit--or-Mtis-Students---Fall-2026-Co-op-and-Internship-Opportunities_2608548",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -788,7 +801,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Funding-and-Liquidity-Management-Fall-2026-Co-Op_2610869",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -801,7 +814,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2610899",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -814,7 +827,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op_2610898",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -827,7 +840,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2610896",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -840,7 +853,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2610902",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -853,7 +866,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2610900",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -866,7 +879,7 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Consultant-AML-Co-op--Fall-2026-_2610771-1",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -879,7 +892,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst--Controllership---Fall-2026-Co-Op-_2610717",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -892,7 +905,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Capital-Markets-Technology_2610868",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -905,7 +918,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Support-Co-op---Enterprise-Technology---Business-Management_2610866",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -918,7 +931,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Project-Coordinator-Co-op---Enterprise-Technology---Business-Management_2610893",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -931,7 +944,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Enterprise-Technology---Business-Management_2610867",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -944,7 +957,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Systems-Analyst-Co-op---Enterprise-Technology---Business-Management_2610891",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -957,7 +970,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Test-QA-Analyst-Co-op---Enterprise-Technology---Business-Management_2610864",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -970,7 +983,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -983,7 +996,7 @@
     "season": "Summer 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Summer-2026-_R030781",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -996,7 +1009,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/XMLNAME-6500-Automated-Test-Team-Intern_R030854",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1009,20 +1022,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Summer-2026-_R030913",
-    "date_posted": "Posted Today",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-ciena-job-atlanta-hardware-design-engineer-intern-fall-2026-r030874",
-    "company": "Ciena",
-    "title": "Hardware Design Engineer Intern (Fall 2026)",
-    "location": "Atlanta",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "workday",
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Fall-2026-_R030874",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1035,7 +1035,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-PMO---Business-Operations-Associate-Intern_R030909",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1048,7 +1048,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/FPGA-Development-Intern--Fall-2026---4-8-months-_R030894",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1061,7 +1061,7 @@
     "season": "Summer 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Accounting---Finance-Intern--Summer-2026---2-months-_R030882",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1074,7 +1074,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--5050-Innovation--Bldg-A/Network-Engineer-Intern--12-Months-_R030434",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1087,7 +1087,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R030906",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1100,7 +1100,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1113,7 +1113,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optic-Engineer-Intern--September-2026--12-months-_R030888",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1126,7 +1126,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Co-op--Fall-2026---4-month-_R030798",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1139,7 +1139,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--4-months--Fall-2026-_R030878",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1152,7 +1152,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1165,7 +1165,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1178,7 +1178,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optic-Test-Automation-Engineer-Intern--September-2026--12-months-_R030911",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1191,7 +1191,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/MCP-Applications-Co-op-UI-or-BE-Co-op--Fall-2026--8--months-_R030898-1",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1204,7 +1204,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Co-op---Junior-Project-Manager_R030907",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1230,7 +1230,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1256,7 +1256,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Optical-DSP-Engineer--New-Grad---Masters--PhD--Post-Doc-_R030753-1",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1269,7 +1269,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1308,7 +1308,7 @@
     "season": "Summer",
     "source": "workday",
     "url": "https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Summer-Co-op-Opportunity--May-2026-_R004721",
-    "date_posted": "Posted 29 Days Ago",
+    "date_posted": "Posted 30 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1334,7 +1334,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1347,7 +1347,7 @@
     "season": "Summer",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Herzliya-Tel-Aviv-District-Israel/AI-Research--AV----Summer-Internship_JR-202605668",
-    "date_posted": "Posted 20 Days Ago",
+    "date_posted": "Posted 21 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1386,7 +1386,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-Op---Student-Production-Group-Leader_JR-202610241",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1399,7 +1399,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Student-Industrial-Engineering_JR-202610102",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1412,7 +1412,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op---Supervisor--CCA-_JR-202610083",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1425,20 +1425,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Student-Controls-Systems-Engineering_JR-202610097",
-    "date_posted": "Posted 8 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-general-motors-job-markham-ontario-canada-xmlname-2026-fall-co-op-av-integrity-platform-diagnostics-qa-jr-202610181",
-    "company": "General Motors",
-    "title": "2026 Fall Co-op – AV Integrity Platform Diagnostics QA",
-    "location": "Markham, ON, Canada",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "workday",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op---AV-Integrity-Platform-Diagnostics-QA_JR-202610181",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1451,7 +1438,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op--Student-Maintenance-Group-Leader_JR-202610250",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1464,7 +1451,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Student-Manufacturing-Engineering_JR-202610090",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1477,7 +1464,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Oshawa-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Student-Facilities-Engineering_JR-202610094",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1490,7 +1477,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
-    "date_posted": "Posted 27 Days Ago",
+    "date_posted": "Posted 28 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1503,7 +1490,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
-    "date_posted": "Posted 27 Days Ago",
+    "date_posted": "Posted 28 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1516,7 +1503,7 @@
     "season": "Summer",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Woodstock-Ontario-Canada/Warehouse-Attendant-Summer-Student--Fixed-Term-_JR-202606734",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1568,7 +1555,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Praha-Praha-Czechia/Engineering-Project-Manager_UNI3088-1",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1581,20 +1568,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Commercial-Analytics-Intern_3162456-1",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-hp-job-singapore-south-west-singapore-college-intern-data-analytics-and-procurement-uni2918",
-    "company": "HP",
-    "title": "College Intern – Data Analytics and Procurement",
-    "location": "Singapore",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-and-Procurement_UNI2918",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1607,7 +1581,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3163126-1",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1893,7 +1867,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Ironton-MO/Operations-Intern_REQ-13026",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1906,7 +1880,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Ennis-TX/Service-Desk-Intern_REQ-12729",
-    "date_posted": "Posted 28 Days Ago",
+    "date_posted": "Posted 29 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1919,7 +1893,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Brampton-ON/Reliability-Engineer-Intern_REQ-12951",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1932,7 +1906,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Ironton-MO/Engineering-and-Operations-Intern_REQ-13019",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1971,7 +1945,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Brampton-ON/Logistics-Co-op_REQ-13001",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -1984,7 +1958,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Brampton-ON/Corporate-Process-Engineering-Co-Op_REQ-12989-1",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2010,7 +1984,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Motion-Design-Intern--4-month-Internship-Co-op--Fall-2026-_R152537",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2023,7 +1997,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Product-Manager-Intern--4-month-Internship-Co-op--Fall-2026---_R153327-1",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2036,7 +2010,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/National-Distribution-Financial-Strategy-Intern--4-month-Internship-Co-op--Fall-2026-_R152865-1",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2049,7 +2023,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Software-Developer---4-months-Internship-Coop--Fall-2026--_R152614",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2062,7 +2036,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Procurement-Analyst---4-month-Internship-Coop--Fall-2026---_R152959",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2075,7 +2049,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Developer-I---4-months-Internship-Coop--Fall-2026-_R153333",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2088,7 +2062,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Actuarial-Analyst---4-Month-Co-op-Internship--Fall-2026-_R153023",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2101,7 +2075,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I_R152983",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2114,7 +2088,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2127,7 +2101,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Security-Analyst-I---4-Month-Internship-Co-op--Fall-2026-_R153469",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2140,7 +2114,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I--4-Month-Internship-Co-op--Fall-2026-_R153000",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2153,7 +2127,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Fall-2026-_R152902-1",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2166,7 +2140,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Business-Analyst-I---4-Month-Internship-Co-op--Fall-2026-_R153558",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2179,7 +2153,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Product-Designer---4-month-Internship-Co-op--Fall-2026-_R153088",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2192,7 +2166,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Data-Scientist---4-month-Internship-Co-op--Fall-2026-_R153319",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2205,7 +2179,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/UX-Writer---4-month-Internship-Co-op--Fall-2026-_R152973",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2218,7 +2192,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Graphic-Designer--4-month-Internship-Co-op--Fall-2026---_R152519",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2231,7 +2205,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R152833",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2244,7 +2218,7 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/IT-Business-Analyst-I---4-Month-Internship-Co-op--Fall-2026-_R152951-1",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2257,7 +2231,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/IT-Technical-Advisor-I---4-Month-Internship-Co-op--Fall-2026-_R153005",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2270,7 +2244,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer---4-month-Internship-Co-op--Fall-2026--_R153117",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2283,7 +2257,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/IT-Business-Analyst--4-month-Internship-Co-op--Fall-2026-_R152517",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2296,7 +2270,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Database-Software-Developer---4-Month-Internship-Co-op--Fall-2026-_R153119",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2309,7 +2283,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Identity-and-Access-Management-Analyst---4-months-Internship-Coop--Fall-2026-_R152926",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2322,7 +2296,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/St-Hyacinthe-Quebec-CAN/Analyste-de-donnes-I--4-mois-Coop-Stagiaire--Automne-2026-_R153380",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2335,7 +2309,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Conseiller-technique-TI-I---Stage-Co-op-4-mois--Automne-2026-_R153418",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2348,7 +2322,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Dveloppeur-test-automatiss-I---Stage-Co-op-4-mois--Automne-2026--_R153441",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2361,7 +2335,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Internal-Controls-over-Financial-Reporting-Co-op-Student_R128556",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2374,7 +2348,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Engineering-Services-Quality-Engineering---Coop-Student_R128557",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2387,7 +2361,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Labour---Immigration-Specialist-Co-op-Student_R128584",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2400,7 +2374,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Marketing-Communications-Co-op-Student_R128592",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2413,7 +2387,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Energy-Pricing-Co-op-Student_R128587",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2426,7 +2400,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/External-Engineering---Co-op-Student_R128624",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2439,7 +2413,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Supply-Analyst-Co-op-Student_R128585",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2452,7 +2426,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Engineering-Services-Electrical-Engineering---Coop-Student_R128562",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2465,7 +2439,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Inventory-Accounting---Co-op-Student_R128572",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2478,7 +2452,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Engineering-Services---Project-Engineering-Co-op-Student_R128623",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2491,7 +2465,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Marketing-Loyalty-Co-op-Student_R128591",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2504,7 +2478,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Marketing-Traffic-Services-Co-op-Student_R128590",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2517,7 +2491,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Supply-Management---Buyer-Co-op-Student_R128577",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2530,7 +2504,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Shared-Services-Accounting-Co-op-Student_R128573",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2543,7 +2517,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Employee-Technology-Services---Co-op-Student_R128570",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2556,7 +2530,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Wholesale---Specialty-Sales-Analyst-Co-op-Student_R128588",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2569,7 +2543,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Supply-Management---Chemicals---Catalysts-Co-op-Student_R128579",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2582,7 +2556,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Supply-Management-Contracts-Specialist-Co-op-Student_R128583",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2595,7 +2569,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Engineering-Services-Process-Safety-Management---Coop-Student_R128558",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2608,7 +2582,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/E-I-Reliability-Engineering--Coop-Student_R128567",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2621,7 +2595,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Process-Technical-Services-Engineering--Coop-Student_R128566",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2634,7 +2608,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Information-Technology-Service-Desk---Coop-Student_R128568",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2647,7 +2621,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_CoopStudent/job/Saint-John/Process-Safety-Engineering--Refinery---Coop-Student_R128565",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2660,7 +2634,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Vandalia/Intern_R00029826-1",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2686,7 +2660,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Engineering-Intern_R00029952",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2699,7 +2673,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Germany-Stuttgart/IT-Support-Intern_R00029554",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2712,7 +2686,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Springfield-TN/Process-Engineering-Intern---May-2026_R00028740",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2738,7 +2712,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Germany-Aachen/Student-Design_R00027874",
-    "date_posted": "Posted 28 Days Ago",
+    "date_posted": "Posted 29 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2777,7 +2751,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Quality-Co-op-Student--September-to-April---8-months-_R00029843",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2790,7 +2764,7 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Automation-Electrical-Design-Co-op-Student---Fall-Term_R00029848",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2803,7 +2777,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Engineering-Co-op--September-to-April---8-months-_R00029845",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2816,7 +2790,7 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Mechanical-Design-Co-op-Student--8-months---Fall-Term-_R00029846",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2829,7 +2803,7 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Ancaster/Automation-Process-Co-op---8-months---Fall-Term-_R00029847",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2842,7 +2816,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/Canada-Stratford/PLC-Co-op_R00029953",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2881,7 +2855,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Chip-Design-Verification-Intern_2026572",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2907,7 +2881,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Mechanical-Engineering-Co-op-Intern_2026540",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2920,7 +2894,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Engineer-Co-op-Intern-Student_20251045",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2933,7 +2907,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2946,7 +2920,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Liquid-Crystal-on-Silicon-Research-Co-op-Intern_2026625",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2959,7 +2933,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_2026536",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2972,7 +2946,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Mechanical-Engineering-Co-op-Student_2026529",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2985,7 +2959,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Hermetics-Systems-Development-Co-op-Student_2026543",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -2998,7 +2972,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op_2026535",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3011,7 +2985,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3024,7 +2998,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Design-and-Innovation-Co-op_2026416",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3037,7 +3011,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3063,7 +3037,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Brand-Intern_JR26041979",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -3076,7 +3050,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Intern-6-months---Fixed-Income-Investment-Intern--General-Account-Investments-Asia_JR26041430",
-    "date_posted": "Posted 27 Days Ago",
+    "date_posted": "Posted 28 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -3089,7 +3063,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Fall-2026-Operations-Excellence-Intern--Canada-_JR26050716",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3102,20 +3076,20 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Program-Intern-6-months---Finance---Business-Advisory--General-Account-Investment_JR26041757",
-    "date_posted": "Posted 22 Days Ago",
+    "date_posted": "Posted 23 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
   {
     "id": "workday-manulife-job-hong-kong-co-op-intern-6-months-asset-liability-management-aml-general-account-investments-asia-jr26050138",
     "company": "Manulife",
-    "title": "Co-op Intern 6-months – Asset & Liability Management (AML), General Account Investments Asia",
+    "title": "Co-op Intern 6-months – Asset & Liability Management (ALM), General Account Investments Asia",
     "location": "Hong Kong",
     "type": "internship",
     "season": "Not specified",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Intern-6-months---Asset---Liability-Management--AML---General-Account-Investments-Asia_JR26050138",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted Today",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -3128,7 +3102,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Business-Intelligence-Internship-2026-Jul---Dec_JR26031583",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -3146,344 +3120,6 @@
     "active": true
   },
   {
-    "id": "workday-manulife-job-waterloo-ontario-fall-2026-co-op-automation-developer-jr26041117",
-    "company": "Manulife",
-    "title": "Fall 2026 Co-op – Automation Developer",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-data-engineer-jr26041397",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 – Data Engineer",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Data-Engineer_JR26041397",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-venture-capital-jr26040999",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Venture Capital",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Venture-Capital_JR26040999",
-    "date_posted": "Posted 8 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-risk-analyst-jr26050727",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Risk Analyst",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Risk-Analyst_JR26050727",
-    "date_posted": "Posted 8 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-data-strategy-and-enablement-jr26050734",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Data Strategy and Enablement",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Data-Strategy-and-Enablement_JR26050734",
-    "date_posted": "Posted 8 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-articling-student-10-month-contract-jr26050014",
-    "company": "Manulife",
-    "title": "Articling Student - 10-Month Contract",
-    "location": "Toronto, ON / Waterloo, ON",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Articling-Student---10-Month-Contract_JR26050014",
-    "date_posted": "Posted 8 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-disability-operations-jr26050815",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026  - Disability Operations",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026----Disability-Operations_JR26050815",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-finance-jr26050819",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Finance",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Finance_JR26050819",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-data-analytics-co-op-jr26050825",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Data & Analytics",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Data---Analytics-Co-op_JR26050825",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-accounting-finance-jr26050816",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Accounting & Finance",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Accounting---Finance_JR26050816",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-digital-member-personalization-product-strategy-jr26050799",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Digital and Innovation Strategy",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Digital-Member-Personalization---Product-Strategy_JR26050799",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-marketing-jr26050822",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Marketing",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Marketing_JR26050822",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-pharmacy-operations-jr26031430",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Pharmacy Operations",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Pharmacy-Operations_JR26031430",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-business-analyst-jr26050827",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Business Analyst",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Business-Analyst_JR26050827",
-    "date_posted": "Posted Today",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-halifax-nova-scotia-fall-co-op-2026-canadian-operations-management-8-months-jr26050831",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 – Canadian Operations Management (8 Months)",
-    "location": "Halifax, NS",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Halifax-Nova-Scotia/Fall-Co-op-2026---Canadian-Operations-Management--8-Months-_JR26050831",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-software-engineer-4-months-jr26050846",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Software Engineer (4 months)",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--4-months-_JR26050846",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-software-engineer-12-months-jr26050847",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Software Engineer (12 months)",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Software-Engineer--12-months-_JR26050847",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-software-engineer-8-months-jr26050849",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Software Engineer (8 months)",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--8-months-_JR26050849",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-global-hedging-variable-and-indexed-linked-products-jr26031253",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Global Hedging, Variable and Indexed-Linked Products",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Global-Hedging--Variable-and-Indexed-Linked-Products_JR26031253",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-canadian-operations-management-8-months-jr26050836",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 – Canadian Operations Management (8 Months)",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Canadian-Operations-Management--8-Months-_JR26050836",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-canadian-operations-management-8-months-jr26050833",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 – Canadian Operations Management (8 Months)",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Canadian-Operations-Management--8-Months-_JR26050833",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-artificial-intelligence-ai-jr26050852",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Artificial Intelligence (AI)",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Artificial-Intelligence--AI-_JR26050852",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-business-technology-analyst-jr26050851",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Business Technology Analyst",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Business-Technology-Analyst_JR26050851",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-waterloo-ontario-fall-co-op-2026-software-engineer-4-months-jr26050843",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Software Engineer (4 Months)",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Fall-Co-op-2026---Software-Engineer--4-Months-_JR26050843",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-sustainable-investing-public-markets-jr26050928",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Sustainable Investing, Public Markets",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Sustainable-Investing--Public-Markets_JR26050928",
-    "date_posted": "Posted 6 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-manulife-job-toronto-ontario-fall-co-op-2026-private-equity-jr26041214",
-    "company": "Manulife",
-    "title": "Fall Co-op 2026 - Private Equity",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Private-Equity_JR26041214",
-    "date_posted": "Posted 4 Days Ago",
-    "date_added": "2026-05-15",
-    "active": true
-  },
-  {
     "id": "workday-manulife-job-can-quebec-full-time-remote-fall-co-op-2026-disability-operations-jr26030848",
     "company": "Manulife",
     "title": "Fall Co-op 2026 - Disability Operations",
@@ -3492,21 +3128,34 @@
     "season": "Fall",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Fall-Co-op-2026---Disability-Operations_JR26030848",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
   {
-    "id": "workday-manulife-job-hong-kong-manulife-tower-manulife-co-op-6-month-internship-program-distribution-business-support-jr26042087",
+    "id": "workday-manulife-job-montreal-quebec-fall-co-op-2026-transformation-portfolio-oversight-reporting-specialist-canada-jr26050718",
     "company": "Manulife",
-    "title": "Manulife Co-op 6-Month Internship Program – Distribution & Business Support",
-    "location": "Manulife Tower / Manulife Financial Centre",
+    "title": "Fall Co-op 2026 Transformation Portfolio Oversight & Reporting Specialist (Canada)",
+    "location": "Montreal, QC",
     "type": "internship",
-    "season": "Not specified",
+    "season": "Fall",
     "source": "workday",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Manulife-Co-op-6-Month-Internship-Program---Distribution---Business-Support_JR26042087",
-    "date_posted": "Posted 5 Days Ago",
-    "date_added": "2026-05-15",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Fall-Co-op-2026-Transformation-Portfolio-Oversight---Reporting-Specialist--Canada-_JR26050718",
+    "date_posted": "Posted Yesterday",
+    "date_added": "2026-05-20",
+    "active": true
+  },
+  {
+    "id": "workday-manulife-job-montreal-quebec-fall-co-op-2026-client-account-representative-jr26040747",
+    "company": "Manulife",
+    "title": "Fall Co-op 2026 Client Account Representative",
+    "location": "Montreal, QC",
+    "type": "internship",
+    "season": "Fall",
+    "source": "workday",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Fall-Co-op-2026-Client-Account-Representative_JR26040747",
+    "date_posted": "Posted Yesterday",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -3518,7 +3167,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Program---Data-and-Finance-Internship-2026-Jul---Dec_JR26031582",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3531,7 +3180,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Co-op-Program--Operational-Risk--Asia-Risk-Management_JR26040658",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3544,7 +3193,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bryanston-South-Africa-ZSA31/Project-Management-Intern_R63495",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3570,7 +3219,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Singapore-Singapore/APAC-Benefits-Intern_R61538",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3583,7 +3232,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R64760-1",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3648,7 +3297,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--DevOps-_R64450",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3661,7 +3310,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-Tester_R64297",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3674,7 +3323,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/External-Incident-Response-Intern_R64500",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3687,7 +3336,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/HR-Intern---EMEA-Benefits_R64829",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3700,7 +3349,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Jakarta-Indonesia/Intern---Pre-Sales-Engineer_R63643",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3713,7 +3362,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--JavaScript-_R65063",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3726,7 +3375,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Singapore-Singapore/Channel-Operations---Business-Analytics-Intern_R64148",
-    "date_posted": "Posted 25 Days Ago",
+    "date_posted": "Posted 26 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3739,7 +3388,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Berlin-Germany-ZWG172/Market-Analysis-Internship_R64290",
-    "date_posted": "Posted 20 Days Ago",
+    "date_posted": "Posted 21 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3791,7 +3440,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Berlin-Germany-ZWG172/Project-Management-Intern-in-System-Integration_R60356",
-    "date_posted": "Posted 25 Days Ago",
+    "date_posted": "Posted 26 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3804,7 +3453,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3817,8 +3466,21 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/South-Africa-Offsite-ZSA99/Field-Engineer-Intern-Graduate--Sub-Saharan-Africa_R63840",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
+    "active": true
+  },
+  {
+    "id": "workday-motorola-solutions-job-riyadh-saudi-arabia-deployment-engineer-intern-ksa-national-tamheer-program-r65131",
+    "company": "Motorola Solutions",
+    "title": "Deployment Engineer Intern (KSA National - Tamheer Program)",
+    "location": "Saudi Arabia",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Riyadh-Saudi-Arabia/Deployment-Engineer-Intern--KSA-National---Tamheer-Program-_R65131",
+    "date_posted": "Posted Today",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -3843,7 +3505,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Order-Management-Intern---2nd-shift--full-time-position--15-month-contract-_R63566",
-    "date_posted": "Posted 28 Days Ago",
+    "date_posted": "Posted 29 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3856,7 +3518,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glostrup-Denmark-ZDK02/Student-Worker---Software-Engineer---Real-Time-Communication-Cloud-Platform_R64555",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3882,7 +3544,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Washington-DC-Remote-Work/CAD-RMS-Technical-Co-op-Program_R64127",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3921,7 +3583,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Design-Technologist---2026-Fall-Coop_R63068",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3934,7 +3596,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Technologist---2026-Coop_R64943",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3960,7 +3622,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Arch-Intern--Display_JR2008582",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3986,7 +3648,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016444",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -3999,7 +3661,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2026_JR2014608",
-    "date_posted": "Posted 26 Days Ago",
+    "date_posted": "Posted 27 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4012,7 +3674,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Solution-Intern---2026_JR2007088",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4116,7 +3778,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
-    "date_posted": "Posted 25 Days Ago",
+    "date_posted": "Posted 26 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4129,7 +3791,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Applied-Research-PhD-Student--Foundation-Models-for-Materials-Science_JR2016738",
-    "date_posted": "Posted 23 Days Ago",
+    "date_posted": "Posted 24 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4142,7 +3804,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4155,7 +3817,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4168,7 +3830,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4181,7 +3843,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---AI-Agents-Conversational-AI_JR2017298",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4194,7 +3856,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4207,7 +3869,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4220,21 +3882,21 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Quantum-Optics-Student_JR2017151",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
   {
-    "id": "workday-nvidia-job-us-ca-santa-clara-quantum-research-scientist-intern-fall-2026-jr2018244",
+    "id": "workday-nvidia-job-us-ca-remote-quantum-research-scientist-intern-fall-2026-jr2018244",
     "company": "NVIDIA",
     "title": "Quantum Research Scientist Intern - Fall 2026",
-    "location": "Santa Clara, Canada",
+    "location": "United States Remote",
     "type": "internship",
     "season": "Fall 2026",
     "source": "workday",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
     "date_posted": "Posted Yesterday",
-    "date_added": "2026-05-19",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -4246,7 +3908,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Robotics---Fall-2026_JR2009105-1",
-    "date_posted": "Posted Yesterday",
+    "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4272,7 +3934,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4285,7 +3947,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--CUDA---2026_JR2006910",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4311,7 +3973,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Operation-Planning-Engineer--RDSS-Intern-_JR2006625",
-    "date_posted": "Posted 27 Days Ago",
+    "date_posted": "Posted 28 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4389,7 +4051,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINNIPEG-Manitoba-Canada/Leadership-Intern_R-0000172727",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -4402,7 +4064,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LA-SARRE-Quebec-Canada/Branch-Manager-Intern_R-0000163663-1",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4415,7 +4077,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PINCHER-CREEK-Alberta-Canada/Client-Advisor-Intern_R-0000166711-2",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4428,33 +4090,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern---COO-team_R-0000166416-2",
-    "date_posted": "Posted 15 Days Ago",
-    "date_added": "2026-05-12",
-    "active": true
-  },
-  {
-    "id": "workday-rbc-job-cambridge-ontario-canada-banking-advisor-intern-r-0000171381",
-    "company": "RBC",
-    "title": "Banking Advisor Intern",
-    "location": "Cambridge, ON, Canada",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CAMBRIDGE-Ontario-Canada/Banking-Advisor-Intern_R-0000171381",
-    "date_posted": "Posted 13 Days Ago",
-    "date_added": "2026-05-12",
-    "active": true
-  },
-  {
-    "id": "workday-rbc-job-barrie-ontario-canada-banking-advisor-intern-r-0000171319-1",
-    "company": "RBC",
-    "title": "Banking Advisor Intern",
-    "location": "Barrie, ON, Canada",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BARRIE-Ontario-Canada/Banking-Advisor-Intern_R-0000171319-1",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4467,7 +4103,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/STRATFORD-Ontario-Canada/Banking-Advisor-Intern_R-0000171538",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4480,7 +4116,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Planner-Intern_R-0000171655-1",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4493,7 +4129,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINDSOR-Ontario-Canada/Banking-Advisor-Intern_R-0000171717",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4506,7 +4142,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1281-56-STDELTA/Client-Advisor-Intern_R-0000171651-1",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-14",
     "active": true
   },
@@ -4519,7 +4155,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MILTON-Ontario-Canada/Banking-Advisor-Intern_R-0000172433",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-14",
     "active": true
   },
@@ -4532,7 +4168,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALTON-HILLS-Ontario-Canada/Client-Advisor-Intern_R-0000171721",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-14",
     "active": true
   },
@@ -4545,7 +4181,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000171720",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-14",
     "active": true
   },
@@ -4558,8 +4194,21 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-CATHARINES-Ontario-Canada/Client-Advisor-Intern_R-0000172447",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-15",
+    "active": true
+  },
+  {
+    "id": "workday-rbc-job-cambridge-ontario-canada-banking-advisor-intern-r-0000172415",
+    "company": "RBC",
+    "title": "Banking Advisor Intern",
+    "location": "Cambridge, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CAMBRIDGE-Ontario-Canada/Banking-Advisor-Intern_R-0000172415",
+    "date_posted": "Posted 5 Days Ago",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -4571,8 +4220,21 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern---Product-Control_R-0000166196",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
+    "active": true
+  },
+  {
+    "id": "workday-rbc-job-milton-ontario-canada-client-advisor-intern-r-0000173103-1",
+    "company": "RBC",
+    "title": "Client Advisor Intern",
+    "location": "Milton, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workday",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MILTON-Ontario-Canada/Client-Advisor-Intern_R-0000173103-1",
+    "date_posted": "Posted Yesterday",
+    "date_added": "2026-05-20",
     "active": true
   },
   {
@@ -4584,7 +4246,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MISSISSAUGA-Ontario-Canada/Group-Advantage-Consultant_R-0000158504",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4597,7 +4259,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MONTRAL-Quebec-Canada/Manager--Credit-Structures--Intern-_R-0000166566-1",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4610,7 +4272,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORTHERN-BRUCE-PENINSULA-Ontario-Canada/Banking-Advisor-Intern---Mobile_R-0000172271",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -4623,7 +4285,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LANGLEY-British-Columbia-Canada/Private-Banking-Advisor-Intern_R-0000172731",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -4636,7 +4298,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern--Enterprise-Control-Testing--ECT-_R-0000165118",
-    "date_posted": "Posted 17 Days Ago",
+    "date_posted": "Posted 18 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4649,7 +4311,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ABBOTSFORD-British-Columbia-Canada/Relationship-Manager-Intern--Business-Market_R-0000165243",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4662,7 +4324,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000162768-2",
-    "date_posted": "Posted 20 Days Ago",
+    "date_posted": "Posted 21 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4675,7 +4337,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000171841",
-    "date_posted": "Posted 8 Days Ago",
+    "date_posted": "Posted 9 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4688,7 +4350,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OWEN-SOUND-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000171834",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4701,7 +4363,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/GUELPH-Ontario-Canada/Relationship-Manager-Intern--Commercial-Banking_R-0000171082",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-14",
     "active": true
   },
@@ -4714,7 +4376,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/4-36-EDUARD-VAN-BEINUMSTRAATAMSTERDAM/Investment-Banking-Off-Cycle-Intern_R-0000172747",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -4727,7 +4389,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Internship_R-0000166817",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4740,47 +4402,8 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000148674-1",
-    "date_posted": "Posted 18 Days Ago",
+    "date_posted": "Posted 19 Days Ago",
     "date_added": "2026-05-12",
-    "active": true
-  },
-  {
-    "id": "workday-rbc-job-orangeville-ontario-canada-group-consultant-intern-rbc-group-advantage-r-0000171189",
-    "company": "RBC",
-    "title": "Group Consultant Intern, RBC Group Advantage",
-    "location": "Orangeville, ON, Canada",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ORANGEVILLE-Ontario-Canada/Group-Consultant-Intern--RBC-Group-Advantage_R-0000171189",
-    "date_posted": "Posted 13 Days Ago",
-    "date_added": "2026-05-12",
-    "active": true
-  },
-  {
-    "id": "workday-rbc-job-42-avenue-raymond-poincarparis-off-cycle-intern-risk-solutions-group-r-0000172349",
-    "company": "RBC",
-    "title": "Off Cycle Intern - Risk Solutions Group",
-    "location": "Paris",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/42-AVENUE-RAYMOND-POINCARPARIS/Off-Cycle-Intern---Risk-Solutions-Group_R-0000172349",
-    "date_posted": "Posted 6 Days Ago",
-    "date_added": "2026-05-14",
-    "active": true
-  },
-  {
-    "id": "workday-rbc-job-winnipeg-manitoba-canada-relationship-manager-intern-commercial-financial-services-r-0000172893-1",
-    "company": "RBC",
-    "title": "Relationship Manager Intern, Commercial Financial Services",
-    "location": "Winnipeg, MB, Canada",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINNIPEG-Manitoba-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000172893-1",
-    "date_posted": "Posted 4 Days Ago",
-    "date_added": "2026-05-19",
     "active": true
   },
   {
@@ -4792,7 +4415,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Internship-Accounts-Payable_R-0000166195",
-    "date_posted": "Posted 17 Days Ago",
+    "date_posted": "Posted 18 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4805,7 +4428,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1-SHELBOURNE-ROADDUBLIN/Administrator---6-8-week-internship_R-0000172132-1",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-13",
     "active": true
   },
@@ -4818,7 +4441,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Commercial-Finance-Services---Indigenous-market_R-0000172260",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-12",
     "active": true
   },
@@ -4831,7 +4454,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Miri/Geoscience-Intern_R201289",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4844,7 +4467,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Cyberjaya-Wisma-Shell/Tax-Associate-Intern--Feb-March-batch-_R194277",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4857,7 +4480,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Miri/PACO-Engineer-Intern_R203942",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4870,7 +4493,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Kuala-Lumpur---Menara-Shell/Intern---Brand---Communications_R204009",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4883,7 +4506,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bintulu/Intern---Chemical---Process-Engineering_R197544",
-    "date_posted": "Posted 15 Days Ago",
+    "date_posted": "Posted 16 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4896,7 +4519,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bintulu/Supply-Chain-AI-Intern_R200821",
-    "date_posted": "Posted 22 Days Ago",
+    "date_posted": "Posted 23 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4909,7 +4532,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bintulu/Project-Services-Digitalization-intern_R201640",
-    "date_posted": "Posted 12 Days Ago",
+    "date_posted": "Posted 13 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4922,7 +4545,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bintulu/Intern---Major-Maintenance---Turnaround_R198798",
-    "date_posted": "Posted Today",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4948,7 +4571,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Hamburg/Shell-Assessed-Internship-Programme--April-2026----Commercial---Germany_R192776",
-    "date_posted": "Posted 25 Days Ago",
+    "date_posted": "Posted 26 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4974,7 +4597,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Denmark-Odense/Student-Assistant---Financial-Planning---Reporting_R202334",
-    "date_posted": "Posted 22 Days Ago",
+    "date_posted": "Posted 23 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -4987,7 +4610,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Denmark-Odense/Student-Assistant---Financial-Planning---Reporting_R202335",
-    "date_posted": "Posted 22 Days Ago",
+    "date_posted": "Posted 23 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5000,7 +4623,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Denmark-Odense/Student-Assistant-for-Shell-Biogas-Laboratory_R202860",
-    "date_posted": "Posted 14 Days Ago",
+    "date_posted": "Posted 15 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5013,7 +4636,7 @@
     "season": "2026",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers/job/Scotford/Shell-Assessed-Internship-Programme--September-2026----Programme-de-stages-valus-de-Shell--septembre-2026----Canada_R187261",
-    "date_posted": "Posted 21 Days Ago",
+    "date_posted": "Posted 22 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5039,7 +4662,7 @@
     "season": "Summer 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Kansas-City-Missouri/DBTS-High-School-Internship---Summer-2026_JR00124012",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5052,7 +4675,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Montreal-Quebec/Student--Facilities-Coordinator--Fall-2026-_JR00123401",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5065,7 +4688,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Financial-Analyst--Fall-2026-_JR00123071",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5078,7 +4701,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--SLC-Financial-Analyst-and-Controls--Fall-2026---Winter-2027-_JR00122035",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5091,7 +4714,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Associate-DevOps-Engineer--Fall-2026-_JR00123891",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5104,7 +4727,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Underwriting-Analyst--Fall-2026-_JR00121864",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5117,20 +4740,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Software-Engineer--Fall-2026-_JR00123596",
-    "date_posted": "Posted Today",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-sun-life-job-toronto-ontario-student-jr-strategy-analyst-strategy-development-and-planning-fall-2026-jr00123562",
-    "company": "Sun Life",
-    "title": "Student, Jr. Strategy Analyst (Strategy Development and Planning) (Fall 2026)",
-    "location": "Toronto, ON / Sun Life Waterloo King",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "workday",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Jr-Strategy-Analyst--Strategy-Development-and-Planning---Fall-2026-_JR00123562",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted Yesterday",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5143,7 +4753,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Developer--Digital-Finance-Transformation--Fall-2026---Winter-2027-_JR00121816",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5156,7 +4766,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--API-Developer--Fall-2026-_JR00123018",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5169,7 +4779,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Disability-Case-Associate--Fall-2026-_JR00122339",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5182,7 +4792,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analytics---Data-Science--Fall-2026-_JR00122501",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5195,7 +4805,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Financial-Control-Specialist--Fall-2026-_JR00121448",
-    "date_posted": "Posted 11 Days Ago",
+    "date_posted": "Posted 12 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5208,7 +4818,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--B2B-Analyst--Fall-2026-_JR00123285",
-    "date_posted": "Posted 7 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5221,33 +4831,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Workplace-Strategy---Design--Fall-2026-_JR00123734-1",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-sun-life-job-waterloo-ontario-student-it-business-analyst-fall-2026-winter-2027-jr00123633",
-    "company": "Sun Life",
-    "title": "Student, IT Business Analyst (Fall 2026 / Winter 2027)",
-    "location": "Waterloo, ON",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "workday",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--IT-Business-Analyst--Fall-2026---Winter-2027-_JR00123633",
-    "date_posted": "Posted 7 Days Ago",
-    "date_added": "2026-05-19",
-    "active": true
-  },
-  {
-    "id": "workday-sun-life-job-toronto-ontario-student-associate-software-engineer-ai-jr00123978",
-    "company": "Sun Life",
-    "title": "Student, Associate Software Engineer - AI",
-    "location": "Toronto, ON",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workday",
-    "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Associate-Software-Engineer---AI_JR00123978",
-    "date_posted": "Posted 6 Days Ago",
+    "date_posted": "Posted 8 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5260,7 +4844,7 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Financial-Operations-Intern-Co-op--Fall-2026-_R_1479261",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-15",
     "active": true
   },
@@ -5273,21 +4857,8 @@
     "season": "Fall 2026",
     "source": "workday",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Underwriting-Automation-Intern-Co-op--FALL-_R_1488893",
-    "date_posted": "Posted 4 Days Ago",
+    "date_posted": "Posted 5 Days Ago",
     "date_added": "2026-05-15",
-    "active": true
-  },
-  {
-    "id": "workday-td-job-winnipeg-manitoba-private-trust-co-op-intern-inviting-applicants-who-identify-as-first-nation-status-and-non-status-inuit-and-mtis-intern-co-op-winnipeg-summer-2026-r-1490347",
-    "company": "TD",
-    "title": "Private Trust Co-op/Intern - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern / Co-Op - Winnipeg (Summer 2026)",
-    "location": "Winnipeg, MB",
-    "type": "internship",
-    "season": "Summer 2026",
-    "source": "workday",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Winnipeg-Manitoba/Private-Trust-Co-op-Intern---Inviting-Applicants-who-identify-as-First-Nation--Status-and-Non-Status--Inuit--and-Mtis-Intern---Co-Op---Winnipeg--Summer-2026-_R_1490347",
-    "date_posted": "Posted Today",
-    "date_added": "2026-05-19",
     "active": true
   },
   {
@@ -5312,7 +4883,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/EG---Cairo-Egypt/Intern_REF067776W",
-    "date_posted": "Posted 5 Days Ago",
+    "date_posted": "Posted 6 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
@@ -5325,7 +4896,7 @@
     "season": "Not specified",
     "source": "workday",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/Tashkent-Uzbekistan/Intern_REF067794W",
-    "date_posted": "Posted 13 Days Ago",
+    "date_posted": "Posted 14 Days Ago",
     "date_added": "2026-05-19",
     "active": true
   },
