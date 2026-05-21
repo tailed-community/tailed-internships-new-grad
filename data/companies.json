@@ -462,6 +462,7 @@
   {
     "company": "Shopify",
     "source": "lever",
+    "url": "https://jobs.lever.co/shopify",
     "slug": "shopify",
     "enabled": false
   },

@@ -34,12 +34,13 @@ CSV columns:
 Current support:
 
 - Workday URLs on `myworkdayjobs.com`
+- Lever URLs on `jobs.lever.co`
 
 Automation flow:
 
 - `data/company_sources.csv` is the human-maintained source of truth.
 - `data/companies.json` is generated runtime config.
-- The daily Workday update workflow runs `python scripts/sync_companies.py` automatically before `python scripts/main.py --source workday`.
+- The daily source update workflow runs `python scripts/sync_companies.py` automatically before the per-source fetch steps.
 
 Optional local command:
 
