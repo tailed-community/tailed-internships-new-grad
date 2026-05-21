@@ -7,6 +7,16 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| HPE | Customer Service - Recent Graduate | Mexico | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Customer-Delivery-Specialist_1203418) |
+| HPE | Entry-Level Technical Solutions Consultant – Remote Support | Mexico | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Mexico-City-Distrito-Federal-Mexico/Entry-Level-Technical-Solutions-Consultant---Remote-Support_1194649) |
+| HPE | FY26 New Graduate Pre-sales | Japan | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/FY26-New-Graduate-Pre-sales_1178596-2) |
+| HPE | FY26 New Graduate Sales | Japan | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/FY26-New-Graduate-Sales_1178597) |
+| HPE | FY26 New Graduate System Engineer | Japan | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/FY26-New-Graduate-System-Engineer_1178593-2) |
+| HPE | Graduate Program - Digital Strategy | Ireland | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Leixlip-Kildare-Ireland/Graduate-Program---Digital-Strategy_1198857-1) |
+| HPE | Graduate Program - Sales | Turkey | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Istanbul-stanbul-Turkey/Graduate-Program---Sales_1202517-1) |
+| HPE | HPE Graduate Program - APAC RTM Strategy Planning | Taiwan / Malaysia | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Taipei-Taipei-City-Taiwan/HPE-Graduate-Program---APAC-RTM-Strategy-Planning_1204628-2) |
+| HPE | Maintenance Renewals Quoter - Entry Level | Colombia | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Maintenance-Renewals-Quoter---Entry-Level_1204742-2) |
+| HPE | New Graduate Service Engineer | Japan | Not specified | 2026-05-21 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/New-Graduate-Service-Engineer_1178590-2) |
 | BDO | Consultant, Data & Analytics - New Grad (May 2026) | Toronto Bay St / Calgary 8th Ave Sw / Edmonton 103 St / Halifax Mumford Rd / Montreal 1000 Rue De La Gauchetière Ouest / Oakville / Ottawa Kent St | 2026 | 2026-05-19 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst--Data---Analytics---New-Grad--May-2026-_JR5658-1) |
 | BDO | New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) Fall 2026 | Toronto Bay St / Markham / Oakville | Fall 2026 | 2026-05-19 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/New-Grad--Junior-Accountant--Assurance--Greater-Toronto-Area-Offices----Fall-2026_JR4328) |
 | BDO | New Grad: Junior Accountant, Assurance - Edmonton (September 2026) | Edmonton 103 St | 2026 | 2026-05-19 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/New-Grad--Junior-Accountant--Assurance---Edmonton--September-2026-_JR6046) |

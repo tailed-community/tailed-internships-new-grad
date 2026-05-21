@@ -1,5 +1,65 @@
 [
   {
+    "company": "407 ETR",
+    "source": "workday",
+    "url": "https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers",
+    "tenant": "407etr",
+    "site": "407_ETR_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "AIMCo",
+    "source": "workday",
+    "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers",
+    "tenant": "aimco",
+    "site": "AIMCoCareers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Alcon",
+    "source": "workday",
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon",
+    "tenant": "alcon",
+    "site": "careers_alcon",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "AVEVA",
     "source": "workday",
     "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
@@ -200,6 +260,26 @@
     ]
   },
   {
+    "company": "Disney",
+    "source": "workday",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer",
+    "tenant": "disney",
+    "site": "disneycareer",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "General Motors",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm",
@@ -220,11 +300,51 @@
     ]
   },
   {
+    "company": "HOOPP",
+    "source": "workday",
+    "url": "https://hoopp.wd10.myworkdayjobs.com/HOOPPStudent",
+    "tenant": "hoopp",
+    "site": "HOOPPStudent",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "HP",
     "source": "workday",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
     "tenant": "hp",
     "site": "ExternalCareerSite",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "HPE",
+    "source": "workday",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
+    "tenant": "hpe",
+    "site": "Jobsathpe",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -300,6 +420,26 @@
     ]
   },
   {
+    "company": "Johnson Controls",
+    "source": "workday",
+    "url": "https://jci.wd5.myworkdayjobs.com/jci",
+    "tenant": "jci",
+    "site": "jci",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Johnson Electric",
     "source": "workday",
     "url": "https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE",
@@ -360,6 +500,46 @@
     ]
   },
   {
+    "company": "McGill University",
+    "source": "workday",
+    "url": "https://mcgill.wd3.myworkdayjobs.com/mcgill_careers",
+    "tenant": "mcgill",
+    "site": "mcgill_careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Morgan Stanley",
+    "source": "workday",
+    "url": "https://ms.wd5.myworkdayjobs.com/External",
+    "tenant": "ms",
+    "site": "External",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Motorola Solutions",
     "source": "workday",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
@@ -400,11 +580,71 @@
     ]
   },
   {
+    "company": "NRF",
+    "source": "workday",
+    "url": "https://nrf.wd3.myworkdayjobs.com/External",
+    "tenant": "nrf",
+    "site": "External",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "NVIDIA",
     "source": "workday",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
     "tenant": "nvidia",
     "site": "NVIDIAExternalCareerSite",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "QuadReal",
+    "source": "workday",
+    "url": "https://quadreal.wd10.myworkdayjobs.com/QuadReal",
+    "tenant": "quadreal",
+    "site": "QuadReal",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Razer",
+    "source": "workday",
+    "url": "https://razer.wd3.myworkdayjobs.com/Careers",
+    "tenant": "razer",
+    "site": "Careers",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -497,6 +737,66 @@
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
     "tenant": "td",
     "site": "TD_Bank_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "UBC",
+    "source": "workday",
+    "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs",
+    "tenant": "ubc",
+    "site": "ubcstaffjobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "UNHCR",
+    "source": "workday",
+    "url": "https://unhcr.wd3.myworkdayjobs.com/External",
+    "tenant": "unhcr",
+    "site": "External",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Unilever",
+    "source": "workday",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals",
+    "tenant": "unilever",
+    "site": "Unilever_Experienced_Professionals",
     "enabled": true,
     "search_terms": [
       "intern",
