@@ -20,6 +20,20 @@
     ]
   },
   {
+    "company": "Acceldata",
+    "source": "lever",
+    "url": "https://jobs.lever.co/acceldata",
+    "slug": "acceldata",
+    "enabled": true
+  },
+  {
+    "company": "Achievers",
+    "source": "lever",
+    "url": "https://jobs.lever.co/achievers",
+    "slug": "achievers",
+    "enabled": true
+  },
+  {
     "company": "AIMCo",
     "source": "workday",
     "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers",
@@ -60,6 +74,13 @@
     ]
   },
   {
+    "company": "Arc'teryx Equipment",
+    "source": "lever",
+    "url": "https://jobs.lever.co/arcteryx.com",
+    "slug": "arcteryx.com",
+    "enabled": true
+  },
+  {
     "company": "AVEVA",
     "source": "workday",
     "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
@@ -98,6 +119,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "BenchSci",
+    "source": "lever",
+    "url": "https://jobs.lever.co/benchsci",
+    "slug": "benchsci",
+    "enabled": true
   },
   {
     "company": "Best Buy Canada",
@@ -280,6 +308,13 @@
     ]
   },
   {
+    "company": "EQ Bank",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank",
+    "slug": "eqbank",
+    "enabled": true
+  },
+  {
     "company": "General Motors",
     "source": "workday",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm",
@@ -460,6 +495,13 @@
     ]
   },
   {
+    "company": "Larian Studios",
+    "source": "lever",
+    "url": "https://jobs.lever.co/larian",
+    "slug": "larian",
+    "enabled": true
+  },
+  {
     "company": "Lumentum",
     "source": "workday",
     "url": "https://lumentum.wd5.myworkdayjobs.com/LITE",
@@ -478,6 +520,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Magnet Forensics",
+    "source": "lever",
+    "url": "https://jobs.lever.co/magnetforensics",
+    "slug": "magnetforensics",
+    "enabled": true
   },
   {
     "company": "Manulife",
@@ -680,6 +729,13 @@
     ]
   },
   {
+    "company": "Sanctuary AI",
+    "source": "lever",
+    "url": "https://jobs.lever.co/sanctuary",
+    "slug": "sanctuary",
+    "enabled": true
+  },
+  {
     "company": "Shell",
     "source": "workday",
     "url": "https://shell.wd3.myworkdayjobs.com/shellcareers",
@@ -753,6 +809,13 @@
     ]
   },
   {
+    "company": "Telesat",
+    "source": "lever",
+    "url": "https://jobs.lever.co/telesat",
+    "slug": "telesat",
+    "enabled": true
+  },
+  {
     "company": "UBC",
     "source": "workday",
     "url": "https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs",
@@ -811,6 +874,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Veeva Systems",
+    "source": "lever",
+    "url": "https://jobs.lever.co/veeva",
+    "slug": "veeva",
+    "enabled": true
   },
   {
     "company": "Visa",
