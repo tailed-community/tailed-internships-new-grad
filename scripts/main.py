@@ -8,11 +8,16 @@ from typing import Any
 from core.archive import merge_active_and_archive
 from core.dedupe import dedupe_jobs
 from core.markdown import generate_jobs_table, update_markdown_table
-from core.normalize import normalize_workday_job
+from core.normalize import normalize_lever_job, normalize_workday_job
+from fetchers.lever import fetch_lever_jobs
 from fetchers.workday import fetch_workday_jobs
 
 
 SOURCE_HANDLERS = {
+    "lever": {
+        "fetch_jobs": fetch_lever_jobs,
+        "normalize_job": normalize_lever_job,
+    },
     "workday": {
         "fetch_jobs": fetch_workday_jobs,
         "normalize_job": normalize_workday_job,

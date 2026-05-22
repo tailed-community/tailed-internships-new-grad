@@ -55,6 +55,15 @@ def load_company_sources(path: Path) -> list[dict[str, str]]:
         return rows
 
 
+def save_company_sources(path: Path, rows: list[dict[str, str]]) -> None:
+    fieldnames = ["company", "url", "enabled"]
+    with path.open("w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow({field: str(row.get(field, "")).strip() for field in fieldnames})
+
+
 def parse_enabled(raw_value: str) -> bool | None:
     value = raw_value.strip().lower()
     if value in TRUE_VALUES:
@@ -77,6 +86,8 @@ def detect_source(url: str) -> str | None:
     hostname = urlsplit(url).hostname or ""
     if "myworkdayjobs.com" in hostname.lower():
         return "workday"
+    if hostname.lower() in {"jobs.lever.co", "jobs.eu.lever.co"}:
+        return "lever"
     return None
 
 
@@ -96,6 +107,20 @@ def extract_workday_parts(url: str) -> tuple[str, str]:
     return tenant, site
 
 
+def extract_lever_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    path_segments = [segment for segment in parsed.path.split("/") if segment]
+    if not path_segments:
+        raise ValueError("missing Lever site slug in URL path")
+
+    slug = path_segments[0].strip().lower()
+    if not slug:
+        raise ValueError("missing Lever site slug in URL path")
+
+    canonical_url = urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), f"/{slug}", "", ""))
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site = extract_workday_parts(url)
     return {
@@ -109,10 +134,23 @@ def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, An
     }
 
 
+def build_lever_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_lever_parts(url)
+    return {
+        "company": company,
+        "source": "lever",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
         return build_workday_company(company, url, enabled)
+    if source == "lever":
+        return build_lever_company(company, url, enabled)
     return None
 
 
@@ -135,21 +173,30 @@ def main() -> None:
     source_rows = load_company_sources(csv_path)
     existing_companies = load_json_list(companies_path)
 
-    seen_urls: dict[str, str] = {}
-    seen_company_source_urls: set[tuple[str, str, str]] = set()
+    seen_urls: dict[str, tuple[str, str]] = {}
+    existing_index_by_company_source: dict[tuple[str, str], int] = {}
+    seen_csv_urls: dict[str, tuple[int, str]] = {}
+    seen_csv_company_sources: dict[tuple[str, str], int] = {}
+    cleaned_source_rows: list[dict[str, str]] = []
 
-    for company in existing_companies:
+    for index, company in enumerate(existing_companies):
         source = str(company.get("source", "")).strip().lower()
         company_name = str(company.get("company", "")).strip()
+        if not company_name or not source:
+            continue
+
+        company_source_key = (company_name.casefold(), source)
+        existing_index_by_company_source[company_source_key] = index
+
         raw_url = company.get("url")
-        if not company_name or not source or not isinstance(raw_url, str) or not raw_url.strip():
+        if not isinstance(raw_url, str) or not raw_url.strip():
             continue
 
         normalized_url = normalize_url(raw_url)
-        seen_urls.setdefault(normalized_url, company_name or source or "existing entry")
-        seen_company_source_urls.add((company_name.casefold(), source, normalized_url))
+        seen_urls.setdefault(normalized_url, company_source_key)
 
     added_count = 0
+    updated_count = 0
     skipped_count = 0
     warned_count = 0
 
@@ -157,53 +204,85 @@ def main() -> None:
         company_name = row.get("company", "").strip()
         raw_url = row.get("url", "").strip()
         raw_enabled = row.get("enabled", "").strip()
+        cleaned_csv_row = {
+            "company": company_name,
+            "url": raw_url,
+            "enabled": raw_enabled,
+        }
 
         if not company_name or not raw_url:
             warned_count += 1
             print(f"[warn] Row {index}: missing company or url, skipping.")
+            cleaned_source_rows.append(cleaned_csv_row)
             continue
+
+        normalized_url = normalize_url(raw_url)
+        source = detect_source(normalized_url)
+        previous_csv_url = seen_csv_urls.get(normalized_url)
+        if previous_csv_url is not None:
+            previous_row, previous_company = previous_csv_url
+            warned_count += 1
+            skipped_count += 1
+            print(
+                f"[warn] Row {index} ({company_name}): duplicate URL in "
+                f"data/company_sources.csv; first seen on row {previous_row} "
+                f"for {previous_company}. Skipping later row."
+            )
+            continue
+
+        seen_csv_urls[normalized_url] = (index, company_name)
 
         enabled = parse_enabled(raw_enabled)
         if enabled is None:
             warned_count += 1
             print(
                 f"[warn] Row {index} ({company_name}): unsupported enabled value "
-                f"'{raw_enabled}', skipping."
+                f"'{raw_enabled}', skipping company sync but keeping CSV row."
             )
+            cleaned_source_rows.append(cleaned_csv_row)
             continue
 
-        normalized_url = normalize_url(raw_url)
-        source = detect_source(normalized_url)
         if source is None:
             warned_count += 1
             print(
                 f"[warn] Row {index} ({company_name}): unsupported URL "
-                f"'{normalized_url}', skipping."
+                f"'{normalized_url}', skipping company sync but keeping CSV row."
+            )
+            cleaned_source_rows.append(
+                {
+                    "company": company_name,
+                    "url": normalized_url,
+                    "enabled": "true" if enabled else "false",
+                }
             )
             continue
 
-        company_source_url_key = (company_name.casefold(), source, normalized_url)
-        if normalized_url in seen_urls:
+        company_source_key = (company_name.casefold(), source)
+        previous_csv_company_source_row = seen_csv_company_sources.get(company_source_key)
+        if previous_csv_company_source_row is not None:
+            warned_count += 1
             skipped_count += 1
             print(
-                f"[skip] Row {index} ({company_name}): URL already exists in "
-                f"data/companies.json ({normalized_url})."
+                f"[warn] Row {index} ({company_name}): duplicate company/source entry in "
+                f"data/company_sources.csv; first seen on row {previous_csv_company_source_row}. "
+                f"Skipping later row."
             )
             continue
 
-        if company_source_url_key in seen_company_source_urls:
-            skipped_count += 1
-            print(
-                f"[skip] Row {index} ({company_name}): equivalent company/source/url "
-                f"entry already exists, skipping."
-            )
-            continue
+        seen_csv_company_sources[company_source_key] = index
 
         try:
             config = build_company_config(company_name, normalized_url, enabled)
         except ValueError as error:
             warned_count += 1
             print(f"[warn] Row {index} ({company_name}): {error}, skipping.")
+            cleaned_source_rows.append(
+                {
+                    "company": company_name,
+                    "url": normalized_url,
+                    "enabled": "true" if enabled else "false",
+                }
+            )
             continue
 
         if config is None:
@@ -212,20 +291,65 @@ def main() -> None:
                 f"[warn] Row {index} ({company_name}): unsupported URL "
                 f"'{normalized_url}', skipping."
             )
+            cleaned_source_rows.append(
+                {
+                    "company": company_name,
+                    "url": normalized_url,
+                    "enabled": "true" if enabled else "false",
+                }
+            )
             continue
 
-        existing_companies.append(config)
-        seen_urls[normalized_url] = company_name
-        seen_company_source_urls.add(company_source_url_key)
-        added_count += 1
-        print(f"[add] Row {index} ({company_name}): added {source} config.")
+        config_url = str(config.get("url", "")).strip()
+        if config_url:
+            existing_owner = seen_urls.get(config_url)
+            if existing_owner is not None and existing_owner != company_source_key:
+                skipped_count += 1
+                print(
+                    f"[skip] Row {index} ({company_name}): URL already belongs to "
+                    f"another company/source entry ({config_url})."
+                )
+                continue
+
+        cleaned_source_rows.append(
+            {
+                "company": company_name,
+                "url": config_url or normalized_url,
+                "enabled": "true" if enabled else "false",
+            }
+        )
+
+        existing_index = existing_index_by_company_source.get(company_source_key)
+        if existing_index is not None:
+            existing_entry = existing_companies[existing_index]
+            if existing_entry == config:
+                skipped_count += 1
+                print(
+                    f"[skip] Row {index} ({company_name}): company/source entry is "
+                    f"already up to date."
+                )
+                continue
+
+            existing_companies[existing_index] = config
+            updated_count += 1
+            print(f"[update] Row {index} ({company_name}): synced existing {source} config.")
+        else:
+            existing_companies.append(config)
+            existing_index_by_company_source[company_source_key] = len(existing_companies) - 1
+            added_count += 1
+            print(f"[add] Row {index} ({company_name}): added {source} config.")
+
+        if config_url:
+            seen_urls[config_url] = company_source_key
 
     sorted_companies = sort_company_configs(existing_companies)
+    save_company_sources(csv_path, cleaned_source_rows)
     save_json_list(companies_path, sorted_companies)
 
     print("\nCompany sync summary")
     print(f"- CSV rows processed: {len(source_rows)}")
     print(f"- Added: {added_count}")
+    print(f"- Updated: {updated_count}")
     print(f"- Skipped duplicates: {skipped_count}")
     print(f"- Warnings: {warned_count}")
     print(f"- Total companies saved: {len(sorted_companies)}")

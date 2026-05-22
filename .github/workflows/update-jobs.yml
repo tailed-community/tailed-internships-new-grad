@@ -31,11 +31,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for source in workday greenhouse lever; do
+          python scripts/sync_companies.py
+          for source in workday lever greenhouse; do
             echo "Running updater for source: $source"
-            if [ "$source" = "workday" ]; then
-              python scripts/sync_companies.py
-            fi
             python scripts/main.py --source "$source"
 
             git add data/company_sources.csv data/companies.json data/jobs.json data/archived.json README.md NEW_GRAD.md

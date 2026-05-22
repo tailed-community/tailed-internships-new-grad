@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+from datetime import datetime
 from datetime import date
 from typing import Any
 
@@ -507,6 +508,125 @@ def normalize_workday_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "source": source,
         "url": url,
         "date_posted": date_posted,
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }
+
+
+def _extract_lever_location_values(raw_job: dict[str, Any]) -> list[str]:
+    values: list[str] = []
+    categories = raw_job.get("categories")
+    if isinstance(categories, dict):
+        all_locations = categories.get("allLocations")
+        if isinstance(all_locations, list):
+            for entry in all_locations:
+                if isinstance(entry, str) and entry.strip():
+                    values.append(entry.strip())
+
+        location = categories.get("location")
+        if isinstance(location, str) and location.strip():
+            values.append(location.strip())
+
+    workplace_type = str(raw_job.get("workplaceType", "")).strip()
+    country = raw_job.get("country")
+    country_text = country.strip() if isinstance(country, str) and country.strip() else ""
+
+    if not values and workplace_type.lower() == "remote":
+        if country_text:
+            values.append(f"Remote, {country_text}")
+        else:
+            values.append("Remote")
+    elif not values and country_text:
+        values.append(country_text)
+
+    return values
+
+
+def _format_lever_locations(raw_job: dict[str, Any]) -> str:
+    cleaned: list[str] = []
+    seen: set[str] = set()
+
+    for value in _extract_lever_location_values(raw_job):
+        text = re.sub(r"\s+", " ", str(value or "").strip())
+        city_region_match = re.match(r"^(?P<city>[^,]+),\s*(?P<region>[A-Za-z]{2})$", text)
+        if city_region_match:
+            formatted = (
+                f"{_clean_city(city_region_match.group('city'))}, "
+                f"{city_region_match.group('region').upper()}"
+            )
+        else:
+            formatted = format_location_text(text)
+        if formatted == "Not specified":
+            continue
+
+        for part in [piece.strip() for piece in formatted.split(" / ") if piece.strip()]:
+            key = part.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            cleaned.append(part)
+
+    if not cleaned:
+        return "Not specified"
+    return " / ".join(cleaned)
+
+
+def _normalize_lever_created_at(raw_value: Any) -> str | None:
+    timestamp: float | None = None
+    if isinstance(raw_value, (int, float)):
+        timestamp = float(raw_value)
+    elif isinstance(raw_value, str) and raw_value.strip():
+        try:
+            timestamp = float(raw_value.strip())
+        except ValueError:
+            return None
+
+    if timestamp is None:
+        return None
+
+    if timestamp > 10_000_000_000:
+        timestamp /= 1000.0
+
+    try:
+        return datetime.utcfromtimestamp(timestamp).date().isoformat()
+    except (OverflowError, OSError, ValueError):
+        return None
+
+
+def normalize_lever_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("text", "Unknown")).strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "lever")).strip() or "lever"
+    location = _format_lever_locations(raw_job)
+    url = (
+        str(raw_job.get("hostedUrl", "")).strip()
+        or str(raw_job.get("applyUrl", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_lever_created_at(raw_job.get("createdAt")),
         "date_added": date.today().isoformat(),
         "active": True,
     }
