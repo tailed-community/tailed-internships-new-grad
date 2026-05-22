@@ -20,8 +20,16 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| Acceldata | Field Engineering Co-Op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f) |
+| Acceldata | Sales Engineering Co-Op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/ffd01330-b32f-4868-9390-3af135335ab0) |
+| Acceldata | Software Engineering Co-op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) |
+| Achievers | Content Co-op | Toronto | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/achievers/0deb9085-2be6-4f18-87cd-fc05cacff54f) |
+| Achievers | Product Marketing Co-op | Toronto | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/achievers/7e6b281a-e703-448f-ab21-2b21c515236e) |
+| Achievers | Software Engineering Co-op Roles - Fall 2026 | Toronto | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987) |
+| Achievers | Video & Social Media Co-op | Toronto | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/achievers/891462c9-cbbf-40dc-88c8-1e280e1c0e1a) |
 | Alcon | Engineering Student | Ireland | Not specified | 2026-05-22 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Cork-Ireland/Engineering-Student_R-2026-47247) |
 | Alcon | Student*in Medienwissenschaften/Medientechnik (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Qualitätssicherung (Schulungsteam) | Germany | Not specified | 2026-05-22 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Qualittssicherung--Schulungsteam-_R-2025-43263) |
+| Arc'teryx Equipment | Strategy Analyst Co-Op Student | BC (corporate) | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/arcteryx.com/212ced6f-1353-4e3b-9212-3f7053c1cfc5) |
 | BMO | Engagement & Enablement Specialist, Fall 2026 (Co-op/Internship)  -  4 months | Toronto, ON | Fall 2026 | 2026-05-22 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) |
 | Canadian Tire | Business Analyst Student | Mississauga, ON | Not specified | 2026-05-22 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student_JR161888) |
 | Ciena | FPGA Development Intern | Ottawa | Not specified | 2026-05-22 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/FPGA-Development-Intern_R030916) |
@@ -29,6 +37,19 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Disney Research Studio Intern | Switzerland | Not specified | 2026-05-22 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Zrich-Switzerland/Disney-Research-Studio-Intern_10150845) |
 | HPE | Business Process & Automation Intern | Ireland | Not specified | 2026-05-22 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Leixlip-Kildare-Ireland/Business-Process---Automation-Intern_1195782) |
 | Johnson Controls | Fire Systems PM Intern | Fargo-North Dakota-United States Of America | Not specified | 2026-05-22 | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Fargo-North-Dakota-United-States-of-America/Fire-Systems-PM-Intern_WD30270117) |
+| Larian Studios | Environment Artist Intern \| Artiste d’environnement stagiaire | QC | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/larian/d3400c04-f716-43f8-96bc-f000209670f8) |
+| Larian Studios | Gameplay Programmer Internship | Barcelona | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/larian/d546d9c3-ab0d-4c77-81d8-8b8388c158ff) |
+| Larian Studios | Internship - Tools Programmer | Kuala Lumpur | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) |
+| Larian Studios | Technical QA Tester Internship - Testeur QA technique stagiaire | QC | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/larian/840f47d9-ff56-46ca-bac9-f9287d433c14) |
+| Magnet Forensics | Cloud FinOps Co-op (Fall 2026) | Waterloo / ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/77ba9429-e0f5-401b-91e2-365d03b50c03) |
+| Magnet Forensics | Desktop Support Co-op (Fall 2026) | Waterloo / ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/ef65e553-24eb-43c6-9e3c-9e26e2d3c744) |
+| Magnet Forensics | Finance Co-op (Fall 2026) | Waterloo / Ottawa / ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/17c5d189-389c-42bc-8a13-357dfcfda07b) |
+| Magnet Forensics | HR Co-op (Fall 2026) | Waterloo | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/cba8ccea-4e25-41af-b5e4-c6981d286c27) |
+| Magnet Forensics | Security Analyst Co-op (Fall 2026) | ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/ee6df1ac-62ce-4c32-b7e5-4b3bf1dc9eb3) |
+| Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) |
+| Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) |
+| Magnet Forensics | Software Developer Engineer in Test Co-op (Fall 2026) | Halifax, NS | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809) |
+| Magnet Forensics | Technical Writer Co-op (Fall 2026) | Waterloo / Ottawa / ON | Fall 2026 | 2026-05-22 | [Apply](https://jobs.lever.co/magnetforensics/c6768213-6219-4e5a-afe8-a4b6563d2d52) |
 | Manulife | Intern | Wilayah Persekutuan Kuala Lumpur | Not specified | 2026-05-22 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Intern_JR26031120-1) |
 | Manulife | Manulife Co-op 6-Month Internship Program – Asia Marketing Strategy & Business Planning | Manulife Tower / Manulife Financial Centre | Not specified | 2026-05-22 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong-Manulife-Tower/Manulife-Co-op-6-Month-Internship-Program---Asia-Marketing-Strategy---Business-Planning_JR26051540) |
 | McGill University | Student Research Assistant | Mcgill College 2001 | Not specified | 2026-05-22 | [Apply](https://mcgill.wd3.myworkdayjobs.com/mcgill_careers/job/McGill-College-2001/Student-Research-Assistant_JR0000076389) |
@@ -44,6 +65,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Group Consultant Intern, RBC Group Advantage | Richmond, BC, Canada | Not specified | 2026-05-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/RICHMOND-British-Columbia-Canada/Group-Consultant-Intern--RBC-Group-Advantage_R-0000173476) |
 | RBC | Relationship Manager Intern, Business Markets | Smithers, BC, Canada / Terrace, BC, Canada | Not specified | 2026-05-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SMITHERS-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000173539) |
 | Unilever | Internship 26' - Internal Communications and Stakeholder Engagement (Hive) | Hive Wageningen | Not specified | 2026-05-22 | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hive-Wageningen/Internship-26----Internal-Communications-and-Stakeholder-Engagement--Hive-_R-1181939) |
+| Veeva Systems | Implementation Consultant Intern | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) |
+| Veeva Systems | Intern Business Consulting | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/561872bd-8a76-43b6-bf20-a1d05caa4223) |
+| Veeva Systems | Intern Technical Consultant | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0) |
+| Veeva Systems | Intern: Software Engineer in Test | Canada Toronto | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c) |
+| Veeva Systems | Marketing Intern | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/9e46bc41-632b-4f2a-920e-05c4b7625e53) |
+| Veeva Systems | Technology Consulting Intern (Hungary) - Entry-Level | Hungary Budapest | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a) |
 | 407 ETR | Data Governance Intern (May - August) | Woodbridge, ON | Not specified | 2026-05-21 | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Data-Governance-Intern--May---August-_JR101175) |
 | 407 ETR | Facilities - Summer Student | Woodbridge, ON | Summer | 2026-05-21 | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Facilities---Summer-Student_JR101195) |
 | 407 ETR | Information Security Intern | Woodbridge, ON | Not specified | 2026-05-21 | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Information-Security-Intern_JR101113) |
