@@ -56,6 +56,7 @@ Notes:
 
 - `data/companies.json` is generated runtime config and should not be edited by hand for normal company additions.
 - Contributors normally only need to edit `data/company_sources.csv`.
+- `python scripts/sync_companies.py` normalizes `data/company_sources.csv` and removes later duplicate rows, keeping the first occurrence.
 - Unsupported URLs are skipped by the sync script with a warning.
 - Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
