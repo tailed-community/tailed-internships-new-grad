@@ -593,6 +593,20 @@ def _normalize_lever_created_at(raw_value: Any) -> str | None:
         return None
 
 
+def _normalize_iso_date(raw_value: Any) -> str | None:
+    if not isinstance(raw_value, str):
+        return None
+
+    text = raw_value.strip()
+    if not text:
+        return None
+
+    try:
+        return datetime.fromisoformat(text.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        return None
+
+
 def normalize_lever_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
     company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
     title = str(raw_job.get("text", "Unknown")).strip() or "Unknown"
@@ -627,6 +641,57 @@ def normalize_lever_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "source": source,
         "url": url,
         "date_posted": _normalize_lever_created_at(raw_job.get("createdAt")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }
+
+
+def normalize_greenhouse_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("title", "Unknown")).strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "greenhouse")).strip() or "greenhouse"
+    location_data = raw_job.get("location")
+    location_text = ""
+    if isinstance(location_data, dict):
+        raw_name = location_data.get("name")
+        if isinstance(raw_name, str) and raw_name.strip():
+            location_text = raw_name.strip()
+    elif isinstance(location_data, str) and location_data.strip():
+        location_text = location_data.strip()
+
+    location = format_location_text(location_text) if location_text else "Not specified"
+    url = (
+        str(raw_job.get("absolute_url", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    date_posted = _normalize_iso_date(raw_job.get("first_published")) or _normalize_iso_date(
+        raw_job.get("updated_at")
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": date_posted,
         "date_added": date.today().isoformat(),
         "active": True,
     }

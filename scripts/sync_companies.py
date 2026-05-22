@@ -88,6 +88,8 @@ def detect_source(url: str) -> str | None:
         return "workday"
     if hostname.lower() in {"jobs.lever.co", "jobs.eu.lever.co"}:
         return "lever"
+    if hostname.lower() in {"boards.greenhouse.io", "boards-api.greenhouse.io"}:
+        return "greenhouse"
     return None
 
 
@@ -121,6 +123,26 @@ def extract_lever_parts(url: str) -> tuple[str, str]:
     return slug, canonical_url
 
 
+def extract_greenhouse_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    path_segments = [segment for segment in parsed.path.split("/") if segment]
+
+    slug = ""
+    if hostname == "boards.greenhouse.io":
+        if path_segments:
+            slug = path_segments[0].strip().lower()
+    elif hostname == "boards-api.greenhouse.io":
+        if len(path_segments) >= 3 and path_segments[0].lower() == "v1" and path_segments[1].lower() == "boards":
+            slug = path_segments[2].strip().lower()
+
+    if not slug:
+        raise ValueError("missing Greenhouse board token in URL path")
+
+    canonical_url = f"https://boards.greenhouse.io/{slug}"
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site = extract_workday_parts(url)
     return {
@@ -145,12 +167,25 @@ def build_lever_company(company: str, url: str, enabled: bool) -> dict[str, Any]
     }
 
 
+def build_greenhouse_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_greenhouse_parts(url)
+    return {
+        "company": company,
+        "source": "greenhouse",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
         return build_workday_company(company, url, enabled)
     if source == "lever":
         return build_lever_company(company, url, enabled)
+    if source == "greenhouse":
+        return build_greenhouse_company(company, url, enabled)
     return None
 
 
