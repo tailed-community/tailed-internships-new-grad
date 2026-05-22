@@ -765,6 +765,7 @@
   {
     "company": "Stripe",
     "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/stripe",
     "slug": "stripe",
     "enabled": false
   },
