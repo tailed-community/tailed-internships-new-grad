@@ -7,6 +7,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| ABB | R&D Early Career Program (US) 2026 Cohort | CT, United States / Virginia, United States / NC, United States / TN, United States / SC, United States | 2026 | 2026-05-23 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2026-Cohort_JR00032268) |
+| Adobe | 2026 University Graduate - Machine Learning Engineer | Seattle | 2026 | 2026-05-23 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133) |
+| Adobe | 2026 University Graduate - Research Scientist/Engineer | San Francisco | 2026 | 2026-05-23 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690) |
+| ASM Global | Transportation Control Analyst (Entry Level) | Houston, TX | Not specified | 2026-05-23 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Transportation-Control-Analyst--Entry-Level-_R100122599) |
+| Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | Not specified | 2026-05-23 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833) |
+| Capital One | Associate, Strategy Analyst - New Grad 2027 | Toronto, ON | 2027 | 2026-05-23 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1) |
+| Caterpillar | AMEP (Advanced Manufacturing Education Program) - Early Career | Indiana | Not specified | 2026-05-23 | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/AMEP--Advanced-Manufacturing-Education-Program----Early-Career_R0000358718) |
 | Telesat | Technologist, Montreal Teleport and Remote Operations- New Grad | Montreal, QC | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/telesat/16999cc7-0dac-42cf-b540-5432defb1d8f) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Berlin | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/876642c1-f063-492e-aab4-16d650b9da33) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Frankfurt | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/d07a89ac-a962-47ee-abb2-78ffe7aa5f4c) |

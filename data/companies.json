@@ -20,6 +20,26 @@
     ]
   },
   {
+    "company": "ABB",
+    "source": "workday",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page",
+    "tenant": "abb",
+    "site": "external_career_page",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Acceldata",
     "source": "lever",
     "url": "https://jobs.lever.co/acceldata",
@@ -32,6 +52,26 @@
     "url": "https://jobs.lever.co/achievers",
     "slug": "achievers",
     "enabled": true
+  },
+  {
+    "company": "Adobe",
+    "source": "workday",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "tenant": "adobe",
+    "site": "external_experienced",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   },
   {
     "company": "AIMCo",
@@ -74,6 +114,26 @@
     ]
   },
   {
+    "company": "Aptiv",
+    "source": "workday",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers",
+    "tenant": "aptiv",
+    "site": "aptiv_careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Arc'teryx Equipment",
     "source": "lever",
     "url": "https://jobs.lever.co/arcteryx.com",
@@ -81,11 +141,71 @@
     "enabled": true
   },
   {
+    "company": "ASM Global",
+    "source": "workday",
+    "url": "https://asmglobal.wd1.myworkdayjobs.com/careers",
+    "tenant": "asmglobal",
+    "site": "careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Autodesk",
+    "source": "workday",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "tenant": "autodesk",
+    "site": "Ext",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "AVEVA",
     "source": "workday",
     "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
     "tenant": "aveva",
     "site": "AVEVA_careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "BCI",
+    "source": "workday",
+    "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers",
+    "tenant": "bci",
+    "site": "BCI_Careers",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -148,11 +268,51 @@
     ]
   },
   {
+    "company": "Bio-Techne",
+    "source": "workday",
+    "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne",
+    "tenant": "biotechne",
+    "site": "en-US",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Biogen",
     "source": "workday",
     "url": "https://biibhr.wd3.myworkdayjobs.com/external",
     "tenant": "biibhr",
     "site": "external",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "BlackBerry",
+    "source": "workday",
+    "url": "https://bb.wd3.myworkdayjobs.com/Student",
+    "tenant": "bb",
+    "site": "Student",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -188,11 +348,71 @@
     ]
   },
   {
+    "company": "BMO (Campus)",
+    "source": "workday",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus",
+    "tenant": "bmo",
+    "site": "Campus",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "BMO (External)",
+    "source": "workday",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External",
+    "tenant": "bmo",
+    "site": "External",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "CAE",
     "source": "workday",
     "url": "https://cae.wd3.myworkdayjobs.com/career",
     "tenant": "cae",
     "site": "career",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Calix",
+    "source": "workday",
+    "url": "https://calix.wd1.myworkdayjobs.com/External",
+    "tenant": "calix",
+    "site": "External",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -226,6 +446,53 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Capital One",
+    "source": "workday",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+    "tenant": "capitalone",
+    "site": "Capital_One",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Caterpillar",
+    "source": "workday",
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
+    "tenant": "cat",
+    "site": "CaterpillarCareers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Cerebras",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cerebras",
+    "slug": "cerebras",
+    "enabled": true
   },
   {
     "company": "CIBC",
@@ -312,6 +579,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/eqbank",
     "slug": "eqbank",
+    "enabled": true
+  },
+  {
+    "company": "Faire",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/faire",
+    "slug": "faire",
     "enabled": true
   },
   {
@@ -763,11 +1037,18 @@
     "enabled": false
   },
   {
+    "company": "Squarepoint Capital",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/squarepointcapital",
+    "slug": "squarepointcapital",
+    "enabled": true
+  },
+  {
     "company": "Stripe",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/stripe",
     "slug": "stripe",
-    "enabled": false
+    "enabled": true
   },
   {
     "company": "Sun Life",
