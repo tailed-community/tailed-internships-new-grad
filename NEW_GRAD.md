@@ -14,6 +14,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | Not specified | 2026-05-23 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833) |
 | Capital One | Associate, Strategy Analyst - New Grad 2027 | Toronto, ON | 2027 | 2026-05-23 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1) |
 | Caterpillar | AMEP (Advanced Manufacturing Education Program) - Early Career | Indiana | Not specified | 2026-05-23 | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/AMEP--Advanced-Manufacturing-Education-Program----Early-Career_R0000358718) |
+| Stripe | Operations Associate, New Grad (Mexico) | Mexico | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7544547) |
+| Stripe | Software Engineering, New Grad | Singapore | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7176977) |
+| Stripe | Tech Operations Associate, New Grad (Mexico) | Mexico | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7718947) |
 | Telesat | Technologist, Montreal Teleport and Remote Operations- New Grad | Montreal, QC | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/telesat/16999cc7-0dac-42cf-b540-5432defb1d8f) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Berlin | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/876642c1-f063-492e-aab4-16d650b9da33) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Frankfurt | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/d07a89ac-a962-47ee-abb2-78ffe7aa5f4c) |
