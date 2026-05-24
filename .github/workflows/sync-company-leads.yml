@@ -1,0 +1,41 @@
+name: Sync Company Leads
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-company-leads:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sync discovery leads
+        run: |
+          python scripts/sync_company_leads.py --promote-ready
+          python scripts/sync_companies.py
+
+      - name: Commit lead updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/glassdoor_leads.csv data/company_leads.json data/company_sources.csv data/companies.json
+          if git diff --cached --quiet; then
+            echo "No company lead changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: sync company leads"
+          git pull --rebase
+          git push

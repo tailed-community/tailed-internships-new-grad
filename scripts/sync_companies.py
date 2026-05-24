@@ -88,7 +88,7 @@ def detect_source(url: str) -> str | None:
         return "workday"
     if hostname.lower() in {"jobs.lever.co", "jobs.eu.lever.co"}:
         return "lever"
-    if hostname.lower() in {"boards.greenhouse.io", "boards-api.greenhouse.io"}:
+    if hostname.lower() in {"boards.greenhouse.io", "job-boards.greenhouse.io", "boards-api.greenhouse.io"}:
         return "greenhouse"
     return None
 
@@ -129,7 +129,7 @@ def extract_greenhouse_parts(url: str) -> tuple[str, str]:
     path_segments = [segment for segment in parsed.path.split("/") if segment]
 
     slug = ""
-    if hostname == "boards.greenhouse.io":
+    if hostname in {"boards.greenhouse.io", "job-boards.greenhouse.io"}:
         if path_segments:
             slug = path_segments[0].strip().lower()
     elif hostname == "boards-api.greenhouse.io":
