@@ -488,6 +488,26 @@
     ]
   },
   {
+    "company": "CDPQ",
+    "source": "workday",
+    "url": "https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire",
+    "tenant": "cdpq",
+    "site": "fr-CA",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Cerebras",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/cerebras",
@@ -555,6 +575,26 @@
     ]
   },
   {
+    "company": "Desjardins",
+    "source": "workday",
+    "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins",
+    "tenant": "desjardins",
+    "site": "Desjardins",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Disney",
     "source": "workday",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer",
@@ -594,6 +634,66 @@
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm",
     "tenant": "generalmotors",
     "site": "careers_gm",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "GTS GBU",
+    "source": "workday",
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers",
+    "tenant": "gtsgbu",
+    "site": "Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Harris Computer",
+    "source": "workday",
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1",
+    "tenant": "harriscomputer",
+    "site": "1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Hitachi",
+    "source": "workday",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi",
+    "tenant": "hitachi",
+    "site": "hitachi",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -694,6 +794,46 @@
     "url": "https://intactfc.wd3.myworkdayjobs.com/intactfc",
     "tenant": "intactfc",
     "site": "intactfc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Intact (en-US)",
+    "source": "workday",
+    "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc",
+    "tenant": "intactfc",
+    "site": "en-US",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Intel",
+    "source": "workday",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external",
+    "tenant": "intel",
+    "site": "en-us",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -988,6 +1128,46 @@
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1",
     "tenant": "rbc",
     "site": "RBCGLOBAL1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "RTX",
+    "source": "workday",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway",
+    "tenant": "globalhr",
+    "site": "rec_rtx_ext_gateway",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "RTX (en-US)",
+    "source": "workday",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway",
+    "tenant": "globalhr",
+    "site": "en-US",
     "enabled": true,
     "search_terms": [
       "intern",
