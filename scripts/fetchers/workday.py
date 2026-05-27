@@ -18,6 +18,24 @@ SEARCH_TERM_EQUIVALENT_GROUPS: tuple[tuple[str, ...], ...] = (
 )
 
 
+def _extract_workday_site_from_url(raw_url: str) -> str:
+    parsed = urlparse(raw_url)
+    path_segments = [segment for segment in parsed.path.split("/") if segment]
+    if not path_segments:
+        return ""
+
+    canonical_segments = path_segments
+    for index, segment in enumerate(path_segments):
+        if segment.lower() == "job":
+            canonical_segments = path_segments[:index]
+            break
+
+    if not canonical_segments:
+        return ""
+
+    return canonical_segments[-1]
+
+
 def build_workday_jobs_url(company: dict[str, Any]) -> str:
     """Build the Workday jobs endpoint URL for a company config."""
     raw_url = str(company.get("url", "")).strip()
@@ -34,7 +52,7 @@ def build_workday_jobs_url(company: dict[str, Any]) -> str:
     if not tenant:
         tenant = parsed.netloc.split(".")[0]
     if not site:
-        site = parsed.path.strip("/").split("/")[0]
+        site = _extract_workday_site_from_url(raw_url)
 
     if not tenant or not site:
         raise ValueError("Could not determine Workday tenant/site from company config.")
@@ -119,7 +137,7 @@ def build_workday_detail_url(company: dict[str, Any], external_path: str) -> str
     origin = f"{parsed.scheme}://{parsed.netloc}"
 
     tenant = str(company.get("tenant", "")).strip() or parsed.netloc.split(".")[0]
-    site = str(company.get("site", "")).strip() or parsed.path.strip("/").split("/")[0]
+    site = str(company.get("site", "")).strip() or _extract_workday_site_from_url(raw_url)
     if not tenant or not site:
         raise ValueError("Could not determine Workday tenant/site from company config.")
 

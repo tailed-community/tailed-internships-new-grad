@@ -88,12 +88,16 @@ def detect_source(url: str) -> str | None:
         return "workday"
     if hostname.lower() in {"jobs.lever.co", "jobs.eu.lever.co"}:
         return "lever"
-    if hostname.lower() in {"boards.greenhouse.io", "boards-api.greenhouse.io"}:
+    if hostname.lower() in {
+        "boards.greenhouse.io",
+        "boards-api.greenhouse.io",
+        "job-boards.greenhouse.io",
+    }:
         return "greenhouse"
     return None
 
 
-def extract_workday_parts(url: str) -> tuple[str, str]:
+def extract_workday_parts(url: str) -> tuple[str, str, str]:
     parsed = urlsplit(url)
     hostname = parsed.hostname or ""
     segments = hostname.split(".")
@@ -104,9 +108,27 @@ def extract_workday_parts(url: str) -> tuple[str, str]:
     if not path_segments:
         raise ValueError("missing Workday site in URL path")
 
+    canonical_segments = path_segments
+    for index, segment in enumerate(path_segments):
+        if segment.lower() == "job":
+            canonical_segments = path_segments[:index]
+            break
+
+    if not canonical_segments:
+        raise ValueError("missing Workday site in URL path")
+
     tenant = segments[0].lower()
-    site = path_segments[0]
-    return tenant, site
+    site = canonical_segments[-1]
+    canonical_url = urlunsplit(
+        (
+            parsed.scheme.lower(),
+            parsed.netloc.lower(),
+            f"/{'/'.join(canonical_segments)}",
+            "",
+            "",
+        )
+    )
+    return tenant, site, canonical_url
 
 
 def extract_lever_parts(url: str) -> tuple[str, str]:
@@ -129,7 +151,7 @@ def extract_greenhouse_parts(url: str) -> tuple[str, str]:
     path_segments = [segment for segment in parsed.path.split("/") if segment]
 
     slug = ""
-    if hostname == "boards.greenhouse.io":
+    if hostname in {"boards.greenhouse.io", "job-boards.greenhouse.io"}:
         if path_segments:
             slug = path_segments[0].strip().lower()
     elif hostname == "boards-api.greenhouse.io":
@@ -144,11 +166,11 @@ def extract_greenhouse_parts(url: str) -> tuple[str, str]:
 
 
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
-    tenant, site = extract_workday_parts(url)
+    tenant, site, canonical_url = extract_workday_parts(url)
     return {
         "company": company,
         "source": "workday",
-        "url": url,
+        "url": canonical_url,
         "tenant": tenant,
         "site": site,
         "enabled": enabled,
