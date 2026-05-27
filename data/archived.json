@@ -4912,5 +4912,33 @@
     "date_added": "2026-05-21",
     "active": false,
     "date_archived": "2026-05-27"
+  },
+  {
+    "id": "lever-achievers-0deb9085-2be6-4f18-87cd-fc05cacff54f",
+    "company": "Achievers",
+    "title": "Content Co-op",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/achievers/0deb9085-2be6-4f18-87cd-fc05cacff54f",
+    "date_posted": "2026-04-13",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-05-27"
+  },
+  {
+    "id": "lever-achievers-891462c9-cbbf-40dc-88c8-1e280e1c0e1a",
+    "company": "Achievers",
+    "title": "Video & Social Media Co-op",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/achievers/891462c9-cbbf-40dc-88c8-1e280e1c0e1a",
+    "date_posted": "2026-04-13",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-05-27"
   }
 ]
