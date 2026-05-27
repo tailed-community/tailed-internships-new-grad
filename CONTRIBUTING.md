@@ -35,7 +35,7 @@ Current support:
 
 - Workday URLs on `myworkdayjobs.com`
 - Lever URLs on `jobs.lever.co`
-- Greenhouse-hosted board URLs on `boards.greenhouse.io`
+- Greenhouse-hosted board URLs on `boards.greenhouse.io` and `job-boards.greenhouse.io`
 
 Automation flow:
 
@@ -48,6 +48,16 @@ Optional local command:
 ```bash
 python scripts/sync_companies.py
 ```
+
+Discovery command:
+
+```bash
+python scripts/sync_company_leads.py
+```
+
+This fetches Simplify's public listings feed and writes supported ATS company leads to:
+
+- `data/company_leads.csv`
 
 This regenerates:
 
