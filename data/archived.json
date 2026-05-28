@@ -5514,5 +5514,19 @@
     "date_added": "2026-05-22",
     "active": false,
     "date_archived": "2026-05-28"
+  },
+  {
+    "id": "greenhouse-stripe-7216664",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "location": "Seattle",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://stripe.com/jobs/search?gh_jid=7216664",
+    "date_posted": "2025-09-02",
+    "date_added": "2026-05-23",
+    "active": false,
+    "date_archived": "2026-05-28"
   }
 ]
