@@ -513,8 +513,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Relationship Manager, Business Markets, Intern | Saguenay | Not specified | 2026-05-23 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/345-RUE-DES-SAGUENENS-FLOOR-2SAGUENAY/Relationship-Manager--Business-Markets--Intern_R-0000161908-1) |
 | Squarepoint Capital | Intern Software Developer - Fall 2026 | Montreal | Fall 2026 | 2026-05-23 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 | Squarepoint Capital | Intern Software Developer - Summer 2026 | Warsaw | Summer 2026 | 2026-05-23 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) |
-| Stripe | PhD Data Scientist, Intern | Toronto, ON, Canada | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7285974) |
 | Stripe | PhD Data Scientist, Intern | Chicago | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) |
+| Stripe | PhD Data Scientist, Intern | Toronto, ON, Canada | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7285974) |
 | Stripe | Software Engineer, Intern | Australia | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7532256) |
 | Sun Life | Student, Solution Architect (Fall 2026) | Toronto, ON / Waterloo, ON | Fall 2026 | 2026-05-23 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Solution-Architect--Fall-2026-_JR00124055) |
 | Acceldata | Field Engineering Co-Op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f) |
