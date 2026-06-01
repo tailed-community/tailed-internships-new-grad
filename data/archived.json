@@ -8230,5 +8230,33 @@
     "date_added": "2026-06-01",
     "active": false,
     "date_archived": "2026-06-01"
+  },
+  {
+    "id": "lever-magnet-forensics-77ba9429-e0f5-401b-91e2-365d03b50c03",
+    "company": "Magnet Forensics",
+    "title": "Cloud FinOps Co-op (Fall 2026)",
+    "location": "Waterloo / ON",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/magnetforensics/77ba9429-e0f5-401b-91e2-365d03b50c03",
+    "date_posted": "2026-04-16",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-06-01"
+  },
+  {
+    "id": "lever-magnet-forensics-cba8ccea-4e25-41af-b5e4-c6981d286c27",
+    "company": "Magnet Forensics",
+    "title": "HR Co-op (Fall 2026)",
+    "location": "Waterloo",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/magnetforensics/cba8ccea-4e25-41af-b5e4-c6981d286c27",
+    "date_posted": "2026-04-16",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-06-01"
   }
 ]
