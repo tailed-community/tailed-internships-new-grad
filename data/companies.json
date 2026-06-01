@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [
   {
     "company": "407 ETR",
@@ -1427,6 +1428,8 @@
   }
 ]
 =======
+=======
+>>>>>>> fbadb7b5f51f10dc7e33be4cdc3534c092db49b5
 [
   {
     "company": "1-800 Contacts",
@@ -27386,4 +27389,7 @@
     "enabled": true
   }
 ]
+<<<<<<< HEAD
 >>>>>>> fbadb7b (feat: add company leads and simplify company sources)
+=======
+>>>>>>> fbadb7b5f51f10dc7e33be4cdc3534c092db49b5
