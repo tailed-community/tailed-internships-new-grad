@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| RTX (en-US) | Finance Analyst, Program Cost Controls (Entry Level) *HYBRID* | US-Ma-Andover-An0 ~ 366 Lowell St ~ Bldg An0 | Not specified | 2026-06-01 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Finance-Analyst--Program-Cost-Controls--Entry-Level---HYBRID-_01846761) |
 | Adobe | 2026 University Graduate –Business Development Representative | San Jose / San Francisco / Austin / Mclean / Los Angeles / Lehi / New York | 2026 | 2026-05-30 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate--Business-Development-Representative_R159369) |
 | BDO | Junior Accountant, Assurance – Edmonton – January 2027 (New Grad) | Edmonton 103 St | 2027 | 2026-05-30 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---January-2027--New-Grad-_JR5882) |
 | BDO | Junior Accountant, Assurance – Edmonton – September 2027 (New Grad) | Edmonton 103 St | 2027 | 2026-05-30 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884) |
