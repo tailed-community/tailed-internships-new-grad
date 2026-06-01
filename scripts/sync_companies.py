@@ -25,8 +25,20 @@ FALSE_VALUES = {"false", "no", "0"}
 
 
 def load_json_list(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+
     with path.open("r", encoding="utf-8") as file:
-        data = json.load(file)
+        raw_text = file.read()
+
+    if not raw_text.strip():
+        return []
+
+    try:
+        data = json.loads(raw_text)
+    except json.JSONDecodeError as error:
+        print(f"[warn] Could not parse '{path}': {error}. Rebuilding from CSV.")
+        return []
 
     if not isinstance(data, list):
         raise ValueError(f"Expected a JSON list in '{path}'.")
