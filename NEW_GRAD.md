@@ -510,9 +510,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
@@ -522,10 +522,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) |
-| Olsson | Entry-Level Surveyor | Grand Island, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5193754008) |
 | Olsson | Entry-Level Surveyor | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5209150008) |
-| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
+| Olsson | Entry-Level Surveyor | Grand Island, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5193754008) |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5214970008) |
+| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
 | Oshkosh | Motorsports Electronics Engineer - Entry Level | Michigan, United States | Not specified | 2026-06-02 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Motorsports-Electronics-Engineer---Entry-Level_R45181) |
 | Otis Worldwide | Entry Level Electrical Engineer | Farmington, CT | Not specified | 2026-06-02 | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Entry-Level-Electrical-Engineer_20156950) |
 | Pacific Life | Early Career Talent Partner | Omaha Ne-6750 | Not specified | 2026-06-02 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Omaha-NE-6750/Early-Career-Talent-Partner_R15950) |
@@ -554,7 +554,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tallahassee, FL | Orlando Sales Office | Not specified | 2026-06-02 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/ORLANDO-SALES-OFFICE/Field-Service-Technician--Entry-Level----Tallahassee--FL_R000149707) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | Not specified | 2026-06-02 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000144362) |
 | Prysmian Cables & Systems | Build the Future - Graduate Program | Düsseldorf | Not specified | 2026-06-02 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Dsseldorf/Build-the-Future---Graduate-Program_R-27299) |
-| QGenda | Implementation Consultant, New Grad 2026 | Georgia | 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/qgenda/jobs/5184517008) |
+| QGenda | Implementation Consultant - New Grad 2026 | Georgia | 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/qgenda/jobs/5222806008) |
 | QGenda | QGenda Technical Engineer - New Grad 2026 | Georgia | 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/qgenda/jobs/5226438008) |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | Not specified | 2026-06-02 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102147-1) |
 | Rakuten International | Early Career AI Engineer (Contract) | Washington / California | Not specified | 2026-06-02 | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031936) |
