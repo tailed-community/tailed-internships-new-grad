@@ -36,6 +36,7 @@ Current support:
 - Workday URLs on `myworkdayjobs.com`
 - Lever URLs on `jobs.lever.co`
 - Greenhouse-hosted board URLs on `boards.greenhouse.io` and `job-boards.greenhouse.io`
+- Ashby URLs on `jobs.ashbyhq.com`
 
 Automation flow:
 
@@ -70,6 +71,7 @@ Notes:
 - `python scripts/sync_companies.py` normalizes `data/company_sources.csv` and removes later duplicate rows, keeping the first occurrence.
 - Unsupported URLs are skipped by the sync script with a warning.
 - For Greenhouse, use the board URL form `https://boards.greenhouse.io/<board-token>`.
+- For Ashby, use the board URL form `https://jobs.ashbyhq.com/<job-board-name>`.
 - Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
 ## Pull Request Guidelines

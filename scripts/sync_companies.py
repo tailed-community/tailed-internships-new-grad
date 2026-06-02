@@ -4,6 +4,8 @@ import csv
 import json
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
+from urllib.parse import unquote
 from urllib.parse import urlsplit, urlunsplit
 
 
@@ -95,17 +97,28 @@ def normalize_url(raw_url: str) -> str:
 
 
 def detect_source(url: str) -> str | None:
-    hostname = urlsplit(url).hostname or ""
-    if "myworkdayjobs.com" in hostname.lower():
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    path_segments = [segment for segment in parsed.path.split("/") if segment]
+    if "myworkdayjobs.com" in hostname:
         return "workday"
-    if hostname.lower() in {"jobs.lever.co", "jobs.eu.lever.co"}:
+    if hostname in {"jobs.lever.co", "jobs.eu.lever.co"}:
         return "lever"
-    if hostname.lower() in {
+    if hostname in {
         "boards.greenhouse.io",
         "boards-api.greenhouse.io",
         "job-boards.greenhouse.io",
     }:
         return "greenhouse"
+    if hostname == "jobs.ashbyhq.com":
+        return "ashby"
+    if (
+        hostname == "api.ashbyhq.com"
+        and len(path_segments) >= 3
+        and path_segments[0].lower() == "posting-api"
+        and path_segments[1].lower() == "job-board"
+    ):
+        return "ashby"
     return None
 
 
@@ -177,6 +190,30 @@ def extract_greenhouse_parts(url: str) -> tuple[str, str]:
     return slug, canonical_url
 
 
+def extract_ashby_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    path_segments = [segment for segment in parsed.path.split("/") if segment]
+
+    slug = ""
+    if hostname == "jobs.ashbyhq.com":
+        if path_segments:
+            slug = unquote(path_segments[0]).strip()
+    elif hostname == "api.ashbyhq.com":
+        if (
+            len(path_segments) >= 3
+            and path_segments[0].lower() == "posting-api"
+            and path_segments[1].lower() == "job-board"
+        ):
+            slug = unquote(path_segments[2]).strip()
+
+    if not slug:
+        raise ValueError("missing Ashby job board name in URL path")
+
+    canonical_url = f"https://jobs.ashbyhq.com/{quote(slug, safe='')}"
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -212,6 +249,17 @@ def build_greenhouse_company(company: str, url: str, enabled: bool) -> dict[str,
     }
 
 
+def build_ashby_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_ashby_parts(url)
+    return {
+        "company": company,
+        "source": "ashby",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -220,6 +268,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_lever_company(company, url, enabled)
     if source == "greenhouse":
         return build_greenhouse_company(company, url, enabled)
+    if source == "ashby":
+        return build_ashby_company(company, url, enabled)
     return None
 
 
