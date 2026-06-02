@@ -12262,5 +12262,33 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-02"
+  },
+  {
+    "id": "lever-gomaterials-dd1e004f-09d5-401e-906b-3b605dc6f0ca",
+    "company": "GoMaterials",
+    "title": "Product & AI Enablement Intern - Fall 2026",
+    "location": "Montreal, QC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/gomaterials/dd1e004f-09d5-401e-906b-3b605dc6f0ca",
+    "date_posted": "2026-01-21",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-02"
+  },
+  {
+    "id": "lever-nextech-systems-324358a7-c8f0-4cba-935e-5537c223a50e",
+    "company": "Nextech Systems",
+    "title": "Support Operations Intern ( Summer 2026 Internship) -  Remote United States",
+    "location": "Remote",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/nextech/324358a7-c8f0-4cba-935e-5537c223a50e",
+    "date_posted": "2026-04-13",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-02"
   }
 ]
