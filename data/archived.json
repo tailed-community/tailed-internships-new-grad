@@ -17960,5 +17960,61 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-03"
+  },
+  {
+    "id": "lever-crest-industries-cf29ac3e-9616-4f52-8db9-117af17e2235",
+    "company": "Crest Industries",
+    "title": "Accounting Internship 2026",
+    "location": "Louisiana",
+    "type": "internship",
+    "season": "2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/crestoperations/cf29ac3e-9616-4f52-8db9-117af17e2235",
+    "date_posted": "2026-04-14",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-03"
+  },
+  {
+    "id": "lever-ekimetrics-f3a69057-b214-47e0-9ac7-bc097bd7bb28",
+    "company": "Ekimetrics",
+    "title": "Stage finance - contrôle de gestion Groupe (H/F/N) 6 mois",
+    "location": "Paris",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/ekimetrics/f3a69057-b214-47e0-9ac7-bc097bd7bb28",
+    "date_posted": "2024-10-31",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-03"
+  },
+  {
+    "id": "lever-nextech-systems-638d0d9b-7ae7-4949-bf8c-2d4cd483aaa8",
+    "company": "Nextech Systems",
+    "title": "Sales  Intern ( Summer 2026 Internship) -  Remote United States",
+    "location": "Remote",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/nextech/638d0d9b-7ae7-4949-bf8c-2d4cd483aaa8",
+    "date_posted": "2025-03-31",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-03"
+  },
+  {
+    "id": "lever-woven-b6bb0a14-829c-45d6-b64d-7ddaeb1851b3",
+    "company": "Woven",
+    "title": "Software Engineer, ML Platform (Internship)",
+    "location": "Ann Arbor, MI",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/woven-by-toyota/b6bb0a14-829c-45d6-b64d-7ddaeb1851b3",
+    "date_posted": "2026-02-14",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-03"
   }
 ]
