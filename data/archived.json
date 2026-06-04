@@ -23588,5 +23588,33 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-04"
+  },
+  {
+    "id": "lever-level-ai-c1552b67-fc00-4dd8-9d8e-fd18427e31b3",
+    "company": "Level AI",
+    "title": "Research Intern – Reinforcement Learning (RL) - Onsite",
+    "location": "California",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/levelai/c1552b67-fc00-4dd8-9d8e-fd18427e31b3",
+    "date_posted": "2026-03-28",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-04"
+  },
+  {
+    "id": "lever-shield-ai-1721f9b3-b098-4988-bbb6-2d0382936be5",
+    "company": "Shield AI",
+    "title": "2026 Summer Intern - Strategy & Operations (R5065)",
+    "location": "California",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/shieldai/1721f9b3-b098-4988-bbb6-2d0382936be5",
+    "date_posted": "2026-05-23",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-04"
   }
 ]
