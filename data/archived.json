@@ -28922,5 +28922,47 @@
     "date_added": "2026-05-27",
     "active": false,
     "date_archived": "2026-06-05"
+  },
+  {
+    "id": "lever-ekimetrics-1adedc7c-2cda-4469-9c1e-b94a01aa6168",
+    "company": "Ekimetrics",
+    "title": "Stage septembre 2026 - Data Science et Machine Learning/AI practitionner (H/F/N) (50% client, 50% R&D)",
+    "location": "Paris",
+    "type": "internship",
+    "season": "2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/ekimetrics/1adedc7c-2cda-4469-9c1e-b94a01aa6168",
+    "date_posted": "2026-05-05",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-05"
+  },
+  {
+    "id": "lever-hrl-laboratories-63f16a4f-7d1a-42f4-9f06-0c83b3e45a7e",
+    "company": "HRL Laboratories",
+    "title": "Monte Carlo Modeling - Doctorate Intern",
+    "location": "Malibu, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/dodmg/63f16a4f-7d1a-42f4-9f06-0c83b3e45a7e",
+    "date_posted": "2026-05-07",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-05"
+  },
+  {
+    "id": "lever-zoox-5f93a602-bd61-4cec-8244-71c9d9efe61a",
+    "company": "Zoox",
+    "title": "Payment Operations Intern",
+    "location": "Foster City, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/zoox/5f93a602-bd61-4cec-8244-71c9d9efe61a",
+    "date_posted": "2026-05-27",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-05"
   }
 ]
