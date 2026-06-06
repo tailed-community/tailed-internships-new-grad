@@ -78,6 +78,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company | Entry Level Site Operations Support - Tool Coordinator | USA Jacksonville, FL | Not specified | 2026-06-04 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Jacksonville-FL/Entry-Level-Site-Operations-Support---Tool-Coordinator_JR2026509063) |
 | The Boeing Company | F-15 Industrial Engineer (Entry-Level or Associate) | USA Berkeley, MO | Not specified | 2026-06-04 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Industrial-Engineer--Entry-Level-or-Associate-_JR2026510254) |
 | Tyson Foods | Entry Level General Production- Full Time-2nd Shift- Nashville AR- June | Arkansas | Not specified | 2026-06-04 | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Nashville-Plant---Nashville-Arkansas/Entry-Level-General-Production--Full-Time-2nd-Shift--Nashville-AR--June_R0465409-2) |
+| Uber Freight | Junior Accounts Payable/Receivable Specialist (New Grad Welcome) | Mexico | Not specified | 2026-06-04 | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5205786008) |
 | United Parcel Service (UPS) | Entry-Level Industrial Engineer (3PL Distribution Center) | US Shepherdsville 2 (kysp2) | Not specified | 2026-06-04 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---SHEPHERDSVILLE-2-KYSP2/Entry-Level-Industrial-Engineer--3PL-Distribution-Center-_R26018020) |
 | Barr | Environmental Permitting Specialist – Entry Level (Hybrid) | Duluth, MN | Not specified | 2026-06-03 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Duluth-MN/Environmental-Permitting-Specialist---Entry-Level--Hybrid-_R-102131) |
 | Cirrus Logic | Entry Level Product Test Engineer | Texas | Not specified | 2026-06-03 | [Apply](https://jobs.eu.lever.co/cirrus/a36883af-c4ca-4e2d-a3ff-de9d094708bd) |
@@ -543,9 +544,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
@@ -640,8 +641,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
 | SS&C | Investor Services Representative - Entry Level | Kansas City, MO / United States Remote | Not specified | 2026-06-02 | [Apply](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kansas-City-MO/Investor-Services-Representative_R37129) |
 | State Street | 2027 New Graduate, Corporate Actions, Associate 1 | Japan | 2027 | 2026-06-02 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2026-New-Graduate--Corporate-Actions--Associate-1_R-784582) |
