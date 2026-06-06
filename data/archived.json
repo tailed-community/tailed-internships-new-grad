@@ -38722,5 +38722,33 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-06"
+  },
+  {
+    "id": "lever-fehr-peers-301fc75a-11a2-4394-8b3c-e5174ce372d6",
+    "company": "Fehr & Peers",
+    "title": "Entry-Level Transportation Creative Studio Planner",
+    "location": "California",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/fehrandpeers/301fc75a-11a2-4394-8b3c-e5174ce372d6",
+    "date_posted": "2026-04-10",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-06"
+  },
+  {
+    "id": "lever-gomaterials-804829ec-abaa-4218-8baf-c5be1b35e8d0",
+    "company": "GoMaterials",
+    "title": "Sales Intern - Fall 2026",
+    "location": "Montreal, QC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/gomaterials/804829ec-abaa-4218-8baf-c5be1b35e8d0",
+    "date_posted": "2025-12-17",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-06"
   }
 ]
