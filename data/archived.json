@@ -38850,20 +38850,6 @@
     "date_archived": "2026-06-06"
   },
   {
-    "id": "greenhouse-wpp-media-5073761008",
-    "company": "WPP Media",
-    "title": "Stage Consultant Média F/H",
-    "location": "Paris, France",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5073761008",
-    "date_posted": "2026-01-16",
-    "date_added": "2026-06-02",
-    "active": false,
-    "date_archived": "2026-06-06"
-  },
-  {
     "id": "workday-abb-job-apodaca-nuevo-len-mexico-warehouse-internal-logistics-internship-jr00024842",
     "company": "ABB",
     "title": "Warehouse & Internal Logistics Internship",
@@ -39517,6 +39503,20 @@
     "source": "workday",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern-Sales_REQ2025065203",
     "date_posted": "Posted 30+ Days Ago",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-07"
+  },
+  {
+    "id": "greenhouse-wpp-media-5232591008",
+    "company": "WPP Media",
+    "title": "Stage Consultant Média F/H",
+    "location": "Paris, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5232591008",
+    "date_posted": "2026-05-27",
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-07"
