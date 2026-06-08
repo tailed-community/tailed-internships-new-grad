@@ -180,6 +180,7 @@ def main(argv: list[str] | None = None) -> None:
     except Exception as error:
         errors_count += 1
         print(f"Failed to update README.md table: {error}")
+        raise
 
     try:
         update_markdown_table(
@@ -191,6 +192,7 @@ def main(argv: list[str] | None = None) -> None:
     except Exception as error:
         errors_count += 1
         print(f"Failed to update NEW_GRAD.md table: {error}")
+        raise
 
     internships_count = sum(1 for job in active_jobs if job.get("type") == "internship")
     new_grad_count = sum(1 for job in active_jobs if job.get("type") == "new_grad")
