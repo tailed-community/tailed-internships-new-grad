@@ -63,7 +63,7 @@ def company_identity(config: dict[str, Any]) -> tuple[str, ...] | None:
             return source, tenant, site.casefold()
         return None
 
-    if source in {"lever", "greenhouse"}:
+    if source in {"ashby", "lever", "greenhouse"}:
         slug = str(config.get("slug", "")).strip().lower()
         if slug:
             return source, slug

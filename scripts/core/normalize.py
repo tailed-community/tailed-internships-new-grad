@@ -695,3 +695,130 @@ def normalize_greenhouse_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "date_added": date.today().isoformat(),
         "active": True,
     }
+
+
+def _extract_ashby_location_values(raw_job: dict[str, Any]) -> list[tuple[str, str | None]]:
+    values: list[tuple[str, str | None]] = []
+
+    primary_address_values: list[tuple[str, str | None]] = []
+    address = raw_job.get("address")
+    if isinstance(address, dict):
+        postal_address = address.get("postalAddress")
+        if isinstance(postal_address, dict):
+            primary_address_values = _extract_ashby_postal_address_values(postal_address)
+
+    if primary_address_values:
+        values.extend(primary_address_values)
+    else:
+        location = raw_job.get("location")
+        if isinstance(location, str) and location.strip():
+            values.append((location.strip(), None))
+
+    secondary_locations = raw_job.get("secondaryLocations")
+    if isinstance(secondary_locations, list):
+        for entry in secondary_locations:
+            if isinstance(entry, str) and entry.strip():
+                values.append((entry.strip(), None))
+            elif isinstance(entry, dict):
+                secondary_address = entry.get("address")
+                secondary_address_values: list[tuple[str, str | None]] = []
+                if isinstance(secondary_address, dict):
+                    secondary_address_values = _extract_ashby_postal_address_values(secondary_address)
+                if secondary_address_values:
+                    values.extend(secondary_address_values)
+                else:
+                    secondary_location = entry.get("location")
+                    if isinstance(secondary_location, str) and secondary_location.strip():
+                        values.append((secondary_location.strip(), None))
+
+    is_remote = raw_job.get("isRemote") is True
+    workplace_type = str(raw_job.get("workplaceType", "")).strip().lower()
+    if is_remote or workplace_type == "remote":
+        country = ""
+        if isinstance(address, dict):
+            postal_address = address.get("postalAddress")
+            if isinstance(postal_address, dict):
+                raw_country = postal_address.get("addressCountry")
+                if isinstance(raw_country, str) and raw_country.strip():
+                    country = raw_country.strip()
+        values.append((f"Remote, {country}" if country else "Remote", None))
+
+    return values
+
+
+def _extract_ashby_postal_address_values(address: dict[str, Any]) -> list[tuple[str, str | None]]:
+    city = address.get("addressLocality")
+    region = address.get("addressRegion")
+    country = address.get("addressCountry")
+
+    parts = [
+        value.strip()
+        for value in (city, region, country)
+        if isinstance(value, str) and value.strip()
+    ]
+    if not parts:
+        return []
+
+    country_hint = country.strip() if isinstance(country, str) and country.strip() else None
+    return [(", ".join(parts), country_hint)]
+
+
+def _format_ashby_locations(raw_job: dict[str, Any]) -> str:
+    cleaned: list[str] = []
+    seen: set[str] = set()
+
+    for value, country_hint in _extract_ashby_location_values(raw_job):
+        formatted = format_location_text(value, country_hint=country_hint)
+        if formatted == "Not specified":
+            continue
+        for part in [piece.strip() for piece in formatted.split(" / ") if piece.strip()]:
+            key = part.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            cleaned.append(part)
+
+    if not cleaned:
+        return "Not specified"
+    return " / ".join(cleaned)
+
+
+def normalize_ashby_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("title", "Unknown")).strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None and str(raw_job.get("employmentType", "")).strip().lower() == "intern":
+        job_type = "internship"
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "ashby")).strip() or "ashby"
+    location = _format_ashby_locations(raw_job)
+    url = (
+        str(raw_job.get("jobUrl", "")).strip()
+        or str(raw_job.get("applyUrl", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_iso_date(raw_job.get("publishedAt")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }
