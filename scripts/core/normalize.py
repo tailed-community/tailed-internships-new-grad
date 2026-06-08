@@ -822,3 +822,113 @@ def normalize_ashby_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "date_added": date.today().isoformat(),
         "active": True,
     }
+
+
+def _normalize_icims_posted_at(raw_value: Any) -> str | None:
+    if not isinstance(raw_value, str):
+        return None
+
+    text = raw_value.strip()
+    if not text:
+        return None
+
+    iso_date = _normalize_iso_date(text)
+    if iso_date:
+        return iso_date
+
+    for pattern in ("%m/%d/%Y %I:%M %p", "%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(text, pattern).date().isoformat()
+        except ValueError:
+            continue
+
+    return None
+
+
+def _format_icims_location(location: str) -> str:
+    text = str(location or "").strip()
+    if not text:
+        return "Not specified"
+
+    parts: list[str] = []
+    for segment in re.split(r"\s*\|\s*|\s*/\s*", text):
+        segment = segment.strip()
+        if not segment:
+            continue
+
+        coded_match = re.match(
+            r"^(?P<country>[A-Za-z]{2})-(?P<region>[A-Za-z]{2})-(?P<city>.+)$",
+            segment,
+        )
+        if coded_match:
+            city = coded_match.group("city").replace("-", " ")
+            region = coded_match.group("region").upper()
+            country = _normalize_country(coded_match.group("country")) or coded_match.group(
+                "country"
+            ).upper()
+            segment = f"{city}, {region}, {country}"
+        else:
+            country_region_match = re.match(
+                r"^(?P<country>[A-Za-z]{2})-(?P<region>[A-Za-z]{2})$",
+                segment,
+            )
+            if country_region_match:
+                region = country_region_match.group("region").upper()
+                country = _normalize_country(country_region_match.group("country")) or (
+                    country_region_match.group("country").upper()
+                )
+                segment = f"{region}, {country}"
+            elif re.fullmatch(r"[A-Za-z]{2}", segment):
+                country = _normalize_country(segment)
+                if country:
+                    segment = country
+
+        formatted = format_location_text(segment)
+        if formatted != "Not specified":
+            parts.extend(piece.strip() for piece in formatted.split(" / ") if piece.strip())
+
+    deduped = _dedupe_ordered(parts)
+    if not deduped:
+        return "Not specified"
+    return " / ".join(deduped)
+
+
+def normalize_icims_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("title", "Unknown")).strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None and str(raw_job.get("employment_type", "")).strip().lower() == "intern":
+        job_type = "internship"
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "icims")).strip() or "icims"
+    location_text = str(raw_job.get("location", "")).strip()
+    location = _format_icims_location(location_text)
+    url = (
+        str(raw_job.get("url", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_icims_posted_at(raw_job.get("posted_at")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }
