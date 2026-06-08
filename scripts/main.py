@@ -11,11 +11,13 @@ from core.markdown import generate_jobs_table, update_markdown_table
 from core.normalize import (
     normalize_ashby_job,
     normalize_greenhouse_job,
+    normalize_icims_job,
     normalize_lever_job,
     normalize_workday_job,
 )
 from fetchers.ashby import fetch_ashby_jobs
 from fetchers.greenhouse import fetch_greenhouse_jobs
+from fetchers.icims import fetch_icims_jobs
 from fetchers.lever import fetch_lever_jobs
 from fetchers.workday import fetch_workday_jobs
 
@@ -28,6 +30,10 @@ SOURCE_HANDLERS = {
     "greenhouse": {
         "fetch_jobs": fetch_greenhouse_jobs,
         "normalize_job": normalize_greenhouse_job,
+    },
+    "icims": {
+        "fetch_jobs": fetch_icims_jobs,
+        "normalize_job": normalize_icims_job,
     },
     "lever": {
         "fetch_jobs": fetch_lever_jobs,
@@ -174,6 +180,7 @@ def main(argv: list[str] | None = None) -> None:
     except Exception as error:
         errors_count += 1
         print(f"Failed to update README.md table: {error}")
+        raise
 
     try:
         update_markdown_table(
@@ -185,6 +192,7 @@ def main(argv: list[str] | None = None) -> None:
     except Exception as error:
         errors_count += 1
         print(f"Failed to update NEW_GRAD.md table: {error}")
+        raise
 
     internships_count = sum(1 for job in active_jobs if job.get("type") == "internship")
     new_grad_count = sum(1 for job in active_jobs if job.get("type") == "new_grad")

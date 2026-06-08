@@ -37,6 +37,7 @@ Current support:
 - Lever URLs on `jobs.lever.co`
 - Greenhouse-hosted board URLs on `boards.greenhouse.io` and `job-boards.greenhouse.io`
 - Ashby URLs on `jobs.ashbyhq.com`
+- iCIMS URLs on `*.icims.com` and iCIMS-backed `?icims=1` career sites
 
 Automation flow:
 
@@ -72,6 +73,7 @@ Notes:
 - Unsupported URLs are skipped by the sync script with a warning.
 - For Greenhouse, use the board URL form `https://boards.greenhouse.io/<board-token>`.
 - For Ashby, use the board URL form `https://jobs.ashbyhq.com/<job-board-name>`.
+- For iCIMS, use the board URL form `https://<tenant>.icims.com/jobs/search` or the iCIMS-backed career URL with `?icims=1`.
 - Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
 ## Pull Request Guidelines

@@ -86,10 +86,12 @@ def update_markdown_table(file_path: str | Path, start_marker: str, end_marker: 
         rf"({re.escape(start_marker)})([\s\S]*?)({re.escape(end_marker)})",
         re.MULTILINE,
     )
-    replacement = f"{start_marker}\n{table}\n{end_marker}"
-    updated_content, count = pattern.subn(replacement, content, count=1)
+    newline = "\r\n" if "\r\n" in content else "\n"
+    normalized_table = table.replace("\n", newline)
+    replacement = f"{start_marker}{newline}{normalized_table}{newline}{end_marker}"
+    updated_content, count = pattern.subn(lambda _: replacement, content, count=1)
 
     if count == 0:
         raise ValueError(f"Markers not found in {path}")
 
-    path.write_text(updated_content, encoding="utf-8")
+    path.write_text(updated_content, encoding="utf-8", newline="")

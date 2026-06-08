@@ -22,6 +22,18 @@ WORKDAY_SEARCH_TERMS = [
     "graduate",
 ]
 
+ICIMS_SEARCH_TERMS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "new grad",
+    "new graduate",
+    "early career",
+    "entry level",
+]
+
 TRUE_VALUES = {"true", "yes", "1"}
 FALSE_VALUES = {"false", "no", "0"}
 
@@ -100,6 +112,7 @@ def detect_source(url: str) -> str | None:
     parsed = urlsplit(url)
     hostname = (parsed.hostname or "").lower()
     path_segments = [segment for segment in parsed.path.split("/") if segment]
+    query = parsed.query.lower()
     if "myworkdayjobs.com" in hostname:
         return "workday"
     if hostname in {"jobs.lever.co", "jobs.eu.lever.co"}:
@@ -119,6 +132,10 @@ def detect_source(url: str) -> str | None:
         and path_segments[1].lower() == "job-board"
     ):
         return "ashby"
+    if hostname.endswith(".icims.com"):
+        return "icims"
+    if hostname.endswith(".jibeapply.com") or "icims=1" in query:
+        return "icims"
     return None
 
 
@@ -214,6 +231,21 @@ def extract_ashby_parts(url: str) -> tuple[str, str]:
     return slug, canonical_url
 
 
+def extract_icims_parts(url: str) -> tuple[str, str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    if not hostname:
+        raise ValueError("missing iCIMS hostname")
+
+    if hostname.endswith(".icims.com"):
+        return hostname, "classic", f"https://{hostname}/jobs/search"
+
+    if hostname.endswith(".jibeapply.com") or "icims=1" in parsed.query.lower():
+        return hostname, "jibe", f"https://{hostname}?icims=1"
+
+    raise ValueError("unsupported iCIMS URL")
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -260,6 +292,21 @@ def build_ashby_company(company: str, url: str, enabled: bool) -> dict[str, Any]
     }
 
 
+def build_icims_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    host, mode, canonical_url = extract_icims_parts(url)
+    config: dict[str, Any] = {
+        "company": company,
+        "source": "icims",
+        "url": canonical_url,
+        "host": host,
+        "mode": mode,
+        "enabled": enabled,
+    }
+    if mode == "classic":
+        config["search_terms"] = ICIMS_SEARCH_TERMS
+    return config
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -270,6 +317,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_greenhouse_company(company, url, enabled)
     if source == "ashby":
         return build_ashby_company(company, url, enabled)
+    if source == "icims":
+        return build_icims_company(company, url, enabled)
     return None
 
 

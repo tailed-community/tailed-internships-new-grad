@@ -69,6 +69,13 @@ def company_identity(config: dict[str, Any]) -> tuple[str, ...] | None:
             return source, slug
         return None
 
+    if source == "icims":
+        host = str(config.get("host", "")).strip().lower()
+        mode = str(config.get("mode", "")).strip().lower()
+        if host and mode:
+            return source, mode, host
+        return None
+
     url = str(config.get("url", "")).strip()
     if url:
         return source, url
