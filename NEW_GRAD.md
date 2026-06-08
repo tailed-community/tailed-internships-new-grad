@@ -717,7 +717,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Stripe | Operations Associate, New Grad (Mexico) | Mexico | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7544547) |
 | Stripe | Software Engineering, New Grad | Singapore | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7176977) |
 | Stripe | Tech Operations Associate, New Grad (Mexico) | Mexico | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7718947) |
-| Telesat | Technologist, Montreal Teleport and Remote Operations- New Grad | Montreal, QC | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/telesat/16999cc7-0dac-42cf-b540-5432defb1d8f) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Berlin | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/876642c1-f063-492e-aab4-16d650b9da33) |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Frankfurt | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/d07a89ac-a962-47ee-abb2-78ffe7aa5f4c) |
 | Veeva Systems | Associate Consultant (Hungary) - Entry-Level Technology Consulting (Life Sciences) | Hungary Budapest | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/063e192f-f529-45c0-a1c3-1b7e571d55f3) |
