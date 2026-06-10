@@ -32,6 +32,20 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | INTERN | Colombia Bogota | Not specified | 2026-06-10 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/INTERN_31152707) |
 | Accenture | Functional Analyst / MarTech Trainee (Adobe Experience Cloud) - Internship Program (She/He/They) | Not Specified | Not specified | 2026-06-10 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |
 | Accenture | Technology Strategy and Transformation (TS&T) Thesis Internship | Not Specified | Not specified | 2026-06-10 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Technology-Strategy-and-Transformation--TS-T--Thesis-Internship_R00327876-1) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Abortion Criminal Defense Initiative | Remote / Hybrid-New York City Or Washington D.c. | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8578531002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Center for Liberty | Remote / Washington D.c. | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8578474002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Criminal Law Reform Project | Remote / Hybrid-New York City Or Washington Dc | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582067002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Disability Rights Program | Remote / Hybrid-Washington D.c. Or San Francisco CA | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582287002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Immigrants' Rights Project- New York | Remote / Hybrid-New York City | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8578516002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Immigrants' Rights Project- San Francisco | Remote / Hybrid San Francisco | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8577692002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Litigation Department | Remote / Hybrid-New York City Or San Francisco, Canada | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582211002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, National Prison Project | Remote / Hybrid-Washington D.c. | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8581953002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Racial Justice Program | Remote / Hybrid-New York City | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582038002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Reproductive Freedom Project | Remote / Hybrid-New York City | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8581996002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, State Supreme Court Initiative | Remote / Hybrid-New York City Or Washington D.c. | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8581935002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Voting Rights Project | Hybrid-New York City Or Washington D.c. | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582143002) |
+| ACLU Kentucky | Fall 2026 Legal Intern, Women's Rights Project | Remote / Hybrid-New York City | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8578606002) |
+| ACLU Kentucky | Fall Legal Intern, Capital Punishment Project | N.c. Or New York City | Fall | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582269002) |
 | Adobe | Intern - Returnship - UI | Bangalore | Not specified | 2026-06-10 | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Intern---Returnship---UI_R169678) |
 | Advocate Health Care | Student Nurse Scholar + 4 - Carolinas Medical Center (CMC) 4T Medical/Oncology Unit PT Nights | Charlotte, NC | Not specified | 2026-06-10 | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Student-Nurse-Scholar---4---Carolinas-Medical-Center--CMC--4T-Medical-Oncology-Unit-PT-Nights_R245572) |
 | Advocate Health Care | Student Tech- PRN Atrium Health Floyd | Rome, GA | Not specified | 2026-06-10 | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Floyd-Medical-Center---304-Turner-McCall-Blvd-SW-Rome-GA/Student-Tech--PRN-Atrium-Health-Floyd_R249015) |
@@ -97,6 +111,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BorgWarner | Electronics Lab Intern | Krakow Poland | Not specified | 2026-06-10 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Krakow---Poland/Electronics-Lab-Intern_R2026-1900) |
 | BorgWarner | Vendor Planner Professional Internship (M/F/D) | Viana Do Castelo Ii Portugal | Not specified | 2026-06-10 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/Vendor-Planner-Professional-Internship--M-F-D-_R2025-4896) |
 | Boston Medical Center | Summer Nursing Student, Pediatric, Per Diem | Boston | Summer | 2026-06-10 | [Apply](https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Summer-Nursing-Student--Pediatric--Per-Diem_49270) |
+| Breeze Airways | Data Analyst Intern | Utah, United States | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/breezeairways/jobs/7767219003) |
 | Bristol Myers Squibb | Stage CURRICULARE in Marketing | Rome It | Not specified | 2026-06-10 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Rome---IT/Stage-CURRICULARE-in-Marketing_R1565888) |
 | C&S Wholesale Grocers | Data Reporting & Analytics Intern | Windsor Locks, CT | Not specified | 2026-06-10 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Windsor-Locks-CT/Data-Reporting---Analytics-Intern_R-267464) |
 | Cadence Design Systems | Intern: Application Engineering - Digital Simulation/Verification & Agentic AI | Belo Horizonte | Not specified | 2026-06-10 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Application-Engineering---Digital-Simulation-Verification---Agentic-AI_R54884-1) |
@@ -109,6 +124,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Canadian Tire | Digital Customer Experience Student (4 months) - Fall 2026 | Oakville, ON | Fall 2026 | 2026-06-10 | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Digital-Customer-Experience-Student--4-months----Fall-2026_JR162634) |
 | Carnegie Mellon University | Assistant Coach, Track & Field (Part-Time) – Athletics – Division of Student Affairs | Pittsburgh, PA | Not specified | 2026-06-10 | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Assistant-Coach--Track---Field--Part-Time----Athletics---Division-of-Student-Affairs_2024684) |
 | Carrier Global | Materials Engineer - Data Centers, Co-op | East Syracuse, NY | Not specified | 2026-06-10 | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Materials-Engineer---Data-Centers--Co-op_30207414) |
+| Celonis | Learning & Leadership Development Graduated Internship (12months) | Spain | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7712052003?gh_jid=7712052003) |
 | Cenovus Energy | Student, Strategy and Business Performance, Calgary (September 2026) | CA-AB-Calgary | 2026 | 2026-06-10 | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Strategy-and-Business-Performance--Calgary--September-2026-_R-410708) |
 | Chanel | Creative Technologist Intern, Open Innovation | New York | Not specified | 2026-06-10 | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-York/Creative-Technologist-Intern--Open-Innovation_JOBREQ00113766) |
 | Chanel | Stage- Assistant(e) Développement/ industrialisation Maroquinerie – Mode- Septembre 2026 H/F/X | Paris | 2026 | 2026-06-10 | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage--Assistant-e--Dveloppement--industrialisation-Maroquinerie---Mode--Septembre-2026-H-F-X_JOBREQ00113732-3) |
@@ -241,6 +257,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eli Lilly and Company | Intern - BI&A Data Engineer | Bangalore | Not specified | 2026-06-10 | [Apply](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/India-Bangalore/Intern---BI-A-Data-Engineer_R-107039-1) |
 | Eli Lilly and Company | Interns - BI&A Data Analyst | Bangalore | Not specified | 2026-06-10 | [Apply](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/India-Bangalore/Interns---BI-A-Data-Analyst_R-107041-1) |
 | Endeavor Health | Research Intern | Evh Burch Building Evanston Hospital | Not specified | 2026-06-10 | [Apply](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Burch-Building-Evanston-Hospital/Research-Intern_R43572) |
+| EnergyHub | Regulatory Affairs Intern | New York | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8562493002) |
 | Epicor | Finance Operations Intern | Monterrey | Not specified | 2026-06-10 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Finance-Operations-Intern_JR104783) |
 | Erickson Senior Living | Resident Services and Continuing Care Intern | Peabody, MA | Not specified | 2026-06-10 | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Peabody-MA/Resident-Services-and-Continuing-Care-Intern_R0098893) |
 | Essity | Apprentice engineer intern | Mexico | Not specified | 2026-06-10 | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Reynosa-Mexico/Apprentice-engineer-intern_Essity260786-1) |
@@ -249,6 +266,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Intern | New York, NY | Not specified | 2026-06-10 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/New-York-NY/Intern_JR13749) |
 | Ferrovial | Risk Analysis Internship | Madrid | Not specified | 2026-06-10 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Risk-Analysis-Internship_JR17779) |
 | Flextronics International | Purchasing Intern | Guadalajara | Not specified | 2026-06-10 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Purchasing-Intern_WD222263) |
+| Freeform | Additive Engineering Internship (Fall 2026) | CA (on-Site) | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7767513003) |
+| Freeform | Process Engineering Internship (Fall 2026) | CA (on-Site) | Fall 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | West Jordan, UT, United States | Not specified | 2026-06-10 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/West-Jordan-UT-USA/Student-Dietitian-Clinical-Placement_R0256330) |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | Greenfield, MA, United States | Not specified | 2026-06-10 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Greenfield-MA-USA/Student-Dietitian-Clinical-Placement_R0257150) |
 | Fresenius Medical Care | student Dietitian Clinical Placement | Anderson, IN, United States | Not specified | 2026-06-10 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Anderson-IN-USA/student-Dietitian-Clinical-Placement_R0256834-1) |
@@ -347,6 +366,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | IQVIA | MedTech Strategy Consulting Intern (Summer 2026) Hybrid | North Carolina, United States | Summer 2026 | 2026-06-10 | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Durham-North-Carolina-United-States-of-America/MedTech-Strategy-Consulting-Intern--Summer-2026--Hybrid_R1537653) |
 | IQVIA | Patient Support Program Intern (Graduate) | Egypt | Not specified | 2026-06-10 | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/New-Cairo-Egypt/Patient-Support-Program-Intern_R1549213) |
 | iRhythm Technologies | Intern - Solutions Engineer | Orange County, Canada | Not specified | 2026-06-10 | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Orange-County-CA/Intern---Solutions-Engineer_JR1462) |
+| iSpot.tv | Data Science Intern | Bellevue, WA | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) |
 | Ivy Tech Community College | Student Affairs Asst | Lawrenceburg, IN | Not specified | 2026-06-10 | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Lawrenceburg-IN/Student-Affairs-Asst_JR0000108731) |
 | J.M. Smucker | Quality Assurance Intern, Fall 2026 - Orrville, OH | Orrville, OH | Fall 2026 | 2026-06-10 | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Quality-Assurance-Intern--Fall-2026---Orrville--OH_115378) |
 | Jabil | Communication Specialist \| Фахівець з комунікацій (Intern) | Uzhhorod | Not specified | 2026-06-10 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Uzhhorod/Communication-Specialist-------Intern-_J2453418) |
@@ -382,6 +402,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Evening | Peterborough, ON | Not specified | 2026-06-10 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/230-George-St-N-Peterborough-ON/Student--Franchise-Part-Time-Evening_R2000673324) |
 | Loblaw Companies | Student, Franchise Part Time Evening | North Bay, ON | Not specified | 2026-06-10 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Laurentian-Ave-North-Bay-ON/Student--Franchise-Part-Time-Evening_R2000673262) |
 | Loblaw Companies | Student, Franchise Part Time Evening | Cobourg, ON | Not specified | 2026-06-10 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Division-St-Cobourg-ON/Student--Franchise-Part-Time-Evening_R2000672983) |
+| Lucid Motors | Business Operations Intern | Amsterdam, NH | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136411007) |
+| Lucid Motors | Development Intern | Amsterdam, NH | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136401007) |
+| Lucid Motors | Financial Services Operations Intern | Amsterdam, NH | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5159489007) |
+| Lucid Motors | Working Student Sales, Munich (m/f/d) | Munich, BY | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5159704007) |
 | Lumentum | Embedded Software Engineer (Co-op/Intern) | Canada Ottawa (bill Leathem) | Not specified | 2026-06-10 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) |
 | Lumentum | Embedded Software Engineer Co-op/Intern | Canada Ottawa (bill Leathem) | Not specified | 2026-06-10 | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_2026742-1) |
 | Maersk | Intern | Chengdu | Not specified | 2026-06-10 | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Intern_R184209) |
@@ -432,11 +456,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Assistant - Non-OSU | Columbus Campus | Not specified | 2026-06-10 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant---Non-OSU_R152821) |
 | Ohio State University | Student Assistant 2 - FABE | Columbus Campus | Not specified | 2026-06-10 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-2---FABE_R152685-2) |
 | Ohio State University | Student Assistant: Table of Contents | Newark Campus | Not specified | 2026-06-10 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Newark-Campus/Student-Assistant--Table-of-Contents_R152503) |
+| Olsson | Engineering Internship - Rail Water Resources | Lincoln, NE | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5239355008) |
 | Otis Worldwide | Delivery Operations, Intern | 8 Kallang Avenue #07-01 / Singapore | Not specified | 2026-06-10 | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/8-Kallang-Avenue-07-0109-Aperia-Tower-1-Singapore/Delivery-Operations--Intern_20161294) |
 | Otis Worldwide | INTERN PROCUREMENT SPECIALIST | Italy | Not specified | 2026-06-10 | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Via-Roma-108-20051-Cassina-de-Pecchi-Milano-Italy/INTERN-PROCUREMENT-SPECIALIST_20158115) |
 | Parsons | Co-op Trainee (Mechanical Engineering) (Saudi National) | Not Specified | Not specified | 2026-06-10 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Co-op-Trainee--Mechanical-Engineering---Saudi-National-_R181752) |
 | Pennsylvania State University | Cyber Security Systems Engineer Intern | Penn State University Park | Not specified | 2026-06-10 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Cyber-Information-Assurance-Analyst-Intern_REQ_0000079318-1) |
 | Pennsylvania State University | Part-Time Parents Program Coordinator - Student Affairs | Penn State University Park | Not specified | 2026-06-10 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Parents-Program-Coordinator---Student-Affairs_REQ_0000079238-1) |
+| Per Scholas | Intern, Competitive Analysis Research | United States | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4684962006) |
 | Philips | Contact Center Planner Intern | Ciudad De Panama | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Ciudad-de-Panama/Contact-Center-Planner-Intern_584303) |
 | Philips | Data AI Intern -2027届 | Shenyang | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Data-AI-Intern--2027_585724) |
 | Philips | Field Service Graduate Intern | Cape Town | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cape-Town/Field-Service-Graduate-Intern_582188) |
@@ -451,7 +477,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Philips | MR R&D Intern-Power Electronics | Suzhou | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/MR-R-D-Intern-Power-Electronics_585192-1) |
 | Philips | Procurement intern | Shanghai | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Procurement-intern_585603) |
 | Philips | Software Intern | Shenyang | Not specified | 2026-06-10 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Software-Intern_585723) |
+| Phoenix Contact | Marketing Intern (EtherWAN) | California | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/phoenixcontact/jobs/7766443003) |
 | Pine Rest | Psychometry Intern - Fall 2026 Internship (Psychological Consultation Center) | Byron Center, MI | Fall 2026 | 2026-06-10 | [Apply](https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Byron-Center-MI/Psychometry-Intern---Fall-2026-Internship--Psychological-Consultation-Center-_JR104957) |
+| Planet | Working Student, Tasking | Germany | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/planetlabs/jobs/7811318) |
 | Plexus | Intern - Supply chain | Mexico | Not specified | 2026-06-10 | [Apply](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Guadalajara-Mexico/Intern---Supply-chain_R039174) |
 | PricewaterhouseCoopers (PwC) | Internship in Data Analytics - Academic year 2026-2027 | Brussels | 2026 | 2026-06-10 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/Internship-in-Data-Analytics---Academic-year-2026-2027_735852WD) |
 | PricewaterhouseCoopers (PwC) | September 2026 - Actuarial Life Non-CPA - Co-op - Full Time - Toronto | Toronto | 2026 | 2026-06-10 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Toronto/September-2026---Actuarial-Life-Non-CPA---Co-op---Full-Time---Toronto_735117WD) |
@@ -524,7 +552,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCAN | Software Engineering Intern | Long Beach Office 3800 | Not specified | 2026-06-10 | [Apply](https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Software-Engineering-Intern_JR2886) |
 | Schweitzer Engineering Laboratories | Engineering Intern | Uae Dubai Silicon Oasis | Not specified | 2026-06-10 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/UAE---Dubai-Silicon-Oasis/Engineering-Intern_2026-19302) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Idaho Boise | Not specified | 2026-06-10 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-21665) |
+| Secretariat | Intern, Damages and Valuations | Germany | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4279106009) |
 | Sensata | Accounts Payable Intern | Bulgaria | Not specified | 2026-06-10 | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Sofia-Bulgaria/Accounts-Payable-Intern_IRC97671) |
+| Sezzle | Product Marketing Intern | United States Remote | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7726120003) |
+| SharkNinja | Internship - Sales Operations & Commercial Coordination | Paris, France | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4686371006) |
+| SharkNinja | Summer 2026: Industrial Design Intern (June to September) | Needham, MA, United States | Summer 2026 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601610006) |
 | Signify | Consumer Market Intelligence Intern Europe (Philips LED, Philips Hue, WiZ) | Stockholm | Not specified | 2026-06-10 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Stockholm/Consumer-Market-Intelligence-Intern-Europe--Philips-LED--Philips-Hue--WiZ-_364101) |
 | Signify | Customer Satisfaction Student worker | Copenhagen | Not specified | 2026-06-10 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Copenhagen/Customer-Satisfaction-Student-worker_364822) |
 | Signify | Purchase to Pay Internship with English and one additional language | Lodz | Not specified | 2026-06-10 | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Purchase-to-Pay-Internship-with-English-and-one-additional-language_364721) |
@@ -535,6 +567,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Smith+Nephew | Intern Sports Medicine | Esp Barcelona | Not specified | 2026-06-10 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/ESP---Barcelona/Intern-Sports-Medicine_R88645) |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Remote | Not specified | 2026-06-10 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) |
 | Sony Pictures Entertainment | B2B Marketing Intern | Brazil | Not specified | 2026-06-10 | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/So-Paulo-Brazil/B2B-Marketing-Intern_JR113296) |
+| SpaceX | Lead Structural Welder (Stage 0 Propellant Systems) - Night Shift | Starbase, TX | Not specified | 2026-06-10 | [Apply](https://boards.greenhouse.io/spacex/jobs/8585801002?gh_jid=8585801002) |
 | State Street | 5 months Internship - Transfer Agency with Italian | Poland | Not specified | 2026-06-10 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/XMLNAME-5-months-Internship---Transfer-Agency-with-Italian_R-785459) |
 | State Street | Intern | China | Not specified | 2026-06-10 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Intern_R-790610) |
 | Strategic Education | Student Affairs Analyst | Remote | Not specified | 2026-06-10 | [Apply](https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Remote/Student-Affairs-Analyst-1_R30476-1) |
@@ -544,6 +577,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | TD | Global Markets Co-op Retail & Wealth - FX, FI & Precious Metals Distribution | Toronto, ON | Not specified | 2026-06-10 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Co-op-Retail---Wealth---FX--FI---Precious-Metals-Distribution_R_1470218) |
 | TD Synnex | Intern | Colombia | Not specified | 2026-06-10 | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Intern_R51145) |
 | Teledyne | Engineering Intern | US Huntsville, AL | Not specified | 2026-06-10 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Engineering-Intern_REQ35047) |
+| Tenstorrent | Applied AI Intern, People Operations | Toronto, ON, Canada | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5106644007) |
 | Terex | Financial Analyst Intern | US-Wa Bothell | Not specified | 2026-06-10 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-WA-Bothell/Financial-Analyst-Intern_REQ-11254) |
 | Texas A&M International University | Federal College Work Study- Community Service (Student Affairs- LFS)) | Laredo, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Federal-College-Work-Study--Community-Service--Student-Affairs--LFS--_R-094027) |
 | Texas A&M International University | Federal College Work Study-Community Service (Student Affairs- Ldo Int'l Fair & Expo) | Laredo, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Federal-College-Work-Study-Community-Service--Student-Affairs--Ldo-Int-l-Fair---Expo-_R-094031) |
@@ -551,13 +585,17 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas A&M University System | Assistant Dean of Students / Director of Student Advocacy and Support | Commerce, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Commerce-TX/Assistant-Dean-of-Students---Director-of-Student-Advocacy-and-Support_R-093947) |
 | Texas A&M University System | Associate Director, Student Engagement | Stephenville, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Stephenville-TX/Associate-Director--Student-Engagement_R-091929) |
 | Texas A&M University System | Student Conduct Specialist or Assistant Director of Student Conduct | Commerce, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Commerce-TX/Student-Conduct-Specialist-or-Assistant-Director-of-Student-Conduct_R-093977) |
+| The Scion Group | Property Manager, Student Housing | California, United States | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8574136002) |
+| The Scion Group | Property Manager, Student Housing | Minnesota, United States | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8575775002) |
 | The Walt Disney Company | Intern | France | Not specified | 2026-06-10 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Marne-la-Vallee-Cedex-4-France/Intern_DLP-0000434656) |
 | The Walt Disney Company | Marketing and PR intern | Spain | Not specified | 2026-06-10 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Madrid-Spain/Marketing-and-PR-intern_10151757-1) |
 | Thermo Fisher Scientific | HR Intern | Republic Of | Not specified | 2026-06-10 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/HR-Intern_R-01356359) |
 | Thermo Fisher Scientific | Marketing Communications Intern | Italy | Not specified | 2026-06-10 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Marketing-Communications-Intern_R-01353464) |
 | Thomson Reuters | Finance Interns | Not Specified | Not specified | 2026-06-10 | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/India-Hyderabad-Telangana/Finance-Interns_JREQ199373) |
 | thyssenkrupp | Accounting Intern | Remote | Not specified | 2026-06-10 | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Washington-Remote/Accounting-Intern_JR105294) |
+| Toshiba Global Commerce | SW Engineer Internship | Guadalajara Office | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5137425007) |
 | TRUMPF | Spare Parts Student TMX MT | Mexico | Not specified | 2026-06-10 | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Apodaca-Mexico/Spare-Parts-Student-TMX-MT_R00040585) |
+| Truveta | Software Engineering Intern | Seattle, WA | Not specified | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
 | TSC | Aerospace/Mechanical Engineering Intern | Dc Naval Research Laboratory | Not specified | 2026-06-10 | [Apply](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2622) |
 | Tyson Foods | Business Management Year-Round Intern | Arkansas | Not specified | 2026-06-10 | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Business-Management-Year-Round-Intern_R0466375-2) |
 | Tyson Foods | Demand Planning Year-Round Intern | Arkansas | Not specified | 2026-06-10 | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Demand-Planning-Year-Round-Intern_R0466526-1) |
@@ -587,6 +625,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Waste Connections | Web Analyst/Content Intern | 1010-Corporate Offices Wci | Not specified | 2026-06-10 | [Apply](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/1010-Corporate-Offices-WCI/Web-Analyst-Content-Intern_R-100483-1) |
 | Westlake | Engineering Summer Student | CA Abbotsford, BC | Summer | 2026-06-10 | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/CA---Abbotsford-BC/Engineering-Summer-Student_R32592) |
 | Wex | PhD Intern - AI/ML/NLP Engineer | United States Remote | Not specified | 2026-06-10 | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern---AI-ML-NLP-Engineer_R20300-1) |
+| Workato | Intern, Regional Marketing | Singapore | Not specified | 2026-06-10 | [Apply](https://www.workato.com/careers?gh_jid=8574424002#open-roles) |
 | Yai | Access VR Summer Employment Intern | Rockland County | Summer | 2026-06-10 | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Rockland-County/Access-VR-Summer-Employment-Intern_R025012) |
 | Zoox | Part-Time Student Worker Automation & Behavioral Science Engineer | Foster City, Canada | Not specified | 2026-06-10 | [Apply](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e) |
 | Abbott | Accountant Analyst - Internship- Issy-Les-Moulineaux H/F | France Issy Les Moulineaux | Not specified | 2026-06-08 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/France---Issy-les-Moulineaux/Accountant-Analyst---Internship--Issy-Les-Moulineaux-H-F_31152315-1) |
@@ -947,7 +986,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Sauble Beach, ON | Not specified | 2026-06-08 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/612-Main-St-RR-1-Sauble-Beach-ON/Student--Franchise-Part-Time-Day_R2000672367) |
 | Loblaw Companies | Student, Franchise Part Time Day | Parry Sound, ON | Not specified | 2026-06-08 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/60-Joseph-St-Parry-Sound-ON/Student--Franchise-Part-Time-Day_R2000664840) |
 | Loblaw Companies | Student, Franchise Part Time Evening | St Catharines, ON | Not specified | 2026-06-08 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/525-Welland-Ave-St-Catharines-ON/Student--Franchise-Part-Time-Evening_R2000672418) |
-| Lucid Motors | Data Analyst Intern | Netherlands | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007) |
+| Lucid Motors | Data Analyst Intern | Amsterdam, NH | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007) |
 | Lucid Motors | Working Student Sales, Dusseldorf (m/f/d) | Dusseldorf, NW | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5154299007) |
 | Lucid Motors | Working Student Sales, Hamburg (m/f/d) | Hamburg, BE | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/4958299007) |
 | Mach9 | Perception Intern, Summer 2026 | California, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e) |
@@ -1185,7 +1224,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Internship Corporate Communication | Milano | Not specified | 2026-06-06 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Italy-Milano/Internship-Corporate-Communication_R10093702) |
 | Air Liquide | STAGE MARKETING MARCHE FOOD & PHARMA  F/H | Bagneux, France | Not specified | 2026-06-06 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/STAGE-MARKETING-MARCHE-FODD---PHARMA--F-H_R10082303) |
 | Air Liquide | Summer Student - Clinical Data Intern | Duncan | Summer | 2026-06-06 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Duncan-BC---2763-Beverly-St-RHS---Respiratory-therapy/Summer-Student---Clinical-Data-Intern_R10092846) |
-| AirCapture | Mechanical Engineering Intern | Berkeley, Canada | Not specified | 2026-06-06 | [Apply](https://job-boards.greenhouse.io/aircapture/jobs/4687301006) |
 | American Electric Power | Power Tech/Trans Mech D Intern | Tulsa, OK | Not specified | 2026-06-06 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Power-Tech-Trans-Mech-D-Intern_R16289) |
 | American University | Administrative Assistant (Student) | Dc) | Not specified | 2026-06-06 | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Administrative-Assistant--Student-_R4352) |
 | ASML | Artificial Intelligence \| Industrial Engineering internship: ai workflow optimization | Netherlands | Not specified | 2026-06-06 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Artificial-Intelligence---Industrial-Engineering-internship--ai-workflow-optimization_J-00340885) |
@@ -1372,7 +1410,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Defense Unicorns | SkillBridge Intern - Platform Engineer | United States Remote | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/4661526007) |
 | Dentsu | Account Intern | Ho Chi Minh City | Not specified | 2026-06-05 | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Account-Intern_R1107396-1) |
 | Disney | Intern Retail Marketing DCP | Germany | Not specified | 2026-06-05 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Munich-Germany/Intern-Retail-Marketing-DCP_10150476) |
-| EarnIn | Data, Growth & Analytics Intern | Mountain View, United States | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/earnin/jobs/7980784) |
 | Edwards Lifesciences | Intern, Medical Affairs | Japan-Tokyo | Not specified | 2026-06-05 | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Japan-Tokyo/Intern--Medical-Affairs_Req-48400) |
 | Eli Lilly and Company | Communication & Public Relations (PR) Intern (12-month) | Toronto ON | Not specified | 2026-06-05 | [Apply](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/CA-Toronto-ON/Communications-Intern--12-month-_R-101787) |
 | Eli Lilly and Company | Lilly StarT Marketing Intern - CMH, Türkiye | Istanbul | Not specified | 2026-06-05 | [Apply](https://lilly.wd5.myworkdayjobs.com/en-US/LLY/job/Turkey-Istanbul/Lilly-StarT-Marketing-Intern---CMH--Trkiye_R-106892) |
@@ -1433,19 +1470,18 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Walkerton, ON | Not specified | 2026-06-05 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1200-Yonge-St-Walkerton-ON/Student--Franchise-Part-Time-Day_R2000670459) |
 | Loblaw Companies | Student, Franchise Part Time Day | Port Elgin, ON | Not specified | 2026-06-05 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1244-Goderich-St-Port-Elgin-ON/Student--Franchise-Part-Time-Day_R2000671953) |
 | Loblaw Companies | Student, Franchise Part Time Day | Owen Sound, ON | Not specified | 2026-06-05 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1020-10th-St-W-Owen-Sound-ON/Student--Franchise-Part-Time-Day_R2000652819) |
-| Lucid Motors | Accounting Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136393007) |
-| Lucid Motors | Brand Communications Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136413007) |
-| Lucid Motors | Finance Business Analytics Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) |
-| Lucid Motors | Financial Services Operations Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136385007) |
-| Lucid Motors | Full Stack Engineer Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136395007) |
-| Lucid Motors | HR & Internal Communications Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136397007) |
-| Lucid Motors | IT Asset Management Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136387007) |
-| Lucid Motors | Learning & Development (Instructional Design) Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136415007) |
-| Lucid Motors | Logistics Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136409007) |
-| Lucid Motors | Marketing Data & Analytics Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136417007) |
-| Lucid Motors | Network Analytics & Reporting Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136391007) |
-| Lucid Motors | Tax Intern | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136383007) |
-| Lucid Motors | Used Car Operations Intern (Lease Returns, Trade-in, Certified Pre-owned) | Netherlands | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136403007) |
+| Lucid Motors | Accounting Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136393007) |
+| Lucid Motors | Brand Communications Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136413007) |
+| Lucid Motors | Finance Business Analytics Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) |
+| Lucid Motors | Full Stack Engineer Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136395007) |
+| Lucid Motors | HR & Internal Communications Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136397007) |
+| Lucid Motors | IT Asset Management Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136387007) |
+| Lucid Motors | Learning & Development (Instructional Design) Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136415007) |
+| Lucid Motors | Logistics Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136409007) |
+| Lucid Motors | Marketing Data & Analytics Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136417007) |
+| Lucid Motors | Network Analytics & Reporting Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136391007) |
+| Lucid Motors | Tax Intern | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136383007) |
+| Lucid Motors | Used Car Operations Intern (Lease Returns, Trade-in, Certified Pre-owned) | Amsterdam, NH | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136403007) |
 | Maersk | Intern, OTC | Chengdu | Not specified | 2026-06-05 | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Intern--OTC_R183733) |
 | Magna International | Quality Co-op Student | Brampton, ON, Canada | Not specified | 2026-06-05 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Brampton-Ontario-CA/Quality-Co-op-Student_R00246165) |
 | Marsh | Retirement Consulting Intern | Taipei Minquan East | Not specified | 2026-06-05 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Taipei---Minquan-East/Retirement-Consulting-Assistant-I_R_348130) |
@@ -1464,7 +1500,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Assistant - Pathology | Columbus Campus | Not specified | 2026-06-05 | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-2_R152561) |
 | Pennsylvania State University | Part-Time Field and Forage Crops Intern | Wayne County / Lackawanna County / Susquehanna County / Wyoming County / Pike County | Not specified | 2026-06-05 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Wayne-County/Part-Time-Field-and-Forage-Crops-Intern_REQ_0000079092-1) |
 | Pennsylvania State University | R&D Engineer Intern | Penn State University Park | Not specified | 2026-06-05 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000072296) |
-| Planet | Working Student, Tasking | Germany | Not specified | 2026-06-05 | [Apply](https://job-boards.greenhouse.io/planetlabs/jobs/7700858) |
 | Plexus | Intern Supply Chain | Mexico | Not specified | 2026-06-05 | [Apply](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Guadalajara-Mexico/Intern-Supply-Chain_R038821) |
 | PricewaterhouseCoopers (PwC) | Intern - Assurance (October - December 2026 intake) | Melaka | 2026 | 2026-06-05 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Melaka/Intern---Assurance--October---December-2026-intake-_734403WD) |
 | PricewaterhouseCoopers (PwC) | Intern - Assurance (September - December 2026 intake) | Johor Bahru | 2026 | 2026-06-05 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Johor-Bahru/Intern---Assurance--September---December-2026-intake-_734402WD) |
@@ -1851,7 +1886,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | iSpot.tv | Engineering Intern | Bellevue, WA | Not specified | 2026-06-03 | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4702457005) |
 | Johnson Controls | Control Applications Tech Intern II | Glendale-Wisconsin-United States Of America | Not specified | 2026-06-03 | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Glendale-Wisconsin-United-States-of-America/Control-Applications-Tech-Intern-II_WD30269467) |
 | Kenvue | STAGE - Assistant(e) Chef de Produit marketing Le Petit Marseillais Bodycare & New projects H/F | Europe / Middle East / Issy Les Moulineaux, France | Not specified | 2026-06-03 | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/EuropeMiddle-EastAfrica-France-Haute-de-Seine-Issy-Les-Moulineaux/STAGE---Assistant-e--Chef-de-Produit-marketing-Le-Petit-Marseillais-Bodycare---New-projects-H-F_2607043449W) |
-| KnowBe4 | Tech Support Intern (Hybrid) | Florida | Not specified | 2026-06-03 | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8575508002) |
 | LabCorp | Intern-Global Project Management | Kuala Lumpur Mys | Not specified | 2026-06-03 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Kuala-Lumpur-MYS/Global-Project-Management-Intern_2614990) |
 | Lightspeed Systems | Senior Product Manager (Student Safety) | Texas, United States | Not specified | 2026-06-03 | [Apply](https://job-boards.greenhouse.io/lightspeedsystems/jobs/7761332003) |
 | LiveRamp | Co-Op, Software Engineer - Conversions API | San Francisco / New York / Seattle / Little Rock | Not specified | 2026-06-03 | [Apply](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1) |
@@ -1862,7 +1896,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Evening | Carleton Place, ON | Not specified | 2026-06-03 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/455-Mcneely-Ave-Carleton-Place-ON/Student--Franchise-Part-Time-Evening_R2000671241) |
 | Logitech | Marketing Intern (YPP) | Offsite USA Tx / Florida USA / California USA | Not specified | 2026-06-03 | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Marketing-Intern--YPP-_146747) |
 | Lonza | Internship QA Compliance 6 months contract 80-100% | Ch Basel | Not specified | 2026-06-03 | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Basel/Internship-QA-Compliance-6-months-contract-80-100-_R76557) |
-| Lucid Motors | Working Student Sales, Munich (m/f/d) | Munich, BY | Not specified | 2026-06-03 | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5058918007) |
 | Maersk | Marine People-Student Assistant ( Early Careers) | Copenhagen | Not specified | 2026-06-03 | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-2100/Marine-People-Student-Assistant---Early-Careers-_R183081) |
 | Manulife Financial | Financial Management Intern | Quezon City | Not specified | 2026-06-03 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Quezon-City/Financial-Management-Intern_JR26060193) |
 | Marsh | AI Integration Specialist Fall Co-op - College Program 2026 | New York 1166 / Philadelphia South 17th | Fall | 2026-06-03 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Integration-Specialist-Fall-Co-op---College-Program-2026_R_346709-1) |
@@ -1938,7 +1971,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Intern, Growth & Retention Marketing,  Disney+ - Jul to Dec 2026 | Singapore | 2026 | 2026-06-03 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Singapore-Singapore/Intern--Growth---Retention-Marketing---Disney----Jun-to-Dec-2026_10145487-1) |
 | Thermo Fisher Scientific | Project Support Coordinator Intern (6 months fixed term) | Bulgaria | Not specified | 2026-06-03 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sofia-Bulgaria/Project-Support-Coordinator-Intern--6-months-fixed-term-_R-01331158) |
 | Thomson Reuters | Research Intern - Machine Learning and Natural Language Processing (PhD) | Not Specified | Not specified | 2026-06-03 | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Switzerland-Zug-Zug/Research-Intern---Machine-Learning-and-Natural-Language-Processing_JREQ197583) |
-| Uber Freight | Brokerage Intern - Logistics | Mexico | Not specified | 2026-06-03 | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5232759008) |
 | UNHCR | Digital Marketing Intern | Denmark | Not specified | 2026-06-03 | [Apply](https://unhcr.wd3.myworkdayjobs.com/External/job/Copenhagen-HQ-Denmark/Digital-Marketing-Intern_JR2667366-1) |
 | University of Arkansas | Associate Vice Chancellor, Student Financial Services | Uag \| University Of Arkansas Grantham | Not specified | 2026-06-03 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAG--University-of-Arkansas-Grantham/Associate-Vice-Chancellor--Student-Financial-Services_R0086545-1) |
 | University of Arkansas | Student Services Specialist | Little Rock | Not specified | 2026-06-03 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Student-Services-Specialist_R0086455-1) |
@@ -2451,7 +2483,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arlo | SW Engineer Intern, iOS (AI-Assisted Development) | Milpitas, Canada | Not specified | 2026-06-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299) |
 | Arlo | Test Engineer Co-op | Richmond, BC, Canada | Not specified | 2026-06-02 | [Apply](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Richmond-BC-Canada/Test-Engineer-Co-op_JR100354) |
 | Armada | AI Intern | Sunset Corporate Campus | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/armada/jobs/5151029008) |
-| Armada | AI Intern, Data Engineering & Agent Workflows  (Unpaid) | United States Remote | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/armada/jobs/5232966008) |
 | Ascend Performance Materials | Data Science Intern | Houston, TX | Not specified | 2026-06-02 | [Apply](https://ascendperformancematerials.wd1.myworkdayjobs.com/ascend/job/Houston-TX/Data-Science-Intern_R0005593) |
 | Ascensus | Actuarial Intern | India | Not specified | 2026-06-02 | [Apply](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Chennai-India/Intern--India_R0021372) |
 | Ascensus | Compliance Intern | India | Not specified | 2026-06-02 | [Apply](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Chennai-India/Intern--India_R0021400) |
@@ -2589,7 +2620,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Astranis | Propulsion Manufacturing Intern (Fall 2026) | San Francisco | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4679102006) |
 | Astranis | Reliability Design Intern (Summer 2026) | San Francisco | Summer 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681471006) |
 | Astranis | Reliability Test Intern (Fall 2026) | San Francisco | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4677973006) |
-| Astranis | Software Engineer Intern - Data Platform (Summer 2026) | San Francisco, Canada | Summer 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4667477006) |
 | Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Astranis | Spectrum Engineering Intern (Summer 2026) | San Francisco | Summer 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4671835006) |
 | Astranis | Technical Project Management Intern (Summer 2026) | San Francisco | Summer 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4655681006) |
@@ -2791,7 +2821,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cambium Learning Group | Provisioning Technician Intern | Ann Arbor, MI | Not specified | 2026-06-02 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Ann-Arbor-MI/Provisioning-Technician-Intern_REQ-4466) |
 | Cambridge Mobile Telematics | Internships at CMT | Cambridge, MA | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/cmt/jobs/6300371) |
 | Capital Power | Central and Electrical Engineering Intern | Phoenix | Not specified | 2026-06-02 | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Phoenix/Central-and-Electrical-Engineering-Intern_JR806621) |
-| Capital Technology Group | Business Development Intern | Dc Usa) | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5142262007?gh_jid=5142262007) |
 | Cardinal Health | Intern, Nuclear Pharmacy | Il-Glendale Heights Nucl Pharm | Not specified | 2026-06-02 | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IL-Glendale-Heights-Nucl-Pharm/Intern--Nuclear-Pharmacy_20180133) |
 | Cardinal Health | Student Warehouse Associate | Canada-Vaughan-Applewood | Not specified | 2026-06-02 | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Canada-Vaughan-Applewood/Student-Warehouse-Associate_20181297) |
 | CareBridge | Social Work Intern - Summer 2026 (Puerto Rico) | Offices A & B / Ramal | Summer 2026 | 2026-06-02 | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/PR-BAYAMON-PLAZA-TROPICAL-SHOPPING-CENTER-CARRETERA-167-MARGINAL-OESTE-FOREST-HILLS-OFFICES-A--B/Social-Work-Intern---Summer-2026--Puerto-Rico-_JR192373) |
@@ -2836,8 +2865,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Celonis | Intern Sales Development Program (Nordic Market) | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7719330003?gh_jid=7719330003) |
 | Celonis | Intern Sales Development Program (Portuguese-Speaking) | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7564573003?gh_jid=7564573003) |
 | Celonis | Intern Sales Development Program (Turkish-Speaking) | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7592640003?gh_jid=7592640003) |
-| Celonis | Intern Strategic Program Management | Germany | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7749565003?gh_jid=7749565003) |
-| Celonis | Intern Strategic Program Management | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7752798003?gh_jid=7752798003) |
 | Celonis | Intern Strategy & Operations | London, United Kingdom | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7731930003?gh_jid=7731930003) |
 | Celonis | Intern Strategy & Operations | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7599937003?gh_jid=7599937003) |
 | Celonis | People Operations Graduate Internship (12 months) | Spain | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7611883003?gh_jid=7611883003) |
@@ -3118,7 +3145,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cloudflare | Business Analyst Intern, Marketing (July to December 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) |
 | Cloudflare | Global Trade Compliance Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) |
 | Cloudflare | GRC Team Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564) |
-| Cloudflare | Marketing Events and Campaigns Intern (Mid-Year 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | Cloudflare | Network Engineering Intern (July to December 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) |
 | Cloudflare | Network Engineering Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) |
 | Cloudflare | People Operations Intern (July to December 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) |
@@ -3126,7 +3152,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cloudflare | People Team Intern - HR Operations & AI Innovation (Fall 2026) | In-Office | Fall 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) |
 | Cloudflare | Public Policy Intern, APJC (July to December 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) |
 | Cloudflare | Sales: Solutions Engineer - Intern (Summer & Fall 2026) | In-Office | Fall 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) |
-| Cloudflare | Solutions Engineer Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) |
 | Cloudflare | Technical Support Engineer Intern (July to December 2026) | In-Office | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) |
 | Cloudflare | Technical Support Engineer Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) |
 | Cloudflare | Threat Detection and Incident Response Intern (Summer 2026) | In-Office | Summer 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) |
@@ -3645,7 +3670,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dexcom | IT Intern | Malaysia | Not specified | 2026-06-02 | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/IT-Intern_JR117029) |
 | Direct Supply | Applied AI Intern | Milwaukee, WI | Not specified | 2026-06-02 | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Applied-AI-Intern_REQ-2025-2192) |
 | Doctors Without Borders | Data Science Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) |
-| Doctors Without Borders | Principal & Major Gifts Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/msfcareers/jobs/5201856008) |
 | Docugami | Data Science Graduate Student Intern | France | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/docugami/jobs/6639057003) |
 | Docugami | Data Science PhD Intern | Washington, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4192122003) |
 | Docugami | Software Engineering Intern | Washington, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4014838003) |
@@ -3742,7 +3766,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Endeavor Health | Pre Doctoral Intern-Days-LOMG Behavioral Integration | Edo Naperville 1331 W 75th Street / Edh Mob 2 Naperville 120 Spalding Drive / Nch 900 W Central Rd Arlington Heights | Not specified | 2026-06-02 | [Apply](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EDO-Naperville-1331-W-75th-Street/Pre-Doctoral-Intern-Days-LOMG-Behavioral-Integration_R43196) |
 | Endeavor Health | Research Summer Intern-Surgery | Evh Evanston Hospital | Summer | 2026-06-02 | [Apply](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Evanston-Hospital/Research-Summer-Intern-Surgery_R40456) |
 | EnergyHub | Engineering Intern - C&I | New York | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8524848002) |
-| EnergyHub | Engineering Intern - Data Engineering | New York | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8523607002) |
 | EnergyHub | Engineering Intern - EV | New York | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8524847002) |
 | EnergyHub | Technical Writing Intern | United States Remote | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8534509002) |
 | ENOVIS | Product Development Co-Op | Atlanta, United States | Not specified | 2026-06-02 | [Apply](https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Georgia-Atlanta/Product-Development-Co-Op_R0031502) |
@@ -4238,9 +4261,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Guidehouse | Intern Energy & Sustainability | NL Utrecht | Not specified | 2026-06-02 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/NL---Utrecht/Intern-Energy---Sustainability_39796) |
 | Guidehouse | Intern Energy & Sustainability (public sector focus) | NL Utrecht | Not specified | 2026-06-02 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/NL---Utrecht/Intern-Energy---Sustainability--public-sector-focus-_40040) |
 | Guidepoint | Associate Intern, Client Service | Greece | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8376407002) |
-| Guidepoint | Client Service Intern | Japan | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8505455002) |
 | Guidepoint | Client Service Intern | China | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8399906002) |
-| Guidepoint | Talent Acquisition Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8548724002) |
+| Guidepoint | Client Service Intern | Japan | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8505455002) |
 | Guidewire | Actuarial Product-Research Intern | Poland Krakow | Not specified | 2026-06-02 | [Apply](https://guidewire.wd5.myworkdayjobs.com/external/job/Poland---Krakow/Actuarial-Product-Research-Intern_JR_14546) |
 | Gunvor | Back Office Intern | Singapore | Not specified | 2026-06-02 | [Apply](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Singapore/Back-Office-Intern_JR102624-1) |
 | Gunvor | EPA Compliance Intern | Houston | Not specified | 2026-06-02 | [Apply](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/EPA-Compliance-Intern_JR102588-1) |
@@ -5302,7 +5324,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Neuralink | Mechanical Engineering Intern, Robotics | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003) |
 | Neuralink | Neuroengineer Intern | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003) |
 | Neuralink | Robot Optics Intern | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003) |
-| Neuralink | Software Engineer Intern | Texas, United States / California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003) |
 | Neuralink | Software Engineer Intern, BCI Applications | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) |
 | Neuralink | Software Engineer Intern, Implant | Texas, United States / California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) |
 | Neuralink | Software Engineer Intern, Infrastructure | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) |
@@ -5442,9 +5463,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | OLG | Governance Analyst Student (8 Month Co-op) | Toronto, ON, Canada / Sault Ste. Marie, ON, Canada | Not specified | 2026-06-02 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Governance-Analyst-Student--8-Month-Co-op-_R26_00434) |
 | Olsson | General Internship Application | Baton Rouge, LA / Colorado Springs, CO / Dallas, TX / Denver, CO / Des Moines, IA / Fayetteville, AR / Fort Worth, TX / Grand Island, NE / Holdrege, NE / Irvine, Canada / Joplin, MO / Kansas City, MO / Kearney, NE / La Vista, NE / Lincoln, NE / Little Rock, AR / Loveland, CO / Manhattan, KS / Norfolk, NE / North Kansas City, MO / Oklahoma City, OK / Olathe, KS / Omaha, NE / Overland Park, KS / Phoenix, AZ / South Sioux City, NE / Springfield, MO / St. Louis, MO / Tempe, AZ / Tulsa, OK | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4632038008) |
 | Olsson | Marketing Student Internship | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5142358008) |
-| Olsson | Student Internship - Geotechnical | Grand Island, NE / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5220710008) |
 | OMERS | Intern, Real Estate Investments (Fall  2026) | Central Singapore | Fall 2026 | 2026-06-02 | [Apply](https://omers.wd3.myworkdayjobs.com/omers_external/job/Singapore-Central-Singapore/Intern--Real-Estate-Investments--Fall--2026-_JR-8099) |
-| Omnicom Health | 2026 Bold Beginners - Medical Strategy Intern | New York, NY | 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/omnicomhealth/jobs/5123397008) |
 | Omnicom Health | Graphic designer - Internship | Barcelona, ES | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/omnicomhealth/jobs/4542432008) |
 | Omnicom Health | Internship - People Operations Trainee | Barcelona, ES | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/omnicomhealth/jobs/5218623008) |
 | Omnicom Health | Project Administrator Intern | Bollington, United Kingdom | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/omnicomhealth/jobs/5151607008) |
@@ -5591,7 +5610,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pfizer | Senior Director/Team Head--Oncology Late Stage Data Review | United States Massachusetts Cambridge / United States California La Jolla / United States Washington – Bothell / Canada Quebec Kirkland / United States New York New York City / United States Pennsylvania Collegeville / United States Connecticut Groton | Not specified | 2026-06-02 | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Senior-Director-Team-Head--Oncology-Late-Stage-Data-Review_4955962-1) |
 | Phamily | Business Intelligence & Data Analytics Intern (Undergraduate) | New York, NY | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5227296008) |
 | Phamily | HR, AI Automation Intern | New York City | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5225795008) |
-| Phamily | Intern:  AI Native Process Automation | Nyc | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5215197008) |
 | Phamily | MBA Intern | Nyc | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5215198008) |
 | Phamily | MBA Intern - Project Manager | Nyc | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5234037008) |
 | Phamily | MBA Intern- Revenue (RPM Commercialization) | New York, NY | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5228311008) |
@@ -5708,15 +5726,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PlusAI | Systems Engineering Intern | Santa Clara, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2) |
 | Podium | IT Helpdesk Intern | Utah | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/podium81/jobs/7931913) |
 | Podium | Software Engineering Intern | Utah | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
-| Point72 | 2026 Finance Summer Internship, Warsaw (Payroll) | Warsaw | Summer | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002) |
 | Point72 | 2026 Technology Internship – Software Engineer | Poland | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) |
 | Point72 | 2026 Warsaw Market Intelligence – Platform DevOps Internship | Poland | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8425028002?gh_jid=8425028002) |
 | Point72 | 2026 Warsaw MI Data – Web Scraping Internship | Poland | 2026 | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002) |
 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong | Hong Kong | Summer | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002) |
 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Japan | Japan | Summer | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) |
 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore | Singapore | Summer | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) |
-| Point72 | Cubist Quantitative Researcher Intern | Hong Kong | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) |
 | Point72 | Cubist Quantitative Researcher Intern | Singapore | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) |
+| Point72 | Cubist Quantitative Researcher Intern | Hong Kong | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) |
 | Point72 | Machine Learning Researcher - Intern | New York | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | Point72 | Quantitative Developer Intern | New York | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
 | Point72 | Quantitative Research Intern | Seattle | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
@@ -6140,14 +6157,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rocket Lab USA | Additive Manufacturing Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7730636003) |
 | Rocket Lab USA | Business Development Intern Fall 2026 | Albuquerque, NM | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7727128003) |
 | Rocket Lab USA | Combustion Devices Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728523003) |
-| Rocket Lab USA | Electrical Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7725243003) |
 | Rocket Lab USA | Electrical Engineering Intern Fall 2026 | Can | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7727835003) |
+| Rocket Lab USA | Electrical Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7725243003) |
 | Rocket Lab USA | HITL Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) |
 | Rocket Lab USA | Indirect Procurement Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7726463003) |
 | Rocket Lab USA | Integration & Test Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003) |
 | Rocket Lab USA | Manufacturing Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7733900003) |
-| Rocket Lab USA | Mechanical Engineering Intern Fall 2026 | Can | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7727772003) |
 | Rocket Lab USA | Mechanical Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728969003) |
+| Rocket Lab USA | Mechanical Engineering Intern Fall 2026 | Can | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7727772003) |
 | Rocket Lab USA | Mission Operation Intern Fall 2026 | Littleton, CO | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7735978003) |
 | Rocket Lab USA | Mission Operation Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7735976003) |
 | Rocket Lab USA | People & Culture Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736107003) |
@@ -6156,8 +6173,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rocket Lab USA | R&D Engineering Intern Fall 2026 | Albuquerque, NM | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736088003) |
 | Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | Rocket Lab USA | Structural Analysis Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7734020003) |
-| Rocket Lab USA | Supply Chain Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728092003) |
 | Rocket Lab USA | Supply Chain Intern Fall 2026 | Middle River, MD | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7733795003) |
+| Rocket Lab USA | Supply Chain Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728092003) |
 | Rocket Lab USA | Systems Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | Rocket Lab USA | Test Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7725336003) |
 | Rocket Lab USA | Thermal Engineering Intern Fall 2026 | Long Beach, Canada | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7727740003) |
@@ -6394,22 +6411,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sila Nanotechnologies | Accounting Intern | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7940145) |
 | Sila Nanotechnologies | Battery Simulation & Computational Scientist Internship | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) |
 | Sila Nanotechnologies | Physics-Based Modeling Internship/Co-Op | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7939488) |
-| Sila Nanotechnologies | Software Internship - AI & Battery Informatics | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7624654) |
 | SitusAMC | Intern, Appraisal & Consulting | West Des Moines, IA | Not specified | 2026-06-02 | [Apply](https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/West-Des-Moines-IA/Intern--Appraisal---Consulting_JR02415) |
 | Skechers | Marketing Intern - Waalwijk | Netherlands | Not specified | 2026-06-02 | [Apply](https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Waalwijk-Netherlands/Marketing-Intern---Waalwijk_JR127768) |
 | Skechers | Stage - Addetto/a vendite - Outlet Franciacorta | Rodengo Saiano, BS | Not specified | 2026-06-02 | [Apply](https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Rodengo-Saiano-BS-Italy/Stage---Addetto-a-vendite---Outlet-Franciacorta_JR128553) |
 | Skild AI | Social Media Intern | San Mateo | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/skildai-careers/jobs/5118313008) |
 | Slate Auto | EV Thermal Systems Engineer Intern | Michigan | Not specified | 2026-06-02 | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/EV-Thermal-Systems-Engineer-Intern_JR100485) |
-| Smartly.io | Brand Design Intern | Illinois, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5997080004) |
-| Smartly.io | Compensation & People Analytics Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5995737004) |
-| Smartly.io | Corporate Communications Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5989014004) |
-| Smartly.io | Customer Success Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5997152004) |
-| Smartly.io | Growth Marketing Intern - Website, Email, and Marketing Operations | Illinois, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5969155004) |
-| Smartly.io | Marketing Science Intern | Illinois, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5997171004) |
-| Smartly.io | Revenue Operations Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5995786004) |
-| Smartly.io | Sales Enablement & Competitive Intelligence Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5969168004) |
-| Smartly.io | Summer Internship Program (General Application) | New York, United States | Summer | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5841995004) |
-| Smartly.io | Workplace Experience Intern | New York, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/smartlyio/jobs/5995324004) |
 | Smith+Nephew | Learning & Development, Intern | Mys Penang | Not specified | 2026-06-02 | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/MYS---Penang/Learning---Development--Intern_R90582) |
 | Snyk | Account Payable Intern | Romania Cluj Office | Not specified | 2026-06-02 | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/Romania---Cluj-Office/Intern_JR100616) |
 | Snyk | Co-op | United States Boston Office | Not specified | 2026-06-02 | [Apply](https://snyk.wd103.myworkdayjobs.com/External/job/United-States---Boston-Office/Co-op_JR100568) |
@@ -6425,7 +6431,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SoloPulse | Radar Digital Signal Processing (DSP) Intern/Co-Op | Peachtree Corners, GA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
 | SoloPulse | Software Engineer Intern/Co-Op - Spring/Summer 2026 | Peachtree Corners, GA | Summer 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/e430dd0f-8a73-46ec-8aea-739e1a5c1f9c) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
-| Sono Bello | Intern- Brand Marketing | Wa Bellevue | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/sonobello/jobs/5202412008) |
 | Sono Bello | Intern- IT Helpdesk | Wa Bellevue | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/sonobello/jobs/5178320008) |
 | Sonoco | Stagiaire Ressources Humaines | Fra Boulogne D349 | Not specified | 2026-06-02 | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/FRA---Boulogne---D349/Stagiaire-Ressources-Humaines_JR-157532-3) |
 | Sony | Emerging Mkts Marketing Communications Intern (May to Aug 2026) | Singapore | 2026 | 2026-06-02 | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Singapore/Emerging-Mkts-Marketing-Communications-Intern--May-to-Aug-2026-_JR-118666) |
@@ -6671,11 +6676,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The New School | Textiles Student Assistant | Jj 39 West 13th Street | Not specified | 2026-06-02 | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/JJ---39-West-13th-Street/Textiles-Student-Assistant_JR108880) |
 | The New School | UC Sewing Student Assistant- FWS | U 63 Fifth Avenue | Not specified | 2026-06-02 | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/U---63-Fifth-Avenue/UC-Sewing-Student-Assistant--FWS_JR108900) |
 | The New York Times | Advertising Creative Intern | New York, NY | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4629636005) |
-| The New York Times | AI Strategy Intern | New York, NY | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4626649005) |
 | The New York Times | Marketing Team, Wirecutter Intern | New York, NY | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623465005) |
 | The Scion Group | Assistant Community Manager-- Student Housing | Columbia | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8534858002) |
 | The Scion Group | Maintenance Manager, Student Housing | Illinois, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8471811002) |
-| The Scion Group | Property Manager - Student Housing Required | California, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8494844002) |
 | The Scion Group | Regional Marketing Associate - Student Housing Exp Required | Illinois, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8536544002) |
 | The Trade Desk | 2026 Australia Software Engineering Internship | Sydney | 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007) |
 | The Walt Disney Company | 2026 Summer Internship - Stage Management, Events / Show Operations | Hong Kong | Summer 2026 | 2026-06-02 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lantau-Island-Hong-Kong/XMLNAME-2026-Summer-Internship---Stage-Management--Events---Show-Operations_10139318-2) |
@@ -7100,9 +7103,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Varda Space | Flight Software Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
 | Varda Space | Guidance, Navigation and Controls (GNC) Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7671170003) |
 | Varda Space | Mechanical Engineering Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7670782003) |
-| Varda Space | Mechanisms - Payload Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7663130003) |
 | Varda Space | Mission Operations Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) |
-| Varda Space | Propulsion Engineering Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7660758003) |
 | Varda Space | Recruiting Operations Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7684113003) |
 | Varda Space | Vehicle Integration and Test Internship - Fall 2026 | California, United States | Fall 2026 | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7660858003) |
 | Varian | Manufacturing Engineer Assistant Co-Op | Yow B | Not specified | 2026-06-02 | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Manufacturing-Engineer-Assistant-Co-Op_R-28933) |
@@ -7340,7 +7341,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Geotab | Digital Marketing EMEA, Intern (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5182221008) |
 | Geotab | Enterprise Portfolio Project Coordinator Intern (Fall/September 2028, 8 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5161653008) |
 | Geotab | Events Intern (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5177753008) |
-| Geotab | Integrations Engineering Intern (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5168598008) |
 | Geotab | Learning & Development Intern (Fall/September 2026, 8+ Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5183112008) |
 | Geotab | Marketing Intern, Regional (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145467008) |
 | Geotab | Marketing Intern, U.S. (Fall/September 2026, 12 Months) | Georgia USA | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145466008) |
@@ -7350,7 +7350,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Geotab | Product Coordinator Intern (Fall/September 2026, 8 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5019374008) |
 | Geotab | Product Delivery Management Intern (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5181573008) |
 | Geotab | Product Marketing Intern (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008) |
-| Geotab | Program Analyst Intern, Customer Success Operations (Fall/September 2026, 12 Months) | British Columbia Canada / Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185517008) |
 | Geotab | Software Developer Intern, Giga (Fall/September 2026, 12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) |
 | Geotab | Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008) |
 | Geotab | Software Developer Intern, Prism (Fall/September 2026, 8-12 Months) | Ontario Canada | Fall | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) |
@@ -7423,12 +7422,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tenstorrent | Machine Learning Intern, AI Compiler - Model Training (Serbia) | Serbia | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5076959007) |
 | Tenstorrent | Mechanical Engineer, Intern | Toronto, ON, Canada | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873587007) |
 | Tenstorrent | ML Models Implementation & Performance Optimization, Intern (Serbia) | Serbia | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5082990007) |
-| Tenstorrent | Models Infra - Product Software Intern (Serbia) | Serbia | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5082997007) |
 | Tenstorrent | Physical Design Intern - CPU/AI Hardware | Texas, United States / California, United States | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) |
 | Tenstorrent | Software Engineer Intern, AI Compiler (Serbia) | Serbia | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5080887007) |
 | Tenstorrent | Software Engineering Intern, Kernel Optimization (Serbia) | Serbia | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5096351007) |
-| Tenstorrent | Software Intern - AI Compilers | Texas, United States | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
 | Tenstorrent | Software Intern - AI Compilers | California, United States | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
+| Tenstorrent | Software Intern - AI Compilers | Texas, United States | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
 | Unilever | STAGE – Juriste droit des affaires / droit économique | Rueil Malmaison, France | Not specified | 2026-06-01 | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rueil-Malmaison-France/STAGE---Juriste-droit-des-affaires---droit-conomique_R-1177397) |
 | Unilever | Supply Chain Performance & Optimization Intern (d/f/m) | Poland | Not specified | 2026-06-01 | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Katowice-Poland/Supply-Chain-Performance---Optimization-Intern--d-f-m-_R-1181214) |
 | Visier Solutions | Software Developer Co-op | Vancouver, BC, Canada | Not specified | 2026-06-01 | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677125006) |
@@ -7761,8 +7759,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NVIDIA | Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026 | United States Remote | Fall 2026 | 2026-05-23 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) |
 | Squarepoint Capital | Intern Software Developer - Fall 2026 | Montreal | Fall 2026 | 2026-05-23 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) |
 | Squarepoint Capital | Intern Software Developer - Summer 2026 | Warsaw | Summer 2026 | 2026-05-23 | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) |
-| Stripe | PhD Data Scientist, Intern | Chicago | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) |
 | Stripe | PhD Data Scientist, Intern | Toronto, ON, Canada | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7285974) |
+| Stripe | PhD Data Scientist, Intern | Chicago | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) |
 | Stripe | Software Engineer, Intern | Australia | Not specified | 2026-05-23 | [Apply](https://stripe.com/jobs/search?gh_jid=7532256) |
 | Acceldata | Field Engineering Co-Op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f) |
 | Acceldata | Sales Engineering Co-Op | Kitchener | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/acceldata/ffd01330-b32f-4868-9390-3af135335ab0) |
