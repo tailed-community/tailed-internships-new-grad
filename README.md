@@ -177,6 +177,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Construction Intern | Atlanta, GA | Not specified | 2026-06-11 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Atlanta-GA/Construction-Intern_JR13739) |
 | Ferrovial | HR Innovation Internship | Madrid | Not specified | 2026-06-11 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/HR-Innovation-Internship_JR17805) |
 | Ferrovial | InSite Support Internship | Madrid | Not specified | 2026-06-11 | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/InSite-Support-Intern_JR17810) |
+| Field AI | Field Application Engineer -Intern | Irvine, Canada | Not specified | 2026-06-11 | [Apply](https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d) |
 | Fiserv | Technology - Summer Intern | Slovakia | Summer | 2026-06-11 | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Bratislava-Slovakia/Technology---Summer-Intern_R-10388724) |
 | Flextronics International | SCM Intern -- Data analysis-2 | Shanghai | Not specified | 2026-06-11 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/China-Shanghai/SCM-Intern----Data-analysis-2_WD222965) |
 | Freudenberg Group | Engineering Intern | Plymouth, MI | Not specified | 2026-06-11 | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/Engineering-Intern_R_00103225) |
@@ -340,6 +341,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sun Life | Student, Financial Analyst (Fall 2026) | Waterloo, ON / Sun Life Toronto One York | Fall 2026 | 2026-06-11 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Financial-Analyst--Fall-2026-_JR00124845-1) |
 | Sun Life | Student, Front End Developer (Fall 2026) | Waterloo, ON / Toronto, ON | Fall 2026 | 2026-06-11 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Front-End-Developer--Fall-2026-_JR00124851) |
 | Teledyne | Engineering Intern | UK Shipley | Not specified | 2026-06-11 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Shipley/Engineering-Intern_REQ31461) |
+| Telesat | Business Development Intern | Arlington, VA | Not specified | 2026-06-11 | [Apply](https://jobs.lever.co/telesat/35fbe0fb-05be-4581-a191-ca2a8cc06b28) |
+| Telesat | Communications Systems Analyst Intern | Arlington, VA | Not specified | 2026-06-11 | [Apply](https://jobs.lever.co/telesat/5321efa6-d788-4eb8-9bcb-ced2a0b15e89) |
 | Thales | HR Intern (Shared Services) | Singapore | Not specified | 2026-06-11 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/HR-Intern--Shared-Services-_R0331002) |
 | Thales | Inventory clerk Intern | Johannesburg | Not specified | 2026-06-11 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Johannesburg/Inventory-clerk-Intern_R0329817) |
 | Thales | Product Support Intern | Maynila | Not specified | 2026-06-11 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Maynila/Product-Support-Intern_R0330530) |
@@ -348,6 +351,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Stage Mgr-Attractions | Anaheim, United States | Not specified | 2026-06-11 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Stage-Mgr-Attractions_10153113) |
 | The Walt Disney Company | Working Student Studio Distribution | Germany | Not specified | 2026-06-11 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Munich-Germany/Working-Student-Studio-Distribution_10151656-1) |
 | TMX Group | Controllership Intern | Toronto 100 Adelaide St W | Not specified | 2026-06-11 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Controllership-Intern_R-5996) |
+| Toyota Research Institute | Human Interactive Driving Intern – World Models | Los Altos, Canada | Not specified | 2026-06-11 | [Apply](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149) |
 | Trimble | UX/UI Design Intern | New Zealand Christchurch | Not specified | 2026-06-11 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/New-Zealand---Christchurch/UX-UI-Design-Intern_R56041) |
 | Tyson Foods | Supply Planning Year-round Intern | Arkansas | Not specified | 2026-06-11 | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Supply-Planning-Year-round-Intern_R0466685-2) |
 | UBC | Grad Student Support 3 | Ubc Vancouver Campus Vancouver, BC, Canada | Not specified | 2026-06-11 | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Grad-Student-Support-3_JR24873) |
@@ -5731,7 +5735,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Onto Innovation | Electrical Engineer Internship | Wilmington-Ma (upton) | Not specified | 2026-06-02 | [Apply](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Electrical-Engineer-Internship_R-5931) |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-Mn | Not specified | 2026-06-02 | [Apply](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723) |
 | Onto Innovation | Summer Purchasing Intern | Bloomington-Mn | Summer | 2026-06-02 | [Apply](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Summer-Purchasing-Intern_R-6019) |
-| OraSure Technologies | Intern-Enterprise Applications | Bethlehem, PA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/dnagenotek/9ef3844a-5474-4990-a41e-ad1ccd654368) |
 | Oregon State Government | ODHS Intern | Salem \| Dhs \| Summer Street | Not specified | 2026-06-02 | [Apply](https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--DHS--Summer-Street/ODHS-Intern_REQ-111415) |
 | Oshkosh | Pricing Analyst Intern | Wisconsin, United States | Not specified | 2026-06-02 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Pricing-Analyst-Intern_R46760) |
 | Oshkosh | Student Painter - 1st Shift | Florida, United States | Not specified | 2026-06-02 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Clearwater-Florida-United-States/Student-Painter---1st-Shift_R47234) |
@@ -5755,7 +5758,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) |
 | Palantir | Forward Deployed Software Engineer, Internship - Poland | New York, NY | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
-| Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | D.c. | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | D.c. | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | New York, NY | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
@@ -7445,11 +7447,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Xometry | TMS Marketing Intern | North Bethesda, MD | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/xometry/jobs/5012464007) |
 | XPENG Motors | Agentic Infrastructure Engineer Intern | Santa Clara, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
 | XPENG Motors | AI Intern – VLA Deployment | Santa Clara, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
-| Xsolla | HR intern | China | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/b65f369e-a9e0-4f6e-8e85-bd9f851671b1) |
 | Xsolla | Human Resources Intern | Los Angeles, United States | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/dc809dc8-d412-45b9-9dbb-f2968f5ac3fd) |
 | Xsolla | Internship Opportunity | Los Angeles, United States | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
 | Xsolla | Project Coordinator - Engineering Team (Intern) | Kuala Lumpur | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/2c63b218-d4ce-4f94-a124-69e179f468fb) |
-| Xsolla | Xsolla School - Student Application | Baku | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/063f243f-81ea-49fa-bcd0-f507a6570987) |
 | Xsolla | Xsolla School – Student Application | China | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/26a98b5c-ca2c-4ab9-934c-52ad1cedd9e0) |
 | Xsolla | Xsolla School – Student Application (Engineering) | Montreal / Los Angeles, United States / Raleigh, United States | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/c427ec2a-365e-4be2-b91c-5ccb7d5b93fb) |
 | Xylem | Dualer Student Maschinenbau (m/w/d) | Weilheim | Not specified | 2026-06-02 | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Maschinenbau--m-w-d-_R41048) |
@@ -7507,7 +7507,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ZOLL Medical Corporation | Operations Engineering Co-Op - Fall Semester | Pittsburgh, PA | Fall | 2026-06-02 | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Fall-Semester_R18162) |
 | ZOLL Medical Corporation | Operations Engineering Intern | US CA San Jose | Not specified | 2026-06-02 | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-CA-San-Jose/Operations-Engineering-Intern_R19300) |
 | ZOLL Medical Corporation | Stagiaire- Assistant(e) Compliance Officer | Voisins Le Bretonneux, France | Not specified | 2026-06-02 | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Voisins-le-Bretonneux-France/Stagiaire--Assistant-e--Compliance-Officer_R19256-1) |
-| Zoox | Part Time Student Worker  – Performance Optimization & Agentic Systems | Foster City, Canada / San Diego, Canada / Seattle, WA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/zoox/d7aef0f9-3a54-4fa9-a589-bea526de394f) |
 | Zoox | Part-Time Student Worker - Labeling Technician | Foster City, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/zoox/02247e1c-beb8-432e-a28c-aa297c5da5bb) |
 | Zoox | Part-Time Student Worker AI & Automation: Supply Chain, Quality & Reliability | Foster City, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/zoox/e6aeeac7-f809-4679-b72c-effa5a39223d) |
 | Zoox | Part-time Student Worker – Autonomous Driving & New Geofence Expansion | Foster City, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663) |
