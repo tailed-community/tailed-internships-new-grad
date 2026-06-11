@@ -291,6 +291,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Moog | Intern, Government Relations | Buffalo, NY | Not specified | 2026-06-11 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Government-Relations_R-26-18316) |
 | Moog | Intern, Project Engineering | Buffalo, NY | Not specified | 2026-06-11 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Project-Engineering_R-26-18099) |
 | Motorola Solutions | Software Developer, AI Co-Op | Vancouver, Canada | Not specified | 2026-06-11 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--AI-Co-Op_R65836) |
+| MUBI | Social Media Intern, AR | Argentina / Remote | Not specified | 2026-06-11 | [Apply](https://jobs.ashbyhq.com/MUBI/670bc538-0c29-4f04-a5dd-ad8f5f53ba0e) |
 | Nasdaq | Student Worker – AI/ML Quantitative Research | Lithuania Vilnius | Not specified | 2026-06-11 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Lithuania---Vilnius/Student-Worker---AI-ML-Quantitative-Research_R0026256-1) |
 | Nationwide Children's Hospital | Research Intern - RI CHEOR Davenport | Columbus, OH | Not specified | 2026-06-11 | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/Research-Intern---RI-CHEOR-Davenport_R-24930-2) |
 | NatWest Group | AI ML Intern (2026 Graduates, 6-Month Internship) | Bengaluru | 2026 | 2026-06-11 | [Apply](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer-Intern--2026-Graduates--6-Month-Internship-_R-00278978) |
@@ -1407,7 +1408,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | City of Austin | Public Health Temporary/Intern Opportunities | Grove Campus | Not specified | 2026-06-08 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Grove-Campus/Public-Health-Temporary-Intern-Opportunities_JR104073) |
 | Cluely | Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108) |
 | Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / United States / Europe / United Kingdom / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| Cohere | Research Internship (Fall, 2026) | Canada / Montreal / United Kingdom / Europe / United States / Toronto / San Francisco / London / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
+| Cohere | Research Internship (Fall, 2026) | Canada / United Kingdom / Europe / United States / Toronto / San Francisco / London / Montreal / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Research Internship Reinforcement Learning (Summer) | Paris, France / France / France Remote | Summer | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525) |
 | Cohere | Sales Development Intern (Summer, Fall 2026) | South Korea / Remote | Fall 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858) |
 | Cohere | Software Engineer Intern (Fall / Winter 2026) | Canada / United States / Canada Remote | Winter 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
@@ -1438,7 +1439,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | L.l.c. | Not specified | 2026-06-08 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/10999---Garfield-Beach-CVS-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0940145) |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nc New Bern | Not specified | 2026-06-08 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---New-Bern/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0940119) |
 | d-Matrix | Applied AI Engineering Intern | Santa Clara, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7) |
-| d-Matrix | Machine Learning Research Intern | Santa Clara, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93) |
 | Deliveroo | Account Manager - stage | Paris, France | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/914e3a3f-0e5e-42a3-aa02-7829fb10eb6c) |
 | Deliveroo | Account Operation Associate - Internship | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/7a684f2b-6d8c-49ac-b207-f07651dd4e50) |
 | Deliveroo | Finance & Strategy Intern | Paris, France | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/6a8e511c-a997-4894-988d-785bb5e2879f) |
@@ -1524,9 +1524,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jones Lang LaSalle (JLL) | Project and Development Services Intern | Vietnam | Not specified | 2026-06-08 | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Project-and-Development-Services-Intern_REQ513424) |
 | Keyrock | Content Intern (Brussels) | Belgium / London / London Or Brussels | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/keyrock/c067d172-2774-4523-aaf3-c379fb9c12e2) |
 | Keyrock | Content Intern (London) | London, United Kingdom / London Or Brussels / London / Brussels | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/keyrock/46a6f1b9-66fd-421f-a38b-f4476d3b1176) |
-| Keyrock | Quantitative Analyst Intern | London, United Kingdom / Brussels / United Kingdom Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/keyrock/aa611b0b-983b-4e4c-a7c7-eb1d5e98f316) |
-| Kira | Software Engineering Intern | New York City, NY, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8) |
-| Kira | Software Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c) |
 | Kognitos | Software Engineer Intern (AI-Native) — Summer 2026 | California, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5) |
 | Lambda | Accounting AI Intern - Summer 2026 | California, United States / United States Remote | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/lambda/d84c4397-8b15-414b-b488-99ea0180bf18) |
 | Lambda | AI Research Marketing Intern - Summer 2026 | California, United States / United States Remote | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330) |
@@ -1551,15 +1548,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Manhattan Associates | PSO Co-Op - Fall 2026 | Atlanta, GA | Fall 2026 | 2026-06-08 | [Apply](https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/PSO-Co-Op---Fall-2026_16680) |
 | Mariana Minerals | Chemical Engineering Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | Mariana Minerals | Field Engineering Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/aea63917-11ec-4474-b417-e232192c14d4) |
-| Mariana Minerals | Full-Stack Software Engineering Intern | Michigan, United States / San Francisco Hq | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/a8d2878d-bd25-4eff-9957-3925901bc40d) |
 | Mariana Minerals | Geology Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5a18d6c4-df6e-4151-8d1d-26b30058d5c8) |
 | Mariana Minerals | Machine Learning Engineering Intern | Michigan, United States / San Francisco Hq | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/7974b67d-92d8-49a5-bef5-079320962aee) |
 | Mariana Minerals | Mechanical Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/3d0923a9-f0cf-4d96-91c9-5988665bf2f5) |
 | Mariana Minerals | Process Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/4a03388b-7f1c-4c52-9bfc-27c5e6431880) |
-| Mariana Minerals | Project Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/3632d6b6-386a-441d-bb28-ee98b11650dc) |
 | Marsh | Intern - Business Development | Singapore Marina View | Not specified | 2026-06-08 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Intern---Business-Development_R_354137) |
 | Marvell | Digital IC Design Intern | Argentina | Not specified | 2026-06-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) |
-| Matterworks | Product Management Intern (Summer 2026) | United States / United States Remote | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/matterworks/014652db-c9fc-4424-bea3-ae5ff35d540c) |
 | Mechanize | Software Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
 | Medra | Systems Test Engineer - Summer 2026 Internship | Massachusetts, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/medraai/e101fbcf-5d99-4c7e-8ec3-125a1b638905) |
 | Medtronic | Event Management Intern | Hertfordshire, United Kingdom | Not specified | 2026-06-08 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Watford-Hertfordshire-United-Kingdom/Event-Management-Intern_R68437) |
@@ -1689,7 +1683,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Snowflake | Software Engineer Intern (Security) - Fall 2026 | California, United States / US-Wa-Bellevue | Fall 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) |
 | Snowflake | Software Engineer Intern - Berlin (2026) | Germany | 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) |
 | Snowflake | Software Engineer Intern - Zurich (2026) | Switzerland | 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) |
-| Socure | Engineering Intern-DocV & Device | United States / Hybrid San Francisco, Canada / Hybrid Seattle, WA / Hybrid New York, NY / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/socure/017556d2-e70b-41aa-8309-01337c734fd9) |
 | Solink | Software Engineer, COOP | Ottawa, ON, Canada / Canada Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef) |
 | Solva | AI Engineer Internship | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6) |
 | Span | HR Intern | India | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/span/7c30895d-fbc7-4ef6-8f84-83c1d7e39b73) |
