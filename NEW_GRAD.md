@@ -7,6 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| Anduril | 2027 Early Career Electrical Engineer | Georgia, United States / Massachusetts, United States / California, United States / Washington, United States | 2027 | 2026-06-11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
+| Anduril | 2027 Early Career Manufacturing Engineer | Georgia, United States / Massachusetts, United States / California, United States / Washington, United States | 2027 | 2026-06-11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
+| Anduril | 2027 Early Career Mechanical Engineer | Georgia, United States / Massachusetts, United States / California, United States / Washington, United States | 2027 | 2026-06-11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
+| Anduril | 2027 Early Career Software Engineer | Georgia, United States / Massachusetts, United States / California, United States / Washington, United States | 2027 | 2026-06-11 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
 | Avis Budget Group | Entry Level Automotive Technician - FT | Raleigh-Durham International Airport | Not specified | 2026-06-11 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Raleigh-Durham-International-Airport/Entry-Level-Automotive-Technician---FT_R0183839) |
 | Barr | Environmental Permitting Specialist – Entry Level (Hybrid) | Duluth, MN | Not specified | 2026-06-11 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Duluth-MN/Environmental-Permitting-Specialist---Entry-Level--Hybrid-_R-102146) |
 | CACI | Document Management Technician (Entry Level Legal Support) | Washington, DC, United States | Not specified | 2026-06-11 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Document-Management-Technician--Entry-Level-Legal-Support-_324374) |
@@ -31,7 +35,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Northrop Grumman | Cable and Harness Technician -Entry Level | United States-Florida-Melbourne | Not specified | 2026-06-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Cable-and-Harness-Technician--Entry-Level_R10235950) |
 | Northrop Grumman | Composite Bonder Technician - Entry Level | United States-Utah-Clearfield | Not specified | 2026-06-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Composite-Bonder-Technician---Entry-Level_R10236036) |
 | Northrop Grumman | Manufacturing Technician - Entry Level | United States-Mississippi-Iuka | Not specified | 2026-06-11 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Manufacturing-Technician---Entry-Level_R10232037) |
+| Olsson | Entry-Level Geotechnical Engineer | Oklahoma City, OK | Not specified | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5254174008) |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | Not specified | 2026-06-11 | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102209) |
+| SpaceX | Entry Level Production Technician - Temporary | Woodinville, WA | Not specified | 2026-06-11 | [Apply](https://boards.greenhouse.io/spacex/jobs/8585699002?gh_jid=8585699002) |
+| Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | Toronto | Not specified | 2026-06-11 | [Apply](https://stripe.com/jobs/search?gh_jid=7991718) |
 | Takeda | Entry Level Phlebotomist | USA Ga Mcdonough | Not specified | 2026-06-11 | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---McDonough/Entry-Level-Phlebotomist_R0181944-1) |
 | Takeda | Entry Level Phlebotomist (on-the-job training) | USA Md Baltimore East | Not specified | 2026-06-11 | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MD---Baltimore---East/Entry-Level-Phlebotomist--on-the-job-training-_R0181885-1) |
 | The Boeing Company | Entry-Level DSP Algorithms Engineer | USA El Segundo, Canada | Not specified | 2026-06-11 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1) |
@@ -653,9 +660,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
@@ -664,8 +671,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) |
-| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5214970008) |
+| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
 | Otis Worldwide | Entry Level Electrical Engineer | Farmington, CT | Not specified | 2026-06-02 | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Entry-Level-Electrical-Engineer_20156950) |
 | Pacific Life | Early Career Talent Partner | Omaha Ne-6750 | Not specified | 2026-06-02 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Omaha-NE-6750/Early-Career-Talent-Partner_R15950) |
 | Pennsylvania State University | Graduate Program Support Coordinator | Penn State University Park | Not specified | 2026-06-02 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Program-Support-Coordinator_REQ_0000076506-2) |
