@@ -20,6 +20,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| 1Password | Developer Intern, Client Secrets Management- Fall 2026 | United States Remote | Fall 2026 | 2026-06-13 | [Apply](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c) |
 | ABB | Intern | China | Not specified | 2026-06-13 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Intern_JR00037885-2) |
 | ABB | Purchasing Internship | Mexico | Not specified | 2026-06-13 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Purchasing-Internship_JR00031867) |
 | ABB | R&D Intern | China | Not specified | 2026-06-13 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/R-D-Intern_JR00036774-1) |
@@ -123,6 +124,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Harbinger Motors | Intern, Production Data Analytics | Garden Grove, Canada | Not specified | 2026-06-13 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) |
 | Harbinger Motors | Intern, Test Engineering | Garden Grove, Canada | Not specified | 2026-06-13 | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5164330007) |
 | Harris Computer | Growth Marketing Intern | Arizona, United States | Not specified | 2026-06-13 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Arizona-United-States/Growth-Marketing-Intern_R0044221) |
+| Heron Power | Intern, Power Electronics Engineer, Spring 2027 | California, United States | Spring 2027 | 2026-06-13 | [Apply](https://jobs.ashbyhq.com/heron-power/b220d7a4-19a9-416b-85cf-9dc8f9f46f40) |
 | Hitachi | Project Management Intern | Republic Of Korea | Not specified | 2026-06-13 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cheonan-si-Chungcheongnam-do-Republic-of-Korea/Project-Management-Intern_R0133541) |
 | HNTB | Construction Inspection Intern - Summer 2026 | Wv (elkins) | Summer 2026 | 2026-06-13 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Fairmont-WV-Elkins/Construction-Inspection-Intern---Summer-2026_R-30508-1) |
 | HPE | Business Development Intern - Spanish Speaker | Berkshire, United Kingdom / London, United Kingdom | Not specified | 2026-06-13 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Business-Development-Intern_1207200-1) |
@@ -1660,7 +1662,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026 | Sao Paulo Sao Paulo Brazil | 2026 | 2026-06-08 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26968359) |
 | City of Austin | Public Health Temporary/Intern Opportunities | Grove Campus | Not specified | 2026-06-08 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Grove-Campus/Public-Health-Temporary-Intern-Opportunities_JR104073) |
 | Cluely | Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108) |
-| Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / United States / Europe / United Kingdom / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / United Kingdom / United States / Europe / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Fall, 2026) | Canada / United Kingdom / Europe / United States / Toronto / San Francisco / London / Montreal / Canada Remote | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Research Internship Reinforcement Learning (Summer) | Paris, France / France / France Remote | Summer | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525) |
 | Cohere | Sales Development Intern (Summer, Fall 2026) | South Korea / Remote | Fall 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858) |
@@ -1756,7 +1758,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Hardware Test Engineering | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2) |
 | Heron Power | Intern, Mechanical Engineer (Fall term) | California, United States | Fall | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/bae1ec8f-af0b-4f8e-b009-4e459b92e769) |
 | Heron Power | Intern, Medium Voltage Test Engineering | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0) |
-| Heron Power | Intern, Power Electronics Engineer, Spring 2026/Summer 2026 | California, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/2289ac70-b237-4500-b429-76a725fdbb6a) |
+| Heron Power | Intern, Power Electronics Engineer, Autumn 2026 | California, United States | 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/2289ac70-b237-4500-b429-76a725fdbb6a) |
 | Heron Power | Intern, Power Magnetics Engineer | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1) |
 | Heron Power | Intern, System Integration & Test Software | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
 | Higharc | Research Intern, Special Projects | United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/higharc/5a7265ed-8db3-480e-9c04-3c9b2d2c235b) |
@@ -1953,7 +1955,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Exploration Company | AIT- MGSE intern | Germany | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/42871307-d111-435a-ab39-9336274fe8b3) |
 | The Exploration Company | Engine Functional Propulsion Intern | Bordeaux, France | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c) |
 | The Exploration Company | MAIT Additive Manufacturing Intern | Germany | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/da22ebf8-8e7c-4239-8814-2deadfd2735e) |
-| The Exploration Company | People Operations Intern | Germany | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/95fb164d-c2f2-4adb-9393-06229d2e4d0a) |
 | The Exploration Company | Procurement Intern | West Coast, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/ece4e3ad-73ac-4188-83d5-9a929ceae86e) |
 | The Exploration Company | Working Student- IT Operations | Germany | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) |
 | The Scion Group | Community Manager - Student Housing | Columbia | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8581856002) |

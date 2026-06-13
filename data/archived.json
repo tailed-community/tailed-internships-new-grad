@@ -73078,5 +73078,33 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-13"
+  },
+  {
+    "id": "ashby-assort-health-64876579-05a2-40b6-a772-d1ce8b0ac8c4",
+    "company": "Assort Health",
+    "title": "Agent Engineer (New Grad, Summer 2026)",
+    "location": "California, United States / New York City / United States Remote",
+    "type": "new_grad",
+    "season": "Summer 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4",
+    "date_posted": "2025-10-27",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-13"
+  },
+  {
+    "id": "ashby-the-exploration-company-95fb164d-c2f2-4adb-9393-06229d2e4d0a",
+    "company": "The Exploration Company",
+    "title": "People Operations Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/the-exploration-company/95fb164d-c2f2-4adb-9393-06229d2e4d0a",
+    "date_posted": "2026-04-20",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-13"
   }
 ]
