@@ -385,6 +385,25 @@
     "enabled": true
   },
   {
+    "company": "AcreTrader",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/acretrader-jobs/jobs",
+    "slug": "acretrader-jobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Actian",
     "source": "lever",
     "url": "https://jobs.lever.co/actian",
@@ -1649,6 +1668,25 @@
     ]
   },
   {
+    "company": "American Rare Earths",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/usare/jobs",
+    "slug": "usare",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "American Red Cross",
     "source": "workday",
     "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers",
@@ -1764,6 +1802,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "amika",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/amika-careers/jobs",
+    "slug": "amika-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -2044,6 +2101,25 @@
     "url": "https://jobs.ashbyhq.com/apex-technology-inc",
     "slug": "apex-technology-inc",
     "enabled": true
+  },
+  {
+    "company": "APEX Analytix",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs",
+    "slug": "apexanalytix-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Apex Companies",
@@ -3231,6 +3307,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "AvicenaTech",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/general/jobs",
+    "slug": "general",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -4938,6 +5033,25 @@
     "enabled": true
   },
   {
+    "company": "Brevian",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/brevian-careers/jobs",
+    "slug": "brevian-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Brigham Young University - Provo",
     "source": "workday",
     "url": "https://byu.wd1.myworkdayjobs.com/byu-careers",
@@ -5530,6 +5644,25 @@
     "url": "https://boards.greenhouse.io/cmt",
     "slug": "cmt",
     "enabled": true
+  },
+  {
+    "company": "Camlin",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/camlin-careers/jobs",
+    "slug": "camlin-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Camping World",
@@ -7122,6 +7255,25 @@
     ]
   },
   {
+    "company": "Cloud SynApps",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/cloud-synapps-inc/jobs",
+    "slug": "cloud-synapps-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Cloudflare",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/cloudflare",
@@ -7482,6 +7634,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Concept Plus",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/conceptplus/jobs",
+    "slug": "conceptplus",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -8454,6 +8625,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Curve Dental",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/curve-dental/jobs",
+    "slug": "curve-dental",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -10261,6 +10451,25 @@
     "enabled": true
   },
   {
+    "company": "EnergyCap",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/energycap-external-career-page/jobs",
+    "slug": "energycap-external-career-page",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "EnergyHub",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/energyhub",
@@ -11891,6 +12100,25 @@
     "enabled": true
   },
   {
+    "company": "Forterra",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/forterra/jobs",
+    "slug": "forterra",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Fortinet",
     "source": "oracle_hcm",
     "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
@@ -11963,6 +12191,25 @@
     "url": "https://boards.greenhouse.io/foundenergy",
     "slug": "foundenergy",
     "enabled": true
+  },
+  {
+    "company": "Foundation",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/foundation-robotics/jobs",
+    "slug": "foundation-robotics",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Four Hands",
@@ -15570,6 +15817,25 @@
     ]
   },
   {
+    "company": "Intelliguard",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/intelliguard/jobs",
+    "slug": "intelliguard",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Interac",
     "source": "workday",
     "url": "https://interac.wd3.myworkdayjobs.com/Interac",
@@ -16512,6 +16778,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Journal Technologies",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/journaltech/jobs",
+    "slug": "journaltech",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -17945,6 +18230,25 @@
     "enabled": true
   },
   {
+    "company": "Loop",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/loop-careers/jobs",
+    "slug": "loop-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Louisiana State University (LSU)",
     "source": "workday",
     "url": "https://lsu.wd1.myworkdayjobs.com/LSU",
@@ -18885,6 +19189,25 @@
     ]
   },
   {
+    "company": "Medicom",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/medicom-careers/jobs",
+    "slug": "medicom-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Medline",
     "source": "workday",
     "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline",
@@ -19350,6 +19673,25 @@
     "url": "https://boards.greenhouse.io/midpointmarkets",
     "slug": "midpointmarkets",
     "enabled": true
+  },
+  {
+    "company": "Mikata Health",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/mikata/jobs",
+    "slug": "mikata",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "MillerKnoll",
@@ -19849,6 +20191,25 @@
     ]
   },
   {
+    "company": "Mytra",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/mytra/jobs",
+    "slug": "mytra",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Nasdaq",
     "source": "workday",
     "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site",
@@ -20084,6 +20445,25 @@
     "enabled": true
   },
   {
+    "company": "Nerdio",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/nerdio-careers/jobs",
+    "slug": "nerdio-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Netflix",
     "source": "workday",
     "url": "https://netflix.wd1.myworkdayjobs.com/Netflix",
@@ -20109,6 +20489,25 @@
     "url": "https://jobs.ashbyhq.com/netic",
     "slug": "netic",
     "enabled": true
+  },
+  {
+    "company": "Netwrix",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/netwrix-corporation/jobs",
+    "slug": "netwrix-corporation",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Neuberger Berman",
@@ -21224,6 +21623,25 @@
     "enabled": true
   },
   {
+    "company": "Omnis",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/omnis-corporation/jobs",
+    "slug": "omnis-corporation",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "OmniSource",
     "source": "icims",
     "url": "https://careers-omnisource.icims.com/jobs/search",
@@ -21840,6 +22258,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Pathos",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/pathos/jobs",
+    "slug": "pathos",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -24145,6 +24582,25 @@
     "enabled": true
   },
   {
+    "company": "Rippling",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/rippling/jobs",
+    "slug": "rippling",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Rite Hite",
     "source": "workday",
     "url": "https://ritehite.wd12.myworkdayjobs.com/RHH",
@@ -24413,6 +24869,25 @@
     "url": "https://jobs.ashbyhq.com/root-access",
     "slug": "root-access",
     "enabled": true
+  },
+  {
+    "company": "Root Insurance",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/joinroot/jobs",
+    "slug": "joinroot",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Royal Bank of Canada",
@@ -27619,6 +28094,25 @@
     ]
   },
   {
+    "company": "T1D Exchange",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/t1d-exchange-career-center/jobs",
+    "slug": "t1d-exchange-career-center",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Taara",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/taaraconnect",
@@ -27837,6 +28331,25 @@
       "new graduate",
       "early career",
       "entry level"
+    ]
+  },
+  {
+    "company": "Teamworks",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/teamworks-careers/jobs",
+    "slug": "teamworks-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
     ]
   },
   {
@@ -28541,6 +29054,25 @@
     ]
   },
   {
+    "company": "TheGuarantors",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/theguarantors-open-positions/jobs",
+    "slug": "theguarantors-open-positions",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Thermo Fisher Scientific",
     "source": "workday",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
@@ -28648,6 +29180,25 @@
     ]
   },
   {
+    "company": "Tidal Financial Group",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/open-roles/jobs",
+    "slug": "open-roles",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Tiffany & Co.",
     "source": "oracle_hcm",
     "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
@@ -28673,6 +29224,25 @@
     "url": "https://jobs.ashbyhq.com/tilderesearch",
     "slug": "tilderesearch",
     "enabled": true
+  },
+  {
+    "company": "Tive",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/tive-careers/jobs",
+    "slug": "tive-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "TKO Group Holdings, Inc",
@@ -29490,6 +30060,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "UHIN",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/uhin-careers/jobs",
+    "slug": "uhin-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -30629,6 +31218,25 @@
     "url": "https://jobs.lever.co/verygoodsecurity",
     "slug": "verygoodsecurity",
     "enabled": true
+  },
+  {
+    "company": "Veryable",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/veryable-careers/jobs",
+    "slug": "veryable-careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Vestwell",
