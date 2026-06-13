@@ -54,6 +54,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ciena | Software Engineer 8 month Co-op - Fall/Winter 2026 | Ottawa | Winter 2026 | 2026-06-13 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200) |
 | Ciena | Software Engineer and Tools Developer Intern (Fall 2026) | Ottawa | Fall 2026 | 2026-06-13 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
 | Cincinnati Children’s Hospital and Medical Center | Student III | Remote | Not specified | 2026-06-13 | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-III_JR221891) |
+| Cirque du Soleil | Régisseur - Spectacles de Tournée - Luzia \| Stage Manager - Touring Shows - Luzia | *en Tournée \| ON Tour | Not specified | 2026-06-13 | [Apply](https://jobs.lever.co/cirquedusoleil/9b7d9a9e-d25b-4656-83bf-b57bacb89044) |
 | CVS Health | Pharmacy Intern | Ma Lynn | Not specified | 2026-06-13 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Lynn/Pharmacy-Intern_R0946331) |
 | CVS Health | Pharmacy Intern | Ma Winthrop | Not specified | 2026-06-13 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Winthrop/Pharmacy-Intern_R0946329) |
 | CVS Health | Pharmacy Intern | Ma Melrose | Not specified | 2026-06-13 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Melrose/Pharmacy-Intern_R0946327) |
@@ -113,6 +114,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hitachi | Project Management Intern | Republic Of Korea | Not specified | 2026-06-13 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cheonan-si-Chungcheongnam-do-Republic-of-Korea/Project-Management-Intern_R0133541) |
 | HNTB | Construction Inspection Intern - Summer 2026 | Wv (elkins) | Summer 2026 | 2026-06-13 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Fairmont-WV-Elkins/Construction-Inspection-Intern---Summer-2026_R-30508-1) |
 | HPE | Business Development Intern - Spanish Speaker | Berkshire, United Kingdom / London, United Kingdom | Not specified | 2026-06-13 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Business-Development-Intern_1207200-1) |
+| Institute of Foundation Models | AI Research Internship - WM | Sunnyvale, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678) |
 | Johnson Controls | NPI Materials Intern | Milwaukee-Wisconsin-United States Of America | Not specified | 2026-06-13 | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Milwaukee-Wisconsin-United-States-of-America/NPI-Materials-Intern_WD30271739) |
 | Johnson Controls | Software Sales Intern | Westford-Massachusetts-United States Of America | Not specified | 2026-06-13 | [Apply](https://jci.wd5.myworkdayjobs.com/jci/job/Westford-Massachusetts-United-States-of-America/Software-Sales-Intern_WD30272112) |
 | Leidos | Data Engineer Intern | Fort Belvoir, VA | Not specified | 2026-06-13 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185350) |
@@ -7324,7 +7326,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vistra | Intern Undergrad - Engineering | Davis-Besse | Not specified | 2026-06-02 | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Davis-Besse/Intern-Undergrad---Engineering_40014794) |
 | Vizient | Summer Intern – Indirect Spend | Irving | Summer | 2026-06-02 | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Summer-Intern---Indirect-Spend_31849R) |
 | Volaris Group | Junior IWMS Project Manager - Intern | United States Tx | Not specified | 2026-06-02 | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R58168-2) |
-| Voltus | Residential Data Analyst Intern | Remote | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/voltus/d30b5349-1023-497f-a5e5-264204071235) |
 | Voltus | Sales Technical Analytics Intern | Remote | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d) |
 | Vulcan Elements | Future Internship Opportunities | Research Triangle Park, NC | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/vulcanelements/jobs/5096079008) |
 | Waabi | 2026 Intern, PhD Research Scientist | Toronto, ON / Pittsburgh, PA / San Francisco, Canada | 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
