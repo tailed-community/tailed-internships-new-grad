@@ -46,6 +46,19 @@ ORACLE_HCM_SEARCH_TERMS = [
     "entry level",
 ]
 
+SMARTRECRUITERS_SEARCH_TERMS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "new grad",
+    "new graduate",
+    "early career",
+    "entry level",
+    "graduate",
+]
+
 TRUE_VALUES = {"true", "yes", "1"}
 FALSE_VALUES = {"false", "no", "0"}
 
@@ -154,6 +167,12 @@ def detect_source(url: str) -> str | None:
         and "sites" in {segment.lower() for segment in path_segments}
     ):
         return "oracle_hcm"
+    if hostname in {"jobs.smartrecruiters.com", "careers.smartrecruiters.com"}:
+        return "smartrecruiters"
+    if hostname == "api.smartrecruiters.com" and "companies" in {
+        segment.lower() for segment in path_segments
+    }:
+        return "smartrecruiters"
     return None
 
 
@@ -295,6 +314,33 @@ def extract_oracle_hcm_parts(url: str) -> tuple[str, str, str, str]:
     return hostname, language, site, canonical_url
 
 
+def extract_smartrecruiters_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    path_segments = [unquote(segment).strip() for segment in parsed.path.split("/") if segment]
+    lowered_segments = [segment.lower() for segment in path_segments]
+    slug = ""
+
+    if hostname == "api.smartrecruiters.com":
+        if "companies" in lowered_segments:
+            companies_index = lowered_segments.index("companies")
+            if companies_index + 1 < len(path_segments):
+                slug = path_segments[companies_index + 1]
+    elif hostname in {"jobs.smartrecruiters.com", "careers.smartrecruiters.com"}:
+        if path_segments and path_segments[0].lower() == "oneclick-ui" and "company" in lowered_segments:
+            company_index = lowered_segments.index("company")
+            if company_index + 1 < len(path_segments):
+                slug = path_segments[company_index + 1]
+        elif path_segments:
+            slug = path_segments[0]
+
+    if not slug:
+        raise ValueError("missing SmartRecruiters company slug in URL path")
+
+    canonical_url = f"https://jobs.smartrecruiters.com/{quote(slug, safe='')}"
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -370,6 +416,18 @@ def build_oracle_hcm_company(company: str, url: str, enabled: bool) -> dict[str,
     }
 
 
+def build_smartrecruiters_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_smartrecruiters_parts(url)
+    return {
+        "company": company,
+        "source": "smartrecruiters",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+        "search_terms": SMARTRECRUITERS_SEARCH_TERMS,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -384,6 +442,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_icims_company(company, url, enabled)
     if source == "oracle_hcm":
         return build_oracle_hcm_company(company, url, enabled)
+    if source == "smartrecruiters":
+        return build_smartrecruiters_company(company, url, enabled)
     return None
 
 

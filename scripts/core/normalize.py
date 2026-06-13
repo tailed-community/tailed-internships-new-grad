@@ -971,3 +971,80 @@ def normalize_oracle_hcm_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "date_added": date.today().isoformat(),
         "active": True,
     }
+
+
+def _smartrecruiters_label(raw_job: dict[str, Any], key: str) -> str:
+    value = raw_job.get(key)
+    if isinstance(value, dict):
+        label = value.get("label") or value.get("id")
+        if isinstance(label, str):
+            return label.strip()
+    return ""
+
+
+def _format_smartrecruiters_location(raw_job: dict[str, Any]) -> str:
+    location = raw_job.get("location")
+    if not isinstance(location, dict):
+        return "Not specified"
+
+    full_location = str(location.get("fullLocation", "")).strip()
+    is_remote = location.get("remote") is True
+    if is_remote and full_location:
+        return format_location_text(f"Remote, {full_location}")
+    if full_location:
+        return format_location_text(full_location)
+
+    parts = [
+        str(location.get(key, "")).strip()
+        for key in ("city", "region", "country")
+        if str(location.get(key, "")).strip()
+    ]
+    if is_remote and parts:
+        return format_location_text(f"Remote, {', '.join(parts)}")
+    if parts:
+        return format_location_text(", ".join(parts))
+    if is_remote:
+        return "Remote"
+    return "Not specified"
+
+
+def normalize_smartrecruiters_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("name") or raw_job.get("title") or "Unknown").strip() or "Unknown"
+    job_type = classify_job_type(title)
+    employment_type = _smartrecruiters_label(raw_job, "typeOfEmployment").lower()
+    experience_level = _smartrecruiters_label(raw_job, "experienceLevel").lower()
+    if job_type is None and ("intern" in employment_type or "internship" in experience_level):
+        job_type = "internship"
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "smartrecruiters")).strip() or "smartrecruiters"
+    location = _format_smartrecruiters_location(raw_job)
+    url = (
+        str(raw_job.get("_url", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_iso_date(raw_job.get("releasedDate")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }
