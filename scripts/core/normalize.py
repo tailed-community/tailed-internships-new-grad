@@ -932,3 +932,42 @@ def normalize_icims_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "date_added": date.today().isoformat(),
         "active": True,
     }
+
+
+def normalize_oracle_hcm_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("Title") or raw_job.get("title") or "Unknown").strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "oracle_hcm")).strip() or "oracle_hcm"
+    location_text = str(raw_job.get("PrimaryLocation", "")).strip()
+    location = format_location_text(location_text) if location_text else "Not specified"
+    url = (
+        str(raw_job.get("_url", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_iso_date(raw_job.get("PostedDate")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }

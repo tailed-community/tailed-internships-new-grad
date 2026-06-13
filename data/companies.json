@@ -358,6 +358,26 @@
     "enabled": true
   },
   {
+    "company": "ACI Worldwide",
+    "source": "oracle_hcm",
+    "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ebwg.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "ACLU Kentucky",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/acluinternships",
@@ -859,6 +879,26 @@
     "url": "https://jobs.ashbyhq.com/airspace-intelligence.com",
     "slug": "airspace-intelligence.com",
     "enabled": true
+  },
+  {
+    "company": "Akamai Technologies",
+    "source": "oracle_hcm",
+    "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-extu-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Akima",
@@ -1431,6 +1471,26 @@
     ]
   },
   {
+    "company": "American Bureau of Shipping",
+    "source": "oracle_hcm",
+    "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hbbq.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "American Cancer Society",
     "source": "workday",
     "url": "https://acs.wd5.myworkdayjobs.com/acscareers",
@@ -1614,6 +1674,26 @@
     "url": "https://careers-americansystems.icims.com/jobs/search",
     "host": "careers-americansystems.icims.com",
     "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "American Tower",
+    "source": "oracle_hcm",
+    "url": "https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hdsn.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -1993,6 +2073,26 @@
     ]
   },
   {
+    "company": "APL Logistics",
+    "source": "oracle_hcm",
+    "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcut.fa.ap2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "APM Terminals",
     "source": "workday",
     "url": "https://maersk.wd3.myworkdayjobs.com/APMT_Careers",
@@ -2175,6 +2275,26 @@
     "enabled": true
   },
   {
+    "company": "Arcadis",
+    "source": "oracle_hcm",
+    "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ebcs.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Arcellx",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/arcellx",
@@ -2214,6 +2334,26 @@
     "url": "https://boards.greenhouse.io/archer56",
     "slug": "archer56",
     "enabled": true
+  },
+  {
+    "company": "Arconic",
+    "source": "oracle_hcm",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "hdnn.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Arctic Wolf",
@@ -2360,6 +2500,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Arlington County VA",
+    "source": "oracle_hcm",
+    "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -2759,6 +2919,26 @@
     ]
   },
   {
+    "company": "ATCO",
+    "source": "oracle_hcm",
+    "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "eezy.fa.ca2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Athena Health",
     "source": "workday",
     "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External",
@@ -2796,6 +2976,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Atlantic Health System",
+    "source": "oracle_hcm",
+    "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "erqh.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -3512,6 +3712,26 @@
     ]
   },
   {
+    "company": "BC Pensions",
+    "source": "oracle_hcm",
+    "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013",
+    "host": "fa-exby-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1013",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "BCI",
     "source": "workday",
     "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers",
@@ -3686,6 +3906,26 @@
     ]
   },
   {
+    "company": "Berkshire Hathaway Energy",
+    "source": "oracle_hcm",
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-essf-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Bernhard",
     "source": "icims",
     "url": "https://careers-enfra.icims.com/jobs/search",
@@ -3771,6 +4011,26 @@
     "url": "https://boards.greenhouse.io/bgeinccampus",
     "slug": "bgeinccampus",
     "enabled": true
+  },
+  {
+    "company": "BGIS",
+    "source": "oracle_hcm",
+    "url": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "BiblioCommons",
@@ -3930,6 +4190,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Black Box",
+    "source": "oracle_hcm",
+    "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "eoje.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -4187,6 +4467,26 @@
     ]
   },
   {
+    "company": "Blue Cross Blue Shield of Michigan",
+    "source": "oracle_hcm",
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+    "host": "ejko.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_3",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Blue Cross of Idaho",
     "source": "workday",
     "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI",
@@ -4224,6 +4524,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Blue Shield of California",
+    "source": "oracle_hcm",
+    "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003",
+    "host": "ecge.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1003",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -4332,6 +4652,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "BNY",
+    "source": "oracle_hcm",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "eofe.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -4479,6 +4819,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Boston Properties",
+    "source": "oracle_hcm",
+    "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001",
+    "host": "edxn.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_5001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -6120,6 +6480,26 @@
     ]
   },
   {
+    "company": "Chubb",
+    "source": "oracle_hcm",
+    "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "CIBC",
     "source": "workday",
     "url": "https://cibc.wd3.myworkdayjobs.com/campus",
@@ -6314,6 +6694,26 @@
     ]
   },
   {
+    "company": "Citco",
+    "source": "oracle_hcm",
+    "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Citi",
     "source": "workday",
     "url": "https://citi.wd5.myworkdayjobs.com/2",
@@ -6331,6 +6731,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Citizens Financial Group",
+    "source": "oracle_hcm",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcgn.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -6411,6 +6831,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "City of Greeley",
+    "source": "oracle_hcm",
+    "url": "https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "elvp.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -6798,6 +7238,26 @@
     "enabled": true
   },
   {
+    "company": "Coherent",
+    "source": "oracle_hcm",
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcwp.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Cohesity",
     "source": "workday",
     "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
@@ -6815,6 +7275,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Cohu",
+    "source": "oracle_hcm",
+    "url": "https://hcbo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcbo.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -7065,6 +7545,26 @@
     "enabled": true
   },
   {
+    "company": "Consolidated Edison",
+    "source": "oracle_hcm",
+    "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033",
+    "host": "ejcu.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1033",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Consor",
     "source": "icims",
     "url": "https://careers-consoreng.icims.com/jobs/search",
@@ -7130,6 +7630,26 @@
     "url": "https://americas-cookmedical.icims.com/jobs/search",
     "host": "americas-cookmedical.icims.com",
     "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Cooper Companies",
+    "source": "oracle_hcm",
+    "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcjy.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -7335,6 +7855,26 @@
     "url": "https://boards.greenhouse.io/correlationone",
     "slug": "correlationone",
     "enabled": true
+  },
+  {
+    "company": "Corsair",
+    "source": "oracle_hcm",
+    "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "edix.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Corteva",
@@ -7752,6 +8292,26 @@
     ]
   },
   {
+    "company": "CSC",
+    "source": "oracle_hcm",
+    "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "hczw.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "CSL",
     "source": "workday",
     "url": "https://csl.wd1.myworkdayjobs.com/CSL_External",
@@ -7769,6 +8329,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "CSX",
+    "source": "oracle_hcm",
+    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers",
+    "host": "fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CSXCareers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -7804,6 +8384,26 @@
     "url": "https://careers-uuhc.icims.com/jobs/search",
     "host": "careers-uuhc.icims.com",
     "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Cummins",
+    "source": "oracle_hcm",
+    "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-espx-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -8184,6 +8784,26 @@
     ]
   },
   {
+    "company": "DC Water",
+    "source": "oracle_hcm",
+    "url": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "elxb.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Deckers Brands",
     "source": "workday",
     "url": "https://deckers.wd5.myworkdayjobs.com/Deckers",
@@ -8216,6 +8836,26 @@
     "url": "https://boards.greenhouse.io/defenseunicorns",
     "slug": "defenseunicorns",
     "enabled": true
+  },
+  {
+    "company": "Definity Financial",
+    "source": "oracle_hcm",
+    "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hdks.fa.ca2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Delinea",
@@ -8468,6 +9108,26 @@
     ]
   },
   {
+    "company": "Digital Realty",
+    "source": "oracle_hcm",
+    "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "hdep.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Digs",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/digs",
@@ -8534,6 +9194,26 @@
     "url": "https://boards.greenhouse.io/divergent",
     "slug": "divergent",
     "enabled": true
+  },
+  {
+    "company": "DNV",
+    "source": "oracle_hcm",
+    "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ecyq.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Doctors Without Borders",
@@ -8724,6 +9404,26 @@
     "enabled": true
   },
   {
+    "company": "DP World",
+    "source": "oracle_hcm",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ehpv.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "DraftKings",
     "source": "workday",
     "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal",
@@ -8844,6 +9544,26 @@
     "url": "https://jobs.ashbyhq.com/dryft",
     "slug": "dryft",
     "enabled": true
+  },
+  {
+    "company": "DTCC",
+    "source": "oracle_hcm",
+    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ebxr.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "DuCharme, McMillen & Associates",
@@ -9320,6 +10040,46 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Emergent Holdings",
+    "source": "oracle_hcm",
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "ejko.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Emerson Electric",
+    "source": "oracle_hcm",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hdjq.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -9836,6 +10596,26 @@
     "enabled": true
   },
   {
+    "company": "Equity Residential",
+    "source": "oracle_hcm",
+    "url": "https://hcjm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcjm.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Ercot",
     "source": "workday",
     "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers",
@@ -10072,11 +10852,51 @@
     ]
   },
   {
+    "company": "EXL",
+    "source": "oracle_hcm",
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "ExodusPoint",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/exoduspoint",
     "slug": "exoduspoint",
     "enabled": true
+  },
+  {
+    "company": "EXP",
+    "source": "oracle_hcm",
+    "url": "https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "elcn.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Expedia Group",
@@ -10276,6 +11096,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Fanatics",
+    "source": "oracle_hcm",
+    "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -10755,6 +11595,26 @@
     ]
   },
   {
+    "company": "First West Credit Union",
+    "source": "oracle_hcm",
+    "url": "https://fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "FirstDay Foundation",
     "source": "workday",
     "url": "https://nphosting.wd5.myworkdayjobs.com/FDFCareers",
@@ -10990,6 +11850,26 @@
     "enabled": true
   },
   {
+    "company": "Ford Motor Company",
+    "source": "oracle_hcm",
+    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "efds.fa.em5.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Forerunner",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/forerunner",
@@ -11009,6 +11889,46 @@
     "url": "https://boards.greenhouse.io/forteracorporation",
     "slug": "forteracorporation",
     "enabled": true
+  },
+  {
+    "company": "Fortinet",
+    "source": "oracle_hcm",
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "edel.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Fortive",
+    "source": "oracle_hcm",
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "ejta.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Fortrea",
@@ -11258,6 +12178,26 @@
     ]
   },
   {
+    "company": "Fujitsu",
+    "source": "oracle_hcm",
+    "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "edzt.fa.em4.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Fullscript",
     "source": "lever",
     "url": "https://jobs.lever.co/fullscript",
@@ -11440,11 +12380,51 @@
     "enabled": true
   },
   {
+    "company": "Garrett Motion",
+    "source": "oracle_hcm",
+    "url": "https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "ehth.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Gas South",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/gassouth",
     "slug": "gassouth",
     "enabled": true
+  },
+  {
+    "company": "GCI",
+    "source": "oracle_hcm",
+    "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "edqv.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "GCM Grosvenor",
@@ -11753,6 +12733,26 @@
     ]
   },
   {
+    "company": "Genesis",
+    "source": "oracle_hcm",
+    "url": "https://hcxg.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "hcxg.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Genesis Therapeutics",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/genesis-therapeutics",
@@ -11932,6 +12932,26 @@
     "url": "https://boards.greenhouse.io/internshiplist2000",
     "slug": "internshiplist2000",
     "enabled": true
+  },
+  {
+    "company": "GHD",
+    "source": "oracle_hcm",
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ejov.fa.ca2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Giga AI",
@@ -12158,6 +13178,26 @@
     "enabled": true
   },
   {
+    "company": "GM financial",
+    "source": "oracle_hcm",
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "GoDaddy",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/eventsandinterns",
@@ -12347,6 +13387,26 @@
     ]
   },
   {
+    "company": "Grant Thornton",
+    "source": "oracle_hcm",
+    "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ehzq.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Graphcore",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/graphcore",
@@ -12453,6 +13513,26 @@
     "url": "https://jobs.lever.co/greenlight",
     "slug": "greenlight",
     "enabled": true
+  },
+  {
+    "company": "Greenwood Village South",
+    "source": "oracle_hcm",
+    "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth",
+    "host": "eexs.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "GreenwoodVillageSouth",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Greenworks",
@@ -13019,6 +14099,46 @@
     ]
   },
   {
+    "company": "Hearst",
+    "source": "oracle_hcm",
+    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "eevd.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Hearst (CX_10007)",
+    "source": "oracle_hcm",
+    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_10007",
+    "host": "eevd.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_10007",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "HeartFlow",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/heartflowinc",
@@ -13170,6 +14290,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "HEXAWARE",
+    "source": "oracle_hcm",
+    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -13375,6 +14515,26 @@
     ]
   },
   {
+    "company": "Hologic",
+    "source": "oracle_hcm",
+    "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ebwb.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Home Chef",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/homechef",
@@ -13401,6 +14561,26 @@
     "url": "https://boards.greenhouse.io/honehealth",
     "slug": "honehealth",
     "enabled": true
+  },
+  {
+    "company": "Honeywell",
+    "source": "oracle_hcm",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell",
+    "host": "ibqbjb.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "Honeywell",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "HOOPP",
@@ -13494,6 +14674,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Howmet Aerospace",
+    "source": "oracle_hcm",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -13610,6 +14810,26 @@
     "url": "https://boards.greenhouse.io/humansignal",
     "slug": "humansignal",
     "enabled": true
+  },
+  {
+    "company": "Hunt Oil Company",
+    "source": "oracle_hcm",
+    "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Huntington Bancshares",
@@ -13877,6 +15097,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "IHG",
+    "source": "oracle_hcm",
+    "url": "https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "fa-evax-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -14481,6 +15721,26 @@
     "url": "https://jobs.ashbyhq.com/interplay",
     "slug": "interplay",
     "enabled": true
+  },
+  {
+    "company": "Intertek",
+    "source": "oracle_hcm",
+    "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcog.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "InterWorks",
@@ -15256,6 +16516,26 @@
     ]
   },
   {
+    "company": "JP Morgan Chase",
+    "source": "oracle_hcm",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "jpmc.fa.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Judi Health",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/capitalrx",
@@ -15772,6 +17052,26 @@
     "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/search",
     "host": "kphcareers-kphhealthcareservices.icims.com",
     "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Kroll",
+    "source": "oracle_hcm",
+    "url": "https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcxs.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -17348,6 +18648,26 @@
     ]
   },
   {
+    "company": "Masimo",
+    "source": "oracle_hcm",
+    "url": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "egcu.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Mass General Brigham",
     "source": "workday",
     "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal",
@@ -17838,6 +19158,26 @@
     "enabled": true
   },
   {
+    "company": "Metrolinx",
+    "source": "oracle_hcm",
+    "url": "https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ehtc.fa.ca2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Metron",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/metron",
@@ -17882,6 +19222,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Michael Baker International",
+    "source": "oracle_hcm",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "ebxs.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -17962,6 +19322,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Midmark",
+    "source": "oracle_hcm",
+    "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcor.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -18160,6 +19540,26 @@
     ]
   },
   {
+    "company": "Molina Healthcare",
+    "source": "oracle_hcm",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hckd.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Moloco",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/moloco",
@@ -18218,6 +19618,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Montenson",
+    "source": "oracle_hcm",
+    "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -18407,6 +19827,26 @@
     "url": "https://boards.greenhouse.io/muonspace",
     "slug": "muonspace",
     "enabled": true
+  },
+  {
+    "company": "Myriad Genetics",
+    "source": "oracle_hcm",
+    "url": "https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "ekgn.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Nasdaq",
@@ -18765,6 +20205,46 @@
     ]
   },
   {
+    "company": "Newham",
+    "source": "oracle_hcm",
+    "url": "https://elyq.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "elyq.fa.em3.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Newmark Group",
+    "source": "oracle_hcm",
+    "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "hdow.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "NewsBreak",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/newsbreak",
@@ -19000,6 +20480,26 @@
     "enabled": true
   },
   {
+    "company": "Nokia",
+    "source": "oracle_hcm",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Nooks",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/nooks",
@@ -19114,6 +20614,46 @@
     "enabled": true
   },
   {
+    "company": "Northumbria University",
+    "source": "oracle_hcm",
+    "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Northwell Health",
+    "source": "oracle_hcm",
+    "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "eppr.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Northwest Bank",
     "source": "workday",
     "url": "https://northwest.wd1.myworkdayjobs.com/Northwest_Careers",
@@ -19173,6 +20713,26 @@
     "url": "https://jobs.ashbyhq.com/notion",
     "slug": "notion",
     "enabled": true
+  },
+  {
+    "company": "NOV",
+    "source": "oracle_hcm",
+    "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001",
+    "host": "egay.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_4001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Novanta",
@@ -19710,6 +21270,26 @@
     ]
   },
   {
+    "company": "onsemi",
+    "source": "oracle_hcm",
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "hctz.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Ontario Health",
     "source": "workday",
     "url": "https://oh.wd3.myworkdayjobs.com/OH",
@@ -19851,6 +21431,26 @@
     "url": "https://jobs.ashbyhq.com/opusclip",
     "slug": "opusclip",
     "enabled": true
+  },
+  {
+    "company": "Oracle",
+    "source": "oracle_hcm",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001",
+    "host": "eeho.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_45001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "OraSure Technologies",
@@ -20338,6 +21938,46 @@
     ]
   },
   {
+    "company": "Pearson",
+    "source": "oracle_hcm",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "hccz.fa.em3.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Pella Corporation",
+    "source": "oracle_hcm",
+    "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ebgj.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Pendar Technologies",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/pendartechnologies",
@@ -20598,6 +22238,26 @@
     "url": "https://boards.greenhouse.io/phoenixcontact",
     "slug": "phoenixcontact",
     "enabled": true
+  },
+  {
+    "company": "Photon",
+    "source": "oracle_hcm",
+    "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Physical Intelligence",
@@ -20903,11 +22563,51 @@
     ]
   },
   {
+    "company": "Polk County",
+    "source": "oracle_hcm",
+    "url": "https://fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Poshmark",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/poshmark",
     "slug": "poshmark",
     "enabled": true
+  },
+  {
+    "company": "Powell",
+    "source": "oracle_hcm",
+    "url": "https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ekcf.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "PowerSchool",
@@ -22338,6 +24038,26 @@
     ]
   },
   {
+    "company": "Rheem",
+    "source": "oracle_hcm",
+    "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "hdde.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Rhombus",
     "source": "lever",
     "url": "https://jobs.lever.co/rhombus-systems",
@@ -22902,6 +24622,26 @@
     ]
   },
   {
+    "company": "S&C Electric Company",
+    "source": "oracle_hcm",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "ejia.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "S&P Global",
     "source": "workday",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers",
@@ -23087,6 +24827,26 @@
     "url": "https://jobs.lever.co/sambatv",
     "slug": "sambatv",
     "enabled": true
+  },
+  {
+    "company": "Samsonite",
+    "source": "oracle_hcm",
+    "url": "https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ekkf.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Samsung",
@@ -23329,6 +25089,26 @@
     ]
   },
   {
+    "company": "Savannah River National Laboratory",
+    "source": "oracle_hcm",
+    "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ewvl.fa.us8.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Saviynt",
     "source": "lever",
     "url": "https://jobs.lever.co/saviynt",
@@ -23449,6 +25229,26 @@
     ]
   },
   {
+    "company": "Schroders",
+    "source": "oracle_hcm",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "ekbq.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Schweitzer Engineering Laboratories",
     "source": "workday",
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL",
@@ -23500,6 +25300,26 @@
     "url": "https://boards.greenhouse.io/scopely",
     "slug": "scopely",
     "enabled": true
+  },
+  {
+    "company": "SCOR",
+    "source": "oracle_hcm",
+    "url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "fa-errt-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Scottish Water",
@@ -23581,6 +25401,26 @@
     "enabled": true
   },
   {
+    "company": "Seaspan",
+    "source": "oracle_hcm",
+    "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hckz.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Second Dinner",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/SecondDinner",
@@ -23600,6 +25440,26 @@
     "url": "https://jobs.lever.co/secureframe",
     "slug": "secureframe",
     "enabled": true
+  },
+  {
+    "company": "Securitas",
+    "source": "oracle_hcm",
+    "url": "https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ekaw.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "SEI",
@@ -23883,6 +25743,26 @@
     ]
   },
   {
+    "company": "Sherwin-Williams",
+    "source": "oracle_hcm",
+    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "host": "ejhp.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "SHI International",
     "source": "workday",
     "url": "https://shi.wd12.myworkdayjobs.com/shicareers",
@@ -24156,6 +26036,26 @@
     "url": "https://jobs.ashbyhq.com/Simular",
     "slug": "Simular",
     "enabled": true
+  },
+  {
+    "company": "Sinclair",
+    "source": "oracle_hcm",
+    "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002",
+    "host": "edyy.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2002",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "SitusAMC",
@@ -24604,6 +26504,26 @@
     ]
   },
   {
+    "company": "Southern Company",
+    "source": "oracle_hcm",
+    "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "emje.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Southwest Airlines",
     "source": "workday",
     "url": "https://swa.wd1.myworkdayjobs.com/external",
@@ -24879,6 +26799,26 @@
     "enabled": true
   },
   {
+    "company": "Standard Aero",
+    "source": "oracle_hcm",
+    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+    "host": "cva.fa.us1.oraclecloud.com",
+    "language": "en",
+    "site": "CX_3",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Standard Insurance",
     "source": "workday",
     "url": "https://standard.wd1.myworkdayjobs.com/search",
@@ -24936,6 +26876,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Stantec",
+    "source": "oracle_hcm",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hdhl.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -25270,6 +27230,26 @@
     ]
   },
   {
+    "company": "Strathcona County",
+    "source": "oracle_hcm",
+    "url": "https://fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Stride",
     "source": "workday",
     "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK",
@@ -25344,11 +27324,51 @@
     ]
   },
   {
+    "company": "Subaru",
+    "source": "oracle_hcm",
+    "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "hcal.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "SuccessKPI",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/successkpiinc",
     "slug": "successkpiinc",
     "enabled": true
+  },
+  {
+    "company": "Suffolk County",
+    "source": "oracle_hcm",
+    "url": "https://eoce.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004",
+    "host": "eoce.fa.em3.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1004",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "SummitTX",
@@ -25395,6 +27415,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Sundt",
+    "source": "oracle_hcm",
+    "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "eewl.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -26373,6 +28413,26 @@
     "enabled": true
   },
   {
+    "company": "The State Bar of California",
+    "source": "oracle_hcm",
+    "url": "https://egsd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "egsd.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "The Toro Company",
     "source": "workday",
     "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers",
@@ -26588,6 +28648,26 @@
     ]
   },
   {
+    "company": "Tiffany & Co.",
+    "source": "oracle_hcm",
+    "url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "eljs.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Tilde Research",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/tilderesearch",
@@ -26790,6 +28870,26 @@
     "enabled": true
   },
   {
+    "company": "Tradeweb",
+    "source": "oracle_hcm",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "ecnf.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Transamerica",
     "source": "workday",
     "url": "https://transamerica.wd5.myworkdayjobs.com/US",
@@ -26931,6 +29031,26 @@
     ]
   },
   {
+    "company": "Tri-State Generation and Transmission Association",
+    "source": "oracle_hcm",
+    "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Tricentis",
     "source": "workday",
     "url": "https://tricentis.wd1.myworkdayjobs.com/en-US/tricentis_careers",
@@ -26968,6 +29088,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "TriNet",
+    "source": "oracle_hcm",
+    "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -27307,6 +29447,26 @@
     "enabled": true
   },
   {
+    "company": "UC Health",
+    "source": "oracle_hcm",
+    "url": "https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "host": "eswt.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Udemy",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/udemybedi",
@@ -27479,6 +29639,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "UNFPA",
+    "source": "oracle_hcm",
+    "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003",
+    "host": "estm.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2003",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -27844,6 +30024,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "University of Wyoming",
+    "source": "oracle_hcm",
+    "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "eeik.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -28263,6 +30463,26 @@
     "enabled": true
   },
   {
+    "company": "Verisk",
+    "source": "oracle_hcm",
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Veritiv Corporation",
     "source": "workday",
     "url": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers",
@@ -28381,6 +30601,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Vertiv",
+    "source": "oracle_hcm",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "host": "egup.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -28632,6 +30872,26 @@
     "url": "https://jobs.ashbyhq.com/vital-lyfe",
     "slug": "vital-lyfe",
     "enabled": true
+  },
+  {
+    "company": "VITAS Healthcare",
+    "source": "oracle_hcm",
+    "url": "https://ejrz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001",
+    "host": "ejrz.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_5001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Vivenu",
@@ -29015,6 +31275,26 @@
     ]
   },
   {
+    "company": "Wayne County",
+    "source": "oracle_hcm",
+    "url": "https://emqz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "emqz.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Waystar",
     "source": "workday",
     "url": "https://waystar.wd1.myworkdayjobs.com/Waystar",
@@ -29070,6 +31350,26 @@
     "enabled": true
   },
   {
+    "company": "Weatherford",
+    "source": "oracle_hcm",
+    "url": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "WebAI",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/webai",
@@ -29102,6 +31402,26 @@
     "url": "https://boards.greenhouse.io/weissassetmanagement",
     "slug": "weissassetmanagement",
     "enabled": true
+  },
+  {
+    "company": "Wells Enterprises",
+    "source": "oracle_hcm",
+    "url": "https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "hcsb.fa.us2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Wells Fargo",
@@ -29407,6 +31727,26 @@
     ]
   },
   {
+    "company": "Williams-Sonoma",
+    "source": "oracle_hcm",
+    "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ehac.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "WillowTree",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/willowtree",
@@ -29479,6 +31819,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Wood",
+    "source": "oracle_hcm",
+    "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "ehif.fa.em2.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -29603,6 +31963,26 @@
     "enabled": true
   },
   {
+    "company": "Worthington Enterprises",
+    "source": "oracle_hcm",
+    "url": "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Wounded Warrior Project",
     "source": "workday",
     "url": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp",
@@ -29635,6 +32015,46 @@
     "url": "https://boards.greenhouse.io/wppmedia",
     "slug": "wppmedia",
     "enabled": true
+  },
+  {
+    "company": "WSP",
+    "source": "oracle_hcm",
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "host": "emit.fa.ca3.oraclecloud.com",
+    "language": "en",
+    "site": "CX_2001",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "WTW",
+    "source": "oracle_hcm",
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003",
+    "host": "eedu.fa.em3.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1003",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Wurl",
@@ -29937,6 +32357,26 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Zensar",
+    "source": "oracle_hcm",
+    "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
