@@ -39,6 +39,7 @@ Current support:
 - Ashby URLs on `jobs.ashbyhq.com`
 - iCIMS URLs on `*.icims.com` and iCIMS-backed `?icims=1` career sites
 - Oracle HCM Cloud URLs under `hcmUI/CandidateExperience/.../sites/<site>`
+- SmartRecruiters URLs on `jobs.smartrecruiters.com` and `careers.smartrecruiters.com`
 
 Automation flow:
 
@@ -76,6 +77,7 @@ Notes:
 - For Ashby, use the board URL form `https://jobs.ashbyhq.com/<job-board-name>`.
 - For iCIMS, use the board URL form `https://<tenant>.icims.com/jobs/search` or the iCIMS-backed career URL with `?icims=1`.
 - For Oracle HCM Cloud, use the site URL form `https://<host>/hcmUI/CandidateExperience/<language>/sites/<site>`.
+- For SmartRecruiters, use the board URL form `https://jobs.smartrecruiters.com/<company-slug>`.
 - Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
 ## Pull Request Guidelines
