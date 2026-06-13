@@ -34,6 +34,18 @@ ICIMS_SEARCH_TERMS = [
     "entry level",
 ]
 
+ORACLE_HCM_SEARCH_TERMS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "new grad",
+    "new graduate",
+    "early career",
+    "entry level",
+]
+
 TRUE_VALUES = {"true", "yes", "1"}
 FALSE_VALUES = {"false", "no", "0"}
 
@@ -136,6 +148,12 @@ def detect_source(url: str) -> str | None:
         return "icims"
     if hostname.endswith(".jibeapply.com") or "icims=1" in query:
         return "icims"
+    if (
+        (hostname.endswith(".oraclecloud.com") or hostname.endswith(".ocs.oraclecloud.com"))
+        and "candidateexperience" in {segment.lower() for segment in path_segments}
+        and "sites" in {segment.lower() for segment in path_segments}
+    ):
+        return "oracle_hcm"
     return None
 
 
@@ -246,6 +264,37 @@ def extract_icims_parts(url: str) -> tuple[str, str, str]:
     raise ValueError("unsupported iCIMS URL")
 
 
+def extract_oracle_hcm_parts(url: str) -> tuple[str, str, str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    if not hostname:
+        raise ValueError("missing Oracle HCM hostname")
+
+    path_segments = [unquote(segment).strip() for segment in parsed.path.split("/") if segment]
+    lowered_segments = [segment.lower() for segment in path_segments]
+    try:
+        candidate_experience_index = lowered_segments.index("candidateexperience")
+        sites_index = lowered_segments.index("sites")
+    except ValueError as error:
+        raise ValueError("missing Oracle HCM CandidateExperience site path") from error
+
+    if candidate_experience_index + 1 >= len(path_segments):
+        raise ValueError("missing Oracle HCM language in URL path")
+    if sites_index + 1 >= len(path_segments):
+        raise ValueError("missing Oracle HCM site in URL path")
+
+    language = path_segments[candidate_experience_index + 1]
+    site = path_segments[sites_index + 1]
+    if not language or not site:
+        raise ValueError("missing Oracle HCM language or site in URL path")
+
+    canonical_url = (
+        f"https://{hostname}/hcmUI/CandidateExperience/"
+        f"{quote(language, safe='')}/sites/{quote(site, safe='')}"
+    )
+    return hostname, language, site, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -307,6 +356,20 @@ def build_icims_company(company: str, url: str, enabled: bool) -> dict[str, Any]
     return config
 
 
+def build_oracle_hcm_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    host, language, site, canonical_url = extract_oracle_hcm_parts(url)
+    return {
+        "company": company,
+        "source": "oracle_hcm",
+        "url": canonical_url,
+        "host": host,
+        "language": language,
+        "site": site,
+        "enabled": enabled,
+        "search_terms": ORACLE_HCM_SEARCH_TERMS,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -319,6 +382,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_ashby_company(company, url, enabled)
     if source == "icims":
         return build_icims_company(company, url, enabled)
+    if source == "oracle_hcm":
+        return build_oracle_hcm_company(company, url, enabled)
     return None
 
 

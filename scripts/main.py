@@ -13,12 +13,14 @@ from core.normalize import (
     normalize_greenhouse_job,
     normalize_icims_job,
     normalize_lever_job,
+    normalize_oracle_hcm_job,
     normalize_workday_job,
 )
 from fetchers.ashby import fetch_ashby_jobs
 from fetchers.greenhouse import fetch_greenhouse_jobs
 from fetchers.icims import fetch_icims_jobs
 from fetchers.lever import fetch_lever_jobs
+from fetchers.oracle_hcm import fetch_oracle_hcm_jobs
 from fetchers.workday import fetch_workday_jobs
 
 
@@ -38,6 +40,10 @@ SOURCE_HANDLERS = {
     "lever": {
         "fetch_jobs": fetch_lever_jobs,
         "normalize_job": normalize_lever_job,
+    },
+    "oracle_hcm": {
+        "fetch_jobs": fetch_oracle_hcm_jobs,
+        "normalize_job": normalize_oracle_hcm_job,
     },
     "workday": {
         "fetch_jobs": fetch_workday_jobs,
