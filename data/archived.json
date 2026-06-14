@@ -72394,20 +72394,6 @@
     "date_archived": "2026-06-13"
   },
   {
-    "id": "greenhouse-wpp-media-5256561008",
-    "company": "WPP Media",
-    "title": "Stage Chargé Brand Content & Partenariat Media F/H",
-    "location": "Paris, France",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5256561008",
-    "date_posted": "2026-06-12",
-    "date_added": "2026-06-12",
-    "active": false,
-    "date_archived": "2026-06-13"
-  },
-  {
     "id": "greenhouse-wpp-media-5227473008",
     "company": "WPP Media",
     "title": "Stage Chef de Projet Transformation & E-learning F/H",
@@ -74154,6 +74140,48 @@
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/New-Zealand---Christchurch/Intern-Undergraduate---Technical_R55917",
     "date_posted": "Posted 29 Days Ago",
     "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-14"
+  },
+  {
+    "id": "greenhouse-eulerity-4687479006",
+    "company": "Eulerity",
+    "title": "Internship, HR and Recruiting",
+    "location": "New York, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4687479006",
+    "date_posted": "2026-06-07",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-14"
+  },
+  {
+    "id": "greenhouse-wpp-media-5250994008",
+    "company": "WPP Media",
+    "title": "Stage Chargé Brand Content & Partenariat Media F/H",
+    "location": "Paris, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5250994008",
+    "date_posted": "2026-06-08",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-14"
+  },
+  {
+    "id": "greenhouse-wpp-media-5255648008",
+    "company": "WPP Media",
+    "title": "Stage Chargé Réseaux Sociaux F/H",
+    "location": "Paris, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5255648008",
+    "date_posted": "2026-06-11",
+    "date_added": "2026-06-12",
     "active": false,
     "date_archived": "2026-06-14"
   }
