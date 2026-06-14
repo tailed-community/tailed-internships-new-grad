@@ -7,8 +7,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
-| Accenture | Customer Service Entry Level - Taguig & Mandaluyong | Not Specified | Not specified | 2026-06-13 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Taguig/Customer-Service-Entry-Level---Taguig---Mandaluyong_R00331172) |
-| Accenture | Junior Desktop Engineers - Entry Level | Not Specified | Not specified | 2026-06-13 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brisbane/Junior-Desktop-Engineers---Entry-Level_14218910) |
 | AECOM | Electrical, Instrumentation & Controls New Grad | Calgary, AB, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131770207) |
 | AECOM | Entry Level Structural Engineer | Baton Rouge, LA, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131760439) |
 | AECOM | Entry-Level Civil Engineer | North Charleston, SC, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000129256135) |
@@ -373,7 +371,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Texas A&M University System | Graduate Program Coordinator II | College Station, TX | Not specified | 2026-06-10 | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Graduate-Program-Coordinator-II_R-093754) |
 | Thales | Systems Engineer- New Grad | Halifax Wilkinson / Ottawa 1 Chrysalis / Victoria 905 Ellery / Mill Bay Squl’ew' | Not specified | 2026-06-10 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/Systems-Engineer--New-Grad_R0328671-1) |
 | The Boeing Company | Entry-Level Structural Analysis Engineer | Poland | Not specified | 2026-06-10 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Warsaw-Poland/Entry-Level-Structural-Analysis-Engineer_JR2026514338-1) |
-| The Boeing Company | Entry-Level Systems Engineer | USA Berkeley, MO / USA Hazelwood, MO / USA Saint Charles, MO | Not specified | 2026-06-10 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Systems-Engineer_JR2026490915) |
 | United Wholesale Mortgage | Calling All Client Service Stars - Entry Level Call Center | Not Specified | Not specified | 2026-06-10 | [Apply](https://careers-uwmcareers.icims.com/jobs/15544/calling-all-client-service-stars---entry-level-call-center/job) |
 | United Wholesale Mortgage | Entry Level Client Review Specialist | Not Specified | Not specified | 2026-06-10 | [Apply](https://careers-uwmcareers.icims.com/jobs/14099/entry-level-client-review-specialist/job) |
 | United Wholesale Mortgage | Entry Level Mortgage Call Center | Not Specified | Not specified | 2026-06-10 | [Apply](https://careers-uwmcareers.icims.com/jobs/15260/entry-level-mortgage-call-center/job) |
@@ -488,7 +485,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Transamerica | Actuarial Analyst (Level 6) - Entry Level | Iowa | Not specified | 2026-06-03 | [Apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Actuarial-Analyst--Level-6----Entry-Level_R20059025) |
 | Uline | Entry Level Finance Opportunities | Pleasant Prairie, WI / Milwaukee, WI / Waukegan, IL / Glenview, IL / Kenosha, WI | Not specified | 2026-06-03 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Entry-Level-Finance-Opportunities_R264257) |
 | World Kinect | Field Support Technician - Entry Level | Remote | Not specified | 2026-06-03 | [Apply](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/TACOMA-WA-Remote/Field-Support-Technician_R22392) |
+| Accenture | 2026 Accenture Graduate Program - Experience Transformation Analyst | Not Specified | 2026 | 2026-06-02 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/XMLNAME-2026-Accenture-Graduate-Program---Experience-Transformation-Analyst_R00317304) |
+| Accenture | Entry Level Technology - for MANILA Recruitment Hub applications only | Not Specified | Not specified | 2026-06-02 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Entry-Level-Technology---for-Recruitment-Hub-applications-only_R00278784) |
 | Accenture | New Graduate Talent Intake 2025/2026 | Not Specified | 2025 | 2026-06-02 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/New-Graduate-Talent-Intake-2025-2026_R00322620-1) |
+| Accenture | Non-Voice Entry Level - HUB | Not Specified | Not specified | 2026-06-02 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/Non-Voice-Entry-Level---HUB_R00272411) |
+| Accenture | Software Engineering New Associate (Fresh Diploma Graduate Program) | Not Specified | Not specified | 2026-06-02 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534) |
 | Affirm | Software Engineer, Early Career | California, United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | AIG | Early Career - Underwriting Analyst | Hato Rey | Not specified | 2026-06-02 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Hato-Rey/Early-Career---Underwriting-Analyst_JR26EC334) |
 | AIG | Early Career Analyst Auto Claims Ireland | Dublin | Not specified | 2026-06-02 | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Dublin/Early-Career-Analyst-Auto-Claims-Ireland_JR26EC119-1) |
