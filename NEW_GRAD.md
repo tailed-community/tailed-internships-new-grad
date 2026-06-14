@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | Not specified | 2026-06-14 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170682) |
 | AECOM | Electrical, Instrumentation & Controls New Grad | Calgary, AB, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131770207) |
 | AECOM | Entry Level Structural Engineer | Baton Rouge, LA, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131760439) |
 | AECOM | Entry-Level Civil Engineer | North Charleston, SC, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000129256135) |
@@ -63,9 +64,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fresenius Medical Care | New Graduate Registered Nurse - RN | Jackson, MS, United States / Columbus, MS, United States / Biloxi, MS, United States / Starkville, MS, United States / Philadelphia, MS, United States / Greenwood, MS, United States / Natchez, MS, United States / Greenville, MS, United States / Mccomb, MS, United States / Meridian, MS, United States / Clarksdale, MS, United States / Gulfport, MS, United States | Not specified | 2026-06-13 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Jackson-MS-USA/New-Graduate-Registered-Nurse---RN_R0257728) |
 | General Dynamics | Entry Level Engineer I/II - Mechanical | Stonington, CT, United States | Not specified | 2026-06-13 | [Apply](https://careers-gdeb.icims.com/jobs/19423/entry-level-engineer-i-ii---mechanical/job) |
 | GHD | Entry-Level Environmental Technician | Borger, TX, United States | Not specified | 2026-06-13 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26268) |
-| GHD | GHD Graduate Program 2026/27 - Heritage Advisor (Melbourne) | Australia | 2026 | 2026-06-13 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26438) |
 | GHD | GHD Graduate Program 2026/27 - Power Advisory - Brisbane & Melbourne | Australia | 2026 | 2026-06-13 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26669) |
-| GHD | GHD Graduate Program 2026/27 - Urban Design (Melbourne) | Australia | 2026 | 2026-06-13 | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26496) |
 | IHG | New Graduate Opportunities (Joining April2027) Rooms, F&B Service, or Culinary | Japan | Not specified | 2026-06-13 | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161943) |
 | IHG | 【2027年新卒対象】正社員（サービス職）\|【New Graduate】Service - Hotel Indigo Tokyo Shibuya | Japan | Not specified | 2026-06-13 | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/158375) |
 | IHG | 【2027年新卒対象】正社員（調理職）\|【New Graduate】Cook - Hotel Indigo Tokyo Shibuya | Japan | Not specified | 2026-06-13 | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/158392) |
@@ -126,7 +125,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officers | Tucson, AZ, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171488) |
 | Securitas | Flex Officer - Entry Level | Albuquerque, NM, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171313) |
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Haymarket, VA, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171475) |
-| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171308) |
 | Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Ashburn, VA, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170683) |
 | Securitas | Security Officer - Entry Level | Manassas, VA, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170875) |
 | Securitas | Security Officer - Entry Level | Elkhart, IN, United States | Not specified | 2026-06-13 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170370) |
