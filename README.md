@@ -38,8 +38,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Parsons | Co-op Trainee (Electrical Engineering) (Saudi National) | Not Specified | Not specified | 2026-06-14 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Co-op-Trainee--Electrical-Engineering---Saudi-National-_R181943) |
 | Parsons | Co-op Trainee (Information Technology) (Saudi National) | Not Specified | Not specified | 2026-06-14 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Jeddah/Co-op-Trainee--Information-Technology---Saudi-National-_R181953) |
 | Prysmian Cables & Systems | Intern | Buenos Aires | Not specified | 2026-06-14 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Buenos-Aires/Intern_R-34278) |
+| Société Générale de Surveillance (SGS) | Chemist - Trainee | Saudi Arabia | Not specified | 2026-06-14 | [Apply](https://jobs.smartrecruiters.com/SGS/744000132068879) |
 | Trimble | Intern Undergraduate - Technical | New Zealand Christchurch | Not specified | 2026-06-14 | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/New-Zealand---Christchurch/Intern-Undergraduate---Technical_R56463) |
 | United Parcel Service (UPS) | 2026 UPS Internship Program | Sg Ups House (sgsig) | 2026 | 2026-06-14 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/SG---UPS-HOUSE-SGSIG/XMLNAME-2024-UPS-Internship-Program--8-Weeks-_R24006078) |
+| Western Digital | Intern - AI Information Technology (Studying Master's Degree) | Thailand | Not specified | 2026-06-14 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000132065929) |
 | Wood | Admin Intern Co-Op | Saudi Arabia | Not specified | 2026-06-14 | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29181) |
 | Wood | Environmental Engineering Intern (Co-Op) | Saudi Arabia | Not specified | 2026-06-14 | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29714) |
 | Wood | Piping Engineer Intern Co-Op | Saudi Arabia | Not specified | 2026-06-14 | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29184) |
@@ -1310,7 +1312,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sandisk | [July 2026 Onwards Intake] Internship - AI and Data Analytics | Malaysia | 2026 | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000093166991) |
 | Sandisk | [July Onwards Intake] Internship - Information Technology | Malaysia | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000108435305) |
 | Sandisk | Internship - Packaging Engineering | Malaysia | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000131831849) |
-| Sandisk | Qualification & Reliability Student | Israel | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000118829297) |
 | Sandisk | Technology Development Intern | Milpitas, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000131541969) |
 | Schroders | Internship - Real Estate Investment: Hotels - 6 months (July - December) | Ile-De-France, France | Not specified | 2026-06-13 | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1111) |
 | Schweitzer Engineering Laboratories | Purchasing Intern | Washington Pullman | Not specified | 2026-06-13 | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-20994) |
