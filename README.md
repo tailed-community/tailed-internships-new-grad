@@ -36,18 +36,32 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Summer student-warehouse associate | ON Creditview Rd (va Ho) | Summer | 2026-06-15 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mississauga-ON---Creditview-Rd-VA-HO/Summer-student-warehouse-associate_R10093414) |
 | Airbus | ACOLP Intern | Tianjin Area | Not specified | 2026-06-15 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLP-Intern_JR10420315) |
 | Airbus | Internship Sustainability Performance Management (freiw. Praktikum) | Hamburg Area | Not specified | 2026-06-15 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship-Sustainability-Performance-Management--freiw-Praktikum-_JR10410760) |
+| Al Warren Oil Company | Software Developer - Fall Internship 2026 | Illinois, United States | Fall | 2026-06-15 | [Apply](https://apply.workable.com/al-warren-oil-company-inc/j/CAD4BF1C9C/) |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | Not specified | 2026-06-15 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) |
+| Altom Transport | Fall Software Development Intern | Indiana, United States | Fall | 2026-06-15 | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) |
 | American Heart Association | Intern, Development & Community Events-Denver, CO | Not Specified | Not specified | 2026-06-15 | [Apply](https://careers-heart.icims.com/jobs/17682/intern%2c-development-%26-community-events-denver%2c-co/job) |
 | American Heart Association | Intern, Development & Community Events-Fayetteville, AR immediate surrounding area | Not Specified | Not specified | 2026-06-15 | [Apply](https://careers-heart.icims.com/jobs/17681/intern%2c-development-%26-community-events-fayetteville%2c-ar-immediate-surrounding-area/job) |
 | American Heart Association | Intern, Development & Community Events-San Antonio, TX | Not Specified | Not specified | 2026-06-15 | [Apply](https://careers-heart.icims.com/jobs/17672/intern%2c-development-%26-community-events-san-antonio%2c-tx/job) |
 | American Heart Association | Intern, Development & Community Events-The Woodlands, TX or immediate surrounding area | Not Specified | Not specified | 2026-06-15 | [Apply](https://careers-heart.icims.com/jobs/17673/intern%2c-development-%26-community-events-the-woodlands%2c-tx-or-immediate-surrounding-area/job) |
 | Amgen | Internship Commercial Department | Romania Bucharest | Not specified | 2026-06-15 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Romania---Bucharest/Internship-Commercial-Department_R-247493) |
 | Analog Devices | Processing Engineering Intern | OR, United States | Not specified | 2026-06-15 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Processing-Engineering-Intern_R263182) |
+| Ascendis Pharma | Intern - Administration | Italy | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/ascendis-pharma/j/567911160B/) |
+| Ascendis Pharma | Student Assistant Commercial Intelligence (f/m/d) | Germany | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/ascendis-pharma/j/07E2C343D1/) |
+| Ascendis Pharma | Student Assistant, Commercial Finance - International Markets | Denmark | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/ascendis-pharma/j/28FC470160/) |
 | ASML | Internship - HR Global Mobility Expertise (GME) Intern "one-year contract" - Hsinchu | Taiwan | Not specified | 2026-06-15 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Internship---HR-Global-Mobility-Expertise--GME--Intern--one-year-contract----Hsinchu_J-00344573) |
 | AtkinsRéalis | Intern | Atkinsréalis Corporate Office Bangalore / In.gurgaon.dlf Cyber City | Not specified | 2026-06-15 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-155323-1) |
 | Avery Dennison | Internship: Marketing Excellence | Oegstgeest, ZH | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000132160049) |
 | Banco Bilbao Vizcaya Argentaria | Internship Finance | Zurich | Not specified | 2026-06-15 | [Apply](https://bbva.wd3.myworkdayjobs.com/BBVA/job/99000-EXTRANJERO-Zurich/Internship-Finance_JR00106682) |
 | Banco Bilbao Vizcaya Argentaria | Structured Finance UK Internship | London | Not specified | 2026-06-15 | [Apply](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Structured-Finance-UK-Internship_JR00106670) |
+| Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) |
+| Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | 2026 | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) |
+| Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) |
+| Belmond | Internship for Engineering (Malaysian Students Only) | Malaysia | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/484669E8C1/) |
+| Belmond | Internship for Human Resources (Malaysian Students Only) | Malaysia | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6D34EB7FBF/) |
+| Belmond | Internship for Train Office (Malaysian Students Only) | Malaysia | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A7A9D048DB/) |
+| Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) |
+| Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) |
+| Belmond | Internship in Accounting & Finance | Italy | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) |
 | BlackBerry | QNX - Software Developer Student (Fall 2025) | Ottawa, ON | Fall 2025 | 2026-06-15 | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX---Software-Developer-Student--Fall-2025-_20260221) |
 | BMO | Process and Change Management Analyst, Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON | Fall 2026 | 2026-06-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Process-and-Change-Management-Analyst--Fall-2026--Co-op-Internship----4-Months_R260018012) |
 | BorgWarner | Working Student (m/f/d) AI & Automation Engineer | Kirchheimbolanden Germany | Not specified | 2026-06-15 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kirchheimbolanden---Germany/Working-Student--m-f-d--AI---Automation-Engineer_R2026-1127) |
@@ -88,6 +102,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Clarios | Intern - EHS | Cienega De Flores | Not specified | 2026-06-15 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Leon-Cienega-de-Flores/Intern---EHS_WD48847) |
 | Clarios | Intern - Innovation | San Pedro Garza Garcia | Not specified | 2026-06-15 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Innovation_WD48759) |
 | CLO Virtual Fashion | Software Engineer Intern | Seoul | Not specified | 2026-06-15 | [Apply](https://jobs.lever.co/clovirtualfashion/e53e217c-38ba-40e1-a548-d214ecb7c790) |
+| ConnectPrep | Data Analyst Internship | United States Remote | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/connectprep/j/65F6D2C32E/) |
 | Continental | HR Generalist Intern | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132134525) |
 | Continental | Intern - AI Automation & Technical Customer Service Operations Support | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132082434) |
 | Continental | Intern - Tire Property Management / Finance, Year-Round | Fort Mill, SC, United States | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132233525) |
@@ -167,6 +182,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern | Oh Mason | Not specified | 2026-06-15 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Mason/Pharmacy-Intern_R0947129-1) |
 | CVS Health | Pharmacy Intern | Pa Bensalem | Not specified | 2026-06-15 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Bensalem/Pharmacy-Intern_R0947125) |
 | CVS Health | Pharmacy Intern - Grad | Mn Dilworth | Not specified | 2026-06-15 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Dilworth/Pharmacy-Intern---Grad_R0947388) |
+| DataVisor | AI/Machine Learning Engineering - Intern | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/datavisor-jobs/j/8EA46581E0/) |
+| DataVisor | Delivery Engineer Internship Spring/Summer 2026 - Canada | Canada Remote | Summer 2026 | 2026-06-15 | [Apply](https://apply.workable.com/datavisor-jobs/j/9D69808D1A/) |
+| DataVisor | Marketing Intern - Tech Writer (Summer 2026, 12 - 16 Weeks) | Canada Remote | Summer 2026 | 2026-06-15 | [Apply](https://apply.workable.com/datavisor-jobs/j/61AA6533F0/) |
 | Definity Financial | Data Analyst - Fall 2026 Co-op/Intern | Ont, Canada | Fall 2026 | 2026-06-15 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) |
 | Definity Financial | Reporting Specialist - Fall 2026 Co-op/Intern | Ont, Canada | Fall 2026 | 2026-06-15 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) |
 | Definity Financial | Test Automation Developer - Fall 2026 Co-op/Intern | Ont, Canada | Fall 2026 | 2026-06-15 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9060) |
@@ -175,6 +193,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Scheduling Intern | Portugal | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lisbon-Portugal/Scheduling-Intern_10152374) |
 | Egis Group | Alternance - Assistant Formation H/F | Montreuil, France | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132216329) |
 | Elekta | Service Operations Intern | Istanbul | Not specified | 2026-06-15 | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) |
+| Eluvio | Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal) | California, United States | Summer | 2026-06-15 | [Apply](https://apply.workable.com/eluvio/j/F70F3473E7/) |
 | Emerson Electric | Intern-Technology | India | Not specified | 2026-06-15 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006504) |
 | Emerson Electric | Internship: Software Engineering of Python Open-Source API | Germany | Not specified | 2026-06-15 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006444) |
 | Entegris | Customer Quality Engineer Intern | South Korea | Not specified | 2026-06-15 | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Suwon-si-Gyeonggi-do-South-Korea/Customer-Quality-Engineer-Intern_REQ-12780) |
@@ -194,6 +213,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Experian | Automation Intern | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Experian/744000132113693) |
 | Experian | End User Engineer Intern | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Experian/744000132109145) |
 | Experian | Vulnerability Governance Intern (Cybersecurity) | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Experian/744000132113869) |
+| Falcomm | Graduate RFIC Engineering Intern/Co-Op | Georgia, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/falcomm/j/AB7EFC1931/) |
+| Falcomm | ML Software Engineer Intern - AI/CAD Integration | Georgia, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/falcomm/j/B5EB495F31/) |
+| Falcomm | Operations Intern | Georgia, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/falcomm/j/156AD9A12B/) |
+| Falcomm | Undergraduate RFIC Engineering Intern | Georgia, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/falcomm/j/19F2F69604/) |
 | Flywire | Intern, Marketing & Digital | China | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Flywire1/744000132109549) |
 | Foundation | Controls Engineer Intern | San Francisco, Canada | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) |
 | Foundation | electrical Engineer Intern | San Francisco, Canada | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/foundation-robotics/jobs/85b37acb-be92-4907-be88-a4181c23b9ec) |
@@ -357,6 +380,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Phamily | June 2026 Machine Learning Intern (R&D) | New York, NY | 2026 | 2026-06-15 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5263024008) |
 | Philips | Beauty Marketing Intern | Shanghai | Not specified | 2026-06-15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Beauty-Marketing-Intern_586084) |
 | Philips | Internship Time-Series Anomaly Simulation Modelling for Philips Personal  Health Production Lines | Drachten | Not specified | 2026-06-15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Internship-Time-Series-Anomaly-Simulation-Modelling-for-Philips-Personal--Health-Production-Lines_585889) |
+| pony.ai | Research Intern - Deep Learning | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) |
+| pony.ai | Software Engineer Intern - Generalist | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) |
 | PricewaterhouseCoopers (PwC) | (Afstudeer)stage Justitie en Veiligheid, Publieke Sector | Amsterdam | Not specified | 2026-06-15 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Amsterdam/Afstudeerstage-Justitie-en-Veiligheid--Publieke-Sector_706876WD-2) |
 | PricewaterhouseCoopers (PwC) | Internship - Document Automation | Prague | Not specified | 2026-06-15 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Internship---Document-Automation_737167WD) |
 | Procter & Gamble (P&G) | AI Engineer Internship (m/f/x) | Madrid General Office | Not specified | 2026-06-15 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/AI-Engineer-Internship--m-f-x-_R000153485) |
@@ -364,6 +389,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Prysmian Cables & Systems | Purchasing Intern-1 | Sorocaba | Not specified | 2026-06-15 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Sorocaba/Purchasing-Intern-1_R-32357) |
 | Prysmian Cables & Systems | Spain Applications - Intern | Vilanova, ES | Not specified | 2026-06-15 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Vilanova-ES/Spain-Applications---Intern_R-34395) |
 | Prysmian Cables & Systems | Spain R&D Raw Materials Documentation– Intern | Vilanova, ES | Not specified | 2026-06-15 | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Vilanova-ES/Spain-R-D-Raw-Materials-Documentation--Intern_R-34394) |
+| Quadric | AI Inference Engineer Intern - Model Pruning | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/870833317E/) |
+| Quadric | AI Kernel Engineer Intern - Kernel Optimization | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/) |
+| Quadric | Data Science Intern - Model Optimization | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/52EA39411C/) |
+| Quadric | Design Verification Intern | California, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/) |
 | RBC | Client Advisor Intern | Stratford, ON, Canada | Not specified | 2026-06-15 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/STRATFORD-Ontario-Canada/Client-Advisor-Intern_R-0000176542) |
 | RBC | Relationship Manager Intern - Commercial Banking | Burlington, ON, Canada | Not specified | 2026-06-15 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BURLINGTON-Ontario-Canada/Relationship-Manager-Intern---Commercial-Banking_R-0000175725) |
 | RBC | Relationship Manager Intern, Commercial Financial Services | Surrey, BC, Canada | Not specified | 2026-06-15 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SURREY-British-Columbia-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000176772) |
@@ -435,6 +464,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Takeda | Master Thesis/Internship - Automation (Automatisierungstechnik / Informatik / Data Science / Verfahrenstechnik /Wirtschaftsingenieurwesen) - (w/m/d) | Aut Wien Industriestrasse 67 | Not specified | 2026-06-15 | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/AUT---Wien---Industriestrasse-67/Master-Thesis-Internship---Automation--Automatisierungstechnik---Informatik---Data-Science---Verfahrenstechnik--Wirtschaftsingenieurwesen-----w-m-d-_R0182216-1) |
 | TD Synnex | Student | Brazil | Not specified | 2026-06-15 | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/So-Paulo-Brazil/Student_R49962) |
 | Tenstorrent | Acceleration Kernel Developer Intern | Poland | Not specified | 2026-06-15 | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5164251007) |
+| Terabase | Summer Intern - Mechanical Engineer & IP | California, United States | Summer | 2026-06-15 | [Apply](https://apply.workable.com/terabase-energy/j/AEF77047D1/) |
 | The Walt Disney Company | Intern | Serris, France | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Serris-France/Intern_10149835) |
 | The Walt Disney Company | Intern, Sales, Disneyland Paris | Spain | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Madrid-Spain/Intern--Sales--Disneyland-Paris_10152473-1) |
 | The Walt Disney Company | Scheduling Intern | Portugal | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lisbon-Portugal/Scheduling-Intern_10152374-1) |
@@ -442,7 +472,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | TheGuarantors | Software Engineering Intern | New York, NY | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b) |
 | Thermo Fisher Scientific | Student Assistant / Working Student  (m/f/d) Laboratory Analytics Systems | Germany | Not specified | 2026-06-15 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bremen-Germany/Student-Assistant---Working-Student---m-f-d--Laboratory-Analytics-Systems_R-01356091) |
 | Tiffany & Co. | Intern Retail Operations (m/f/d) | Germany | Not specified | 2026-06-15 | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63250) |
+| TMEIC | Intern - Applications, AI and Machine Learning (Fall 2026) (ET26021) | Virginia, United States | Fall 2026 | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) |
+| TMEIC | Intern - Engineer (Fall 2026) EIS (ET26022) | Virginia, United States | Fall 2026 | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/108B9D6A02/) |
+| TMEIC | Intern - Engineer (Fall 2026) EIS (ET26023) | Texas, United States | Fall 2026 | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/A2E3AF9535/) |
+| TMEIC | Intern - Financial Planning and Analysis (ET26040) | Texas, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/45BC814EF4/) |
+| TMEIC | Intern - Human Resources (ET26018) | Virginia, United States | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/EFDFE27C20/) |
+| TMEIC | Intern- Engineering (Fall 2026) IS (ET26030) | Virginia, United States | Fall 2026 | 2026-06-15 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/2AE3FC8223/) |
 | Together AI | Research Intern, Model Shaping (Fall 2026) | San Francisco | Fall 2026 | 2026-06-15 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) |
+| Tokamak Energy | Tokamak Energy Summer Internship - Procurement & Supply Chain | England, United Kingdom | Summer | 2026-06-15 | [Apply](https://apply.workable.com/tokamak-energy/j/BAEC86B837/) |
 | TRUMPF | Warehouse Student TMX MT | Mexico | Not specified | 2026-06-15 | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Apodaca-Mexico/Warehouse-Student-TMX-MT_R00040837) |
 | Tyson Foods | Sales Strategy & Planning Year-Round Intern | Arkansas | Not specified | 2026-06-15 | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Sales-Strategy---Planning-Year-Round-Intern_R0467361-2) |
 | Unilever | ManEx Performance Data Intern | South Africa | Not specified | 2026-06-15 | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Boksburg-South-Africa/ManEx-Performance-Data-Intern_R-1182887) |
@@ -459,6 +496,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | CO-OP/INTERNS- LOGISTICS | Rio Bravo | Not specified | 2026-06-15 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--LOGISTICS_REQ2026071133) |
 | Valeo | CO-OP/INTERNS-MAINTENANCE | Rio Bravo | Not specified | 2026-06-15 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS-MAINTENANCE_REQ2025058994) |
 | Valeo | Intern - Admin Assistant | Chennai | Not specified | 2026-06-15 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Admin-Assistant_REQ2026074864) |
+| Valsoft Corporation | AI Marketer Intern - Canada | Canada Remote | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/valsoft-corp/j/8AD93D80C4/) |
+| Valsoft Corporation | AI Marketer Intern - USA | United States Remote | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/valsoft-corp/j/AA9D496F9D/) |
+| Valsoft Corporation | M&A Analyst - Academic Work Placement/ Internship | Remote / France Remote | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/valsoft-corp/j/661AC4C3EF/) |
+| Valsoft Corporation | M&A Internship - Fall Semester | Toronto, ON, Canada | Fall | 2026-06-15 | [Apply](https://apply.workable.com/valsoft-corp/j/7B245EB8E7/) |
+| Valsoft Corporation | M&A Internship - Immediate Start | England, United Kingdom | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/valsoft-corp/j/9DCFDF1C3E/) |
 | Vanasse Hangen Brustlin (VHB) | Transit and Rail High School Intern | Boston, MA, United States | Not specified | 2026-06-15 | [Apply](https://careers-vhb.icims.com/jobs/6097/transit-and-rail-high-school-intern/job) |
 | Veolia | Alternance - Ingénieur méthodes F/H | Normandie, France | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132151995) |
 | Veolia | Alternance - Refonte Intranet Normes IFRS, Contrôle Interne Finance & Finance Durable - H/F | Idf, France | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132176224) |
