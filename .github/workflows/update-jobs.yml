@@ -32,7 +32,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python scripts/sync_companies.py
-          for source in workday lever greenhouse ashby icims oracle_hcm smartrecruiters; do
+          for source in workday lever greenhouse ashby icims oracle_hcm smartrecruiters rippling; do
             echo "Running updater for source: $source"
             python scripts/main.py --source "$source"
 
