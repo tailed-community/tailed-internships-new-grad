@@ -4,7 +4,7 @@
 
 - Production workflow: `.github/workflows/update-jobs.yml`
 - Runs source-scoped updates sequentially
-- Currently executes `workday`, then `lever`, then `greenhouse`, then `ashby`, then `icims`, then `oracle_hcm`, then `smartrecruiters`
+- Currently executes `workday`, then `lever`, then `greenhouse`, then `ashby`, then `icims`, then `oracle_hcm`, then `smartrecruiters`, then `rippling`
 - Each source run updates only companies from that source
 - Updates `data/jobs.json`
 - Updates `data/archived.json`

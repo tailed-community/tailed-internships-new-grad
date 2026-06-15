@@ -59,6 +59,19 @@ SMARTRECRUITERS_SEARCH_TERMS = [
     "graduate",
 ]
 
+RIPPLING_SEARCH_TERMS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "new grad",
+    "new graduate",
+    "early career",
+    "entry level",
+    "graduate",
+]
+
 TRUE_VALUES = {"true", "yes", "1"}
 FALSE_VALUES = {"false", "no", "0"}
 
@@ -173,6 +186,14 @@ def detect_source(url: str) -> str | None:
         segment.lower() for segment in path_segments
     }:
         return "smartrecruiters"
+    if (
+        hostname == "ats.rippling.com"
+        and (
+            (len(path_segments) >= 2 and path_segments[1].lower() == "jobs")
+            or (len(path_segments) >= 3 and path_segments[2].lower() == "jobs")
+        )
+    ):
+        return "rippling"
     return None
 
 
@@ -341,6 +362,26 @@ def extract_smartrecruiters_parts(url: str) -> tuple[str, str]:
     return slug, canonical_url
 
 
+def extract_rippling_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    if hostname != "ats.rippling.com":
+        raise ValueError("unsupported Rippling URL")
+
+    path_segments = [unquote(segment).strip() for segment in parsed.path.split("/") if segment]
+    slug = ""
+    if len(path_segments) >= 2 and path_segments[1].lower() == "jobs":
+        slug = path_segments[0]
+    elif len(path_segments) >= 3 and path_segments[2].lower() == "jobs":
+        slug = path_segments[1]
+
+    if not slug:
+        raise ValueError("missing Rippling job board slug in URL path")
+
+    canonical_url = f"https://ats.rippling.com/{quote(slug, safe='')}/jobs"
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -428,6 +469,18 @@ def build_smartrecruiters_company(company: str, url: str, enabled: bool) -> dict
     }
 
 
+def build_rippling_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_rippling_parts(url)
+    return {
+        "company": company,
+        "source": "rippling",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+        "search_terms": RIPPLING_SEARCH_TERMS,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -444,6 +497,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_oracle_hcm_company(company, url, enabled)
     if source == "smartrecruiters":
         return build_smartrecruiters_company(company, url, enabled)
+    if source == "rippling":
+        return build_rippling_company(company, url, enabled)
     return None
 
 

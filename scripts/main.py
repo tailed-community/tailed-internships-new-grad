@@ -14,6 +14,7 @@ from core.normalize import (
     normalize_icims_job,
     normalize_lever_job,
     normalize_oracle_hcm_job,
+    normalize_rippling_job,
     normalize_smartrecruiters_job,
     normalize_workday_job,
 )
@@ -22,6 +23,7 @@ from fetchers.greenhouse import fetch_greenhouse_jobs
 from fetchers.icims import fetch_icims_jobs
 from fetchers.lever import fetch_lever_jobs
 from fetchers.oracle_hcm import fetch_oracle_hcm_jobs
+from fetchers.rippling import fetch_rippling_jobs
 from fetchers.smartrecruiters import fetch_smartrecruiters_jobs
 from fetchers.workday import fetch_workday_jobs
 
@@ -46,6 +48,10 @@ SOURCE_HANDLERS = {
     "oracle_hcm": {
         "fetch_jobs": fetch_oracle_hcm_jobs,
         "normalize_job": normalize_oracle_hcm_job,
+    },
+    "rippling": {
+        "fetch_jobs": fetch_rippling_jobs,
+        "normalize_job": normalize_rippling_job,
     },
     "smartrecruiters": {
         "fetch_jobs": fetch_smartrecruiters_jobs,
