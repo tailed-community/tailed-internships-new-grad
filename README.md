@@ -3451,7 +3451,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Deliveroo | Key Account Management Intern | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/daa589d4-8053-48e6-a60d-c76930685a81) |
 | Deliveroo | Marketing CRM Intern | Belgium / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/ff434172-08d1-44e7-b799-946781c10188) |
 | Deliveroo | Marketing Strategy Intern | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/75ccc13d-a407-442f-828b-8faa93dbdbb9) |
-| Deliveroo | Software Engineer Intern | City Of, United Kingdom | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/3e0440a9-7abc-45b0-8520-d3e13083d0f3) |
 | Dexcom | Facilities Engineer Intern | Malaysia | Not specified | 2026-06-08 | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Intern_JR118516) |
 | Dryft | Full-Stack Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) |
 | Eight Sleep | AI/ML Research Internship | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
@@ -3550,7 +3549,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Marsh | Intern - Business Development | Singapore Marina View | Not specified | 2026-06-08 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Intern---Business-Development_R_354137) |
 | Marvell | Digital IC Design Intern | Argentina | Not specified | 2026-06-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) |
 | Mechanize | Software Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
-| Medra | Systems Test Engineer - Summer 2026 Internship | Massachusetts, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/medraai/e101fbcf-5d99-4c7e-8ec3-125a1b638905) |
 | Medtronic | Event Management Intern | Hertfordshire, United Kingdom | Not specified | 2026-06-08 | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Watford-Hertfordshire-United-Kingdom/Event-Management-Intern_R68437) |
 | Melotech | AI/ML Engineer Intern | Germany / New York / London / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073) |
 | Melotech | Data Science Intern, Music & Audio | Germany / London / New York / Los Angeles / San Francisco / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2) |
@@ -3577,10 +3575,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Working Student (f/m/d) MCU Support | Munich | Not specified | 2026-06-08 | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Working-Student--f-m-d--MCU-Support_R-10063859-1) |
 | Output Biosciences | Research Intern (PhD), Machine Learning | New York, United States / Bay Area | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | Parsons | ITS Project Coordinator Intern | Not Specified | Not specified | 2026-06-08 | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Irvine/ITS-Project-Coordinator-Intern_R181635) |
+| Perplexity AI | AI Inference Internship | London, United Kingdom / United Kingdom Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) |
 | Perplexity AI | Internship - Search Backend Infra Engineer | Serbia | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) |
 | Perplexity AI | Internship - Search Machine Learning Engineer | Serbia | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) |
 | Perplexity AI | Internship - Search Machine Learning Engineer | London, United Kingdom | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d) |
-| Perplexity AI | UK Internship Program | London, United Kingdom / United Kingdom Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) |
 | Phia | Full Stack Engineer Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162) |
 | Philips | Co-op – Mechanical Engineer – Orlando, FL – August 2026 | Florida, United States | 2026 | 2026-06-08 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando-Florida-United-States/Co-op---Mechanical-Engineer---Orlando--FL---August-2026_584413) |
 | Philips | Customer Order Intern | Varginha | Not specified | 2026-06-08 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Customer-Order-Intern_584414) |
@@ -3720,7 +3718,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Assistant(e) Trésorier Back-Office - Stage | Paris | Not specified | 2026-06-08 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/Assistant-e--Trsorier-Back-Office---Stage_REQ2026076176-1) |
 | Vendelux | Part time Data Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43) |
 | Vendelux | Tech Internship | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de) |
-| Vital Lyfe | Marketing Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/a60e6af5-f86a-421d-97dd-71f85ab22088) |
 | Wealth.com | Applied Scientist- AI/ML Intern | United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/wealth-com/1899d513-4c4a-43b2-a307-8c8e4b877622) |
 | WindBorne Systems | Creative Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/windborne-systems/eef84470-7eea-40c4-9bfc-43b9a14d9957) |
 | WindBorne Systems | Firmware Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843) |

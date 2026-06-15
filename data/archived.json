@@ -78468,5 +78468,47 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-15"
+  },
+  {
+    "id": "ashby-deliveroo-3e0440a9-7abc-45b0-8520-d3e13083d0f3",
+    "company": "Deliveroo",
+    "title": "Software Engineer Intern",
+    "location": "City Of, United Kingdom",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/deliveroo/3e0440a9-7abc-45b0-8520-d3e13083d0f3",
+    "date_posted": "2026-03-27",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-15"
+  },
+  {
+    "id": "ashby-medra-e101fbcf-5d99-4c7e-8ec3-125a1b638905",
+    "company": "Medra",
+    "title": "Systems Test Engineer - Summer 2026 Internship",
+    "location": "Massachusetts, United States",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/medraai/e101fbcf-5d99-4c7e-8ec3-125a1b638905",
+    "date_posted": "2026-04-23",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-15"
+  },
+  {
+    "id": "ashby-vital-lyfe-a60e6af5-f86a-421d-97dd-71f85ab22088",
+    "company": "Vital Lyfe",
+    "title": "Marketing Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/vital-lyfe/a60e6af5-f86a-421d-97dd-71f85ab22088",
+    "date_posted": "2026-06-01",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-06-15"
   }
 ]
