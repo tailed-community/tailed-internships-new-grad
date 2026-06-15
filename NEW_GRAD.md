@@ -16,6 +16,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Acute Cardiac and Nephrology | Akron General Medical Center | Not specified | 2026-06-15 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/New-Grad-RN-Resident---Acute-Cardiac-and-Nephrology_344641) |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular Stepdown | Cleveland Clinic Main Campus | Not specified | 2026-06-15 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Stepdown_325082) |
 | Cleveland Clinic | New Grad RN Resident - ICU | Tradition Hospital | Not specified | 2026-06-15 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Tradition-Hospital/New-Grad-RN-Resident---ICU_342611) |
+| Eurofins | Entry Level Manufacturing Technician - 1st Shift | Nashville, TN, United States | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132226629) |
 | General Dynamics Mission Systems | ASIC FPGA Engineer – Entry Level for Crypto and Cross Domain Solutions | Scottsdale, AZ, United States | Not specified | 2026-06-15 | [Apply](https://careers-gdms.icims.com/jobs/73026/asic-fpga-engineer-%e2%80%93-entry-level-for-crypto-and-cross-domain-solutions/job) |
 | Hitachi | Buyer (2027 new graduate hiring) | Japan | 2027 | 2026-06-15 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Buyer--2027-new-graduate-hiring-_R0125590) |
 | Hitachi | Field Service Engineer (2027 new graduate hiring) | Japan | 2027 | 2026-06-15 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Field-Service-Engineer--2027-new-graduate-hiring-_R0125579) |
@@ -40,7 +41,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Electrical, Instrumentation & Controls New Grad | Calgary, AB, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131770207) |
 | AECOM | Entry Level Structural Engineer | Baton Rouge, LA, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131760439) |
 | AECOM | Entry-Level Civil Engineer | North Charleston, SC, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000129256135) |
-| AECOM | Knowledge Management Coordinator (Entry-Level) | Philippines | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131440689) |
 | Arcadis | Entry-Level Environmental Scientist/Engineer | Charlotte, NC, United States | Not specified | 2026-06-13 | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40553) |
 | Arconic | Entry Level Production | Lancaster, PA, United States | Not specified | 2026-06-13 | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113897) |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) |
@@ -48,7 +48,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Atria Group | Entry Level ASP.NET programmer | Chicago, IL, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211) |
 | Atria Group | User Interface Designer (Entry level) | Dallas, TX, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/599787) |
 | Atria Group | Web Tester (Entry level) | Dallas, TX, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/599803) |
-| Avery Dennison | Buyer (Entry Level) | Fitchburg, MA, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000131489310) |
 | BCforward | Entry Level Buyer | San Antonio, TX, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BCforward3/93825141) |
 | BCforward | Entry Level Buyer Supply | San Antonio, TX, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BCforward3/98285218) |
 | BCforward | Entry Level Buyer/Supply Chain | San Antonio, TX, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BCforward3/93126350) |
@@ -77,7 +76,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Egis Group | UAE National Graduate Program | United Arab Emirates | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) |
 | Eurofins | Entry Level - In vivo Scientist | South Brunswick Township, NJ, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131529605) |
 | Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131547069) |
-| Eurofins | Entry Level Manufacturing Technician - 1st Shift | Nashville, TN, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131761502) |
 | Eurofins | Entry Level-Lab Technician (Weds-Sun), Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131910619) |
 | Eurofins | Shipping & Receiving Assistant (entry-level) | Fairfield, OH, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000130273719) |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | Not specified | 2026-06-13 | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) |
