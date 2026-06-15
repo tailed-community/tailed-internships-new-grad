@@ -72,6 +72,19 @@ RIPPLING_SEARCH_TERMS = [
     "graduate",
 ]
 
+WORKABLE_SEARCH_TERMS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student",
+    "new grad",
+    "new graduate",
+    "early career",
+    "entry level",
+    "graduate",
+]
+
 TRUE_VALUES = {"true", "yes", "1"}
 FALSE_VALUES = {"false", "no", "0"}
 
@@ -194,6 +207,12 @@ def detect_source(url: str) -> str | None:
         )
     ):
         return "rippling"
+    if hostname == "apply.workable.com" and path_segments:
+        lowered_segments = [segment.lower() for segment in path_segments]
+        if len(path_segments) >= 4 and lowered_segments[:3] == ["api", "v3", "accounts"]:
+            return "workable"
+        if lowered_segments[0] != "api":
+            return "workable"
     return None
 
 
@@ -382,6 +401,27 @@ def extract_rippling_parts(url: str) -> tuple[str, str]:
     return slug, canonical_url
 
 
+def extract_workable_parts(url: str) -> tuple[str, str]:
+    parsed = urlsplit(url)
+    hostname = (parsed.hostname or "").lower()
+    if hostname != "apply.workable.com":
+        raise ValueError("unsupported Workable URL")
+
+    path_segments = [unquote(segment).strip() for segment in parsed.path.split("/") if segment]
+    lowered_segments = [segment.lower() for segment in path_segments]
+    slug = ""
+    if len(path_segments) >= 4 and lowered_segments[:3] == ["api", "v3", "accounts"]:
+        slug = path_segments[3]
+    elif path_segments and lowered_segments[0] != "api":
+        slug = path_segments[0]
+
+    if not slug:
+        raise ValueError("missing Workable account slug in URL path")
+
+    canonical_url = f"https://apply.workable.com/{quote(slug, safe='')}"
+    return slug, canonical_url
+
+
 def build_workday_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
     tenant, site, canonical_url = extract_workday_parts(url)
     return {
@@ -481,6 +521,18 @@ def build_rippling_company(company: str, url: str, enabled: bool) -> dict[str, A
     }
 
 
+def build_workable_company(company: str, url: str, enabled: bool) -> dict[str, Any]:
+    slug, canonical_url = extract_workable_parts(url)
+    return {
+        "company": company,
+        "source": "workable",
+        "url": canonical_url,
+        "slug": slug,
+        "enabled": enabled,
+        "search_terms": WORKABLE_SEARCH_TERMS,
+    }
+
+
 def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any] | None:
     source = detect_source(url)
     if source == "workday":
@@ -499,6 +551,8 @@ def build_company_config(company: str, url: str, enabled: bool) -> dict[str, Any
         return build_smartrecruiters_company(company, url, enabled)
     if source == "rippling":
         return build_rippling_company(company, url, enabled)
+    if source == "workable":
+        return build_workable_company(company, url, enabled)
     return None
 
 

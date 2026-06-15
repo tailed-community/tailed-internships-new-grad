@@ -1123,3 +1123,85 @@ def normalize_rippling_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
         "date_added": date.today().isoformat(),
         "active": True,
     }
+
+
+def _format_workable_location_item(location: dict[str, Any]) -> str:
+    city = str(location.get("city", "")).strip()
+    region = str(location.get("region", "")).strip()
+    country = str(location.get("country", "")).strip()
+    value = ", ".join(part for part in (city, region, country) if part)
+    return value or "Not specified"
+
+
+def _format_workable_locations(raw_job: dict[str, Any]) -> str:
+    parts: list[str] = []
+    seen: set[str] = set()
+
+    locations = raw_job.get("locations")
+    if isinstance(locations, list):
+        for location in locations:
+            if not isinstance(location, dict) or location.get("hidden") is True:
+                continue
+            formatted = _format_workable_location_item(location)
+            if formatted == "Not specified":
+                continue
+            key = formatted.casefold()
+            if key in seen:
+                continue
+            seen.add(key)
+            parts.append(formatted)
+
+    if not parts:
+        location = raw_job.get("location")
+        if isinstance(location, dict):
+            formatted = _format_workable_location_item(location)
+            if formatted != "Not specified":
+                parts.append(formatted)
+
+    is_remote = raw_job.get("remote") is True or str(raw_job.get("workplace", "")).lower() == "remote"
+    if is_remote:
+        if not parts:
+            return "Remote"
+        return " / ".join(f"Remote, {part}" for part in parts)
+
+    if not parts:
+        return "Not specified"
+    return " / ".join(parts)
+
+
+def normalize_workable_job(raw_job: dict[str, Any]) -> dict[str, Any] | None:
+    company = str(raw_job.get("_company", "Unknown")).strip() or "Unknown"
+    title = str(raw_job.get("title") or raw_job.get("name") or "Unknown").strip() or "Unknown"
+    job_type = classify_job_type(title)
+    if job_type is None:
+        return None
+
+    source = str(raw_job.get("_source", "workable")).strip() or "workable"
+    location = _format_workable_locations(raw_job)
+    url = (
+        str(raw_job.get("_url", "")).strip()
+        or str(raw_job.get("_career_url", "")).strip()
+        or "Not specified"
+    )
+    job_id = _build_job_id(
+        source=source,
+        company=company,
+        raw_job=raw_job,
+        url=url,
+        location=location,
+        title=title,
+    )
+
+    return {
+        "id": job_id,
+        "company": company,
+        "title": title,
+        "location": location,
+        "type": job_type,
+        "season": extract_season(title),
+        "source": source,
+        "url": url,
+        "date_posted": _normalize_iso_date(raw_job.get("published")),
+        "date_added": date.today().isoformat(),
+        "active": True,
+    }

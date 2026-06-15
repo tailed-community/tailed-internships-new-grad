@@ -647,6 +647,25 @@
     "enabled": true
   },
   {
+    "company": "Advantmed",
+    "source": "workable",
+    "url": "https://apply.workable.com/advantmed",
+    "slug": "advantmed",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Advocate Health Care",
     "source": "workday",
     "url": "https://aah.wd5.myworkdayjobs.com/External",
@@ -1040,6 +1059,25 @@
     "host": "careers.akima.com",
     "mode": "jibe",
     "enabled": true
+  },
+  {
+    "company": "Al Warren Oil Company",
+    "source": "workable",
+    "url": "https://apply.workable.com/al-warren-oil-company-inc",
+    "slug": "al-warren-oil-company-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Alamar Biosciences",
@@ -1499,6 +1537,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Altom Transport",
+    "source": "workable",
+    "url": "https://apply.workable.com/altom-transport",
+    "slug": "altom-transport",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -2937,6 +2994,25 @@
     ]
   },
   {
+    "company": "Ascendis Pharma",
+    "source": "workable",
+    "url": "https://apply.workable.com/ascendis-pharma",
+    "slug": "ascendis-pharma",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Ascensus",
     "source": "workday",
     "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers",
@@ -4260,6 +4336,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Belmond",
+    "source": "workable",
+    "url": "https://apply.workable.com/belmond-uk-ltd",
+    "slug": "belmond-uk-ltd",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -8146,6 +8241,25 @@
     ]
   },
   {
+    "company": "ConnectPrep",
+    "source": "workable",
+    "url": "https://apply.workable.com/connectprep",
+    "slug": "connectprep",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Conner Strong & Buckelew",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/connerstrongbuckelew",
@@ -9422,6 +9536,25 @@
     ]
   },
   {
+    "company": "DataVisor",
+    "source": "workable",
+    "url": "https://apply.workable.com/datavisor-jobs",
+    "slug": "datavisor-jobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "DatologyAI",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/DatologyAI",
@@ -10061,6 +10194,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Double Eleven",
+    "source": "workable",
+    "url": "https://apply.workable.com/double-eleven",
+    "slug": "double-eleven",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -10769,6 +10921,25 @@
     ]
   },
   {
+    "company": "Eluvio",
+    "source": "workable",
+    "url": "https://apply.workable.com/eluvio",
+    "slug": "eluvio",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Ema",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/ema",
@@ -11045,6 +11216,25 @@
     "url": "https://boards.greenhouse.io/energyhub",
     "slug": "energyhub",
     "enabled": true
+  },
+  {
+    "company": "ENFOS",
+    "source": "workable",
+    "url": "https://apply.workable.com/enfos-inc",
+    "slug": "enfos-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Enova",
@@ -11622,6 +11812,25 @@
     ]
   },
   {
+    "company": "Evolve Technology",
+    "source": "workable",
+    "url": "https://apply.workable.com/evolv-technology",
+    "slug": "evolv-technology",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Evonik",
     "source": "workday",
     "url": "https://evonik.wd3.myworkdayjobs.com/External_Careers",
@@ -11950,6 +12159,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Falcomm",
+    "source": "workable",
+    "url": "https://apply.workable.com/falcomm",
+    "slug": "falcomm",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -14410,6 +14638,25 @@
     ]
   },
   {
+    "company": "Grayce",
+    "source": "workable",
+    "url": "https://apply.workable.com/grayce",
+    "slug": "grayce",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Great American Insurance Company",
     "source": "workday",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External",
@@ -16266,6 +16513,25 @@
     "enabled": true
   },
   {
+    "company": "Infleqtion",
+    "source": "workable",
+    "url": "https://apply.workable.com/coldquanta",
+    "slug": "coldquanta",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Infojini",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/InfojiniInc1",
@@ -17969,6 +18235,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Kestra",
+    "source": "workable",
+    "url": "https://apply.workable.com/kestra-medical-technologies-inc",
+    "slug": "kestra-medical-technologies-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -22923,6 +23208,25 @@
     ]
   },
   {
+    "company": "OnLogic",
+    "source": "workable",
+    "url": "https://apply.workable.com/onlogic-inc",
+    "slug": "onlogic-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "onsemi",
     "source": "oracle_hcm",
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
@@ -24293,6 +24597,25 @@
     ]
   },
   {
+    "company": "pony.ai",
+    "source": "workable",
+    "url": "https://apply.workable.com/pony-dot-ai",
+    "slug": "pony-dot-ai",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Poshmark",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/poshmark",
@@ -24981,6 +25304,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Quadric",
+    "source": "workable",
+    "url": "https://apply.workable.com/quadric-dot-i-o-inc",
+    "slug": "quadric-dot-i-o-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -30168,6 +30510,25 @@
     "enabled": true
   },
   {
+    "company": "Terabase",
+    "source": "workable",
+    "url": "https://apply.workable.com/terabase-energy",
+    "slug": "terabase-energy",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Terex",
     "source": "workday",
     "url": "https://terex.wd1.myworkdayjobs.com/terexcareers",
@@ -30811,6 +31172,25 @@
     ]
   },
   {
+    "company": "Thorlabs",
+    "source": "workable",
+    "url": "https://apply.workable.com/thorlabs",
+    "slug": "thorlabs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "thyssenkrupp",
     "source": "workday",
     "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1",
@@ -30963,6 +31343,25 @@
     "enabled": true
   },
   {
+    "company": "TMEIC",
+    "source": "workable",
+    "url": "https://apply.workable.com/tmeic-corporation-americas",
+    "slug": "tmeic-corporation-americas",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "TMX Group",
     "source": "workday",
     "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers",
@@ -31008,6 +31407,25 @@
     "url": "https://boards.greenhouse.io/togetherai",
     "slug": "togetherai",
     "enabled": true
+  },
+  {
+    "company": "Tokamak Energy",
+    "source": "workable",
+    "url": "https://apply.workable.com/tokamak-energy",
+    "slug": "tokamak-energy",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "Token Metrics",
@@ -31589,6 +32007,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "TWG Global",
+    "source": "workable",
+    "url": "https://apply.workable.com/twgai",
+    "slug": "twgai",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -32607,6 +33044,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Valsoft Corporation",
+    "source": "workable",
+    "url": "https://apply.workable.com/valsoft-corp",
+    "slug": "valsoft-corp",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },

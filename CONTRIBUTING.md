@@ -41,6 +41,7 @@ Current support:
 - Oracle HCM Cloud URLs under `hcmUI/CandidateExperience/.../sites/<site>`
 - SmartRecruiters URLs on `jobs.smartrecruiters.com` and `careers.smartrecruiters.com`
 - Rippling URLs on `ats.rippling.com`
+- Workable URLs on `apply.workable.com`
 
 Automation flow:
 
@@ -80,6 +81,7 @@ Notes:
 - For Oracle HCM Cloud, use the site URL form `https://<host>/hcmUI/CandidateExperience/<language>/sites/<site>`.
 - For SmartRecruiters, use the board URL form `https://jobs.smartrecruiters.com/<company-slug>`.
 - For Rippling, use the board URL form `https://ats.rippling.com/<job-board-slug>/jobs`.
+- For Workable, use the board URL form `https://apply.workable.com/<account-slug>`.
 - Use `enabled=false` if you want to keep a supported source in the CSV without fetching it yet.
 
 ## Pull Request Guidelines
