@@ -78118,5 +78118,61 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-06-15"
+  },
+  {
+    "id": "lever-geocomply-bd0ae58f-5718-4200-bd33-cd0e3c1465d5",
+    "company": "GeoComply",
+    "title": "ML Engineering Intern",
+    "location": "Vancouver, BC",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/bd0ae58f-5718-4200-bd33-cd0e3c1465d5",
+    "date_posted": "2026-05-26",
+    "date_added": "2026-06-06",
+    "active": false,
+    "date_archived": "2026-06-15"
+  },
+  {
+    "id": "lever-magnet-forensics-ee6df1ac-62ce-4c32-b7e5-4b3bf1dc9eb3",
+    "company": "Magnet Forensics",
+    "title": "Security Analyst Co-op (Fall 2026)",
+    "location": "ON",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/magnetforensics/ee6df1ac-62ce-4c32-b7e5-4b3bf1dc9eb3",
+    "date_posted": "2026-04-16",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-06-15"
+  },
+  {
+    "id": "lever-magnet-forensics-c6768213-6219-4e5a-afe8-a4b6563d2d52",
+    "company": "Magnet Forensics",
+    "title": "Technical Writer Co-op (Fall 2026)",
+    "location": "Waterloo / Ottawa / ON",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/magnetforensics/c6768213-6219-4e5a-afe8-a4b6563d2d52",
+    "date_posted": "2026-04-16",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-06-15"
+  },
+  {
+    "id": "lever-oaknorth-bank-2d139875-5647-4a36-85a9-31101985bcd4",
+    "company": "OakNorth Bank",
+    "title": "Intern - Credit Analytics",
+    "location": "Bengaluru Or Gurugram",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/oaknorth.ai/2d139875-5647-4a36-85a9-31101985bcd4",
+    "date_posted": "2025-10-10",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-15"
   }
 ]
