@@ -253,6 +253,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Semtech | Intern, SQA | Ind Pune | Not specified | 2026-06-16 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/IND---Pune/Intern--SQA_REQ3396) |
 | Sensata | Intern Professional | Newtownabbey, United Kingdom | Not specified | 2026-06-16 | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern-Professional_IRC97720) |
 | SharkNinja | Fall 2026: Social Sharks Community Manager Co-op, Social Media & Online Engagement  (July to December) | New York, United States | Fall 2026 | 2026-06-16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646009006) |
+| Snowflake | Government Affairs Intern | United States Remote / US-CA-Menlo Park | Not specified | 2026-06-16 | [Apply](https://jobs.ashbyhq.com/snowflake/cade83ae-9727-4497-8e73-8a310a8b6a85) |
+| Snowflake | Product Marketing Intern (Fall 2026) | California, United States | Fall 2026 | 2026-06-16 | [Apply](https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c) |
 | SoloPulse | Software Engineer Intern/Co-Op - Fall 2026 | Peachtree Corners, GA | Fall 2026 | 2026-06-16 | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) |
 | Space Kinetic | Manufacturing Engineering Internship | California | Not specified | 2026-06-16 | [Apply](https://job-boards.greenhouse.io/spacekinetic/jobs/5257986008) |
 | Sparksoft | Intern | Remote / Onsite If Local To Maryland | Not specified | 2026-06-16 | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5165821007) |
@@ -279,6 +281,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The New School | FWS Student Assistant - Parsons Graduate Admission | H 72 Fifth Avenue | Not specified | 2026-06-16 | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/H---72-Fifth-Avenue/FWS-Student-Assistant---Parsons-Graduate-Admission_JR108945) |
 | The Walt Disney Company | Disney Entertainment Television Communication Intern, Summer/Fall 2026 | Burbank, United States | Fall 2026 | 2026-06-16 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Disney-Entertainment-Television-Communication-Intern--Summer-Fall-2026_10153825-1) |
 | TIAA | Nuveen Real Estate Summer Intern - Based in Milan | Italy | Summer | 2026-06-16 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/Milan-Italy/Nuveen-Real-Estate-Summer-Intern---Based-in-Milan_R260300327) |
+| Tools for Humanity | Machine Learning Working Student | Germany | Not specified | 2026-06-16 | [Apply](https://jobs.ashbyhq.com/Tools%20for%20Humanity/6efe515c-9740-45bd-ab5c-9978b991be92) |
 | TransPerfect | Internship in Translation Project Management | Tr-Ankara+ | Not specified | 2026-06-16 | [Apply](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/TR-Ankara/Internship-in-Translation-Project-Management_R2025-244096) |
 | Trend Micro | Grid DevOps Interns | Manila | Not specified | 2026-06-16 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Grid-DevOps-Interns_R0009813) |
 | Tricentis | Field Marketing - Intern 2026 | US Virginia | 2026 | 2026-06-16 | [Apply](https://tricentis.wd1.myworkdayjobs.com/en-US/tricentis_careers/job/US---Virginia/Field-Marketing---Intern-2026_JR105829) |
@@ -2733,7 +2736,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - Manufacturing Engineer | Malaysia Grande | Not specified | 2026-06-11 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Manufacturing-Engineer_JR104001) |
 | Micron Technology | Intern – Process Integration Technician (Inspection & Defect Analysis) | Fab 10n / Singapore | Not specified | 2026-06-11 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-RAM_JR100853) |
 | Moog | Intern, Project Engineering | Buffalo, NY | Not specified | 2026-06-11 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Project-Engineering_R-26-18099) |
-| MUBI | Social Media Intern, AR | Argentina / Remote | Not specified | 2026-06-11 | [Apply](https://jobs.ashbyhq.com/MUBI/670bc538-0c29-4f04-a5dd-ad8f5f53ba0e) |
 | Nasdaq | Student Worker – AI/ML Quantitative Research | Lithuania Vilnius | Not specified | 2026-06-11 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Lithuania---Vilnius/Student-Worker---AI-ML-Quantitative-Research_R0026256-1) |
 | Nationwide Children's Hospital | Research Intern - RI CHEOR Davenport | Columbus, OH | Not specified | 2026-06-11 | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/Research-Intern---RI-CHEOR-Davenport_R-24930-2) |
 | Northwest Bank | Finance Intern | Columbus, OH | Not specified | 2026-06-11 | [Apply](https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Columbus-OH/Finance-Intern_R-101905) |
@@ -3764,7 +3766,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Vernova | HR Intern | Hangzhou | Not specified | 2026-06-08 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Hangzhou/HR-Intern_R5044084-2) |
 | GE Vernova | Internship- Lean Manufacturing & Operations | Jebel Ali | Not specified | 2026-06-08 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Jebel-Ali/Internship--Lean-Manufacturing---Operations_R5039041-1) |
 | Gimlet Labs | Member of Technical Staff (Intern) | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9) |
-| Gimlet Labs | Member of Technical Staff - AI Research (Intern) | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5) |
 | Great American Insurance Company | Business Transformation Intern | Oh (usa) | Not specified | 2026-06-08 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Transformation-Intern_R9094) |
 | Great Question | AI Engineer Intern | California, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) |
 | Greystar Worldwide | Community Assistant - Residential Learning Community (Student Living) | Laredo, TX | Not specified | 2026-06-08 | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Residential-Learning-Community-Laredo-TX/Community-Assistant---Residential-Learning-Community--Student-Living-_R0190747-1) |
@@ -3783,11 +3784,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Power Electronics Engineer, Autumn 2026 | California, United States | 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/2289ac70-b237-4500-b429-76a725fdbb6a) |
 | Heron Power | Intern, Power Magnetics Engineer | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1) |
 | Heron Power | Intern, System Integration & Test Software | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
-| Higharc | Research Intern, Special Projects | United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/higharc/5a7265ed-8db3-480e-9c04-3c9b2d2c235b) |
 | Hitachi | Internship - Direct Procurement with English | Poland | Not specified | 2026-06-08 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Direct-Procurement-with-English_R0132805-1) |
 | Homebase | Visual & Motion Design Intern (Hybrid) | Colorado, United States / Toronto / San Francisco / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/homebase/762b9eaf-db64-406b-a74b-ce1598321a19) |
 | HPE | Middle East Marketing Intern | Saudi Arabia | Not specified | 2026-06-08 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/Middle-East-Marketing-Intern_1207421) |
-| Illumio | Product Management Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/illumio/0b62d210-abbe-43e8-a4de-fdba787e232e) |
 | Instawork | Finance Intern | India | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4687486006) |
 | IQVIA | Intern | India | Not specified | 2026-06-08 | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Bangalore-India/Intern_R1549869) |
 | Jefferson Health | student | Philadelphia, PA | Not specified | 2026-06-08 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/student_REQ-0031251-1) |
@@ -3814,10 +3813,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mach9 | Perception Intern, Summer 2026 | California, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e) |
 | Magna International | Intern | Shanghai, CN | Not specified | 2026-06-08 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Changning-Shanghai-CN/Intern_R00244604) |
 | Mariana Minerals | Chemical Engineering Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
-| Mariana Minerals | Field Engineering Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/aea63917-11ec-4474-b417-e232192c14d4) |
 | Mariana Minerals | Geology Intern | Utah, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/5a18d6c4-df6e-4151-8d1d-26b30058d5c8) |
-| Mariana Minerals | Mechanical Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/3d0923a9-f0cf-4d96-91c9-5988665bf2f5) |
-| Mariana Minerals | Process Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/marianaminerals/4a03388b-7f1c-4c52-9bfc-27c5e6431880) |
 | Marsh | Intern - Business Development | Singapore Marina View | Not specified | 2026-06-08 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Intern---Business-Development_R_354137) |
 | Marvell | Digital IC Design Intern | Argentina | Not specified | 2026-06-08 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) |
 | Mechanize | Software Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
@@ -3828,13 +3824,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Melotech | Founders Associate Intern | Germany / New York / London / Los Angeles / San Francisco / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/melotech/db940f5c-7343-4cbe-be9f-def888ef301e) |
 | Melotech | Full-Stack Developer Intern, Music & Audio | Germany / London / New York / Los Angeles / San Francisco / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5) |
 | Meridian Partners | IT Specialist Co-op | Cambridge, MA | Not specified | 2026-06-08 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7608052003) |
-| Meshy | Data Analyst Intern | Sunnycale, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/9c5ad244-68f2-499c-895f-93c908318f52) |
-| Meshy | Data Infra Engineer Intern | Sunnycale, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) |
+| Meshy | Data Analyst Intern | Sunnycale, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/9c5ad244-68f2-499c-895f-93c908318f52) |
 | Meshy | Fullstack Engineer Intern | Sunnycale, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
-| Meshy | Generative AI Researcher Intern | Sunnycale, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/4be984f5-c843-44a6-bdd7-4b931d28ef91) |
 | Meshy | Generative AI Researcher Intern | China / Shenzhen / Beijing / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
-| Meshy | Infrastructure Intern | Sunnycale, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
-| Meshy | Machine Learning Systems Intern | Sunnycale, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/30c936df-5745-43aa-8dec-2658d0775e74) |
+| Meshy | Infrastructure Intern | Sunnycale, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
 | Micron Technology | Intern - Test Engineering | Singapore | Not specified | 2026-06-08 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Engineering_JR100433) |
 | Nash | Full Stack Engineering Intern | California, United States / Remote / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5) |
 | Nidec | Quality Engineering Intern | North America / United States / Minnesota / Mankato, MN | Not specified | 2026-06-08 | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaMankato-MN/Quality-Engineering-Intern_R0016068) |
@@ -3872,9 +3865,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Branch Manager Intern | St. John's, NL, Canada | Not specified | 2026-06-08 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Branch-Manager-Intern_R-0000175613-1) |
 | Reality Defender | Audio/Multimodal AI PhD Intern | New York, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/realitydefender/e937807e-6dde-4753-ac83-4794b25bc357) |
 | Reality Defender | Computer Vision PhD Intern (Summer 2026) | New York, United States / United States Remote | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/realitydefender/1e669ce5-f049-418a-8e5a-02d58eb04409) |
-| Reflect Orbital | Avionics Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/reflect-orbital/d1fc01d9-3f74-49bd-a227-6871089c8216) |
-| Reflect Orbital | Mechanical Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6) |
-| Reflect Orbital | Thermal Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/reflect-orbital/e27b6a4f-3556-45ed-bcca-0d56e302ba07) |
 | REGENT | SkillBridge -  Cybersecurity & IT Operations Associate | Rhode Island, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/regent/333c79eb-577e-4ee1-9570-0d61fc1a8d3b) |
 | REGENT | SkillBridge: Manager, Defense Business Development | District Of Columbia, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/regent/08408f68-5ea2-4b51-a516-1841544ff89c) |
 | Replit | Software Engineering Intern (Summer 2026) | California, United States / United States Remote | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) |
