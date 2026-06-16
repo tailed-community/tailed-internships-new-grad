@@ -137,6 +137,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Intermountain Healthcare | Radiology Technologist-Student | Intermountain Health Mckay-Dee Hospital | Not specified | 2026-06-16 | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Radiology-Technologist-Student_R174483) |
 | International Rescue Committee (IRC) | Fall 2026 Community Engagement Intern - UNPAID | Ga USA | Fall 2026 | 2026-06-16 | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-GA-USA/Fall-2026-Community-Engagement-Intern---UNPAID_JR00003792) |
 | IQVIA | Marketing Intern （设计方向） | China | Not specified | 2026-06-16 | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Shanghai-China/Marketing-Intern---_R1551842) |
+| ispace | Mission Operations Intern (Full time) | Japan | Not specified | 2026-06-16 | [Apply](https://jobs.lever.co/ispace-inc/8d616c6e-0657-4903-89ab-e1ab9d9f1de4) |
 | Jabil | Intern - ME (Automation) | Shanghai | Not specified | 2026-06-16 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Shanghai/Intern---ME--Automation-_J2454259) |
 | Jain Global | Analyst Intern | Singapore | Not specified | 2026-06-16 | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Singapore-Singapore/Analyst-Intern_JR100501-1) |
 | Jefferson Health | STEM Camp Student Counselor | Philadelphia, PA | Not specified | 2026-06-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/STEM-Camp-Student-Counselor_REQ-0031761-1) |
@@ -241,6 +242,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Semtech | Intern, Software Engineering | Ind Pune | Not specified | 2026-06-16 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/IND---Pune/Intern--Software-Engineering_REQ3416) |
 | Semtech | Intern, SQA | Ind Pune | Not specified | 2026-06-16 | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/IND---Pune/Intern--SQA_REQ3396) |
 | Sensata | Intern Professional | Newtownabbey, United Kingdom | Not specified | 2026-06-16 | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern-Professional_IRC97720) |
+| SoloPulse | Software Engineer Intern/Co-Op - Fall 2026 | Peachtree Corners, GA | Fall 2026 | 2026-06-16 | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) |
 | Stevens Institute of Technology | Assistant Director, Graduate Student Career Development | Nj Main Campus | Not specified | 2026-06-16 | [Apply](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Assistant-Director--Graduate-Student-Career-Development_RQ30264) |
 | Stryker | HR Intern (Leaves Administration) | Netherlands | Not specified | 2026-06-16 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754) |
 | Stryker | Manufacturing Engineering Intern | Poland | Not specified | 2026-06-16 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Skawina-Poland/Manufacturing-Engineering-Intern_R567477) |
@@ -941,7 +943,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ciena | Software Engineer 8 month Co-op - Fall/Winter 2026 | Ottawa | Winter 2026 | 2026-06-13 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200) |
 | Ciena | Software Engineer and Tools Developer Intern (Fall 2026) | Ottawa | Fall 2026 | 2026-06-13 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) |
 | Cincinnati Children’s Hospital and Medical Center | Student III | Remote | Not specified | 2026-06-13 | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-III_JR221891) |
-| Cirque du Soleil | Régisseur - Spectacles de Tournée - Luzia \| Stage Manager - Touring Shows - Luzia | *en Tournée \| ON Tour | Not specified | 2026-06-13 | [Apply](https://jobs.lever.co/cirquedusoleil/9b7d9a9e-d25b-4656-83bf-b57bacb89044) |
+| Cirque du Soleil | Régisseur - Luzia \| Stage Manager - Luzia | *en Tournée \| ON Tour | Not specified | 2026-06-13 | [Apply](https://jobs.lever.co/cirquedusoleil/9b7d9a9e-d25b-4656-83bf-b57bacb89044) |
 | Citco | Citco Vilnius Internship Program Spring/Summer 2026 - Accounting Department | Lithuania | Summer 2026 | 2026-06-13 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13366) |
 | Citco | Citco Vilnius Internship Program Spring/Summer 2026 – CAO department | Lithuania | Summer 2026 | 2026-06-13 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15251) |
 | Citco | Citco Vilnius Internship Program Summer 2026 - CoSec Department (CorporateTeam) | Lithuania | Summer 2026 | 2026-06-13 | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12217) |
@@ -4828,7 +4830,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ALKU | Sales Internship Program | Harrisonburg, VA | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/alku/jobs/6674367?gh_jid=6674367) |
 | ALKU | Sales Internship Program | Virtual | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/alku/jobs/6691742?gh_jid=6691742) |
 | Allegion | Industrial Design Co-op | Carmel, IN | Not specified | 2026-06-02 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1) |
-| AltaML | Associate Data Operations Specialist (Brilliant Harvest) (8mth internship) | Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/altaml/238a3e1b-b76f-4265-83e9-e9d22ec27e03) |
 | Altar'd State | Fall 2026 Accounting Intern | Knoxville, TN | Fall 2026 | 2026-06-02 | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Fall-2026-Finance-Intern_SOSJ11632) |
 | Altar'd State | Fall 2026 Design Intern | Design Services Costa Mesa, Canada | Fall 2026 | 2026-06-02 | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Design-Services---Costa-Mesa-CA/Fall-2026-Design-Intern_SOSJ11629) |
 | Altar'd State | Fall 2026 Graphic Design Intern | Knoxville, TN | Fall 2026 | 2026-06-02 | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Fall-2026-Graphic-Design-Intern_SOSJ11635) |
@@ -7360,7 +7361,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nebraska Medicine | Student Nurse Technician (SNT) - BMC Cardiac and Stroke Medical Surgical | Bellevue, NE | Not specified | 2026-06-02 | [Apply](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Bellevue-NE/Student-Nurse-Technician--SNT----BMC-Cardiac-and-Stroke-Medical-Surgical_REQ-33924) |
 | Nebraska Medicine | Student Nurse Technician (SNT) - Med Surg - 6/7 Lied - Nights | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Student-Nurse-Technician--SNT----Med-Surg---6-7-Lied---Nights_REQ-34952) |
 | Nebraska Medicine | Student Nurse Technician (SNT) - Medical Surgical 5 West | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Student-Nurse-Technician--SNT----Medical-Surgical-5-West_REQ-34346) |
-| Neighbor | Sales Development Representative Internship | Lehi, UT | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/neighbor/0dfe3b13-eade-4ec4-b9eb-97804172dcfa) |
 | Neuberger Berman | Undergraduate & Graduate Internship Opportunities | New York, NY / Chicago, IL / Atlanta, GA / Dallas, TX | Not specified | 2026-06-02 | [Apply](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Undergraduate---Graduate-Internship-Opportunities_R0011429) |
 | Neuralink | Analog and Mixed-Signal IC Design Engineer Intern | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) |
 | Neuralink | Digital IC Design Engineer Intern | California, United States | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) |
@@ -7624,7 +7624,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pennsylvania State University | Uncrewed Systems Intern | Penn State University Park | Not specified | 2026-06-02 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Uncrewed-Systems-Intern_REQ_0000076298-1) |
 | Pennsylvania State University | Upward Bound Programs Residential Mentor- Potential Paid Internship | Penn State University Park | Not specified | 2026-06-02 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Upward-Bound-Programs-Residential-Mentor--Potential-Paid-Internship_REQ_0000064976) |
 | Penumbra Inc | IT Intern - Temp | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/penumbrainc/b1221c2c-2293-4048-87b2-4828593e76df) |
-| Penumbra Inc | Sales Operations Intern | Alameda, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/penumbrainc/73b57cf4-4186-4868-a4ba-4d78cdcce88d) |
 | Penumbra Inc | Working Student Finance \| Student Contract (Umowa Zlecenie) (m/f/d) - based in  Warsaw | Warsaw / Europe | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/penumbrainc/741616a5-600d-4fb9-95cf-c807cc4b5194) |
 | Per Scholas | Events & Business Development Support Intern | United States | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4682234006) |
 | Pfizer | AI Fluency & Digital Enablement Intern | Singapore Mapletree Business City | Not specified | 2026-06-02 | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Singapore---Mapletree-Business-City/AI-Fluency---Digital-Enablement-Intern_4956875) |
@@ -8017,11 +8016,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rackner | Rackner AI Innovation Fellowship (Startup Accelerator Internship) | Maryland | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4681781005) |
 | Radix Trading | Quantitative Technologist (C++ Intern) | Chicago | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | Rainmaker | Accounting Intern | El Segundo, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/make-rain/34fd38d6-e4f9-47f5-bac6-75f541c0015b) |
-| Rainmaker | Electrical Engineering Intern | El Segundo, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/make-rain/efabf946-ec0e-4da1-8fb8-05a35c105b9c) |
 | Rainmaker | Electro-Mechanical Engineering Intern | El Segundo, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/make-rain/727d1d39-b704-46b9-a490-8de909d930a8) |
 | Rainmaker | Mechanical Engineering Intern | El Segundo, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/make-rain/31902d26-bfd9-4afe-90c3-c861e20428d1) |
 | Rainmaker | Software Engineering Intern | El Segundo, Canada | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
-| Redhorse | SkillBridge Intern 2026 | Arlington, VA | 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/redhorsecorp/310d4e51-2858-4787-9a62-9dddfec7b13d) |
 | Regal Rexnord | Accounting and Finance Intern | Philippines | Not specified | 2026-06-02 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Pasig-Manila-Philippines/Accounting-and-Finance-Intern_R26_02443-1) |
 | Regal Rexnord | Application Co-Op (Fall 2026) | Ohio, United States | Fall 2026 | 2026-06-02 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Co-Op--Fall-2026-_R26_02158) |
 | Regal Rexnord | Application Engineering Co-Op (Fall) | Indiana, United States | Fall | 2026-06-02 | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164) |
@@ -8324,7 +8321,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Solenis | Star-T Intern \| Paulínia/SP | Brazil | Not specified | 2026-06-02 | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/Paulinia-Brazil/Star-T-Intern---Paulnia-SP_R0027039) |
 | Solenis | Start Intern - Hazard Communication \| Lapa/SP | Remote | Not specified | 2026-06-02 | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/Brazil-Remote/Start-Intern---Hazard-Communication---Lapa-SP_R0028994) |
 | SoloPulse | Radar Digital Signal Processing (DSP) Intern/Co-Op | Peachtree Corners, GA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9) |
-| SoloPulse | Software Engineer Intern/Co-Op - Spring/Summer 2026 | Peachtree Corners, GA | Summer 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/e430dd0f-8a73-46ec-8aea-739e1a5c1f9c) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
 | Sono Bello | Intern- IT Helpdesk | Wa Bellevue | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/sonobello/jobs/5178320008) |
 | Sonoco | Stagiaire Ressources Humaines | Fra Boulogne D349 | Not specified | 2026-06-02 | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/FRA---Boulogne---D349/Stagiaire-Ressources-Humaines_JR-157532-3) |
@@ -9490,7 +9486,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Veeva Systems | Intern Business Consulting | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/561872bd-8a76-43b6-bf20-a1d05caa4223) |
 | Veeva Systems | Intern Technical Consultant | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0) |
 | Veeva Systems | Intern: Software Engineer in Test | Canada Toronto | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c) |
-| Veeva Systems | Marketing Intern | China Shanghai | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/9e46bc41-632b-4f2a-920e-05c4b7625e53) |
 | Veeva Systems | Technology Consulting Intern (Hungary) - Entry-Level | Hungary Budapest | Not specified | 2026-05-22 | [Apply](https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a) |
 | 407 ETR | Data Governance Intern (May - August) | Woodbridge, ON | Not specified | 2026-05-21 | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Data-Governance-Intern--May---August-_JR101175) |
 | 407 ETR | Facilities - Summer Student | Woodbridge, ON | Summer | 2026-05-21 | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Facilities---Summer-Student_JR101195) |
