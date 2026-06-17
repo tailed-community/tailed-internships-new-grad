@@ -80,43 +80,39 @@ def _build_workday_session(company: dict[str, Any]) -> requests.Session:
     return session
 
 
+def _config_int(
+    company: dict[str, Any],
+    key: str,
+    default: int,
+    minimum: int = 1,
+    maximum: int | None = None,
+) -> int:
+    try:
+        value = max(minimum, int(company.get(key, default)))
+    except (TypeError, ValueError):
+        value = default
+    if maximum is not None:
+        value = min(value, maximum)
+    return value
+
+
 def _get_workday_pagination_settings(company: dict[str, Any]) -> tuple[int, int]:
-    limit_raw = company.get("limit", 20)
-    max_pages_raw = company.get("max_pages", 25)
-    try:
-        limit = max(1, int(limit_raw))
-    except (TypeError, ValueError):
-        limit = 20
-    try:
-        max_pages = max(1, int(max_pages_raw))
-    except (TypeError, ValueError):
-        max_pages = 25
-    return limit, max_pages
+    return (
+        _config_int(company, "limit", 20),
+        _config_int(company, "max_pages", 25),
+    )
 
 
 def _get_full_listing_limit(company: dict[str, Any]) -> int:
-    limit_raw = company.get("full_listing_limit", 20)
-    try:
-        limit = max(1, int(limit_raw))
-    except (TypeError, ValueError):
-        limit = 20
-    return min(limit, 20)
+    return _config_int(company, "full_listing_limit", 20, maximum=20)
 
 
 def _get_full_listing_max_total(company: dict[str, Any]) -> int:
-    total_raw = company.get("full_listing_max_total", 400)
-    try:
-        return max(1, int(total_raw))
-    except (TypeError, ValueError):
-        return 400
+    return _config_int(company, "full_listing_max_total", 400)
 
 
 def _get_workday_max_concurrent_searches(company: dict[str, Any]) -> int:
-    raw_value = company.get("max_concurrent_searches", 4)
-    try:
-        return max(1, int(raw_value))
-    except (TypeError, ValueError):
-        return 4
+    return _config_int(company, "max_concurrent_searches", 4)
 
 
 def is_vague_location_text(location: str) -> bool:
@@ -273,6 +269,10 @@ def extract_workday_detail_locations(detail_data: dict[str, Any]) -> list[str]:
     return deduped
 
 
+def _append_dict_items(target: list[dict[str, Any]], items: list[Any]) -> None:
+    target.extend(item for item in items if isinstance(item, dict))
+
+
 def _fetch_workday_listing(
     company: dict[str, Any],
     search_text: str,
@@ -349,9 +349,7 @@ def _fetch_workday_listing(
             if not page:
                 break
 
-            for item in page:
-                if isinstance(item, dict):
-                    postings.append(item)
+            _append_dict_items(postings, page)
 
             print(
                 f"[workday] {company.get('company', 'Unknown')} {request_label}: "
@@ -444,9 +442,7 @@ def _fetch_workday_full_listing(
             if not page:
                 break
 
-            for item in page:
-                if isinstance(item, dict):
-                    postings.append(item)
+            _append_dict_items(postings, page)
 
             print(
                 f"[workday] {company.get('company', 'Unknown')} full listing: "
@@ -631,18 +627,15 @@ def _existing_results_cover_term(raw_jobs: list[dict[str, Any]], search_term: st
 
 def _should_fetch_detail_locations(raw_job: dict[str, Any]) -> bool:
     locations_text = str(raw_job.get("locationsText", "")).strip()
-    has_locations = isinstance(raw_job.get("locations"), list) and len(raw_job.get("locations", [])) > 0
-    has_primary = bool(str(raw_job.get("primaryLocation", "")).strip())
-    has_primary_descriptor = bool(str(raw_job.get("primaryLocationDescriptor", "")).strip())
-    has_external_path = bool(str(raw_job.get("externalPath", "")).strip())
-
-    return (
-        is_vague_location_text(locations_text)
-        and not has_locations
-        and not has_primary
-        and not has_primary_descriptor
-        and has_external_path
-    )
+    if not is_vague_location_text(locations_text):
+        return False
+    if isinstance(raw_job.get("locations"), list) and len(raw_job.get("locations", [])) > 0:
+        return False
+    if str(raw_job.get("primaryLocation", "")).strip():
+        return False
+    if str(raw_job.get("primaryLocationDescriptor", "")).strip():
+        return False
+    return bool(str(raw_job.get("externalPath", "")).strip())
 
 
 def _fetch_search_term_results(

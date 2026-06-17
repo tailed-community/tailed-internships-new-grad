@@ -34,7 +34,11 @@ jobs:
           python scripts/sync_companies.py
           for source in workday lever greenhouse ashby icims oracle_hcm smartrecruiters rippling workable; do
             echo "Running updater for source: $source"
-            python scripts/main.py --source "$source"
+            if [ "$source" = "workday" ]; then
+              python scripts/main.py --source "$source" --workers 6 --workday-search-workers 2
+            else
+              python scripts/main.py --source "$source"
+            fi
 
             git add data/company_sources.csv data/companies.json data/jobs.json data/archived.json README.md NEW_GRAD.md
             if git diff --cached --quiet; then
