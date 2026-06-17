@@ -3,8 +3,9 @@ from __future__ import annotations
 import argparse
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 from core.archive import merge_active_and_archive
 from core.dedupe import dedupe_jobs
@@ -31,43 +32,36 @@ from fetchers.workable import fetch_workable_jobs
 from fetchers.workday import fetch_workday_jobs
 
 
+FetchJobs = Callable[[dict[str, Any]], list[dict[str, Any]]]
+NormalizeJob = Callable[[dict[str, Any]], dict[str, Any] | None]
+
+
+@dataclass(frozen=True)
+class SourceHandler:
+    fetch_jobs: FetchJobs
+    normalize_job: NormalizeJob
+
+
+@dataclass(frozen=True)
+class CompanyResult:
+    company: str
+    source: str
+    raw_jobs_count: int = 0
+    normalized_jobs: tuple[dict[str, Any], ...] = ()
+    touched: bool = False
+    error: bool = False
+
+
 SOURCE_HANDLERS = {
-    "ashby": {
-        "fetch_jobs": fetch_ashby_jobs,
-        "normalize_job": normalize_ashby_job,
-    },
-    "greenhouse": {
-        "fetch_jobs": fetch_greenhouse_jobs,
-        "normalize_job": normalize_greenhouse_job,
-    },
-    "icims": {
-        "fetch_jobs": fetch_icims_jobs,
-        "normalize_job": normalize_icims_job,
-    },
-    "lever": {
-        "fetch_jobs": fetch_lever_jobs,
-        "normalize_job": normalize_lever_job,
-    },
-    "oracle_hcm": {
-        "fetch_jobs": fetch_oracle_hcm_jobs,
-        "normalize_job": normalize_oracle_hcm_job,
-    },
-    "rippling": {
-        "fetch_jobs": fetch_rippling_jobs,
-        "normalize_job": normalize_rippling_job,
-    },
-    "smartrecruiters": {
-        "fetch_jobs": fetch_smartrecruiters_jobs,
-        "normalize_job": normalize_smartrecruiters_job,
-    },
-    "workable": {
-        "fetch_jobs": fetch_workable_jobs,
-        "normalize_job": normalize_workable_job,
-    },
-    "workday": {
-        "fetch_jobs": fetch_workday_jobs,
-        "normalize_job": normalize_workday_job,
-    },
+    "ashby": SourceHandler(fetch_ashby_jobs, normalize_ashby_job),
+    "greenhouse": SourceHandler(fetch_greenhouse_jobs, normalize_greenhouse_job),
+    "icims": SourceHandler(fetch_icims_jobs, normalize_icims_job),
+    "lever": SourceHandler(fetch_lever_jobs, normalize_lever_job),
+    "oracle_hcm": SourceHandler(fetch_oracle_hcm_jobs, normalize_oracle_hcm_job),
+    "rippling": SourceHandler(fetch_rippling_jobs, normalize_rippling_job),
+    "smartrecruiters": SourceHandler(fetch_smartrecruiters_jobs, normalize_smartrecruiters_job),
+    "workable": SourceHandler(fetch_workable_jobs, normalize_workable_job),
+    "workday": SourceHandler(fetch_workday_jobs, normalize_workday_job),
 }
 
 
@@ -106,64 +100,95 @@ def _parse_source_filter(raw_sources: list[str] | None) -> set[str] | None:
     return parsed_sources or None
 
 
-def process_company(company: dict[str, Any]) -> dict[str, Any]:
-    company_name = str(company.get("company", "Unknown"))
-    source = str(company.get("source", "")).strip().lower()
+def _company_name(company: dict[str, Any]) -> str:
+    return str(company.get("company", "Unknown")).strip() or "Unknown"
+
+
+def _company_source(company: dict[str, Any]) -> str:
+    return str(company.get("source", "")).strip().lower()
+
+
+def _normalize_jobs(raw_jobs: list[dict[str, Any]], handler: SourceHandler) -> tuple[dict[str, Any], ...]:
+    normalized_jobs: list[dict[str, Any]] = []
+    for raw_job in raw_jobs:
+        normalized = handler.normalize_job(raw_job)
+        if normalized is not None:
+            normalized_jobs.append(normalized)
+    return tuple(normalized_jobs)
+
+
+def _filter_enabled_companies(
+    companies: list[dict[str, Any]],
+    selected_sources: set[str] | None,
+) -> list[dict[str, Any]]:
+    enabled = [company for company in companies if company.get("enabled") is True]
+    if selected_sources is None:
+        return enabled
+
+    return [
+        company
+        for company in enabled
+        if _company_source(company) in selected_sources
+    ]
+
+
+def _apply_workday_search_workers(
+    companies: list[dict[str, Any]],
+    workday_search_workers: int | None,
+) -> list[dict[str, Any]]:
+    if workday_search_workers is None:
+        return companies
+
+    configured_companies: list[dict[str, Any]] = []
+    for company in companies:
+        if _company_source(company) != "workday":
+            configured_companies.append(company)
+            continue
+
+        configured = dict(company)
+        configured["max_concurrent_searches"] = workday_search_workers
+        configured_companies.append(configured)
+
+    return configured_companies
+
+
+def process_company(company: dict[str, Any]) -> CompanyResult:
+    company_name = _company_name(company)
+    source = _company_source(company)
     handler = SOURCE_HANDLERS.get(source)
     if handler is None:
         print(f"Skipping enabled company {company_name} with unsupported source '{source}'.")
-        return {
-            "company": company_name,
-            "source": source,
-            "raw_jobs_count": 0,
-            "normalized_jobs": [],
-            "touched": False,
-            "error": False,
-        }
+        return CompanyResult(company=company_name, source=source)
 
     print(f"Fetching {source} jobs for {company_name}...")
     try:
-        raw_jobs = handler["fetch_jobs"](company)
+        raw_jobs = handler.fetch_jobs(company)
         print(f"Fetched {len(raw_jobs)} unique raw jobs for {company_name}.")
 
-        normalized_jobs: list[dict[str, Any]] = []
-        for raw_job in raw_jobs:
-            normalized = handler["normalize_job"](raw_job)
-            if normalized is None:
-                continue
-            normalized_jobs.append(normalized)
-
+        normalized_jobs = _normalize_jobs(raw_jobs, handler)
         print(f"Kept {len(normalized_jobs)} internship/new grad jobs for {company_name}.")
-        return {
-            "company": company_name,
-            "source": source,
-            "raw_jobs_count": len(raw_jobs),
-            "normalized_jobs": normalized_jobs,
-            "touched": True,
-            "error": False,
-        }
+        return CompanyResult(
+            company=company_name,
+            source=source,
+            raw_jobs_count=len(raw_jobs),
+            normalized_jobs=normalized_jobs,
+            touched=True,
+        )
     except Exception as error:
         print(f"Failed to process company '{company_name}' ({source}): {error}")
-        return {
-            "company": company_name,
-            "source": source,
-            "raw_jobs_count": 0,
-            "normalized_jobs": [],
-            "touched": False,
-            "error": True,
-        }
+        return CompanyResult(company=company_name, source=source, error=True)
 
 
 def process_companies(
     companies: list[dict[str, Any]],
     workers: int,
-) -> list[dict[str, Any]]:
+) -> list[CompanyResult]:
     if workers <= 1 or len(companies) <= 1:
         return [process_company(company) for company in companies]
 
     max_workers = min(workers, len(companies))
     print(f"Fetching companies with {max_workers} workers...")
-    results_by_index: dict[int, dict[str, Any]] = {}
+    results: list[CompanyResult | None] = [None] * len(companies)
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_index = {
             executor.submit(process_company, company): index
@@ -172,22 +197,15 @@ def process_companies(
         for future in as_completed(future_to_index):
             index = future_to_index[future]
             company = companies[index]
-            company_name = str(company.get("company", "Unknown"))
-            source = str(company.get("source", "")).strip().lower()
+            company_name = _company_name(company)
+            source = _company_source(company)
             try:
-                results_by_index[index] = future.result()
+                results[index] = future.result()
             except Exception as error:
                 print(f"Failed to process company '{company_name}' ({source}): {error}")
-                results_by_index[index] = {
-                    "company": company_name,
-                    "source": source,
-                    "raw_jobs_count": 0,
-                    "normalized_jobs": [],
-                    "touched": False,
-                    "error": True,
-                }
+                results[index] = CompanyResult(company=company_name, source=source, error=True)
 
-    return [results_by_index[index] for index in range(len(companies))]
+    return [result for result in results if result is not None]
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -233,13 +251,7 @@ def main(argv: list[str] | None = None) -> None:
         print("No companies configured. Exiting.")
         return
 
-    enabled_companies = [company for company in companies if company.get("enabled") is True]
-    if selected_sources is not None:
-        enabled_companies = [
-            company
-            for company in enabled_companies
-            if str(company.get("source", "")).strip().lower() in selected_sources
-        ]
+    enabled_companies = _filter_enabled_companies(companies, selected_sources)
     if not enabled_companies:
         if selected_sources is None:
             print("No enabled companies found in data/companies.json. Exiting.")
@@ -247,16 +259,7 @@ def main(argv: list[str] | None = None) -> None:
             requested = ", ".join(sorted(selected_sources))
             print(f"No enabled companies found for source filter: {requested}. Exiting.")
         return
-    if workday_search_workers is not None:
-        configured_companies: list[dict[str, Any]] = []
-        for company in enabled_companies:
-            if str(company.get("source", "")).strip().lower() == "workday":
-                configured = dict(company)
-                configured["max_concurrent_searches"] = workday_search_workers
-                configured_companies.append(configured)
-            else:
-                configured_companies.append(company)
-        enabled_companies = configured_companies
+    enabled_companies = _apply_workday_search_workers(enabled_companies, workday_search_workers)
 
     errors_count = 0
     raw_jobs_count = 0
@@ -264,14 +267,12 @@ def main(argv: list[str] | None = None) -> None:
     touched_targets: set[tuple[str, str]] = set()
 
     for result in process_companies(enabled_companies, workers):
-        source = str(result.get("source", "")).strip().lower()
-        company_name = str(result.get("company", "Unknown"))
-        if result.get("error") is True:
+        if result.error:
             errors_count += 1
-        if result.get("touched") is True:
-            touched_targets.add((source, company_name))
-        raw_jobs_count += int(result.get("raw_jobs_count", 0))
-        normalized_fetched_jobs.extend(result.get("normalized_jobs", []))
+        if result.touched:
+            touched_targets.add((result.source, result.company))
+        raw_jobs_count += result.raw_jobs_count
+        normalized_fetched_jobs.extend(result.normalized_jobs)
 
     deduped_fetched_jobs = dedupe_jobs(normalized_fetched_jobs)
 
