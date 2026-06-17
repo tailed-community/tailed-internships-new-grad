@@ -90760,5 +90760,47 @@
     "date_added": "2026-06-11",
     "active": false,
     "date_archived": "2026-06-17"
+  },
+  {
+    "id": "lever-lendbuzz-07a1f425-fe31-4028-b902-235c4de32a47",
+    "company": "Lendbuzz",
+    "title": "Machine Learning Engineer Co-Op (Data Labeller)",
+    "location": "Boston, MA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/lendbuzz/07a1f425-fe31-4028-b902-235c4de32a47",
+    "date_posted": "2026-06-04",
+    "date_added": "2026-06-04",
+    "active": false,
+    "date_archived": "2026-06-17"
+  },
+  {
+    "id": "lever-mistral-ai-2df63313-09ee-4a1a-993d-712d65c1de8a",
+    "company": "Mistral AI",
+    "title": "M&A Tech Engineer (Internship)",
+    "location": "Paris",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/mistral/2df63313-09ee-4a1a-993d-712d65c1de8a",
+    "date_posted": "2026-05-25",
+    "date_added": "2026-06-05",
+    "active": false,
+    "date_archived": "2026-06-17"
+  },
+  {
+    "id": "lever-toyota-research-institute-ca561b23-9589-49bc-a056-7f741ff48c26",
+    "company": "Toyota Research Institute",
+    "title": "Human-Centered AI Intern, CAD Design Reasoning Machine Learning",
+    "location": "Los Altos, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/tri/ca561b23-9589-49bc-a056-7f741ff48c26",
+    "date_posted": "2026-02-18",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-06-17"
   }
 ]
