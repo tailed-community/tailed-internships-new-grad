@@ -65,7 +65,16 @@ This fetches Simplify's public listings feed and writes supported ATS company le
 
 - `data/company_leads.csv`
 
-This regenerates:
+Archived source import command:
+
+```bash
+python scripts/import_archived_company_sources.py
+python scripts/sync_companies.py
+```
+
+This fetches the Tailed archived jobs feed, appends supported ATS company sources directly to `data/company_sources.csv`, and skips duplicate ATS identities.
+
+Company sync regenerates:
 
 - `data/companies.json`
 

@@ -229,7 +229,7 @@ def extract_workday_parts(url: str) -> tuple[str, str, str]:
 
     canonical_segments = path_segments
     for index, segment in enumerate(path_segments):
-        if segment.lower() == "job":
+        if segment.lower() in {"job", "details"}:
             canonical_segments = path_segments[:index]
             break
 
@@ -579,6 +579,7 @@ def main() -> None:
     existing_index_by_company_source: dict[tuple[str, str], int] = {}
     seen_csv_urls: dict[str, tuple[int, str]] = {}
     seen_csv_company_sources: dict[tuple[str, str], int] = {}
+    synced_configs_by_company_source: dict[tuple[str, str], dict[str, Any]] = {}
     cleaned_source_rows: list[dict[str, str]] = []
 
     for index, company in enumerate(existing_companies):
@@ -720,6 +721,7 @@ def main() -> None:
                 "enabled": "true" if enabled else "false",
             }
         )
+        synced_configs_by_company_source[company_source_key] = config
 
         existing_index = existing_index_by_company_source.get(company_source_key)
         if existing_index is not None:
@@ -744,7 +746,7 @@ def main() -> None:
         if config_url:
             seen_urls[config_url] = company_source_key
 
-    sorted_companies = sort_company_configs(existing_companies)
+    sorted_companies = sort_company_configs(list(synced_configs_by_company_source.values()))
     save_company_sources(csv_path, cleaned_source_rows)
     save_json_list(companies_path, sorted_companies)
 

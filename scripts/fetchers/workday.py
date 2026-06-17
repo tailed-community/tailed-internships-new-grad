@@ -26,7 +26,7 @@ def _extract_workday_site_from_url(raw_url: str) -> str:
 
     canonical_segments = path_segments
     for index, segment in enumerate(path_segments):
-        if segment.lower() == "job":
+        if segment.lower() in {"job", "details"}:
             canonical_segments = path_segments[:index]
             break
 
