@@ -202,6 +202,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Production Intern | China | Not specified | 2026-06-18 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Beijing-China/Production-Intern_10152817) |
 | The Walt Disney Company | Retail Intern | Turkey | Not specified | 2026-06-18 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Istanbul-Turkey/Retail-Intern_10152362-1) |
 | The Walt Disney Company | Stage - Chargé(e) d’Affaires Gouvernementales (F/H/NB) | Chessy, France | Not specified | 2026-06-18 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Chessy-France/Stage---Charg-e--d-Affaires-Gouvernementales--F-H-NB-_10154137-1) |
+| Toyota Research Institute | Energy & Materials Intern- XRD Advanced Analysis | Los Altos, Canada | Not specified | 2026-06-18 | [Apply](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) |
 | United Parcel Service (UPS) | QA Intern | Es Santa Perpetua De Mogoda Bomi (esmog) | Not specified | 2026-06-18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/ES---SANTA-PERPETUA-DE-MOGODA---BOMI-ESMOG/QA-Intern_R26019417) |
 | United Parcel Service (UPS) | QA Intern | Es San Fernando Bomi (esm15) | Not specified | 2026-06-18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/ES---SAN-FERNANDO---BOMI-ESM15/QA-Intern_R26019420) |
 | United Parcel Service (UPS) | Summer 2026 Buildings & Systems Engineering (BaSE) Intern - Information Systems Intern | US Ups Corporate Offices (gacor) | Summer 2026 | 2026-06-18 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Summer-2026-Buildings---Systems-Engineering--BaSE--Intern---Information-Systems-Intern_R26015318) |
@@ -216,6 +217,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship Machine Learning | München | Not specified | 2026-06-18 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Internship-Machine-Learning_JR_1047706-1) |
 | Zeiss | Internship Machine Learning (Synthetic Data Generation) (f/m/x) | München | Not specified | 2026-06-18 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Internship-Machine-Learning--Synthetic-Data-Generation---f-m-x-_JR_1050687) |
 | Zeiss | Working Student Mechanical Engineering/Data Science (f/m/x) | Oberkochen | Not specified | 2026-06-18 | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Mechanikentwicklung-Data-Science--m-w-x-_JR_1049828-3) |
+| Zoox | Part-Time Student Worker Product Security | Foster City, Canada | Not specified | 2026-06-18 | [Apply](https://jobs.lever.co/zoox/9265c619-43c1-4757-9dbd-1ca2b3dbb8b4) |
 | 100ms | HR Intern - Talent Acquisition | Bengaluru | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/100ms/1da7c778-62d6-413b-9172-c876df11c2ac) |
 | 3M | IATD AE Lab Testing Summer Intern | CN | Summer | 2026-06-17 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/CN-Shanghai/IATD-AE-Lab-Testing-Summer-Intern_R01164305) |
 | 60decibelsinc | Summer Internship, Senior Signal Associate | New York, United States | Summer | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006) |
@@ -682,12 +684,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Geisinger | Intern Graduate - CPIO | Work From Home | Not specified | 2026-06-17 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Intern-Graduate---CPIO_R-97655) |
 | Gelber Group - gelberhandshake | Software Engineer Internship (Technical Operations Team) - Summer 2026 | Chicago, IL | Summer 2026 | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006) |
 | Gelber Group - gelberhandshake | Software Engineering Internship (Backoffice Team) - Summer 2026 | Chicago, IL | Summer 2026 | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4657274006) |
-| GenBio AI | Research Engineer Intern | Abu Dhabi | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/38d7a974-4bde-4c4b-adbc-b30d9aa2cd8c) |
-| GenBio AI | Research Engineer Intern | Paris | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/9425d5c9-8826-4a38-839c-49e428ebaf3e) |
-| GenBio AI | Research Engineer Intern | Palo Alto, Canada | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/97d1b075-b30a-4ed6-9ba3-d6690a606348) |
-| GenBio AI | Research Scientist Intern | Palo Alto, Canada | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/7037a809-2f60-4e2a-b329-37cd922a8da7) |
-| GenBio AI | Research Scientist Intern | Abu Dhabi | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/de893e32-71f6-42d0-adab-b3e963cfcf34) |
-| GenBio AI | Research Scientist Intern | Paris | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/e176a018-b80e-43c0-ba4e-516fc6de2698) |
 | GenBio AI | Software Engineering Intern | Palo Alto, Canada | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74) |
 | General Assembly | Marketing Intern | Singapore | Not specified | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/generalassembly/jobs/7434440) |
 | General Motors | Fall Co-op- Embedded Software Test Developer – Propulsion and Thermal Management | Markham, ON, Canada | Fall | 2026-06-17 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/Fall-Co-op--Embedded-Software-Test-Developer---Propulsion-and-Thermal-Management_JR-202613388) |
@@ -6678,7 +6674,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BP | Summer Internship - Supply, Trading & Shipping Programme - Australia 2027 | Australia Docklands | Summer | 2026-06-02 | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Australia---Docklands/Summer-Internship---Supply--Trading---Shipping-Programme---Australia-2027_RQ106221) |
 | Bristol Myers Squibb | Executive Director, Clinical Development Team Leader, Late-Stage Oncology | Princeton Nj US / Madison Giralda Nj US / Cambridge Crossing Ma US | Not specified | 2026-06-02 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Executive-Director--Clinical-Development-Team-Leader--Late-Stage-Oncology_R1601919) |
 | Brookhaven Lab | Student Assistant - Energy Systems | Upton, NY | Not specified | 2026-06-02 | [Apply](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Energy-Systems_JR102273) |
-| Brooks Running | Marketing Intern, Italy | Migliarino (pisa) | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/brooksrunning/60571fdc-522f-4dc3-9fba-d242c0636f2e) |
 | Brown & Brown Insurance | Employee Benefits Intern | Pryor, OK, United States | Not specified | 2026-06-02 | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Pryor-OK-USA/Employee-Benefits-Intern_R26_0000000612) |
 | Brown Brothers Harriman | BBH Internship in Finance | Krakow | Not specified | 2026-06-02 | [Apply](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Krakow/BBH-Internship-in-Finance_68559) |
 | Brunswick | Computer Graphics Software Developer Intern | Champaign, IL | Not specified | 2026-06-02 | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234) |
@@ -10307,7 +10302,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | XPENG Motors | AI Intern – VLA Deployment | Santa Clara, Canada | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
 | Xsolla | Human Resources Intern | Los Angeles, United States | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/dc809dc8-d412-45b9-9dbb-f2968f5ac3fd) |
 | Xsolla | Internship Opportunity | Los Angeles, United States | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
-| Xsolla | Project Coordinator - Engineering Team (Intern) | Kuala Lumpur | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/2c63b218-d4ce-4f94-a124-69e179f468fb) |
 | Xsolla | Xsolla School – Student Application | China | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/xsolla/26a98b5c-ca2c-4ab9-934c-52ad1cedd9e0) |
 | Xylem | Dualer Student Maschinenbau (m/w/d) | Weilheim | Not specified | 2026-06-02 | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Maschinenbau--m-w-d-_R41048) |
 | Xylem | Dualer Student Mechatronik (m/w/d) | Weilheim | Not specified | 2026-06-02 | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Mechatronik--m-w-d-_R41049) |
