@@ -20,6 +20,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| 1Password | Developer Intern, Open Source - Fall 2026 | United States Remote | Fall 2026 | 2026-06-18 | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae) |
 | ABB | IS Intern - Fall 2026 | Saint-Laurent, QC, Canada | Fall 2026 | 2026-06-18 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/IS-Intern---Fall-2026_JR00037198) |
 | ABB | Quality Intern - Fall 2026 | Saint-Laurent, QC, Canada | Fall 2026 | 2026-06-18 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Quality-Intern---Fall-2026_JR00037193-1) |
 | Air Liquide | Deposition Engineer Internship 2026 | Ict Innovation Campus Tokyo R&d Industrial Performance | 2026 | 2026-06-18 | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/ICT---Innovation-Campus-Tokyo---RD---Industrial-performance/Deposition-Engineer-Internship-2026_R10094297) |
@@ -996,7 +997,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Parry Sound, ON | Not specified | 2026-06-17 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/60-Joseph-St-Parry-Sound-ON/Student--Franchise-Part-Time-Day_R2000675225) |
 | LSEG - Careers | FTSE Summer Intern | Chn-Shanghai-Azia Centre 30 / F | Summer | 2026-06-17 | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/CHN-Shanghai-Azia-Centre-30F/FTSE-Summer-Intern_R0120746-1) |
 | Lydian | Materials Science & Engineering Co-op (JULY 2026) | Boston, MA, United States | 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/lydian/ff701b48-15b2-48f0-b71d-3577e593c3da) |
-| Mach Industries | Engineering Co-op — Fall 2026 | California, United States | Fall 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
+| Mach Industries | Fall 2026 Engineering Internship | California, United States | Fall 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
 | Macy's | Macy's 2026 Summer Internship - Marketing MBA | New York, NY, United States | Summer 2026 | 2026-06-17 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80629) |
 | Magna International | Intern - Infrared Imaging & Algorithms | California, United States | Not specified | 2026-06-17 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) |
 | Manulife | Fall Co-op 2026 - Global Colleague Community Engagement | Toronto, ON | Fall | 2026-06-17 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Global-Colleague-Community-Engagement_JR26052053) |
@@ -5269,12 +5270,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nc New Bern | Not specified | 2026-06-08 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---New-Bern/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0940119) |
 | d-Matrix | Applied AI Engineering Intern | Santa Clara, United States / United States Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7) |
 | Deliveroo | Account Manager - stage | Paris, France | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/914e3a3f-0e5e-42a3-aa02-7829fb10eb6c) |
-| Deliveroo | Account Operation Associate - Internship | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/7a684f2b-6d8c-49ac-b207-f07651dd4e50) |
 | Deliveroo | Finance & Strategy Intern | Paris, France | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/6a8e511c-a997-4894-988d-785bb5e2879f) |
-| Deliveroo | Key Account Intern | Belgium / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/14b84d1b-0dae-448b-8ff3-29afb9855c80) |
-| Deliveroo | Key Account Management Intern | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/daa589d4-8053-48e6-a60d-c76930685a81) |
-| Deliveroo | Marketing CRM Intern | Belgium / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/ff434172-08d1-44e7-b799-946781c10188) |
-| Deliveroo | Marketing Strategy Intern | Belgium | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/deliveroo/75ccc13d-a407-442f-828b-8faa93dbdbb9) |
 | Dexcom | Facilities Engineer Intern | Malaysia | Not specified | 2026-06-08 | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Intern_JR118516) |
 | Dryft | Full-Stack Engineering Intern | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) |
 | Eight Sleep | AI/ML Research Internship | California, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
