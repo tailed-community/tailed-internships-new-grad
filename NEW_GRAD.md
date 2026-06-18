@@ -17,6 +17,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GE Healthcare | Field Service Engineer-Early Career Trainee | Remote | Not specified | 2026-06-18 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/XMLNAME--Junior-Field-Service-Engineer-Early-Career-Trainee_R4042150-1) |
 | GE Healthcare | Service Delivery Specialist-Early Career Trainee | Tesseen | Not specified | 2026-06-18 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/EGY07-01-Cairo-Summit-44-Tesseen/Service-Delivery-Specialist-Early-Career-Trainee_R4042378-1) |
 | HPE | Graduate Program - Strategy & Planning | Turkey | Not specified | 2026-06-18 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Istanbul-Turkey/Graduate-Program---Strategy---Planning_1196356-1) |
+| Olsson | Entry-Level Surveyor | Lincoln, NE | Not specified | 2026-06-18 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5268475008) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | Not specified | 2026-06-18 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000153681) |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Id Ammon | Not specified | 2026-06-18 | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---ID---Ammon/Entry-Level-Phlebotomist--On-the-Job-Training-_R0182610-1) |
 | The Boeing Company | Associate Avionics Systems Service Engineer (Entry-Level or Associate) | USA Seal Beach, Canada | Not specified | 2026-06-18 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-Avionics-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026514037) |
@@ -1001,9 +1002,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
@@ -1084,8 +1085,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | Not specified | 2026-06-02 | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
 | State Street | 2027 New Graduate, Corporate Actions, Associate 1 | Japan | 2027 | 2026-06-02 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2026-New-Graduate--Corporate-Actions--Associate-1_R-784582) |
 | State Street | Early Career Cyber Defense Centre Analyst, Officer | Ireland | Not specified | 2026-06-02 | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/SOC-Analyst---Officer_R-790820) |
