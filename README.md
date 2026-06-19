@@ -20,6 +20,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | Location | Season | Date Added | Apply |
 |---|---|---|---|---|---|
+| 1Password | Developer Intern, Service Development - Fall 2026 | United States Remote | Fall 2026 | 2026-06-19 | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2) |
+| 1Password | Security Engineer Intern, Application Security - Fall 2026 | United States Remote | Fall 2026 | 2026-06-19 | [Apply](https://jobs.ashbyhq.com/1password/9dfa1569-e882-4ac4-a0e8-ec6e899aa8ee) |
 | Accenture | Finance Transformation - Working Internship | Not Specified | Not specified | 2026-06-19 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance-Transformation---Working-Internship_R00336967) |
 | Accenture | Marketing & Communication Internship | Not Specified | Not specified | 2026-06-19 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Marketing---Communication-Internship_R00336468) |
 | Accenture | Network Engineer Internship Program (She/He/They) | Not Specified | Not specified | 2026-06-19 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Network-Engineer-Internship-Program--She-He-They-_R00323381) |
@@ -238,6 +240,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Morgan Stanley | Intern | California, United States | Not specified | 2026-06-19 | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Irvine-California-United-States-of-America/Intern_JR038008-1) |
 | Motorola Solutions | Intern Software Developer C# | Poland | Not specified | 2026-06-19 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-_R65499) |
 | Motorola Solutions | Mechanical Engineer Intern | Malaysia | Not specified | 2026-06-19 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Mechanical-Engineer-Intern_R65937) |
+| MUBI | Global Content Marketing Intern | New York, United States / United States Remote | Not specified | 2026-06-19 | [Apply](https://jobs.ashbyhq.com/MUBI/12731aa4-1b13-4e48-8c74-cb7acc17715b) |
 | Nationwide Children's Hospital | IGM Research Intern | Columbus, OH | Not specified | 2026-06-19 | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern_R-26457-1) |
 | Nexstar | Internship | WI | Not specified | 2026-06-19 | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/WI-Green-Bay/Internship_REQ-41934-1) |
 | Nexstar | Unpaid Sports Intern- Summer 2026 | Dc-Washington / 2121 Wisconsin Ave Nw (nexstar-Wdcw) | Summer 2026 | 2026-06-19 | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/DC-Washington2121-Wisconsin-Ave-NW-Nexstar-WDCW/Unpaid-Sports-Intern--Summer-2026_REQ-41520) |
@@ -1276,7 +1279,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Parry Sound, ON | Not specified | 2026-06-17 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/60-Joseph-St-Parry-Sound-ON/Student--Franchise-Part-Time-Day_R2000675225) |
 | LSEG - Careers | FTSE Summer Intern | Chn-Shanghai-Azia Centre 30 / F | Summer | 2026-06-17 | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/CHN-Shanghai-Azia-Centre-30F/FTSE-Summer-Intern_R0120746-1) |
 | Lydian | Materials Science & Engineering Co-op (JULY 2026) | Boston, MA, United States | 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/lydian/ff701b48-15b2-48f0-b71d-3577e593c3da) |
-| Mach Industries | Fall 2026 Engineering Internship | California, United States | Fall 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
+| Mach Industries | Fall 2026 Engineering Internship | California, United States / San Luis Obispo, Canada | Fall 2026 | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
 | Macy's | Macy's 2026 Summer Internship - Marketing MBA | New York, NY, United States | Summer 2026 | 2026-06-17 | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80629) |
 | Magna International | Intern - Infrared Imaging & Algorithms | California, United States | Not specified | 2026-06-17 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) |
 | Manulife | Fall Co-op 2026 - Global Colleague Community Engagement | Toronto, ON | Fall | 2026-06-17 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Fall-Co-op-2026---Global-Colleague-Community-Engagement_JR26052053) |
@@ -1777,8 +1780,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Simon | Intern, Marketing | Tampa, FL | Not specified | 2026-06-17 | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Tampa-FL/Intern--Marketing_R13578) |
 | Simon | Intern, Marketing | West Hartford, CT | Not specified | 2026-06-17 | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/West-Hartford-CT/Intern--Marketing_R13581) |
 | Sleeper | Fraud Operations Analyst Intern | United States / New York City / New Jersey / United States Remote | Not specified | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/sleeper/4793381a-9bb0-447a-ae36-5a7055a58739) |
-| Sleeper | Product Design Intern-to-Hire | Washinton, United States / San Francisco / United States Remote | Not specified | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/sleeper/7ca0cc80-69c6-4d1d-95cb-3b0e9935faac) |
-| Sleeper | User Research Intern | San Francisco, United States / New York City / United States Remote | Not specified | 2026-06-17 | [Apply](https://jobs.ashbyhq.com/sleeper/9c61d64a-efe3-4033-aa2d-ceb3dd28da45) |
 | Smithfield Foods | Production OSU Intern | Jamesport, MO | Not specified | 2026-06-17 | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Jamesport-MO/Production-OSU-Intern_R-2026-6992) |
 | Smithfield Foods | Quality Systems Digitalization Intern (Bioscience) | Cincinnati, OH | Not specified | 2026-06-17 | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Cincinnati-OH/Quality-Systems-Digitalization-Intern--Bioscience-_R-2026-7720) |
 | Société Générale de Surveillance (SGS) | Alternant(e) chargé de mission RH | Idf, France | Not specified | 2026-06-17 | [Apply](https://jobs.smartrecruiters.com/SGS/744000132592346) |
@@ -5353,7 +5354,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Base Power | Quantitative Developer Intern | Texas, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
 | Base Power | Software Engineering Intern | Texas, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) |
 | Base Power | Supply Chain Operations Intern | Texas, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/base-power/ba27e1d2-db6c-4174-b36f-d33dbefc80f2) |
-| Base Power | Video Editing Intern | Texas, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/base-power/57010290-e38d-435b-855f-74b7e08b23dd) |
 | Blackbird Labs | Engineering Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38) |
 | Blockhouse | Rust Developer Intern (Summer 2026) | New York, United States | Summer 2026 | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
 | BorgWarner | Change Implementation Coordinator - Professional Internship (M/F/D) | Viana Do Castelo Ii Portugal | Not specified | 2026-06-08 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/Change-Implementation-Coordinator---Professional-Internship--M-F-D-_R2026-1528) |
@@ -5537,7 +5537,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Root Access | Creative Marketing Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/root-access/c5921e24-54d0-49b1-82e4-8d3a72db788e) |
 | Root Access | Firmware / Embedded Engineer -- Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/root-access/ca7bc32d-5f10-49db-b569-2a7c94da484e) |
 | RTX | Internship - Fall 2026 - Structural Analyst | CA-ON-Mississauga-P22m01 ~ 1801 Courtney Park Dr ~ P22m01 Bldg | Fall 2026 | 2026-06-08 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Structural-Analyst_01832031-1) |
-| Rundoo | Data Science Intern | United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/rundoo/e3cc536d-d45d-4579-a301-59f7dc5e980c) |
 | Sanofi | stage 3/6 mois – assurance qualité systèmes documentation | Aramon | Not specified | 2026-06-08 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Aramon/stage-6-mois---assurance-qualit-systmes-documentation_R2859501) |
 | Sanofi | stage 6 mois – support production biotechnologies | Vitry-Sur-Seine | Not specified | 2026-06-08 | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---support-production-biotechnologies_R2854713) |
 | Scientech Research | Business Development Analyst Intern | New Jersey, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/scientech-research/b414a9a6-30a6-40aa-bf67-c8e7fedc9598) |
@@ -5621,7 +5620,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Texas - Austin | Senior Academic Program Coordinator for Veteran and Military Affiliated Student Support and Services | Ut Main Campus | Not specified | 2026-06-08 | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Coordinator-of-Veteran-and-Military-Affiliated-Services_R_00045379-1) |
 | University of Virginia | Student IT Support Technician (Student Wage) | Charlottesville, VA | Not specified | 2026-06-08 | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-IT-Support-Technician--Student-Wage-_R0084001) |
 | Upvest | Open Application: Internship \| Working Student (f/m/d) | Germany / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/upvest/090b73f0-cfe3-47b4-b411-948357d0d215) |
-| Upvest | Talent Acquisition Intern — Talent Engineering & Recruitment Automation (f/m/d) | Germany / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/upvest/a1802991-7507-431d-ba0b-ab56695f2231) |
 | Upvest | Working Student Accounting (f/m/d) | Germany / Remote | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/upvest/ce3bdfe5-ec15-47f3-92dd-5454d74c2415) |
 | Valeo | Assistant(e) Trésorier Back-Office - Stage | Paris | Not specified | 2026-06-08 | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/Assistant-e--Trsorier-Back-Office---Stage_REQ2026076176-1) |
 | Vendelux | Part time Data Intern | New York, United States | Not specified | 2026-06-08 | [Apply](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43) |
