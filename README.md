@@ -54,6 +54,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Analytical Mechanics Associates | Mechanical Engineering Intern | Co Corporate | Not specified | 2026-06-19 | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Denver-CO-Corporate/Mechanical-Engineering-Intern_R-100661) |
 | APL Logistics | Apprentice/Intern | Viet Nam | Not specified | 2026-06-19 | [Apply](https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4395) |
 | Aptiv | Intern WRCP Platform Services | ON Wr | Not specified | 2026-06-19 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern-WRCP-Platform-Services_J000699957) |
+| Ascendis Pharma | Student Assistant - Global IT | Denmark | Not specified | 2026-06-19 | [Apply](https://apply.workable.com/ascendis-pharma/j/52D596DB17/) |
 | Assurant - Assurant_Careers | BI Intern | Buenos Aires (butty) | Not specified | 2026-06-19 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Buenos-Aires-Butty/BI-Intern_R-114271) |
 | Astranis | Guidance, Navigation, and Control Engineer Intern (Fall 2026) | San Francisco | Fall 2026 | 2026-06-19 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4599603006) |
 | AstraZeneca | AZ201 – AstraZeneca Internship Program - Human Resources Intern | Turkey Istanbul | Not specified | 2026-06-19 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Turkey---Istanbul/AZ201---AstraZeneca-Internship-Program---Human-Resources-Intern_R-254465) |
