@@ -2732,8 +2732,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | D.c. | Not specified | 2026-06-15 | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | Not specified | 2026-06-15 | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | D.c. | Not specified | 2026-06-15 | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
-| Pathos | Applied Scientist, Oncology Foundation Model (Intern) | New York City, NY | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/pathos/jobs/939623e3-fe14-4d0e-b9f7-08c0411a060e) |
-| Pathos | ML Engineer (Intern) | New York City, NY | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57) |
 | Philips | Beauty Marketing Intern | Shanghai | Not specified | 2026-06-15 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Beauty-Marketing-Intern_586084) |
 | Procter & Gamble (P&G) | AI Engineer Internship (m/f/x) | Madrid General Office | Not specified | 2026-06-15 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/AI-Engineer-Internship--m-f-x-_R000153485) |
 | Procter & Gamble (P&G) | Finance Intern - Irapuato Plant | Irapuato Plant | Not specified | 2026-06-15 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/IRAPUATO-PLANT/Finance-Intern---Irapuato-Plant_R000152902) |
@@ -2805,7 +2803,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Intern, Sales, Disneyland Paris | Spain | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Madrid-Spain/Intern--Sales--Disneyland-Paris_10152473-1) |
 | The Walt Disney Company | Scheduling Intern | Portugal | Not specified | 2026-06-15 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lisbon-Portugal/Scheduling-Intern_10152374-1) |
 | TheGuarantors | BizOps & Strategic Finance Intern | New York, NY | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/theguarantors-open-positions/jobs/b71fb777-dbe7-4044-bfe1-c5e703646901) |
-| TheGuarantors | Software Engineering Intern | New York, NY | Not specified | 2026-06-15 | [Apply](https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b) |
 | Thermo Fisher Scientific | Student Assistant / Working Student  (m/f/d) Laboratory Analytics Systems | Germany | Not specified | 2026-06-15 | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bremen-Germany/Student-Assistant---Working-Student---m-f-d--Laboratory-Analytics-Systems_R-01356091) |
 | Tiffany & Co. | Intern Retail Operations (m/f/d) | Germany | Not specified | 2026-06-15 | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63250) |
 | Together AI | Research Intern, Model Shaping (Fall 2026) | San Francisco | Fall 2026 | 2026-06-15 | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) |

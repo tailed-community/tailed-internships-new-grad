@@ -103458,5 +103458,47 @@
     "date_added": "2026-06-13",
     "active": false,
     "date_archived": "2026-06-19"
+  },
+  {
+    "id": "rippling-pathos-939623e3-fe14-4d0e-b9f7-08c0411a060e",
+    "company": "Pathos",
+    "title": "Applied Scientist, Oncology Foundation Model (Intern)",
+    "location": "New York City, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/pathos/jobs/939623e3-fe14-4d0e-b9f7-08c0411a060e",
+    "date_posted": null,
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-06-19"
+  },
+  {
+    "id": "rippling-pathos-430a21a7-8718-47ff-8963-2095727cce57",
+    "company": "Pathos",
+    "title": "ML Engineer (Intern)",
+    "location": "New York City, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57",
+    "date_posted": null,
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-06-19"
+  },
+  {
+    "id": "rippling-theguarantors-d78ec000-5f8b-43d3-9590-4eb51970e49b",
+    "company": "TheGuarantors",
+    "title": "Software Engineering Intern",
+    "location": "New York, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b",
+    "date_posted": null,
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-06-19"
   }
 ]
