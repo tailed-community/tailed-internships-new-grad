@@ -35,6 +35,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CAE | C-ESG-200 Inclusion and Indigenous Relations Intern | Montreal (st. Laurent) | Not specified | 2026-06-20 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-ESG-200-Inclusion-and-Indigenous-Relations-Intern_121930) |
 | Chubb | Intern | Ecuador | Not specified | 2026-06-20 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/34208) |
 | Comcast | Intern - 2 | Comcast India Engineering Cent | Not specified | 2026-06-20 | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Intern---2_R438845) |
+| Continental | Intern - IT Analyst / Project Coordinator, Year-Round | Rock Hill, SC, United States | Not specified | 2026-06-20 | [Apply](https://jobs.smartrecruiters.com/Continental/744000133112004) |
 | Cubic | Software Engineering & Automation Intern | Virginia | Not specified | 2026-06-20 | [Apply](https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Herndon-Virginia/Software-Engineering---Automation-Intern_REQ_49102) |
 | Cummins | Student - Mfg | Mexico | Not specified | 2026-06-20 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426918) |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | CA Mckinleyville | Not specified | 2026-06-20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---McKinleyville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0953160) |
@@ -69,6 +70,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern | Nc Shallotte | Not specified | 2026-06-20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Shallotte/Pharmacy-Intern_R0952322-1) |
 | CVS Health | Pharmacy Intern | Nc Troy | Not specified | 2026-06-20 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Troy/Pharmacy-Intern_R0952323) |
 | Definity Financial | Technology Solutions - Data Platform & Engineering Fall 2026 Co-op/Intern | Ont, Canada | Fall 2026 | 2026-06-20 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) |
+| Dexterra Group | Social Media & Student Engagement Coordinator | Charlottetown, PE, Canada | Not specified | 2026-06-20 | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000133093789) |
 | Emerson Electric | Industrial Engineering Co op (Fall 2026) | Elyria, OH, United States | Fall 2026 | 2026-06-20 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006926) |
 | First Quality | Intern - Planning | US Sc Anderson | Not specified | 2026-06-20 | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/Intern---Planning_R11226) |
 | Fortive | Intern Customer Service | Barueri, SP | Not specified | 2026-06-20 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10099) |
@@ -77,6 +79,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Generac | Intern Engineering Program Manager | Wi USA | Not specified | 2026-06-20 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Intern-Engineering-Program-Manager_JR14727) |
 | Generac | Intern- Electrical Engineering | Nv USA | Not specified | 2026-06-20 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR14975) |
 | Generac | Mechanical Design Engineering Intern | Me USA | Not specified | 2026-06-20 | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/South-Portland-ME---USA/Mechanical-Design-Engineering-Intern_JR14962) |
+| General Dynamics UK | Co-op Fall 2026 - Software Developer - 8 Months | Cole Harbour, NS, Canada | Fall 2026 | 2026-06-20 | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000133125725) |
 | Greystar Worldwide | Assistant Community Manager - The Lyric at Keller Center Stage Manager | Keller, TX | Not specified | 2026-06-20 | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/The-Lyric-at-Keller-Center-Stage-Keller-TX/Assistant-Community-Manager---The-Lyric-at-Keller-Center-Stage-Manager_R0192269) |
 | Greystar Worldwide | Community Assistant - The Ridge at Clear Creek (Student Living) | Flagstaff, AZ | Not specified | 2026-06-20 | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/The-Ridge-at-Clear-Creek-Flagstaff-AZ/Community-Assistant---The-Ridge-at-Clear-Creek--Student-Living-_R0188348-1) |
 | Harvest Midstream | HR Co-Op Student | Houston, TX | Not specified | 2026-06-20 | [Apply](https://hec.wd5.myworkdayjobs.com/harvest_midstream/job/Houston-TX/HR-Co-Op-Student_R006272) |
@@ -117,6 +120,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Banking Advisor Intern | Hanover, ON, Canada | Not specified | 2026-06-20 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HANOVER-Ontario-Canada/Banking-Advisor-Intern_R-0000177756-1) |
 | RBC | Group Advantage Relationship Manager Intern | Moncton, NB, Canada / Miramichi, NB, Canada | Not specified | 2026-06-20 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MONCTON-New-Brunswick-Canada/Group-Advantage-Relationship-Manager-Intern_R-0000177722-1) |
 | RBC | Group Advantage Relationship Manager Intern | Kentville, NS, Canada / Yarmouth, NS, Canada | Not specified | 2026-06-20 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/KENTVILLE-Nova-Scotia-Canada/Group-Advantage-Relationship-Manager-Intern_R-0000177720-1) |
+| Robert Bosch Venture Capital | Extracurricular Internship: Controlling (f/m/div.) | Portugal | Not specified | 2026-06-20 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000133113269) |
 | Roche | Internship – Machine Learning for Antibody Discovery from Sequencing Data | Basel | Not specified | 2026-06-20 | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Machine-Learning-for-Antibody-Discovery-from-Sequencing-Data_202604-108433) |
 | Rockwell Automation | Co-op, Test Engineer Lab Assistant (Canada) | Cambridge, ON, Canada | Not specified | 2026-06-20 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483) |
 | Rockwell Automation - External_Rockwell_Automation | Co-op, Test Engineer Lab Assistant (Canada) | Cambridge, ON, Canada | Not specified | 2026-06-20 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483-1) |
@@ -139,6 +143,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | UBC | Student Services Assistant | Ubc Vancouver Campus Vancouver, BC, Canada | Not specified | 2026-06-20 | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Services-Assistant_JR24968) |
 | UBC | Student Services Coordinator | Ubc Vancouver Campus Vancouver, BC, Canada | Not specified | 2026-06-20 | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Services-Coordinator_JR24967) |
 | UBC | Student Services Manager | Ubc Vancouver Campus Vancouver, BC, Canada | Not specified | 2026-06-20 | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Services-Manager_JR24894) |
+| University Health Network | Junior Report Developer (Intern), Analytics and Insights | Toronto, ON, Canada | Not specified | 2026-06-20 | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279) |
 | 1Password | Developer Intern, Service Development - Fall 2026 | United States Remote | Fall 2026 | 2026-06-19 | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2) |
 | 1Password | Security Engineer Intern, Application Security - Fall 2026 | United States Remote | Fall 2026 | 2026-06-19 | [Apply](https://jobs.ashbyhq.com/1password/9dfa1569-e882-4ac4-a0e8-ec6e899aa8ee) |
 | AbbVie | Intern- Occupational Health & Safety | Costa Rica | Not specified | 2026-06-19 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013694416) |
@@ -482,7 +487,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | UBC | Student Systems Coordinator | Ubc Vancouver Campus Vancouver, BC, Canada | Not specified | 2026-06-19 | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Systems-Coordinator_JR24955-1) |
 | Uber | Business Development Intern, Warsaw | Pl-Warsaw | Not specified | 2026-06-19 | [Apply](https://university-uber.icims.com/jobs/159602/business-development-intern%2c-warsaw/job) |
 | UNHCR | PPH Intern | Brazil | Not specified | 2026-06-19 | [Apply](https://unhcr.wd3.myworkdayjobs.com/External/job/Sao-Paulo-Brazil/PPH-Intern_JR2667612-1) |
-| University Health Network | Junior Report Developer, Analytics and Insights | Toronto, ON, Canada | Not specified | 2026-06-19 | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133084504) |
 | University of Arkansas | Non-Student Extra Help (Testing Services) | Uam \| Monticello Campus | Not specified | 2026-06-19 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAM--Monticello-Campus/Non-Student-Extra-Help--Testing-Services-_R0087235-2) |
 | University of Arkansas | Social Media Intern | Fayetteville | Not specified | 2026-06-19 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Social-Media-Intern_R0087212-2) |
 | University of Arkansas | Student Affairs and Admissions Manager | Little Rock | Not specified | 2026-06-19 | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Student-Affairs-and-Admissions-Manager_R0087104) |
@@ -3096,7 +3100,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Mandatory Internship - Makers Garage / Data Scientist - REF97122K | Germany | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000128646971) |
 | Continental | Mandatory Internship – People and Culture Development / Learning Team - REF97248L | Germany | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000129930179) |
 | Continental | Plant Operations Warehouse Internship | Malaysia | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000127856900) |
-| Continental | Process- Quality Engineering CO-OP | Marysville, OH, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000110167295) |
 | Continental | Production Internship - Sequencing Department | Malaysia | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000103820035) |
 | Continental | Production Internship - Shopfloor Training Department | Malaysia | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000102986461) |
 | Continental | Purchasing - Internship | Italy | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Continental/744000130234706) |
@@ -3162,7 +3165,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Definity Financial | Workforce Optimization Analyst (Intraday Support) - Fall 2026 Co-op/Intern | Ont, Canada | Fall 2026 | 2026-06-13 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9105) |
 | Dexterra Group | Forestry Assessment Field Coordinator | Grande Prairie, AB, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000108557126) |
 | Dexterra Group | iLab Coordinator, AI & Data Systems CO-OP | Mississauga, ON, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000131745164) |
-| Dexterra Group | Social Media & Student Engagement Coordinator | Charlottetown, PE, Canada | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000124428069) |
 | Direct Supply | Project Management Intern - Aptura | Milwaukee, WI | Not specified | 2026-06-13 | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Project-Management-Intern---Aptura_REQ-2026-2438) |
 | DNV | Digital Marketing Intern | Singapore | Not specified | 2026-06-13 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6684) |
 | DNV | Power Systems and Electrification Engineer – Summer Student | Poland | Summer | 2026-06-13 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6872) |
@@ -3215,7 +3217,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eurofins | Internship Programme | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000107245785) |
 | Eurofins | Lab Typist Internship (Tan Phu, HCM) | Vietnam | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000108689415) |
 | Eurofins | Stage - Software Implementation | Italy | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131458635) |
-| Eurofins | Stage Technicien.ne de Laboratoire | Auvergne-Rhône-Alpes, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131888030) |
 | Eurofins | Stagiair Chemisch Analist | Leiden, ZH | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000112365977) |
 | Eurofins | Stagiair Laboratory Support Officer - Chemisch Fysisch lab | Leiden, ZH | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000112364927) |
 | Eurofins | Stagiair Retail Consultant (meewerkstage) | Deventer, OV | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131124728) |
@@ -3782,7 +3783,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Indirect Purchasing Category Assistant Smart Start (Facility Management) | Turkey | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130147299) |
 | Robert Bosch Venture Capital | Industrial Engineering Intern | Fort Lauderdale, FL, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129558149) |
 | Robert Bosch Venture Capital | Intern, Business Analyst & Controlling | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130704569) |
-| Robert Bosch Venture Capital | Intern, Business Analyst Automotive Aftermarket Division | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128057693) |
 | Robert Bosch Venture Capital | Intern, Business Digital Office | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130704659) |
 | Robert Bosch Venture Capital | Intern, Data Analyst | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128395589) |
 | Robert Bosch Venture Capital | Intern, Human Resources (Digital) | Singapore | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128169549) |
