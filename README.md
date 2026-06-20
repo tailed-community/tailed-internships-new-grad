@@ -23,6 +23,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ABB | IS Functional Analyst Intern | Panama | Not specified | 2026-06-20 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Arraijan-Panam-Oeste-Panama/IS-Functional-Analyst-Intern_JR00036563) |
 | Advocate Health Care | Cast Technician Intern | High Point | Not specified | 2026-06-20 | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/High-Point-NC---611-N-Lindsay-St/Cast-Technician-Intern_R246835) |
 | Agropur | Student shipper | Can Ontario Don Mills | Not specified | 2026-06-20 | [Apply](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Ontario-Don-Mills/Student-shipper_JR33011) |
+| Aircall | Sales intern - UKI market | London Office / Paris Office | Not specified | 2026-06-20 | [Apply](https://jobs.lever.co/aircall/f1d2fb78-a40b-4a33-ab8f-75e573ba9749) |
 | Arizona State University | Assistant Director of Student Services | West | Not specified | 2026-06-20 | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-West/Assistant-Director-of-Student-Services_JR122585-1) |
 | Arizona State University | Student Recruitment Coordinator | West | Not specified | 2026-06-20 | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-West/Student-Recruitment-Coordinator_JR122564-1) |
 | Bird Construction | Student HSE Coordinator | Mississauga | Not specified | 2026-06-20 | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga/Student-HSE-Coordinator_JR-8510) |
@@ -741,7 +742,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aircall | GTM Enablement Intern | Paris Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/daecac18-ae6c-45ea-9e0c-d307d18f1a14) |
 | Aircall | Regional Marketing Intern (12 months) | San Francisco Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/0fbc9b05-520b-4cbb-a276-5a9a75e8f3bf) |
 | Aircall | Regional Marketing Intern, LATAM (12 months) | San Francisco Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/0e52ec00-a327-49de-9378-6b8487229f89) |
-| Aircall | Sales Intern - DACH market (Paris, Berlin, or London Office) | Paris Office / London Office / Berlin Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/4199e29e-52f6-4aae-bc50-a7518620b031) |
+| Aircall | Sales Intern - DACH market | Paris Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/4199e29e-52f6-4aae-bc50-a7518620b031) |
 | Aircall | Sales Intern - French market - 6 months | Paris Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/131dcb57-0ba9-45fe-b5a4-e88e118bb06d) |
 | Aircall | Sales Intern - Iberia market - 6 months | Paris Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/3a88fe56-9a33-476d-89de-76e4faa38cfc) |
 | Aircall | Stagiaire en Droit Social - Basé à Paris | Paris Office | Not specified | 2026-06-17 | [Apply](https://jobs.lever.co/aircall/1a5bb2cc-0b40-43e0-88e3-9a49a535bb40) |
@@ -4712,7 +4713,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AMERICAN SYSTEMS | SkillBridge Cybersecurity Intern (Transitioning Military) | Not Specified | Not specified | 2026-06-10 | [Apply](https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job) |
 | American University | Research Assistant (Student) | Dc) | Not specified | 2026-06-10 | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Research-Assistant--Student-_R4320) |
 | Ancestry | Machine Learning Engineer, Co-op | Remote | Not specified | 2026-06-10 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) |
-| Arc'teryx Equipment | Intern Brand Experience EMEA - 6 months (m/w/d) | Munich | Not specified | 2026-06-10 | [Apply](https://jobs.lever.co/arcteryx.com/779bc31f-7634-422e-b668-7e565eb6f2f5) |
 | Ardian | Client & Fund Administration - Secondaries & Primaries Stage - Juillet 2026 I Paris (H/F) | Paris | 2026 | 2026-06-10 | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Client---Fund-Administration---Secondaries---Primaries-Stage---Juillet-2026-I-Paris--H-F-_JR1002100) |
 | ASML | Chemistry \| Materials Science internship: EUV pellicle research | Netherlands | Not specified | 2026-06-10 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/ASML-Internship--EUV-Pellicle-Research-Master-Thesis-Project_J-00341302) |
 | ASML | Computer Science \| Software Engineering internship: dashboard automation software | Netherlands | Not specified | 2026-06-10 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--dashboard-automation-software_J-00343028) |
@@ -6989,7 +6989,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cigna Group | Summer Intern - Actuarial, Pricing and Business Development | Hkgn 348 Kwun Tong Road | Summer | 2026-06-02 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/HKGN-348-Kwun-Tong-Road/Summer-Intern---Pricing-and-Business-Development_26005879) |
 | Cincinnati Children’s Hospital and Medical Center | Monitor Tech - Student, TCC Stepdown ICU | Burnet Campus | Not specified | 2026-06-02 | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Monitor-Tech---Student--TCC-Stepdown-ICU_JR210311) |
 | Cincinnati Children’s Hospital and Medical Center | Respiratory Therapy Student - Trainee | Burnet Campus | Not specified | 2026-06-02 | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Respiratory-Therapy-Student---Trainee_JR212135) |
-| Cirque du Soleil | Stage Manager – Blue Man Group Orlando | Orlando, FL | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/cirquedusoleil/6ef80240-19af-4a11-ad2a-3f136d3fef62) |
 | Cirque du Soleil | Stage Manager – Mystere | Las Vegas, NV | Not specified | 2026-06-02 | [Apply](https://jobs.lever.co/cirquedusoleil/79f526f8-6cd7-4919-a631-6c165799014b) |
 | Cirrus Logic | Fall 2026 Co-Op - Analog Design Engineer | Texas | Fall 2026 | 2026-06-02 | [Apply](https://jobs.eu.lever.co/cirrus/5a39f9e7-540f-45bc-82fa-e89487ea6bee) |
 | Cirrus Logic | Fall 2026 Co-Op - Design Verification Engineer | Texas | Fall 2026 | 2026-06-02 | [Apply](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4) |
@@ -7768,7 +7767,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GlobalFoundries | Talent Acquisition (Campus Recruitment) Intern (July to December 2026) | Sgp Woodlands | 2026 | 2026-06-02 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Internship---Talent-Acquisition_JR-2503170) |
 | GlobalFoundries | University Intern - Year 2026 | Singapore | 2026 | 2026-06-02 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/University-Intern---Year-2026_JR-2503754) |
 | Globus Medical | Co-op | Audubon, PA | Not specified | 2026-06-02 | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Co-op_JR104625) |
-| GoMaterials | Data Quality Intern - Fall 2026 | Montreal, QC | Fall 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/gomaterials/106d2c3e-785c-4a66-962c-74cbd64f4359) |
 | GoMaterials | Operations & Quoting Intern - Fall 2026 | Montreal, QC | Fall 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/gomaterials/7cf4b1ec-6d68-4050-854f-ac3eb2e16267) |
 | GoMaterials | Supply Chain Operations Intern - Fall 2026 | Montreal, QC / Canada | Fall 2026 | 2026-06-02 | [Apply](https://jobs.lever.co/gomaterials/10575072-15b7-4886-a85e-6e6ef4aaf1d4) |
 | Graco | Sales Intern | Florida, United States | Not specified | 2026-06-02 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Gainesville-Florida-USA/Sales-Intern_R0021910) |
