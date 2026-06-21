@@ -129,8 +129,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry Level Civil/Environmental Engineer | El Paso, TX, United States | Not specified | 2026-06-17 | [Apply](https://careers-carollo.icims.com/jobs/4466/entry-level-civil-environmental-engineer/job) |
 | Carollo Engineers | Entry Level Instrumentation and Controls Engineer | Phoenix, AZ, United States | Not specified | 2026-06-17 | [Apply](https://careers-carollo.icims.com/jobs/4368/entry-level-instrumentation-and-controls-engineer/job) |
 | Carollo Engineers | Entry-Level Wastewater Process Mechanical Engineer | Seattle, WA, United States | Not specified | 2026-06-17 | [Apply](https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job) |
-| Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | Not specified | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | Not specified | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) |
+| Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | Not specified | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking) | Spain | Not specified | 2026-06-17 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003) |
 | Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | Not specified | 2026-06-17 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742910) |
 | Cleveland Clinic | New Grad RN Resident - General Medicine/Telemetry | Cleveland Clinic Main Campus | Not specified | 2026-06-17 | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_344794) |
@@ -995,11 +995,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineering Construction Technician - EIT | Olathe, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4637441008) |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | Not specified | 2026-06-02 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) |
