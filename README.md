@@ -23,8 +23,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | HR Partner Intern | Not Specified | Not specified | 2026-06-21 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/HR-Partner-Intern_14476574) |
 | ASML | Internship - CS EUV OPP team - Tainan | Taiwan | Not specified | 2026-06-21 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Tainan-Taiwan/Internship---CS-EUV-OPP-team---Tainan_J-00345172) |
 | ASML | Internship - Cymer Customer Support team – Taichung | Taiwan | Not specified | 2026-06-21 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Taichung-Taiwan/Internship---Cymer-Customer-Support-team---Taichung_J-00343579) |
+| Chase | 2027 Global Corporate Banking - Large-Cap - Off-Cycle Internship Program – Dubai | United Arab Emirates | 2027 | 2026-06-21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742441) |
 | Cisco | Technical Intern - Israel - ETR | Israel | Not specified | 2026-06-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Caesarea-Israel/Technical-Intern---Israel---ETR_2016421-1) |
 | City of Austin | Temporary - IT Support Specialist Intern | Arthur B Dewitty Center / Ben White | Not specified | 2026-06-21 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Arthur-B-Dewitty-Center/Temporary---IT-Support-Specialist-Intern_JR103972) |
+| JP Morgan Chase | 2027 Global Corporate Banking - Large-Cap - Off-Cycle Internship Program – Dubai | United Arab Emirates | 2027 | 2026-06-21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742441) |
 | Loblaw Companies | Student, Franchise Part Time Afternoon | Glencoe, ON | Not specified | 2026-06-21 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/PO-Box-98-275-Main-St-Glencoe-ON/Student--Franchise-Part-Time-Afternoon_R2000676196) |
 | Loblaw Companies | Student, Franchise Part Time Day | Newmarket, ON | Not specified | 2026-06-21 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/17255-Leslie-St-Newmarket-ON/Student--Franchise-Part-Time-Day_R2000676269) |
 | Loblaw Companies | Student, Franchise Part Time Day | Oakville, ON | Not specified | 2026-06-21 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1395-Abbeywood-Dr-Oakville-ON/Student--Franchise-Part-Time-Day_R2000676263) |
@@ -222,7 +224,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crane Co. | Design Engineer Co-op | South Carolina | Not specified | 2026-06-19 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Design-Engineer-Co-op_JR101945) |
 | Crane Co. | Manufactering Engineer Co-op | South Carolina | Not specified | 2026-06-19 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Manufactering-Engineer-Co-op_JR101947) |
 | Crane Co. | Marketing Intern | Leicester, United Kingdom | Not specified | 2026-06-19 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Leicester-UK/Marketing-Intern_JR101897) |
-| Cummins | Co-Op Student | India | Not specified | 2026-06-19 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431889) |
 | Cummins | Communication Student \| El Talar, Provincia de Buenos Aires | Argentina | Not specified | 2026-06-19 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2429496) |
 | Cummins | Student - Sls | India | Not specified | 2026-06-19 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431743) |
 | Cushman & Wakefield | EIC Sustainability Intern | Czech Republic | Not specified | 2026-06-19 | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Prague-Czech-Republic/EIC-Sustainability-Intern_R324431) |
@@ -294,7 +295,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ecolab | Intern – Supply Chain Finance | Pol Malopolskie Kraków | Not specified | 2026-06-19 | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Intern---Supply-Chain-Finance_R00296943) |
 | Egis Group | Stage - Analyste stratégique H/F | Idf, France | Not specified | 2026-06-19 | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000133062280) |
 | Emerson Electric | Engineering Support Assistant Intern (2026 Intake) | Malaysia | 2026 | 2026-06-19 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25026787) |
-| Emerson Electric | Internship: RF Transceiver Signal Characterization | Germany | Not specified | 2026-06-19 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006639) |
 | Essity | Student worker | Drummondville, Canada | Not specified | 2026-06-19 | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Drummondville-Canada/Student-worker_Essity263384) |
 | Eurofins | Ingénieur.e Amélioration Continue en alternance | Provence-Alpes-Côte D'azur, France | Not specified | 2026-06-19 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133059295) |
 | Eurofins | Stagiair(e) Laborant MBo 3 & 4 | Wageningen, GE | Not specified | 2026-06-19 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133020809) |
@@ -3072,6 +3072,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Corsair | Working student HR | Germany | Not specified | 2026-06-13 | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8722) |
 | Crown Innovations | NAMS-2 Intern | Mountain View, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000129261260) |
 | Cummins | 2025 - Summer Intern Co-op Conversion | United States | Summer | 2026-06-13 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2416172) |
+| Cummins | 2026 - Student - School to work - Manufacturing | Columbus, IN, United States | 2026 | 2026-06-13 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430107) |
 | Cummins | Auto Test - Intern | China | Not specified | 2026-06-13 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430830) |
 | Cummins | Channel Management Intern | China | Not specified | 2026-06-13 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430763) |
 | Cummins | Co-Op Student | Mexico | Not specified | 2026-06-13 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427069) |
