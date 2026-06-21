@@ -2881,7 +2881,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accor | Corporate Communications Intern - Digital Content (F/M/X) | Idf, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000127365089) |
 | Accor | Entertainment Sponsorship Assistant (6 months internship) | Idf, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000122706660) |
 | Accor | Intern Pricing Project - M/F/X | Idf, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000128743659) |
-| Accor | Internship Luxury Sales Support GRC Barcelona | Barcelona, CT | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000121995145) |
 | Accor | Internship – Revenue Management (F/M/X) | Poland | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000124421568) |
 | Accor | Junior Category Manager Furniture, Fixtures and Equipment (FF&E) and Guest Technologies - Alternance Achat Direct (H/F/X) | Idf, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000131844994) |
 | Accor | Sponsorship Assistant - H/F/X | Idf, France | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000131127165) |
@@ -3652,7 +3651,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Red Bull | Student Marketeer - Universidad de Chile | Chile | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000129786863) |
 | Red Bull | Student Marketeer - Universidad de Palermo | Argentina | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000128949330) |
 | Red Bull | Student Marketeer - Universidad Nacional de Córdoba | Argentina | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000128955362) |
-| Red Bull | Student Marketeer - University of Canada | Egypt | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000131432579) |
 | Red Bull | Student Marketeer - University of Hawaiʻi at Mānoa | Honolulu, HI, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000129567419) |
 | Red Bull | Student Marketeer - University of Idaho | Moscow, ID, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000131934085) |
 | Red Bull | Student Marketeer - University of Illinois Urbana-Champaign | Champaign, IL, United States | Not specified | 2026-06-13 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000129852399) |
