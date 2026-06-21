@@ -26,6 +26,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chase | 2027 Global Corporate Banking - Large-Cap - Off-Cycle Internship Program – Dubai | United Arab Emirates | 2027 | 2026-06-21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742441) |
 | Cisco | Technical Intern - Israel - ETR | Israel | Not specified | 2026-06-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Caesarea-Israel/Technical-Intern---Israel---ETR_2016421-1) |
 | City of Austin | Temporary - IT Support Specialist Intern | Arthur B Dewitty Center / Ben White | Not specified | 2026-06-21 | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Arthur-B-Dewitty-Center/Temporary---IT-Support-Specialist-Intern_JR103972) |
+| ConnectPrep | Data Analyst Internship | United States Remote | Not specified | 2026-06-21 | [Apply](https://apply.workable.com/connectprep/j/E4655645B8/) |
 | JP Morgan Chase | 2027 Global Corporate Banking - Large-Cap - Off-Cycle Internship Program – Dubai | United Arab Emirates | 2027 | 2026-06-21 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742441) |
 | Loblaw Companies | Student, Franchise Part Time Afternoon | Glencoe, ON | Not specified | 2026-06-21 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/PO-Box-98-275-Main-St-Glencoe-ON/Student--Franchise-Part-Time-Afternoon_R2000676196) |
 | Loblaw Companies | Student, Franchise Part Time Day | Newmarket, ON | Not specified | 2026-06-21 | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/17255-Leslie-St-Newmarket-ON/Student--Franchise-Part-Time-Day_R2000676269) |
@@ -2590,7 +2591,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Clarios | Intern - EHS | Cienega De Flores | Not specified | 2026-06-15 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Leon-Cienega-de-Flores/Intern---EHS_WD48847) |
 | Clarios | Intern - Innovation | San Pedro Garza Garcia | Not specified | 2026-06-15 | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Innovation_WD48759) |
 | CLO Virtual Fashion | Software Engineer Intern | Seoul | Not specified | 2026-06-15 | [Apply](https://jobs.lever.co/clovirtualfashion/e53e217c-38ba-40e1-a548-d214ecb7c790) |
-| ConnectPrep | Data Analyst Internship | United States Remote | Not specified | 2026-06-15 | [Apply](https://apply.workable.com/connectprep/j/65F6D2C32E/) |
 | Continental | HR Generalist Intern | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132134525) |
 | Continental | Intern - AI Automation & Technical Customer Service Operations Support | Malaysia | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132082434) |
 | Continental | Intern - Tire Property Management / Finance, Year-Round | Fort Mill, SC, United States | Not specified | 2026-06-15 | [Apply](https://jobs.smartrecruiters.com/Continental/744000132233525) |
