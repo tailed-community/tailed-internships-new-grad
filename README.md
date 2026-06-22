@@ -233,6 +233,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Merck | Stage - Assistant(e) de l'Ingénieur Développement mécanique H/F | Fra Occitanie Albi | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/FRA---Occitanie---Albi/Stage---Assistant-e--de-l-Ingnieur-Dveloppement-mcanique-H-F_R404184-1) |
 | Micron Technology | Intern - Photolithography Process Development | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Photolithography-Process-Development_JR99070) |
 | Micron Technology | Intern-Assembly Equipment Technician | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern-Assembly-Equipment-Technician_JR104357) |
+| MUBI | Local Marketing Intern, CL | Santiago De Chile / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/57a896f6-b23a-4625-ae9b-6a53fc84b1fb) |
 | Nexstar | Intern | GA | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/GA-Savannah/Intern_REQ-41961) |
 | Otis Worldwide | Intern, Quality (Long Term) | Merkez | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/MERKEZ/Intern--Quality--Long-Term-_20160189) |
 | Parsons | Co-op Trainee (Industrial Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R182316) |
@@ -1851,8 +1852,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pebl | Product Design Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/d672d2f1-dff3-4541-af05-1803bf0f9b5e) |
 | Pebl | Product Management Intern - Talent Solutions | Toronto, ON, Canada / Vancouver, BC / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/71d56313-31cb-4f5a-addf-dd9f9e470258) |
 | Pebl | Product Management Intern - Talent Solutions | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/4da3780a-ed0d-42ac-a899-635bdd00a764) |
-| Pebl | Product Manager Intern - Alfie (Conversational AI) | Toronto, ON, Canada / Vancouver, BC / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/7f1bde51-0e21-4bc2-8414-be077511bde4) |
-| Pebl | Product Manager Intern - Alfie (Conversational AI) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/5ab039a5-2517-4ab5-be25-5987afb6d204) |
 | Pebl | Software Engineer Intern, Conversational AI (Alfie) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44) |
 | Pebl | Software Engineer Intern, Invoicing & Payments | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612) |
 | Pebl | Software Engineer Intern, Payroll | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663) |
@@ -2045,7 +2044,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SC Johnson | Intern, HRIS | Philippines Makati | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines---Makati/Intern--HRIS_31801) |
 | SC Johnson | Internship, Packaging Engineer | Mys Petaling Jaya | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/MYS---Petaling-Jaya/Internship--Packaging-Engineer_32920) |
 | SC Johnson | Stage Chef de Secteur Strasbourg | France – Strasbourg | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/France--Strasbourg/Intern-Sales_31968) |
-| Scaler | Workplace Experience Intern | Netherlands / Remote | [Apply](https://jobs.ashbyhq.com/scaler/72d9c7a9-3b43-44af-adb6-69c713cad562) |
 | Schroders | Student Trainee | Hong Kong | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1657) |
 | Schweitzer Engineering Laboratories | Application Engineering Intern | Uae Dubai Silicon Oasis | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/UAE---Dubai-Silicon-Oasis/Application-Engineering-Intern_2026-21660) |
 | Schweitzer Engineering Laboratories | Designer/Drafter Intern | Illinois Fairview Heights | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Designer-Drafter-Intern_2026-21712) |
@@ -4635,7 +4633,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship in Marketing & Communications (f/m/x) | Aalen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Aalen/Internship-in-Marketing---Communications--f-m-x-_JR_1050405-2) |
 | Zeiss | Working Student Data Analytics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werksstudent-Diagnose-und-Monitoring--m-w-x-_JR_1048222-1) |
 | Zeiss | Working Student Frontend Development (m/f/x) | München / Jena | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Working-Student-Frontend-Development--m-f-x-_JR_1050400) |
-| 1Password | Data Intern, Enterprise Analytics - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f) |
 | 1Password | Developer Intern, Data Security - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce) |
 | 1Password | Developer Intern, Front-End Platform - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5) |
 | 1Password | Developer Intern, Trust Platforms - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1) |
@@ -5402,7 +5399,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | City of Austin | Public Health Temporary/Intern Opportunities | Grove Campus | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Grove-Campus/Public-Health-Temporary-Intern-Opportunities_JR104073) |
 | Cluely | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108) |
 | Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / United States / Europe / United Kingdom / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| Cohere | Research Internship (Fall, 2026) | Canada / Montreal / United Kingdom / Europe / United States / Toronto / San Francisco / London / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
+| Cohere | Research Internship (Fall, 2026) | Canada / United Kingdom / Europe / United States / Toronto / San Francisco / London / Montreal / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Research Internship Reinforcement Learning (Summer) | Paris, France / France / France Remote | [Apply](https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525) |
 | Cohere | Sales Development Intern (Summer, Fall 2026) | South Korea / Remote | [Apply](https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858) |
 | Cohere | Software Engineer Intern (Fall / Winter 2026) | Canada / United States / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
@@ -5432,7 +5429,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nc New Bern | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---New-Bern/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0940119) |
 | d-Matrix | Applied AI Engineering Intern | Santa Clara, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7) |
 | Deliveroo | Account Manager - stage | Paris, France | [Apply](https://jobs.ashbyhq.com/deliveroo/914e3a3f-0e5e-42a3-aa02-7829fb10eb6c) |
-| Deliveroo | Finance & Strategy Intern | Paris, France | [Apply](https://jobs.ashbyhq.com/deliveroo/6a8e511c-a997-4894-988d-785bb5e2879f) |
 | Dexcom | Facilities Engineer Intern | Malaysia | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Intern_JR118516) |
 | Dryft | Full-Stack Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) |
 | Eight Sleep | AI/ML Research Internship | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
@@ -5599,7 +5595,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Snowflake | Software Engineer Intern - Zurich (2026) | Switzerland | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) |
 | Solink | Software Engineer, COOP | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef) |
 | Solva | AI Engineer Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6) |
-| Span | HR Intern | India | [Apply](https://jobs.ashbyhq.com/span/7c30895d-fbc7-4ef6-8f84-83c1d7e39b73) |
 | State Street | Securities Valuation Internship | Toronto, ON | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Securities-Valuation-Internship_R-791947) |
 | Stryker | Logistics Intern (12 months) | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Skawina-Poland/Logistics-Intern--12-months-_R566779-1) |
 | Super | Data Analytics Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922) |
