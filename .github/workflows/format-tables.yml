@@ -2,6 +2,18 @@ name: Format Job Tables
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/jobs.json"
+      - "scripts/format_tables.py"
+      - "scripts/core/markdown.py"
+      - "scripts/core/normalize.py"
+
+concurrency:
+  group: format-job-tables-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -13,6 +25,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,4 +50,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: format job tables"
+          git pull --rebase
           git push

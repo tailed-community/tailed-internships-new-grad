@@ -16,5 +16,6 @@
 - Formatting-only workflow: `.github/workflows/format-tables.yml`
 - Uses existing `data/jobs.json` only
 - Regenerates `README.md` and `NEW_GRAD.md` tables without fetching jobs
-- Manual only (`workflow_dispatch`)
+- Runs automatically when job data or table-formatting code changes on `main`
+- Also supports manual `workflow_dispatch`
 - Useful after table-formatting changes or manual edits to `data/jobs.json`
