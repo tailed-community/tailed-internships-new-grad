@@ -46,6 +46,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | Content Creator Ambassador (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Spring-Valley-Campus-Washington-DC/Content-Creator-Ambassador--Student-_R4386) |
 | American University | Interlibrary Services Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Interlibrary-Services-Assistant--Student-_R4366) |
 | Applied Fluid Power | Accounting / Finance Intern | Wallingford, CT | [Apply](https://applied.wd501.myworkdayjobs.com/applied/job/Wallingford-CT/Accounting---Finance-Intern_JR104608) |
+| Arcadis | Project Management Intern | Italy | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41945) |
 | ASML | Software Engineering Internship: Python tool development | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Software-Engineering-Internship--Python-tool-development_J-00337347) |
 | BMO | Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803-3) |
 | BMO (Campus) | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1) |
@@ -60,6 +61,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Celonis | Talent Acquisition Coordinator Graduated Internship (12 months) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7779663003?gh_jid=7779663003) |
 | Cencora | BBL stagiaire apothekersassistent(e) 24-32 uur | Wemea > Netherlands > Boots Apotheek Beilen | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Boots-apotheek-Beilen/BBL-stagiaire-apothekersassistent-e--24-32-uur_R2610703) |
 | Chanel | INTERNSHIP RETAIL MARKETING & CLIENT EXPERIENCE – IBERIA FASHION | Madrid | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Madrid/INTERNSHIP-RETAIL-MARKETING---CLIENT-EXPERIENCE---IBERIA-FASHION_JOBREQ00114098) |
+| Chase | 2027 Global Corporate Banking - Mid-Cap - Off-Cycle Internship Program – Zurich | Zurich, ZH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742448) |
 | Comcast | Intern - 2 | Comcast India Engineering Cent | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Intern---2_R424154) |
 | Copeland | Intern Oracle Project Analyst (fixed-term 6 months) | Romania | [Apply](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Cluj-Napoca-Romania/Intern-Oracle-Project-Analyst--fixed-term-6-months-_JR115954) |
 | Corteva | Engineering & Maintenance Intern | Spain | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Elche-Alicante-Spain/Engineering---Maintenance-Intern_247496W) |
@@ -68,6 +70,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Criteo | Data Analyst Intern - Business Ops Data Enablement (September 2026) | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Data-Analyst-Intern---Business-Ops-Data-Enablement_r19908) |
 | Criteo | Technical Solutions Intern- GCOC | Gurgaon | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Technical-Solutions-Intern--GCOC_r20772) |
 | Cubic | Software Engineering & Automation Intern | Virginia | [Apply](https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineering---Automation-Intern_REQ_49102) |
+| Cummins | Embedded Base Software Testing Engineer- Intern | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430945) |
+| Cummins | Finance Intern | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431799) |
 | Cushman & Wakefield | EIC Intern - Valuation & Advisory - Hospitality | Cw Site Deu Frankfurt Bleidenstrasse 6 | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---DEU---Frankfurt---Bleidenstrasse-6/EIC-Intern---Valuation---Advisory---Hospitality_R308048) |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nj Denville | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Denville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0954083) |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nj Ledgewood | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Ledgewood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0954079) |
@@ -160,6 +164,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern | Nc Wesley Chapel | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Wesley-Chapel/Pharmacy-Intern_R0953939) |
 | CVS Health | Pharmacy Intern - Grad | Ny Albany | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Albany/Pharmacy-Intern---Grad_R0953940) |
 | Dentsu | Junior content specialist - intern | Milan | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Milan/Junior-content-specialist---intern_R1125763) |
+| DNV | Intern Power Grids | United Arab Emirates | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6958) |
 | Dow Chemical Company | Diamond Campus Internship – Public Affairs | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Houston-TX-USA/Diamond-Campus-Internship---Public-Affairs_R2067095) |
 | DuCharme, McMillen & Associates | Business Development Intern - Fall 2026 | Houston, TX | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Houston-TX/Business-Development-Intern---Fall-2026_REQ531) |
 | Edwards Lifesciences | Digital Enablement Intern | Malaysia-Kuala Lumpur Bsc | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Digital-Enablement-Intern_Req-48781) |
@@ -169,6 +174,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Faraday Future | Community Operations Intern | California, United States | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7778378003) |
 | Freudenberg Group | Intern Process Engineer (f/m/d) | Pinerolo | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Pinerolo/Intern-Process-Engineer--f-m-d-_R_00103851) |
 | Freudenberg Group | Mandatory Intern / Working Student in the field of Employer Branding & Personnel Marketing (f/m/d) | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Mandatory-Intern---Working-Student-in-the-field-of-Employer-Branding---Personnel-Marketing--f-m-d-_R_00103688) |
+| Garrett Motion | Buyer Intern | Brazil | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14642) |
 | GE Aerospace | Applied AI Engineering Intern (m/f/d) | Remote | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1) |
 | GE Healthcare | Communications Intern | Shanghai | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Communications-Intern_R4042426-1) |
 | GE Healthcare | Digital Marketing Intern (Full-Time) | Chalfont St Giles | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chalfont-St-Giles/Digital-Marketing-Intern--Full-Time-_R4038965-1) |
@@ -204,6 +210,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jabil | Summer Engineering Intern - Onsite, Part Time in San Jose, CA | San Jose, Canada | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Summer-Engineering-Intern---Onsite--Part-Time-in-San-Jose--CA_J2453735) |
 | Johnson & Johnson | Stage Technical Regulatory associate | Italy | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Latina-Italy/Stage-Technical-Regulatory-associate_R-082821) |
 | Johnson Electric | Intern / Student | Vandalia, United States | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Vandalia/Intern---Student_R00030315-1) |
+| JP Morgan Chase | 2027 Global Corporate Banking - Mid-Cap - Off-Cycle Internship Program – Zurich | Zurich, ZH | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742448) |
 | Julius Baer | IT Working Student  - Technology Governance & Third Party Risk Management  60 - 100% (f/m/d) | Zurich | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/T-Working-Student----Technology-Governance---Third-Party-Risk-Management--60---100---f-m-d-_r-18388-3) |
 | KBR | Legal - Intern | India | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Gurgaon-Haryana-India/Legal---Intern_R2125395) |
 | Kenvue | Summer Intern, R&D | Shanghai | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-China-Shanghai-Shanghai/Summer-Intern--R-D_2607046583W) |
@@ -238,7 +245,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - Photolithography Process Development | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Photolithography-Process-Development_JR99070) |
 | Micron Technology | Intern-Assembly Equipment Technician | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern-Assembly-Equipment-Technician_JR104357) |
 | MUBI | Local Marketing Intern, CL | Santiago De Chile / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/57a896f6-b23a-4625-ae9b-6a53fc84b1fb) |
+| Newmark Group | Intern - Gerald Eve | India | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249044) |
 | Nexstar | Intern | GA | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/GA-Savannah/Intern_REQ-41961) |
+| Northwell Health | Pharmacy Intern - VIVOHealth | Nassau, United States | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/191656) |
 | Otis Worldwide | Intern, Quality (Long Term) | Merkez | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/MERKEZ/Intern--Quality--Long-Term-_20160189) |
 | Parsons | Co-op Trainee (Industrial Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R182316) |
 | Parsons | Traffic Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Traffic-Engineering-Intern_R181034) |
@@ -270,11 +279,15 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | Talent Services - Candidate Care Intern – Chengdu | Chengdu | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Talent-Services---Candidate-Care-Intern---Chengdu_R2860675) |
 | Sartorius | Working Student (x\|f\|m) Bioreactor Technologies | Goettingen | [Apply](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Goettingen/Working-Student--x-f-m--Bioreactor-Technologies_R40776) |
 | SharkNinja | Fall 2026: Social Sharks Latin America (LATAM) Marketing Co-op (July to December) | New York, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646022006) |
+| SHEIN | BIP Intern | United States | [Apply](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940) |
 | Shell | Intern | Rio De Janeiro Ventura Office | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Rio-De-Janeiro---Ventura-Office/Intern_R199014-1) |
 | Signify | Internship - Global Product Management | Shanghai | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Internship---Global-Product-Management_364908-1) |
 | Signify | summer intern-GPM | Shanghai | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/summer-intern-GPM_364910-1) |
+| Sinclair | News Intern (Fall 2026) | Steubenville, OH, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16701) |
 | Solenis | Intern | Brazil | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/So-Paulo-Brazil/Intern_R0030645) |
 | Southern New Hampshire University | Student-Assignment Magazine Student Editor | Remote | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student-Assignment-Magazine-Student-Editor_R0013998) |
+| Stantec | Structural Engineering Intern - Transportation (Fall 2026) | New Haven, CT, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006350) |
+| Suffolk County | Key Stage 1 Class Teacher | Suffolk, United Kingdom | [Apply](https://eoce.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/24063) |
 | Target | Current Interns Only - Inventory Analyst - Summer 2026 Intern Posting | Minneapolis | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Current-Interns-Only---Inventory-Analyst---Summer-2026-Intern-Posting_R0000437105-1) |
 | TD | Account Manager Intern / Co-Op - Preferred Candidate | QC | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Qubec-Qubec/Account-Manager-Intern---Co-Op--FALL-2026-_R_1481361) |
 | Tencent - OA_Huoshui_Platform | Data Engineer Intern | Netherlands-Amsterdam | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681) |
@@ -283,13 +296,18 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tencent - Tencent_Careers | Data Engineer Intern | Netherlands-Amsterdam | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681-1) |
 | Tencent - Tencent_Careers | Data Product Intern | UK-London | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R107644-1) |
 | Tencent - Tencent_Careers | Video Generation Content Understanding and Feedback Research Intern | UK-London | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680-1) |
+| Texas Instruments | Field Applications Engineering Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011355) |
+| Texas Instruments | Sales Engineering Intern - Warszawa, Polska | Poland | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009364) |
 | Thales | Software Tester (IVV) Internship | Bucharest | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest/Software-Tester--IVV--Internship_R0331765) |
 | Thales | STAGE - Automatisation TheHive et Cortex - F/H | Gémenos | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Gmenos/STAGE---Automatisation-TheHive-et-Cortex---F-H_R0332427-2) |
 | Thales | Technical Consultant Intern | São Paulo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/So-Paulo/Technical-Consultant-Intern_R0332382-1) |
 | The Coca-Cola Company | Supply Chain Intern | Turkey Istanbul | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Turkey---Istanbul/Supply-Chain-Intern_R-142324) |
 | The Federal Reserve System | Fall 2026 Survey Center Intern | Atlanta, GA / United States Remote | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Fall-2026-Survey-Center-Intern_R-0000032558-1) |
+| Tiffany & Co. | PR Intern | Paris, France | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63285) |
 | U.S. Bank | 2026 Step Up Intern | Minneapolis, MN | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2026-Step-Up-Intern_2025-0020113) |
 | UBC | Grad Student Support 2 (Gr 6) | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Grad-Student-Support-2--Gr-6-_JR24992) |
+| UNFPA | National Internship: Gender and Human Rights | Uganda | [Apply](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/35040) |
+| UNFPA | National Internship: Human Resources Assistant | Uganda | [Apply](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/35041) |
 | University of Texas at Austin | 2026-2027 Texas LEAD Student Associate | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/XMLNAME-2026-2027-Texas-LEAD-Student-Associate_R_00046720) |
 | University of Texas at Austin | Work-Study Student Associate, Texas Materials Institute | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Associate--Texas-Materials-Institute_R_00040181) |
 | Valeo | R&D Co-Op | Auburn Hills, MI | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Auburn-Hills-MI/R-D-Co-Op_REQ2026077084) |
@@ -419,7 +437,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Solenis | Professional Intern (Aprendiz) \| Planta de Araraquara/SP | Brazil | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/Araraquara-Brazil/Professional-Intern--Aprendiz----Planta-de-Araraquara-SP_R0028874) |
 | SpartanNash | Pharmacy Intern | Minnesota | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Litchfield-Minnesota/Pharmacy-Intern_R86898) |
 | Stantec | Mechanical Engineering Co-op/Intern (Fall 2026) | Butler, PA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006365) |
-| Stantec | Structural Engineering Co-op Student - Buildings - Fall 2026 | Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006401) |
+| Stantec | Structural Engineering Co-op Student - Buildings - Fall 2026 | Regina, SK, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006401) |
 | Sun Life | Stagiaire, rayonnement et communications | Montreal, QC | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Montreal-Quebec/Stagiaire--rayonnement-et-communications_JR00125263) |
 | Thales | Stage - Droit de la concurrence - F/H | Meudon | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Meudon/Stage---Droit-de-la-concurrence---F-H_R0332357-1) |
 | Thales | STAGE CESURE - Ingénieur développement d'algorithmes d'optimisation et d'ordonnancement - F/H | Chatellerault | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Chatellerault/STAGE-CESURE---Ingnieur-dveloppement-d-algorithmes-d-optimisation-et-d-ordonnancement---F-H_R0316605-1) |
@@ -491,7 +509,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crane Co. | Manufactering Engineer Co-op | South Carolina | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Manufactering-Engineer-Co-op_JR101947) |
 | Crane Co. | Marketing Intern | Leicester, United Kingdom | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Leicester-UK/Marketing-Intern_JR101897) |
 | Cummins | Communication Student \| El Talar, Provincia de Buenos Aires | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2429496) |
-| Cummins | Student - Sls | India | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431743) |
 | CVS Health | Pharmacy Intern | Nc Randleman | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Randleman/Pharmacy-Intern_R0952279) |
 | CVS Health | Pharmacy Intern | Nc Aberdeen | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Aberdeen/Pharmacy-Intern_R0952281) |
 | CVS Health | Pharmacy Intern | Nc Jacksonville | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Jacksonville/Pharmacy-Intern_R0952283) |
@@ -660,7 +677,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nexstar | Unpaid Sports Intern- Summer 2026 | Dc-Washington / 2121 Wisconsin Ave Nw (nexstar-Wdcw) | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/DC-Washington2121-Wisconsin-Ave-NW-Nexstar-WDCW/Unpaid-Sports-Intern--Summer-2026_REQ-41520) |
 | NielsenIQ | Intern, Customer Service | Malaysia | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000133000989) |
 | NielsenIQ | Intern, Operations (Mandarin Speakers) | Malaysia | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000132995640) |
-| Northwell Health | Pharmacy Intern | Queens, United States | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/189595) |
 | NOV | Intern - Business Intelligence | Brazil | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/41830) |
 | Oregon State Government | Director of Assessment and Student Reporting | Salem \| Ode \| Public Service Building | [Apply](https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--ODE--Public-Service-Building/Director-of-Assessment-and-Student-Reporting_REQ-202049) |
 | Philips | Field Service Engineer Intern with Polish and English (all genders) | Warszawa | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Field-Service-Engineer-Intern-with-Polish-and-English--all-genders-_582882) |
@@ -1190,7 +1206,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Deductive AI | Software Engineer Intern (Fall '24) | California, United States | [Apply](https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d) |
 | Deductive AI | Software Engineer Intern, London | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/deductive/ad89510a-6a8d-4376-8bc1-32d409e30c09) |
 | Definity Financial | Data Specialist - Claim Operations Management - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) |
-| Definity Financial | Technology Business Coordinator - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9066) |
 | Diversified Automation | Hardware Engineering Co-Op | Louisville, KY | [Apply](https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146) |
 | Dow Chemical Company | Local College Co-op - Research & Development | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Auburn-MI-USA/Local-College-Co-op---Research---Development_R2066020) |
 | DPR Family of Companies | Build Up Internship | Silicon Valley, Canada | [Apply](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Silicon-Valley-CA/Build-Up-Internship_JR-13663-1) |
@@ -1401,7 +1416,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HNTB - hntb_university_careers | Returning Learning & Development Intern- For Current or Previous HNTB Interns Only | Kansas City, MO | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-Learning---Development-Intern--For-Current-or-Previous-HNTB-Interns-Only_R-29799-1) |
 | HNTB - hntb_university_careers | Transportation High School Intern | Pa (pennsylvania) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Philadelphia-PA-Pennsylvania/Transportation-High-School-Intern_R-30534) |
 | Honeywell - CX_1 | Electrical Engineer - Summer 2026 Intern - Puerto Rico | Puerto Rico | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/122793) |
-| Honeywell - CX_1 | HR Intern m/f | Slovakia | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/148082) |
 | Honeywell - CX_1 | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/148811) |
 | Honeywell - CX_1 | Intern (Master's) (m/f/d) | Germany | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/135866) |
 | Honeywell - CX_1 | Intern - Engineering (Proposal & Estimation) | Netherlands | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/127105) |
@@ -2077,7 +2091,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Shaw Industries Group | Intern 3 | 3047 US Floors Belgium / Souverainestraat 27 9770 Kruisem Belgium | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/3047---US-Floors---Belgium-Souverainestraat-27-9770-Kruisem-Belgium/Intern-3_R-142532-1) |
 | Shaw Industries Group | Intern 4 | 3047 US Floors Belgium / Souverainestraat 27 9770 Kruisem Belgium | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/3047---US-Floors---Belgium-Souverainestraat-27-9770-Kruisem-Belgium/Intern-4_R-153409-1) |
 | Shaw Industries Group | Summer 2026 STEM Internship | Dalton | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-2-2207-S-Hamilton-Street-Dalton-GA-30720-USA/Summer-2026-STEM-Internship_R-151433) |
-| SHEIN | BIP Intern | United States | [Apply](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA08128269) |
 | SHEIN | Industrial Engineering Intern | United States | [Apply](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA63979306) |
 | Shure - careers-shure.icims.com | Engineering Internship | Dk-Copenhagen | [Apply](https://careers-shure.icims.com/jobs/3532/engineering-internship/job) |
 | Sika | Content & Digital Marketing Intern | Italy | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000132684040) |
@@ -2260,7 +2273,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas Instruments | Applications Engineering Intern | China | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/240001I0) |
 | Texas Instruments | Digital IC Design Engineering Intern | China | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/240001HY) |
 | Texas Instruments | DoD SkillBridge \| Equipment Technician Intern | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011121) |
-| Texas Instruments | Electrical Engineering & AI-for-EE Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010891) |
 | Texas Instruments | EMEA Accounting Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010186) |
 | Texas Instruments | EMEA Accounting Working Student m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010128) |
 | Texas Instruments | Engineering Technician Intern - Dallas/Tucson | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) |
@@ -2271,7 +2283,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas Instruments | Field Applications Engineering Intern | Israel | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010493) |
 | Texas Instruments | Field Applications Engineering Intern | Switzerland | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25006123) |
 | Texas Instruments | Field Applications Engineering Intern (m/f/d) - Stuttgart, Deutschland | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008392) |
-| Texas Instruments | Field Applications Engineering Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25002653) |
 | Texas Instruments | Field Applications Engineering Intern m/f/d - Eschborn / Frankfurt am Main | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003417) |
 | Texas Instruments | Field Applications Engineering Intern m/f/d - Garching, Germany | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004150) |
 | Texas Instruments | Field Applications Engineering Intern m/f/d - Stuttgart | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004291) |
@@ -2401,7 +2412,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Worthington Enterprises | Engineering Intern | West Warwick, RI, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43012) |
 | WPP Media | Stage Stratège Créatif | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5257303008) |
 | WPP Media | Working Student Application Operations (All) | Germany | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5266819008) |
-| WSP | Laboratory Testing Intern - Summer 2026 | San Diego, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89328) |
 | WSP | Structural Engineering Intern - Summer 2026 | Irvine, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89258) |
 | WVUMedicine | 200334 - Student Rad Tech Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/XMLNAME-200334---Student-Rad-Tech-Extern_JR26-37985) |
 | WVUMedicine | CCM-Student Respiratory Therapist   -60446 | Camden Clark Medical Center (ccmc) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Camden-Clark-Medical-Center-CCMC/CCM-Student-Respiratory-Therapist----60446_JR25-17860-1) |
@@ -2467,16 +2477,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Covestro | EPS Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Jinshan-District-Shanghai-China/EPS-Intern_JR-2026-01018) |
 | Criteo | Account Strategist Intern - Retail Media Benelux & Nordics | Amsterdam | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Amsterdam/Account-Strategist-Intern---Retail-Media-Benelux---Nordics_r20739) |
 | Cummins | Administrative Co-Op Student | Mexico | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427314) |
-| Cummins | Student - Fin | Mexico | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427661) |
 | Curtiss-Wright Corporation | Engineering Intern | US-Ny-East Farmingdale (peerless) | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-Peerless/Engineering-Intern_JR12567) |
 | CVS Health | Pharmacy Intern - Grad | Pa Wyomissing | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Wyomissing/Pharmacy-Intern---Grad_R0638112) |
 | CVS Health | Pharmacy Intern - Grad | In Marion | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Marion/Pharmacy-Intern---Grad_R0948859) |
 | CWS | Stage HR (meewerkstage) | Den Bosch (hygiene) | [Apply](https://cws.wd3.myworkdayjobs.com/cws_jobs/job/Den-Bosch-Hygiene/Stage-HR--meewerkstage-_JR1013897) |
 | Definity Financial | Underwriting Associate, Financial Lines - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9076) |
-| DNV | Finance Intern | China | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6336) |
 | DoubleVerify | IT Support Intern | Nyc Global Hq | [Apply](https://job-boards.greenhouse.io/doubleverify/jobs/8593197002) |
 | Elanco | Finance Intern | My Petaling Jaya | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/MY---Petaling-Jaya/Finance-Intern_R0025624-1) |
-| Emerson Electric | QA Intern | Hungary | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26003399) |
 | ENOVIS | Engineer Intern | Mexico | [Apply](https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/Tijuana-Baja-California-Mexico/Engineer-Intern_R0033295) |
 | Enterprise Mobility | Management Trainee Intern Fall 2026 | Albuquerque | [Apply](https://us-erac.icims.com/jobs/556490/management-trainee-intern-fall-2026/job) |
 | Eulerity | Operations Intern | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4689890006) |
@@ -2737,7 +2744,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | CA Santa Barbara | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Santa-Barbara/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0947131) |
 | CVS Health | Pharmacy Intern - Grad | Mn Dilworth | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Dilworth/Pharmacy-Intern---Grad_R0947388) |
 | DataVisor | AI/Machine Learning Engineering - Intern | California, United States | [Apply](https://apply.workable.com/datavisor-jobs/j/8EA46581E0/) |
-| Definity Financial | Data Analyst - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) |
 | Definity Financial | Reporting Specialist - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) |
 | Definity Financial | Test Automation Developer - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9060) |
 | Desjardins | Internship, Administrative Assistant | Montréal / Lévis | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Adjoint-administratif-ou-adjointe-administrative_R2607676-1) |
@@ -2925,8 +2931,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Schonfeld | 2026 LATAM Operations Analyst (Internship) | Brazil | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8008507) |
 | Scientific Research Corporation | DoD SkillBridge Intern – (Field Service Engineer III) (Active Duty Service Members) | Not Specified | [Apply](https://careers-scires.icims.com/jobs/11280/dod-skillbridge-intern-%e2%80%93-%28field-service-engineer-iii%29-%28active-duty-service-members%29/job) |
 | SDSU Research Foundation | NIWC - Undergraduate Student - Port Contamination Project (Task No. 71-342609) | San Diego, United States | [Apply](https://careers-sdsurf.icims.com/jobs/20513/niwc---undergraduate-student---port-contamination-project-%28task-no.-71-342609%29/job) |
-| Seaspan | Intern, Barge Operations (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8756) |
-| Seaspan | Intern, Detail Planning (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8790) |
 | Sensata | Finance intern | Bulgaria | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Sofia-Bulgaria/Finance-intern_IRC97753) |
 | Signify | 3D Printing Materials Internship | Eindhoven | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/XMLNAME-3D-Printing-Materials-Internship_364514) |
 | Signify | Internship Signify Foundation | Amsterdam | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship-Signify-Foundation_364702) |
@@ -2970,7 +2974,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Western Digital | Data Analytics & Engineering INTERN | Philippines | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000132106259) |
 | WPP Media | (389) Summer Intern (2 months) | Taiwan | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5138907008) |
 | WPP Media | (390) Summer Intern (2 months) | Taiwan | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5138915008) |
-| WSP | Intern, Innovation and Technology | India | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89101) |
 | WSP | Overhead Transmission Line Design Engineering Intern - Summer 2027 | Birmingham, AL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869) |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Prozessoptimierung Packaging Development & Engineering | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Prozessoptimierung-Packaging-Development---Engineering_R-2026-47768) |
 | Alcon | Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Forschung und Entwicklung (Intraokularlinsen) - Image Processing & Machine Learning | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Forschung-und-Entwicklung--Intraokularlinsen----Image-Processing---Machine-Learning_R-2026-47770) |
@@ -3009,7 +3012,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ACI Worldwide | Intern Communications & Business Support Specialist | Romania | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18952) |
 | ACI Worldwide | Intern Sales | Colombia | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19063) |
 | ACI Worldwide | Intern Software Engineering | Romania | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18957) |
-| ACI Worldwide | Intern Software Engineering | Omaha, NE, United States | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18763) |
 | ACI Worldwide | Intern Solution Consultant | Colombia | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18821) |
 | Advocate Health Care | Student Registered Nurse Anesthetist (SRNA) - Inpatient | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Student-Registered-Nurse-Anesthetist--SRNA----Inpatient_R250709) |
 | AECOM | Administration Intern | Houston, TX, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000131951809) |
@@ -3178,10 +3180,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Working Student - Human Relations ContiTech (m/f/diverse) - REF96438E | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000126261014) |
 | Cooper Companies | Marketing Assistant Intern | Italy | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11174) |
 | Cooper Companies | Talent Acquisition Intern | Costa Rica | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11497) |
-| Corsair | AI & Automation Intern | Viet Nam | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8374) |
-| Corsair | AI Data Engineer Intern | Viet Nam | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8778) |
-| Corsair | Assistant Product Manager Intern - Fanatec | Germany | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8801) |
-| Corsair | Working student HR | Germany | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8722) |
 | Crown Innovations | NAMS-2 Intern | Mountain View, United States | [Apply](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000129261260) |
 | Cummins | 2025 - Summer Intern Co-op Conversion | United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2416172) |
 | Cummins | 2026 - Student - School to work - Manufacturing | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430107) |
@@ -3193,7 +3191,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cummins | Data Transformation and Management - Intern | India | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2417610) |
 | Cummins | Engineering Intern | Mexico | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427549) |
 | Cummins | Finance Digitalization Intern | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431236) |
-| Cummins | Finance Intern | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431313) |
 | Cummins | Finance Intern- 6-Month Internship (Stage) | Italy | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428380) |
 | Cummins | HR Admin Intern | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431316) |
 | Cummins | Logistics Intern | Mexico | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427475) |
@@ -3239,7 +3236,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Egis Group | Stage - Chargé de projets Innovation (H/F) | Idf, France | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000128471269) |
 | Emerson Electric | Demo Engineer Intern | Hungary | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26003262) |
 | Emerson Electric | FAE Intern | China | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000702) |
-| Emerson Electric | Graduate Sales Engineer Intern | Republic Of | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26005219) |
 | Emerson Electric | Graduate Sales Engineer Intern | Taiwan | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004816) |
 | Emerson Electric | Intelligent Workflow Intern | Singapore | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006000) |
 | Emerson Electric | Intern - Total Rewards | Singapore | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006013) |
@@ -3310,7 +3306,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fortive | Intern - Sales Coordinator - Business Analyst | Saudi Arabia | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9945) |
 | Fortive | Marketing Intern | United Arab Emirates | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9530) |
 | Fortive | Service Intern (COOP) | Saudi Arabia | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8836) |
-| Garrett Motion | Buyer Intern | China | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14470) |
 | Garrett Motion | Garrett Engineering Internship | Czech Republic | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14492) |
 | Garrett Motion | Garrett Engineering Internship - E-Boosting | Czech Republic | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14288) |
 | Garrett Motion | Garrett Engineering Internship - FEA | Czech Republic | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14307) |
@@ -3386,7 +3381,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hologic | Internship in Process Engineering (12 months) | Costa Rica | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11620) |
 | Hologic | Internship in Systems Quality Assurance (12 months) | Costa Rica | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11764) |
 | Honeywell | Electrical Engineer - Summer 2026 Intern - Puerto Rico | Puerto Rico | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/122793) |
-| Honeywell | HR Intern m/f | Slovakia | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148082) |
 | Honeywell | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148811) |
 | Honeywell | Intern (Master's) (m/f/d) | Germany | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/135866) |
 | Honeywell | Intern - Engineering (Proposal & Estimation) | Netherlands | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/127105) |
@@ -3414,12 +3408,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Huxley | Software Engineer 1 | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/ComputerFutures3/101016513) |
 | IFS | Undergraduate Trainee - Employer Branding | Sri Lanka | [Apply](https://jobs.smartrecruiters.com/IFS1/744000115374969) |
 | IHG | Corporate Intern - F&B - Singapore - Able to start August 2026 | Singapore | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163857) |
-| IHG | Executive Office Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157797) |
 | IHG | Finance Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157793) |
 | IHG | Finance Internship - Six Senses Douro Valley | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/162144) |
 | IHG | Food & Beverage Intern - Six Senses Con Dao | Viet Nam | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/160327) |
 | IHG | Food & Beverage Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157790) |
-| IHG | Front Office Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157794) |
 | IHG | Front Office Internship- Kimpton Vividora | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161419) |
 | IHG | Guest Experience Internship - Kimpton Vividora | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/162236) |
 | IHG | Intern, Commercial - Thailand - Able to start July 2026 | Thailand | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163859) |
@@ -3427,7 +3419,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | IHG | Kitchen Internship | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161944) |
 | IHG | Marketing Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157796) |
 | IHG | Revenue & Reservations Internship | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161939) |
-| IHG | Rooms Division Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157798) |
 | IHG | Sales & Events Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157784) |
 | IHG | Student Trainees (Local) - InterContinental Hua Hin Resort | Thailand | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163754) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) |
@@ -3500,6 +3491,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kroll | Intern, Investigations Diligence and Compliance Specialist | Viet Nam | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013890) |
 | Kroll | Intern, Investigations Diligence and Compliance Specialist | Singapore | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013949) |
 | Kroll | Intern, Investigations Diligence and Compliance Specialist | Japan | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013272) |
+| Kroll | Intern, Investigations, Diligence and Compliance - Specialist | Ile-De-France, France | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014048) |
 | Kroll | Intern, Transaction Advisory Services | Germany | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014145) |
 | Kroll | Intern, Valuation Services | Italy | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013874) |
 | Kroll | Intern, Valuation Services | Ile-De-France, France | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21013701) |
@@ -3639,7 +3631,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nokia | Test Automation Designer Coop/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34529) |
 | Nokia | Test Developer Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35684) |
 | Nokia | Test Intern | Mexico | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37340) |
-| Nokia | Tools and Automation SW Dev Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606) |
 | Nokia | User Experience Designer Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35084) |
 | Nokia | User Experience Researcher Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35083) |
 | Nokia | Web Developer Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) |
@@ -3941,7 +3932,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCOR | Actuarial Intern | India | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4978) |
 | SCOR | Actuarial Intern | Singapore | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4221) |
 | SCOR | Advanced Analytics and Artificial Intelligence, Intern | Singapore | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4598) |
-| SCOR | Analyse de Modèles Stagiaire | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4934) |
 | SCOR | Analyse des Données Modèle Interne (Vie) Stagiaire | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4833) |
 | SCOR | Catastrophe Risk Intern | India | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4578) |
 | SCOR | Catastrophe Risk Intern | Singapore | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4564) |
@@ -3963,60 +3953,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCOR | Sustainable Insurance Internship | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4899) |
 | SCOR | Sustainable Investment Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4864) |
 | SCOR | Working Student Reinsurance | Germany | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5034) |
-| Seaspan | Intern, Accounting Operations (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8743) |
-| Seaspan | Intern, Business Analysis (4 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8739) |
-| Seaspan | Intern, Business Analyst (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8788) |
-| Seaspan | Intern, Business Technology Solution Technical (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8787) |
-| Seaspan | Intern, Business Technology Solutions (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8772) |
-| Seaspan | Intern, Capacity Planning (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8765) |
-| Seaspan | Intern, Co-Console Analyst ( 8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775) |
-| Seaspan | Intern, Communications (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8799) |
-| Seaspan | Intern, Configuration and Data Management (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766) |
-| Seaspan | Intern, Design Build (4 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8763) |
-| Seaspan | Intern, Detail Design (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8786) |
-| Seaspan | Intern, Detail Design Mechanical (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8796) |
-| Seaspan | Intern, Digital Ship (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) |
-| Seaspan | Intern, Digital Ship Analytics (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769) |
-| Seaspan | Intern, Digital Ship NLP (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755) |
-| Seaspan | Intern, Digital Shipyards Architecture (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812) |
-| Seaspan | Intern, Electrical Engineering (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8789) |
-| Seaspan | Intern, Employee Relations (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8800) |
-| Seaspan | Intern, Energy Management (4 or 8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) |
-| Seaspan | Intern, Engineering Quality (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803) |
-| Seaspan | Intern, Environment (4 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8738) |
-| Seaspan | Intern, Facilities Operations (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8795) |
-| Seaspan | Intern, Facilities Services (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8778) |
-| Seaspan | Intern, Finance (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8813) |
-| Seaspan | Intern, Finance (Controllership) (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8751) |
-| Seaspan | Intern, Finance (Corporate Governance and Tax) (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8783) |
-| Seaspan | Intern, Innovation (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8753) |
-| Seaspan | Intern, Logistics Support Analysis (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8782) |
-| Seaspan | Intern, Marine Operations (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8732) |
-| Seaspan | Intern, Master Scheduling (4 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8798) |
-| Seaspan | Intern, Process Management (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8767) |
-| Seaspan | Intern, Production Support (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8801) |
-| Seaspan | Intern, Program Finance (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8797) |
-| Seaspan | Intern, Program Finance Navy (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8768) |
-| Seaspan | Intern, Program Lead-MPI (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8815) |
-| Seaspan | Intern, Program Services (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8737) |
-| Seaspan | Intern, Project Engineering (4 or 8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8722) |
-| Seaspan | Intern, Quality Assurance (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8719) |
-| Seaspan | Intern, Quality Control & Accuracy Control (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8721) |
-| Seaspan | Intern, Revenue Accounting (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8793) |
-| Seaspan | Intern, Ship Acceptance (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8723) |
-| Seaspan | Intern, Ship Completions Planning (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8736) |
-| Seaspan | Intern, Supply Chain (8 Month) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8791) |
-| Seaspan | Intern, Supply Chain (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8771) |
-| Seaspan | Intern, Supply Chain CAT-D (4 or 8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8814) |
-| Seaspan | Intern, Supply Chain Project Management (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8773) |
-| Seaspan | Intern, Systems Analyst (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792) |
-| Seaspan | Intern, Talent Acquisition & Global Mobility (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8749) |
-| Seaspan | Intern, United Way Campaign Associate (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8729) |
-| Seaspan | Intern, Welding Centre of Excellence (COE) Lab (4 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8733) |
-| Seaspan | Intern, Welding Engineering (8 months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8708) |
 | ServiceNow | Intern - Marketing Associate | Australia | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000130359664) |
 | ServiceNow | ServiceNow Futures Summit - SWE Experience | Florida, United States | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) |
-| Sherwin-Williams | 2026 Industrial Engineering CI Co-Op | Brecksville, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2612482) |
 | Sherwin-Williams | 2027 R&D Product Engineering Co-Op | Brecksville, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2613523) |
 | Sherwin-Williams | HR Administration Internship | Italy | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2614004) |
 | Sherwin-Williams | Intern R&D | Netherlands | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611238) |
@@ -4035,7 +3973,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sinclair | News intern | Mobile, AL, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16368) |
 | Sinclair | News Intern | South Bend, IN, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16340) |
 | Sinclair | News Intern | Birmingham, AL, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16324) |
-| Sinclair | News Intern | Steubenville, OH, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16001) |
 | Sinclair | News Intern | Macon, GA, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/15970) |
 | Sinclair | News Intern | Pensacola, FL, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/15874) |
 | Sinclair | News Intern | Charleston, SC, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/15842) |
@@ -4085,10 +4022,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SOMFY Group | Alternance - User researcher (H/F) | Auvergne-Rhône-Alpes, France | [Apply](https://jobs.smartrecruiters.com/somfygroup/744000123246429) |
 | SOMFY Group | Alternance Chargé de missions douanes (H/F) | Auvergne-Rhône-Alpes, France | [Apply](https://jobs.smartrecruiters.com/somfygroup/744000128665104) |
 | SOMFY Group | Stage - Assistant en communication et évènementiel H/F | Auvergne-Rhône-Alpes, France | [Apply](https://jobs.smartrecruiters.com/somfygroup/744000127902136) |
-| Standard Aero | 2026 Machinist Student/Intern | Hillsboro, OH, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7934) |
 | Standard Aero | EH&S Intern | Houston, TX, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9563) |
 | Standard Aero | Intern | Ireland | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/8039) |
-| Stantec | Architecture Intern - Buildings (Summer 2026) | Atlanta, GA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006286) |
 | Stantec | Architecture Student - Buildings (Fall 2026) - 4-12 Month Term | Yellowknife, NT, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005975) |
 | Stantec | Bridge/Structural Engineering Intern - Transportation (Fall 2026) | Denver, CO, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006049) |
 | Stantec | Building Science Co-op Student - Fall 2026 | Ottawa, ON, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005868) |

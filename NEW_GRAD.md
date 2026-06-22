@@ -21,8 +21,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Grad position | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-position_R165364) |
 | Intermountain Healthcare | New Grad RN Med/Surg | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-RN-Med-Surg_R165186-1) |
 | Intermountain Healthcare | New Grad RN- Telemetry | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-RN--Telemetry_R154600) |
+| Intertek | Caleb Brett - Entry-Level Petroleum Inspector | St Louis, MO, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15100) |
+| Intertek | Entry-Level Field Technician - Construction Materials Testing | Toa Baja, PR, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15101) |
 | MaineGeneral Health | 1 West - Med/Surg Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-1-West---Med-Surg-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R16537) |
 | Marsh | Client Relationship Management - Analyst (New Graduate) | Muscat Salam | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Muscat---Salam/Client-Relationship-Management---Analyst--New-Graduate-_R_354442-1) |
+| Securitas | Entry Level Security Officer | Plainfield, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171827) |
 | Takeda | Entry Level Medical Screener | USA In Fort Wayne Getz Rd | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---IN---Fort-Wayne---Getz-Rd/Entry-Level-Medical-Screener_R0182971-1) |
 | The Boeing Company | Systems Engineer (Entry-Level) | USA Schriever Sfb, CO / USA Colorado Springs, CO | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Schriever-SFB-CO/Systems-Engineer--Entry-Level-_JR2026512739-1) |
 | The Boeing Company - external_subsidiary | Systems Engineer (Entry-Level) | USA Schriever Sfb, CO / USA Colorado Springs, CO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Schriever-SFB-CO/Systems-Engineer--Entry-Level-_JR2026512739) |
@@ -88,7 +91,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000132914969) |
 | UC Health | RN & New Graduate Nurse Hiring Event for Med-Surg Specialty Units | Cincinnati, OH, United States | [Apply](https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23314) |
 | Weatherford | Field Engineer - NextGen Graduate Program | Thailand | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104983) |
-| WSP | Early Career Plumbing Engineer | Los Angeles, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89359) |
 | AtkinsRéalis | Project Coordinator New Graduate | Ca.on.mississauga.2251 Speakman Drive | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Project-Coordinator-New-Graduate_R-148181) |
 | AtkinsRéalis | Project Engineering Coordinator New Graduate | Ca.on.mississauga.2251 Speakman Drive | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Project-Engineering-Coordinator-New-Graduate_R-148180) |
 | AutoNation | Entry Level/ Express Auto Service Technician at Toyota Spokane - Pay $21+ | Autonation Toyota Spokane Valley | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Spokane-Valley/Entry-Level--Express-Auto-Service-Technician-at-Toyota-Spokane---Pay--21-_JR2026143919) |
@@ -369,7 +371,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry Level Field Technician I - Construction Materials Testing | Plymouth, MI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14731) |
 | Intertek | Entry Level Technicians - HVAC - 2nd and 3rd Shift | Cortland, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14471) |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Jefferson, LA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15065) |
-| Intertek | Entry-Level Field Technician - Construction Materials Testing | Charlotte, NC, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15000) |
 | Intertek | Entry-Level Geotechnical Project Coordinator / Geologist | Austin, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15016) |
 | Intertek | Horizontal Transmission Acoustical Technician - Entry level | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15032) |
 | Intertek | Technician - Entry-level, Building and Construction | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14697) |
@@ -432,7 +433,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86511) |
 | WSP | Early Career Electrical Engineer - Buildings | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85821) |
 | WSP | Early Career Environmental Planner | Saint Louis, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87288) |
-| WSP | Early Career Environmental Stormwater BMP (Best Management Practices) Inspector | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88624) |
+| WSP | Early Career Environmental Scientist | Baltimore, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86418) |
 | WSP | Early Career Fire and Life Safety Engineer | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88720) |
 | WSP | Early Career Fire and Life Safety Engineer in Training (Active-Duty Service Member Only) DOD SkillBridge Program | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88974) |
 | WSP | Early Career Geologist | Austin, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86613) |
@@ -448,10 +449,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Structural Engineer (Renewables) | Cottonwood Heights, UT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80975) |
 | WSP | Early Career Structural Engineer - Bridge Inspection - Assistant Team Leader | Richmond, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88735) |
 | WSP | Early Career Substation Electrical Engineer | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86678) |
+| WSP | Early Career Substation Electrical Engineer | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85390) |
 | WSP | Early Career Substation Electrical Engineer | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80398) |
 | WSP | Early Career Welding Engineer | Jacksonville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88550) |
 | WSP | On-Call Early Career Archaeological Field Technician | Albuquerque, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88722) |
-| WSP | Temporary Early Career Environmental Scientist | Nashville, TN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88858) |
 | American Electric Power | Engineer Associate (Entry-Level) - System Performance Analysis (SPA) | New Albany, OH | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Engineer-Associate--Entry-Level----System-Performance-Analysis--SPA-_R12764) |
 | Anduril | 2026 Early Career Finance Coordinator | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161421007?gh_jid=5161421007) |
 | Anduril | 2026 Human Resources/People Analyst - Early Career Rotation Program | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5159933007?gh_jid=5159933007) |
