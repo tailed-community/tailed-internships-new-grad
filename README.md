@@ -48,6 +48,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BMO | Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803-3) |
 | BMO (Campus) | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1) |
 | BMO (External) | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622) |
+| Brooks Running | Marketing Intern BeneLux (Start Date September 2026) | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/8788d1d9-ffc7-4f7d-8e69-0c5f129847e7) |
 | Carnegie Mellon University | Assistant Director of Event Operations - Cohon University Center  - Division of Student Affairs | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Assistant-Director-of-Event-Operations---Cohon-University-Center----Division-of-Student-Affairs_2024732) |
 | Carnegie Mellon University | Summer Research Intern - College of Engineering - Electrical and Computer Engineering | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690) |
 | Catalent | Maydm Intern - Cell Line Development | Madison, WI | [Apply](https://catalent.wd1.myworkdayjobs.com/external/job/Madison-WI/Maydm-Intern---Cell-Line-Development_0094342) |
@@ -951,7 +952,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | Application Support Engineer Internship Program (ITIL, SQL, Scripting ) (He/She/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Application-Support-Engineer-Internship-Program--ITIL--SQL--Scripting----He-She-They-_R00336685) |
 | Accenture | Project Management Officer (PMO) Intern | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/Project-Management-Officer--PMO--Intern_R00336716) |
 | Accenture | Song: Visual Design Intern (Part-Time = DPČ, Prague) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Song--Visual-Design-Intern--Part-Time---DP--Prague-_R00336208) |
-| ActiveCampaign | Summer 2026 Software Engineering Internship | Krakow | [Apply](https://jobs.lever.co/activecampaign/76410728-69eb-418f-afa3-4b296d82c914) |
 | Adtran | Co-Op I | Adtran Huntsville Hq | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Adtran-Huntsville-HQ/Co-Op-I_R005160) |
 | AECOM | Structural Technician II | Romania | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000132658482) |
 | Agilent Technologies | Intern - Gas Phase Division | US-De-Wilmington | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Gas-Phase-Division_4038504) |
@@ -10148,13 +10148,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Westlake | 2026 Intern - Electrical Engineer | US Houston, TX | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Electrical-Engineer_R30242) |
 | Westlake | 2026 Intern - Mechanical Engineer | US Houston, TX | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240) |
 | Wintermute | DeFi Algorithmic Trading Internship | Singapore | [Apply](https://jobs.lever.co/wintermute-trading/f512e856-a6e8-4aac-bae1-430b2ed0ea57) |
-| Wintermute | Summer 2026 Internship at Wintermute Ventures | New York / Singapore / Remote | [Apply](https://jobs.lever.co/wintermute-trading/bc6834fe-e3ad-4c09-a4db-2fce3b13ee8f) |
 | Withum | IT Internship 2026 | California, United States | [Apply](https://job-boards.greenhouse.io/campusopportunities/jobs/8390817002) |
 | Wood Mackenzie | Student Researcher  (Part-Time) - Beijing | Beijing, CN | [Apply](https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Beijing-CN/Student-Researcher---Part-Time----Beijing_JR2976-1) |
 | Workato | Intern, AI Engineering | California | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Workstream | Marketing Intern | Singapore | [Apply](https://job-boards.greenhouse.io/workstream/jobs/5980753004) |
 | Wounded Warrior Project | Intern - Project Odyssey | Tacoma, WA | [Apply](https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Tacoma-WA/Intern---Project-Odyssey_R14198) |
-| Woven | Software Engineer, Arene Tooling (Internship) | Tokyo | [Apply](https://jobs.lever.co/woven-by-toyota/5d3711a5-e70a-4149-9abe-f33f2c6d8794) |
 | WPP Media | Creative Services is looking for interns | Denmark | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/4914736008) |
 | WPP Media | Digital Video & Audio Intern | The Netherlands | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5180483008) |
 | WPP Media | HR Internship | Malaysia | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5185946008) |
