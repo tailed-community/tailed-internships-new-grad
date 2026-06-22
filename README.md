@@ -40,6 +40,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Internship within Re-entry Analysis Methodology & Tool Improvements (d/f/m) | Immenstaad Am Bodensee | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-within-Re-entry-Analysis-Methodology---Tool-Improvements--d-f-m-_JR10421797) |
 | Airbus | Tehnolog Productie / Program internship | Brasov (30 Hermann) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Brasov-30-Hermann/Tehnolog-Productie---Program-internship_JR10422949-1) |
 | Airgas | STAGE - MAINTENANCE INDUSTRIELLE F/H | Richemont, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/France-Richemont/STAGE---MAINTENANCE-INDUSTRIELLE-F-H_R10083561-1) |
+| American Heart Association | Intern, Development & Community Events-Greater Philadelphia Area | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17700/intern%2c-development-%26-community-events-greater-philadelphia-area/job) |
+| American Heart Association | Intern, Southeast Community CPR-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17677/intern%2c-southeast-community-cpr-remote/job) |
 | American University | Administrative Support (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Administrative-Support--Student---FWS-_R4385) |
 | American University | Content Creator Ambassador (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Spring-Valley-Campus-Washington-DC/Content-Creator-Ambassador--Student-_R4386) |
 | American University | Interlibrary Services Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Interlibrary-Services-Assistant--Student-_R4366) |
@@ -163,6 +165,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Edwards Lifesciences | Digital Enablement Intern | Malaysia-Kuala Lumpur Bsc | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Digital-Enablement-Intern_Req-48781) |
 | Edwards Lifesciences | Intern, Data Governance | Malaysia-Kuala Lumpur Bsc | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Intern--Data-Governance_Req-48747) |
 | Edwards Lifesciences | Spain Internship Program, Construction Intern | Spain-Valencia Plant | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Spain-Valencia-Plant/Spain-Internship-Program--Construction-Intern_Req-48635) |
+| Emory University | Intern - School of Medicine Orthopaedics | Emory Ortho & Spine Flowery Br | [Apply](https://staff-emory.icims.com/jobs/167673/intern---school-of-medicine-orthopaedics/job) |
 | Faraday Future | Community Operations Intern | California, United States | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7778378003) |
 | Freudenberg Group | Intern Process Engineer (f/m/d) | Pinerolo | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Pinerolo/Intern-Process-Engineer--f-m-d-_R_00103851) |
 | Freudenberg Group | Mandatory Intern / Working Student in the field of Employer Branding & Personnel Marketing (f/m/d) | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Mandatory-Intern---Working-Student-in-the-field-of-Employer-Branding---Personnel-Marketing--f-m-d-_R_00103688) |
@@ -206,6 +209,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kenvue | Summer Intern, R&D | Shanghai | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-China-Shanghai-Shanghai/Summer-Intern--R-D_2607046583W) |
 | Kenvue | Supply Chain Co-op (Drexel) | Summit, United States | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-New-Jersey-Summit/Supply-Chain-Co-op--Drexel-_2607045515W-1) |
 | Kimberly-Clark | Procurement Internship | Malaysia Petaling Jaya | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Malaysia---Petaling-Jaya/Procurement-Internship_886026-1) |
+| Kinaxis | Co-op/ Intern Software Engineer, Developer Framework | Not Specified | [Apply](https://careers-kinaxis.icims.com/jobs/34832/co-op--intern--software-engineer%2c-developer-framework/job) |
 | KLA - Search | Motion Control Student | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Motion-control-student_2637948-1) |
 | Loblaw Companies | Student Part Time Day | North York, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/700-Lawrence-Ave-W-North-York-ON/Student-Part-Time-Day_R2000676381) |
 | Loblaw Companies | Student, Franchise Part Time Day | Aylmer, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/657-John-St-N-Aylmer-ON/Student--Franchise-Part-Time-Day_R2000676454) |
@@ -238,6 +242,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Otis Worldwide | Intern, Quality (Long Term) | Merkez | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/MERKEZ/Intern--Quality--Long-Term-_20160189) |
 | Parsons | Co-op Trainee (Industrial Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Abha/Co-op-Trainee--Industrial-Engineering---Saudi-National-_R182316) |
 | Parsons | Traffic Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Traffic-Engineering-Intern_R181034) |
+| Persistent Systems | Intern - Hardware Engineer (Fall 2026) | New York, NY, United States | [Apply](https://careers-persistentsystems.icims.com/jobs/2270/intern---hardware-engineer-%28fall-2026%29/job) |
 | Philips | Acoustic Engineer- Internship | Shanghai | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Acoustic-Engineer--Internship_586215) |
 | Philips | Acoustic Engineer-Internship | Shanghai | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Acoustic-Engineer-Internship_586212) |
 | Philips | AI Transformation Intern | Beijing | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Beijing/AI-Transformation-Intern_586296) |
@@ -742,7 +747,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The New School | Mannes Performance and Ensemble, Student Assistant - FWS | I 55 West 13th Street | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/I---55-West-13th-Street/Mannes-Performance-and-Ensemble--Student-Assistant---FWS_JR108968) |
 | The Walt Disney Company | Creative Marketing Intern, Disney+ | Spain | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Madrid-Spain/Creative-Marketing-Intern--Disney-_10151756-1) |
 | UBC | Student Systems Coordinator | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Systems-Coordinator_JR24955-1) |
-| Uber | Business Development Intern, Warsaw | Pl-Warsaw | [Apply](https://university-uber.icims.com/jobs/159602/business-development-intern%2c-warsaw/job) |
 | UNHCR | PPH Intern | Brazil | [Apply](https://unhcr.wd3.myworkdayjobs.com/External/job/Sao-Paulo-Brazil/PPH-Intern_JR2667612-1) |
 | University of Arkansas | Non-Student Extra Help (Testing Services) | Uam \| Monticello Campus | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAM--Monticello-Campus/Non-Student-Extra-Help--Testing-Services-_R0087235-2) |
 | University of Arkansas | Social Media Intern | Fayetteville | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Social-Media-Intern_R0087212-2) |
@@ -2444,7 +2448,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BMO (External) | Data Engineer, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-1) |
 | BMO (External) | Transaction Coordinator, Corporate Real Estate - Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Transaction-Coordinator--Corporate-Real-Estate---Fall-2026--Co-op-Internship----4-Months_R260017904) |
 | BorgWarner | Manufacturing Engineering Intern | Izmir Türkiye | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Izmir---Trkiye/Manufacturing-Engineering-Intern_R2026-2348) |
-| By Light Professional IT Services | AI Intern | United States Remote | [Apply](https://jobs-bylight.icims.com/jobs/11083/ai-intern/job) |
 | Carnegie Mellon University | Senior Administrative Coordinator – Cohon University Center - Division of Student Affairs | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Senior-Administrative-Coordinator---Cohon-University-Center---Division-of-Student-Affairs_2024704) |
 | Cencora | Boots Apotheek Rheden zoekt een BBL-stagiaire apothekersassistent (24-36 uur) | Wemea > Netherlands > Boots Apotheek Rheden | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Boots-apotheek-Rheden/Boots-Apotheek-Rheden-zoekt-een-BBL-stagiaire-apothekersassistent--24-36-uur-_R2610407) |
 | Cencora | Intern | Wemea > Netherlands > Boots Apotheek Paauwenburg | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Boots-apotheek-Paauwenburg/Intern_R2610222) |
@@ -2648,7 +2651,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Wyoming | Hourly Pooled-SCROLL Student Lab Technician | Laramie, WY, United States | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261443) |
 | University System of New Hampshire | Olson Center Intern | University Of New Hampshire – Main Campus | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Olson-Center-Intern_JR8395) |
 | Valeo | Stage Ingénieur Informatique  au sein du service Test & Validation Electronique | Angers | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454) |
-| Vanasse Hangen Brustlin (VHB) | Transit and Rail Intern | Boston, MA, United States | [Apply](https://careers-vhb.icims.com/jobs/6100/transit-and-rail-intern/job) |
 | Viridien | Group Financial Reporting (FP&A) H/F - Internship 6 month | Massy, France | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Massy-France/Group-Financial-Reporting--FP-A--H-F---Internship-6-month_JR101347-1) |
 | Welocalize | Intern Project Manager | Barcelona / Spain / Home Office (greece) | [Apply](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Barcelona/Intern-Project-Manager_R0007725) |
 | Western Digital | Intern 2, Engineering | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000101558305) |
@@ -2955,7 +2957,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | UW Credit Union | Social Media and Brand Marketing Intern | Madison | [Apply](https://careers-uwcu.icims.com/jobs/6097/social-media-and-brand-marketing-intern/job) |
 | Valeo | CO-OP/INTERNS- DVS (DEVELOPMENT & SUPPORT) NEW POSITION | Rio Bravo | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--DVS--DEVELOPMENT---SUPPORT--NEW-POSITION_REQ2026071136) |
 | Valeo | CO-OP/INTERNS-MAINTENANCE | Rio Bravo | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS-MAINTENANCE_REQ2025058994) |
-| Vanasse Hangen Brustlin (VHB) | Transit and Rail High School Intern | Boston, MA, United States | [Apply](https://careers-vhb.icims.com/jobs/6097/transit-and-rail-high-school-intern/job) |
 | Veolia | Alternance - Ingénieur méthodes F/H | Normandie, France | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132151995) |
 | Veolia | Alternance - Refonte Intranet Normes IFRS, Contrôle Interne Finance & Finance Durable - H/F | Idf, France | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132176224) |
 | Veolia | Aqueduct Intern | Little Falls Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132270559) |
@@ -4726,7 +4727,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Enterprise Institute | Fall Intern: Editing Services | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2605/fall-intern%3a-editing-services/job) |
 | American Enterprise Institute | Fall Intern: Education Policy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2608/fall-intern%3a-education-policy/job) |
 | American Enterprise Institute | Fall Intern: Events | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2604/fall-intern%3a-events/job) |
-| American Enterprise Institute | Fall Intern: FREE Initiative | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2600/fall-intern%3a-free-initiative/job) |
+| American Enterprise Institute | Fall Intern: FREE Initiative | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2600/fall-intern%3a-free-initiative/job) |
 | American Enterprise Institute | Fall Intern: Housing Center | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2614/fall-intern%3a-housing-center/job) |
 | American Enterprise Institute | Fall Intern: Media Relations | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2602/fall-intern%3a-media-relations/job) |
 | American Enterprise Institute | Fall Intern: Military Strategy & US Defense Budget | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2632/fall-intern%3a-military-strategy-%26-us-defense-budget/job) |
@@ -4958,7 +4959,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Geosyntec Consultants | Environmental Engineering or Science Intern | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4396/environmental-engineering-or-science-intern/job) |
 | Geosyntec Consultants | Environmental Engineering or Science Intern/Co-Op - Fall 2026 | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4546/environmental-engineering-or-science-intern-co-op---fall-2026/job) |
 | Geosyntec Consultants | Geotechnical Engineering Intern | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4575/geotechnical-engineering-intern/job) |
-| Geosyntec Consultants | Geotechnical Engineering Intern – Spring or Summer 2026 | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4338/geotechnical-engineering-intern-%e2%80%93-spring-or-summer-2026/job) |
 | Glencore | IT Environments and Release Intern | London | [Apply](https://glencorecorp.wd3.myworkdayjobs.com/External/job/London/IT-Environments-and-Release-Intern_R200001611) |
 | GlobalFoundries | Intern - Customer Service | Ind Karnataka Bengaluru North | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Intern---Customer-Service_JR-2602043) |
 | Great American Insurance Company | Catastrophe Modeling & Data Analytics Intern (Fall 2026) | Oh (usa) | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102) |
@@ -4992,7 +4992,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HARMAN International | Supply Chain ESG & Compliance Analyst Intern | Northridge California, United States | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Supply-Chain-ESG---Compliance-Analyst-Intern_R-53404-2026) |
 | Heidelberg Materials | Working Student (f/m/d) Communication in Digital Transformations | Heidelberg | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Heidelberg/Working-Student--f-m-d--Communication-in-Digital-Transformations_JR10015735) |
 | HERE Technologies | Intern - FP&A Capital Planning | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81440/intern---fp%26a-capital-planning/job) |
-| HERE Technologies | Intern – FP&A Forecasting Process Improvement & AI Enablement | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81439/intern-%e2%80%93-fp%26a-forecasting-process-improvement-%26-ai-enablement/job) |
 | HERE Technologies | Procurement Intern – Sourcing Operations & Digital Enablement | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81444/procurement-intern-%e2%80%93-sourcing-operations-%26-digital-enablement/job) |
 | HERE Technologies | Treasury Intern (FX Exposure & Automation) | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81442/treasury-intern-%28fx-exposure-%26-automation%29/job) |
 | Hewlett Packard (HP) | Digital Transformation Intern | Argentina | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Buenos-Aires-Buenos-Aires-Argentina/Digital-Transformation-Intern_3158956) |
@@ -5054,7 +5053,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Keysight Technologies | R&D researcher intern | Denmark | [Apply](https://jobs.keysight.com/jobs/52842?lang=en-us&icims=1) |
 | Keysight Technologies | R&D Student Position - 6G Cellular Systems | Denmark | [Apply](https://jobs.keysight.com/jobs/52555?lang=en-us&icims=1) |
 | Keysight Technologies | Working Student (m/f/d) Quality Assurance Battery and Energy Solutions | Germany | [Apply](https://jobs.keysight.com/jobs/52762?lang=en-us&icims=1) |
-| Keysight Technologies | Working Student (m/f/d) Quality Assurance Charging Technologies | Germany | [Apply](https://jobs.keysight.com/jobs/52761?lang=en-us&icims=1) |
 | Keysight Technologies | Working student (m/f/d) Technical Video Content & Learning Products | Germany | [Apply](https://jobs.keysight.com/jobs/48149?lang=en-us&icims=1) |
 | Kimley-Horn | Civil Engineering Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/23271/civil-engineering-intern/job) |
 | Kimley-Horn | Land Surveyor Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/23265/land-surveyor-intern/job) |
@@ -5089,11 +5087,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Legrand | Manufacturing Engineering Intern | UK-Reading | [Apply](https://jobs-legrand.icims.com/jobs/9660/manufacturing-engineering-intern/job) |
 | Legrand | PMO Technology & Process Intern | West Hartford, CT, United States | [Apply](https://jobs-legrand.icims.com/jobs/10120/pmo-technology-%26-process-intern/job) |
 | Lennox International | Corporate Mktg & Communications Co-Op | Richardson, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/53182/corporate-mktg-%26-communications-co-op/job) |
-| Lennox International | Industrial Engineer Intern – Distribution Center / Warehouse Operations | IL, United States | [Apply](https://uscareers-lennox.icims.com/jobs/52937/industrial-engineer-intern-%e2%80%93-distribution-center---warehouse-operations/job) |
 | Lennox International | IT Co-Op | Stuttgart, AR, United States | [Apply](https://uscareers-lennox.icims.com/jobs/52439/it-co-op/job) |
 | Live Nation Entertainment | Stage Manager - House of Blues New Orleans | New Orleans, LA, United States | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-Orleans-LA-USA/Stage-Manager---House-of-Blues-New-Orleans_JR-90888) |
-| LMI | Mechanical Engineering Analyst Intern - Summer 2026 | United States Remote | [Apply](https://careers-lmi.icims.com/jobs/14151/mechanical-engineering-analyst-intern---summer-2026/job) |
-| LMI | Software Engineering Intern (USPS) - Summer 2026 | Tysons, VA, United States / Washington, DC, United States | [Apply](https://careers-lmi.icims.com/jobs/13493/software-engineering-intern-%28usps%29---summer-2026/job) |
 | LMI | Supply Chain Management Intern – Critical Rare Earth Materials (Summer 2026) | Tysons, VA, United States | [Apply](https://careers-lmi.icims.com/jobs/13874/supply-chain-management-intern-%e2%80%93-critical-rare-earth-materials-%28summer-2026%29/job) |
 | Loblaw Companies | Carvery Student Part Time Evening | Oakville, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/493-Dundas-Street-West-Oakville-ON/Carvery-Student-Part-Time-Evening_R2000673120) |
 | Loblaw Companies | Pharmacy Intern | Kenora, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/534-Park-St-Kenora-ON/Pharmacy-Intern_R2000672852) |
@@ -5144,7 +5139,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | MultiCare Health System | Pharmacy Intern Year 4 - Per Diem | Not Specified | [Apply](https://multicare.wd1.myworkdayjobs.com/multicare/job/Yakima-Washington/Pharmacy-Intern-Year-4---Per-Diem_JR75866) |
 | Nidec | Mechanical Engineer Co-op/Intern | North America / United States / Missouri / St. Louis Ccp, MO | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---CCP-MO/Mechanical-Engineer-Co-op-Intern_R0016161) |
 | Nidec | Software Engineer Co-Op | North America / United States / Missouri / St. Louis Wpe, MO | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
-| NV5 Global | Intern - Mechanical/Plumbing Engineering | Irvine, United States | [Apply](https://careers-nv5.icims.com/jobs/12202/intern---mechanical-plumbing-engineering/job) |
 | NV5 Global | Transmission Line Design Intern | San Diego, United States | [Apply](https://careers-nv5.icims.com/jobs/12098/transmission-line-design-intern/job) |
 | NV5 Global | Transportation Engineer Student Intern | Jacksonville, FL, United States | [Apply](https://careers-nv5.icims.com/jobs/11784/transportation-engineer-student-intern/job) |
 | NV5 Global | Transportation Engineer Student Intern | Alachua, FL, United States | [Apply](https://careers-nv5.icims.com/jobs/11783/transportation-engineer-student-intern/job) |

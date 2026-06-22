@@ -16,6 +16,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Draper | Entry Level RF Engineer | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626) |
 | Gartner | Sales Development Graduate Program | London | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/London/Sales-Development-Associate_87623) |
 | GE Vernova - vernova_externalsite | Part Sales Specialist - Early Career Trainee | Riyadh Sa 11 / Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh-SA-11/Part-Sales-Specialist---Early-Career-Trainee_R5042833-2) |
+| General Dynamics Mission Systems | ASIC FPGA Engineer – Entry Level | Bloomington, MN, United States | [Apply](https://careers-gdms.icims.com/jobs/73210/asic-fpga-engineer-%e2%80%93-entry-level/job) |
+| General Dynamics Mission Systems | Entry Level Software Engineer | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/73193/entry-level-software-engineer/job) |
 | Intermountain Healthcare | New Grad position | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-position_R165364) |
 | Intermountain Healthcare | New Grad RN Med/Surg | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-RN-Med-Surg_R165186-1) |
 | Intermountain Healthcare | New Grad RN- Telemetry | Good Samaritan Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Good-Samaritan-Hospital/New-Grad-RN--Telemetry_R154600) |
@@ -182,9 +184,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) |
 | Figma | Inside Sales Representative - Early Career (2026) | CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004) |
 | Gannet Fleming | Entry Level Water Engineer | Los Angeles, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14301/entry-level-water-engineer/job) |
-| General Dynamics Mission Systems | Entry Level Software Engineer | Pittsburgh, PA, United States | [Apply](https://careers-gdms.icims.com/jobs/73179/entry-level-software-engineer/job) |
 | General Dynamics Mission Systems | Entry Level Software Engineer | Manassas, VA, United States | [Apply](https://careers-gdms.icims.com/jobs/73140/entry-level-software-engineer/job) |
-| General Dynamics Mission Systems | Software Engineer – Entry Level | Pittsburgh, PA, United States | [Apply](https://careers-gdms.icims.com/jobs/73178/software-engineer-%e2%80%93-entry-level/job) |
 | HNTB - hntb_university_careers | 2026 New Grad Field Civil Engineer I | Salt Lake City, UT | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Salt-Lake-City-UT/XMLNAME-2026-New-Grad-Field-Civil-Engineer-I_R-28722) |
 | HNTB - hntb_university_careers | New Grad Civil Engineer I | CA (figueroa Street) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Los-Angeles-CA-Figueroa-Street/New-Grad-Civil-Engineer-I_R-30525) |
 | Intermountain Healthcare | New Graduate Registered Nurse Oncology | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Graduate-Registered-Nurse-Oncology_R146204) |
@@ -538,7 +538,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Submarine Insulation Installer - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17314/submarine-insulation-installer---entry-level/job) |
 | General Dynamics | Submarine Mechanic / Machinist - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18254/submarine-mechanic---machinist---entry-level/job) |
 | General Dynamics | Welder - Entry Level | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/19313/welder---entry-level/job) |
-| General Dynamics Mission Systems | Electrical Engineer - Entry Level | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/71949/electrical-engineer---entry-level/job) |
 | General Dynamics Mission Systems | Electrical Engineer – Entry Level [On Site] | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72771/electrical-engineer-%e2%80%93-entry-level-%5bon-site%5d/job) |
 | General Dynamics Mission Systems | Electrical Integration Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72960/electrical-integration-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Entry Level Infrastructure Hardware Systems Engineer | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72936/entry-level-infrastructure-hardware-systems-engineer/job) |
