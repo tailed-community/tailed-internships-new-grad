@@ -43,7 +43,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN - Pediatric ICU | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Pediatric-ICU_333335) |
 | Cleveland Clinic | New Grad RN Resident - Orthopaedic and Spine | Lutheran Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Resident---Orthopaedic-and-Spine_309676) |
 | DriveTime | Automotive Tech - Entry Level | Pa 19067 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1381-S-Pennsylvania-Ave-Morrisville-PA-19067/Automotive-Tech---Entry-Level_R15775) |
-| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133110959) |
 | KION Group | Electrical Controls Engineer (New Graduate - Early Career) | Grand Rapids, MI, United States / Wauwatosa, WI, United States / Henrietta, NY, United States | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Electrical-Controls-Engineer--New-Graduate---Early-Career-_JR-0093044) |
 | KION Group - kiongroup | Electrical Controls Engineer (New Graduate - Early Career) | Grand Rapids, MI, United States / Wauwatosa, WI, United States / Henrietta, NY, United States | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Electrical-Controls-Engineer--New-Graduate---Early-Career-_JR-0093044-1) |
 | Sargent & Lundy | Mechanical Engineer 1 (Entry-Level) - Nuclear | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24964/mechanical-engineer-1-%28entry-level%29---nuclear/job) |
@@ -60,8 +59,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Caterpillar | Entry Level Manufacturing Engineer | Texas | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Channelview-Texas/Entry-Level-Manufacturing-Engineer_R0000370297-2) |
 | Draper | Program Finance Analyst - Entry level | Cambridge, MA / Pittsfield, MA / St. Petersburg, FL / Huntsville, AL / Reston, VA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Program-Finance-Analyst---Entry-level_JR002572) |
 | Eurofins | Entry Level - In vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132928269) |
-| Eurofins | Entry Level Scientist | Portage, MI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133083001) |
-| Eurofins | Entry Level Scientist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132921056) |
 | Globus Medical | Entry Level Associate Neurophysiologist (Parkersburg, WV) | West Virginia | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/West-Virginia/Entry-Level-Associate-Neurophysiologist--Parkersburg--WV-_JR106957-1) |
 | Globus Medical | Entry-Level Associate Neurophysiologist (Chicago North) | Illinois / Chicago, IL | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Illinois/Entry-Level-Associate-Neurophysiologist--Chicago-North-_JR106735-2) |
 | Globus Medical | Entry-Level Associate Neurophysiologist (Medford, OR) | Oregon | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Oregon/Entry-Level-Associate-Neurophysiologist--Medford--OR-_JR106913-1) |
@@ -344,7 +341,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | Engine Workshop Technician - Entry Level | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430808) |
 | Cummins | Entry Level Parts Associate | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430805) |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) |
-| Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131547069) |
 | Eurofins | Entry Level-Lab Technician (Weds-Sun), Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131910619) |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) |
 | EXP | Marketing Assistant (Entry Level) - Proposals | San Diego, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112080) |
