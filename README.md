@@ -2724,7 +2724,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brevian | UX Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/brevian-careers/jobs/d2edb4e6-e22f-4ac4-98db-4be851b35e7a) |
 | CAE | C-FIN-300 Treasury Analyst Intern | Montreal (st. Laurent) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-300-Treasury-Analyst-Intern_122380) |
 | CalAmp | Intern, Product Management - Carlsbad CA (Summer 2026) | Carlsbad, United States | [Apply](https://careers-calamp.icims.com/jobs/4349/intern%2c-product-management---carlsbad-ca-%28summer-2026%29/job) |
-| Camlin | Summer Internship - Finance and Business Operations | Lisburn, United Kingdom | [Apply](https://ats.rippling.com/camlin-careers/jobs/4bbcc784-1ab2-4fcc-a505-1892b0a2d1a7) |
 | Caterpillar | Embedded Software Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Embedded-Software-Intern_R0000375307) |
 | Caterpillar | Supply Chain Intern | Shanghai | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Supply-Chain-Intern_R0000370549) |
 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market) | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7751549003?gh_jid=7751549003) |
