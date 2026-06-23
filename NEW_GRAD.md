@@ -16,6 +16,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fresenius Medical Care | New Graduate Nurse | Knoxville, TN | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Knoxville-TN/New-Graduate-Nurse_R0242549) |
 | General Dynamics | Entry Level Ship Signatures Structural Acoustic Engineer | New London, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/19505/entry-level-ship-signatures-structural-acoustic-engineer/job) |
 | Intermountain Healthcare | New Grad RN 3SE Children's Medical Unit | Intermountain Health Primary Childrens Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/New-Grad-RN-3SE-Children-s-Medical-Unit_R175518) |
+| Intertek | Entry-Level Field Technician - Construction Materials Testing | San Antonio, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15125) |
 | Moog | 2nd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-2nd-Shift-Entry-Level-Machinist_R-26-18520) |
 | NXP Semiconductors | Equipment Engineer - Entry Level | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer---Entry-Level_R-10063488) |
 | Olsson | Entry-Level Civil Engineer - Data Center | Denver, CO / Des Moines, IA / Lincoln, NE / Loveland, CO / Omaha, NE / Overland Park, KS / Phoenix, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5275707008) |
@@ -28,6 +29,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry Level Software Engineer | USA Tinker Afb, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer_JR2026511280) |
 | The Boeing Company - external_subsidiary | Entry-Level Electrical / Wire Harness Assembly Technician | USA Mesa, AZ | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013-2) |
 | The Boeing Company - external_subsidiary | Supply Chain Specialist (Entry Level) | USA San Antonio, TX / United States Remote | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---San-Antonio-TX/Supply-Chain-Specialist--Entry-Level-_JR2026510477) |
+| WSP | Early Career Bridge Inspection Engineer - Assistant Team Leader | Mooresville, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89586) |
 | Avnet | EMEA Engineering Graduate Program (m/f/d) | Hungary | [Apply](https://avnet.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/EMEA-Engineering-Graduate-Program--m-f-d-_JR-021999) |
 | Barr | Water Resources Engineer – Entry Level (Hybrid) | Calgary, AB | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Calgary-AB/Water-Resources-Engineer---Entry-Level--Hybrid-_R-102091) |
 | Cleveland Clinic | New Grad RN Resident – Emergency Department (ED) | Marymount Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Emergency-Department--ED-_342738-1) |
@@ -311,7 +313,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Memorial Hermann | New Grad Respiratory Therapist - Respiratory Care Residency Program - Fall 2026/Spring 2027 | System Services Building West | [Apply](https://memorialhermann.wd5.myworkdayjobs.com/external/job/System-Services-Building-West/New-Grad-Respiratory-Therapist---Respiratory-Care-Residency-Program_100179756) |
 | Nightwing Intelligence Solutions | Logistics Specialist-Entry Level | Sterling, VA | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Logistics-Specialist-Entry-Level_JR101780) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Nashville / Murfreesboro / Franklin / Spring Hill, TN | Nashville | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Nashville/Field-Service-Technician--Entry-Level----Nashville---Murfreesboro---Franklin---Spring-Hill--TN_R000153535) |
-| Securitas | Security Officer - Entry Level | Gary, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171626) |
 | Takeda | Entry Level Plasma Center Technician - Phlebotomist | USA Ga Snellville | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---Snellville/Entry-Level-Plasma-Center-Technician---Phlebotomist_R0182360) |
 | The Boeing Company | Entry Level Supply Chain Specialist | USA Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Supply-Chain-Specialist_JR2026514387-1) |
 | Vanasse Hangen Brustlin (VHB) | Entry Level NEPA Planner | Atlanta, GA, United States | [Apply](https://careers-vhb.icims.com/jobs/6021/entry-level-nepa-planner/job) |
@@ -357,7 +358,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Collabera | Entry Level Engineer | Princeton, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82343701) |
 | Collabera | Entry Level Engineer | Phoenix, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82246178) |
 | Comtech | Recruiter (Entry Level/Freshers) | Reston, VA, United States | [Apply](https://jobs.smartrecruiters.com/ComtechLLC2/110097018) |
-| Cummins | 2026 Early Career - Engine Field Service Technician - Apprentice | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422480) |
 | Cummins | Engine Workshop Technician - Entry Level | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430808) |
 | Cummins | Entry Level Parts Associate | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430805) |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) |
@@ -399,7 +399,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) |
 | NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) |
-| NOV | CNC Repair Technician (Entry Level) | Conroe, TX, United States | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/41853) |
 | onsemi | Entry level for onsemi Suzhou process engineering | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503864) |
 | RESPEC | Early Career Engineer | Cheyenne, WY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000125844120) |
 | RESPEC | Early Career Water Resources Engineer | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000103073456) |
@@ -413,7 +412,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officer | Grand Rapids, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170220) |
 | Securitas | Entry Level Security Officer ($18.00-$22.00/hour) | Boston, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171258) |
 | Securitas | Entry Level Security Officer - 3rd Shift | Verona, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171536) |
-| Securitas | Entry Level Security Officer - Part Time | Brazil, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171487) |
 | Securitas | Entry Level Security Officer - Part Time | Columbus, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171484) |
 | Securitas | Entry Level Security Officer's (Saugus, MA): $17.77/hour | Medford, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/161503) |
 | Securitas | Entry Level Security Officer- Now Hiring 2nd and 3rd Shifts | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167532) |
@@ -449,7 +447,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86511) |
 | WSP | Early Career Electrical Engineer - Buildings | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85821) |
 | WSP | Early Career Environmental Planner | Saint Louis, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87288) |
-| WSP | Early Career Environmental Scientist | Baltimore, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86418) |
 | WSP | Early Career Fire and Life Safety Engineer | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88720) |
 | WSP | Early Career Fire and Life Safety Engineer in Training (Active-Duty Service Member Only) DOD SkillBridge Program | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88974) |
 | WSP | Early Career Geologist | Austin, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86613) |
@@ -467,7 +464,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Substation Electrical Engineer | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86678) |
 | WSP | Early Career Substation Electrical Engineer | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85390) |
 | WSP | Early Career Substation Electrical Engineer | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80398) |
-| WSP | Early Career Welding Engineer | Jacksonville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88550) |
 | WSP | On-Call Early Career Archaeological Field Technician | Albuquerque, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88722) |
 | Anduril | 2026 Early Career Finance Coordinator | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161421007?gh_jid=5161421007) |
 | Anduril | 2026 Strategic Security Analyst - Early Career Rotation Program | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5159902007?gh_jid=5159902007) |
