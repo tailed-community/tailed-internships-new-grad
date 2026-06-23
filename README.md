@@ -28,6 +28,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | ACOLSL intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLSL-intern_JR10423432) |
 | Airbus | Artificial Intelligence for Flight Control Laws Internship | Bangalore Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Artificial-Intelligence-for-Flight-Control-Laws-Internship_JR10410536) |
 | Airbus | HR Staffing Intern | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/HR-Staffing-Intern_JR10423769) |
+| Aircall | Sales Partnerships Intern | Madrid Office | [Apply](https://jobs.lever.co/aircall/462b6547-d555-4e5f-b5a2-ea8c2de46101) |
 | Alcon | Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenproduktion | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenproduktion_R-2026-47974) |
 | ALFA LAVAL | Student Assistant Digital Experience | Kolding | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Kolding/Student-Assistant-Digital-Experience_JR0045719) |
 | Altar'd State | Fall 2026 Store Ops Internship | Knoxville, TN | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Fall-2026-Store-Ops-Internship_SOSJ11826) |
@@ -35,7 +36,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | Graduate Disability Support Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Disability-Support-Assistant--Student-_R4389) |
 | American University | Operations Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Operations-Assistant--Student-_R4388) |
 | Amgen | Undergrad Co-op – Knowledge Advancements and Insights (KAI) - Remote (Fall 2026) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Co-op---Knowledge-Advancements-and-Insights--KAI----Remote--Fall-2026-_R-248264) |
+| Anomali | Finance Intern (Remote TX) | Dallas, TX | [Apply](https://jobs.lever.co/anomali/e0175453-fea2-4899-af36-8a408544efa6) |
 | Applied Materials | Mechatronic Engineer (Internship) | Ita | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TrevisoITA/Mechatronic-Engineer--Internship-_R2612921) |
+| Arc'teryx Equipment | Intern Service & Allocations EMEA - 6 months (m/w/d) | Munich | [Apply](https://jobs.lever.co/arcteryx.com/4b05adfd-9630-48b9-9031-6b14129fc952) |
 | Ardian | Client Solutions Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Client-Solutions-Intern---September-2026---London_JR1002147) |
 | ASML | Electronics Intern | China | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Beijing-China/Electronics-Intern_J-00344838-1) |
 | ASML | Industrial Engineering \| Business Analytics internship: process improvement | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Industrial-Engineering---Business-Analytics-internship--process-improvement_J-00338100) |
@@ -93,6 +96,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dow Chemical Company | Local College Co-op - Environment, Health & Safety Remediation Organization | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op---Environment--Health---Safety-Remediation-Organization_R2066304) |
 | Dyson | Global Supply Chain Business Operations Intern (Data & AI) | Singapore Technology Centre | [Apply](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---Technology-Centre/Global-Supply-Chain-Business-Operations-Intern--Data---AI-_JR36850) |
 | Ecolab | Government Relation Intern | Sau Al Mintaqah Ash Sharqiyah Dammam | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Government-Relation-Intern_R00283229) |
+| Ekimetrics | Stage  2026 - Data Science et Machine Learning/AI practitionner (H/F/N) (50% client, 50% R&D) | Paris | [Apply](https://jobs.lever.co/ekimetrics/ba667ca2-3a36-4651-820f-fbd002d51429) |
 | Epicor | Procurement Specialist Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Procurement-Specialist-Intern_JR104706) |
 | Epicor | QA Developer Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/QA-Developer-Intern_JR104861) |
 | Evonik | Procurement Intern | São Paulo | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/So-Paulo/Procurement-Intern_R48329) |
@@ -135,6 +139,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Interac | People & Culture Intern, Talent Programs | Toronto | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/People---Culture-Intern--Talent-Programs_REQ-2285) |
 | Interac | Software Development Intern | Toronto | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272) |
 | International Rescue Committee (IRC) | Summer/Fall 2026: Development & Communications Intern (Unpaid) | CA USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Summer-Fall-2026--Development---Communications-Intern--Unpaid-_JR00003883) |
+| ispace | Ground Systems / Testing Infrastructure Intern | Japan | [Apply](https://jobs.lever.co/ispace-inc/4e510a34-b3ac-45c0-9c5b-bc77cba8ab79) |
 | Jabil | CNC Operator - Co-op | Clinton, MA | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/CNC-Operator---Co-op_J2454992-1) |
 | Jabil | Industrial Engineering Intern | Ho Chi Minh City | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/Industrial-Engineering-Intern_J2454921) |
 | JINGDONG | System Implementation Intern | USA-California-Fontana | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/USA-California-Fontana/System-Implementation-Intern_JR102899) |
@@ -192,6 +197,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Philips | Marketing Intern (Imaging Components) | Suzhou | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Marketing-Intern--Imaging-Components-_584177) |
 | Philips | Service Transformation PMO Intern (all genders) | Lodz | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Service-Transformation-PMO-Intern--all-genders-_585797) |
 | Philips | Supplier Engineering Intern | Suzhou | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Supplier-Engineering-Intern_585827) |
+| PlusAI | Full Stack Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
 | PricewaterhouseCoopers (PwC) | Advisory Intern – Operating Model Transformation FS - Milano | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Advisory-Intern---Operating-Model-Transformation-FS---Milano_645005WD-2) |
 | PricewaterhouseCoopers (PwC) | Business Development Intern | Debrecen / Budapest | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Debrecen/Business-Development-Intern_739160WD) |
 | PricewaterhouseCoopers (PwC) | FY 27 - Intern - Broader Assurance Service Pooling Team | Jakarta | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Intern---Broader-Assurance-Service-Pooling-Team_739262WD) |
@@ -692,7 +698,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Student Practicant HSE & Securitate Fizica - perioada limitata 2 luni | Brasov (30 Hermann) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Brasov-30-Hermann/Student-Practicant-HSE---Securitate-Fizica---perioada-limitata-2-luni_JR10423125) |
 | Airbus | Student practicant-determinata 2 luni | Brasov (30 Hermann) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Brasov-30-Hermann/Student-practicant-determinata-2-luni_JR10423126) |
 | Airbus | Working Student (d/f/m) Operational Quality Management & Business Improvement Support | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Working-Student--d-f-m--Operational-Quality-Management---Business-Improvement-Support_JR10405303) |
-| Aircall | Sales Partnerships Intern | Madrid Office | [Apply](https://jobs.lever.co/aircall/3882b9f6-284c-44bd-b8f4-c168723da66a) |
 | American Heart Association | Intern, Community Health-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17704/intern%2c-community-health-remote/job) |
 | American Heart Association | Intern, Development & Community Events-Arlington, VA | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17699/intern%2c-development-%26-community-events-arlington%2c-va/job) |
 | American Heart Association | Intern, Development & Community Events-Irving, TX | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17686/intern%2c-development-%26-community-events-irving%2c-tx/job) |
@@ -1193,7 +1198,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Alteryx | Revenue Operations (Insights & Analytics) Intern | California / United States Remote | [Apply](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Irvine-California/Revenue-Operations--Insights---Analytics--Intern_R12175) |
 | AMAROK Security | Internship, Vendor Services | Columbia | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6092589004) |
 | AMAROK Security | Research and Development Intern | Columbia | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6018661004) |
-| Ambi Robotics | Robotics QA Intern | California | [Apply](https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f) |
 | Ameren | Electrical Engineering Fall Co-Op | St. Louis, MO | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Electrical-Engineering-Fall-Co-Op_031877-1) |
 | Ameren | Strategic Sourcing Fall Co-Op | St. Louis, MO | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Strategic-Sourcing-Fall-Co-Op_031579-1) |
 | Ameresco | Energy Engineer Intern | United States Ohio Worthington | [Apply](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Ohio---Worthington/Energy-Engineer-Intern_R3867) |
@@ -4414,7 +4418,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Research Assistant - Comprehensive Cancer Center | College Of Medicine / Office Of Health Sciences | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Student-Research-Assistant_R152568-1) |
 | Oklahoma State Government | Choosing Childbirth Intern | Oklahoma County | [Apply](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Choosing-Childbirth-Intern_JR59210) |
 | Pennsylvania State University | Environmental Education Internship | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Environmental-Education-Internship_REQ_0000079356-1) |
-| Penumbra Inc | Marketing Operations High School Intern  T | Alameda, Canada | [Apply](https://jobs.lever.co/penumbrainc/0b451d06-fc46-4945-b409-40955299eef5) |
 | Pfizer | Internship – APAC RIO (Regulatory) | Malaysia Kuala Lumpur | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Malaysia---Kuala-Lumpur/Internship---APAC-RIO--Regulatory-_4959427) |
 | Philips | Internship: Amazon E-commerce Sales | Amsterdam / Eindhoven | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Amazon-E-commerce-Sales_585208) |
 | Philips | Internship: Information Security & Regulatory Compliance (Legal) | Best | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Information-Security---Regulatory-Compliance--Legal-_585415) |
@@ -7420,7 +7423,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | EisnerAmper | 2027 Tax Winter Intern - Private Client Services (PCS) | Minneapolis | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Minneapolis/XMLNAME-2027-Tax-Winter-Intern---Private-Client-Services--PCS-_Req-8510) |
 | Ekimetrics | 6 months Internship in Strategy & Data Science \| New York | New York | [Apply](https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24) |
 | Ekimetrics | Business Scientist Internship (6-month full-time) - Hong Kong - July 2026 | Hong Kong | [Apply](https://jobs.lever.co/ekimetrics/c7a0112a-4228-416f-8dd0-ff65fd0e87cc) |
-| Ekimetrics | Internship September 2026 - Agentic AI for Semi-Automating the Data Science Workflow | Paris | [Apply](https://jobs.lever.co/ekimetrics/fde67ae0-dd06-46af-8a3e-a6372107f88d) |
 | Ekimetrics | Stage Septembre 2026 Business Data Scientist - Marketing effectiveness(H/F/N) | Paris | [Apply](https://jobs.lever.co/ekimetrics/2ca92dbd-465d-4114-aced-526275bf5d1d) |
 | Ekimetrics | Strategy & Data Science Internship - Shanghai | Shanghai | [Apply](https://jobs.lever.co/ekimetrics/41495c5a-ce21-48b9-8afc-70c968822b42) |
 | Elanco | Intern - Packaging Development (m/f/d) | De Monheim | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/DE---Monheim/Intern---Packaging-Development--m-f-d-_R0025846) |
