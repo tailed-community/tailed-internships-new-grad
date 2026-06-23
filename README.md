@@ -66,6 +66,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Carrier Global | Homestead High School Career Program - Inside Sales – Co-op | Fort Wayne, IN | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Inside-Sales---Co-op_30209121) |
 | Caterpillar | Financial Intern | Lima | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lima-Lima/Financial-Intern_R0000377459) |
 | Celonis | Working Student Employment Law | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7767354003?gh_jid=7767354003) |
+| Centerfield | Data Science Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33) |
 | Chanel | Fashion - PR Intern | Tokyo | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Tokyo/Fashion---PR-Intern_JOBREQ00114182) |
 | Ciena | Braunschweig New Grad and Intern Applications | Germany Braunschweig | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Germany--Braunschweig/Braunschweig---Bonding-2026-Applications_R031174) |
 | Cincinnati Children’s Hospital and Medical Center | Student II - Rheumatology ( 7:30 -9:30am M - F ) | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Student-II---Rheumatology---7-30--9-30am-M---F--_JR222405) |
@@ -996,7 +997,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WVUMedicine | Student Rad Tech Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Student-Rad-Tech-Extern_JR26-38200) |
 | Xsolla | Performance Coaching Intern | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/e89dc0db-eea8-4d09-9caf-d20d2d7c0011) |
 | Zeiss | Working Student Automation Technology (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Automation-Technology--m-w-x-_JR_1050113-2) |
-| 1Password | Developer Intern, Open Source - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae) |
 | ABB | IS Intern - Fall 2026 | Saint-Laurent, QC, Canada | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/IS-Intern---Fall-2026_JR00037198) |
 | ABB | Quality Intern - Fall 2026 | Saint-Laurent, QC, Canada | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Quality-Intern---Fall-2026_JR00037193-1) |
 | Accor | Global Social Media & Influence Assistant - ECONOMY brands - 6 Months Internship | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000132816029) |
@@ -2114,7 +2114,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Recursion Pharmaceuticals | Interested in an internship? | United States Remote / Utah | [Apply](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026) |
 | Red Bull | Student Marketeer - Mersin Üniversitesi | Turkey | [Apply](https://jobs.smartrecruiters.com/RedBull/744000132587109) |
 | Rilla | Software Engineering Intern - 2027 Graduates | New York, United States | [Apply](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5) |
-| Rilla | Summer Intern - Generalist | New York, United States | [Apply](https://jobs.ashbyhq.com/rilla/450c6d61-15d8-40b8-8f72-bfbe49935831) |
+| Rilla | Summer Intern, Generalist | New York, United States | [Apply](https://jobs.ashbyhq.com/rilla/450c6d61-15d8-40b8-8f72-bfbe49935831) |
 | Rise8 | SkillBridge Intern - Growth | Remote | [Apply](https://job-boards.greenhouse.io/rise8/jobs/4723566007) |
 | Rise8 | SkillBridge Intern - Marketing | Remote | [Apply](https://job-boards.greenhouse.io/rise8/jobs/5004165007) |
 | Rivian and Volkswagen Group Technologies | Android Developer Intern - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) |
@@ -3142,7 +3142,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Société Générale de Surveillance (SGS) | Chemist - Trainee | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/SGS/744000132068879) |
 | Trimble | Intern Undergraduate - Technical | New Zealand Christchurch | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/New-Zealand---Christchurch/Intern-Undergraduate---Technical_R56463) |
 | Western Digital | Intern - AI Information Technology (Studying Master's Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000132065929) |
-| 1Password | Developer Intern, Client Secrets Management- Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c) |
 | ABB | R&D Intern | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/R-D-Intern_JR00036774-1) |
 | ABB | Recruitment Internship | Mexico | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Recruitment-Internship_JR00038388) |
 | AbbVie | Engineering Intern (6 months internship) | Italy | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013498198) |
@@ -5582,7 +5581,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RGA Reinsurance Company | Actuarial Intern | Kuala Lumpur | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/Malaysia-Kuala-Lumpur/Actuarial-Intern_J27673) |
 | Roche | HR Intern - Early in Career Intern (APAC) | Petaling Jaya | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/HR-Intern---Early-in-Career-Intern--APAC-_202606-113836) |
 | Rocket Lab USA | Senior Stage Fluids Engineer I | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7680875003) |
-| Root Access | Creative Marketing Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/root-access/c5921e24-54d0-49b1-82e4-8d3a72db788e) |
 | Root Access | Firmware / Embedded Engineer -- Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/root-access/ca7bc32d-5f10-49db-b569-2a7c94da484e) |
 | RTX | Internship - Fall 2026 - Structural Analyst | CA-ON-Mississauga-P22m01 ~ 1801 Courtney Park Dr ~ P22m01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Structural-Analyst_01832031-1) |
 | Sanofi | stage 3/6 mois – assurance qualité systèmes documentation | Aramon | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Aramon/stage-6-mois---assurance-qualit-systmes-documentation_R2859501) |
@@ -5644,7 +5642,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567) |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566) |
 | The Exploration Company | AIT- MGSE intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/42871307-d111-435a-ab39-9336274fe8b3) |
-| The Exploration Company | Engine Functional Propulsion Intern | Bordeaux, France | [Apply](https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c) |
+| The Exploration Company | Engine Functional Propulsion Intern | Bordeaux, France / Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c) |
 | The Exploration Company | Procurement Intern | West Coast, United States | [Apply](https://jobs.ashbyhq.com/the-exploration-company/ece4e3ad-73ac-4188-83d5-9a929ceae86e) |
 | The Exploration Company | Working Student- IT Operations | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) |
 | The Scion Group | Community Manager - Student Housing | Columbia | [Apply](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8581856002) |
