@@ -3092,7 +3092,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Summer student-warehouse associate | ON Creditview Rd (va Ho) | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Mississauga-ON---Creditview-Rd-VA-HO/Summer-student-warehouse-associate_R10093414) |
 | Airbus | ACOLP Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLP-Intern_JR10420315) |
 | Airbus | Internship Sustainability Performance Management (freiw. Praktikum) | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship-Sustainability-Performance-Management--freiw-Praktikum-_JR10410760) |
-| Al Warren Oil Company | Software Developer - Fall Internship 2026 | Illinois, United States | [Apply](https://apply.workable.com/al-warren-oil-company-inc/j/CAD4BF1C9C/) |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) |
 | Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) |
 | American Heart Association | Intern, Development & Community Events-Denver, CO | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17682/intern%2c-development-%26-community-events-denver%2c-co/job) |
@@ -3154,7 +3153,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | In Alexandria | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Alexandria/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0947185) |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | CA Santa Barbara | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Santa-Barbara/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0947131) |
 | CVS Health | Pharmacy Intern - Grad | Mn Dilworth | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Dilworth/Pharmacy-Intern---Grad_R0947388) |
-| DataVisor | AI/Machine Learning Engineering - Intern | California, United States | [Apply](https://apply.workable.com/datavisor-jobs/j/8EA46581E0/) |
 | Definity Financial | Reporting Specialist - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) |
 | Definity Financial | Test Automation Developer - Fall 2026 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9060) |
 | Desjardins | Internship, Administrative Assistant | Montréal / Lévis | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Adjoint-administratif-ou-adjointe-administrative_R2607676-1) |
