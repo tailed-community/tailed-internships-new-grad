@@ -64,6 +64,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Applied Materials | 2026 Fall Purchasing Co-op (Billerica, MA) | Billerica, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2026-Fall-Purchasing-Co-op--Billerica--MA-_R2622115) |
 | Applied Materials | 2026 Fall Quality Engineering Co-op (Billerica, MA) | Billerica, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2026-Fall-Quality-Engineering-Co-op--Billerica--MA-_R2622271) |
 | Applied Materials | Summer 2026 Market Analyst Internship- Bachelor's (Santa Clara, CA) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Market-Analyst-Internship--Bachelor-s--Santa-Clara--CA-_R2622482) |
+| Arc'teryx Equipment | Intern Talent Development & Culture Activation  EMEA (m/w/d) | Munich | [Apply](https://jobs.lever.co/arcteryx.com/820be270-0244-42a4-875c-cb825b96e404) |
 | Ardian | Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154) |
 | Ardian | Legal Corporate Stage - Janvier 2027 I Paris (M/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Legal-Corporate-Stage---Janvier-2027-I-Paris--M-F-_JR1001859) |
 | ASML | Co-Op - Optical Engineer (Internship) | Wilton, CT, United States | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00345627) |
@@ -100,6 +101,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CIBC | Supervision & Governance Co-op | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Supervision---Governance-Co-op_2613421) |
 | Ciena | Embedded Software Engineer Intern (12-16 months - September 2026) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) |
 | Ciena | Embedded Software Engineer Intern (4 months - September 2026) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) |
+| Cirrus Logic | Fall 2026 Co-Op - Embedded Software AI Intern | Texas | [Apply](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515) |
 | Cisco | Solutions Engineer Intern, Philippines | Philippines | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taguig-City-Philippines/Solutions-Engineer-Intern--Philippines_2011485) |
 | Citi | Client – Equity Research, Internship, São Paulo – Brazil, 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Equity-Research--Internship--So-Paulo---Brazil--2026_26962042) |
 | Citi | Internship - Corporate Banking, Intern, Gabon - Libreville 2026 | Libreville Gabon | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Libreville--Gabon/Internship---Corporate-Banking--Intern--Gabon---Libreville-2026_26956565) |
@@ -240,6 +242,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Automotive Student Assistant | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Automotive-Student-Assistant_R153717) |
 | Ohio State University | Student Immigration Specialist | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Immigration-Specialist_R152894-3) |
 | Pennsylvania State University | Research and Development Engineer Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000079641-2) |
+| Penumbra Inc | Videographer Intern T | Alameda, Canada | [Apply](https://jobs.lever.co/penumbrainc/cc2b4093-9f2b-414b-9dde-a542f8c2bc37) |
 | Pfizer | Intern | India Chennai | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Chennai/Intern_4959825) |
 | Philips | Government Affairs Intern | Beijing | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Beijing/Government-Affairs-Intern_585630) |
 | Philips | Intern - Clinical MRI Specialist | Bangalore | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Clinical-MRI-Specialist_583812) |
@@ -298,6 +301,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Power Drive Summer Intern | Auburn Hills, MI | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Auburn-Hills-MI/Power-Drive-Summer-Intern_REQ2026077319) |
 | Valeo | Quality Engineer Internship | Martos | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Martos/Quality-Engineer-Internship_REQ2026073346) |
 | Viatris | Device Engineering Systems Intern | Ireland | [Apply](https://viatris.wd5.myworkdayjobs.com/External/job/Northern-Cross-Dublin-Ireland/Device-Engineering-Systems-Intern_R5670413) |
+| Xsolla | Xsolla School – Student Application (Engineering) (copy) | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/384e323c-5b67-4846-8943-a8e7a03fe237) |
 | Zeiss | Working Student Structural Mechanics & Computation (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Working-Student-Structural-Mechanics---Computation--f-m-x-_JR_1050229-3) |
 | Zeiss | Working Student Supply Chain Management – Focus on Commodity Management in Strategic Purchasing Mechanics (m/f/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Supply-Chain-Management---Schwerpunkt-Warengruppenmanagement-im-strategischen-Einkauf-Mechanik--m-w-x-_JR_1048894-1) |
 | ABB | Mechanical engineer Intern | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Mechanical-engineer-Intern_JR00038743) |
@@ -324,7 +328,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | Graduate Disability Support Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Disability-Support-Assistant--Student-_R4389) |
 | American University | Operations Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Operations-Assistant--Student-_R4388) |
 | Amgen | Undergrad Co-op – Knowledge Advancements and Insights (KAI) - Remote (Fall 2026) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Co-op---Knowledge-Advancements-and-Insights--KAI----Remote--Fall-2026-_R-248264) |
-| Anomali | Finance Intern (Remote TX) | Dallas, TX | [Apply](https://jobs.lever.co/anomali/e0175453-fea2-4899-af36-8a408544efa6) |
 | Apex Companies | Summer Environmental Intern | Seattle, WA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5275059008) |
 | Applied Materials | Mechatronic Engineer (Internship) | Ita | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TrevisoITA/Mechatronic-Engineer--Internship-_R2612921) |
 | Arc'teryx Equipment | Intern Service & Allocations EMEA - 6 months (m/w/d) | Munich | [Apply](https://jobs.lever.co/arcteryx.com/4b05adfd-9630-48b9-9031-6b14129fc952) |
@@ -641,7 +644,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BMO | Information Coordinator - Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Information-Coordinator---Fall-2026--Co-op-Internship----4-Months_R260017803-3) |
 | BMO (Campus) | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1) |
 | BMO (External) | Database Analyst, Fall 2026 (Co-op/Internship) - 4 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622) |
-| Brooks Running | Marketing Intern BeneLux (Start Date September 2026) | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/8788d1d9-ffc7-4f7d-8e69-0c5f129847e7) |
+| Brooks Running | Marketing Intern BeneLux (Start Date August 2026) | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/8788d1d9-ffc7-4f7d-8e69-0c5f129847e7) |
 | Carnegie Mellon University | Assistant Director of Event Operations - Cohon University Center  - Division of Student Affairs | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Assistant-Director-of-Event-Operations---Cohon-University-Center----Division-of-Student-Affairs_2024732) |
 | Carnegie Mellon University | Summer Research Intern - College of Engineering - Electrical and Computer Engineering | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690) |
 | Catalent | Maydm Intern - Cell Line Development | Madison, WI | [Apply](https://catalent.wd1.myworkdayjobs.com/external/job/Madison-WI/Maydm-Intern---Cell-Line-Development_0094342) |
@@ -1046,7 +1049,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Boston Properties | Cyber Security Co-Op | Boston, MA, United States | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26108) |
 | Boston Properties | IT Data Services Co-Op | Boston, MA, United States | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26107) |
 | Boston Properties | IT Services Co-Op | Boston, MA, United States | [Apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26106) |
-| Brooks Running | Footwear Design Intern, Inline - Fall 2026 | Seattle, United States | [Apply](https://jobs.lever.co/brooksrunning/c112ea4c-9c2c-4c83-8684-d584e57aaa1e) |
+| Brooks Running | Footwear Design Intern, Inline | Seattle, United States | [Apply](https://jobs.lever.co/brooksrunning/c112ea4c-9c2c-4c83-8684-d584e57aaa1e) |
 | Bugcrowd | Engineering Intern - Summer '26 | United States Remote | [Apply](https://boards.greenhouse.io/bugcrowd/jobs/8016582?gh_jid=8016582) |
 | Chanel | STAGE - ANALYSTE REPORTING SUSTAINABILITY - CORPORATE (H/F/X) | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---ANALYSTE-REPORTING-SUSTAINABILITY---CORPORATE--H-F-X-_JOBREQ00114052-1) |
 | Chase | 2026 Global Corporate Banking - Large-Cap -  Off-Cycle Internship Program – Istanbul | Türkiye | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210761524) |
@@ -1461,7 +1464,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aircall | Sales Intern - DACH market | Paris Office | [Apply](https://jobs.lever.co/aircall/4199e29e-52f6-4aae-bc50-a7518620b031) |
 | Aircall | Sales Intern - French market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/131dcb57-0ba9-45fe-b5a4-e88e118bb06d) |
 | Aircall | Sales Intern - Iberia market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/3a88fe56-9a33-476d-89de-76e4faa38cfc) |
-| Aircall | Stagiaire en Droit Social - Basé à Paris | Paris Office | [Apply](https://jobs.lever.co/aircall/1a5bb2cc-0b40-43e0-88e3-9a49a535bb40) |
 | Aircall | Strategy & Operations Intern — Office of the General Manager, Small Business | Paris Office | [Apply](https://jobs.lever.co/aircall/d7f248d3-f16f-4bc7-9f7f-201e180600df) |
 | ALFA LAVAL | Internship Planning Engineer | San Bonifacio | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/San-Bonifacio/Internship-Planning-Engineer_JR0041273) |
 | ALKU | HCIT Program Coordinator Intern | Andover, MA | [Apply](https://boards.greenhouse.io/alku/jobs/8013232?gh_jid=8013232) |
@@ -4587,7 +4589,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vanguard | 2026-2027 Fall/Winter Co-op Opportunities - Malvern/Philly | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-2027-Fall-Winter-Co-op-Opportunities---Malvern-Philly_177851) |
 | Western Governors University | Software Engineer II - Student Enrollment | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-II_JR-025069) |
 | WPP Media | Stage Chargé Réseaux Sociaux F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5255648008) |
-| Xsolla | Xsolla School – Student Application (Engineering) | Raleigh, United States | [Apply](https://jobs.lever.co/xsolla/e4d9543a-af24-4caa-97ab-78cff02e3037) |
 | Yai | MSW Clinical Internship | Manhattan | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/MSW-Clinical-Internship_R025025) |
 | Yai | Speech Language Graduate Internship | Manhattan | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Speech-Language-Graduate-Internship_R025011) |
 | Zeiss | Internship in Supply Chain – Supply Planning for the EMEA Region (f/m/x) | Aalen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Aalen/Praktikum-im-Supply-Chain---Supply-Planning-fr-die-Region-EMEA--m-w-x-_JR_1050410) |
@@ -5299,7 +5300,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Prysmian Cables & Systems | Commercial Intern | Cariacica / Vila Velha | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Cariacica/Commercial-Intern_R-34179) |
 | Prysmian Cables & Systems | Europe & MEART Compliance Intern | Milan, IT | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milan-IT/Europe---MEART-Compliance-Intern_R-34317) |
 | Prysmian Cables & Systems | Logistics Intern | Cariacica | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Cariacica/Logistics-Intern_R-34178) |
-| Quandri | Product Co-op | Vancouver | [Apply](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071) |
 | Razer | Product Marketing (Lifestyle) Intern | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing--Lifestyle--Intern_JR2026007514) |
 | Razer | Product Marketing Intern (Headsets) | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern---PC-Audio_JR2026007390) |
 | RBC | Client Advisor Intern | Red Deer, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/RED-DEER-Alberta-Canada/Client-Advisor-Intern_R-0000168634) |
@@ -7000,7 +7000,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cigna Group | Summer Intern - Actuarial, Pricing and Business Development | Hkgn 348 Kwun Tong Road | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/HKGN-348-Kwun-Tong-Road/Summer-Intern---Pricing-and-Business-Development_26005879) |
 | Cincinnati Children’s Hospital and Medical Center | Monitor Tech - Student, TCC Stepdown ICU | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Monitor-Tech---Student--TCC-Stepdown-ICU_JR210311) |
 | Cincinnati Children’s Hospital and Medical Center | Respiratory Therapy Student - Trainee | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Respiratory-Therapy-Student---Trainee_JR212135) |
-| Cirque du Soleil | Stage Manager – Mystere | Las Vegas, NV | [Apply](https://jobs.lever.co/cirquedusoleil/79f526f8-6cd7-4919-a631-6c165799014b) |
 | Cirrus Logic | Fall 2026 Co-Op - Analog Design Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/5a39f9e7-540f-45bc-82fa-e89487ea6bee) |
 | Cirrus Logic | Fall 2026 Co-Op - Design Verification Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4) |
 | Cirrus Logic | Fall 2026 Co-Op - Digital Design Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/bd8fd5e3-0fba-435a-810c-4487a776485f) |
@@ -8701,7 +8700,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Working Student (f/m/d) RF Validation and Lab Automation | Hamburg | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--RF-Validation-and-Lab-Automation_R-10063331-1) |
 | NXP Semiconductors | Working Student (f/m/d) Tech & Brand Experience | Hamburg | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Tech---Brand-Experience_R-10063737) |
 | O'Reilly Auto Parts | Co-Op - Advertising & Marketing | Headquarters | [Apply](https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Co-Op---Advertising---Marketing_R179097) |
-| OakNorth Bank | Intern - Risk Analytics | Gurugram | [Apply](https://jobs.lever.co/oaknorth.ai/1d111dd6-5c9e-41cd-9b45-c7c2a151aa48) |
 | OakNorth Bank | Internship - Finance (Regulatory Reporting) | Gurugram | [Apply](https://jobs.lever.co/oaknorth.ai/115ac11a-cd29-4202-a6ad-249bc44a1524) |
 | Occidental Petroleum | Co-Op (Data, Well Servicing & Engineering) | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) |
 | Occidental Petroleum | IT Admin Co-Op | Squamish | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/IT-Admin-Co-Op_JR108367) |
@@ -9516,7 +9514,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Swift | HR Intern (Talent Acquisition) | Malaysia | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/HR-Intern--Talent-Acquisition-_2026-16045) |
 | Swift | Intern - Compliance Specialist | Malaysia | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Intern---Compliance-Specialist_2026-15344) |
 | Swift | Software Engineer - Intern | Malaysia | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Software-Engineer---Intern_2026-16064) |
-| Syntax | Classification Data Validation Intern | New York City | [Apply](https://jobs.lever.co/syntax/c5801194-4911-4769-86a4-266e5d451fdc) |
 | TC Energy | Field intern, Salisbury Compressor Station Operations | Pennsylvania / Cumberland Md Offc | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Salisbury-Pennsylvania/Engineering-intern--Salisbury-Compressor-Station-Operations_JR-08937) |
 | TC Energy | Mechanical Technician Intern, Mid Atlantic Regional Management Operations | Virginia | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Prince-George-Virginia/Mechanical-Technician-Intern--Mid-Atlantic-Regional-Management-Operations_JR-08714) |
 | TD Synnex | Accounting Intern | Spain | [Apply](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Barcelona-Spain/Accounting-Intern_R41712) |
@@ -10424,7 +10421,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NVIDIA | Quantum Error Correction Research Scientist Intern - Fall 2026 | United States Remote | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) |
 | Unilever | Internship 26' - Internal Communications and Stakeholder Engagement (Hive) | Hive Wageningen | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hive-Wageningen/Internship-26----Internal-Communications-and-Stakeholder-Engagement--Hive-_R-1181939) |
 | Veeva Systems | Implementation Consultant Intern | China Shanghai | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) |
-| Veeva Systems | Intern Business Consulting | China Shanghai | [Apply](https://jobs.lever.co/veeva/561872bd-8a76-43b6-bf20-a1d05caa4223) |
 | Veeva Systems | Intern Technical Consultant | China Shanghai | [Apply](https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0) |
 | Veeva Systems | Intern: Software Engineer in Test | Canada Toronto | [Apply](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c) |
 | Veeva Systems | Technology Consulting Intern (Hungary) - Entry-Level | Hungary Budapest | [Apply](https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a) |
