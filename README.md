@@ -127,6 +127,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Danaher Corporation | Intern | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern_R1313728) |
 | Danaher Corporation | Intern - Collections (US Timezone) | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern---Collections--US-Timezone-_R1313580) |
 | Danaher Corporation | Intern - Credit Management (US Timezone) | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern---Credit-Management--US-Timezone-_R1313550) |
+| Deliveroo | Finance & Strategy Intern | Belgium / Remote | [Apply](https://jobs.ashbyhq.com/deliveroo/4b366916-4241-4946-a23e-afd0789d2834) |
 | Desjardins | Student job, Technician, Legal and regulatory compliance | Lévis / Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Lvis/Emploi-tudiant--Technicien-ou-technicienne-en-conformit-juridique-et-rglementaire_R2608103) |
 | Disney | ESPN Product Marketing Intern, New York City, Fall 2026 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ESPN-Product-Marketing-Intern--New-York-City--Fall-2026_10154503) |
 | Disney | ESPN Programming Intern, Remote, Fall 2026 | Bristol, CT, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Remote--Fall-2026_10154497) |
@@ -163,6 +164,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HARMAN International | Intern, Product Planning & Strategy | Singapore Singapore | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Singapore---Singapore/Intern--Product-Planning---Strategy_R-54151-2026) |
 | HARMAN International | Marketing (Design) Intern | Singapore Singapore | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Singapore---Singapore/Marketing--Design--Intern_R-54149-2026) |
 | Harris Computer | Stagiaire Legal / Intern Legal & admin | Montreal, QC / QC, Canada | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-Legal---Intern-Legal---admin_R0044653-3) |
+| Heron Power | Intern, Electronics Design Engineer, Autumn 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb) |
+| Heron Power | Intern, Electronics Design Engineer, Spring 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b) |
 | Hewlett Packard (HP) | Business Analyst Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Analyst-Intern_UNI2668-2) |
 | Hitachi | HVDC summer intern | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-summer-intern_R0135273) |
 | Howard University | Student Research Assistant | Alain Locke Hall | [Apply](https://howard.wd1.myworkdayjobs.com/HU/job/Alain-Locke-Hall/Student-Research-Assistant_JR108205-1) |
@@ -1024,7 +1027,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | UBC | Student Services Manager | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Student-Services-Manager_JR24894) |
 | University Health Network | Junior Report Developer (Intern), Analytics and Insights | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279) |
 | 1Password | Developer Intern, Service Development - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2) |
-| 1Password | Security Engineer Intern, Application Security - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/9dfa1569-e882-4ac4-a0e8-ec6e899aa8ee) |
 | AbbVie | Intern- Occupational Health & Safety | Costa Rica | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013694416) |
 | AbbVie | Stagiaire FP&A France & Benelux - 6 mois | Idf, France | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013701086) |
 | Accenture | Finance Transformation - Working Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance-Transformation---Working-Internship_R00336967) |
@@ -1176,7 +1178,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mistral AI | Onboarding specialist (intern) | Paris | [Apply](https://jobs.lever.co/mistral/9f23edb8-c2eb-4144-b6de-4b1bc4aaee26) |
 | Mitsubishi UFG | Internship, Market Investment & Banking Department | Indonesia Jakarta | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Indonesia---Jakarta/Internship--Market-Investment---Banking-Department_10077378-WD) |
 | Mitsubishi UFJ Financial Group | Internship, Market Investment & Banking Department | Indonesia Jakarta | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/Indonesia---Jakarta/Internship--Market-Investment---Banking-Department_10077378-WD-1) |
-| MUBI | Global Content Marketing Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/MUBI/12731aa4-1b13-4e48-8c74-cb7acc17715b) |
 | Nexstar | Internship | WI | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/WI-Green-Bay/Internship_REQ-41934-1) |
 | Nexstar | Unpaid Sports Intern- Summer 2026 | Dc-Washington / 2121 Wisconsin Ave Nw (nexstar-Wdcw) | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/DC-Washington2121-Wisconsin-Ave-NW-Nexstar-WDCW/Unpaid-Sports-Intern--Summer-2026_REQ-41520) |
 | NielsenIQ | Intern, Customer Service | Malaysia | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000133000989) |
@@ -1839,7 +1840,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HCVT | Tax Internship - Summer 2027 | Westlake Village, Canada | [Apply](https://jobs.lever.co/hcvt/6e90484d-6957-40aa-a4b8-301cc2dab972) |
 | HCVT | Tax Internship - Summer 2027 | Fort Worth, TX | [Apply](https://jobs.lever.co/hcvt/cedf0491-2eb1-4393-842f-b15415d89948) |
 | HCVT | Tax Internship - Winter 2027 | Phoenix, AZ | [Apply](https://jobs.lever.co/hcvt/bb7f9497-7cc5-49ea-9425-193d3a696733) |
-| Heidi Health | Product Intern | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/heidihealth.com.au/bb6c9b32-8a5f-4c10-819c-2f685d1c7f86) |
 | HERE Technologies | Intern | Mx-Mexico Home Office | [Apply](https://careers-here.icims.com/jobs/81598/intern/job) |
 | Hexagon AB | Mechanical Engineering Intern | Torrance, United States | [Apply](https://careers-hexagonpositioning.icims.com/jobs/2998/mechanical-engineering-intern/job) |
 | Hitachi | Internship - Onsite Support | Poland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Onsite-Support_R0126690-1) |
@@ -4462,7 +4462,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WTW | Business Support Assistant - Spanish Speaker - IEFP internship | Portugal | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202509062) |
 | WTW | Chargé de marketing et communication - Stage H/F | Ile-De-France, France | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202603636) |
 | WTW | Early Careers: 2026 Actuarial Valuation - Intern Program Retirement Business - Manila | Philippines | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202600328) |
-| 1Password | Developer Intern, Ecosystems- Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd) |
 | ABB | Summer Intern(AME) | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Summer-Intern-AME-_JR00036388) |
 | Accenture | Backend Developer Internship Program (She/He/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950) |
 | Accenture | Practica Análisis de Datos - ChangeMakers Internship Program | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Practica-Anlisis-de-Datos---ChangeMakers-Internship-Program_R00336093) |
@@ -4795,15 +4794,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship in Marketing & Communications (f/m/x) | Aalen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Aalen/Internship-in-Marketing---Communications--f-m-x-_JR_1050405-2) |
 | Zeiss | Working Student Data Analytics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werksstudent-Diagnose-und-Monitoring--m-w-x-_JR_1048222-1) |
 | Zeiss | Working Student Frontend Development (m/f/x) | München / Jena | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Working-Student-Frontend-Development--m-f-x-_JR_1050400) |
-| 1Password | Developer Intern, Data Security - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce) |
-| 1Password | Developer Intern, Front-End Platform - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5) |
 | 1Password | Developer Intern, Trust Platforms - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1) |
 | 1Password | Finance Intern - Corporate Accounting, Special Projects - Fall 2026 | Canada Remote | [Apply](https://jobs.ashbyhq.com/1password/2db3a396-6461-415f-863e-775f7b1ec2bd) |
-| 1Password | Product Design Intern, EPM End-User - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/5755e2c6-2835-4f83-b301-e43be742e995) |
-| 1Password | Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/6d60d60c-4290-43e5-9de2-e771adf4a559) |
-| 1Password | Product Management Intern, Device Trust - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/97775e0c-57f4-4947-b129-0876211f4c5a) |
-| 1Password | Product Management Intern, Unified Access - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/f1bcc5f9-c715-468e-905c-b3f96f7dd1a6) |
-| 1Password | Sports Marketing Intern - Fall 2026 | United States Remote | [Apply](https://jobs.ashbyhq.com/1password/777b0c0e-cc29-4959-a649-ddd4c0b365c7) |
 | 3M | Working Student (m/f/*) - Channel Marketing & Sales Support | DE | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/DE-Neuss/Working-Student--m-f------Channel-Marketing---Sales-Support_R01165763-1) |
 | ABB | Intern Treasury Technology | Switzerland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Zurich-Zurich-Switzerland/Intern-Treasury-Technology_JR00037674) |
 | ABB | Procurement Intern | Argentina | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/Procurement-Intern_JR00036716) |
@@ -5733,7 +5725,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tilde Research | Kernel Engineer (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8) |
 | Tilde Research | ML Engineer (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef) |
 | Tilde Research | ML Researcher (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508) |
-| UiPath | Front-End Software Engineer Intern | Romania | [Apply](https://jobs.ashbyhq.com/uipath/b262761e-ae68-48ab-b82c-8b41ad647a6f) |
 | UiPath | Social Media & Content Working Student | Germany | [Apply](https://jobs.ashbyhq.com/uipath/c0dd9f18-27d0-499f-b8b8-1993ce68cda2) |
 | Uncountable | Full-Stack Intern | Munich Or London | [Apply](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae) |
 | Uncountable | Working Student -- Software Engineer: Munich | Munich | [Apply](https://jobs.ashbyhq.com/uncountable/9ca128de-0a2b-4be3-97e6-6c3a3b08dd10) |
