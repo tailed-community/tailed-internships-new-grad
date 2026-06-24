@@ -17,6 +17,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BMO (Campus) | Commercial Credit Analyst (New or Recent Graduate), Saint-Hyacinthe | St-Hyacinthe, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831-1) |
 | BMO (External) | Commercial Credit Analyst (New or Recent Graduate), Quebec City | Ville De Quebec, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/VILLE-DE-QUEBEC-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Quebec-City_R260018823-2) |
 | BMO (External) | Commercial Credit Analyst (New or Recent Graduate), Saint-Hyacinthe | St-Hyacinthe, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831) |
+| Carollo Engineers | Entry Level Water/Wastewater Engineer | Fresno, United States | [Apply](https://careers-carollo.icims.com/jobs/4310/entry-level-water-wastewater-engineer/job) |
 | Cincinnati Children’s Hospital and Medical Center | Registered Nurse (RN), Adolescent Psychiatry - NEW GRADS WELCOME! | College Hill Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/College-Hill-Campus/Registered-Nurse--RN---Adolescent-Psychiatry---NEW-GRADS-WELCOME-_JR222429) |
 | Cincinnati Children’s Hospital and Medical Center | Registered Nurse (RN), Psychiatry Float Pool - NEW GRADS WELCOME! | College Hill Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/College-Hill-Campus/Registered-Nurse--RN---Psychiatry-Float-Pool_JR212483) |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship | La Terrytown | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/LA---Terrytown/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship_R0955536) |
@@ -29,6 +30,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GE Vernova | Solution Architect - Early Career Trainee | Dubai | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Dubai/Solution-Architect---Early-Career-Trainee_R5044865-1) |
 | GE Vernova - vernova_externalsite | Early Career Trainee- Solution Architect | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Al-Khobar/Early-Career-Trainee--Solution-Architect_R5044868-2) |
 | GE Vernova - vernova_externalsite | Solution Architect - Early Career Trainee | Dubai | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Dubai/Solution-Architect---Early-Career-Trainee_R5044865-2) |
+| General Dynamics | Welder Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17305/welder-entry-level-%26-semi-skilled/job) |
 | Howden | Financial Lines Broking Graduate Program | Not Specified | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Financial-Lines-Broking-Graduate-Program_R0017964-1) |
 | Howden | Natural Resources Broking Graduate Program | Not Specified | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Natural-Resources-Broking-Graduate-Program_R0017968-2) |
 | Intermountain Healthcare | New Grad RN Behavioral Health | Intermountain Health Alta View Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/New-Grad-RN-Behavioral-Health_R170406) |
@@ -559,7 +561,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Gannet Fleming | Entry Level Geotechnical Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14207/entry-level-geotechnical-engineer/job) |
 | Gannet Fleming | Entry Level Traffic Designer / Engineer | Baltimore, MD, United States / Owings Mills, MD, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14263/entry-level-traffic-designer---engineer/job) |
 | General Dynamics | Carpenter - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17385/carpenter---entry-level-%26-semi-skilled/job) |
-| General Dynamics | Electrician - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/18539/electrician---entry-level-and-skilled/job) |
 | General Dynamics | Inside Machinist - Assembly - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18594/inside-machinist---assembly---entry-level-%26-semi-skilled/job) |
 | General Dynamics | Outside Electrician - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17371/outside-electrician---entry-level-%26-semi-skilled/job) |
 | General Dynamics | Painter - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17383/painter---entry-level-%26-semi-skilled/job) |
@@ -604,13 +605,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Peraton | Electrical Engineer - Early Career | Aberdeen Proving Ground, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/165541/electrical-engineer---early-career/job) |
 | Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) |
 | Sargent & Lundy | 3D Modeler – Entry Level – Nuclear Power Projects | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24770/3d-modeler-%e2%80%93-entry-level-%e2%80%93-nuclear-power-projects/job) |
-| Sargent & Lundy | Distribution Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24690/distribution-engineer-1-%28entry-level%29---grid/job) |
 | Sargent & Lundy | Entry Level Civil Engineer | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/21915/entry-level-civil-engineer/job) |
 | Sargent & Lundy | Entry-Level Structural Engineer - Energy & Industrial Group (Summer 2026) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/20873/entry-level-structural-engineer---energy-%26-industrial-group-%28summer-2026%29/job) |
 | Sargent & Lundy | Piping Stress Engineer 1 (Entry-Level) - Nuclear | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/23662/piping-stress-engineer-1-%28entry-level%29---nuclear/job) |
 | Sargent & Lundy | Substation Engineer 1 (Entry Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24572/substation-engineer-1-%28entry-level%29---grid/job) |
 | Sargent & Lundy | Transmission & Distribution Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24328/transmission-%26-distribution-engineer-1-%28entry-level%29---grid/job) |
-| SCS Engineers | Entry-level Civil or Environmental Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3729/entry-level-civil-or-environmental-engineer/job) |
 | SCS Engineers | Entry-level Civil or Environmental Engineer - Solid Waste | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3781/entry-level-civil-or-environmental-engineer---solid-waste/job) |
 | SpaceX | New Graduate Engineer, ASIC Design (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8583065002?gh_jid=8583065002) |
 | SpaceX | New Graduate Engineer, Launch & Test (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) |
@@ -640,6 +639,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | United Wholesale Mortgage | Entry Level Mortgage Lock Desk | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15486/entry-level-mortgage-lock-desk/job) |
 | United Wholesale Mortgage | Entry Level Phone Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15546/entry-level-phone-support-specialist/job) |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Civil Site Engineer | Atlanta, GA, United States | [Apply](https://careers-vhb.icims.com/jobs/6072/entry-level-civil-site-engineer/job) |
+| Vanasse Hangen Brustlin (VHB) | Entry Level Environmental Scientist | Watertown, MA, United States | [Apply](https://careers-vhb.icims.com/jobs/6079/entry-level-environmental-scientist/job) |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Water Resources Designer | Portland, ME, United States | [Apply](https://careers-vhb.icims.com/jobs/5961/entry-level-water-resources-designer/job) |
 | Wade Trim | Entry Level Planner - #2970 | Flint, MI / Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17) |
 | Xcel Energy | Power Plant Operator (Entry-level) - Hayden, CO | Hayden, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Hayden-CO-81639/Power-Plant-Operator--Entry-level----Hayden--CO_JR112207-2) |
