@@ -1988,7 +1988,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ketjen | Data Integration & Application Development Intern | Netherlands | [Apply](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Amsterdam-Netherlands/Data-Integration---Application-Development-Intern_REQ-30831) |
 | Keysight Technologies | Firmware Engineering Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53201?lang=en-us&icims=1) |
 | Keysight Technologies | Working Student (m/f/d) – Machine Learning & Vehicle Radar Technology | Germany | [Apply](https://jobs.keysight.com/jobs/53027?lang=en-us&icims=1) |
-| Kids Alive | Intern (Annual Giving), Alpharetta, GA | Alpharetta, GA | [Apply](https://ats.rippling.com/kids-alive-international/jobs/d2c623f3-57ac-445d-a7d6-7b3212dd38b4) |
 | Kids Alive | Overseas Intern - Guatemala | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/320750c5-f810-44ad-a5e0-8f8ec8070419) |
 | Kids Alive | Overseas Intern - Kenya | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/dc34aecf-e393-4c5c-945a-5630fe78dad4) |
 | Kids Alive | Overseas Intern - Peru | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/49d2df4f-5b8a-496e-bf21-4a653152632c) |
