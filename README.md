@@ -114,6 +114,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ING | ING Financial Markets Internship Programm - Amsterdam | Trc (amsterdam Treasury Center) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/TRC-Amsterdam---Treasury-Center/ING-Financial-Markets-Internship-Programm---Amsterdam_REQ-10117202) |
 | ING | Intern Loan Syndicate (f/m/x) | Frankfurt | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Intern-Loan-Syndicate--f-m-x-_REQ-10090064) |
 | ING | Internship ING Global Events & Experiences - Global Communications, Brand and MarCom | Cdr (amsterdam Cedar) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-ING-Global-Events---Experiences---Global-Communications--Brand-and-MarCom_REQ-10117074) |
+| Institute of Foundation Models | Inference Optimization Intern – Performance Modeling | Sunnyvale, Canada | [Apply](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d) |
 | Intel | AI Security Engineering Intern | Hillsboro, United States / Santa Clara, United States | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140) |
 | Intel | Data Science and Analytics Intern | Phoenix, United States / Hillsboro, United States | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Data-Science-and-Analytics-Intern_JR0284960) |
 | Intermountain Healthcare | Student Rad Tech - Part Time | Intermountain Health Riverton Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Student-Rad-Tech---Part-Time_R170324-1) |
@@ -141,6 +142,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jonas Software - JonasSoftwareUSA | Software Engineer - Intern | United States Remote | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineer---Intern_R52705) |
 | Julius Baer | Intern Regional CFO Emerging Markets 60 - 100% (f/m/d) | Zurich | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Intern-Regional-CFO-Emerging-Markets-60---100---f-m-d-_r-19001-1) |
 | Julius Baer | Machine Learning Engineer Intern 100% (f/m/d) | Madrid | [Apply](https://juliusbaer.wd3.myworkdayjobs.com/External/job/Madrid/Machine-Learning-Engineer-Intern-100---f-m-d-_r-18913-2) |
+| Kabam | Accounting Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/2252e64f-0436-4779-86a6-8dfde38a57f6) |
+| Kabam | Community Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/314e12e8-2b9a-4999-89b9-22aab8669d5e) |
+| Kabam | Content Marketing Co-Op | Vancouver | [Apply](https://jobs.lever.co/kabam/23c5879a-cf43-4ff8-951d-4c893bf9c456) |
+| Kabam | Product Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/1b787210-e993-48fa-b875-80a251ea8801) |
 | Kenvue | Intern | Greater Mumbai | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Maharashtra-Greater-Mumbai/Intern_2607047113W) |
 | Kenvue | Summer Intern, Marketing | Shanghai | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-China-Shanghai-Shanghai/Summer-Intern--Marketing_2607046590W) |
 | Kraft Heinz - KraftHeinz_Careers | Culinary Capabilities Intern | Nijmegen | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Culinary-Capabilities-Intern_R-104120-2) |
@@ -196,6 +201,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Assistant - Bed Management | University Hospital | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/Student-Assistant---Bed-Management_R153201-1) |
 | OMERS | Student, Investment Analyst, Global Credit (Fall 2026, 4 Months) | Toronto, ON | [Apply](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Student--Investment-Analyst--Global-Credit--Fall-2026--4-months-_JR-8187) |
 | Otis Worldwide | Intern, Accounts Receivable (H/M) | Spain | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Golfo-De-Salnica-73-28033-MADRID-Spain/Intern--Accounts-Receivable--H-M-_20162313) |
+| Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
 | Parsons | CO-OP Intern - Finance  - Saudi National | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/CO-OP-Intern---Finance----Saudi-National_R182371) |
 | Parsons | Co-op Trainee (Information Technology) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Al-Khobar/Co-op-Trainee--Information-Technology---Saudi-National-_R181934) |
 | Pennsylvania State University | Part-Time Research Intern – Microbiology/Astrobiology – Couradeau lab | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Intern---Microbiology-Astrobiology---Couradeau-lab_REQ_0000079725-1) |
@@ -734,7 +740,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dow Chemical Company | Local College Co-op - Environment, Health & Safety Remediation Organization | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op---Environment--Health---Safety-Remediation-Organization_R2066304) |
 | Ecolab | Government Relation Intern | Sau Al Mintaqah Ash Sharqiyah Dammam | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Government-Relation-Intern_R00283229) |
 | Egis Group | Internship - AI | Hong Kong | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000133497304) |
-| Ekimetrics | Stage  2026 - Data Science et Machine Learning/AI practitionner (H/F/N) (50% client, 50% R&D) | Paris | [Apply](https://jobs.lever.co/ekimetrics/ba667ca2-3a36-4651-820f-fbd002d51429) |
 | Emerson Electric | AI and Data Engineering Intern | Philippines | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007105) |
 | Epicor | Procurement Specialist Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Procurement-Specialist-Intern_JR104706) |
 | Epicor | QA Developer Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/QA-Developer-Intern_JR104861) |
@@ -1763,7 +1768,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Structurepoint | Civil Site Engineering Co-Op - Indianapolis, IN | Indianapolis, IN, United States | [Apply](https://careers-structurepoint.icims.com/jobs/2941/civil-site-engineering-co-op---indianapolis%2c-in/job) |
 | American University | WAMU HR Assistant - Onboarding (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/4401-Connecticut-Campus-Washington-DC/WAMU-HR-Assistant---Onboarding--Student-_R4369) |
 | Ames Construction | Field Engineer - Intern | West Valley City, UT / Reno, NV / Las Vegas, NV / Carlin, NV | [Apply](https://amesconstruction.wd12.myworkdayjobs.com/ames/job/West-Valley-City-UT/Field-Engineer---Intern_JR1583) |
-| AMT Engineering | Environmental and Water Resources Intern - 2026 | Maryland | [Apply](https://jobs.lever.co/amtengineering/e7a190a8-0415-4bc7-b669-dbf8bdda3f05) |
 | AMT Engineering | Transportation Engineer Intern - 2026 | Virginia | [Apply](https://jobs.lever.co/amtengineering/2b403a55-6af6-4305-957e-a05d680ee0de) |
 | Analog Devices | Embedded Software Co-Op | Vancouver, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Embedded-Software-Co-Op_R263562) |
 | ApplyBoard | Market Research Intern | Gurgaon | [Apply](https://applyboard.wd3.myworkdayjobs.com/ApplyBoardNH/job/Gurgaon/Market-Research-Intern_JR103087) |
@@ -7206,7 +7210,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Creative Artists Agency | Intern, Brands Solutions | Singapore | [Apply](https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Singapore-Singapore/Intern--Brands-Solutions_JR8793) |
 | Crest Industries | Accounting Internship | Louisiana | [Apply](https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606) |
 | Crest Industries | CIS/CS Internship | Louisiana | [Apply](https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488) |
-| Crest Industries | DIS-TRAN Steel 2026 Internship | Louisiana | [Apply](https://jobs.lever.co/crestoperations/59946ed2-a5bb-40d0-9b92-f2b4957ce4ed) |
 | Crest Industries | Finance Internship | Louisiana | [Apply](https://jobs.lever.co/crestoperations/a4e1fa07-80f5-4a7d-989e-b755a7ac7d7e) |
 | Crest Industries | Internships - All Disciplines | Louisiana | [Apply](https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad) |
 | Criteo | Deal Desk Analyst Intern (6 months – starting Sept 2026) | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Deal-Desk-Intern_r20667) |
@@ -9958,9 +9961,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Virginia | UVA Bookstore Student Worker (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/UVA-Bookstore-Student-Worker--Student-Wage-_R0081815) |
 | University of Virginia | UVA FWS Program-Georges Student Center Intern (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/UVA-FWS-Program-Georges-Student-Center-Intern--Student-Wage-_R0082425) |
 | University of Virginia | Websites and Marketing Technology Intern (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Websites-and-Marketing-Technology-Intern--Student-Wage-_R0082090) |
-| UntilLabs | Biology/Biochemistry Intern (Spring/Summer 2026) | Bay Area | [Apply](https://jobs.lever.co/until/e74e9651-a26c-4f9a-870d-581e39740d6e) |
-| UntilLabs | Engineering/Applied Physics Intern (Spring/Summer 2026) | Bay Area | [Apply](https://jobs.lever.co/until/2f72302a-09ed-466f-930e-76521721f1f4) |
-| UntilLabs | Materials Science Intern (Spring/Summer 2026) | Bay Area | [Apply](https://jobs.lever.co/until/bc6864ea-ec40-4f82-96dd-354c2ed659f4) |
 | UntilLabs | Rotational Business Operations & Lab Operations Intern (University) | Bay Area | [Apply](https://jobs.lever.co/until/76f30008-4d6a-4499-9c28-4c359ffac389) |
 | Valeo | Analyste Trésorerie d'Exploitation - Stage | Paris | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/Analyste-Trsorerie-d-Exploitation---Stage_REQ2026074709) |
 | Valeo | CO-OP/INTERNS- DVS | Rio Bravo | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--DVS_REQ2025063234) |
@@ -10042,7 +10042,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vistra | Intern Undergrad - Engineering | Davis-Besse | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Davis-Besse/Intern-Undergrad---Engineering_40014794) |
 | Vizient | Summer Intern – Indirect Spend | Irving | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Summer-Intern---Indirect-Spend_31849R) |
 | Volaris Group | Junior IWMS Project Manager - Intern | United States Tx | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R58168-2) |
-| Voltus | Sales Technical Analytics Intern | Remote | [Apply](https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d) |
 | Vulcan Elements | Future Internship Opportunities | Research Triangle Park, NC | [Apply](https://job-boards.greenhouse.io/vulcanelements/jobs/5096079008) |
 | Waabi | 2026 Intern, PhD Research Scientist | Toronto, ON / Pittsburgh, PA / San Francisco, Canada | [Apply](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) |
 | Waabi | Research Internship/Co-op | Toronto, ON / San Francisco, Canada / United States Remote | [Apply](https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb) |
