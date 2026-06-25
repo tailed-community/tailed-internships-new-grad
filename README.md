@@ -28,6 +28,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Master student (d/f/m) in the field of Thermal Systems | Immenstaad Am Bodensee | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-student--d-f-m--in-the-field-of-Thermal-Systems_JR10422968) |
 | Airbus | Working Student within A400M Production Control (d/f/m) | Manching | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Working-Student-within-A400M-Production-Control--d-f-m-_JR10422424) |
 | Amentum | DoD Engineering Skillbridge Intern | US-Tx-Houston | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/DoD-Engineering-Skillbridge-Intern_R0164462) |
+| American Heart Association | Intern, Healthy Living-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17675/intern%2c-healthy-living-remote/job) |
+| American Heart Association | Intern, Program Evaluation-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17662/intern%2c-program-evaluation-remote/job) |
 | American University | Recruitment Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Recruitment-Assistant--Student-_R4391) |
 | Analog Devices | AI Applications Intern | Cork / Limerick | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Cork/AI-Applications-Intern_R257332) |
 | Analog Devices | Internship | Cortes Valencianas | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Internship_R263671) |
@@ -100,6 +102,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Vernova | STAGIAIRE | Bourogne | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bourogne/STAGIAIRE_R5044163) |
 | GE Vernova - vernova_externalsite | Embedded Systems / Firmware Engineering Intern-2 | Stafford | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-3) |
 | GE Vernova - vernova_externalsite | STAGIAIRE | Bourogne | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bourogne/STAGIAIRE_R5044163-1) |
+| General Dynamics Mission Systems | Mechanical Co-Op Engineer - (August - December) | Quincy, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/73283/mechanical-co-op-engineer---%28august---december%29/job) |
 | General Motors | Exterior Design Intern | China | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Shanghai-China/Exterior-Design-Intern_JR-202612639) |
 | Gensler | Early College Internship – Summer 2026 | Austin, TX, United States | [Apply](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Austin-TX-US/Early-College-Internship---Summer-2026_R-17948) |
 | Gensler | Student Internship - Co-Op | Toronto, Canada | [Apply](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Toronto-Canada/Student-Internship---Co-Op_R-17951) |
@@ -110,6 +113,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HARMAN International | Intern | In_bangalore_sattva Knowledge Court Bdg_hii | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Intern_R-52921-2026) |
 | HARMAN International | Intern - Lean Engineering | China | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Suzhou---Jiangsu-China/Intern---Lean-Engineering_R-54237-2026) |
 | HARMAN International | Internship - Digital Insights | Netherlands | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Amsterdam---Amsterdam-Netherlands/Internship---Digital-Insights_R-53928-2026) |
+| HERE Technologies | Intern-Data Science- (Python/ Data mining) | De-Schwalbach / Frankfurt | [Apply](https://careers-here.icims.com/jobs/81173/intern-data-science--%28python--data-mining%29/job) |
 | Hewlett Packard (HP) | Internship at HP Store Benelux | Belgium | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Diegem-Flemish-Brabant-Belgium/Internship-at-HP-Store-Benelux_3164908) |
 | Hitachi | HR intern | Remote | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Shaanxi-China/HR-intern_R0135490) |
 | Hitachi | Internship in Performance Evaluation of Gas Insulated Switchgear 80 - 100% (m/w/d) | Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zurich-Zurich-Switzerland/Internship-in-Performance-Evaluation-of-Gas-Insulated-Switchgear-80---100---m-w-d-_R0134577) |
@@ -3033,7 +3037,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wellington Management | Off-Cycle Internship - Sustainability, Luxembourg (6-12 months) | Luxembourg | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Luxembourg-Luxembourg/Internship-Sustainability--Luxembourg--6-12-months-_R91956) |
 | Wellington Management | Wellington Management Co-op | Boston, MA, United States | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Wellington-Management-Co-op_R93587-1) |
 | Williams | Temporary Student Worker - Sequent Gas Scheduling | Tx Houston Sequent | [Apply](https://williams.wd5.myworkdayjobs.com/External/job/TX-Houston---Sequent/Temporary-Student-Worker---Sequent-Gas-Scheduling_R112082) |
-| Wipfli | IT Procurement Internship | United States | [Apply](https://careers-wipfli.icims.com/jobs/8009/it-procurement-internship/job) |
 | WorldQuant | Data Science Intern | Beijing Or Shanghai | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) |
 | WorldQuant | Quantitative Research Intern | Beijing Or Shanghai | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) |
 | WorldQuant | Quantitative Research Intern (July/August to December 2026) | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) |
@@ -3072,7 +3075,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Forschung und Entwicklung (Messtechnik und Datenanalyse) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Forschung-und-Entwicklung--Messtechnik-und-Datenanalyse-_R-2026-47795) |
 | Alcon | Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich IT (Information Systems Operations Management) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-IT--Information-Systems-Operations-Management-_R-2026-47803) |
 | American Heart Association | Intern, Development & Community Events-Dayton, OH, or the immediate surrounding | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17669/intern%2c-development-%26-community-events-dayton%2c-oh%2c-or-the-immediate-surrounding/job) |
-| American Heart Association | Intern, Development & Community Events-Greater Phoenix area | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17523/intern%2c-development-%26-community-events-greater-phoenix-area/job) |
 | American Heart Association | Intern, Development & Community Events-Louisville, KY or the immediate surrounding area | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17676/intern%2c-development-%26-community-events-louisville%2c-ky-or-the-immediate-surrounding-area/job) |
 | Ardian | Buyout Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Buyout-Intern---September-2026---London_JR1002124) |
 | Avery Dennison | Internship: Marketing Communications - Automotive Aftermarket | Oegstgeest, ZH | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000132365409) |
@@ -4709,7 +4711,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | General Motors | Intern - Die Engineering | India | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Bengaluru-Karnataka-India/Intern---Die-Engineering_JR-202610147) |
 | GSK | Stage : Gestion de projets QC – Opérations, Performance & Stratégie, Belgique – 2026 | Belgium-Wavre | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Belgium-Wavre/Stage---Gestion-de-projets-QC---Oprations--Performance---Stratgie--Belgique---2026_442886) |
 | HERE Technologies | GTM Finance Intern (AI & Automation) | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81501/gtm-finance-intern-%28ai-%26-automation%29/job) |
-| HERE Technologies | Intern | Cn-Beijing | [Apply](https://careers-here.icims.com/jobs/81645/intern/job) |
 | Hewlett Packard (HP) | Working Student (m-f-d) - Product Marketing \| Personal Computing (DACH) | Germany | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Boeblingen-Baden-Wurttemberg-Germany/Working-Student--m-f-d----Product-Marketing---Personal-Computing--DACH-_3160409) |
 | Hitachi | HSE Intern | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/HSE-Intern_R0132248) |
 | Hitachi | Internship in Sales Operations 80 – 100% (f/m/d) | Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zurich-Zurich-Switzerland/Internship-in-Sales-Operations-80---100---f-m-d-_R0129335) |
@@ -4808,7 +4809,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | HR internship: support the Internships Office | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/HR-internship--support-the-Internships-Office_J-00338096) |
 | AtkinsRéalis | Intern | Atkinsréalis Corporate Office Bangalore | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-153218-1) |
 | Autodesk | Intern, Machine Learning Developer | Toronto, ON | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) |
-| Axway | Software Engineering Intern — AI Developer Tools | Ro-Bucharest | [Apply](https://careers-axway.icims.com/jobs/8751/software-engineering-intern-%e2%80%94-ai-developer-tools/job) |
+| Axway | Software Engineering Intern — AI Developer Tools | Ro-Bucharest | [Apply](https://careers-axway.icims.com/jobs/8751/intern/job) |
 | Blue Origin | Spring 2027  Software Developer Internship - Graduate | Greater Seattle Area / Denver, CO / Los Angeles, Canada / Longmont, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409) |
 | Blue Origin | Spring 2027  Software Developer Internship - Undergraduate | Greater Seattle Area / Los Angeles, Canada / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
 | Blue Origin | Spring 2027 Aerospace Systems Engineering Internship -  Undergraduate | Greater Seattle Area / Space Coast, FL / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
@@ -4989,7 +4990,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ACLU Kentucky | Fall 2026 Legal Intern, Voting Rights Project | Hybrid-New York City Or Washington D.c. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8582143002) |
 | ACLU Kentucky | Fall 2026 Legal Intern, Women's Rights Project | Remote / Hybrid-New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8578606002) |
 | Advocate Health Care | Student Tech- PRN Atrium Health Floyd | Rome, GA | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Floyd-Medical-Center---304-Turner-McCall-Blvd-SW-Rome-GA/Student-Tech--PRN-Atrium-Health-Floyd_R249015) |
-| Aerotek | Sales Internship | Torrance, United States | [Apply](https://careers-aerotek.icims.com/jobs/13073/sales-internship/job) |
 | Aerotek | Sales Internship | Farmington, CT, United States | [Apply](https://careers-aerotek.icims.com/jobs/12789/sales-internship/job) |
 | Aerotek | Sales Internship | Bethlehem, PA, United States | [Apply](https://careers-aerotek.icims.com/jobs/12783/sales-internship/job) |
 | Aerotek | Sales Internship | Cherry Hill, NJ, United States | [Apply](https://careers-aerotek.icims.com/jobs/12780/sales-internship/job) |
@@ -5019,41 +5019,41 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Allegro MicroSystems | HR Intern | Philippines | [Apply](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Paranaque-City-National-Capital-Region-Manila-Philippines/HR-Intern_R6561) |
 | Altera Corporation | Analog Layout Design Engineer (Intern) | Malaysia | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Analog-Layout-Design-Engineer--Intern-_R02616) |
 | Amcor | Ignite Co-Op High School Student Program (CTC) | Rpsna Madisonville Ky | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Madisonville-KY/Ignite-Co-Op-Student-Program--CTC-_REQ_90804) |
-| American Enterprise Institute | Fall Intern: Academic Programs | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2599/fall-intern%3a-academic-programs/job) |
-| American Enterprise Institute | Fall Intern: Accounting | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2603/fall-intern%3a-accounting/job) |
+| American Enterprise Institute | Fall Intern: Academic Programs | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2599/fall-intern%3a-academic-programs/job) |
+| American Enterprise Institute | Fall Intern: Accounting | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2603/fall-intern%3a-accounting/job) |
 | American Enterprise Institute | Fall Intern: American History and Culture | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2617/fall-intern%3a-american-history-and-culture/job) |
-| American Enterprise Institute | Fall Intern: Asian Economics | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2627/fall-intern%3a-asian-economics/job) |
-| American Enterprise Institute | Fall Intern: Asian Securities | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2626/fall-intern%3a-asian-securities/job) |
-| American Enterprise Institute | Fall Intern: Asian Security and Technology | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2636/fall-intern%3a-asian-security-and-technology/job) |
+| American Enterprise Institute | Fall Intern: Asian Economics | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2627/fall-intern%3a-asian-economics/job) |
+| American Enterprise Institute | Fall Intern: Asian Securities | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2626/fall-intern%3a-asian-securities/job) |
+| American Enterprise Institute | Fall Intern: Asian Security and Technology | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2636/fall-intern%3a-asian-security-and-technology/job) |
 | American Enterprise Institute | Fall Intern: Book Operations | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2597/fall-intern%3a-book-operations/job) |
-| American Enterprise Institute | Fall Intern: Center for Technology, Science, and Energy - Science, History, and Democracy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2611/fall-intern%3a-center-for-technology%2c-science%2c-and-energy---science%2c-history%2c-and-democracy/job) |
-| American Enterprise Institute | Fall Intern: Center for Technology, Science, and Energy, Technology Policy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2613/fall-intern%3a-center-for-technology%2c-science%2c-and-energy%2c-technology-policy/job) |
-| American Enterprise Institute | Fall Intern: Center for the Future of the American University | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2620/fall-intern%3a-center-for-the-future-of-the-american-university/job) |
-| American Enterprise Institute | Fall Intern: Center on Opportunity and Social Mobility | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2609/fall-intern%3a-center-on-opportunity-and-social-mobility/job) |
-| American Enterprise Institute | Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2610/fall-intern%3a-center-on-opportunity-and-social-mobility---vocation%2c-career%2c-and-work/job) |
-| American Enterprise Institute | Fall Intern: Coalition Defense of Taiwan | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2635/fall-intern%3a-coalition-defense-of-taiwan/job) |
-| American Enterprise Institute | Fall Intern: Coalitions | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2601/fall-intern%3a-coalitions/job) |
+| American Enterprise Institute | Fall Intern: Center for Technology, Science, and Energy - Science, History, and Democracy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2611/fall-intern%3a-center-for-technology%2c-science%2c-and-energy---science%2c-history%2c-and-democracy/job) |
+| American Enterprise Institute | Fall Intern: Center for Technology, Science, and Energy, Technology Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2613/fall-intern%3a-center-for-technology%2c-science%2c-and-energy%2c-technology-policy/job) |
+| American Enterprise Institute | Fall Intern: Center for the Future of the American University | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2620/fall-intern%3a-center-for-the-future-of-the-american-university/job) |
+| American Enterprise Institute | Fall Intern: Center on Opportunity and Social Mobility | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2609/fall-intern%3a-center-on-opportunity-and-social-mobility/job) |
+| American Enterprise Institute | Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2610/fall-intern%3a-center-on-opportunity-and-social-mobility---vocation%2c-career%2c-and-work/job) |
+| American Enterprise Institute | Fall Intern: Coalition Defense of Taiwan | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2635/fall-intern%3a-coalition-defense-of-taiwan/job) |
+| American Enterprise Institute | Fall Intern: Coalitions | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2601/fall-intern%3a-coalitions/job) |
 | American Enterprise Institute | Fall Intern: Communications and Marketing Systems | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2598/fall-intern%3a-communications-and-marketing-systems/job) |
-| American Enterprise Institute | Fall Intern: Critical Threats Project - Communications and Operations | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2629/fall-intern%3a-critical-threats-project---communications-and-operations/job) |
-| American Enterprise Institute | Fall Intern: Critical Threats Project - Iran and Middle East | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2630/fall-intern%3a-critical-threats-project---iran-and-middle-east/job) |
-| American Enterprise Institute | Fall Intern: Critical Threats Project – Africa | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2628/fall-intern%3a-critical-threats-project-%e2%80%93-africa/job) |
-| American Enterprise Institute | Fall Intern: Data Analysis & AI Policy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2612/fall-intern%3a-data-analysis-%26-ai-policy/job) |
-| American Enterprise Institute | Fall Intern: Data Analysis and Education Policy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2615/fall-intern%3a-data-analysis-and-education-policy/job) |
-| American Enterprise Institute | Fall Intern: Demographics and Political Economy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2631/fall-intern%3a-demographics-and-political-economy/job) |
-| American Enterprise Institute | Fall Intern: Development | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2606/fall-intern%3a-development/job) |
+| American Enterprise Institute | Fall Intern: Critical Threats Project - Communications and Operations | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2629/fall-intern%3a-critical-threats-project---communications-and-operations/job) |
+| American Enterprise Institute | Fall Intern: Critical Threats Project - Iran and Middle East | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2630/fall-intern%3a-critical-threats-project---iran-and-middle-east/job) |
+| American Enterprise Institute | Fall Intern: Critical Threats Project – Africa | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2628/fall-intern%3a-critical-threats-project-%e2%80%93-africa/job) |
+| American Enterprise Institute | Fall Intern: Data Analysis & AI Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2612/fall-intern%3a-data-analysis-%26-ai-policy/job) |
+| American Enterprise Institute | Fall Intern: Data Analysis and Education Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2615/fall-intern%3a-data-analysis-and-education-policy/job) |
+| American Enterprise Institute | Fall Intern: Demographics and Political Economy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2631/fall-intern%3a-demographics-and-political-economy/job) |
+| American Enterprise Institute | Fall Intern: Development | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2606/fall-intern%3a-development/job) |
 | American Enterprise Institute | Fall Intern: Economic Innovation and Editing | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2619/fall-intern%3a-economic-innovation-and-editing/job) |
 | American Enterprise Institute | Fall Intern: Economic Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2618/fall-intern%3a-economic-policy/job) |
-| American Enterprise Institute | Fall Intern: Editing Services | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2605/fall-intern%3a-editing-services/job) |
-| American Enterprise Institute | Fall Intern: Education Policy | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2608/fall-intern%3a-education-policy/job) |
-| American Enterprise Institute | Fall Intern: Events | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2604/fall-intern%3a-events/job) |
+| American Enterprise Institute | Fall Intern: Editing Services | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2605/fall-intern%3a-editing-services/job) |
+| American Enterprise Institute | Fall Intern: Education Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2608/fall-intern%3a-education-policy/job) |
+| American Enterprise Institute | Fall Intern: Events | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2604/fall-intern%3a-events/job) |
 | American Enterprise Institute | Fall Intern: FREE Initiative | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2600/fall-intern%3a-free-initiative/job) |
-| American Enterprise Institute | Fall Intern: Housing Center | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2614/fall-intern%3a-housing-center/job) |
+| American Enterprise Institute | Fall Intern: Housing Center | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2614/fall-intern%3a-housing-center/job) |
 | American Enterprise Institute | Fall Intern: Media Relations | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2602/fall-intern%3a-media-relations/job) |
-| American Enterprise Institute | Fall Intern: Military Strategy & US Defense Budget | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2632/fall-intern%3a-military-strategy-%26-us-defense-budget/job) |
-| American Enterprise Institute | Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2634/fall-intern%3a-national-security-strategy%2c-pentagon-budgeting%2c-and-the-us-defense-industrial-base/job) |
-| American Enterprise Institute | Fall Intern: Office of the President | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2607/fall-intern%3a-office-of-the-president/job) |
-| American Enterprise Institute | Fall Intern: Survey Center on American Life | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2616/fall-intern%3a-survey-center-on-american-life/job) |
-| American Enterprise Institute | Fall Intern: US Foreign Policy and Communications | Washington, DC, United States | [Apply](https://internships-aei.icims.com/jobs/2633/fall-intern%3a-us-foreign-policy-and-communications/job) |
+| American Enterprise Institute | Fall Intern: Military Strategy & US Defense Budget | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2632/fall-intern%3a-military-strategy-%26-us-defense-budget/job) |
+| American Enterprise Institute | Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2634/fall-intern%3a-national-security-strategy%2c-pentagon-budgeting%2c-and-the-us-defense-industrial-base/job) |
+| American Enterprise Institute | Fall Intern: Office of the President | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2607/fall-intern%3a-office-of-the-president/job) |
+| American Enterprise Institute | Fall Intern: Survey Center on American Life | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2616/fall-intern%3a-survey-center-on-american-life/job) |
+| American Enterprise Institute | Fall Intern: US Foreign Policy and Communications | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2633/fall-intern%3a-us-foreign-policy-and-communications/job) |
 | American Fidelity | Corporate Communications Intern | Oklahoma | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Corporate-Communications-Intern_JR815) |
 | American Red Cross | Youth Services Intern | San Diego, Canada | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/San-Diego-CA/Youth-Services-Intern_RC87810) |
 | AMERICAN SYSTEMS | SkillBridge Cybersecurity Intern (Transitioning Military) | Not Specified | [Apply](https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job) |
@@ -5068,11 +5068,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | Physics \| Electrical Engineering internship: digital twin optimization | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Physics---Electrical-Engineering-internship--digital-twin-optimization_J-00342443) |
 | ASML | Physics \| Electrical Engineering internship: machine learning image correction | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Physics---Electrical-Engineering-internship--machine-learning-image-correction_J-00342460) |
 | AstraZeneca | Insights & Business Excellence Intern (1 year) | Taiwan | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Taiwan/Insights---Business-Excellence-Intern--1-year-_R-254207) |
-| Axway | Business Analytics Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8663/business-analytics-internship/job) |
-| Axway | Demand Generation & Marketing Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8662/demand-generation-%26-marketing-internship/job) |
-| Axway | DevOps & Automation Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8661/devops-%26-automation-internship/job) |
+| Axway | Business Analytics Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8663/business-analytics-intern/job) |
+| Axway | Demand Generation & Marketing Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8662/demand-generation-%26-marketing-intern/job) |
+| Axway | DevOps & Automation Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8661/devops-%26-automation-intern/job) |
 | Axway | Product Marketing Internship | United States Remote | [Apply](https://careers-axway.icims.com/jobs/8666/product-marketing-internship/job) |
-| Axway | Software Engineering Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8659/software-engineering-internship/job) |
+| Axway | Software Engineering Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8659/software-engineering-internship-%28b2bi%29/job) |
 | Axway | UIUX Internship | Scottsdale, AZ, United States | [Apply](https://careers-axway.icims.com/jobs/8656/uiux-intern/job) |
 | Banner Health | Care Transformation Intern | Banner Health Corp Phoenix (2901 N Central Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Care-Transformation-Intern_R4442088) |
 | Banner Health | High School Intern Tucson | Bumc Tucson (3838 N Campbell Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-3838-N-Campbell-Ave/High-School-Intern-Tucson_R4444830-1) |
@@ -5114,7 +5114,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Covestro | QUALITY & DATA CONTROL (M/F) - STAGE | Italy | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Filago-Lombardy-Italy/QUALITY---DATA-CONTROL--M-F----STAGE_JR-2026-01009) |
 | CoxHealth | Primary Advanced Imaging Student - South Ultrasound - PRN Day Shift | Springfield, MO | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Primary-Advanced-Imaging-Student---South-Ultrasound---PRN-Day-Shift_R14769) |
 | Crowe | Tax Intern Winter 2027 | Chicago Il USA / Los Angeles CA USA / Columbus Oh USA / Denver Co USA / Fort Lauderdale Fl USA / Sacramento CA USA / South Bend In USA / Atlanta Ga USA | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Tax-Intern-Winter-2027_R-47932) |
-| Cummings Electrical | Madsen BHI Social Services Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/83702/madsen-bhi-social-services-internship/job) |
+| Cummings Electrical | Madsen BHI Social Services Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/83702/social-services-internship/job) |
 | Cummings Electrical | Pharmacy Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/83531/pharmacy-internship/job) |
 | Cummings Electrical | Redstone BHI Social Services Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/83698/redstone-bhi-social-services-internship/job) |
 | Cummings Electrical | Social Media & Digital Communications Graduate Intern | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/82879/administrative-internship/job) |
@@ -5296,7 +5296,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HERE Technologies | Treasury Intern (FX Exposure & Automation) | NL-Amsterdam | [Apply](https://careers-here.icims.com/jobs/81442/treasury-intern-%28fx-exposure-%26-automation%29/job) |
 | Hewlett Packard (HP) | Digital Transformation Intern | Argentina | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Buenos-Aires-Buenos-Aires-Argentina/Digital-Transformation-Intern_3158956) |
 | Hines | Assistant General Manager – Student Accommodation | Fr-75 | [Apply](https://careers-hines.icims.com/jobs/14161/assistant-general-manager-%e2%80%93-student-accommodation/job) |
-| Hines | General Manager - Student Housing | It-Bologna Bo | [Apply](https://careers-hines.icims.com/jobs/14074/general-manager---student-housing/job) |
 | Hines | Intern - Asset Management | It-Milan | [Apply](https://careers-hines.icims.com/jobs/13643/intern---asset-management/job) |
 | Hines | Intern – Investment & Development Summer Associate | Es-Madrid | [Apply](https://careers-hines.icims.com/jobs/13901/intern-%e2%80%93-investment-%26-development-summer-associate/job) |
 | Hines | Intern – Real Estate | Sg-Singapore | [Apply](https://careers-hines.icims.com/jobs/14126/intern-%e2%80%93-real-estate/job) |
@@ -5340,12 +5339,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Keysight Technologies | Impedance-Based Side-Channel Analysis Internship | Netherlands | [Apply](https://jobs.keysight.com/jobs/48908?lang=en-us&icims=1) |
 | Keysight Technologies | Internship – Security Research & GPU Development (Fault Injection) | Netherlands | [Apply](https://jobs.keysight.com/jobs/46985?lang=en-us&icims=1) |
 | Keysight Technologies | Marketing Intern - Lead Processing & Business Operations | Spain | [Apply](https://jobs.keysight.com/jobs/52669?lang=en-us&icims=1) |
-| Keysight Technologies | Marketing Operations Intern – CRM & Lead Management | Spain | [Apply](https://jobs.keysight.com/jobs/49926?lang=en-us&icims=1) |
+| Keysight Technologies | Marketing Intern – Data Analyst | Spain | [Apply](https://jobs.keysight.com/jobs/49926?lang=en-us&icims=1) |
 | Keysight Technologies | Optical Measurement Scientist Intern | Germany | [Apply](https://jobs.keysight.com/jobs/52570?lang=en-us&icims=1) |
 | Keysight Technologies | R&D Internship - 6G Cellular Systems | Spain | [Apply](https://jobs.keysight.com/jobs/52553?lang=en-us&icims=1) |
 | Keysight Technologies | R&D Internship – 6G Cellular Systems, Cloud & AI | Spain | [Apply](https://jobs.keysight.com/jobs/52839?lang=en-us&icims=1) |
 | Keysight Technologies | R&D researcher intern | Denmark | [Apply](https://jobs.keysight.com/jobs/52842?lang=en-us&icims=1) |
-| Keysight Technologies | R&D Student Position - 6G Cellular Systems | Denmark | [Apply](https://jobs.keysight.com/jobs/52555?lang=en-us&icims=1) |
 | Keysight Technologies | Working Student (m/f/d) Quality Assurance Battery and Energy Solutions | Germany | [Apply](https://jobs.keysight.com/jobs/52762?lang=en-us&icims=1) |
 | Keysight Technologies | Working student (m/f/d) Technical Video Content & Learning Products | Germany | [Apply](https://jobs.keysight.com/jobs/48149?lang=en-us&icims=1) |
 | Kinaxis | Co-Op/ Intern Curriculum Developer | Not Specified | [Apply](https://careers-kinaxis.icims.com/jobs/34756/co-op--intern-curriculum-developer/job) |
@@ -5506,10 +5504,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sony Pictures Entertainment | B2B Marketing Intern | Brazil | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/So-Paulo-Brazil/B2B-Marketing-Intern_JR113296) |
 | SpaceX | Lead Structural Welder (Stage 0 Propellant Systems) - Night Shift | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8585801002?gh_jid=8585801002) |
 | SRI International | Drexel University Co-op: Software Engineering | Princeton, NJ, United States | [Apply](https://careers-sri.icims.com/jobs/6417/drexel-university-co-op%3a-software-engineering/job) |
-| SSOE Group | Mechanical Engineering Co-op - Fall 2026 | Toledo, OH, United States / Nashville, TN, United States | [Apply](https://careers-ssoe.icims.com/jobs/3530/mechanical-engineering-co-op---fall-2026/job) |
-| SSOE Group | Structural Engineering Co-op - Fall 2026 | Nashville, TN, United States / Birmingham, AL, United States | [Apply](https://careers-ssoe.icims.com/jobs/3474/structural-engineering-co-op---fall-2026/job) |
 | SSOE Group | Structural Engineering Co-op - Fall 2026 | Toledo, OH, United States / Columbus, OH, United States | [Apply](https://careers-ssoe.icims.com/jobs/3473/structural-engineering-co-op---fall-2026/job) |
-| SSOE Group | Structural Engineering Co-op -Fall 2026 | Troy, MI, United States | [Apply](https://careers-ssoe.icims.com/jobs/3472/structural-engineering-co-op--fall-2026/job) |
 | Steel Dynamics | High School Health & Safety Internship | New Haven, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/7334/high-school-health-%26-safety-internship/job) |
 | Stifel | Branch Intern | Not Specified | [Apply](https://careers-stifel.icims.com/jobs/9420/branch-intern/job) |
 | Stryker | Intern, Maintenance Department | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Skawina-Poland/Intern--Maintenance-Department_R567037-1) |
@@ -5581,7 +5576,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Walter P Moore | Engineering Intern - Secure Design | Washington, DC, United States | [Apply](https://careers-walterpmoore.icims.com/jobs/3587/engineering-intern---secure-design/job) |
 | Walter P Moore | Engineering Intern - Water Resources | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/4100/engineering-intern---water-resources/job) |
 | Walter P Moore | Engineering Intern - Water Resources | Houston, TX, United States / Dallas, TX, United States / Fort Worth, TX, United States | [Apply](https://careers-walterpmoore.icims.com/jobs/3996/engineering-intern---water-resources/job) |
-| Walter P Moore | Intern - Corporate | Dallas, TX, United States | [Apply](https://careers-walterpmoore.icims.com/jobs/4103/intern---corporate/job) |
 | Walter P Moore | Mechanical Intern – MEP | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/4004/mechanical-intern-%e2%80%93-mep/job) |
 | Walter P Moore | Recruiting Intern - Corporate | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/4108/recruiting-intern---corporate/job) |
 | Walter P Moore | Structural Engineer - Intern | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/3574/structural-engineer---intern/job) |
