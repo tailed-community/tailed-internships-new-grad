@@ -8,6 +8,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply |
 |---|---|---|---|
 | Advocate Health Care | Registered Nurse (RN) New Graduate, Cardiothoracic Vascular Surgery | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/New-Graduate-RN--5RT--Cardiothoracic-Vascular-Surgery_R210040-1) |
+| AECOM | Entry Level Civil Engineer - Ports and Marine | Orange, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000133961389) |
+| AECOM | Entry Level Transit Engineer | Austin, TX, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000133960551) |
 | Amentum | CFD Analysis Engineer-Entry Level (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/CFD-Analysis-Engineer-Entry-Level--ES2-_R0164402-1) |
 | Amentum | Electrical Engineer for Test Systems (early career) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Electrical-Engineer-for-Test-Systems--early-career-_R0164393-2) |
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Structural-Engineer-for-Liquid-Propulsion-Systems--Early-Career--ES2-_R0164427) |
@@ -47,6 +49,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medical University of South Carolina | Registered Nurse I (New Graduate) - 7E Medical Acute Care | Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/Registered-Nurse-I--New-Graduate----7E-Medical-Acute-Care_R-0000063912) |
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171965) |
 | Sentry Insurance | Facilities Technician (Entry-Level) | Stevens Point, WI | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Facilities-Technician--Entry-Level-_JR-142349) |
+| Société Générale de Surveillance (SGS) | Entry Level - Sample Coordinator | Fairfield, NJ, United States | [Apply](https://jobs.smartrecruiters.com/SGS/744000133962113) |
 | Takeda | Entry Level Phlebotomist | USA In Elkhart | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---IN---Elkhart/Entry-Level-Phlebotomist_R0183247-1) |
 | Takeda | Entry Level Phlebotomist/Medical Screener | USA Ga Duluth | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---Duluth/Entry-Level-Phlebotomist-Medical-Screener_R0183274-1) |
 | The Boeing Company | Entry Level or Associate Procurement Agent | USA Dallas, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Entry-Level-or-Associate-Procurement-Agent_JR2026516347) |
@@ -75,7 +78,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Dandy | Entry-Level Crown & Bridge Technician - Night Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/ee8fe9a4-18fc-41b0-8566-543c9b667659) |
 | Dandy | Entry-Level Crown & Bridge Technician - Swing Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/a8e5116e-5454-4f1e-87c9-6b6d7f911811) |
 | Desjardins | Personal Finance Advisor – University Graduate Program | Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre--Finances-personnelles--Relve-universitaire_R2608169-1) |
-| Eurofins | Entry Level Cell Culture Associate | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133689439) |
 | Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133682069) |
 | Eurofins | Entry Level Scientist - Biochemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133694449) |
 | Eurofins | Laboratory Technician (entry level) 12:30pm-9:00pm - Eurofins Environment Testing - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133623695) |
@@ -384,7 +386,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BMO (External) | Associate, Internal Sales, Intermediary Distribution, Calgary (New or Recent Graduate) - 12 months | Calgary, AB | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Associate--Internal-Sales--Intermediary-Distribution--Calgary--New-or-Recent-Graduate----12-months_R260018013) |
 | Cleveland Clinic | New Grad RN Resident - Acute Cardiac and Nephrology | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/New-Grad-RN-Resident---Acute-Cardiac-and-Nephrology_344641) |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular Stepdown | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Stepdown_325082) |
-| Eurofins | Entry Level Manufacturing Technician - 1st Shift | Nashville, TN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132226629) |
 | Hitachi | Buyer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Buyer--2027-new-graduate-hiring-_R0125590) |
 | Hitachi | Field Service Engineer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Field-Service-Engineer--2027-new-graduate-hiring-_R0125579) |
 | Hitachi | Marketing & Sales (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Marketing---Sales_R0125588) |
