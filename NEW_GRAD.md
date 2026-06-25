@@ -299,7 +299,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Marvell - MarvellCareers2 | Design Verification Engineer - Early Career | Ottawa, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Design-Verification-Engineer---Early-Career_2601655) |
 | Marvell - MarvellCareers2 | Hardware & Silicon Validation Engineer - Early Career | Westlake Village, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Hardware---Silicon-Validation-Engineer---Early-Career_2601748-1) |
 | MSIG USA | Reinsurance Underwriting Analyst(Junior / Entry-Level) | Nj-Warren | [Apply](https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Reinsurance-Underwriting-Analyst-Junior---Entry-Level-_JR-000895) |
-| N1 | New Grad Software Engineer (Backend Rust) | New York, United States / Remote / US, United States / Europe / San Francisco Bay Area | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
+| N1 | New Grad Software Engineer (Backend Rust) | New York, United States / San Francisco Bay Area / Remote / US, United States / Europe | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
 | N1 | New Grad Software Engineer (Full Stack) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a) |
 | National Indemnity Company | Entry Level Underwriter | Omaha, NE | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Entry-Level-Underwriter_R14735) |
 | National Information Solutions Cooperative (NISC) - testnisc | Quality Specialist (Entry-Level) | Any Nisc Location | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/7931665) |
@@ -685,8 +685,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Deliveroo | Software Engineer, New Grad | City Of, United Kingdom | [Apply](https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636) |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) |
-| Giga AI | Software Engineer (New Grads) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/gigaml/cb74c445-322b-47fc-804c-b0565e18ca3a) |
 | Giga AI | Software Engineer (New Grads) | New York | [Apply](https://jobs.ashbyhq.com/gigaml/7314c5c1-e3d0-4439-ad9f-b3b09d4dde51) |
+| Giga AI | Software Engineer (New Grads) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/gigaml/cb74c445-322b-47fc-804c-b0565e18ca3a) |
 | Jefferson Health | Surgical Technician OR (FT, Day) *New Grads Welcome - Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Surgical-Tech--Certified----OR---11a-7p---Jefferson--Bucks_REQ-0020456-1) |
 | Jefferson Health | Surgical Technician OR (FT, Day) *New Grads Welcome - Jefferson Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Certified-Surgical-Technician--Full-Time-_REQ-0022890-1) |
 | Northwood Space | DSP Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/965d06ea-9701-4b28-a87c-e44897136691) |

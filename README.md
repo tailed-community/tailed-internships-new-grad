@@ -87,6 +87,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Construction Intern | San Antonio | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/San-Antonio/Construction-Intern_JR18015) |
 | Figure - figureai | Integration and Test - Mechanical Engineering Intern [Fall 2026] | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
 | Figure - figureai | Mechanical Engineer Intern [Fall 2026] | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
+| Fizz | Social Media Intern | New York | [Apply](https://jobs.ashbyhq.com/fizz/b15cc388-1323-47c3-a1bb-c87e204022a9) |
 | Flextronics International | Data Analyst Intern | Guadalajara | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Data-Analyst-Intern_WD223633) |
 | FOX - FOX | Intern | Baton Rouge | [Apply](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-LA-Baton-Rouge/Intern_JR112592) |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | La Mesa, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/La-Mesa-CA-USA/Student-Dietitian-Clinical-Placement_R0258802) |
@@ -194,6 +195,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Morgan Stanley | Intern - Bilingual Eglish/Mandarin | California, United States | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-Eglish-Mandarin_JR037650) |
 | Morgan Stanley | Intern - Bilingual English/Spanish | California, United States | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR037647) |
 | Motorola Solutions | Java Intern | Poland | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Java-Intern_R66047) |
+| MUBI | Marketing Intern, CL | Chile / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/bee9858c-5658-462d-953a-c9307a5e4b1a) |
 | Nasdaq | Verafin - Information Security Student (Sept 2026) | Canada St. John's Newfoundland & Labrador / CA-Toronto-York St 24 / 25 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Information-Security-Student--Sept-2026-_R0026420) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | Nexstar | 2026 Fall Unpaid Intern | NC | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Raleigh/XMLNAME-2026-Fall-Unpaid-Intern_REQ-41986) |
@@ -1157,7 +1159,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Merck | Stage - Assistant(e) de l'Ingénieur Développement mécanique H/F | Fra Occitanie Albi | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/FRA---Occitanie---Albi/Stage---Assistant-e--de-l-Ingnieur-Dveloppement-mcanique-H-F_R404184-1) |
 | Micron Technology | Intern - Photolithography Process Development | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Photolithography-Process-Development_JR99070) |
 | Micron Technology | Intern-Assembly Equipment Technician | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern-Assembly-Equipment-Technician_JR104357) |
-| MUBI | Local Marketing Intern, CL | Santiago De Chile / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/57a896f6-b23a-4625-ae9b-6a53fc84b1fb) |
 | Newmark Group | Intern - Gerald Eve | India | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249044) |
 | Northwell Health | Pharmacy Intern - VIVOHealth | Nassau, United States | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/191656) |
 | Otis Worldwide | Intern, Quality (Long Term) | Merkez | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/MERKEZ/Intern--Quality--Long-Term-_20160189) |
@@ -2538,8 +2539,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle - jobsearch | SCA Project Manager Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334344) |
 | Pebl | Benefits Operations Experience Intern | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/fb9c59e7-20f6-4da9-941b-adc925dbef02) |
 | Pebl | Product Design Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/d672d2f1-dff3-4541-af05-1803bf0f9b5e) |
-| Pebl | Product Management Intern - Talent Solutions | Toronto, ON, Canada / Vancouver, BC / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/71d56313-31cb-4f5a-addf-dd9f9e470258) |
 | Pebl | Product Management Intern - Talent Solutions | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/4da3780a-ed0d-42ac-a899-635bdd00a764) |
+| Pebl | Product Management Intern - Talent Solutions | Toronto, ON, Canada / Vancouver, BC / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/71d56313-31cb-4f5a-addf-dd9f9e470258) |
 | Pebl | Software Engineer Intern, Conversational AI (Alfie) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44) |
 | Pebl | Software Engineer Intern, Invoicing & Payments | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612) |
 | Pebl | Software Engineer Intern, Payroll | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663) |
@@ -2604,7 +2605,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rise8 | SkillBridge Intern - Marketing | Remote | [Apply](https://job-boards.greenhouse.io/rise8/jobs/5004165007) |
 | Rivian and Volkswagen Group Technologies | Android Developer Intern - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) |
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a) |
-| Rivian and Volkswagen Group Technologies | Electromechanical Design Engineering Intern (Fall 2026) | California, United States / California / Illinois | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6) |
+| Rivian and Volkswagen Group Technologies | Electromechanical Design Engineering Intern (Fall 2026) | California, United States / Illinois / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern - Android Connectivity (Fall/Spring Co-op) | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Fall 2026) | California, United States / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Fall/Spring Co-op) | Toronto, ON, Canada / Vancouver, BC | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c) |
@@ -2612,7 +2613,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Embedded Platforms (Fall 2026) | California, United States / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Systems Engineering (Fall/Spring Co-op) | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls (Fall 2026) | California, United States / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) |
-| Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls (Fall/Spring Co-op) | Toronto, ON, Canada / Vancouver, BC | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e) |
+| Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls (Fall/Spring Co-op) | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e) |
 | Rivian and Volkswagen Group Technologies | Software Integration Engineering Intern (Fall/Spring) | Germany | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/986b68e0-9702-4828-9462-6adbe2984f1a) |
 | Rivian and Volkswagen Group Technologies | Technical Art, 3D Intern - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/59eed606-85cf-4470-8abd-fdaaefeeaa31) |
 | Robert Bosch Venture Capital | Cloud Developer Internship | Serbia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000132577425) |
@@ -2754,7 +2755,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Simon | Intern, Marketing | King Of Prussia, PA | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/King-of-Prussia-PA/Intern--Marketing_R12344-1) |
 | Simon | Intern, Marketing | Orlando, FL | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Orlando-FL/Intern--Marketing_R13574) |
 | Simon | Intern, Marketing | West Hartford, CT | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/West-Hartford-CT/Intern--Marketing_R13581) |
-| Sleeper | Fraud Operations Analyst Intern | United States / New York City / New Jersey / United States Remote | [Apply](https://jobs.ashbyhq.com/sleeper/4793381a-9bb0-447a-ae36-5a7055a58739) |
+| Sleeper | Fraud Operations Analyst Intern | United States / New Jersey / New York City / United States Remote | [Apply](https://jobs.ashbyhq.com/sleeper/4793381a-9bb0-447a-ae36-5a7055a58739) |
 | Smithfield Foods | Production OSU Intern | Jamesport, MO | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Jamesport-MO/Production-OSU-Intern_R-2026-6992) |
 | Smithfield Foods | Quality Systems Digitalization Intern (Bioscience) | Cincinnati, OH | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Cincinnati-OH/Quality-Systems-Digitalization-Intern--Bioscience-_R-2026-7720) |
 | Société Générale de Surveillance (SGS) | Alternant(e) chargé de mission RH | Idf, France | [Apply](https://jobs.smartrecruiters.com/SGS/744000132592346) |
@@ -5641,7 +5642,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Base Power | Member Experience Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/bef96e47-d08d-4717-a2be-28975b367a89) |
 | Base Power | Quantitative Developer Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
 | Base Power | Software Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) |
-| Base Power | Supply Chain Operations Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/ba27e1d2-db6c-4174-b36f-d33dbefc80f2) |
 | Blackbird Labs | Engineering Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38) |
 | Blockhouse | Rust Developer Intern (Summer 2026) | New York, United States | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
 | BorgWarner | Change Implementation Coordinator - Professional Internship (M/F/D) | Viana Do Castelo Ii Portugal | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-II---Portugal/Change-Implementation-Coordinator---Professional-Internship--M-F-D-_R2026-1528) |
@@ -5654,9 +5654,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Markets – Sales and Trading, Internship, São Paulo - Brazil, 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26968359) |
 | City of Austin | Public Health Temporary/Intern Opportunities | Grove Campus | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Grove-Campus/Public-Health-Temporary-Intern-Opportunities_JR104073) |
 | Cluely | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108) |
-| Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / United States / Europe / United Kingdom / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| Cohere | Research Internship (Fall, 2026) | Canada / United Kingdom / Europe / United States / Toronto / San Francisco / London / Montreal / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
-| Cohere | Research Internship Reinforcement Learning (Summer) | Paris, France / France / France Remote | [Apply](https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525) |
+| Cohere | Machine Learning Intern/Co-op  (Fall, 2026) | Canada / Europe / United States / United Kingdom / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| Cohere | Research Internship (Fall, 2026) | Canada / San Francisco / Europe / London / United States / United Kingdom / Toronto / Montreal / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Sales Development Intern (Summer, Fall 2026) | South Korea / Remote | [Apply](https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858) |
 | Cohere | Software Engineer Intern (Fall / Winter 2026) | Canada / United States / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
 | Context | Summer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8) |
@@ -5737,7 +5736,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Power Magnetics Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1) |
 | Heron Power | Intern, System Integration & Test Software | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
 | Hitachi | Internship - Direct Procurement with English | Poland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Direct-Procurement-with-English_R0132805-1) |
-| Homebase | Visual & Motion Design Intern (Hybrid) | Colorado, United States / Toronto / San Francisco / United States Remote | [Apply](https://jobs.ashbyhq.com/homebase/762b9eaf-db64-406b-a74b-ce1598321a19) |
+| Homebase | Visual & Motion Design Intern (Hybrid) | Colorado, United States / San Francisco / Toronto / United States Remote | [Apply](https://jobs.ashbyhq.com/homebase/762b9eaf-db64-406b-a74b-ce1598321a19) |
 | HPE | Middle East Marketing Intern | Saudi Arabia | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/Middle-East-Marketing-Intern_1207421) |
 | Instawork | Finance Intern | India | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4687486006) |
 | IQVIA | Intern | India | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Bangalore-India/Intern_R1549869) |
@@ -5765,14 +5764,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Marvell | Digital IC Design Intern | Argentina | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) |
 | Mechanize | Software Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
 | Melotech | AI/ML Engineer Intern | Germany / New York / London / Remote | [Apply](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073) |
-| Melotech | Data Science Intern, Music & Audio | Germany / London / New York / Los Angeles / San Francisco / Remote | [Apply](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2) |
-| Melotech | Entrepreneur in Residence (Intern) | Germany / London / New York / Los Angeles / San Francisco / Remote | [Apply](https://jobs.ashbyhq.com/melotech/1772b89d-7dff-427f-98b5-a4baf860629a) |
-| Melotech | Founders Associate Intern | Germany / New York / London / Los Angeles / San Francisco / Remote | [Apply](https://jobs.ashbyhq.com/melotech/db940f5c-7343-4cbe-be9f-def888ef301e) |
-| Melotech | Full-Stack Developer Intern, Music & Audio | Germany / London / New York / Los Angeles / San Francisco / Remote | [Apply](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5) |
+| Melotech | Data Science Intern, Music & Audio | Germany / San Francisco / New York / London / Los Angeles / Remote | [Apply](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2) |
+| Melotech | Entrepreneur in Residence (Intern) | Germany / San Francisco / New York / London / Los Angeles / Remote | [Apply](https://jobs.ashbyhq.com/melotech/1772b89d-7dff-427f-98b5-a4baf860629a) |
+| Melotech | Founders Associate Intern | Germany / San Francisco / New York / London / Los Angeles / Remote | [Apply](https://jobs.ashbyhq.com/melotech/db940f5c-7343-4cbe-be9f-def888ef301e) |
+| Melotech | Full-Stack Developer Intern, Music & Audio | Germany / San Francisco / New York / London / Los Angeles / Remote | [Apply](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5) |
 | Meridian Partners | IT Specialist Co-op | Cambridge, MA | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7608052003) |
-| Meshy | Data Analyst Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/9c5ad244-68f2-499c-895f-93c908318f52) |
 | Meshy | Fullstack Engineer Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
-| Meshy | Generative AI Researcher Intern | China / Shenzhen / Beijing / Remote | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
+| Meshy | Generative AI Researcher Intern | China / Beijing / Shenzhen / Remote | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) |
 | Meshy | Infrastructure Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
 | Micron Technology | Intern / Working Student - System Engineering Lab (f/m/d) | Germany | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Munich-Leopold-Germany/Intern---Working-Student---System-Engineering-Lab--f-m-d-_JR103324) |
 | Nash | Full Stack Engineering Intern | California, United States / Remote / United States Remote | [Apply](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5) |
@@ -5785,8 +5783,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Output Biosciences | Research Intern (PhD), Machine Learning | New York, United States / Bay Area | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
 | Perplexity AI | AI Inference Internship | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) |
 | Perplexity AI | Internship - Search Backend Infra Engineer | Serbia | [Apply](https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) |
-| Perplexity AI | Internship - Search Machine Learning Engineer | Serbia | [Apply](https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) |
 | Perplexity AI | Internship - Search Machine Learning Engineer | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d) |
+| Perplexity AI | Internship - Search Machine Learning Engineer | Serbia | [Apply](https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) |
 | Phia | Full Stack Engineer Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162) |
 | Philips | Customer Order Intern | Varginha | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Customer-Order-Intern_584414) |
 | Philips | HR Internship – Manufacturing People Partner | Drachten | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Intern---Manufacturing-People-Partnering_584740) |
@@ -5802,7 +5800,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Prior Labs | Research Scientist Intern (PhD) | Germany / Freiburg / New York | [Apply](https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e) |
 | Prysmian Cables & Systems | Value Stream Intern | Taunton, MA | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Taunton-MA/Value-Stream-Intern_R-34135) |
 | Ramp | Software Engineer Internship, Android | New York City, NY, United States / San Francisco, Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) |
-| Reality Defender | Audio/Multimodal AI PhD Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/realitydefender/e937807e-6dde-4753-ac83-4794b25bc357) |
 | REGENT | SkillBridge -  Cybersecurity & IT Operations Associate | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/regent/333c79eb-577e-4ee1-9570-0d61fc1a8d3b) |
 | REGENT | SkillBridge: Manager, Defense Business Development | District Of Columbia, United States | [Apply](https://jobs.ashbyhq.com/regent/08408f68-5ea2-4b51-a516-1841544ff89c) |
 | Replit | Software Engineering Intern (Summer 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) |
@@ -5825,14 +5822,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sereact | Internship Sales | Germany / Remote | [Apply](https://jobs.ashbyhq.com/sereact/b1307f88-d714-429d-acda-5249941e7ba2) |
 | Sereact | Internship Strategy & Execution (m/f/d) | Germany | [Apply](https://jobs.ashbyhq.com/sereact/816245cb-3d32-4e9c-b647-c75cd40fc487) |
 | Signify | Marketing Communications Intern | Prague | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Prague/Marketing-Communications-Intern_364937) |
-| Simular | GTM Intern | California, United States / Singapore / Remote | [Apply](https://jobs.ashbyhq.com/Simular/4848fd37-97f5-4595-851d-0795da9f21b4) |
+| Simular | GTM Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/4848fd37-97f5-4595-851d-0795da9f21b4) |
 | Simular | People & Operations Intern | Singapore / Palo Alto | [Apply](https://jobs.ashbyhq.com/Simular/cfa6bbf8-f9ab-4ff2-8473-b71ad8651d1f) |
 | Simular | PhD Research Intern | California, United States / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009) |
-| Simular | Software Engineer Intern | California, United States / Singapore / Remote | [Apply](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a) |
+| Simular | Software Engineer Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a) |
 | Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3) |
 | Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb) |
-| Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25) |
 | Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | Switzerland / Finland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/92a7a891-d332-459c-9aa8-e96afea4f2a4) |
+| Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25) |
 | Skydio | Autonomy Engineer Intern Fall 2026 | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/c48dabe8-cb67-4694-aacc-f9ef4d34ae50) |
 | Skydio | Middleware Software Engineer Intern - Fall 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) |
 | Skydio | PhD Autonomy Engineer Intern - Deep Learning or Computer Vision | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519) |
@@ -5893,7 +5890,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wealth.com | Applied Scientist- AI/ML Intern | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/wealth-com/1899d513-4c4a-43b2-a307-8c8e4b877622) |
 | WindBorne Systems | Creative Intern | California, United States | [Apply](https://jobs.ashbyhq.com/windborne-systems/eef84470-7eea-40c4-9bfc-43b9a14d9957) |
 | WindBorne Systems | Firmware Intern | California, United States | [Apply](https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843) |
-| WindBorne Systems | Sensors Intern | California, United States | [Apply](https://jobs.ashbyhq.com/windborne-systems/48d2e920-2a1b-4505-aaf2-eae9c4e0c000) |
 | Zip | Software Engineer Intern (Fall 2026) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f) |
 | Abbott | Digital Marketing Working Student (m/f/d) | Germany Wiesbaden-Delkenheim | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany---Wiesbaden-Delkenheim/Digital-Marketing-Working-Student--m-f-d-_31150907) |
 | Abbott | Intern Marketing (m/f/d) | Germany Wiesbaden-Delkenheim | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany---Wiesbaden-Delkenheim/Intern-Marketing--m-f-d-_31151823) |
