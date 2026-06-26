@@ -97,6 +97,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Haleon | BD Intern | Shanghai Qiantan Plaza | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/SHANGHAI-QIANTAN-PLAZA/BD-Intern_545551) |
 | Haleon | Intern | Suzhou Plant Tech Industry Park | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Suzhou-Plant-Tech-Industry-Park/Intern_545547) |
 | Haleon | Marketing Intern, VMS | Finance Center Building | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Finance-Center-Building/Marketing-Intern--VMS_545413) |
+| Harvey | Law School Student Ambassador | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/harvey/a194c24f-38ee-4c7e-908b-060a16dfaa9d) |
 | Hendrick Motorsports | Operational Excellence Fall 2026 Intern | Hendrick Technical Solutions | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Operational-Excellence-Fall-2026-Intern_R-81565) |
 | Hendrick Motorsports | Racing Performance Engineer - Fall 2026 Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564) |
 | Hewlett Packard (HP) | Data Analyst Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248) |
@@ -2640,7 +2641,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle - jobsearch | OH Product Manager Intern - OVIP | Kansas City, MO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334348) |
 | Oracle - jobsearch | ONA AI Agent Intern (Logistics Focus) - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334345) |
 | Oracle - jobsearch | SCA Project Manager Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334344) |
-| Pebl | Benefits Operations Experience Intern | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/fb9c59e7-20f6-4da9-941b-adc925dbef02) |
 | Pebl | Product Design Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/d672d2f1-dff3-4541-af05-1803bf0f9b5e) |
 | Pebl | Product Management Intern - Talent Solutions | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/4da3780a-ed0d-42ac-a899-635bdd00a764) |
 | Pebl | Product Management Intern - Talent Solutions | Toronto, ON, Canada / Vancouver, BC / Canada Remote | [Apply](https://jobs.ashbyhq.com/pebl/71d56313-31cb-4f5a-addf-dd9f9e470258) |
@@ -5668,7 +5668,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Power Magnetics Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1) |
 | Heron Power | Intern, System Integration & Test Software | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
 | Hitachi | Internship - Direct Procurement with English | Poland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Direct-Procurement-with-English_R0132805-1) |
-| Homebase | Visual & Motion Design Intern (Hybrid) | Colorado, United States / San Francisco / Toronto / United States Remote | [Apply](https://jobs.ashbyhq.com/homebase/762b9eaf-db64-406b-a74b-ce1598321a19) |
 | HPE | Middle East Marketing Intern | Saudi Arabia | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/Middle-East-Marketing-Intern_1207421) |
 | Instawork | Finance Intern | India | [Apply](https://job-boards.greenhouse.io/instawork/jobs/4687486006) |
 | Jones Lang LaSalle (JLL) | Environmental Design Internship - Fall 2026 | Columbus, OH | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Environmental-Design-Internship---Fall-2026_REQ510010) |
@@ -5786,8 +5785,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Super | Software Engineering Intern, Data | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d) |
 | Super | Travel Supply Analyst Intern (8-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2) |
 | Swift | Linux (RHEL) system administrator internship – 6x Months | London, United Kingdom | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Linux--RHEL--system-administrator-internship---6x-Months_2026-15764) |
-| Taara | 2026 Software Engineering Internship | Sunnyvale, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/taaraconnect/ed52ef53-dca2-433e-a2b7-6003d8be7ea2) |
-| Taara | 2026 Systems and Control Engineering Internship | Sunnyvale, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/taaraconnect/cd4e36c0-1655-4847-b5f7-0110cbc33839) |
 | TENEX.AI | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
 | Tenstorrent | CPU/AI Workload Analysis Intern | California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) |
 | Tessera Labs | Product Manager, Intern | California, United States / New York City Office / United States Remote | [Apply](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544) |
