@@ -36,6 +36,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | Program Assistant, MIS (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Program-Assistant--MIS--Student---FWS-_R4405) |
 | Analytical Mechanics Associates | Dragonfly Intern | Greenbelt, MD | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Greenbelt-MD/Dragonfly-Intern_R-100672) |
 | Arizona State University | Student Account Representative | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Student-Account-Representative_JR122586-1) |
+| Ascendis Pharma | Student Assistant, Market Access & Pricing, Europe and International | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/6C011D3B33/) |
 | ASML | Internship - DUV team - Taichung | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Taichung-Taiwan/Internship---DUV-team---Taichung_J-00345756) |
 | AstraZeneca | Internship - Medical Intern (6 months) | Taiwan | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Taiwan/Internship---Medical-Intern--1-year-_R-248742) |
 | AtkinsRéalis | Intern - Flood Modelling | Atkinsréalis Corporate Office Bangalore / In.mumbai.embassy 247 Park / Snc-Lavalin Atkins Pune Office | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern---Flood-Modelling_R-158360-1) |
@@ -147,6 +148,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kabam | User Research Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857) |
 | KCI Technologies | Engineering Intern | Exton, PA, United States | [Apply](https://careers-kci.icims.com/jobs/7879/engineering-intern/job) |
 | Kenvue | Programa de Interns Kenvue 2026.2 \| MARKETING \| México  - Ciudad de México | Mexico City | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Mexico-Distrito-Federal-Mexico-City/Programa-de-Interns-Kenvue-20262---Mxico----Ciudad-de-Mxico_2607045140W) |
+| Keywords Studios | Accounts Payable Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/A2DF93B2D3/) |
+| Keywords Studios | HR ADMIN - Student Traineeship | Poland | [Apply](https://apply.workable.com/keywords-intl1/j/41203FA127/) |
+| Keywords Studios | HR Business Partner Intern | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/C8A816B0EB/) |
+| Keywords Studios | HR Intern | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/98837ABB71/) |
+| Keywords Studios | Marketing Intern | Remote | [Apply](https://apply.workable.com/keywords-intl1/j/3DB1BB30D8/) |
+| Keywords Studios | SSC Payment Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/4265B34738/) |
+| Keywords Studios | Talent Acquisition Intern for Player Engagement 2026 | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/1D8536672D/) |
 | Kraft Heinz - KraftHeinz_Careers | Culinary Capabilities Intern | Nijmegen | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Culinary-Capabilities-Intern_R-104123) |
 | Kroll | Intern, Investigations Diligence and Compliance (Core) | Ont, Canada | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014505) |
 | Kroll | Intern, Investigations Diligence and Compliance (Core) | Washington, DC, United States | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014506) |
@@ -3475,6 +3483,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eulerity | Internship, Finance | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4689435006) |
 | Eurofins | Internship - Business Admin / Management (6 Months) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132103500) |
 | Experian | Accounting Associates Graduate (Global Finance) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000132120535) |
+| Falcomm | Graduate RFIC Engineering Intern/Co-Op | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/AB7EFC1931/) |
+| Falcomm | ML Software Engineer Intern - AI/CAD Integration | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/B5EB495F31/) |
+| Falcomm | Operations Intern | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/156AD9A12B/) |
+| Falcomm | Undergraduate RFIC Engineering Intern | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/19F2F69604/) |
 | Foundation | Controls Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) |
 | Foundation | electrical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/85b37acb-be92-4907-be88-a4181c23b9ec) |
 | Foundation | Mechanical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/cd029376-1fb1-4b58-bcb2-ba87f4a2826f) |
@@ -3577,11 +3589,16 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | D.c. | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
+| pony.ai | Research Intern - Deep Learning | California, United States | [Apply](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) |
+| pony.ai | Software Engineer Intern - Generalist | California, United States | [Apply](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) |
 | PricewaterhouseCoopers (PwC) | Internship - Document Automation | Prague | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Internship---Document-Automation_737167WD) |
 | Procter & Gamble (P&G) | AI Engineer Internship (m/f/x) | Madrid General Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MADRID-GENERAL-OFFICE/AI-Engineer-Internship--m-f-x-_R000153485) |
 | Procter & Gamble (P&G) | Finance Intern - Irapuato Plant | Irapuato Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/IRAPUATO-PLANT/Finance-Intern---Irapuato-Plant_R000152902) |
 | Prysmian Cables & Systems | Purchasing Intern-1 | Sorocaba | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Sorocaba/Purchasing-Intern-1_R-32357) |
 | Prysmian Cables & Systems | Spain Applications - Intern | Vilanova, ES | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Vilanova-ES/Spain-Applications---Intern_R-34395) |
+| Quadric | AI Inference Engineer Intern - Model Pruning | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/870833317E/) |
+| Quadric | AI Kernel Engineer Intern - Kernel Optimization | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/) |
+| Quadric | Design Verification Intern | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/) |
 | RBC | Client Advisor Intern | Stratford, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/STRATFORD-Ontario-Canada/Client-Advisor-Intern_R-0000176542) |
 | RBC | Relationship Manager Intern - Commercial Banking | Burlington, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BURLINGTON-Ontario-Canada/Relationship-Manager-Intern---Commercial-Banking_R-0000175725) |
 | Red Bull | Student Marketeer - California State University, Fresno | Fresno, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000132277645) |
