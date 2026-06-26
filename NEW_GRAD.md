@@ -23,6 +23,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ING | Analyst Capital Markets & Advisory – Early Career Group, Homebase Asset Securitisation (ASec) (w/m/d) | Frankfurt | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Analyst-Capital-Markets---Advisory---Early-Career-Group--Homebase-Asset-Securitisation--ASec---w-m-d-_REQ-10116929-1) |
 | Intermountain Healthcare | New Grad RN Med Oncology | Intermountain Health St George Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/New-Grad-RN-Med-Oncology_R175672-1) |
 | Johns Manville (JM) | GP&L Associate- Entry Level Procurement Role | Denver Co Whq | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/GP-L-Associate--Entry-Level-Procurement-Role_R26_1075) |
+| KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) |
 | Leidos | Research Administrator Jr - Entry Level | San Diego, Canada | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Administrator-Jr---Entry-Level_R-00186130) |
 | NXP Semiconductors | Diffusion Process Engineer - Entry Level | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Senior-Cleans-Process-Engineer_R-10062912) |
 | NXP Semiconductors | NFC System Software Engineer - Entry Level | San Jose (holger Way) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298) |
@@ -31,6 +32,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Rogers Behavioral Health | Registered Nurse - 2026 New Grads! | Brown Deer, WI | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Main-Campus-Brown-Deer-WI/Registered-Nurse---2026-New-Grads-_R7838) |
 | Takeda | Entry Level Phlebotomist/Medical Screener | USA Mi Grandville | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MI---Grandville/Entry-Level-Phlebotomist-Medical-Screener_R0183325-1) |
 | Takeda | Entry Level Phlebotomy | USA Mn Mankato | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MN---Mankato/Entry-Level-Phlebotomy_R0183342-1) |
+| TDS | Entry Level Sales Representative | Twin Falls, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29543/entry-level-sales-representative/job) |
+| TDS | Entry Level Sales Representative | Spokane, WA, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29564/entry-level-sales-representative/job) |
+| TDS | Entry Level Sales Representative | Billings, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29565/entry-level-sales-representative/job) |
+| TDS | Entry Level Sales Representative | Missoula, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29566/entry-level-sales-representative/job) |
+| TDS | Entry Level Sales Representative | Nampa, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29568/entry-level-sales-representative/job) |
+| TDS | Entry Level Sales Representative | Great Falls, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29569/entry-level-sales-representative/job) |
 | The Boeing Company | Flight Controls Systems Service Engineer (Entry-Level or Associate) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Flight-Controls-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026515797-1) |
 | The Boeing Company | Supply Chain Customer Support Specialist (Entry-Level) | USA Dallas, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Supply-Chain-Customer-Support-Specialist--Entry-Level-_JR2026515695-1) |
 | The Boeing Company - external_subsidiary | Flight Controls Systems Service Engineer (Entry-Level or Associate) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Flight-Controls-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026515797) |
@@ -150,7 +157,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Draper | Entry Level RF Engineer | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626) |
 | Gartner | Sales Development Graduate Program | London | [Apply](https://gartner.wd5.myworkdayjobs.com/EXT/job/London/Sales-Development-Associate_87623) |
 | GE Vernova - vernova_externalsite | Part Sales Specialist - Early Career Trainee | Riyadh Sa 11 / Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh-SA-11/Part-Sales-Specialist---Early-Career-Trainee_R5042833-2) |
-| General Dynamics Mission Systems | ASIC FPGA Engineer – Entry Level | Bloomington, MN, United States | [Apply](https://careers-gdms.icims.com/jobs/73210/asic-fpga-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Entry Level Software Engineer | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/73193/entry-level-software-engineer/job) |
 | Intertek | Caleb Brett - Entry-Level Petroleum Inspector | St Louis, MO, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15100) |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Toa Baja, PR, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15101) |
@@ -388,7 +394,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Nightwing Intelligence Solutions | Logistics Specialist-Entry Level | Sterling, VA | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Logistics-Specialist-Entry-Level_JR101780) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Nashville / Murfreesboro / Franklin / Spring Hill, TN | Nashville | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Nashville/Field-Service-Technician--Entry-Level----Nashville---Murfreesboro---Franklin---Spring-Hill--TN_R000153535) |
 | Takeda | Entry Level Plasma Center Technician - Phlebotomist | USA Ga Snellville | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---Snellville/Entry-Level-Plasma-Center-Technician---Phlebotomist_R0182360) |
-| Vanasse Hangen Brustlin (VHB) | Entry Level NEPA Planner | Atlanta, GA, United States | [Apply](https://careers-vhb.icims.com/jobs/6021/entry-level-nepa-planner/job) |
 | WeRide | New Grads 2026 - General Software Engineer (Beijing/Guangzhou/Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/012d6448-fa8c-4a68-8767-d99f4d1b9bea) |
 | AstraZeneca | IN-MOTION – Medical Immersive Graduate Program | Indonesia Jakarta | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Indonesia---Jakarta/IN-MOTION---Medical-Immersive-Graduate-Program_R-254403) |
 | BMO (External) | Associate, Internal Sales, Intermediary Distribution (New or Recent Graduate) - 12 months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Internal-Sales--Intermediary-Distribution--New-or-Recent-Graduate-_R260003185) |
@@ -586,7 +591,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics Mission Systems | Mechanical Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72908/mechanical-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Software Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72777/software-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72783/systems-engineer-%e2%80%93-entry-level/job) |
-| General Dynamics Mission Systems | Systems Engineer – Entry Level | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/72319/systems-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level - clearance required | Dedham, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72402/systems-engineer-%e2%80%93-entry-level---clearance-required/job) |
 | General Motors | Software Verification Engineer, AV Platform (Early Career) | Michigan, United States | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Verification-Engineer--AV-Platform--Early-Career-_JR-202611592) |
 | Geosyntec Consultants | Early Career Geotechnical Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4200/early-career-geotechnical-engineer/job) |
@@ -596,7 +600,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | KCI Technologies | Entry Level Field Surveyor | Sparks, MD, United States | [Apply](https://careers-kci.icims.com/jobs/7792/entry-level-field-surveyor/job) |
 | KCI Technologies | Entry Level Land Surveyor | Pittsburgh, PA, United States | [Apply](https://careers-kci.icims.com/jobs/7857/entry-level-land-surveyor/job) |
 | KCI Technologies | Entry Level Land Surveyor | Fort Lauderdale, FL, United States | [Apply](https://careers-kci.icims.com/jobs/7851/entry-level-land-surveyor/job) |
-| KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7553/entry-level-sue-technician/job) |
 | Marmon Holdings | 2nd & 3rd Entry Level Shift Machine Operators | Sault Ste. Marie, MI | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sault-Ste-Marie-MI/XMLNAME-2nd---3rd-Entry-Level-Shift-Machine-Operators_JR0000043689-1) |
 | Marsh | Graduate Program Credit Specialty Team | Brussels Herrmann Debroux / Antwerp Uitbreidingstraat 72 / Ghent Raymonde | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Brussels---Herrmann-Debroux/Graduate-Program-Credit-Specialty-Team_R_350741) |
 | Marsh | P&C Insurance Account Executive (Open to recent graduate) | Nanjing Deji Tower | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Nanjing---Deji-Tower/P-C-Insurance-Account-Executive--Open-to-recent-graduate-_R_354607) |
@@ -625,9 +628,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | TDS | Entry Level Sales Representative | Hobbs, NM, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29140/entry-level-sales-representative/job) |
 | TDS | Entry Level Sales Representative | Mooresville, NC, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29325/entry-level-sales-representative/job) |
 | TDS | Entry Level Sales Representative | Madison, WI, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29366/entry-level-sales-representative/job) |
-| TDS | Entry Level Sales Representative | Billings, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29371/entry-level-sales-representative/job) |
-| TDS | Entry Level Sales Representative | Nampa, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29372/entry-level-sales-representative/job) |
-| TDS | Entry Level Sales Representative | Twin Falls, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29373/entry-level-sales-representative/job) |
 | TDS | Entry Level Sales Representative | Eau Claire, WI, United States / Menomonie, WI, United States / Chippewa Falls, WI, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29378/entry-level-sales-representative/job) |
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada Edmonton, AB | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761) |
 | The Boeing Company | Entry-Level Structural Analysis Engineer | Poland | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Warsaw-Poland/Entry-Level-Structural-Analysis-Engineer_JR2026514338-1) |
