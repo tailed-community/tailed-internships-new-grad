@@ -16,6 +16,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Diesel Mechanic | Jacksonville Fl | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Jacksonville-FL/Entry-Level-Diesel-Mechanic_R202679278) |
 | Cox | Entry Level Software Engineer | Atlanta Ga / Austin Tx / Burlington Vt / Irvine CA / Long Island Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer_R202675618) |
 | Enbridge | Early Career Integrity Engineer | North York, ON | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Early-Career-Integrity-Engineer_71829) |
+| Eurofins | Cell Culture Scientist - Entry Level (Wednesday - Saturday) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000134311340) |
 | Figma | Early Career Recruiter | Ny • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004) |
 | First American | Entry-Level Process Improvement Analyst - REMOTE | Scottsdale, United States / United States Remote | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Business-Analyst-Associate--Remote-in-TX-_R057084) |
 | Four Hands | Software Engineer - New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
@@ -119,7 +120,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Desjardins | Personal Finance Advisor – University Graduate Program | Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre--Finances-personnelles--Relve-universitaire_R2608169-1) |
 | Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133682069) |
 | Eurofins | Entry Level Scientist - Biochemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133694449) |
-| Eurofins | Laboratory Technician (entry level) 12:30pm-9:00pm - Eurofins Environment Testing - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133623695) |
 | Fresenius Medical Care | New Graduate Registered Nurse - RN | Des Moines, IA, United States / Davenport, IA, United States / North Platte, NE, United States / Mason City, IA, United States / Bettendorf, IA, United States / Kearney, NE, United States / Charles City, IA, United States / Sioux City, IA, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Des-Moines-IA-USA/New-Graduate-Registered-Nurse---RN_R0258887) |
 | GE Vernova | Early Career Trainee- Solution Architect | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Early-Career-Trainee--Solution-Architect_R5044868-1) |
 | GE Vernova | Solution Architect - Early Career Trainee | Dubai | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Dubai/Solution-Architect---Early-Career-Trainee_R5044865-1) |
@@ -302,7 +302,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ERM | Graduate Consultant　Environmental Remediation (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant-Environmental-Remediation--Entry-Level-_R00029669) |
 | ERM | Junior Mid-career Consultant (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Junior-Mid-career-Consultant--Entry-Level-_R00026444) |
 | Eurofins | Entry Level Scientist: Trace Analysis and Structural Chemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132684917) |
-| Eurofins | Wet Chemistry Lab Analyst - Entry-Level (Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132638443) |
 | Eventual | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088) |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Dublin | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Investments---Technology-Graduate-Program---Dublin_2130453) |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) |
@@ -400,7 +399,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Crane Co. | Entry Level Electrical Engineer | New Jersey | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/West-Caldwell-New-Jersey/Entry-Level-Electrical-Engineer_JR101796) |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Co Denver | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Denver/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0905151) |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Co Commerce City | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Commerce-City/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0947669) |
-| Eurofins | Laboratory Technician (entry level) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132484239) |
 | HNTB | New Grad Civil Engineer I | CA (figueroa Street) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/New-Grad-Civil-Engineer-I_R-30525-1) |
 | Memorial Hermann | New Grad Respiratory Therapist - Respiratory Care Residency Program - Fall 2026/Spring 2027 | System Services Building West | [Apply](https://memorialhermann.wd5.myworkdayjobs.com/external/job/System-Services-Building-West/New-Grad-Respiratory-Therapist---Respiratory-Care-Residency-Program_100179756) |
 | Nightwing Intelligence Solutions | Logistics Specialist-Entry Level | Sterling, VA | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Logistics-Specialist-Entry-Level_JR101780) |
@@ -449,7 +447,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | Engine Workshop Technician - Entry Level | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430808) |
 | Cummins | Entry Level Parts Associate | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430805) |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) |
-| Eurofins | Entry Level-Lab Technician (Weds-Sun), Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000131910619) |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) |
 | EXP | Marketing Assistant (Entry Level) - Proposals | San Diego, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112080) |
 | Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000130001176) |
