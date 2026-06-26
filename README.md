@@ -39,10 +39,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AtkinsRéalis | Intern - Flood Modelling | Atkinsréalis Corporate Office Bangalore / In.mumbai.embassy 247 Park / Snc-Lavalin Atkins Pune Office | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern---Flood-Modelling_R-158360-1) |
 | Avis Budget Group | Automotive Service Tech - Intern | Can Etobicoke 60 Enterprise Rd | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/CAN---Etobicoke---60-Enterprise-Rd/Automotive-Service-Tech---Intern_R0189463) |
 | BDO | Co-op or Intern, Internal Administration | Toronto Wellington St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Co-op-or-Intern--Internal-Administration_JR6498) |
+| Behaviour Interactive | Technical Animator - Internship Fall 2026 \| Animateur·trice technique - Stage Automne 2026 | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/cacf53d4-943c-4c66-adec-bac350a2c2f9) |
+| Behaviour Interactive | VFX Artist - Internship Fall 2026  \|  Artiste VFX - Stage Automne 2026 | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/86fd343e-06f9-414b-9b81-d54f20d9b365) |
 | Bio-Techne | Software Development / QA Intern | Switzerland | [Apply](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Tolochenaz-Switzerland/Software-Development---QA-Intern_JR101900-1) |
 | Blue Origin | Avionics Cable Harness Design Engineer III - New Glenn Stage 2 (Fixed-Term) | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Cable-Harness-Design-Engineer-III---New-Glenn-Stage-2--Fixed-Term-_R64676-1) |
 | Blue Origin | Technical Designer III - New Glenn Upper Stage & PA | Greater Seattle Area / Space Coast, FL / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technical-Designer-III---New-Glenn-Upper-Stage---PA_R67338) |
 | Blue Origin | Vehicle Manager, Transfer Stage | Space Coast, FL | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Vehicle-Manager--Transfer-Stage_R64894) |
+| Brooks Running | eCommerce EMEA Intern | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/eefe5906-9fba-42e5-9043-d17c4d8877a2) |
 | Cadence Design Systems - University_Talent | Product Engineering Internship, Simulation and Verification (Fall 2026) | Burlington, MA | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475) |
 | Cadence Design Systems - University_Talent_Intern | Product Engineering Internship, Simulation and Verification (Fall 2026) | Burlington, MA | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475-1) |
 | Carnegie Mellon University | Assistant Coach, Men’s and Women’s Tennis (Part-Time) – Athletics – Division of Student Affairs | Pittsburgh, PA | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Assistant-Coach--Men-s-and-Women-s-Tennis--Part-Time----Athletics---Division-of-Student-Affairs_2024736-1) |
@@ -73,6 +76,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Commercial Data Science Intern, Fall 2026 | Lake Buena Vista, FL, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154) |
 | Disney | KTRK-TV (ABC13) News Intern, Fall 2026 | Houston, TX, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Houston-TX-USA/KTRK-TV--ABC13--News-Intern--Fall-2026_10152696) |
 | Ecolab | Finance Business Partner Intern | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/FBP-Intern_R00297786) |
+| Ekimetrics | Marketing & Commercial Intern, 6 months | London | [Apply](https://jobs.lever.co/ekimetrics/1d323395-cfbd-4342-a2ed-9c06005aa6b2) |
 | Erickson Senior Living | High School Summer Intern | Springfield, VA | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Springfield-VA/High-School-Summer-Intern_R0097706) |
 | Essity | Procurement Administration Intern | Portugal | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lisbon-Portugal/Procurement-Administration-Intern_Essity262149) |
 | Essity | Procurement Administrator Intern | Portugal | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lisbon-Portugal/Procurement-Administrator-Intern_Essity263224) |
@@ -121,6 +125,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jabil | Manufacturing Intern | Hanover Park, IL | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Hanover-Park-IL/Manufacturing-Intern_J2455480-1) |
 | JINGDONG | JD Young Supply Chain Operations Internship | Gbr-London | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Operations-Internship_JR101813) |
 | Johnson & Johnson | Design Quality Engineering Co-Op - Fall 2026 | Massachusetts, United States | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Design-Quality-Engineering-Co-Op---Fall-2026_R-057400) |
+| Kabam | User Research Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/28fb96f9-f044-4435-b49d-db5fd7b93857) |
 | Kenvue | Programa de Interns Kenvue 2026.2 \| MARKETING \| México  - Ciudad de México | Mexico City | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Mexico-Distrito-Federal-Mexico-City/Programa-de-Interns-Kenvue-20262---Mxico----Ciudad-de-Mxico_2607045140W) |
 | Kraft Heinz - KraftHeinz_Careers | Culinary Capabilities Intern | Nijmegen | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Culinary-Capabilities-Intern_R-104123) |
 | Loblaw Companies | Pharmacy Intern | Saskatoon, SK | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2901-8th-St-E-Saskatoon-SK/Pharmacy-Intern_R2000677443) |
@@ -3384,7 +3389,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Banking – Corporate Banking, Internship, São Paulo – Brazil, 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2026_26969294) |
 | Clarios | Intern - EHS | Cienega De Flores | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Leon-Cienega-de-Flores/Intern---EHS_WD48847) |
 | Clarios | Intern - Innovation | San Pedro Garza Garcia | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Innovation_WD48759) |
-| CLO Virtual Fashion | Software Engineer Intern | Seoul | [Apply](https://jobs.lever.co/clovirtualfashion/e53e217c-38ba-40e1-a548-d214ecb7c790) |
 | Continental | HR Generalist Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000132134525) |
 | Continental | Intern - AI Automation & Technical Customer Service Operations Support | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000132082434) |
 | Continental | Intern - Tire Property Management / Finance, Year-Round | Fort Mill, SC, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000132233525) |
@@ -7486,9 +7490,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Expedia Group | Intern Business Development | Brazil Sao Paulo | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Brazil---Sao-Paulo/Intern-Business-Development_R-104643-2) |
 | Expedia Group | Machine Learning Science Intern - PhD - 2026 - Austin, San Jose | Austin Domain 11 Homeaway / USA California San Jose | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) |
 | Expedia Group | Software Development Engineering Intern - 2026 - Austin, San Jose, Seattle | Austin Domain 11 Homeaway / USA California San Jose / Washington Seattle Campus | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Intern---2026---Austin--San-Jose--Seattle_R-98557) |
-| Extreme Networks | Intern - Channel Sales - Fluent in Spanish and English | Texas, United States | [Apply](https://jobs.lever.co/extremenetworks/8e135ae3-2842-4168-bb8c-ed3184bb83fc) |
 | Extreme Networks | Intern - Lab/TAC  Network Engineer | North Carolina, United States | [Apply](https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25) |
-| Extreme Networks | Intern - Systems Engineering - Must Be Bilingual in English and Japanese/Korean | Washington, United States | [Apply](https://jobs.lever.co/extremenetworks/ebbd4bf7-15a0-43f6-b54c-bf087d9d14ab) |
 | F5 | Business Development Intern (Danish Speaker) | Cork / Denmark Homebase | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Cork/Business-Development-Intern--Danish-Speaker-_RP1036877) |
 | F5 | Business Development Intern (Dutch Speaker) | Cork / Netherlands / Dublin | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Cork/Business-Development-Intern--Dutch-Speaker-_RP1036876) |
 | F5 | Field Marketing Internship | London | [Apply](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/London/Field-Marketing-Internship_RP1037750) |
@@ -7820,8 +7822,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) |
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
-| Hermeus | Mission Systems Platform Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/86fd77a9-6498-43df-bfe0-2159aa6933db) |
-| Hermeus | Operations and Test Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
 | Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) |
@@ -7829,6 +7829,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |
 | Hermeus | Structures Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6) |
 | Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) |
+| Hermeus | Test & Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridgeshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) |
 | Hewlett Packard (HP) | Category Sales Intern | Colombia | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bogota-Distrito-Capital-de-Bogot-Colombia/Category-Sales-Intern_3160005-1) |
 | Hewlett Packard (HP) | College Intern – Data Analytics and Procurement | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-and-Procurement_UNI2918-2) |
@@ -8001,7 +8002,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | iRhythm Technologies | Electrical Test Engineering Co-op | San Francisco, Canada | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op_JR1305) |
 | Iron Mountain | Critical Facilities Technician Skillbridge Intern | US \| Va \| Manassas \| 11680 Hayden Road | [Apply](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--VA--Manassas--11680-Hayden-Road/Critical-Facilities-Technician-Skillbridge-Intern_J0085894) |
 | Iron Mountain | Critical Facilities Technician Skillbridge Intern | US \| Az \| Phoenix \| 615 North 48th St | [Apply](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--AZ--Phoenix--615-North-48th-St/Critical-Facilities-Technician-Skillbridge-Intern_J0086686) |
-| ispace | Flight Software Intern (Full-Time) – Tokyo | Japan | [Apply](https://jobs.lever.co/ispace-inc/4c079c73-3c86-4729-8291-840cb96c91c4) |
 | Itron | Intern - Hardware / Embedded Security Engineer | Raleigh, United States | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-North-Carolina-Raleigh/Intern---Hardware---Embedded-Security-Engineer_JR102492) |
 | Ivy Tech Community College | Assistant Director of Student Support & Accessibility | Sellersburg, IN | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Sellersburg-IN/Assistant-Director-of-Student-Support---Accessibility_JR0000108464) |
 | Ivy Tech Community College | Energy Audit Intern | Valparaiso, IN | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Valparaiso-IN/Energy-Audit-Intern_JR0000107837-1) |
@@ -10231,7 +10231,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Acceldata | Field Engineering Co-Op | Kitchener | [Apply](https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f) |
 | Acceldata | Sales Engineering Co-Op | Kitchener | [Apply](https://jobs.lever.co/acceldata/ffd01330-b32f-4868-9390-3af135335ab0) |
 | Acceldata | Software Engineering Co-op | Kitchener | [Apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) |
-| Achievers | Product Marketing Internship | Toronto | [Apply](https://jobs.lever.co/achievers/7e6b281a-e703-448f-ab21-2b21c515236e) |
+| Achievers | Software Engineering Co-op - Fall 2026 | Toronto | [Apply](https://jobs.lever.co/achievers/6a348eef-0078-4d6a-bc90-f2d7077d2987) |
 | Ciena | Product Verification Engineer Intern (12 months) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Engineer-Intern--12-months-_R031002) |
 | Disney | Disney Research Studio Intern | Switzerland | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Zrich-Switzerland/Disney-Research-Studio-Intern_10150845) |
 | Larian Studios | Environment Artist Intern \| Artiste d’environnement stagiaire | QC | [Apply](https://jobs.lever.co/larian/d3400c04-f716-43f8-96bc-f000209670f8) |
@@ -10239,7 +10239,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Larian Studios | Internship - Tools Programmer | Kuala Lumpur | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) |
 | Larian Studios | Technical QA Tester Internship - Testeur QA technique stagiaire | QC | [Apply](https://jobs.lever.co/larian/840f47d9-ff56-46ca-bac9-f9287d433c14) |
 | Magnet Forensics | Desktop Support Co-op (Fall 2026) | Waterloo / ON | [Apply](https://jobs.lever.co/magnetforensics/ef65e553-24eb-43c6-9e3c-9e26e2d3c744) |
-| Magnet Forensics | Finance Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/17c5d189-389c-42bc-8a13-357dfcfda07b) |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) |
 | Magnet Forensics | Software Developer Engineer in Test Co-op (Fall 2026) | Halifax, NS / Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809) |
