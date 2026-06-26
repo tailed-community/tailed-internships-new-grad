@@ -9,13 +9,16 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) Emergency Department | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Pineville---10628-Park-Rd-Charlotte-NC/New-Graduate-Registered-Nurse--RN--Emergency-Department_R248671) |
 | AIG | Early Career Trade Credit | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Trade-Credit_JR26EC327) |
+| Anduril | Mission Engineer, Air Dominance & Strike, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) |
 | AutoNation | Entry Level Lube Technician\| AutoNation Toyota White Marsh | Autonation Toyota White Marsh | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-White-Marsh/Entry-Level-Lube-Technician--AutoNation-Toyota-White-Marsh_JR2026143786) |
 | Banner Health | Registered Nurse RN New Grad Resource Team | Banner Baywood Med Ctr (6644 E Baywood Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Baywood-Med-Ctr-6644-E-Baywood-Ave/Registered-Nurse-RN-New-Grad-Resource-Team_R4446041-1) |
 | Barr | Water Resources Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Water-Resources-Engineer---Entry-Level--Hybrid-_R-102098) |
 | Cox | Entry Level Diesel Mechanic | Jacksonville Fl | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Jacksonville-FL/Entry-Level-Diesel-Mechanic_R202679278) |
 | Cox | Entry Level Software Engineer | Atlanta Ga / Austin Tx / Burlington Vt / Irvine CA / Long Island Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer_R202675618) |
 | Enbridge | Early Career Integrity Engineer | North York, ON | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Early-Career-Integrity-Engineer_71829) |
+| Figma | Early Career Recruiter | Ny • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004) |
 | First American | Entry-Level Process Improvement Analyst - REMOTE | Scottsdale, United States / United States Remote | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Business-Analyst-Associate--Remote-in-TX-_R057084) |
+| Four Hands | Software Engineer - New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
 | Fresenius Medical Care | New Graduate Nurse | Anderson, SC, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Anderson-SC-USA/New-Graduate-Nurse_R0259312) |
 | ING | Analyst Capital Markets & Advisory – Early Career Group, Homebase Asset Securitisation (ASec) (w/m/d) | Frankfurt | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Analyst-Capital-Markets---Advisory---Early-Career-Group--Homebase-Asset-Securitisation--ASec---w-m-d-_REQ-10116929-1) |
 | Intermountain Healthcare | New Grad RN Med Oncology | Intermountain Health St George Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/New-Grad-RN-Med-Oncology_R175672-1) |
@@ -210,7 +213,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000153681) |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Id Ammon | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---ID---Ammon/Entry-Level-Phlebotomist--On-the-Job-Training-_R0182610-1) |
 | The Boeing Company - external_subsidiary | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020) |
-| Advanced Technology Services (ATS) | Entry-Level Maintenance technician | Illinois | [Apply](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4684439006) |
 | AECOM | Entry-Level Water/Wastewater Engineer | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000132641942) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Wpafb | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Entry-Level-Radar-Exploitation-Engineer_7886) |
 | AG Technologies | Entry level informatica developer Job | Texas City, TX, United States | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/88420885) |
@@ -257,8 +259,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry Level Civil/Environmental Engineer | El Paso, TX, United States | [Apply](https://careers-carollo.icims.com/jobs/4466/entry-level-civil-environmental-engineer/job) |
 | Carollo Engineers | Entry Level Instrumentation and Controls Engineer | Phoenix, AZ, United States | [Apply](https://careers-carollo.icims.com/jobs/4368/entry-level-instrumentation-and-controls-engineer/job) |
 | Carollo Engineers | Entry-Level Wastewater Process Mechanical Engineer | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job) |
-| Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
+| Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003) |
 | Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742910) |
 | Cleveland Clinic | New Grad RN Resident - General Medicine/Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_344794) |
@@ -743,7 +745,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Amentum | Entry Level Counterintelligence Program Specialist | US-Dc-Washington | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-DC-Washington/Entry-Level-Counterintelligence-Program-Specialist_R0160821) |
 | Anduril | 2026 Early Career Electrical Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Financial Analyst | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5142987007?gh_jid=5142987007) |
-| Anduril | 2026 Early Career Manufacturing Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) |
 | Anduril | 2026 Early Career Mechanical Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
 | Anduril | 2026 Early Career Software Engineer | Georgia, United States / California, United States / Colorado, United States / Washington, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | Applied Materials | AGS Training Services New Product (NPI) Instructor (Early Career) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AGS-Training-Services-New-Product--NPI--Instructor--Early-Career-_R2618491) |
@@ -999,20 +1000,20 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) |
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
+| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
 | Olsson | Entry-Level Civil Engineering Construction Technician - EIT | Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4637441008) |
 | Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) |
 | Olsson | Entry-Level Transportation Engineer - Bridge | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) |
-| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5214970008) |
+| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) |
 | Otis Worldwide | Entry Level Electrical Engineer | Farmington, CT | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Entry-Level-Electrical-Engineer_20156950) |
 | Pacific Life | Early Career Talent Partner | Omaha Ne-6750 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Omaha-NE-6750/Early-Career-Talent-Partner_R15950) |
 | Pennsylvania State University | Graduate Program Support Coordinator | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Program-Support-Coordinator_REQ_0000076506-2) |
