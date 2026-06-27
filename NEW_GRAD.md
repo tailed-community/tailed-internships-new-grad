@@ -50,7 +50,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Grad RN Med Oncology | Intermountain Health St George Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/New-Grad-RN-Med-Oncology_R175672-1) |
 | Johns Manville (JM) | GP&L Associate- Entry Level Procurement Role | Denver Co Whq | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/GP-L-Associate--Entry-Level-Procurement-Role_R26_1075) |
 | KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) |
-| Keywords Studios | AI Engineer (Fresher / Entry-Level) | India | [Apply](https://apply.workable.com/keywords-intl1/j/C8BF016A6E/) |
 | Leidos | Research Administrator Jr - Entry Level | San Diego, Canada | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Administrator-Jr---Entry-Level_R-00186130) |
 | NOV | Welder - entry level - Tulsa | Tulsa, OK, United States | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42078) |
 | NXP Semiconductors | Diffusion Process Engineer - Entry Level | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Senior-Cleans-Process-Engineer_R-10062912) |
@@ -433,9 +432,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | D.c. | [Apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) |
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) |
-| Quadric | AI Kernel Engineer (New Grad) | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/B8F898E1F5/) |
-| Quadric | Data Scientist, New Grad - Model Optimization | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/5A15DE8CCE/) |
-| Quadric | Deep Learning Compiler Engineer (New Grad) | California, United States | [Apply](https://apply.workable.com/quadric-dot-i-o-inc/j/43779C9213/) |
 | SpaceX | Entry Level - Production Technician (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8591165002?gh_jid=8591165002) |
 | The Boeing Company | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1) |
 | WSP | Early Career Civil Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89066) |
