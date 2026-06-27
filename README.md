@@ -219,6 +219,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ING | Internship \| SDS Data Protection @ING Hubs Romania | Bucharest Dacia One | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Internship---SDS-Data-Protection--ING-Hubs-Romania_REQ-10117264) |
 | Interdigital - InterDigital_Intern | Intern, Cybersecurity (Montreal) | Cad | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Montreal-CAD/Intern--Cybersecurity--Montreal-_REQ26-1116) |
 | International Flavors & Fragrances | Técnico de laboratorio (Estudiante en prácticas/Intern) | Spain | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Benicarlo-Spain/Lab-Technician-Intern_R17909) |
+| Kabam | Software Engineer (Gameplay) Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e) |
 | Live Nation Entertainment | Stage Manager- Echo Music Hall | Dallas, TX, United States | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Dallas-TX-USA/Stage-Manager--Echo-Music-Hall_JR-91224) |
 | Loblaw Companies | Pharmacy Intern | Dartmouth, NS | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/9-Braemar-Dr-Dartmouth-NS/Pharmacy-Intern_R2000677472) |
 | Loblaw Companies | Pharmacy Student | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/650-Dupont-St-Toronto-ON/Pharmacy-Student_R2000675830) |
@@ -5014,7 +5015,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Construction Intern | Atlanta, GA | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Atlanta-GA/Construction-Intern_JR13739) |
 | Ferrovial | HR Innovation Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/HR-Innovation-Internship_JR17805) |
 | Ferrovial | InSite Support Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/InSite-Support-Intern_JR17810) |
-| Field AI | Field Application Engineer -Intern | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d) |
+| Field AI | Field Application Engineer -Intern | Irvine, Canada / Illinois | [Apply](https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d) |
 | Freudenberg Group | Engineering Intern | Plymouth, MI | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/Engineering-Intern_R_00103225) |
 | Freudenberg Group | Production Intern | Nantong | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Nantong/Production-Intern_R_00101807) |
 | Freudenberg Group | Working Student (f/m/d) - Administrative Support of the Department of Strategic Purchasing for Direct Materials and Supplier Management | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Working-Student--f-m-d----Administrative-Support-of-the-Department-of-Strategic-Purchasing-for-Direct-Materials-and-Supplier-Management_R_00103118) |
@@ -7883,8 +7884,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Webber - Field Engineer Intern II - Heavy Civil | Hardeeville, SC | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Hardeeville-SC/Webber---Field-Engineer-Intern-II---Heavy-Civil_JR16978) |
 | Field AI | 1.53 Robotics Research Internship, Humanoid Manipulation (Summer 2026) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) |
 | Field AI | Mechanical Engineer Co-Op, Robotics Hardware | Boston, MA | [Apply](https://jobs.lever.co/field-ai/d87bf7d5-b292-4cf9-b470-ffa7822bd843) |
-| Field AI | Robotics Research Intern, Robot Learning (Summer 2026) \| PhD Internship | Pittsburgh, PA | [Apply](https://jobs.lever.co/field-ai/4214a067-276d-4dd3-ad04-e08dfaf32b42) |
-| Field AI | Robotics Research Internship-Locomotion & Planning (Summer 2026) | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) |
 | First Quality | Controls Engineering Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R10171) |
 | First Quality | Controls Engineering Technician Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Technician-Intern_R8015) |
 | First Quality | EHS Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/EHS-Intern_R10167) |
@@ -10101,7 +10100,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University System of New Hampshire | Shoals Marine Laboratory Adjunct Student Staff | University Of New Hampshire – Main Campus | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Shoals-Marine-Laboratory-Adjunct-Student-Staff_JR7474) |
 | University System of New Hampshire | Technician Intern | University Of New Hampshire – Main Campus | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Technician-Intern_JR2342-1) |
 | University System of New Hampshire | The Browne Center Youth and Student Programs Facilitator | University Of New Hampshire – Main Campus | [Apply](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/The-Browne-Center-Youth-and-Student-Programs-Facilitator_JR3574) |
-| UntilLabs | Rotational Business Operations & Lab Operations Intern (University) | Bay Area | [Apply](https://jobs.lever.co/until/76f30008-4d6a-4499-9c28-4c359ffac389) |
+| UntilLabs | Rotational Lab Operations Intern (University) | Bay Area | [Apply](https://jobs.lever.co/until/76f30008-4d6a-4499-9c28-4c359ffac389) |
 | Valeo | Analyste Trésorerie d'Exploitation - Stage | Paris | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/Analyste-Trsorerie-d-Exploitation---Stage_REQ2026074709) |
 | Valeo | CO-OP/INTERNS- DVS | Rio Bravo | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Rio-Bravo/CO-OP-INTERNS--DVS_REQ2025063234) |
 | Valeo | Electronic Productivity Buyer Internship | Martos | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Martos/Electronic-Productivity-Buyer-Internship_REQ2026073299) |
