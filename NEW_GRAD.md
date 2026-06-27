@@ -42,7 +42,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Barr | Water Resources Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Water-Resources-Engineer---Entry-Level--Hybrid-_R-102098) |
 | Cox | Entry Level Software Engineer | Atlanta Ga / Austin Tx / Burlington Vt / Irvine CA / Long Island Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer_R202675618) |
 | Enbridge | Early Career Integrity Engineer | North York, ON | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Early-Career-Integrity-Engineer_71829) |
-| Eurofins | Cell Culture Scientist - Entry Level (Wednesday - Saturday) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000134311340) |
 | Figma | Early Career Recruiter | Ny • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004) |
 | First American | Entry-Level Process Improvement Analyst - REMOTE | Scottsdale, United States / United States Remote | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Business-Analyst-Associate--Remote-in-TX-_R057084) |
 | Four Hands | Software Engineer - New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
