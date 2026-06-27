@@ -27,12 +27,15 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/73320/systems-engineer-%e2%80%93-entry-level/job) |
 | Highmark Health | RN E9 Inpatient Post-Surgery (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-E9-Inpatient-Post-Surgery--New-Grad---West-Penn-Hospital_J281683-1) |
 | Highmark Health | RN Inpatient Rehab (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-Inpatient-Rehab--New-Grad---West-Penn-Hospital_J281693) |
+| Hunt Oil Company | Lab Entry Level Technician | Tuscaloosa, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004) |
 | Intermountain Healthcare | New Grad RN Neuro and Trauma Unit | Intermountain Health Utah Valley Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/New-Grad-RN-Neuro-and-Trauma-Unit_R175863) |
+| Intertek | Entry-Level Field Testing Technicians | Waukesha, WI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15183) |
 | McKesson | Facilities Representative, Entry Level - Distribution Center | TN, United States | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Memphis/XMLNAME-3rd-Shift-Facilities-Tech_JR0145356) |
 | Palantir | Privacy & Civil Liberties Engineer - New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) |
 | Sentry Insurance | Claims Representative Entry Level | El Paso | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/El-Paso/Claims-Representative-Entry-Level_JR-142373) |
 | Takeda | Entry Level Phlebotomist (Ft. Wayne Getz Rd Location) | USA In Fort Wayne Getz Rd | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---IN---Fort-Wayne---Getz-Rd/Entry-Level-Phlebotomist--Ft-Wayne-Getz-Rd-Location-_R0183477-1) |
 | Takeda | Entry Level Phlebotomist/Medical Screener - PM & Weekend Availability | USA Ma Attleboro | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Attleboro/Entry-Level-Phlebotomist-Medical-Screener---PM---Weekend-Availability_R0183406-1) |
+| WSP | Early Career Environmental Scientist | Miami Lakes, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89948) |
 | AIG | Early Career Trade Credit | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Trade-Credit_JR26EC327) |
 | Anduril | Mission Engineer, Air Dominance & Strike, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) |
 | AutoNation | Entry Level Lube Technician\| AutoNation Toyota White Marsh | Autonation Toyota White Marsh | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-White-Marsh/Entry-Level-Lube-Technician--AutoNation-Toyota-White-Marsh_JR2026143786) |
@@ -147,7 +150,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GE Vernova - vernova_externalsite | Early Career Trainee- Solution Architect | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Al-Khobar/Early-Career-Trainee--Solution-Architect_R5044868-2) |
 | GE Vernova - vernova_externalsite | Solution Architect - Early Career Trainee | Dubai | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Dubai/Solution-Architect---Early-Career-Trainee_R5044865-2) |
 | General Dynamics | Welder Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17305/welder-entry-level-%26-semi-skilled/job) |
-| GHD | GHD Graduate Program 2026/27 - Advisory (Management Consulting) - Philippines | Philippines | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25649) |
 | Intermountain Healthcare | New Grad RN Behavioral Health | Intermountain Health Alta View Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/New-Grad-RN-Behavioral-Health_R170406) |
 | Intermountain Healthcare | New Grad RN Withdrawal Med Detox | Intermountain Health Alta View Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/New-Grad-RN-Withdrawal-Med-Detox_R171792) |
 | J.M. Smucker | Production General Labor- Entry Level | Topeka, KS | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Topeka-KS/Production-General-Labor--Entry-Level_115430) |
@@ -499,7 +501,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) |
 | NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) |
-| onsemi | Entry level for onsemi Suzhou process engineering | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503864) |
 | RESPEC | Early Career Engineer | Cheyenne, WY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000125844120) |
 | RESPEC | Early Career Water Resources Engineer | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000103073456) |
 | RESPEC | Early Career Water Resources Engineer | Sarasota, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000102682055) |
@@ -534,7 +535,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | University of Wyoming | Assoc Professor-Graduate Program Coordinator-FWWSON | Laramie, WY, United States | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/251315) |
 | Withum | Outsourced Accounting Entry Level Analyst 2026 | New Jersey, United States | [Apply](https://job-boards.greenhouse.io/campusopportunities/jobs/8196144002) |
 | WSP | Early Career Civil Engineer | Kennesaw, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85518) |
-| WSP | Early Career Civil Engineer (Generation) | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88637) |
 | WSP | Early Career Civil Engineer (Overhead Transmission Lines) | Richmond, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86489) |
 | WSP | Early Career Civil Engineering (Overhead Transmission Lines) | Birmingham, AL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88865) |
 | WSP | Early Career Distribution Electrical Designer | Foxboro, MA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88076) |
@@ -558,7 +558,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Substation Electrical Engineer | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86678) |
 | WSP | Early Career Substation Electrical Engineer | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85390) |
 | WSP | Early Career Substation Electrical Engineer | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80398) |
-| WSP | On-Call Early Career Archaeological Field Technician | Albuquerque, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88722) |
 | WTW | Junior Actuarial Analyst - New Graduates | Portugal | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202602010) |
 | American Electric Power | Engineer Associate (Entry-Level) - System Performance Analysis (SPA) | New Albany, OH | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Engineer-Associate--Entry-Level----System-Performance-Analysis--SPA-_R12764) |
 | Anduril | 2026 Early Career Finance Coordinator | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161421007?gh_jid=5161421007) |
