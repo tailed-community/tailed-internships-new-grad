@@ -702,8 +702,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Deliveroo | Software Engineer, New Grad | City Of, United Kingdom | [Apply](https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636) |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) |
-| Giga AI | Software Engineer (New Grads) | New York | [Apply](https://jobs.ashbyhq.com/gigaml/7314c5c1-e3d0-4439-ad9f-b3b09d4dde51) |
-| Giga AI | Software Engineer (New Grads) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/gigaml/cb74c445-322b-47fc-804c-b0565e18ca3a) |
 | Jefferson Health | Surgical Technician OR (FT, Day) *New Grads Welcome - Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Surgical-Tech--Certified----OR---11a-7p---Jefferson--Bucks_REQ-0020456-1) |
 | Jefferson Health | Surgical Technician OR (FT, Day) *New Grads Welcome - Jefferson Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Certified-Surgical-Technician--Full-Time-_REQ-0022890-1) |
 | Northwood Space | DSP Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/965d06ea-9701-4b28-a87c-e44897136691) |
