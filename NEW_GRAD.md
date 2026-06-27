@@ -15,6 +15,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BP | Supply, Trading, and Shipping Graduate Program- Trading- Houston, TX | United States Of America Texas Houston | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ099316-1) |
 | Ciena | Network Engineer - New Grad | London | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/London/Network-Engineer---New-Grad_R031215-1) |
 | Citi | KYC Operations Analyst 1 (Entry Level) | Heredia Costa Rica | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/KYC-Operations-Analyst-1--Entry-Level-_26975281) |
+| Critical Mass | Project Coordinator (Entry level - Digital) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8003895) |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Required) | Az Phoenix | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Phoenix/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Required-_R0956066) |
 | Enbridge | Early Career Integrity Engineer | Gastonia, NC, United States | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Gastonia-NC-USA/Early-Career-Integrity-Engineer_71805-2) |
 | Enbridge | Early Career Project Engineer | Salt Lake City, UT, United States | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Early-Career-Project-Engineer_71614-1) |
@@ -283,8 +284,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry Level Civil/Environmental Engineer | El Paso, TX, United States | [Apply](https://careers-carollo.icims.com/jobs/4466/entry-level-civil-environmental-engineer/job) |
 | Carollo Engineers | Entry Level Instrumentation and Controls Engineer | Phoenix, AZ, United States | [Apply](https://careers-carollo.icims.com/jobs/4368/entry-level-instrumentation-and-controls-engineer/job) |
 | Carollo Engineers | Entry-Level Wastewater Process Mechanical Engineer | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job) |
-| Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) |
+| Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003) |
 | Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742910) |
 | Cleveland Clinic | New Grad RN Resident - General Medicine/Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_344794) |
@@ -337,7 +338,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | N1 | New Grad Software Engineer (Backend Rust) | New York, United States / San Francisco Bay Area / Remote / US, United States / Europe | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
 | N1 | New Grad Software Engineer (Full Stack) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a) |
 | National Indemnity Company | Entry Level Underwriter | Omaha, NE | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Entry-Level-Underwriter_R14735) |
-| National Information Solutions Cooperative (NISC) - testnisc | Quality Specialist (Entry-Level) | Any Nisc Location | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/7931665) |
 | Nexstar | MULTI-MEDIA ACCOUNT EXECUTIVE – ENTRY LEVEL | NY | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NY-Utica/MULTI-MEDIA-ACCOUNT-EXECUTIVE---ENTRY-LEVEL_REQ-40708) |
 | Nexstar | Sports Producer (Entry-Level) – Gold and Blue Nation | WV | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/WV-Clarksburg/Sports-Producer--Entry-Level----Gold---Blue-Nation_REQ-41582) |
 | Northmarq | 2026 Early Career Professionals | Texas, United States / Colorado, United States / Minnesota, United States | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5040347008) |
@@ -762,6 +762,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Highmark Health | RN - New Grad - Peri-Operative Opportunities, Canonsburg | Canonsburg Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Canonsburg-PA-15317-100-Medical-Blvd/RN---New-Grad---Peri-Operative-Opportunities--Canonsburg_J282339) |
 | Intermountain Healthcare | New Graduate Radiology Technologist | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Graduate-Radiology-Technologist_R173582) |
 | Northeastern University | Graduate Program Coordinator | Ma (main Campus) | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Graduate-Program-Coordinator_R140314) |
+| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4811702008) |
 | The Boeing Company | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA Berkeley, MO / USA Hazelwood, MO / USA Mascoutah, IL | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865) |
 | Uline | Entry Level Finance Opportunities | Pleasant Prairie, WI / Milwaukee, WI / Waukegan, IL / Glenview, IL / Kenosha, WI | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Entry-Level-Finance-Opportunities_R264257) |
 | World Kinect | Field Support Technician - Entry Level | Remote | [Apply](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/TACOMA-WA-Remote/Field-Support-Technician_R22392) |
@@ -971,7 +972,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Leidos | Field Service Technician (Entry Level) | Singapore | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Singapore/Field-Service-Technician--Entry-Level-_R-00183058) |
 | Liberty University | Standardized Patient for Athletic Training Graduate Program | Lynchburg, VA | [Apply](https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Standardized-Patient-for-Athletic-Training-Graduate-Program_R0004821) |
 | Link | Entry Level Systems Administrator (VISTA), BS or HS+5 | Annapolis Junction, MD | [Apply](https://jobs.lever.co/linkllc/abf629c1-f670-41ec-bd4a-5c0d5a76a110) |
-| Loop | 2026 New Grad \| Software Engineer, Full-Stack (Chicago) | Chicago, IL | [Apply](https://job-boards.greenhouse.io/loop/jobs/5981831004) |
 | LPL Financial Holdings | New Grad 2026- Financial Service Professional (Fort Mill) | Fort Mill / Charlotte | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/New-Grad-2026--Financial-Service-Professional--Fort-Mill-_R-045081-1) |
 | LPL Financial Holdings | New Grad 2026- Financial Service Professional (Tempe) | Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/New-Grad-2026--Financial-Service-Professional--Tempe-_R-045080-1) |
 | MaineGeneral Health | 3 West - Med/Surg Registered Nurse (RN) - 36 hours/week **NEW GRADUATES WELCOME!** | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-3-West---Med-Surg-Registered-Nurse--RN----36-hours-week---NEW-GRADUATES-WELCOME---_R15706) |
@@ -1039,10 +1039,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) |
 | Olsson | Entry-Level Civil Engineering Construction Technician - EIT | Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4637441008) |
-| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) |
@@ -1099,7 +1098,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Rogers Behavioral Health | Registered Nurse - Residential - New Grads Welcome! | Oconomowoc, WI | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Oconomowoc-Main-Campus-Oconomowoc-WI/Registered-Nurse---Residential---New-Grads-Welcome-_R4884) |
 | Rolls-Royce | Werkstudent (m/w/d) Human Resources - Early Career | Friedrichshafen | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Friedrichshafen/Werkstudent--m-w-d--Human-Resources---Early-Career_JR6153977-1) |
 | Sarasota County | Bus Detailer/Attendant (Entry-Level, 2nd Shift) - Breeze Transit Department - $18.01/hr | Pinkney Avenue | [Apply](https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Pinkney-Avenue/Bus-Detailer-Attendant--Entry-Level--2nd-Shift----Breeze-Transit-Department----17-hr_R17008) |
-| Scopely | Program Specialist, Early Career Programs | Spain | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5203272008?gh_jid=5203272008) |
 | Secureframe | New Grad Software Engineer, Growth | New York, NY | [Apply](https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22) |
 | Secureframe | New Grad Software Engineer, Product | New York, NY | [Apply](https://jobs.lever.co/secureframe/5138ce50-65dc-4818-8940-a78b3d0bbd4f) |
 | Sigma Computing | Software Engineer (New Grad Program) | CA And New York City, NY | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) |
@@ -1114,8 +1112,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
 | State Street | 2027 New Graduate, Corporate Actions, Associate 1 | Japan | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2026-New-Graduate--Corporate-Actions--Associate-1_R-784582) |
 | Taylor Corporation | Equipment Operator – Entry Level | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/Amsterdam-NY---Taylor-Promotional-Products-Inc/Equipment-Operator-I---Entry-Level_R28457) |
