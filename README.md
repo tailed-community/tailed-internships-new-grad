@@ -33,6 +33,25 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Roche | PC Lab Intern | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/PC-Lab-Intern_202606-116643) |
 | RTX (en-US) | Intern - Government Relations | Sg-01-Singapore-083 ~ 83 Clemenceau Ave ~ Ue Sqaure | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/SG-01-SINGAPORE-083--83-Clemenceau-Ave--UE-SQAURE/Intern---Government-Relations_01855859) |
 | UNFPA | Communication Intern | Thailand | [Apply](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/35168) |
+| Western Digital | Intern - AI Engineer (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646888) |
+| Western Digital | Intern - AI Information Technology (Studying Master's Degree) - Urgent Need | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646058) |
+| Western Digital | Intern - AI Software Developer (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646808) |
+| Western Digital | Intern - AI/ML Development Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646668) |
+| Western Digital | Intern - DOE Characterization Engineering | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646928) |
+| Western Digital | Intern - Industrial Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646358) |
+| Western Digital | Intern - Maintenance Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646458) |
+| Western Digital | Intern - Maintenance Technician (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646369) |
+| Western Digital | Intern - Maintenance Technician Assistant (นักศึกษาฝึกงาน – ผู้ช่วยช่างซ่อมบำรุงเครื่องจักร) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646978) |
+| Western Digital | Intern - Manufacturing / Tooling Development Engineering (Start onboarding in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646718) |
+| Western Digital | Intern - Manufacturing Engineer, (Start in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646768) |
+| Western Digital | Intern - Mechanical Design Engineer (Studying Bachelor's or Master's Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646258) |
+| Western Digital | Intern - People Development Assistant (Studying Bachelor Degree) - Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646208) |
+| Western Digital | Intern - Product Design Engineering (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646858) |
+| Western Digital | Intern - Software Developer (Studying Bachelor Degree) - Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646158) |
+| Western Digital | Intern - Technician Assistant (Tooling) (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646279) |
+| Western Digital | Intern - Test Equipment Engineering | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646558) |
+| Western Digital | Intern - Web Developer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646060) |
+| Western Digital | Intern - Web Developer (Start in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000134646354) |
 | ABB | Internship – Administration Department | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Malopolskie-Poland/Internship-in-the-Bid---Proposal-Department--Robotics-_JR00034694) |
 | Accenture | Marketing & Communications Intern (part-time for students) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Marketing---Communications-Intern--part-time-for-students-_R00339085) |
 | Accor | Event & Communication Intern Sofitel, MGallery & Emblems | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000134485372) |
@@ -1192,8 +1211,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | Placement Student - Software Engineering | Northern Ireland | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272952) |
 | Viatris | Device Engineering Systems Intern | Ireland | [Apply](https://viatris.wd5.myworkdayjobs.com/External/job/Northern-Cross-Dublin-Ireland/Device-Engineering-Systems-Intern_R5670413) |
 | Walter P Moore | Engineering Intern - Public Works | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/4149/engineering-intern---public-works/job) |
-| Western Digital | Intern - AI Information Technology (Studying Master's Degree) - Urgent Need | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000133801824) |
-| Western Digital | Intern - Maintenance Technician Assistant (นักศึกษาฝึกงาน – ผู้ช่วยช่างซ่อมบำรุงเครื่องจักร) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000126898783) |
 | Western Digital | Product Engineer | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000133879574) |
 | Western Digital | Senior Director, Business Development | San Jose, United States | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000133703030) |
 | WSP | Structural Engineering Student - Mining | Thunder Bay, ON, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89070) |
@@ -4735,23 +4752,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | IT Security Internship (Summer 2026) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258835) |
 | Vertiv | Junior AP Specialist Intern | Romania | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20271776) |
 | Wabtec | Manufacturing Engineer Intern (Mechanical) | Katy Wroclawskie, DS | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990012653106) |
-| Western Digital | Intern - AI Engineer (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000127584755) |
-| Western Digital | Intern - AI Software Developer (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000126904038) |
-| Western Digital | Intern - AI/ML Development Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128672344) |
-| Western Digital | Intern - DOE Characterization Engineering | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000130698928) |
-| Western Digital | Intern - Industrial Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128423636) |
-| Western Digital | Intern - Maintenance Engineer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128432284) |
-| Western Digital | Intern - Maintenance Technician (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128870499) |
-| Western Digital | Intern - Manufacturing / Tooling Development Engineering (Start onboarding in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000131169959) |
-| Western Digital | Intern - Manufacturing Engineer, (Start in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128870274) |
-| Western Digital | Intern - Mechanical Design Engineer (Studying Bachelor's or Master's Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000127565958) |
-| Western Digital | Intern - People Development Assistant (Studying Bachelor Degree) - Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128867279) |
-| Western Digital | Intern - Product Design Engineering (Studying Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128857549) |
-| Western Digital | Intern - Software Developer (Studying Bachelor Degree) - Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000127583158) |
-| Western Digital | Intern - Technician Assistant (Tooling) (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128435679) |
-| Western Digital | Intern - Test Equipment Engineering | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128442133) |
-| Western Digital | Intern - Web Developer | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128431321) |
-| Western Digital | Intern - Web Developer (Start in January 2027) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000128870069) |
 | Williams-Sonoma | Research Engineering Internship - AI, Computer Vision, & Visualization | San Jose, United States | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15762) |
 | Wood | H.O. Construction Engineer - Internship | Spain | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29089) |
 | Wood | Internship | Colombia | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29889) |

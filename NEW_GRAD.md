@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply |
 |---|---|---|---|
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Il Rockford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Rockford/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0960271) |
+| Jobs for Humanity | Office Junior (Entry-Level) | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000134613009) |
 | Thales | AJISS Corrective Maintenance Support Technician (New Grad) | Halifax Wilkinson | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/AJISS-Corrective-Maintenance-Support-Technician--New-Grad-_R0332569-1) |
 | Applied Materials | Applied Early Career - Installation Team Field Service Engineer | Boise, ID / Chandler, AZ / Phoenix, AZ | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) |
 | AutoNation | Automotive Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Automotive-Entry-Level-Technician_JR2026143684) |
