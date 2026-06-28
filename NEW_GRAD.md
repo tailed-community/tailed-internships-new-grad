@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply |
 |---|---|---|---|
+| CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Il Rockford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Rockford/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0960271) |
+| Thales | AJISS Corrective Maintenance Support Technician (New Grad) | Halifax Wilkinson | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/AJISS-Corrective-Maintenance-Support-Technician--New-Grad-_R0332569-1) |
 | Applied Materials | Applied Early Career - Installation Team Field Service Engineer | Boise, ID / Chandler, AZ / Phoenix, AZ | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) |
 | AutoNation | Automotive Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Automotive-Entry-Level-Technician_JR2026143684) |
 | Avis Budget Group | Entry Level Automotive Technician - FT | Cleveland Hopkins International Airport | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Cleveland-Hopkins-International-Airport/Entry-Level-Automotive-Technician---FT_R0185256) |
@@ -16,7 +18,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ciena | Network Engineer - New Grad | London | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/London/Network-Engineer---New-Grad_R031215-1) |
 | Citi | KYC Operations Analyst 1 (Entry Level) | Heredia Costa Rica | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/KYC-Operations-Analyst-1--Entry-Level-_26975281) |
 | Critical Mass | Project Coordinator (Entry level - Digital) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8003895) |
-| CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Required) | Az Phoenix | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Phoenix/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Required-_R0956066) |
 | Enbridge | Early Career Integrity Engineer | Gastonia, NC, United States | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Gastonia-NC-USA/Early-Career-Integrity-Engineer_71805-2) |
 | Enbridge | Early Career Project Engineer | Salt Lake City, UT, United States | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Early-Career-Project-Engineer_71614-1) |
 | Enbridge | Engineer Mechanical Early Career | Nashville, TN, United States | [Apply](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Nashville-TN-USA/Mechanical-Engineer-Sr_70865-1) |
@@ -47,7 +48,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Four Hands | Software Engineer - New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
 | Fresenius Medical Care | New Graduate Nurse | Anderson, SC, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Anderson-SC-USA/New-Graduate-Nurse_R0259312) |
 | ING | Analyst Capital Markets & Advisory – Early Career Group, Homebase Asset Securitisation (ASec) (w/m/d) | Frankfurt | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Analyst-Capital-Markets---Advisory---Early-Career-Group--Homebase-Asset-Securitisation--ASec---w-m-d-_REQ-10116929-1) |
-| Intermountain Healthcare | New Grad RN Med Oncology | Intermountain Health St George Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/New-Grad-RN-Med-Oncology_R175672-1) |
 | Johns Manville (JM) | GP&L Associate- Entry Level Procurement Role | Denver Co Whq | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/GP-L-Associate--Entry-Level-Procurement-Role_R26_1075) |
 | KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) |
 | Leidos | Research Administrator Jr - Entry Level | San Diego, Canada | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Administrator-Jr---Entry-Level_R-00186130) |
@@ -104,7 +104,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GlossGenius | Account Executive - New Grad | United States Remote | [Apply](https://job-boards.greenhouse.io/glossgenius/jobs/7784238003) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43) |
 | Hewlett Packard (HP) | Recent Graduate: Print Inside Presales Technical Consultant | Mexico | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Tlaquepaque-Jalisco-Mexico/Print-Inside-Presales-Technical-Consultant_3158145) |
-| Highmark Health | Linux/CommVault Systems Engineer (Associate/Entry-Level) | PA / MD / WA / NC / LA / KY / KS / IN / IL / GA / IA / FL / CO / Working At Home California, Canada / DE / CT / AR / AZ / AL / AK / NV / VT / TN / ID / OK / HI / MS / UT / NH / NM / WY / ND / SD / RI / WV / MO / TX / DC / OH / NJ / OR / SC / VA / MA / NE / MN / MI / WI / NY / ME | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Linux-CommVault-Systems-Engineer--Associate-Entry-Level-_J283093) |
 | Howden | Financial Lines Broking Graduate Program | 5th Floor | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York-WeWork---430-Park-Avenue-5th-Floor/Financial-Lines-Broking-Graduate-Program_R0017964-1) |
 | Howden | Natural Resources Broking Graduate Program | Birmingham – 3500 Blue Lake Drive | [Apply](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Birmingham--3500-Blue-Lake-Drive/Natural-Resources-Broking-Graduate-Program_R0017968-2) |
 | HP | Recent Graduate: Print Inside Presales Technical Consultant | Mexico | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Tlaquepaque-Jalisco-Mexico/Print-Inside-Presales-Technical-Consultant_3158145-1) |
@@ -119,7 +118,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Takeda | Entry Level Phlebotomist/Medical Screener | USA Ga Duluth | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---Duluth/Entry-Level-Phlebotomist-Medical-Screener_R0183274-1) |
 | The Boeing Company | Entry Level or Associate Procurement Agent | USA Dallas, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Entry-Level-or-Associate-Procurement-Agent_JR2026516347) |
 | The Boeing Company - external_subsidiary | Entry Level or Associate Procurement Agent | USA Dallas, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Dallas-TX/Entry-Level-or-Associate-Procurement-Agent_JR2026516347-2) |
-| The Boeing Company - external_subsidiary | Entry Level Software Engineer (Real Time Software Engineer) | USA Tinker Afb, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer--Real-Time-Software-Engineer-_JR2026515355) |
 | United Wholesale Mortgage | Entry Level Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15611/entry-level-support-specialist/job) |
 | University of Texas - Austin | Graduate Program Coordinator II, Fariborz Maseeh Department of Civil, Architectural and Environmental Engineering | Texas | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/Texas/Graduate-Program-Coordinator-II--Fariborz-Maseeh-Department-of-Civil--Architectural-and-Environmental-Engineering_R_00046899) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | Ny United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
@@ -240,7 +238,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Surveyor | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5268475008) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000153681) |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Id Ammon | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---ID---Ammon/Entry-Level-Phlebotomist--On-the-Job-Training-_R0182610-1) |
-| The Boeing Company - external_subsidiary | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020) |
 | AECOM | Entry-Level Water/Wastewater Engineer | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000132641942) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Wpafb | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Entry-Level-Radar-Exploitation-Engineer_7886) |
 | AG Technologies | Entry level informatica developer Job | Texas City, TX, United States | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/88420885) |
@@ -433,7 +430,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) |
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) |
 | SpaceX | Entry Level - Production Technician (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8591165002?gh_jid=8591165002) |
-| The Boeing Company | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026511020-1) |
 | WSP | Early Career Civil Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89066) |
 | Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170682) |
 | Arcadis | Entry-Level Environmental Scientist/Engineer | Charlotte, NC, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40553) |
