@@ -8951,7 +8951,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Papa John's | Co-Op | Hq_atlanta | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/Co-Op_R24_0000003518) |
 | Papa John's | Co-Op | Hq_louisville | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Co-Op_R24_0000003445) |
-| Parallel Wireless | Platform Integration Intern - North | Kinneret | [Apply](https://jobs.lever.co/parallelwireless/c2cb0c67-7687-4d4d-8243-bbc2e63f8588) |
 | Parsons | Bridge Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IN-Indianapolis/Bridge-Engineering-Co-Op---Fall-2026_R177368-1) |
 | Parsons | Civil Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MA-Boston/Civil-Engineering-Co-Op_R179491-1) |
 | Parsons | Civil Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Civil-Engineering-Intern_R181314) |
@@ -10140,7 +10139,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WeRide | 2026 Summer Intern - PhD | San Jose, Canada | [Apply](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d) |
 | WeRide | 2026 Summer Intern - Vehicle Embedded Engineer (DBW) | San Jose, Canada | [Apply](https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd) |
 | WeRide | International PR and Marketing Intern | One-North | [Apply](https://jobs.lever.co/weride/3fb55fce-d52a-438d-a8cb-177753df5ad9) |
-| WeRide | International PR and Marketing Intern (Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/3da503f0-1430-4398-a25e-508f031566fb) |
 | Western Governors University | Intern - Security | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Security_JR-025258) |
 | Westlake | 12 Month Engineering Student Co-Op | CA Woodbridge, ON | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/CA---Woodbridge-ON/XMLNAME-12-Month-Engineering-Student-Co-Op_R32363) |
 | Westlake | 2026 Intern - Electrical Engineer | US Houston, TX | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Electrical-Engineer_R30242) |
