@@ -29,8 +29,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Evening | Sturgeon Falls, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/12035-Hwy-17-E-Sturgeon-Falls-ON/Student--Franchise-Part-Time-Evening_R2000677966) |
 | Parsons | Co-op Trainee (Electrical Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Tabuk---NEOM/Co-op-Trainee--Electrical-Engineering---Saudi-National-_R182635) |
 | Parsons | Co-op Trainee (Mechanical Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Co-op-Trainee--Mechanical-Engineering---Saudi-National-_R182633) |
+| Photon | AI Intern  - Dallas, TX | United States | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26315) |
 | Roche | PC Lab Intern | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/PC-Lab-Intern_202606-116643) |
 | RTX (en-US) | Intern - Government Relations | Sg-01-Singapore-083 ~ 83 Clemenceau Ave ~ Ue Sqaure | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/SG-01-SINGAPORE-083--83-Clemenceau-Ave--UE-SQAURE/Intern---Government-Relations_01855859) |
+| UNFPA | Communication Intern | Thailand | [Apply](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/35168) |
 | ABB | Internship – Administration Department | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Malopolskie-Poland/Internship-in-the-Bid---Proposal-Department--Robotics-_JR00034694) |
 | Accenture | Marketing & Communications Intern (part-time for students) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Marketing---Communications-Intern--part-time-for-students-_R00339085) |
 | Accor | Event & Communication Intern Sofitel, MGallery & Emblems | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000134485372) |
@@ -4152,16 +4154,20 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Huxley | Digital Services Actimize Developer | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/ComputerFutures3/101519521) |
 | Huxley | Software Engineer 1 | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/ComputerFutures3/101016513) |
 | IFS | Undergraduate Trainee - Employer Branding | Sri Lanka | [Apply](https://jobs.smartrecruiters.com/IFS1/744000115374969) |
-| IHG | Corporate Intern - F&B - Singapore - Able to start August 2026 | Singapore | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163857) |
+| IHG | Executive Office Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157797) |
 | IHG | Finance Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157793) |
 | IHG | Finance Internship - Six Senses Douro Valley | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/162144) |
 | IHG | Food & Beverage Intern - Six Senses Con Dao | Viet Nam | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/160327) |
+| IHG | Food & Beverage Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157790) |
+| IHG | Front Office Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157794) |
 | IHG | Front Office Internship- Kimpton Vividora | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161419) |
 | IHG | Guest Experience Internship - Kimpton Vividora | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/162236) |
 | IHG | Intern, Commercial - Thailand - Able to start July 2026 | Thailand | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163859) |
 | IHG | Intern, Development- Vietnam - Able to start July 2026 | Viet Nam | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163860) |
 | IHG | Kitchen Internship | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161944) |
+| IHG | Marketing Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157796) |
 | IHG | Revenue & Reservations Internship | Spain | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161939) |
+| IHG | Sales & Events Intern \| InterContinental Cascais-Estoril | Portugal | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/157784) |
 | IHG | Student Trainees (Local) - InterContinental Hua Hin Resort | Thailand | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/163754) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) |
 | Infojini | College student Customer service job | Austin, TX, United States | [Apply](https://jobs.smartrecruiters.com/InfojiniInc1/743999650897990) |
