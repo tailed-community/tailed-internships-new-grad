@@ -148,6 +148,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Haleon | Intern | Suzhou Plant Tech Industry Park | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Suzhou-Plant-Tech-Industry-Park/Intern_545106) |
 | HARMAN International | Internship | In_bangalore_sattva Knowledge Court Bdg_hii | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Internship_R-53422-2026) |
 | HARMAN International | Marketing (Creative) Intern | Singapore Singapore | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Singapore---Singapore/Marketing--Creative--Intern_R-54309-2026) |
+| Hermeus | Structures/Mechanical Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/08a3c5df-559a-49c8-a685-8165cb8388c7) |
 | Hitachi | HR Intern | Republic Of Korea | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cheonan-si-Chungcheongnam-do-Republic-of-Korea/HR-Intern_R0135413) |
 | ING | AI Agent Developer Intern-2 | Cdr (amsterdam Cedar) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/AI-Agent-Developer-Intern-2_REQ-10117343) |
 | ING | FBA Intern | Bruxelles Avenue Marnix (ing) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/FBA-Intern_REQ-10117249) |
@@ -189,6 +190,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nidec | Firmware Engineering Intern | Europe / Gre / Markopoulo Roboteq Greece Ike | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/EuropeGREMarkopoulo---Roboteq-Greece-IKE/Firmware-Engineering-Intern_R0016296) |
 | Ohio State University | Student Assistant | University Hospital | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/Student-Assistant_R153743-2) |
 | Otis Worldwide | Sales Intern - OTIS Vigo | Spain | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Couto-19-36203-VIGO-Spain/Sales-Intern---OTIS-Vigo_20162961) |
+| Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
+| Palantir | Software Engineer, Internship - Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
+| Palantir | Software Engineer, Internship - Infrastructure | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) |
+| Palantir | Software Engineer, Internship - Production Infrastructure | Seattle, WA | [Apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
+| Palantir | Software Engineer, Internship - Production Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) |
+| Palantir | Software Engineer, Internship - Production Infrastructure | D.c. | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
 | Parsons | Architect Engineering Intern (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Architect-Engineering-Intern--Saudi-National-_R182642) |
 | Parsons | Co-op Trainee (Architect Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Co-op-Trainee--Architect-Engineering---Saudi-National-_R182643) |
 | Parsons | Co-op Trainee (Civil Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh-Qiddiya/Co-op-Trainee--Civil-Engineering---Saudi-National-_R182641) |
@@ -8123,7 +8130,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |
 | Hermeus | Structures Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6) |
 | Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) |
-| Hermeus | Test & Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
+| Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridgeshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) |
 | Hewlett Packard (HP) | Category Sales Intern | Colombia | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bogota-Distrito-Capital-de-Bogot-Colombia/Category-Sales-Intern_3160005-1) |
 | Hewlett Packard (HP) | College Intern – Data Analytics and Procurement | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-and-Procurement_UNI2918-2) |
@@ -10470,7 +10477,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Larian Studios | Gameplay Programmer Internship | Barcelona | [Apply](https://jobs.lever.co/larian/d546d9c3-ab0d-4c77-81d8-8b8388c158ff) |
 | Larian Studios | Internship - Tools Programmer | Kuala Lumpur | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) |
 | Larian Studios | Technical QA Tester Internship - Testeur QA technique stagiaire | QC | [Apply](https://jobs.lever.co/larian/840f47d9-ff56-46ca-bac9-f9287d433c14) |
-| Magnet Forensics | Desktop Support Co-op (Fall 2026) | Waterloo / ON | [Apply](https://jobs.lever.co/magnetforensics/ef65e553-24eb-43c6-9e3c-9e26e2d3c744) |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) |
 | Magnet Forensics | Software Developer Engineer in Test Co-op (Fall 2026) | Halifax, NS / Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809) |
