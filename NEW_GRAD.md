@@ -7,9 +7,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply |
 |---|---|---|---|
+| Chase | Collections, Fraud & Accounts Entry-Level Specialist | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764343) |
+| Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764354) |
 | DXC Technology | Accounts Payable Specialist (Mandarin Speaker) - Entry Level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Accounts-Payable-Specialist--Mandarin-Speaker-_51583004) |
 | ERM | Early Career Consultant - Emissions and Climate | Australia | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Sydney-Australia/Early-Career-Consultant---Emissions-and-Climate_R00030923-2) |
 | Integration Innovation (i3) | Entry Level Software Engineer | Huntsville, AL, United States | [Apply](https://careers-i3-corps.icims.com/jobs/5175/entry-level-software-engineer/job) |
+| JP Morgan Chase | Collections, Fraud & Accounts Entry-Level Specialist | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764343) |
+| JP Morgan Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764354) |
 | Marsh | Mercer \| Actuarial Analyst – Retirement & Health Benefits – Toronto - 2026 New Grad | Toronto Bremner | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Mercer---Actuarial-Analyst---Retirement---Health-Benefits---Toronto---2026-New-Grad_R_356954) |
 | Medical University of South Carolina | Registered Nurse I (Fall 2026 New Grad Blitz) -  R. Keith Summey Ambulatory Pre/Post | North Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/North-Charleston/Registered-Nurse-I--Fall-2026-New-Grad-Blitz-----R-Keith-Summey-Ambulatory-Pre-Post_R-0000064092) |
 | Medical University of South Carolina | Registered Nurse I (Fall 2026 New Grad Blitz) - Adult & Pediatric Operating Rooms | Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/Registered-Nurse-I--Fall-2026-New-Grad-Blitz----Adult---Pediatric-Operating-Rooms_R-0000063756) |
@@ -45,10 +49,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Software Engineer, New Grad - Production Infrastructure | D.c. | [Apply](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | [Apply](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) |
+| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172037) |
 | Sun Life | 2027 Actuarial Associate Program New Graduate Opportunities – Toronto, Waterloo & Montreal | Toronto, ON / Montreal, QC / Waterloo, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/XMLNAME-2027-Actuarial-Associate-Program-New-Graduate-Opportunities---Toronto--Waterloo---Montreal_JR00125250) |
 | The Boeing Company | Test and Inspection Embedded Software Engineer-Entry Level | USA Hazelwood, MO / USA Berkeley, MO / USA Saint Louis, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Test-and-Inspection-Embedded-Software-Engineer-Entry-Level_JR2026516830) |
 | The Boeing Company - external_subsidiary | Test and Inspection Embedded Software Engineer-Entry Level | USA Hazelwood, MO / USA Berkeley, MO / USA Saint Louis, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Test-and-Inspection-Embedded-Software-Engineer-Entry-Level_JR2026516830-1) |
 | Vanasse Hangen Brustlin (VHB) | Entry-Level Civil Engineer | Orlando, FL, United States | [Apply](https://careers-vhb.icims.com/jobs/6130/entry-level-civil-engineer/job) |
+| Worthington Enterprises | Entry Level Welder | Jefferson, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43246) |
+| WSP | Early Career Civil Transportation Engineer | Tamuning, GU, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89923) |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Il Rockford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Rockford/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0960271) |
 | Jobs for Humanity | Office Junior (Entry-Level) | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000134613009) |
 | Thales | AJISS Corrective Maintenance Support Technician (New Grad) | Halifax Wilkinson | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/AJISS-Corrective-Maintenance-Support-Technician--New-Grad-_R0332569-1) |
@@ -195,6 +202,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | PitchBook | Market Development Representative (Early Career, Inside Sales) | England, United Kingdom | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4691261006) |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102264-1) |
 | Robinhood | Customer Experience Associate (New Grad) | Denver, CO / Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) |
+| Securitas | Entry Level Security Officer | Verona, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171889) |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Wi Madison | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---WI---Madison/Entry-Level-Phlebotomist--On-the-Job-Training-_R0183132-1) |
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0118674) |
@@ -327,7 +335,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003) |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003) |
-| Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742910) |
 | Cleveland Clinic | New Grad RN Resident - General Medicine/Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_344794) |
 | Cleveland Clinic | New Grad RN Resident – Emergency Department | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Emergency-Department_324635-1) |
 | Cleveland Clinic | New Grad RN Resident – General Medicine/Geriatric Medicine | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---General-Medicine-Geriatric-Medicine_344953) |
@@ -466,7 +473,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) |
 | SpaceX | Entry Level - Production Technician (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8591165002?gh_jid=8591165002) |
 | WSP | Early Career Civil Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89066) |
-| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170682) |
 | Arcadis | Entry-Level Environmental Scientist/Engineer | Charlotte, NC, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40553) |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) |
@@ -492,7 +498,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | Entry Level Parts Associate | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430805) |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) |
-| EXP | Marketing Assistant (Entry Level) - Proposals | San Diego, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112080) |
 | Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000130001176) |
 | Expeditors | Logistics Coordinator - entry level (Global Network Management Center)-on-site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000128778168) |
 | Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) |
@@ -521,7 +526,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Jobs for Humanity | Data Entry Clerk – Entry Level Opportunity (US Candidates Only) | Canada Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000129042319) |
 | Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) |
-| JP Morgan Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742910) |
 | Louis Dreyfus Company | Master Data Analyst - entry level | Bulgaria | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115681189) |
 | Michael Baker International | Bridge Associate Engineer, Entry Level | Columbus, OH, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308947) |
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) |
