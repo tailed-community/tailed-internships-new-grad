@@ -230,6 +230,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Target | Current Interns Only-ETL R100 Summer 2026 Intern Posting | Minneapolis | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Current-Interns-Only-ETL-R100-Summer-2026-Intern-Posting_R0000440487) |
 | The Coca-Cola Company | CPS AR Manufacturing Intern | Argentina Buenos Aires | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Argentina---Buenos-Aires/CPS-AR-Manufacturing-Intern_R-142982) |
 | The Coca-Cola Company | CPS AR Operational Excellence intern | Argentina Buenos Aires | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Argentina---Buenos-Aires/CPS-AR-Operational-Excellence-intern_R-142970) |
+| The Exploration Company | Development Models Simulations Intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/43c8475f-643c-47f9-93b4-f265afa84413) |
 | The Walt Disney Company | ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ESPN-Creative-Studio-Production-Assistant--New-York-City--Fall-2026_10154313-1) |
 | Thermo Fisher Scientific | Intern, Technical Support - Automated System Health Check Tool for Microscope Maintenance Efficiency and Reliability | Netherlands | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern--Technical-Support---Automated-System-Health-Check-Tool-for-Microscope-Maintenance-Efficiency-and-Reliability_R-01358630) |
 | Unisys | Student Technical | Bangalore, KA / Hyderabad Dlf Cyber City | [Apply](https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bangalore-KA-India/Student-Technical_REQ568336) |
@@ -2877,7 +2878,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | MPOWERHealth | Marketing & Communications Intern | Dallas, TX, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/2787/marketing-%26-communications-intern/job) |
 | MPOWERHealth | UTD Intraoperative Neuromonitoring (IONM) Intern - Dallas-Fort Worth, TX | Dallas, TX, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/2698/utd-intraoperative-neuromonitoring-%28ionm%29-intern---dallas-fort-worth%2c-tx/job) |
 | Mr. Cooper | Intern - Investor Services | Chennai Nsm Block 1a / Nsm_bangalore | [Apply](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Chennai-NSM-Block-1A/Intern---Investor-Services_024519) |
-| MUBI | Associate Product Manager (APM) Internship | Greater London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/MUBI/5fa9abe9-cdf1-4852-9a1d-0f32e0310493) |
 | Mujin | Register for Future Internship Opportunities at Mujin | Japan (mjhq) | [Apply](https://jobs.lever.co/mujininc/183f0b44-9ff0-4be1-8392-e4b439d25ab5) |
 | N1 | Growth Intern | New York, United States / San Francisco Bay Area / Remote / US, United States | [Apply](https://jobs.ashbyhq.com/n1/7511c4e9-ac1e-476f-8d84-6055cd3d6eba) |
 | N1 | Research Intern | New York, United States / San Francisco Bay Area / Remote / US, United States | [Apply](https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c) |
@@ -5717,7 +5717,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Leadership University & Talent Mgmt Intern | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Leadership-University---Talent-Mgmt-Intern_JR10396522) |
 | Airbus | Metrology Test internship (d/f/m) | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Metrology-Test-internship--d-f-m-_JR10378905) |
 | Allium | Engineering Intern - General / AI | New York, United States / Singapore | [Apply](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e) |
-| Allium | Generalist Intern | New York, United States / Singapore | [Apply](https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3) |
 | Amcor | Financial Analyst Intern - Summer 2027 (Evergreen) | Not Specified | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/Financial-Analyst-Intern---Summer-2027--Evergreen-_REQ_84571) |
 | American University | Math & Stats Lab Tutor (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Math---Stats-Lab-Tutor--Student-_R4099) |
 | American University | Math & Stats Lab Tutor (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Math---Stats-Lab-Tutor--Student---FWS-_R4100) |
@@ -5796,7 +5795,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nc New Bern | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---New-Bern/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0940119) |
 | CVS Health | Pharmacy Intern | Ms Natchez | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MS---Natchez/Pharmacy-Intern_R0933378-1) |
 | d-Matrix | Applied AI Engineering Intern | Santa Clara, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7) |
-| Deliveroo | Account Manager - stage | Paris, France | [Apply](https://jobs.ashbyhq.com/deliveroo/914e3a3f-0e5e-42a3-aa02-7829fb10eb6c) |
+| Deliveroo | Finance & Strategy Intern | Paris, France | [Apply](https://jobs.ashbyhq.com/deliveroo/6a8e511c-a997-4894-988d-785bb5e2879f) |
 | Dexcom | Facilities Engineer Intern | Malaysia | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Intern_JR118516) |
 | Dryft | Full-Stack Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) |
 | Eight Sleep | AI/ML Research Internship | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) |
@@ -5863,7 +5862,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Evening | St Catharines, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/525-Welland-Ave-St-Catharines-ON/Student--Franchise-Part-Time-Evening_R2000672418) |
 | Lucid Motors | Working Student Sales, Dusseldorf (m/f/d) | Dusseldorf, NW | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5154299007) |
 | Mariana Minerals | Chemical Engineering Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
-| Mariana Minerals | Geology Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/marianaminerals/5a18d6c4-df6e-4151-8d1d-26b30058d5c8) |
 | Marsh | Intern - Business Development | Singapore Marina View | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Intern---Business-Development_R_354137) |
 | Marvell | Digital IC Design Intern | Argentina | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) |
 | Mechanize | Software Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
@@ -5895,7 +5893,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Philips | Supplier Sustainability Intern | Shanghai | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Supplier-Sustainability-Intern_585217) |
 | PHINIA | HR Intern | Auburn Hills Phinia Whq Michigan USA | [Apply](https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/HR-Intern_R2026-0404) |
 | PHINIA | Student (Hourly) | Stonehouse United Kingdom | [Apply](https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Stonehouse---United-Kingdom/Student--Hourly-_R2026-0397) |
-| Physical Intelligence | Hardware Systems Intern | California, United States | [Apply](https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f) |
 | Physical Intelligence | Research Internships | California, United States | [Apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076) |
 | PricewaterhouseCoopers (PwC) | General application to PwC Slovakia - Internship (m/f) | Bratislava | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bratislava/General-application-to-PwC-Slovakia---Internship_602117WD) |
 | PricewaterhouseCoopers (PwC) | Internship i PwC’s kompetencecenter for revision (Aarhus) | Aarhus | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Aarhus/Internship-i-PwC-s-kompetencecenter-for-revision--Aarhus-_732941WD) |
@@ -5968,7 +5965,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas A&M International University | Federal College Work Study-Student (Events) | Laredo, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Federal-College-Work-Study-Student--Events-_R-093854) |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567) |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566) |
-| The Exploration Company | AIT- MGSE intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/42871307-d111-435a-ab39-9336274fe8b3) |
 | The Exploration Company | Engine Functional Propulsion Intern | Bordeaux, France / Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c) |
 | The Exploration Company | Procurement Intern | West Coast, United States | [Apply](https://jobs.ashbyhq.com/the-exploration-company/ece4e3ad-73ac-4188-83d5-9a929ceae86e) |
 | The Exploration Company | Working Student- IT Operations | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) |
