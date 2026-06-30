@@ -53,6 +53,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Baker Hughes | University Internship - Supply Chain Intern | Hua Tuo Rd. | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CN-SHANGHAI-1-HUA-TUO-RD/University-Internship---Supply-Chain-Intern_R165848) |
 | Banner Health | High School Internship Brush | East Morgan County Hosp (2400 W Edison) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/East-Morgan-County-Hosp-2400-W-Edison/High-School-Internship-Brush_R4446727) |
 | Banner Health | High School Internship Sterling | Sterling Regional Med Ctr (615 Fairhurst St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Sterling-Regional-Med-Ctr-615-Fairhurst-St/High-School-Internship-Sterling_R4446726) |
+| Base Power | Growth Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/fe71e011-a23a-4651-8f8a-9c0fcb5f1f22) |
 | Beth Israel Lahey Health | Pharmacy Student | Beth Israel Deaconess Medical Center | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Pharmacy-Student_JR99364) |
 | Blue Origin | Fluid Systems Design Engineer II: Upper Stage - New Glenn | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Fluid-Systems-Design-Engineer-II--Upper-Stage---New-Glenn_R67061) |
 | Blue Origin | Fluid Systems Structural Analyst III: Upper Stage - New Glenn | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Fluid-Systems-Structural-Analyst-III--Upper-Stage---New-Glenn_R67153) |
@@ -61,6 +62,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Boston Medical Center | Student intern | Boston | [Apply](https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Student-intern_49465) |
 | Boston Medical Center | Student Intern, Psychiatry Research (Per Diem, Temporary) | Boston | [Apply](https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Student-Intern--Psychiatry-Research--Per-Diem--Temporary-_49824) |
 | Cardinal Health | Intern, Nuclear Pharmacy-Temporary- | In-Highland-Nucl Pharm #16 | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IN-Highland-Nucl-Pharm-16/Intern--Nuclear-Pharmacy-Temporary-_20182945) |
+| Cartesia | Legal Intern (3L) - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/cartesia/dc355adb-d99f-44a2-80c1-165032074bf2) |
 | Caterpillar | Assembly Intern | Tianjin | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Assembly-Intern_R0000379887) |
 | Caterpillar | Intern | Tianjin | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Intern_R0000379349) |
 | Cencora | STAGE  Chef de projet - Trade Marketing (H/F) | Gennevilliers | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Gennevilliers/STAGE---Chef-de-projets-et-offres-promotionnelles--H-F-_R266804) |
@@ -178,6 +180,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Medtronic - MedtronicCareers | Training Support Intern | China | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Training-Support-Intern_R70994-1) |
 | Mercer University | CCPD Student Assistant(Fall26-Spring27) | Macon Campus / Atlanta Campus | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/CCPD-Student-Assistant_JR103942) |
 | Mercer University | Medical Student Summer Researcher | Mercer School Of Medicine | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Mercer-School-of-Medicine/Medical-Student-Summer-Researcher_JR103976) |
+| Meshy | Applied Researcher Intern | China / Remote | [Apply](https://jobs.ashbyhq.com/meshy/2f60f46a-b2e2-4621-afea-cf1a0c12a315) |
 | Moog | Intern, Electronic Engineering | Vilnius, LT | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Vilnius-LT/Intern--Electronic-Engineering_R-26-18636) |
 | Motorola Solutions | Managed Services Engineering Intern | Saudi Arabia | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Riyadh-Saudi-Arabia/Managed-Services-Engineering-Intern_R66289) |
 | Novartis | Intern Data Science | Hyderabad (office) | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10082319) |
@@ -467,7 +470,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas Instruments | Intern (m/f/d) in the Field of Sales Operations, Pricing or Supply Chain – 2026 | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011186) |
 | The Coca-Cola Company | CPS AR Manufacturing Intern | Argentina Buenos Aires | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Argentina---Buenos-Aires/CPS-AR-Manufacturing-Intern_R-142982) |
 | The Coca-Cola Company | CPS AR Operational Excellence intern | Argentina Buenos Aires | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Argentina---Buenos-Aires/CPS-AR-Operational-Excellence-intern_R-142970) |
-| The Exploration Company | Development Models Simulations Intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/43c8475f-643c-47f9-93b4-f265afa84413) |
+| The Exploration Company | Development Models Simulations Intern | Germany / Bordeaux, France | [Apply](https://jobs.ashbyhq.com/the-exploration-company/43c8475f-643c-47f9-93b4-f265afa84413) |
 | The Walt Disney Company | ESPN Creative Studio Production Assistant Intern, New York City, Fall 2026 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ESPN-Creative-Studio-Production-Assistant--New-York-City--Fall-2026_10154313-1) |
 | Thermo Fisher Scientific | Intern, Technical Support - Automated System Health Check Tool for Microscope Maintenance Efficiency and Reliability | Netherlands | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Intern--Technical-Support---Automated-System-Health-Check-Tool-for-Microscope-Maintenance-Efficiency-and-Reliability_R-01358630) |
 | Tiffany & Co. | Summer Intern Program | Brazil | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63330) |
@@ -1076,7 +1079,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Morgan Stanley | Intern - Bilingual Eglish/Mandarin | California, United States | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-Eglish-Mandarin_JR037650) |
 | Morgan Stanley | Intern - Bilingual English/Spanish | California, United States | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR037647) |
 | Motorola Solutions | Intern Software Developer - Java | Poland | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Java-Intern_R66047) |
-| MUBI | Marketing Intern, CL | Chile / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/bee9858c-5658-462d-953a-c9307a5e4b1a) |
 | Nasdaq | Verafin - Information Security Student (Sept 2026) | Canada St. John's Newfoundland & Labrador / CA-Toronto-York St 24 / 25 | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Information-Security-Student--Sept-2026-_R0026420) |
 | NBCUniversal | LATAM Regional Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000134009599) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
@@ -1294,7 +1296,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Danaher Corporation | Intern | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern_R1313728) |
 | Danaher Corporation | Intern - Collections (US Timezone) | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern---Collections--US-Timezone-_R1313580) |
 | Danaher Corporation | Intern - Credit Management (US Timezone) | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Intern---Credit-Management--US-Timezone-_R1313550) |
-| Deliveroo | Finance & Strategy Intern | Belgium / Remote | [Apply](https://jobs.ashbyhq.com/deliveroo/4b366916-4241-4946-a23e-afd0789d2834) |
 | Desjardins | Student job, Technician, Legal and regulatory compliance | Lévis / Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Lvis/Emploi-tudiant--Technicien-ou-technicienne-en-conformit-juridique-et-rglementaire_R2608103) |
 | Disney | ESPN Product Marketing Intern, New York City, Fall 2026 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ESPN-Product-Marketing-Intern--New-York-City--Fall-2026_10154503) |
 | Disney | ESPN Programming Intern, Remote, Fall 2026 | Bristol, CT, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Remote--Fall-2026_10154497) |
@@ -3045,8 +3046,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle - jobsearch | OH Product Manager Intern - OVIP | Kansas City, MO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334348) |
 | Oracle - jobsearch | ONA AI Agent Intern (Logistics Focus) - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334345) |
 | Oracle - jobsearch | SCA Project Manager Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334344) |
-| Pebl | Product Management Intern - Talent Solutions | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/4da3780a-ed0d-42ac-a899-635bdd00a764) |
-| Pebl | Product Management Intern - Talent Solutions | United States / Vancouver, BC / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/71d56313-31cb-4f5a-addf-dd9f9e470258) |
 | Pebl | Software Engineer Intern, Conversational AI (Alfie) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44) |
 | Pebl | Software Engineer Intern, Invoicing & Payments | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612) |
 | Pebl | Software Engineer Intern, Payroll | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663) |
@@ -5808,9 +5807,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lambda | Accounting AI Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/d84c4397-8b15-414b-b488-99ea0180bf18) |
 | Lambda | AI Research Marketing Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330) |
 | Lambda | Capital Markets & Corporate Development Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760) |
-| Lambda | Data Center Electrical Modeling Intern - 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/9c964b0d-984b-4220-a1ee-ea237a4f14ea) |
-| Lambda | Data Center Mechanical Engineering Intern - 2026 | California, United States / San Francisco Office (fremont St) / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) |
-| Lambda | Field Engineering Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) |
 | Lambda | Security Engineering Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) |
 | Leland | AI Education Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) |
 | Leland | Recruiting Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/b356ad9b-9cd2-4574-a538-1fcae8457217) |
@@ -5882,15 +5878,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Simular | People & Operations Intern | Singapore / Palo Alto | [Apply](https://jobs.ashbyhq.com/Simular/cfa6bbf8-f9ab-4ff2-8473-b71ad8651d1f) |
 | Simular | PhD Research Intern | California, United States / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009) |
 | Simular | Software Engineer Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a) |
-| Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/611a7f87-bc4c-468f-976f-ecd33b731fa3) |
-| Skydio | Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb) |
-| Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | Switzerland / Finland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/92a7a891-d332-459c-9aa8-e96afea4f2a4) |
-| Skydio | Autonomy Engineer Intern - Deep Learning (Computational Photography) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25) |
-| Skydio | Autonomy Engineer Intern Fall 2026 | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/c48dabe8-cb67-4694-aacc-f9ef4d34ae50) |
 | Skydio | Middleware Software Engineer Intern - Fall 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) |
-| Skydio | PhD Autonomy Engineer Intern - Deep Learning or Computer Vision | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519) |
-| Skydio | PhD Autonomy Engineer Intern - Deep Learning or Computer Vision | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/c783c8dd-f604-47d0-aae0-187af89c81b4) |
-| Skydio | PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning) | Switzerland / Remote | [Apply](https://jobs.ashbyhq.com/skydio/12590806-3cf0-4bc3-930b-12b53e227a5c) |
 | Skydio | Software Engineer Intern Fall 2026/Winter 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
 | Snowflake | EMEA Communications Intern | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f) |
 | Snowflake | Field Marketing Working Student - Munich | Germany / Remote | [Apply](https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe) |
@@ -5902,16 +5890,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Solva | AI Engineer Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6) |
 | State Street | Securities Valuation Internship | Toronto, ON | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Securities-Valuation-Internship_R-791947) |
 | Stryker | Logistics Intern (12 months) | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Skawina-Poland/Logistics-Intern--12-months-_R566779-1) |
-| Super | Data Analytics Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922) |
-| Super | Data Analytics Intern, Risk & Fraud | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef) |
-| Super | Data Engineering Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/5060f2c1-a0ca-44a9-90b6-647ead38d2e8) |
 | Super | Legal Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/3295ced3-f64c-40fb-bd78-6ff35355c42b) |
 | Super | Payments Engineering Intern (12-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c) |
-| Super | Quality Intern - Travel & AI Enablement | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/3854181c-a5d4-440f-9252-499749acf7c9) |
 | Super | Social Media Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/e267baa9-94c4-4f05-a85a-02ea7844a52e) |
 | Super | Software Development Engineering Intern - Infrastructure (DevOps) -  12 Months | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/7d7eaa47-39d4-4677-aea9-f5d9f6c25ed8) |
 | Super | Software Engineering Intern - Product (Full-Stack) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5) |
-| Super | Software Engineering Intern, Data | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d) |
 | Super | Travel Supply Analyst Intern (8-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2) |
 | Swift | Linux (RHEL) system administrator internship – 6x Months | London, United Kingdom | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Linux--RHEL--system-administrator-internship---6x-Months_2026-15764) |
 | TENEX.AI | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
@@ -5922,7 +5905,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567) |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566) |
 | The Exploration Company | Engine Functional Propulsion Intern | Bordeaux, France / Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c) |
-| The Exploration Company | Procurement Intern | West Coast, United States | [Apply](https://jobs.ashbyhq.com/the-exploration-company/ece4e3ad-73ac-4188-83d5-9a929ceae86e) |
 | The Exploration Company | Working Student- IT Operations | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) |
 | The Walt Disney Company | Intern Retail Marketing DCP | Germany | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Munich-Germany/Intern-Retail-Marketing-DCP_10150476-2) |
 | Tilde Research | Kernel Engineer (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8) |
