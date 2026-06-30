@@ -31,6 +31,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Technical Product Delivery Specialist (Entry-Level) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Technical-Product-Delivery-Specialist--Entry-Level-_JR2026516992) |
 | The Boeing Company - INTERN | 2026 New Entry-Level-Engineering-SIWS Software Engineer | USA Huntsville, AL | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Huntsville-AL/XMLNAME-2026-New-Entry-Level-Engineering-SIWS-Software-Engineer_JR2026516893) |
 | University of Texas - Austin | Entry Level Lineworker | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Entry-Level-Lineworker_R_00046822) |
+| WeRide | New Grads 2026 - General Software Engineer (CN) | China | [Apply](https://jobs.lever.co/weride/475bf05a-29c7-4824-99f0-504ac4845415) |
 | Chase | Collections, Fraud & Accounts Entry-Level Specialist | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764343) |
 | Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764354) |
 | DXC Technology | Accounts Payable Specialist (Mandarin Speaker) - Entry Level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Accounts-Payable-Specialist--Mandarin-Speaker-_51583004) |
@@ -781,7 +782,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mosaic | Entry Level Operator-COL | CA-Colonsay, SK | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA-Colonsay-SK/Entry-Level-Operator-COL_64284-1) |
 | SpaceX | New Graduate Engineer, Mechanical (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578053002?gh_jid=8578053002) |
 | Uber Freight | Junior Accounts Payable/Receivable Specialist (New Grad Welcome) | Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5205786008) |
-| Cirrus Logic | Entry Level Product Test Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/a36883af-c4ca-4e2d-a3ff-de9d094708bd) |
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine/Telemetry Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Internal-Medicine-Telemetry-Unit_339945) |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/New-Grad-RN-Resident---Med-Surg_343461) |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Telemetry | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Telemetry_342179-1) |

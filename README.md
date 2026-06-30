@@ -112,6 +112,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Harris Computer | Intern - Corporate Internal Auditor | Ottawa, ON | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ottawa-Ontario/Intern---Corporate-Internal-Auditor_R0044632-1) |
 | Hendrick Motorsports | Project and Race Support Engineer Fall 2026 Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Fall-2026-Internship_R-81645) |
 | Hendrick Motorsports | Project and Race Support Engineer Spring 2027 - Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647) |
+| Hermeus | Flight Test Operations Pilot Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/8b890bfe-924e-4520-a8a9-0641f0581514) |
 | Hewlett Packard (HP) | Circularity Insights and Compliance Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Circularity-Insights-and-Compliance-Intern_UNI2923) |
 | Hitachi | Energy Internship | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Energy-Internship_R0135781) |
 | Hitachi | HSE Intern | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bac-Ninh-Bc-Ninh-Vietnam/HSE-Intern_R0135255-1) |
@@ -172,6 +173,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Assistant 1 - HCS | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-1---HCS_R153994-2) |
 | Otis Worldwide | Intern in Service | Athens | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Athens/Intern-in-Service_20163696) |
 | Otis Worldwide | Intern, Field Svc | H.no.6-2-30 / India | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/1st-Floor-Part-HNo6-2-30--12-S-S-Central-AC-Guard-Road-Lakidikapool-Hyderabad--500004-India/Intern--Field-Svc_20163009) |
+| Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
+| Palantir | Software Engineer, Internship | Denver, CO | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
+| Palantir | Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
+| Palantir | Software Engineer, Internship | D.c. | [Apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
+| Palantir | Software Engineer, Internship | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
+| Palantir | Software Engineer, Internship - Defense Tech | New York, NY | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
+| Palantir | Software Engineer, Internship - Defense Tech | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) |
+| Palantir | Software Engineer, Internship - Defense Tech | D.c. | [Apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) |
 | Philips | Consumer Insights /Commercial Analytics Intern | Amsterdam | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Consumer-Insights--Commercial-Analytics-Intern_585247) |
 | Philips | Intern Operational Excellence Ventures | Amsterdam | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Intern-Operational-Excellence-Ventures_586164-1) |
 | Philips | Services Delivery Intern (all genders) | Lodz | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Services-Delivery-Intern--all-genders-_585317) |
@@ -9966,7 +9975,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Xometry | Growth Marketing Intern | Waltham, MA | [Apply](https://job-boards.greenhouse.io/xometry/jobs/5008625007) |
 | XPENG Motors | AI Agent Data Pipeline Intern | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8548990002) |
 | XPENG Motors | AI Intern – VLA Deployment | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
-| Xsolla | Human Resources Intern | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/dc809dc8-d412-45b9-9dbb-f2968f5ac3fd) |
 | Xsolla | Internship Opportunity | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) |
 | Xsolla | Xsolla School – Student Application | China | [Apply](https://jobs.lever.co/xsolla/26a98b5c-ca2c-4ab9-934c-52ad1cedd9e0) |
 | Xylem | Dualer Student Maschinenbau (m/w/d) | Weilheim | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Maschinenbau--m-w-d-_R41048) |
@@ -10014,7 +10022,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Working Student – Mechanical Design / Engineering (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Mechanical-Design-Konstruktion--m-w-x-_JR_1049038) |
 | ZOLL Medical Corporation | Field Service Intern | Sg Central Warehouse | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/SG-Central-Warehouse/Intern_R4699) |
 | ZOLL Medical Corporation | Stagiaire- Assistant(e) Compliance Officer | Voisins Le Bretonneux, France | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Voisins-le-Bretonneux-France/Stagiaire--Assistant-e--Compliance-Officer_R19256-1) |
-| Zoox | Part-Time Student Worker AI & Automation: Supply Chain, Quality & Reliability | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/e6aeeac7-f809-4679-b72c-effa5a39223d) |
 | Zoox | Part-time Student Worker – Autonomous Driving & New Geofence Expansion | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663) |
 | Zoox | PT Student Worker-AI Driven Trouble Shooting | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca) |
 | Zscaler | Detection Engineer- SkillBridge Intern | United States Remote | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
