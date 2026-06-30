@@ -32,6 +32,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Technical Product Delivery Specialist (Entry-Level) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Technical-Product-Delivery-Specialist--Entry-Level-_JR2026516992) |
 | The Boeing Company - INTERN | 2026 New Entry-Level-Engineering-SIWS Software Engineer | USA Huntsville, AL | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Huntsville-AL/XMLNAME-2026-New-Entry-Level-Engineering-SIWS-Software-Engineer_JR2026516893) |
 | University of Texas - Austin | Entry Level Lineworker | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Entry-Level-Lineworker_R_00046822) |
+| Vanasse Hangen Brustlin (VHB) | Entry Level Water Resources Designer | New York City, NY, United States | [Apply](https://careers-vhb.icims.com/jobs/6132/entry-level-water-resources-designer/job) |
 | WeRide | New Grads 2026 - General Software Engineer (CN) | China | [Apply](https://jobs.lever.co/weride/475bf05a-29c7-4824-99f0-504ac4845415) |
 | Chase | Collections, Fraud & Accounts Entry-Level Specialist | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764343) |
 | Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764354) |
@@ -237,7 +238,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Euclid Interview Day 7/8/2026 | Euclid Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Euclid-Hospital/RN-New-Grad-Resident---Euclid-Interview-Day-4-15-2026_336235) |
 | Cox | Entry Level Software Engineer (Burlington, VT) | Burlington Vt | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034) |
 | Cox | Entry Level Software Engineer (Irvine, CA) | Irvine CA | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1) |
-| General Dynamics | Entry Level Ship Signatures Structural Acoustic Engineer | New London, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/19505/entry-level-ship-signatures-structural-acoustic-engineer/job) |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | San Antonio, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15125) |
 | Moog | 2nd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-2nd-Shift-Entry-Level-Machinist_R-26-18520) |
 | NXP Semiconductors | Equipment Engineer - Entry Level | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer---Entry-Level_R-10063488) |
@@ -687,7 +687,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics Mission Systems | Entry Level Infrastructure Hardware Systems Engineer | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72936/entry-level-infrastructure-hardware-systems-engineer/job) |
 | General Dynamics Mission Systems | Entry Level Infrastructure Software Engineer | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72580/entry-level-infrastructure-software-engineer/job) |
 | General Dynamics Mission Systems | Entry Level Software Engineer | Lakewood, OH, United States | [Apply](https://careers-gdms.icims.com/jobs/72592/entry-level-software-engineer/job) |
-| General Dynamics Mission Systems | Mechanical Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72908/mechanical-engineer-%e2%80%93-entry-level/job) |
 | General Dynamics Mission Systems | Software Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72777/software-engineer-%e2%80%93-entry-level/job) |
 | Geosyntec Consultants | Early Career Geotechnical Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4200/early-career-geotechnical-engineer/job) |
 | Intermountain Healthcare | New Grad Registered Radiology Tech | Intermountain Health Lutheran Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/New-Grad-Registered-Radiology-Tech_R174148) |
@@ -701,7 +700,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mastercard | Associate Product Specialist, Product Management, 2027 Launch Graduate Program - Sydney, Australia | Australia | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/St-Leonards-Australia/Associate-Product-Specialist--Product-Management--2027-Launch-Graduate-Program---Sydney--Australia_R-280217) |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5253689008) |
 | Pennsylvania State University | Graduate Program Coordinator | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Program-Coordinator_REQ_0000078605-2) |
-| Peraton | Electrical Engineer - Early Career | Aberdeen Proving Ground, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/165541/electrical-engineer---early-career/job) |
 | Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) |
 | Sargent & Lundy | Entry Level Civil Engineer | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/21915/entry-level-civil-engineer/job) |
 | Sargent & Lundy | Entry-Level Structural Engineer - Energy & Industrial Group (Summer 2026) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/20873/entry-level-structural-engineer---energy-%26-industrial-group-%28summer-2026%29/job) |
