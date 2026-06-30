@@ -27,6 +27,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | United States-Virginia-Falls Church | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148) |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Dallas, TX | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5286302008) |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Grand Rapids, MI | Grand Rapids | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Grand-Rapids/Field-Service-Technician--Entry-Level----Grand-Rapids--MI_R000154306) |
+| Securitas | Entry Level Security Officer | Ravenna, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172045) |
 | State Street | Early Career Cyber Defense Centre Analyst, Officer | Massachusetts | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Early-Career-Cyber-Defense-Centre-Analyst--Officer_R-791027) |
 | Takeda | Entry-Level Phlebotomist | USA Wi Sheboygan | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---WI---Sheboygan/Entry-Level-Phlebotomist_R0183607-1) |
 | The Boeing Company - external_subsidiary | Technical Product Delivery Specialist (Entry-Level) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Technical-Product-Delivery-Specialist--Entry-Level-_JR2026516992) |
@@ -34,6 +35,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | University of Texas - Austin | Entry Level Lineworker | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Entry-Level-Lineworker_R_00046822) |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Water Resources Designer | New York City, NY, United States | [Apply](https://careers-vhb.icims.com/jobs/6132/entry-level-water-resources-designer/job) |
 | WeRide | New Grads 2026 - General Software Engineer (CN) | China | [Apply](https://jobs.lever.co/weride/475bf05a-29c7-4824-99f0-504ac4845415) |
+| WSP | Early Career Environmental Planner | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89065) |
 | Chase | Collections, Fraud & Accounts Entry-Level Specialist | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764343) |
 | Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764354) |
 | DXC Technology | Accounts Payable Specialist (Mandarin Speaker) - Entry Level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Accounts-Payable-Specialist--Mandarin-Speaker-_51583004) |
@@ -225,7 +227,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | PitchBook | Market Development Representative (Early Career, Inside Sales) | England, United Kingdom | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4691261006) |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102264-1) |
 | Robinhood | Customer Experience Associate (New Grad) | Denver, CO / Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) |
-| Securitas | Entry Level Security Officer | Verona, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171889) |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Wi Madison | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---WI---Madison/Entry-Level-Phlebotomist--On-the-Job-Training-_R0183132-1) |
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0118674) |
@@ -559,7 +560,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) |
 | Sandisk | System Product Engineer (New or Recent Graduate) | Milpitas, United States | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000131987189) |
 | Savannah River National Laboratory | Entry-Level Electrical Engineer, Advanced Engineering | Aiken, SC, United States | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2130) |
-| Securitas | Entry Level Security Officer | Monroe, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171516) |
 | Securitas | Entry Level Security Officer | Grand Rapids, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170220) |
 | Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169231) |
 | Securitas | Entry Level Security Officer | West Grove, PA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/165152) |
