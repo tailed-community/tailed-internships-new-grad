@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Water/Wastewater Inspector | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000135274400) | 2026-07-01 |
 | Amentum | Machine Design Engineer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Machine-Design-Engineer---Entry-Level_R0164788-1) | 2026-07-01 |
 | AutoNation | Entry Level Automotive Technician -- AN Chevrolet Spokane Valley | Autonation Chevrolet Spokane Valley | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Spokane-Valley/Entry-Level-Automotive-Technician----AN-Chevrolet-Spokane-Valley_JR2026144588) | 2026-07-01 |
 | AutoNation | Entry Level Technician-AutoNation Chevrolet Amarillo-$17.00 | Autonation Chevrolet Amarillo | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Amarillo/Entry-Level-Technician-AutoNation-Chevrolet-Amarillo--1700_JR2026144620) | 2026-07-01 |
@@ -39,6 +40,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DriveTime | Automotive Tech - Entry Level | Il 60445 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/14500-Cicero-Ave-Midlothian-IL-60445/Automotive-Tech---Entry-Level_R15847) | 2026-07-01 |
 | DriveTime | Automotive Technician - Entry Level | Tx 77090 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/15206-Kuykendahl-Rd-Houston-TX-77090/Automotive-Technician---Entry-Level_R15859) | 2026-07-01 |
 | Equifax - external | Network Control Tech- Entry Level | USA-Ky-Louisville | [Apply](https://equifax.wd5.myworkdayjobs.com/external/job/USA-KY-Louisville/Network-Control-Tech--Entry-Level_J00177524) | 2026-07-01 |
+| Eurofins | Entry-Level Lab Technician - Sample Management (3rd Shift, Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000135075968) | 2026-07-01 |
 | Fresenius Medical Care | New Graduate Registered Nurse | Princess Anne, MD, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Princess-Anne-MD-USA/New-Graduate-Registered-Nurse_R0259948) | 2026-07-01 |
 | Gannet Fleming | Entry-Level Hydrologic & Hydraulic Engineer | Phoenix, AZ, United States / Salt Lake City, UT, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14357/entry-level-hydrologic-%26-hydraulic-engineer/job) | 2026-07-01 |
 | GE Vernova | Early Career Traineeship - Consulting Services | Al Khobar / Riyadh Sa 11 / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Early-Career-Traineeship---Consulting-Services_R5045498-1) | 2026-07-01 |
@@ -65,6 +67,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry Level or Associate Manufacturing Operations Analyst | USA Saint Charles, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Entry-Level-or-Associate-Manufacturing-Operations-Analyst_JR2026511714) | 2026-07-01 |
 | The Boeing Company - external_subsidiary | Entry Level or Associate Procurement Agent | USA Seattle, WA | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Entry-Level-or-Associate-Procurement-Agent_JR2026516081) | 2026-07-01 |
 | The Boeing Company - external_subsidiary | Entry Level Procurement Agent | USA Seattle, WA | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Entry-Level-Procurement-Agent_JR2026516129) | 2026-07-01 |
+| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000135038649) | 2026-07-01 |
 | World Kinect | Sales Executive – Early Career \| Field-Based | Remote | [Apply](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/KANSAS-CITY-KS-Remote/Sales-Executive---Early-Career---Field-Based_R22746) | 2026-07-01 |
 | WSP | Early Career Architect | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90254) | 2026-07-01 |
 | Accenture | Partners in Performance - Performance Strategy Business Analyst - Graduate Program - 2026/ 2027 start | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Partners-in-Performance---Performance-Strategy-Business-Analyst---Graduate-Program---2026--2027-start_R00335163) | 2026-06-30 |
@@ -258,7 +261,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Dandy | Entry-Level Crown & Bridge Technician - Night Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/ee8fe9a4-18fc-41b0-8566-543c9b667659) | 2026-06-24 |
 | Dandy | Entry-Level Crown & Bridge Technician - Swing Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/a8e5116e-5454-4f1e-87c9-6b6d7f911811) | 2026-06-24 |
 | Desjardins | Personal Finance Advisor – University Graduate Program | Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre--Finances-personnelles--Relve-universitaire_R2608169-1) | 2026-06-24 |
-| Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133682069) | 2026-06-24 |
 | Eurofins | Entry Level Scientist - Biochemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000133694449) | 2026-06-24 |
 | Fresenius Medical Care | New Graduate Registered Nurse - RN | Des Moines, IA, United States / Davenport, IA, United States / North Platte, NE, United States / Mason City, IA, United States / Bettendorf, IA, United States / Kearney, NE, United States / Charles City, IA, United States / Sioux City, IA, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Des-Moines-IA-USA/New-Graduate-Registered-Nurse---RN_R0258887) | 2026-06-24 |
 | GE Vernova | Early Career Trainee- Solution Architect | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Early-Career-Trainee--Solution-Architect_R5044868-1) | 2026-06-24 |
@@ -489,7 +491,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg) | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769) | 2026-06-17 |
 | The Brattle Group | Research Analyst Graduate Program '27 - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4671526005) | 2026-06-17 |
 | The Children's Mercy Hospital | Respiratory Therapist - New Graduate - Night Shift | Not Specified | [Apply](https://jobs-childrensmercykc.icims.com/jobs/32417/respiratory-therapist/job) | 2026-06-17 |
-| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000130821051) | 2026-06-17 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000127692199) | 2026-06-17 |
 | TSMG | Entry-Level Browser Tester | Kraków | [Apply](https://jobs.lever.co/tsmg/ac29e7f3-834b-4ac5-a7f5-5f57bde663e9) | 2026-06-17 |
 | US Tech Solutions | Administrative Assistant/Entry Level Business Analyst | Berkeley Heights, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/86114043) | 2026-06-17 |
@@ -577,7 +578,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry-Level Geotechnical Project Coordinator / Geologist | Austin, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15016) | 2026-06-13 |
 | Intertek | Horizontal Transmission Acoustical Technician - Entry level | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15032) | 2026-06-13 |
 | Intertek | Technician - Entry-level, Building and Construction | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14697) | 2026-06-13 |
-| Jobs for Humanity | Data Entry Clerk – Entry Level Opportunity (US Candidates Only) | Canada Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000129042319) | 2026-06-13 |
 | Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
 | Louis Dreyfus Company | Master Data Analyst - entry level | Bulgaria | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115681189) | 2026-06-13 |
