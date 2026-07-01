@@ -336,6 +336,13 @@
     ]
   },
   {
+    "company": "AbCellera Biologics",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/abcellera",
+    "slug": "abcellera",
+    "enabled": true
+  },
+  {
     "company": "Abdiel Capital",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/abdielcapital",
@@ -391,6 +398,13 @@
     "enabled": true
   },
   {
+    "company": "Absci",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/absci",
+    "slug": "absci",
+    "enabled": true
+  },
+  {
     "company": "Accel Learning",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/AccelLearning",
@@ -408,6 +422,13 @@
       "entry level",
       "graduate"
     ]
+  },
+  {
+    "company": "AccelByte",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/accelbyte",
+    "slug": "accelbyte",
+    "enabled": true
   },
   {
     "company": "Acceldata",
@@ -609,6 +630,13 @@
       "entry level",
       "graduate"
     ]
+  },
+  {
+    "company": "ActBlue",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/actblue",
+    "slug": "actblue",
+    "enabled": true
   },
   {
     "company": "Actian",
@@ -1037,6 +1065,13 @@
     ]
   },
   {
+    "company": "AffiniPay",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/affinipay1",
+    "slug": "affinipay1",
+    "enabled": true
+  },
+  {
     "company": "Affinitiv",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/affinitiv",
@@ -1111,6 +1146,13 @@
     ]
   },
   {
+    "company": "Agility",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/agilityrobotics",
+    "slug": "agilityrobotics",
+    "enabled": true
+  },
+  {
     "company": "Agropur",
     "source": "workday",
     "url": "https://agropur.wd3.myworkdayjobs.com/agropur_careers",
@@ -1135,6 +1177,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/agwestfarmcredit",
     "slug": "agwestfarmcredit",
+    "enabled": true
+  },
+  {
+    "company": "AgZen",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/agzen",
+    "slug": "agzen",
     "enabled": true
   },
   {
@@ -1439,6 +1488,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Alayacare",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/alayacare",
+    "slug": "alayacare",
+    "enabled": true
   },
   {
     "company": "Albany Medical College",
@@ -2144,6 +2200,25 @@
     ]
   },
   {
+    "company": "AMD",
+    "source": "icims",
+    "url": "https://careers-amd.icims.com/jobs/search",
+    "host": "careers-amd.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Amentum",
     "source": "workday",
     "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers",
@@ -2381,6 +2456,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "American Equity",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/americanequityinvestmentlifeinsurancecompany",
+    "slug": "americanequityinvestmentlifeinsurancecompany",
+    "enabled": true
   },
   {
     "company": "American Family Insurance Group",
@@ -2665,6 +2747,13 @@
     "enabled": true
   },
   {
+    "company": "Ample",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/ampleinc",
+    "slug": "ampleinc",
+    "enabled": true
+  },
+  {
     "company": "Amplify",
     "source": "workday",
     "url": "https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers",
@@ -2809,6 +2898,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/anchorage",
     "slug": "anchorage",
+    "enabled": true
+  },
+  {
+    "company": "Andreessen Horowitz",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/a16z",
+    "slug": "a16z",
     "enabled": true
   },
   {
@@ -3316,6 +3412,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "AQR",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/aqr",
+    "slug": "aqr",
+    "enabled": true
   },
   {
     "company": "Aquabyte",
@@ -3908,6 +4011,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Asana",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/asana",
+    "slug": "asana",
+    "enabled": true
   },
   {
     "company": "Asana Early Career Programs",
@@ -4667,6 +4777,20 @@
     "enabled": true
   },
   {
+    "company": "AuditBoard",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/optro",
+    "slug": "optro",
+    "enabled": true
+  },
+  {
+    "company": "Aura Frames",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/aura",
+    "slug": "aura",
+    "enabled": true
+  },
+  {
     "company": "Aurora Innovation",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/aurorainnovation",
@@ -4875,6 +4999,13 @@
     ]
   },
   {
+    "company": "Avathon",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/avathon",
+    "slug": "avathon",
+    "enabled": true
+  },
+  {
     "company": "AvePoint",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/avepoint",
@@ -5011,6 +5142,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/avride",
     "slug": "avride",
+    "enabled": true
+  },
+  {
+    "company": "Awardco",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/awardco",
+    "slug": "awardco",
     "enabled": true
   },
   {
@@ -5240,6 +5378,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Baidu USA",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/baidu",
+    "slug": "baidu",
+    "enabled": true
   },
   {
     "company": "Baird",
@@ -5584,6 +5729,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Base",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/basejobs",
+    "slug": "basejobs",
+    "enabled": true
   },
   {
     "company": "Base Power",
@@ -6184,6 +6336,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/bigid",
     "slug": "bigid",
+    "enabled": true
+  },
+  {
+    "company": "BILL",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/billcom",
+    "slug": "billcom",
     "enabled": true
   },
   {
@@ -7064,6 +7223,13 @@
     "enabled": true
   },
   {
+    "company": "Bombora",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/bombora",
+    "slug": "bombora",
+    "enabled": true
+  },
+  {
     "company": "Bonterra",
     "source": "workday",
     "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech",
@@ -7088,6 +7254,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/boomsupersonic",
     "slug": "boomsupersonic",
+    "enabled": true
+  },
+  {
+    "company": "Boomi",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/boomilp",
+    "slug": "boomilp",
     "enabled": true
   },
   {
@@ -7367,10 +7540,24 @@
     "enabled": true
   },
   {
+    "company": "Brain Corp",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/braincorporation",
+    "slug": "braincorporation",
+    "enabled": true
+  },
+  {
     "company": "Brain Technologies",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/braintechnologies",
     "slug": "braintechnologies",
+    "enabled": true
+  },
+  {
+    "company": "Branch",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/branchmetrics",
+    "slug": "branchmetrics",
     "enabled": true
   },
   {
@@ -7465,6 +7652,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/brevium",
     "slug": "brevium",
+    "enabled": true
+  },
+  {
+    "company": "Brex",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/brex",
+    "slug": "brex",
     "enabled": true
   },
   {
@@ -8165,6 +8359,13 @@
     ]
   },
   {
+    "company": "Calico Labs",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/calicolabs",
+    "slug": "calicolabs",
+    "enabled": true
+  },
+  {
     "company": "California ISO",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/CaliforniaISO",
@@ -8404,6 +8605,13 @@
     ]
   },
   {
+    "company": "CannonDesign",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cannondesign",
+    "slug": "cannondesign",
+    "enabled": true
+  },
+  {
     "company": "Canon",
     "source": "icims",
     "url": "https://external-canoncareers.icims.com/jobs/search",
@@ -8587,6 +8795,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/carbondirect",
     "slug": "carbondirect",
+    "enabled": true
+  },
+  {
+    "company": "Carbon Robotics",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/carbonrobotics",
+    "slug": "carbonrobotics",
     "enabled": true
   },
   {
@@ -9013,6 +9228,13 @@
     "enabled": true
   },
   {
+    "company": "CelLink Technologies",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cellink",
+    "slug": "cellink",
+    "enabled": true
+  },
+  {
     "company": "Celonis",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/celonis",
@@ -9322,6 +9544,13 @@
     "enabled": true
   },
   {
+    "company": "CFD Research Corporation",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cfdresearchcorporation",
+    "slug": "cfdresearchcorporation",
+    "enabled": true
+  },
+  {
     "company": "Chainguard",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/chainguard",
@@ -9421,6 +9650,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/charge-robotics",
     "slug": "charge-robotics",
+    "enabled": true
+  },
+  {
+    "company": "Charles River Analytics",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/charlesriveranalytics90",
+    "slug": "charlesriveranalytics90",
     "enabled": true
   },
   {
@@ -10345,10 +10581,24 @@
     "enabled": true
   },
   {
+    "company": "Cleerly",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cleerlyhealth",
+    "slug": "cleerlyhealth",
+    "enabled": true
+  },
+  {
     "company": "Cleric",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/Cleric",
     "slug": "Cleric",
+    "enabled": true
+  },
+  {
+    "company": "Clerkie",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/clerkie",
+    "slug": "clerkie",
     "enabled": true
   },
   {
@@ -10674,6 +10924,13 @@
     ]
   },
   {
+    "company": "Cockroach Labs",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cockroachlabs",
+    "slug": "cockroachlabs",
+    "enabled": true
+  },
+  {
     "company": "COCO Robotics",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/cocodelivery",
@@ -10692,6 +10949,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/codazen",
     "slug": "codazen",
+    "enabled": true
+  },
+  {
+    "company": "Code and Theory",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/codeandtheory",
+    "slug": "codeandtheory",
     "enabled": true
   },
   {
@@ -11082,6 +11346,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/compa",
     "slug": "compa",
+    "enabled": true
+  },
+  {
+    "company": "CompanyCam",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/companycam",
+    "slug": "companycam",
     "enabled": true
   },
   {
@@ -12334,6 +12605,13 @@
     ]
   },
   {
+    "company": "Crunchtime",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/zenput",
+    "slug": "zenput",
+    "enabled": true
+  },
+  {
     "company": "Crusoe",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/Crusoe",
@@ -12492,6 +12770,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/convergentresearch",
     "slug": "convergentresearch",
+    "enabled": true
+  },
+  {
+    "company": "Culture Biosciences",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/culturebiosciences",
+    "slug": "culturebiosciences",
     "enabled": true
   },
   {
@@ -13670,6 +13955,13 @@
     "enabled": true
   },
   {
+    "company": "DigiCert",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/digicert",
+    "slug": "digicert",
+    "enabled": true
+  },
+  {
     "company": "DigiKey",
     "source": "workday",
     "url": "https://digikey.wd5.myworkdayjobs.com/digi-key",
@@ -13708,6 +14000,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Digital.ai",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/digitalai",
+    "slug": "digitalai",
+    "enabled": true
   },
   {
     "company": "Digs",
@@ -13798,6 +14097,13 @@
     ]
   },
   {
+    "company": "Disco",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/disco",
+    "slug": "disco",
+    "enabled": true
+  },
+  {
     "company": "Discord",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/discord",
@@ -13822,6 +14128,45 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "Dish",
+    "source": "icims",
+    "url": "https://attract-careers1-dish.icims.com/jobs/search",
+    "host": "attract-careers1-dish.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Dish",
+    "source": "oracle_hcm",
+    "url": "https://efgz.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+    "host": "efgz.fa.us6.oraclecloud.com",
+    "language": "en",
+    "site": "CX_3",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -13877,6 +14222,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/diversified-automation",
     "slug": "diversified-automation",
+    "enabled": true
+  },
+  {
+    "company": "Dmg Media",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/dmgmedia",
+    "slug": "dmgmedia",
     "enabled": true
   },
   {
@@ -14485,6 +14837,13 @@
     ]
   },
   {
+    "company": "Dyno Therapeutics",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/dynotherapeutics",
+    "slug": "dynotherapeutics",
+    "enabled": true
+  },
+  {
     "company": "Dyson",
     "source": "workday",
     "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers",
@@ -14827,6 +15186,13 @@
       "entry level",
       "graduate"
     ]
+  },
+  {
+    "company": "Electric Hydrogen",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/eh2",
+    "slug": "eh2",
+    "enabled": true
   },
   {
     "company": "Electric Mind",
@@ -15613,6 +15979,13 @@
     ]
   },
   {
+    "company": "EOS IT Solutions",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/eositsolutions",
+    "slug": "eositsolutions",
+    "enabled": true
+  },
+  {
     "company": "EPIC",
     "source": "workday",
     "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic",
@@ -16229,6 +16602,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/exegy",
     "slug": "exegy",
+    "enabled": true
+  },
+  {
+    "company": "Exiger",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/exiger",
+    "slug": "exiger",
     "enabled": true
   },
   {
@@ -17766,6 +18146,13 @@
     "enabled": true
   },
   {
+    "company": "Force Factor",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/forcefactor",
+    "slug": "forcefactor",
+    "enabled": true
+  },
+  {
     "company": "Ford Motor Company",
     "source": "oracle_hcm",
     "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
@@ -18562,6 +18949,25 @@
     "enabled": true
   },
   {
+    "company": "Garmin",
+    "source": "icims",
+    "url": "https://careers-garmin.icims.com/jobs/search",
+    "host": "careers-garmin.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Garner Health",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/garnerhealth",
@@ -19046,6 +19452,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/generallyintelligent",
     "slug": "generallyintelligent",
+    "enabled": true
+  },
+  {
+    "company": "Generate Biomedicines",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/generatebiomedicines",
+    "slug": "generatebiomedicines",
     "enabled": true
   },
   {
@@ -19580,6 +19993,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "GOBankingRates",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/gen-digital",
+    "slug": "gen-digital",
+    "enabled": true
   },
   {
     "company": "GoDaddy",
@@ -20161,6 +20581,13 @@
     ]
   },
   {
+    "company": "GSA Capital",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/gsacapital",
+    "slug": "gsacapital",
+    "enabled": true
+  },
+  {
     "company": "GSD&M",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/gsdm",
@@ -20544,6 +20971,13 @@
     ]
   },
   {
+    "company": "Harmonia",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/harmoniaholdings",
+    "slug": "harmoniaholdings",
+    "enabled": true
+  },
+  {
     "company": "Harmonic",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/Harmonic",
@@ -20784,6 +21218,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/fsastorecom",
     "slug": "fsastorecom",
+    "enabled": true
+  },
+  {
+    "company": "Healthesystems",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/healthesystems",
+    "slug": "healthesystems",
     "enabled": true
   },
   {
@@ -21579,6 +22020,13 @@
     ]
   },
   {
+    "company": "Housecall Pro",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/housecall",
+    "slug": "housecall",
+    "enabled": true
+  },
+  {
     "company": "Howard Hughes Medical Institute (HHMI)",
     "source": "workday",
     "url": "https://hhmi.wd1.myworkdayjobs.com/external",
@@ -21910,6 +22358,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/hydrow",
     "slug": "hydrow",
+    "enabled": true
+  },
+  {
+    "company": "Hyperproof",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/hyperproof",
+    "slug": "hyperproof",
     "enabled": true
   },
   {
@@ -23199,6 +23654,13 @@
     "enabled": true
   },
   {
+    "company": "Interstates",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/interstates",
+    "slug": "interstates",
+    "enabled": true
+  },
+  {
     "company": "Intertek",
     "source": "oracle_hcm",
     "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
@@ -23344,6 +23806,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Invoice Cloud",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/invoicecloud",
+    "slug": "invoicecloud",
+    "enabled": true
   },
   {
     "company": "ION Group",
@@ -24392,6 +24861,13 @@
     "enabled": true
   },
   {
+    "company": "Jump Trading",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/talent_community",
+    "slug": "talent_community",
+    "enabled": true
+  },
+  {
     "company": "Juniper Square",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/junipersquare",
@@ -24443,6 +24919,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/kairospower",
     "slug": "kairospower",
+    "enabled": true
+  },
+  {
+    "company": "Kalderos",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/kalderos",
+    "slug": "kalderos",
     "enabled": true
   },
   {
@@ -24558,6 +25041,25 @@
     ]
   },
   {
+    "company": "Kearney&Co",
+    "source": "icims",
+    "url": "https://apply-kearneyco.icims.com/jobs/search",
+    "host": "apply-kearneyco.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Kearny Bank",
     "source": "icims",
     "url": "https://careers-kearnybank.icims.com/jobs/search",
@@ -24575,6 +25077,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Kelso Industries",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/kelsoindustries",
+    "slug": "kelsoindustries",
+    "enabled": true
   },
   {
     "company": "Ken Garff Auto Group",
@@ -26154,6 +26663,13 @@
     ]
   },
   {
+    "company": "Linden Lab",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/lindenlab",
+    "slug": "lindenlab",
+    "enabled": true
+  },
+  {
     "company": "Lindy",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/lindy",
@@ -26826,6 +27342,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/luminar",
     "slug": "luminar",
+    "enabled": true
+  },
+  {
+    "company": "Luminate",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/luminate",
+    "slug": "luminate",
     "enabled": true
   },
   {
@@ -28712,6 +29235,13 @@
   },
   {
     "company": "MiQ",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/miqdigital",
+    "slug": "miqdigital",
+    "enabled": true
+  },
+  {
+    "company": "MiQ",
     "source": "workday",
     "url": "https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers",
     "tenant": "miqdigital",
@@ -28875,6 +29405,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/mobilityware",
     "slug": "mobilityware",
+    "enabled": true
+  },
+  {
+    "company": "Mobius Consulting",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/mobius",
+    "slug": "mobius",
     "enabled": true
   },
   {
@@ -29436,6 +29973,13 @@
     "enabled": true
   },
   {
+    "company": "Nakisa",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/nakisa",
+    "slug": "nakisa",
+    "enabled": true
+  },
+  {
     "company": "Nasdaq",
     "source": "workday",
     "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site",
@@ -29902,6 +30446,13 @@
     "enabled": true
   },
   {
+    "company": "NetraDyne",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/netradyne",
+    "slug": "netradyne",
+    "enabled": true
+  },
+  {
     "company": "Netsmart",
     "source": "workday",
     "url": "https://ntst.wd1.myworkdayjobs.com/careers",
@@ -30204,6 +30755,13 @@
     ]
   },
   {
+    "company": "Nextdoor",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/nextdoor",
+    "slug": "nextdoor",
+    "enabled": true
+  },
+  {
     "company": "Nextech Systems",
     "source": "lever",
     "url": "https://jobs.lever.co/nextech",
@@ -30241,6 +30799,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/nexthreat.com",
     "slug": "nexthreat.com",
+    "enabled": true
+  },
+  {
+    "company": "Nextiva",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/nextiva",
+    "slug": "nextiva",
     "enabled": true
   },
   {
@@ -30426,6 +30991,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/ninedotholdingsinc",
     "slug": "ninedotholdingsinc",
+    "enabled": true
+  },
+  {
+    "company": "NinjaTrader",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/ninjatrader",
+    "slug": "ninjatrader",
     "enabled": true
   },
   {
@@ -30978,10 +31550,36 @@
     ]
   },
   {
+    "company": "NTT Data",
+    "source": "icims",
+    "url": "https://quebec-nttdata.icims.com/jobs/search",
+    "host": "quebec-nttdata.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Nuclear Promise X",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/NPX",
     "slug": "NPX",
+    "enabled": true
+  },
+  {
+    "company": "Numerade",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/numeradecareers",
+    "slug": "numeradecareers",
     "enabled": true
   },
   {
@@ -31335,6 +31933,13 @@
     ]
   },
   {
+    "company": "Old Mission",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/oldmissioncapital",
+    "slug": "oldmissioncapital",
+    "enabled": true
+  },
+  {
     "company": "Oleria Security",
     "source": "lever",
     "url": "https://jobs.lever.co/oleria-security",
@@ -31479,6 +32084,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/onapsis",
     "slug": "onapsis",
+    "enabled": true
+  },
+  {
+    "company": "Onbe",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/onbe",
+    "slug": "onbe",
     "enabled": true
   },
   {
@@ -31882,6 +32494,13 @@
     ]
   },
   {
+    "company": "Orenda",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/orenda",
+    "slug": "orenda",
+    "enabled": true
+  },
+  {
     "company": "Origami Risk",
     "source": "icims",
     "url": "https://careers-origamirisk.icims.com/jobs/search",
@@ -32142,6 +32761,13 @@
     ]
   },
   {
+    "company": "Owl Labs",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/owllabs",
+    "slug": "owllabs",
+    "enabled": true
+  },
+  {
     "company": "Oxfam International",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/OxfamAmerica2",
@@ -32228,11 +32854,37 @@
     "enabled": true
   },
   {
+    "company": "Panasonic",
+    "source": "icims",
+    "url": "https://caemployees-napanasonic.icims.com/jobs/search",
+    "host": "caemployees-napanasonic.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Panasonic Avionics",
     "source": "icims",
     "url": "https://careers.na.panasonic.com?icims=1",
     "host": "careers.na.panasonic.com",
     "mode": "jibe",
+    "enabled": true
+  },
+  {
+    "company": "Pangaea",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/pangaea",
+    "slug": "pangaea",
     "enabled": true
   },
   {
@@ -32445,6 +33097,26 @@
     "enabled": true
   },
   {
+    "company": "Pax8",
+    "source": "workday",
+    "url": "https://pax8inc.wd12.myworkdayjobs.com/en-US/Pax8Careers",
+    "tenant": "pax8inc",
+    "site": "Pax8Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "PayNearMe",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/PayNearMe",
@@ -32482,6 +33154,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Paystand",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/paystand",
+    "slug": "paystand",
+    "enabled": true
   },
   {
     "company": "PBS",
@@ -32687,6 +33366,25 @@
     "enabled": true
   },
   {
+    "company": "PepsiCo",
+    "source": "icims",
+    "url": "https://pepjobs-pepsico.icims.com/jobs/search",
+    "host": "pepjobs-pepsico.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Per Scholas",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/perscholashires",
@@ -32731,6 +33429,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/perforce",
     "slug": "perforce",
+    "enabled": true
+  },
+  {
+    "company": "PerformLine",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/performline",
+    "slug": "performline",
     "enabled": true
   },
   {
@@ -33037,6 +33742,13 @@
     ]
   },
   {
+    "company": "Pindrop",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/pindropsecurity",
+    "slug": "pindropsecurity",
+    "enabled": true
+  },
+  {
     "company": "Pine Rest",
     "source": "workday",
     "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest",
@@ -33149,6 +33861,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Pivot Bio",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/pivotbio",
+    "slug": "pivotbio",
+    "enabled": true
   },
   {
     "company": "Pivot Energy",
@@ -33468,6 +34187,13 @@
     "enabled": true
   },
   {
+    "company": "Posit PBC (formerly RStudio)",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/rstudio",
+    "slug": "rstudio",
+    "enabled": true
+  },
+  {
     "company": "PostEra",
     "source": "lever",
     "url": "https://jobs.lever.co/postera",
@@ -33552,6 +34278,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/praxent",
     "slug": "praxent",
+    "enabled": true
+  },
+  {
+    "company": "Precisely",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/preciselyusjobs",
+    "slug": "preciselyusjobs",
     "enabled": true
   },
   {
@@ -33740,10 +34473,36 @@
     ]
   },
   {
+    "company": "Principal Financial Group",
+    "source": "icims",
+    "url": "https://careers-principal.icims.com/jobs/search",
+    "host": "careers-principal.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Prior Labs",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/prior-labs",
     "slug": "prior-labs",
+    "enabled": true
+  },
+  {
+    "company": "PrizePicks",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/prizepicks",
+    "slug": "prizepicks",
     "enabled": true
   },
   {
@@ -34464,6 +35223,13 @@
     ]
   },
   {
+    "company": "Quantbot Technologies",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/quantbot-technologies",
+    "slug": "quantbot-technologies",
+    "enabled": true
+  },
+  {
     "company": "Quantcast",
     "source": "lever",
     "url": "https://jobs.lever.co/quantcast",
@@ -34531,6 +35297,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "QuinStreet",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/quinstreet",
+    "slug": "quinstreet",
+    "enabled": true
   },
   {
     "company": "Quiq",
@@ -35023,6 +35796,13 @@
     "enabled": true
   },
   {
+    "company": "Red Door Interactive",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/reddoorinteractive",
+    "slug": "reddoorinteractive",
+    "enabled": true
+  },
+  {
     "company": "Red Hat",
     "source": "icims",
     "url": "https://us-redhat.icims.com/jobs/search",
@@ -35060,6 +35840,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Red Ventures",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/redventures",
+    "slug": "redventures",
+    "enabled": true
   },
   {
     "company": "Redhorse",
@@ -35666,6 +36453,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/riotgamesup",
     "slug": "riotgamesup",
+    "enabled": true
+  },
+  {
+    "company": "Ripple",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/ripple",
+    "slug": "ripple",
     "enabled": true
   },
   {
@@ -36768,6 +37562,13 @@
     "enabled": true
   },
   {
+    "company": "SambaNova Systems",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/sambanovasystems",
+    "slug": "sambanovasystems",
+    "enabled": true
+  },
+  {
     "company": "Samsara",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/samsara",
@@ -36839,6 +37640,13 @@
     "company": "SandboxAQ",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/sandboxaq",
+    "slug": "sandboxaq",
+    "enabled": true
+  },
+  {
+    "company": "SandboxAQ",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/sandboxaq",
     "slug": "sandboxaq",
     "enabled": true
   },
@@ -37965,6 +38773,13 @@
     "enabled": true
   },
   {
+    "company": "SGNL",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/sgnlaiinc",
+    "slug": "sgnlaiinc",
+    "enabled": true
+  },
+  {
     "company": "Shake Shack",
     "source": "workday",
     "url": "https://shakeshack.wd5.myworkdayjobs.com/External",
@@ -38317,6 +39132,25 @@
     "enabled": true
   },
   {
+    "company": "SIG",
+    "source": "icims",
+    "url": "https://sig.icims.com/jobs/search",
+    "host": "sig.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Sigma Computing",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/sigmacomputing",
@@ -38539,6 +39373,25 @@
     "enabled": true
   },
   {
+    "company": "SiriusXM",
+    "source": "icims",
+    "url": "https://international-siriusxmradio.icims.com/jobs/search",
+    "host": "international-siriusxmradio.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "SitusAMC",
     "source": "workday",
     "url": "https://situsamc.wd1.myworkdayjobs.com/SitusAMC",
@@ -38632,6 +39485,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/skyryse",
     "slug": "skyryse",
+    "enabled": true
+  },
+  {
+    "company": "Skyscanner",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/skyscanner",
+    "slug": "skyscanner",
     "enabled": true
   },
   {
@@ -39488,6 +40348,20 @@
     ]
   },
   {
+    "company": "Spot & Tango",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/spotandtango",
+    "slug": "spotandtango",
+    "enabled": true
+  },
+  {
+    "company": "Spot Freight",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/spotinc",
+    "slug": "spotinc",
+    "enabled": true
+  },
+  {
     "company": "Spotify",
     "source": "lever",
     "url": "https://jobs.lever.co/spotify",
@@ -39941,6 +40815,25 @@
     ]
   },
   {
+    "company": "State Farm",
+    "source": "icims",
+    "url": "https://careers-statefarm.icims.com/jobs/search",
+    "host": "careers-statefarm.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "State of Nebraska",
     "source": "workday",
     "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers",
@@ -40350,6 +41243,13 @@
     ]
   },
   {
+    "company": "Strategic HR",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/strategichr",
+    "slug": "strategichr",
+    "enabled": true
+  },
+  {
     "company": "Strathcona County",
     "source": "oracle_hcm",
     "url": "https://fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
@@ -40735,6 +41635,13 @@
     "enabled": true
   },
   {
+    "company": "Symbl.ai",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/symblai47",
+    "slug": "symblai47",
+    "enabled": true
+  },
+  {
     "company": "Symbotic",
     "source": "workday",
     "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic",
@@ -40759,6 +41666,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/symmetrysystems",
     "slug": "symmetrysystems",
+    "enabled": true
+  },
+  {
+    "company": "Symphony",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/symphony",
+    "slug": "symphony",
     "enabled": true
   },
   {
@@ -40975,6 +41889,13 @@
     "enabled": true
   },
   {
+    "company": "TabaPay",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/tabapay",
+    "slug": "tabapay",
+    "enabled": true
+  },
+  {
     "company": "TAE Technologies",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/taefusion60",
@@ -41027,6 +41948,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/talkdesk2",
     "slug": "talkdesk2",
+    "enabled": true
+  },
+  {
+    "company": "Talkspace",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/talkspace",
+    "slug": "talkspace",
     "enabled": true
   },
   {
@@ -41129,6 +42057,20 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Targetbase",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/targetbase",
+    "slug": "targetbase",
+    "enabled": true
+  },
+  {
+    "company": "Tarsus Pharamceuticals",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/tarsusrx",
+    "slug": "tarsusrx",
+    "enabled": true
   },
   {
     "company": "Tastylive",
@@ -42531,6 +43473,13 @@
     ]
   },
   {
+    "company": "TIFIN",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/tifin",
+    "slug": "tifin",
+    "enabled": true
+  },
+  {
     "company": "TIH",
     "source": "workday",
     "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/TIH_Careers",
@@ -42863,6 +43812,13 @@
     "enabled": true
   },
   {
+    "company": "Tower Research Capital",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/towerresearchcapital",
+    "slug": "towerresearchcapital",
+    "enabled": true
+  },
+  {
     "company": "Toyota",
     "source": "workday",
     "url": "https://toyota.wd5.myworkdayjobs.com/TMNA_College",
@@ -42914,6 +43870,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/trace3",
     "slug": "trace3",
+    "enabled": true
+  },
+  {
+    "company": "Trackonomy",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/trackonomysystems",
+    "slug": "trackonomysystems",
     "enabled": true
   },
   {
@@ -43184,6 +44147,13 @@
     ]
   },
   {
+    "company": "Tria Federal",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/triafederal",
+    "slug": "triafederal",
+    "enabled": true
+  },
+  {
     "company": "TribalScale",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/tribalscale",
@@ -43302,6 +44272,13 @@
       "entry level",
       "graduate"
     ]
+  },
+  {
+    "company": "TripleRing",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/tripleringtechnologies",
+    "slug": "tripleringtechnologies",
+    "enabled": true
   },
   {
     "company": "Triumph",
@@ -43745,6 +44722,13 @@
     "enabled": true
   },
   {
+    "company": "UDig",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/udig",
+    "slug": "udig",
+    "enabled": true
+  },
+  {
     "company": "UDisc",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/udisc",
@@ -43911,6 +44895,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Unanet",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/unanet",
+    "slug": "unanet",
+    "enabled": true
   },
   {
     "company": "Uncountable",
@@ -44577,6 +45568,13 @@
     ]
   },
   {
+    "company": "Ursa Major",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/ursamajor",
+    "slug": "ursamajor",
+    "enabled": true
+  },
+  {
     "company": "US Conec",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/usconec",
@@ -44962,6 +45960,13 @@
     "enabled": true
   },
   {
+    "company": "VaynerMedia",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/vaynermedia",
+    "slug": "vaynermedia",
+    "enabled": true
+  },
+  {
     "company": "Vectra",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/vectranetworks",
@@ -45096,6 +46101,20 @@
     "enabled": true
   },
   {
+    "company": "Veracode",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/veracode",
+    "slug": "veracode",
+    "enabled": true
+  },
+  {
+    "company": "Veracyte",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/veracyte",
+    "slug": "veracyte",
+    "enabled": true
+  },
+  {
     "company": "Veralto",
     "source": "workday",
     "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs",
@@ -45195,6 +46214,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Verition Fund Management",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/veritiongroupllc",
+    "slug": "veritiongroupllc",
+    "enabled": true
   },
   {
     "company": "Veritiv Corporation",
@@ -45480,6 +46506,25 @@
     "enabled": true
   },
   {
+    "company": "Viasat",
+    "source": "icims",
+    "url": "https://careers-viasat.icims.com/jobs/search",
+    "host": "careers-viasat.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Viatris",
     "source": "workday",
     "url": "https://viatris.wd5.myworkdayjobs.com/External",
@@ -45518,6 +46563,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Vicarious Surgical",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/vicarioussurgical",
+    "slug": "vicarioussurgical",
+    "enabled": true
   },
   {
     "company": "Viget",
@@ -46401,6 +47453,13 @@
     "enabled": true
   },
   {
+    "company": "Weber Shandwick",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/webershandwick",
+    "slug": "webershandwick",
+    "enabled": true
+  },
+  {
     "company": "WebFX",
     "source": "lever",
     "url": "https://jobs.lever.co/webfx",
@@ -47121,6 +48180,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/witnessai",
     "slug": "witnessai",
+    "enabled": true
+  },
+  {
+    "company": "Wizards of the Coast",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/hasbro",
+    "slug": "hasbro",
     "enabled": true
   },
   {
@@ -47881,6 +48947,45 @@
     ]
   },
   {
+    "company": "Zebra",
+    "source": "workday",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers",
+    "tenant": "zebra",
+    "site": "Zebra_careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Zebra Technologies",
+    "source": "icims",
+    "url": "https://zebra.icims.com/jobs/search",
+    "host": "zebra.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Zeiss",
     "source": "workday",
     "url": "https://zeissgroup.wd3.myworkdayjobs.com/External",
@@ -48102,6 +49207,25 @@
     "url": "https://jobs.lever.co/zoox",
     "slug": "zoox",
     "enabled": true
+  },
+  {
+    "company": "ZS",
+    "source": "icims",
+    "url": "https://careers-zs.icims.com/jobs/search",
+    "host": "careers-zs.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
   },
   {
     "company": "Zscaler",
