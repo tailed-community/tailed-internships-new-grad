@@ -19,3 +19,12 @@
 - Runs automatically when job data or table-formatting code changes on `main`
 - Also supports manual `workflow_dispatch`
 - Useful after table-formatting changes or manual edits to `data/jobs.json`
+
+## Sync Simplify Company Sources
+
+- Company-source workflow: `.github/workflows/sync-simplify-companies.yml`
+- Fetches Simplify's Summer 2026 listings feed weekly
+- Promotes companies that use supported ATS platforms into `data/company_sources.csv`
+- Regenerates `data/companies.json` from the updated CSV
+- Writes skipped/new lead audit data to `data/company_leads.csv`
+- Also supports manual `workflow_dispatch`

@@ -8,6 +8,8 @@
 - Suggest a company source
 - Improve automation scripts
 
+Detailed contributor and automation docs live in [Documentation](./Documentation/README.md).
+
 ## Add a Job Manually
 
 Contributors can update:
@@ -20,6 +22,8 @@ Please follow the existing JSON schema for every job entry and set the correct `
 - `"new_grad"`
 
 ## Add a Company Source
+
+For full details, see [Adding Companies](./Documentation/adding-companies.md) and [Adding ATS Support](./Documentation/adding-ats-support.md).
 
 Contributors should add company career pages to:
 
