@@ -7,8 +7,8 @@ import re
 
 from core.normalize import format_location_text
 
-TABLE_HEADER = "| Company | Role | City | Apply |"
-TABLE_DIVIDER = "|---|---|---|---|"
+TABLE_HEADER = "| Company | Role | City | Apply | Date Added |"
+TABLE_DIVIDER = "|---|---|---|---|---|"
 
 
 def _parse_date(value: Any) -> datetime:
@@ -23,6 +23,13 @@ def _parse_date(value: Any) -> datetime:
 
 def _escape_cell(value: str) -> str:
     return value.replace("|", r"\|").strip()
+
+
+def _format_date_added(value: Any) -> str:
+    date_added = _parse_date(value)
+    if date_added == datetime.min:
+        return "Not specified"
+    return date_added.strftime("%Y-%m-%d")
 
 
 def generate_jobs_table(jobs: list[dict[str, Any]], job_type: str) -> str:
@@ -44,7 +51,7 @@ def generate_jobs_table(jobs: list[dict[str, Any]], job_type: str) -> str:
 
     lines = [TABLE_HEADER, TABLE_DIVIDER]
     if not filtered:
-        lines.append("| No jobs found | - | - | - |")
+        lines.append("| No jobs found | - | - | - | - |")
         return "\n".join(lines)
 
     for job in filtered:
@@ -52,7 +59,8 @@ def generate_jobs_table(jobs: list[dict[str, Any]], job_type: str) -> str:
         title = _escape_cell(str(job.get("title", "Unknown")).strip() or "Unknown")
         location = _escape_cell(format_location_text(str(job.get("location", "")).strip()))
         url = str(job.get("url", "")).strip() or "#"
-        lines.append(f"| {company} | {title} | {location} | [Apply]({url}) |")
+        date_added = _format_date_added(job.get("date_added"))
+        lines.append(f"| {company} | {title} | {location} | [Apply]({url}) | {date_added} |")
 
     return "\n".join(lines)
 
