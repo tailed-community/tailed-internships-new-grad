@@ -14,6 +14,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 
 - Browse internships in the table below.
 - Browse new grad roles in [NEW_GRAD.md](./NEW_GRAD.md).
+- Contributor and automation docs live in [Documentation](./Documentation/README.md).
 
 ## Internships
 

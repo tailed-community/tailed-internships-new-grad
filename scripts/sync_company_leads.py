@@ -63,7 +63,14 @@ def company_identity(config: dict[str, Any]) -> tuple[str, ...] | None:
             return source, tenant, site.casefold()
         return None
 
-    if source in {"ashby", "lever", "greenhouse"}:
+    if source in {
+        "ashby",
+        "greenhouse",
+        "lever",
+        "rippling",
+        "smartrecruiters",
+        "workable",
+    }:
         slug = str(config.get("slug", "")).strip().lower()
         if slug:
             return source, slug
@@ -74,6 +81,14 @@ def company_identity(config: dict[str, Any]) -> tuple[str, ...] | None:
         mode = str(config.get("mode", "")).strip().lower()
         if host and mode:
             return source, mode, host
+        return None
+
+    if source == "oracle_hcm":
+        host = str(config.get("host", "")).strip().lower()
+        language = str(config.get("language", "")).strip().lower()
+        site = str(config.get("site", "")).strip().lower()
+        if host and language and site:
+            return source, host, language, site
         return None
 
     url = str(config.get("url", "")).strip()
