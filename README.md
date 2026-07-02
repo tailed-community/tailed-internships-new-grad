@@ -25,6 +25,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | Engineering Internship | Costa Rica Alajuela | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Engineering-Internship_31145402) | 2026-07-02 |
 | Abbott | IT Intern | Imazium / 37 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/IT-Intern_31149049-1) | 2026-07-02 |
 | Accenture | SAP Success Factors Internship Program (She/He/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/SAP-Success-Factors-Internship-Program--She-He-They-_R00325896) | 2026-07-02 |
+| Achievers | Content Co-op | Toronto | [Apply](https://jobs.lever.co/achievers/107b91ae-16c8-4ec3-afed-9af3bdafc3bd) | 2026-07-02 |
 | Advocate Health Care | Surgical Tech Intern | Aurora Medical Center Oshkosh 855 N Westhaven Dr | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Oshkosh---855-N-Westhaven-Dr/Surgical-Tech-Intern_R253209-1) | 2026-07-02 |
 | Agilent Technologies | Intern: UX / UI Design for Software Laboratory Products M/F/D | Germany-Waldbronn | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Germany-Waldbronn/Intern--UX---UI-Design-for-Software-Laboratory-Products-M-F-D_4038747) | 2026-07-02 |
 | Airbus | Internship "Climate Technology Optimization for Energy Efficiency" | Stade | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship--Climate-Technology-Optimization-for-Energy-Efficiency-_JR10388851) | 2026-07-02 |
@@ -258,6 +259,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Internship: Embedded Software (Crypto Libraries) (m/f/d) | Gratkorn | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Embedded-Software--Crypto-Libraries---m-f-d-_R-10064789-1) | 2026-07-02 |
 | NXP Semiconductors | Student Intern - Non Technical | Guadalajara | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Student-Intern---Non-Technical_R-10064559) | 2026-07-02 |
 | Otis Worldwide | Intern, Gen Legal | Morocco | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/Coline-Business-Center-n442-La-Coline-II-Californie--Ain-Chock--CasablancaCasablanca20190Morocco/Intern--Gen-Legal_20163054) | 2026-07-02 |
+| Palantir | Forward Deployed Software Engineer, Internship - Intel | D.c. | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | 2026-07-02 |
 | Pennsylvania State University | Part Time - Student (Undergraduate) - NSF Socratic Metacognitive Inquiry-based Learning Environment Project | Penn State Berks | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Student--Undergraduate----NSF-Socratic-Metacognitive-Inquiry-based-Learning-Environment-Project_REQ_0000079885) | 2026-07-02 |
 | Pennsylvania State University | Part Time - Student - Kulkarni Theatre Event Technician | Penn State Harrisburg | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student---Kulkarni-Theatre-Event-Technician_REQ_0000079889-1) | 2026-07-02 |
 | Pennsylvania State University | Publicity Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Publicity-Intern_REQ_0000079867-1) | 2026-07-02 |
@@ -7362,8 +7364,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cirrus Logic | Fall 2026 Co-Op - Analog Design Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/5a39f9e7-540f-45bc-82fa-e89487ea6bee) | 2026-06-02 |
 | Cirrus Logic | Fall 2026 Co-Op - Design Verification Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4) | 2026-06-02 |
 | Cirrus Logic | Fall 2026 Co-Op - Digital Design Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/bd8fd5e3-0fba-435a-810c-4487a776485f) | 2026-06-02 |
-| Cirrus Logic | Fall 2026 Co-Op - Formal Verification Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/3671d9f4-0389-42e6-af0e-68a95ebeb45d) | 2026-06-02 |
-| Cirrus Logic | Fall 2026 Co-Op - Mixed Signal Modeling & Verification Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95) | 2026-06-02 |
 | Cisco | ML Researcher Intern - Prague - Czechia | Czech Republic | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Prague-Czech-Republic/ML-Researcher-Intern---Prague---Czechia_2005347-1) | 2026-06-02 |
 | Cisco | Software Development Intern (Cracow, Poland) | Poland | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Development-Intern--Cracow--Poland-_2015133) | 2026-06-02 |
 | Cisco | Solutions Engineering Intern - Czechia | Czech Republic | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Prague-Czech-Republic/Solutions-Engineering-Intern---Czechia_2014096) | 2026-06-02 |
@@ -8037,7 +8037,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GlobalFoundries | University Intern - Year 2026 | Singapore | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/University-Intern---Year-2026_JR-2503754) | 2026-06-02 |
 | Globus Medical | Co-op | Audubon, PA | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Co-op_JR104625) | 2026-06-02 |
 | GoMaterials | Operations & Quoting Intern - Fall 2026 | Montreal, QC | [Apply](https://jobs.lever.co/gomaterials/7cf4b1ec-6d68-4050-854f-ac3eb2e16267) | 2026-06-02 |
-| GoMaterials | Supply Chain Operations Intern - Fall 2026 | Montreal, QC / Canada | [Apply](https://jobs.lever.co/gomaterials/10575072-15b7-4886-a85e-6e6ef4aaf1d4) | 2026-06-02 |
 | Graco | Sales Intern | Florida, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Gainesville-Florida-USA/Sales-Intern_R0021910) | 2026-06-02 |
 | Granite Construction | Engineer Intern | Florida | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Orlando-Florida/Engineer-Intern_R0000007171) | 2026-06-02 |
 | Great American Insurance Company | Business Analyst Intern | Oh (usa) | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst-Intern_R9037) | 2026-06-02 |
