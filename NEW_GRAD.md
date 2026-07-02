@@ -597,7 +597,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Technician - Entry-level, Building and Construction | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14697) | 2026-06-13 |
 | Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
-| Louis Dreyfus Company | Master Data Analyst - entry level | Bulgaria | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115681189) | 2026-06-13 |
 | Michael Baker International | Bridge Associate Engineer, Entry Level | Columbus, OH, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308947) | 2026-06-13 |
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
