@@ -106,6 +106,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Comcast | Comcast Platform Software Engineer Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979) | 2026-07-03 |
 | Comcast | Comcast Program Management Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Program-Management-Co-op_R435973) | 2026-07-03 |
 | Comcast | Comcast Software Engineer Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436169) | 2026-07-03 |
+| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/C0CA13664F/) | 2026-07-03 |
 | Continental | Intern - BestDrive Recruiting, Year-Round | Fort Mill, SC, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000135569435) | 2026-07-03 |
 | Contoro | Robotics Intern, Deployment | Texas, United States | [Apply](https://jobs.ashbyhq.com/contoro/861ba383-ca6b-4eba-b087-ee7d4cd0fe89) | 2026-07-03 |
 | Copeland | Intern Tecnical Support | Mexico | [Apply](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Mexico-City-Mexico/Intern-Tecnical-Support_JR116429) | 2026-07-03 |
@@ -2865,7 +2866,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | Internship - CS EUV OPP team - Tainan | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Tainan-Taiwan/Internship---CS-EUV-OPP-team---Tainan_J-00345172) | 2026-06-21 |
 | ASML | Internship - Cymer Customer Support team – Taichung | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Taichung-Taiwan/Internship---Cymer-Customer-Support-team---Taichung_J-00343579) | 2026-06-21 |
 | City of Austin | Temporary - IT Support Specialist Intern | Arthur B Dewitty Center / Ben White | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Arthur-B-Dewitty-Center/Temporary---IT-Support-Specialist-Intern_JR103972) | 2026-06-21 |
-| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/E4655645B8/) | 2026-06-21 |
 | NXP Semiconductors | Internship – Product Engineering (Data Science: Machine Learning Analyst) | Nijmegen | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Nijmegen/Internship---Product-Engineering--Data-Science--Machine-Learning-Analyst-_R-10064265-1) | 2026-06-21 |
 | NXP Semiconductors | Internship – Product Engineering (ML Model Development) | Nijmegen | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Nijmegen/Internship---Product-Engineering--ML-Model-Development-_R-10064264-1) | 2026-06-21 |
 | RBC | Banking Advisor Intern | West Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WEST-VANCOUVER-British-Columbia-Canada/Banking-Advisor-Intern_R-0000177293) | 2026-06-21 |
