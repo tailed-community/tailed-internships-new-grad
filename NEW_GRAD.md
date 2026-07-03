@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Allstate Insurance Company | Entry Level Internal Auditor | Il Chicago | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/IL---Chicago/Junior-Internal-Auditor_R31802-1) | 2026-07-03 |
+| Anduril | 2026 Early Career Manufacturing Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) | 2026-07-03 |
 | AutoNation | Entry Level Technician at Honda Fremont | Autonation Honda Fremont | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Fremont/Entry-Level-Technician-at-Honda-Fremont_JR2026144622) | 2026-07-03 |
 | AutoNation | Entry Level Technician at Mercedes Benz Reno | Mercedes-Benz Of Reno | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Mercedes-Benz-of-Reno/Entry-Level-Technician-at-Mercedes-Benz-Reno_JR2026140842) | 2026-07-03 |
 | AutoNation | Entry Level Technician-AutoNation Chevrolet Cadillac W Amarillo-$17.00 | Autonation Chevrolet Cadillac W Amarillo | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Cadillac-W-Amarillo/Entry-Level-Technician-AutoNation-Chevrolet-Cadillac-W-Amarillo--1700_JR2026144804) | 2026-07-03 |
@@ -15,6 +16,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avis Budget Group | Entry Level Automotive Technician - FT | Sandston | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/5500-Lewis-Rd-Sandston-23150/Entry-Level-Automotive-Technician---FT_R0184398) | 2026-07-03 |
 | Avis Budget Group | Entry Level Automotive Technician - FT | Springfield | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/5515-Backlick-Rd-Springfield-22151/Entry-Level-Automotive-Technician---FT_R0184488) | 2026-07-03 |
 | Avis Budget Group | Entry Level Automotive Technician - FT | Philadelphia | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/6615-Norwitch-Dr-Philadelphia-19153/Entry-Level-Automotive-Technician---FT_R0184630) | 2026-07-03 |
+| Bot Auto | Machine Learning/Deep Learning Engineer(PhD, New Grad) | Tx Or Sf Bay Area Preferred | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5290395008) | 2026-07-03 |
+| CannonDesign | Technology - Entry Level | Buffalo, NY / Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8618219002) | 2026-07-03 |
 | Cleveland Clinic | New Grad RN Resident - Cardiac ICU | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Cardiac-ICU_345683) | 2026-07-03 |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular ICU | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-ICU_345617) | 2026-07-03 |
 | Cleveland Clinic | New Grad RN Resident – Progressive Care Stepdown Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Progressive-Care-Stepdown-Unit_341118) | 2026-07-03 |
@@ -336,7 +339,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | PitchBook | Inside Sales Representative (Early Career, Inside Sales) | England, United Kingdom | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4691259006) | 2026-06-24 |
 | PitchBook | Market Development Representative (Early Career, Inside Sales) | England, United Kingdom | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4691261006) | 2026-06-24 |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102264-1) | 2026-06-24 |
-| Robinhood | Customer Experience Associate (New Grad) | Denver, CO / Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 2026-06-24 |
+| Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 2026-06-24 |
 | Takeda | Entry Level Phlebotomist (On-the-Job Training) | USA Wi Madison | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---WI---Madison/Entry-Level-Phlebotomist--On-the-Job-Training-_R0183132-1) | 2026-06-24 |
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) | 2026-06-24 |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0118674) | 2026-06-24 |
@@ -850,7 +853,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Highmark Health | RN - New Grad - Peri-Operative Opportunities, Canonsburg | Canonsburg Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Canonsburg-PA-15317-100-Medical-Blvd/RN---New-Grad---Peri-Operative-Opportunities--Canonsburg_J282339) | 2026-06-03 |
 | Intermountain Healthcare | New Graduate Radiology Technologist | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Graduate-Radiology-Technologist_R173582) | 2026-06-03 |
 | Northeastern University | Graduate Program Coordinator | Ma (main Campus) | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Graduate-Program-Coordinator_R140314) | 2026-06-03 |
-| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4811702008) | 2026-06-03 |
 | The Boeing Company | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA Berkeley, MO / USA Hazelwood, MO / USA Mascoutah, IL | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865) | 2026-06-03 |
 | Uline | Entry Level Finance Opportunities | Pleasant Prairie, WI / Milwaukee, WI / Waukegan, IL / Glenview, IL / Kenosha, WI | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Entry-Level-Finance-Opportunities_R264257) | 2026-06-03 |
 | Accenture | 2026 Accenture Graduate Program - Experience Transformation Analyst | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/XMLNAME-2026-Accenture-Graduate-Program---Experience-Transformation-Analyst_R00317304) | 2026-06-02 |
@@ -1096,13 +1098,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) | 2026-06-02 |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
-| Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineering Construction Technician - EIT | Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4637441008) | 2026-06-02 |
+| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
@@ -1170,8 +1169,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) | 2026-06-02 |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) | 2026-06-02 |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) | 2026-06-02 |
 | Taylor Corporation | Equipment Operator – Entry Level | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/Amsterdam-NY---Taylor-Promotional-Products-Inc/Equipment-Operator-I---Entry-Level_R28457) | 2026-06-02 |
 | Taylor Corporation | Industrial Engineer (Entry-level) | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/North-Mankato-MN---Taylor-Corporation/Senior-Industrial-Engineer_R28324) | 2026-06-02 |
@@ -1209,7 +1208,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ASM Global | Transportation Control Analyst (Entry Level) | Houston, TX | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Houston-TX/Transportation-Control-Analyst--Entry-Level-_R100122599) | 2026-05-23 |
 | Capital One | Associate, Software Engineer, New Grad Card Expansion | Toronto, ON | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833) | 2026-05-23 |
 | Stripe | Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7544547) | 2026-05-23 |
-| Stripe | Software Engineering, New Grad | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=7176977) | 2026-05-23 |
 | Stripe | Tech Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7718947) | 2026-05-23 |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Berlin | [Apply](https://jobs.lever.co/veeva/876642c1-f063-492e-aab4-16d650b9da33) | 2026-05-22 |
 | Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Frankfurt | [Apply](https://jobs.lever.co/veeva/d07a89ac-a962-47ee-abb2-78ffe7aa5f4c) | 2026-05-22 |
