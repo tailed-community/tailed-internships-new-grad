@@ -42,6 +42,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LabCorp | Entry level Specimen Accessioner | Santa Fe Nm | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Santa-Fe-NM/Entry-level-Specimen-Accessioner_2615412) | 2026-07-03 |
 | NXP Semiconductors | Entry Level Field Applications Engineer – Emerging Markets | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Technical-Sales---Applications-Program--TSAP--Engineer_R-10061849) | 2026-07-03 |
 | Procter & Gamble (P&G) | CUSTOMER SUPPLY CHAIN LEADER (ENTRY-LEVEL POSITION) | Lima Go | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/LIMA-GO/CUSTOMER-SUPPLY-CHAIN-LEADER--ENTRY-LEVEL-POSITION-_R000154576) | 2026-07-03 |
+| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172213) | 2026-07-03 |
 | Takeda | Entry Level Phlebotomist | USA In Muncie | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---IN---Muncie/Entry-Level-Phlebotomist_R0183972-1) | 2026-07-03 |
 | Takeda | Entry Level Phlebotomist | USA Md Salisbury | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MD---Salisbury/Entry-Level-Phlebotomist_R0183977-1) | 2026-07-03 |
 | Takeda | Entry Level Phlebotomist/Medical Screener | USA De Newark | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---DE---Newark/Entry-Level-Phlebotomist-Medical-Screener_R0183927-1) | 2026-07-03 |
@@ -142,7 +143,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Pax8 | Entry Level Sales - Cloud Generation Specialist (BDR/SDR) | United States | [Apply](https://pax8inc.wd12.myworkdayjobs.com/en-US/Pax8Careers/job/United-States/Cloud-Generation-Specialist--BDR-SDR-_R-101420) | 2026-07-01 |
 | Red Ventures | Entry Level Mortgage Sales Training \| Sage Home Loans | Charlotte, NC | [Apply](https://www.redventures.com/careers/positions/open?gh_jid=7739881) | 2026-07-01 |
 | Securitas | Entry Level Security Officer | Verona, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172102) | 2026-07-01 |
-| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172150) | 2026-07-01 |
 | Suncor | New Grad - Contracts Advisor | Calgary, AB | [Apply](https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Calgary-AB-CAN/New-Grad---Contracts-Advisor_R0016993) | 2026-07-01 |
 | Takeda | Entry Level Phlebotomist | USA Pa Pittsburgh Mcknight Rd | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---PA---Pittsburgh---McKnight-Rd/Entry-Level-Phlebotomist_R0183720-1) | 2026-07-01 |
 | Takeda | Entry Level Phlebotomist | USA Oh Middletown | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---OH---Middletown/Entry-Level-Phlebotomist_R0183730-1) | 2026-07-01 |
@@ -644,9 +644,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) | 2026-06-13 |
 | Sandisk | System Product Engineer (New or Recent Graduate) | Milpitas, United States | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000131987189) | 2026-06-13 |
 | Savannah River National Laboratory | Entry-Level Electrical Engineer, Advanced Engineering | Aiken, SC, United States | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2130) | 2026-06-13 |
-| Securitas | Entry Level Security Officer | Grand Rapids, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170220) | 2026-06-13 |
-| Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169231) | 2026-06-13 |
 | Securitas | Entry Level Security Officer | West Grove, PA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/165152) | 2026-06-13 |
+| Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169231) | 2026-06-13 |
+| Securitas | Entry Level Security Officer | Grand Rapids, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170220) | 2026-06-13 |
 | Securitas | Entry Level Security Officer ($18.00-$22.00/hour) | Boston, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171258) | 2026-06-13 |
 | Securitas | Entry Level Security Officer - Part Time | Columbus, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171484) | 2026-06-13 |
 | Securitas | Entry Level Security Officer's (Saugus, MA): $17.77/hour | Medford, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/161503) | 2026-06-13 |
@@ -681,8 +681,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Geotechnical Engineer | Anchorage, AK, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88626) | 2026-06-13 |
 | WSP | Early Career Geotechnical Engineer | Charlotte, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87357) | 2026-06-13 |
 | WSP | Early Career Mechanical Engineer - Buildings | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88748) | 2026-06-13 |
-| WSP | Early Career Mechanical Engineer - Buildings | Los Angeles, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87984) | 2026-06-13 |
-| WSP | Early Career Mechanical Engineer - Buildings | Riverside, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87884) | 2026-06-13 |
 | WSP | Early Career P&C  Field Services Technician | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87819) | 2026-06-13 |
 | WSP | Early Career Structural Engineer (Buildings) | Los Angeles, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88642) | 2026-06-13 |
 | WSP | Early Career Structural Engineer (Buildings) | San Diego, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87821) | 2026-06-13 |
