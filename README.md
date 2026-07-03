@@ -90,6 +90,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Comcast | Comcast Platform Software Engineer Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979) | 2026-07-03 |
 | Comcast | Comcast Program Management Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Program-Management-Co-op_R435973) | 2026-07-03 |
 | Comcast | Comcast Software Engineer Co-op | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436169) | 2026-07-03 |
+| Contoro | Robotics Intern, Deployment | Texas, United States | [Apply](https://jobs.ashbyhq.com/contoro/861ba383-ca6b-4eba-b087-ee7d4cd0fe89) | 2026-07-03 |
 | Copeland | Intern Tecnical Support | Mexico | [Apply](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Mexico-City-Mexico/Intern-Tecnical-Support_JR116429) | 2026-07-03 |
 | Criteo | Account Strategist Intern - Eastern Europe | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-Intern---Eastern-Europe_r20809-1) | 2026-07-03 |
 | Criteo | Customer Care Intern | Gurgaon | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Customer-Care-Intern_r20805) | 2026-07-03 |
@@ -265,6 +266,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanford Health | High School Intern - Chamberlain Medical Center - Part Time | SD | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/SD-Chamberlain/High-School-Intern---Chamberlain-Medical-Center---Part-Time_R-0217049-2) | 2026-07-03 |
 | Sanofi | Customer Engagement and Marketing Internship | Milano | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Milano/Customer-Engagement-and-Marketing-Internship_R2863873) | 2026-07-03 |
 | Sanofi | R&D - CSU Intern - SH | Shanghai | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/R-D---CSU-Intern---SH_R2863314) | 2026-07-03 |
+| Saronic | Enterprise Technology Intern - AI and Automation (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) | 2026-07-03 |
+| Saronic | Enterprise Technology Intern - Technical Delivery (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/18055a6f-030f-41ef-9116-7ffffac15f68) | 2026-07-03 |
 | Schonfeld | Operations Internship | Brazil | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8044346) | 2026-07-03 |
 | Sensata | Cash Application Intern | Bulgaria | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Sofia-Bulgaria/Cash-Application-Intern_IRC97661) | 2026-07-03 |
 | Sensata | Supply Chain Customer Service Intern | Bulgaria | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Sofia-Bulgaria/Supply-Chain-Customer-Service-Intern_IRC97853) | 2026-07-03 |
@@ -350,7 +353,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Applied Intuition | Research Intern - Reinforcement Learning, Self-Driving | California, United States | [Apply](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | 2026-07-02 |
 | Applied Intuition | Research Intern - Robotic Hardware, Simulation and Data | California, United States | [Apply](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883) | 2026-07-02 |
 | Applied Intuition | Research Intern - World-Action Foundation Model, Robotics | California, United States | [Apply](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | 2026-07-02 |
-| Applied Intuition | Working Student Talent Operations - EMEA | Germany | [Apply](https://jobs.ashbyhq.com/applied/6fd21b93-7fd8-46d9-80bf-cbd4cd93f697) | 2026-07-02 |
 | Arcadis | Internship - Stage Mobiliteitsadvies | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39680) | 2026-07-02 |
 | Ardian | Compliance Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Compliance-Intern---September-2026---London_JR1002160) | 2026-07-02 |
 | Arizona State University | Coordinator, Student Engagement | Health North | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/HEALTH-NORTH/Coordinator--Student-Engagement_JR123083-1) | 2026-07-02 |
@@ -3877,8 +3879,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle - jobsearch | OH Product Manager Intern - OVIP | Kansas City, MO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334348) | 2026-06-17 |
 | Oracle - jobsearch | ONA AI Agent Intern (Logistics Focus) - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334345) | 2026-06-17 |
 | Oracle - jobsearch | SCA Project Manager Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334344) | 2026-06-17 |
-| Pebl | Software Engineer Intern, Conversational AI (Alfie) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44) | 2026-06-17 |
-| Pebl | Software Engineer Intern, Invoicing & Payments | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612) | 2026-06-17 |
 | Philadelphia Gas Works | Electrical Engineering Internship - Marketing Department | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1962/electrical-engineering-internship---marketing-department/job) | 2026-06-17 |
 | Philadelphia Gas Works | ENERGY EFFICIENCY & EMERGING CUSTOMER PROGRAMS INTERN | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1971/energy-efficiency-%26-emerging-customer-programs-intern/job) | 2026-06-17 |
 | Philadelphia Gas Works | Internship - Occupational Safety & Training - Field Operations Department | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1947/internship---occupational-safety-%26-training---field-operations-department/job) | 2026-06-17 |
@@ -6405,7 +6405,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Meshy | Fullstack Engineer Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) | 2026-06-08 |
 | Meshy | Generative AI Researcher Intern | China / Beijing / Shenzhen / Remote | [Apply](https://jobs.ashbyhq.com/meshy/00b6328d-8c32-4b91-aafa-51434e965f37) | 2026-06-08 |
 | Meshy | Infrastructure Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) | 2026-06-08 |
-| Nash | Full Stack Engineering Intern | California, United States / Remote / United States Remote | [Apply](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5) | 2026-06-08 |
 | Notion | Software Engineer Intern (Fall 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 2026-06-08 |
 | Nuclear Promise X | AI Developer Co-op | Kincardine, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2) | 2026-06-08 |
 | Nuclear Promise X | Design Engineering Intern | ON / Remote | [Apply](https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb) | 2026-06-08 |
