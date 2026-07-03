@@ -531,7 +531,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-152481) | 2026-06-17 |
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning | Washington, United States | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | 2026-06-17 |
 | Standard Aero | Entry-Level Bench Operator | Milton, VT, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9435) | 2026-06-17 |
-| SunSource | Entry Level Credit Support Admin | Houston | [Apply](https://jobs.lever.co/sunsrce/f1a23820-6091-4e7b-844c-f78db32dfb9e) | 2026-06-17 |
 | Takeda | Entry Level Phlebotomist | USA Md Towson | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MD---Towson/Entry-Level-Phlebotomist_R0182396-1) | 2026-06-17 |
 | Texas Instruments | Early Career: IT Infrastructure - Network Engineer | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011069) | 2026-06-17 |
 | Texas Instruments | Early Career: IT Infrastructure - Storage Engineer | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011067) | 2026-06-17 |

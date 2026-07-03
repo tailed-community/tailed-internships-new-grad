@@ -58,6 +58,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Baker Tilly | Winter 2027 Audit Internship | USA Tn Nashville | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TN-Nashville/Spring-2027-Audit-Internship_JR103853) | 2026-07-03 |
 | Baker Tilly | Winter 2027 Tax Internship | USA Dc Washington Dc | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-DC-Washington-DC/Winter-2027-Tax-Internship_JR106839) | 2026-07-03 |
 | Banco Bilbao Vizcaya Argentaria | Internship - Institutional Business UK | London | [Apply](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Internship---Institutional-Business-UK_JR00095546) | 2026-07-03 |
+| Behaviour Interactive | Narrative Designer - Internship Fall 2026 \| Concepteur·rice de narratif - Stage Automne 2026 | Toronto, ON | [Apply](https://jobs.lever.co/bhvr/cd005f33-e726-4840-b526-fd86b7bdefff) | 2026-07-03 |
+| Behaviour Interactive | Sound Designer - Internship Fall 2026 \| Concepteur·rice de son Automne 2026 | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/0fbc32cc-bbfd-48a2-8acd-ea6fb9d2154f) | 2026-07-03 |
 | Bird Construction | Student Estimator | Ottawa, ON | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Ottawa-ON/Student-Estimator_JR-9105) | 2026-07-03 |
 | Bird Construction | Student Project Coordinator | Mississauga, ON | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Student-Project-Coordinator_JR-9086) | 2026-07-03 |
 | Blue Cross and Blue Shield of Kansas | Law Clerk - Intern | Topeka | [Apply](https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Law-Clerk---Intern_R2026239) | 2026-07-03 |
@@ -299,6 +301,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship / Working Student – Technical Artist, 3D Artist & 3D Asset Creation for Digital Twins (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Working-Student---Technical-Artist--3D-Artist---3D-Asset-Creation-for-Digital-Twins--f-m-x-_JR_1051099) | 2026-07-03 |
 | Zeiss | Internship or Master Thesis on Quantum-Based Optimization (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-or-Master-Thesis-on-Quantum-Based-Optimization--f-m-x-_JR_1051101-3) | 2026-07-03 |
 | ZOLL Medical Corporation | Mechanical Engineering Coop | US Pa Pittsburgh Gamma | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-PA-Pittsburgh-Gamma/Mechanical-Engineering-Coop_R19570) | 2026-07-03 |
+| Zoox | Part-Time Student Worker – AI Validation and Benchmarking Engineer | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8) | 2026-07-03 |
+| Zoox | Part-time Student Worker – Software Development Engineer in Test | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049) | 2026-07-03 |
 | ABB | Working student (m/f/d) - Warehouse and Logistics Administration | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d----Warehouse-and-Logistics-Administration_JR00040063) | 2026-07-02 |
 | Abbott | Engineering Internship | Costa Rica Alajuela | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Engineering-Internship_31145402) | 2026-07-02 |
 | Abbott | IT Intern | Imazium / 37 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/IT-Intern_31149049-1) | 2026-07-02 |
@@ -1825,7 +1829,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | Internship - DUV team - Taichung | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Taichung-Taiwan/Internship---DUV-team---Taichung_J-00345756) | 2026-06-26 |
 | BDO | Co-op or Intern, Internal Administration | Toronto Wellington St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Wellington-St/Co-op-or-Intern--Internal-Administration_JR6498) | 2026-06-26 |
 | Behaviour Interactive | Technical Animator - Internship Fall 2026 \| Animateur·trice technique - Stage Automne 2026 | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/cacf53d4-943c-4c66-adec-bac350a2c2f9) | 2026-06-26 |
-| Behaviour Interactive | VFX Artist - Internship Fall 2026  \|  Artiste VFX - Stage Automne 2026 | Montreal, QC | [Apply](https://jobs.lever.co/bhvr/86fd343e-06f9-414b-9b81-d54f20d9b365) | 2026-06-26 |
 | Bio-Techne | Software Development / QA Intern | Switzerland | [Apply](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Tolochenaz-Switzerland/Software-Development---QA-Intern_JR101900-1) | 2026-06-26 |
 | Blue Origin | Avionics Cable Harness Design Engineer III - New Glenn Stage 2 (Fixed-Term) | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Cable-Harness-Design-Engineer-III---New-Glenn-Stage-2--Fixed-Term-_R64676-1) | 2026-06-26 |
 | Blue Origin | Technical Designer III - New Glenn Upper Stage & PA | Greater Seattle Area / Space Coast, FL / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technical-Designer-III---New-Glenn-Upper-Stage---PA_R67338) | 2026-06-26 |
@@ -3590,7 +3593,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | KLA - Search | Software Engineering Student | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Software-Engineering-Student_2635341-1) | 2026-06-17 |
 | KLA - Search | Student - Buyer | Germany | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Jena-Germany/Student---Buyer_2637512) | 2026-06-17 |
 | KLA - Search | Student Business Analyst | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Student-Business-Analyst_2635712-1) | 2026-06-17 |
-| Kpler | Fuel Oils / Bunker Analyst Intern | Singapore | [Apply](https://jobs.lever.co/kpler/59ff2bc2-7a36-45a3-b291-be1c0e27d3f3) | 2026-06-17 |
 | Kraft Heinz - KraftHeinz_Careers | Away From Home - Sales/Marketing Intern | Amsterdam | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Away-From-Home---Sales-Marketing-Intern_R-97897) | 2026-06-17 |
 | Kraft Heinz - KraftHeinz_Careers | Away-From-Home Sales & Marketing Intern (6+ months) | Dubai Office | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Dubai-Office/Away-From-Home-Sales---Marketing-Intern--6--months-_R-90644) | 2026-06-17 |
 | Kraft Heinz - KraftHeinz_Careers | Business Development Intern (BE) | Antwerpen Berchem | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Antwerpen---Berchem/Intern-Retail-Field-Sales--BE-_R-98446-2) | 2026-06-17 |
@@ -4277,7 +4279,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Walleye Capital - walleyecapital-external-students | Technology Intern (Summer 2027) | New York | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) | 2026-06-17 |
 | Walleye Capital - walleyecapital-external-students | Treasury Intern (Summer 2027) | New York | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677037006) | 2026-06-17 |
 | Walleye Capital - walleyecapital-external-students | Volatility Trading Developer Intern (Summer 2027) | New York | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) | 2026-06-17 |
-| Ware Malcomb | Intern, Site Supervision | Guanajuato | [Apply](https://jobs.lever.co/waremalcomb/62b314f7-426d-4f2e-b006-d608ace4028c) | 2026-06-17 |
 | Waste Connections | Intern | 3092-Groot East | [Apply](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/3092-Groot-East/Intern_R-100700) | 2026-06-17 |
 | Waterfront International | Student Developer | Ont | [Apply](https://job-boards.greenhouse.io/wil/jobs/1448818) | 2026-06-17 |
 | Watts Water - external | Legal Co-Op Fall 2026 (July - December) | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/external/job/North-Andover-MA/Legal-Co-Op-2026_10016108) | 2026-06-17 |
@@ -10370,7 +10371,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Unilever | Internship 26' - Internal Communications and Stakeholder Engagement (Hive) | Hive Wageningen | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hive-Wageningen/Internship-26----Internal-Communications-and-Stakeholder-Engagement--Hive-_R-1181939) | 2026-05-22 |
 | Veeva Systems | Implementation Consultant Intern | China Shanghai | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) | 2026-05-22 |
 | Veeva Systems | Intern Technical Consultant | China Shanghai | [Apply](https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0) | 2026-05-22 |
-| Veeva Systems | Intern: Software Engineer in Test | Canada Toronto | [Apply](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c) | 2026-05-22 |
 | Veeva Systems | Technology Consulting Intern (Hungary) - Entry-Level | Hungary Budapest | [Apply](https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a) | 2026-05-22 |
 | 407 ETR | Data Governance Intern (May - August) | Woodbridge, ON | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Data-Governance-Intern--May---August-_JR101175) | 2026-05-21 |
 | 407 ETR | Facilities - Summer Student | Woodbridge, ON | [Apply](https://407etr.wd3.myworkdayjobs.com/407_ETR_Careers/job/Woodbridge-Ontario/Facilities---Summer-Student_JR101195) | 2026-05-21 |
