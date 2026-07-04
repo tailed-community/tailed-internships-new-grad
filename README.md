@@ -105,9 +105,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | Research & Development Lab Intern – Library Display Technologies | Gent | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gent/Research---Development-Lab-Intern---Library-Display-Technologies_R2863303-1) | 2026-07-04 |
 | Sartorius | Working Student Operations (x\|f\|m) | Ulm | [Apply](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Ulm/Working-Student-Operations--x-f-m--_R40908) | 2026-07-04 |
 | Schweitzer Engineering Laboratories | Project Management Intern | Mexico San Luis Potosi | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Mexico---San-Luis-Potosi/Engineering-Intern_2026-20465) | 2026-07-04 |
+| Sentra | Engineering Intern | California, United States / Toronto | [Apply](https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8) | 2026-07-04 |
 | Tencent - Tencent_Careers | Cloud Media Services Intern | US-California-Palo Alto | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872) | 2026-07-04 |
 | Thales | Quality Assurance Internship (Open also To Protected Categories, Law 68/99) | Firenze | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Firenze/Quality-Assurance-Internship--Open-also-To-Protected-Categories--Law-68-99-_R0333830) | 2026-07-04 |
 | The Coca-Cola Company | Coca-Cola Ignite Intern - Marketing | Germany Berlin | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Germany---Berlin/Coca-Cola-Ignite-Intern---Marketing_R-139230) | 2026-07-04 |
+| The Exploration Company | Crew Systems Engineering Intern - Mechanical/Structures | Houston, United States | [Apply](https://jobs.ashbyhq.com/the-exploration-company/90170478-eb9d-46cd-bdf2-7967875919a6) | 2026-07-04 |
 | The Walt Disney Company | Digital & Brand Marketing Intern | Poland | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Warsaw-Poland/Digital---Brand-Marketing-Intern_10153663-1) | 2026-07-04 |
 | Toshiba Global Commerce | SW Development Intern | Guadalajara Office | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5127107007) | 2026-07-04 |
 | Tower Research Capital | Intern | Gift City | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 2026-07-04 |
