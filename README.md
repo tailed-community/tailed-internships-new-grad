@@ -1300,8 +1300,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Virtu Financial | 2027 Internship - Quantitative Trading | Ireland | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | 2026-07-01 |
 | Vistra | Operations Intern | Bellingham Plant | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Bellingham-Plant/Operations-Intern_40015417) | 2026-07-01 |
 | Warner Bros. | CRM Campaign Operations Intern | Budapest Szabadsag Ter 7 | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/Budapest-Szabadsag-Ter-7/CRM-Campaign-Operations-Intern_R000106461) | 2026-07-01 |
-| Waters Corporation | Electrical Student Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27016/2026-27016/job) | 2026-07-01 |
-| Waters Corporation | Plumbing Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27014/2026-27014/job) | 2026-07-01 |
+| Waters Corporation | Electrical Student Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27016/electrical-student-co-op/job) | 2026-07-01 |
+| Waters Corporation | Plumbing Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27014/plumbing-co-op/job) | 2026-07-01 |
 | Wells Fargo | 2027 Public Affairs Summer Internship - Early Careers | Charlotte, NC | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Public-Affairs-Summer-Internship---Early-Careers_R-557289) | 2026-07-01 |
 | Werfen | Market Access Summer Intern | San Diego, United States | [Apply](https://careers-werfen.icims.com/jobs/10609/market-access-summer-intern/job) | 2026-07-01 |
 | Western Digital | Intern - Maintenance Technician (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000135237229) | 2026-07-01 |
@@ -2084,8 +2084,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stantec | Applied Research Intern - Water (Fall 2026) | Denver, CO, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006445) | 2026-06-26 |
 | Stride | Special Education Student Support Advisor | United States Remote | [Apply](https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US---MI---Remote/Special-Education-Student-Support-Advisor_JR115294) | 2026-06-26 |
 | Susquehanna International Group (SIG) | Analytics Internship: Fall 2026 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/11099/analytics-internship%3a-fall-2026/job) | 2026-06-26 |
-| TDS | IT Intern-Operations Support Specialist | Madison, WI, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29567/it-intern-operations-support-specialist/job) | 2026-06-26 |
-| TDS | IT Intern-Software Engineer | United States Remote | [Apply](https://external-telecom-teldta.icims.com/jobs/29561/it-intern-software-engineer/job) | 2026-06-26 |
 | Texas A&M International University | Federal College Work Study-Student (Recs- Outdoor Adventures) | Laredo, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Federal-College-Work-Study-Student--Recs--Outdoor-Adventures-_R-094450) | 2026-06-26 |
 | Texas Instruments | Accounting & Payroll Intern/Working student (m/f/d) | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011483) | 2026-06-26 |
 | Texas Instruments | Human Resources Intern (m/f/d) | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25006372) | 2026-06-26 |
@@ -3067,7 +3065,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kensington | Intern - Repeat Marketing: CRM & Email Marketing | Toronto | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5168656007) | 2026-06-19 |
 | Kensington | Intern - Repeat Marketing: Luxury Events & Content Marketing | Toronto | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5168671007) | 2026-06-19 |
 | Keysight Technologies | Product Engineer Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53275?lang=en-us&icims=1) | 2026-06-19 |
-| Kinaxis | Co-op/Intern Software Developer, Core Algorithms | Not Specified | [Apply](https://careers-kinaxis.icims.com/jobs/34962/co-op-intern-software-developer%2c-core-algorithms/job) | 2026-06-19 |
 | Levi Strauss & Co. | Offprice Analyst Intern | Not Specified | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Offprice-Analyst-Intern_R-0153311) | 2026-06-19 |
 | Levi Strauss & Co. | Retail Mainline Demand Planning Intern | Not Specified | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Milan-Italy/Retail-Mainline-Demand-Planning-Intern_R-0153064) | 2026-06-19 |
 | Loblaw Companies | Pharmacy Intern | Stoney Creek, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/21-Upper-Centennial-Parkway-South-Stoney-Creek-ON/Pharmacy-Intern_R2000675303) | 2026-06-19 |
@@ -5608,7 +5605,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | Communication \| Media Design internship: data storytelling support | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Communication---Media-Design-internship--data-storytelling-support_J-00339953) | 2026-06-11 |
 | ASML | HR internship: support the Internships Office | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/HR-internship--support-the-Internships-Office_J-00338096) | 2026-06-11 |
 | Autodesk | Intern, Machine Learning Developer | Toronto, ON | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 2026-06-11 |
-| Axway | Software Engineering Intern — AI Developer Tools | Ro-Bucharest | [Apply](https://careers-axway.icims.com/jobs/8751/software-engineering-intern-%e2%80%94-ai-developer-tools/job) | 2026-06-11 |
+| Axway | Software Engineering Intern — AI Developer Tools | Ro-Bucharest | [Apply](https://careers-axway.icims.com/jobs/8751/intern/job) | 2026-06-11 |
 | Blue Origin | Spring 2027  Software Developer Internship - Graduate | Greater Seattle Area / Denver, CO / Los Angeles, Canada / Longmont, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409) | 2026-06-11 |
 | Blue Origin | Spring 2027  Software Developer Internship - Undergraduate | Greater Seattle Area / Los Angeles, Canada / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) | 2026-06-11 |
 | Blue Origin | Spring 2027 Aerospace Systems Engineering Internship -  Undergraduate | Greater Seattle Area / Space Coast, FL / Denver, CO | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) | 2026-06-11 |

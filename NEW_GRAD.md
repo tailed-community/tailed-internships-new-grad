@@ -743,7 +743,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Carpenter - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17385/carpenter---entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Outside Electrician - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17371/outside-electrician---entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Painter - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17383/painter---entry-level-%26-semi-skilled/job) | 2026-06-10 |
-| General Dynamics | Painter- Entry level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/19322/painter--entry-level-and-skilled/job) | 2026-06-10 |
 | General Dynamics | Pipefitter Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18470/pipefitter-entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Rigger - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17381/rigger---entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Sheetmetal Worker Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18913/sheetmetal-worker-entry-level-%26-semi-skilled/job) | 2026-06-10 |
