@@ -8135,6 +8135,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GlobalFoundries | Talent Acquisition (Campus Recruitment) Intern (July to December 2026) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Internship---Talent-Acquisition_JR-2503170) | 2026-06-02 |
 | GlobalFoundries | University Intern - Year 2026 | Singapore | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/University-Intern---Year-2026_JR-2503754) | 2026-06-02 |
 | Globus Medical | Co-op | Audubon, PA | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Co-op_JR104625) | 2026-06-02 |
+| GoMaterials | Data Quality Intern - Fall 2026 | Montreal, QC | [Apply](https://jobs.lever.co/gomaterials/106d2c3e-785c-4a66-962c-74cbd64f4359) | 2026-06-02 |
 | GoMaterials | Operations & Quoting Intern - Fall 2026 | Montreal, QC | [Apply](https://jobs.lever.co/gomaterials/7cf4b1ec-6d68-4050-854f-ac3eb2e16267) | 2026-06-02 |
 | Graco | Sales Intern | Florida, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Gainesville-Florida-USA/Sales-Intern_R0021910) | 2026-06-02 |
 | Granite Construction | Engineer Intern | Florida | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Orlando-Florida/Engineer-Intern_R0000007171) | 2026-06-02 |
@@ -9058,7 +9059,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pennsylvania State University | UAS & Digital Engineering Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/UAS---Digital-Engineering-Intern_REQ_0000059221) | 2026-06-02 |
 | Pennsylvania State University | Uncrewed Systems Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Uncrewed-Systems-Intern_REQ_0000076298-1) | 2026-06-02 |
 | Pennsylvania State University | Upward Bound Programs Residential Mentor- Potential Paid Internship | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Upward-Bound-Programs-Residential-Mentor--Potential-Paid-Internship_REQ_0000064976) | 2026-06-02 |
-| Penumbra Inc | IT Intern - Temp | Alameda, Canada | [Apply](https://jobs.lever.co/penumbrainc/b1221c2c-2293-4048-87b2-4828593e76df) | 2026-06-02 |
 | Penumbra Inc | Working Student Finance \| Student Contract (Umowa Zlecenie) (m/f/d) - based in  Warsaw | Warsaw / Europe | [Apply](https://jobs.lever.co/penumbrainc/741616a5-600d-4fb9-95cf-c807cc4b5194) | 2026-06-02 |
 | Per Scholas | Events & Business Development Support Intern | United States | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4682234006) | 2026-06-02 |
 | Pfizer | AI Fluency & Digital Enablement Intern | Singapore Mapletree Business City | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Singapore---Mapletree-Business-City/AI-Fluency---Digital-Enablement-Intern_4956875) | 2026-06-02 |
