@@ -439,7 +439,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Solid Power | R&D Intern (Catholyte) | Co 80023 | [Apply](https://job-boards.greenhouse.io/solidpower/jobs/5703080004) | 2026-07-03 |
 | St. Louis University | Sports Performance Intern | Slu Saint Louis, MO | [Apply](https://slu.wd5.myworkdayjobs.com/en-US/Careers/job/SLU-Saint-Louis-MO/Sports-Performance-Intern_2026-09948) | 2026-07-03 |
 | Stantec | Architectural Intern | Vancouver, BC, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006515) | 2026-07-03 |
-| Staples | COOP Placement | Burlington, ON, Canada | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/71431) | 2026-07-03 |
 | Stryker | HR Operations Intern, Benefits Admin | Netherlands | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433) | 2026-07-03 |
 | Stryker | Intern, Customer Services | Roma / 15 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Intern--Customer-Services_R567637) | 2026-07-03 |
 | Stryker | Logistics Intern | Türkiye | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Istanbul-Trkiye/Logistics-Intern_R567633) | 2026-07-03 |
@@ -2498,7 +2497,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Morningstar | Talent Acquisition Intern | Madrid | [Apply](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Madrid/Talent-Acquisition-Intern_REQ-057138) | 2026-06-24 |
 | Nexstar | Intern | GA | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/GA-Savannah/Intern_REQ-41988) | 2026-06-24 |
 | NielsenIQ | NIQ Early Career Program: Stage - Analyse de Données Marketing & Développement Commercial F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000133910897) | 2026-06-24 |
-| Nokia | IP Commercial Management Intern | Mexico | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36645) | 2026-06-24 |
 | Northeastern University | Program Coordinator, Student Support & Operations | Ma (main Campus) | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Program-Coordinator--Student-Support---Operations_R140589) | 2026-06-24 |
 | Northrop Grumman | Intern - EHS | Australia-Fortitude Valley | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Intern---EHS_R10232219) | 2026-06-24 |
 | Northumbria University | Student Recruitment and Access Junior Coordinator (North West) | Home Based, United Kingdom | [Apply](https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3879) | 2026-06-24 |
@@ -3941,7 +3939,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle - jobsearch | NAA EPM Solution Engineer Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334358) | 2026-06-17 |
 | Oracle - jobsearch | NetSuite Customer Success Special Projects Intern - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334352) | 2026-06-17 |
 | Oracle - jobsearch | NetSuite Customer Success Special Projects Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334350) | 2026-06-17 |
-| Oracle - jobsearch | OCI Network Development Engineer Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334337) | 2026-06-17 |
 | Oracle - jobsearch | OCI Software Engineer Intern - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334333) | 2026-06-17 |
 | Oracle - jobsearch | OCI Software Engineer Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334325) | 2026-06-17 |
 | Oracle - jobsearch | OH Product Manager Intern - OVIP | Kansas City, MO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334348) | 2026-06-17 |
@@ -5143,7 +5140,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nokia | Silicon Photonics Packaging Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996) | 2026-06-13 |
 | Nokia | Silicon Photonics Packaging Engineer Co-op | United States | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36997) | 2026-06-13 |
 | Nokia | Software Engineering Coop | United States | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36277) | 2026-06-13 |
-| Nokia | Software Engineering Coop | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36602) | 2026-06-13 |
 | Nokia | Software Test Infra Student | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33908) | 2026-06-13 |
 | Nokia | Software/QA Development Coop | United States | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35535) | 2026-06-13 |
 | Nokia | Support Software Developer Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551) | 2026-06-13 |
@@ -5191,7 +5187,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oracle | NAA EPM Solution Engineer Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334358) | 2026-06-13 |
 | Oracle | NetSuite Customer Success Special Projects Intern - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334352) | 2026-06-13 |
 | Oracle | NetSuite Customer Success Special Projects Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334350) | 2026-06-13 |
-| Oracle | OCI Network Development Engineer Intern - OVIP | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334337) | 2026-06-13 |
 | Oracle | OCI Software Engineer Intern - OVIP | Austin, TX, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | 2026-06-13 |
 | Oracle | OCI Software Engineer Intern - OVIP | Seattle, WA, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | 2026-06-13 |
 | Oracle | OH Product Manager Intern - OVIP | Kansas City, MO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | 2026-06-13 |
