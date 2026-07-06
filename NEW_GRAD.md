@@ -13,6 +13,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Citi | Early Career, Campus Recruiter | Dlf Cybercity 12b | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Early-Career--Campus-Recruiter_26976069-1) | 2026-07-06 |
 | Cleveland Clinic | New Grad RN Resident - ICU Stepdown | Mercy Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---ICU-Stepdown_344199) | 2026-07-06 |
 | Jane Street | Cybersecurity Analyst: New Grad | New York, United States | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8613910002) | 2026-07-06 |
+| Jobs for Humanity | Office Junior (Entry-Level) | Canada Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000135971399) | 2026-07-06 |
 | Marsh | Account Executive  -  Open to Recent Graduate | Taipei Minquan East | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Taipei---Minquan-East/Account-Executive-----Valid-Life-Insurance-Broker-License-----Highly-Preferred-_R_350903) | 2026-07-06 |
 | NXP Semiconductors | <New Graduate Hiring> Pre-Assembly Process Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/Process-Engineer_R-10063958) | 2026-07-06 |
 | Procter & Gamble (P&G) | Entry Level Manufacturing Technician | Mehoopany Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MEHOOPANY-PLANT/Entry-Level-Manufacturing-Technician_R000154836) | 2026-07-06 |
@@ -236,7 +237,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Worthington Enterprises | Entry Level Welder | Jefferson, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43246) | 2026-06-29 |
 | WSP | Early Career Civil Transportation Engineer | Tamuning, GU, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89923) | 2026-06-29 |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Il Rockford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Rockford/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R0960271) | 2026-06-28 |
-| Jobs for Humanity | Office Junior (Entry-Level) | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000134613009) | 2026-06-28 |
 | Thales | AJISS Corrective Maintenance Support Technician (New Grad) | Halifax Wilkinson | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/AJISS-Corrective-Maintenance-Support-Technician--New-Grad-_R0332569-1) | 2026-06-28 |
 | Applied Materials | Applied Early Career - Installation Team Field Service Engineer | Boise, ID / Chandler, AZ / Phoenix, AZ | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) | 2026-06-27 |
 | AutoNation | Automotive Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Automotive-Entry-Level-Technician_JR2026143684) | 2026-06-27 |
@@ -606,7 +606,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) | 2026-06-13 |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) | 2026-06-13 |
 | Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000130001176) | 2026-06-13 |
-| Expeditors | Logistics Coordinator - entry level (Global Network Management Center)-on-site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000128778168) | 2026-06-13 |
 | Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) | 2026-06-13 |
 | Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000131399195) | 2026-06-13 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000131639431) | 2026-06-13 |
