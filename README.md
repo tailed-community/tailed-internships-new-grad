@@ -196,9 +196,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | ESPN Sports Marketing Intern, New York City, Fall 2026 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ESPN-Sports-Marketing-Intern--New-York-City--Fall-2026_10154544) | 2026-07-06 |
 | Thermo Fisher Scientific | Data Mng Internship | Portugal | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Porto-Salvo-Portugal/Data-Content---Operations-Administrator_R-01331155) | 2026-07-06 |
 | Thomson Reuters | Associate Content Specialist - Intern | Not Specified | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/India-Hyderabad-Telangana/Associate-Content-Specialist---Intern_JREQ200870) | 2026-07-06 |
+| Traackr | Software Engineering Intern (Part-Time, Internal Tooling) | New York City | [Apply](https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688) | 2026-07-06 |
 | United Parcel Service (UPS) | Human Resources Intern | US Commerce City (coden) | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---COMMERCE-CITY-CODEN/Human-Resources-Intern_R26022990) | 2026-07-06 |
 | Valeo | Stagiaire en Communication H/F | Bobigny | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bobigny/Stagiaire-en-Communication-H-F_REQ2026077838) | 2026-07-06 |
 | Wells Fargo | 2027 Technology Program Intern | India | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Bengaluru-India/XMLNAME-2027-Technology-Program-Intern_R-557386) | 2026-07-06 |
+| Xsolla | Finance Operations Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/0d405e3a-b8b0-40fa-92f3-c8eb8a057462) | 2026-07-06 |
 | Zeiss | Internship – Physically Based Rendering, Vulkan & Digital Twins (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Physically-Based-Rendering--Vulkan---Digital-Twins--f-m-x-_JR_1051106-2) | 2026-07-06 |
 | Zeiss | Working Student Mechatronics, Dynamics and Control Engineering (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Mechatronik-Dynamik-und-Regelungstechnik--m-w-x-_JR_1050513-1) | 2026-07-06 |
 | Air Liquide | Commercial Analyst Intern | Al Khobar Head Office Support Functions Al Gulf Rhq | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Al-Khobar-Head-Office---Support-functions---AL-Gulf-RHQ/Commercial-Analyst-Intern_R10095014) | 2026-07-05 |
@@ -2673,7 +2675,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Heart Association | Intern, NextGen Programs-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17698/intern%2c-nextgen-programs-remote/job) | 2026-06-23 |
 | American University | Graduate Disability Support Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Disability-Support-Assistant--Student-_R4389) | 2026-06-23 |
 | Applied Materials | Mechatronic Engineer (Internship) | Ita | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TrevisoITA/Mechatronic-Engineer--Internship-_R2612921) | 2026-06-23 |
-| Arc'teryx Equipment | Intern Service & Allocations EMEA - 6 months (m/w/d) | Munich | [Apply](https://jobs.lever.co/arcteryx.com/4b05adfd-9630-48b9-9031-6b14129fc952) | 2026-06-23 |
 | Ardian | Client Solutions Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Client-Solutions-Intern---September-2026---London_JR1002147) | 2026-06-23 |
 | ASML | Electronics Intern | China | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Beijing-China/Electronics-Intern_J-00344838-1) | 2026-06-23 |
 | ASML | Industrial Engineering \| Business Analytics internship: process improvement | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Industrial-Engineering---Business-Analytics-internship--process-improvement_J-00338100) | 2026-06-23 |
@@ -8928,6 +8929,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | 2026-06-02 |
 | Papa John's | Co-Op | Hq_atlanta | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/Co-Op_R24_0000003518) | 2026-06-02 |
 | Papa John's | Co-Op | Hq_louisville | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Co-Op_R24_0000003445) | 2026-06-02 |
+| Parallel Wireless | Platform Integration Intern - North | Kinneret | [Apply](https://jobs.lever.co/parallelwireless/c2cb0c67-7687-4d4d-8243-bbc2e63f8588) | 2026-06-02 |
 | Parsons | Bridge Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IN-Indianapolis/Bridge-Engineering-Co-Op---Fall-2026_R177368-1) | 2026-06-02 |
 | Parsons | Civil Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MA-Boston/Civil-Engineering-Co-Op_R179491-1) | 2026-06-02 |
 | Parsons | Civil Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Civil-Engineering-Intern_R181314) | 2026-06-02 |
