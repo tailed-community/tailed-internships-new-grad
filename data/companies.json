@@ -12834,6 +12834,13 @@
     "enabled": true
   },
   {
+    "company": "CTGT",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/ctgt",
+    "slug": "ctgt",
+    "enabled": true
+  },
+  {
     "company": "Cubic",
     "source": "workday",
     "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers",
@@ -14780,6 +14787,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/drivewealth",
     "slug": "drivewealth",
+    "enabled": true
+  },
+  {
+    "company": "Droyd Robotics",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/droyd",
+    "slug": "droyd",
     "enabled": true
   },
   {
@@ -22391,6 +22405,13 @@
     ]
   },
   {
+    "company": "Human Computer Lab",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/human-computer-lab",
+    "slug": "human-computer-lab",
+    "enabled": true
+  },
+  {
     "company": "Humana",
     "source": "workday",
     "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
@@ -23997,6 +24018,26 @@
     "url": "https://boards.greenhouse.io/iovancebiotherapeutics",
     "slug": "iovancebiotherapeutics",
     "enabled": true
+  },
+  {
+    "company": "Iowa State University",
+    "source": "workday",
+    "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs",
+    "tenant": "isu",
+    "site": "IowaStateJobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   },
   {
     "company": "IPG DXTRA",
@@ -27340,6 +27381,13 @@
     ]
   },
   {
+    "company": "Lovable",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/lovable",
+    "slug": "lovable",
+    "enabled": true
+  },
+  {
     "company": "Lowe's",
     "source": "workday",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS",
@@ -28683,6 +28731,13 @@
     "enabled": true
   },
   {
+    "company": "McMaster-Carr",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/mcmastercarr",
+    "slug": "mcmastercarr",
+    "enabled": true
+  },
+  {
     "company": "Mechanize",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/mechanize",
@@ -29728,6 +29783,13 @@
     "enabled": true
   },
   {
+    "company": "Moment Energy",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/momentenergy",
+    "slug": "momentenergy",
+    "enabled": true
+  },
+  {
     "company": "Momentive",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/surveymonkey",
@@ -29908,6 +29970,26 @@
     "url": "https://boards.greenhouse.io/mosaicml",
     "slug": "mosaicml",
     "enabled": true
+  },
+  {
+    "company": "Moss & Associates",
+    "source": "workday",
+    "url": "https://mosscm.wd1.myworkdayjobs.com/moss_careers",
+    "tenant": "mosscm",
+    "site": "moss_careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   },
   {
     "company": "MotherDuck",
@@ -31769,6 +31851,13 @@
     ]
   },
   {
+    "company": "NOX METALS",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/nox-metals",
+    "slug": "nox-metals",
+    "enabled": true
+  },
+  {
     "company": "NPR",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/nationalpublicradioinc",
@@ -33173,6 +33262,26 @@
     "enabled": true
   },
   {
+    "company": "Palo Alto Networks",
+    "source": "workday",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
+    "tenant": "paloaltonetworks",
+    "site": "panwexternalcareers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Panasonic",
     "source": "icims",
     "url": "https://caemployees-napanasonic.icims.com/jobs/search",
@@ -34045,6 +34154,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/pigment",
     "slug": "pigment",
+    "enabled": true
+  },
+  {
+    "company": "Pika",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/pika",
+    "slug": "pika",
     "enabled": true
   },
   {
@@ -41302,6 +41418,26 @@
     ]
   },
   {
+    "company": "State of North Carolina",
+    "source": "workday",
+    "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers",
+    "tenant": "nc",
+    "site": "NC_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "State of Wisconsin Investment Board",
     "source": "workday",
     "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext",
@@ -44380,6 +44516,13 @@
     ]
   },
   {
+    "company": "Traackr",
+    "source": "lever",
+    "url": "https://jobs.lever.co/traackr",
+    "slug": "traackr",
+    "enabled": true
+  },
+  {
     "company": "Trace3",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/trace3",
@@ -46842,6 +46985,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/vipvermontinformationprocessing",
     "slug": "vipvermontinformationprocessing",
+    "enabled": true
+  },
+  {
+    "company": "Verne Robotics",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/Verne%20Robotics",
+    "slug": "Verne Robotics",
     "enabled": true
   },
   {
