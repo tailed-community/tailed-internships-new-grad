@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Transportation Engineer | Birmingham, AL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000136204636) | 2026-07-07 |
+| AECOM | Purchasing Agent - entry level -AECOM Tishman | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000136046569) | 2026-07-07 |
 | Amentum | Entry Level Software Engineer | US-Va-Dahlgren | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144) | 2026-07-07 |
 | AutoNation | Entry Level Lube Automotive Technician \| AutoNation Audi Chicago | Audi Chicago | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Audi-Chicago/Entry-Level-Lube-Automotive-Technician---AutoNation-Audi-Chicago_JR2026144967) | 2026-07-07 |
 | Banner Health | Registered Nurse RN New Graduate Neuro PCU | Banner Baywood Med Ctr (6644 E Baywood Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Baywood-Med-Ctr-6644-E-Baywood-Ave/Registered-Nurse-RN-New-Graduate-Neuro-PCU_R4447353) | 2026-07-07 |
@@ -492,7 +494,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Coherent | Machinist - Entry level | Saxonburg, PA, United States | [Apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012893) | 2026-06-17 |
 | E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6040/transmission-line-engineer-%28entry-level%29/job) | 2026-06-17 |
 | Egis Group | Civil Engineer Graduate Program (Feb 2027) \| Perth | Perth, WA | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132562799) | 2026-06-17 |
-| Egis Group | Civil Engineer Graduate Program - Water (Feb 2027) \| Wellington | New Zealand | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132562279) | 2026-06-17 |
 | Egis Group | Civil Environmental Engineer Graduate Program (Feb 2027) \| Brisbane | Australia | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132562464) | 2026-06-17 |
 | Egis Group | Civil Environmental Engineer Graduate Program (Feb 2027) \| Melbourne | Australia | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132563169) | 2026-06-17 |
 | ERM | Consulting Associate- Contaminated Land and Remediation (Entry Level) | London, United Kingdom / Bristol, United Kingdom | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/London-United-Kingdom/Consulting-Associate--Contaminated-Land-and-Remediation--Entry-Level-_R00030731-1) | 2026-06-17 |
