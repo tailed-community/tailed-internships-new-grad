@@ -8,6 +8,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Certified Surgical Technologist (CST) - New Grad Cohort | Advocate Lutheran General Hospital 1775 Dempster St | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Advocate-Lutheran-General-Hospital---1775-Dempster-St/Certified-Surgical-Technologist--CST----New-Grad-Cohort_R247647) | 2026-07-08 |
+| AECOM | Electrical, Instrumentation & Controls New Grad | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000136284579) | 2026-07-08 |
+| AECOM | Entry-Level Bridge Engineer | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000136296787) | 2026-07-08 |
 | Air Liquide | Junior Project Engineer (ALLEX Graduate Program) | Kraków | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Poland-Krakw/Junior-Project-Engineer--ALLEX-Graduate-Program-_R10095855-1) | 2026-07-08 |
 | Airbus | #ET21 Junior Stress Engineer (M/F) - Early Career | Marseille Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/XMLNAME--ET21-Junior-Stress-Engineer--M-F----Early-Career_JR10423973) | 2026-07-08 |
 | Ameren | Early Career Rotation Program Engineer | St. Louis, MO | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Early-Career-Rotation-Program-Engineer_033661) | 2026-07-08 |
@@ -19,6 +21,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Neuroscience Med/Surg | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Neuroscience-Med-Surg-09-FTE-7a-7-30p_344986-1) | 2026-07-08 |
 | Conagra Brands | Entry Level Production - 2nd Shift | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Macon-Missouri/Entry-Level-Production---2nd-Shift_Req-039100) | 2026-07-08 |
 | DriveTime | Automotive Technician - Entry Level | Ga 30281 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/3000-Walter-Way-Stockbridge-GA-30281/Automotive-Technician---Entry-Level_R15864) | 2026-07-08 |
+| Eurofins | Entry Level-Lab Technician (Weds-Sun), Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000136254314) | 2026-07-08 |
+| Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000136441611) | 2026-07-08 |
 | Fresenius Medical Care | New Graduate Nurse | Newberry, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Newberry-SC/New-Graduate-Nurse_R0260960) | 2026-07-08 |
 | Fresenius Medical Care | New Graduate Nurse | Anderson, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Anderson-SC/New-Graduate-Nurse_R0260961) | 2026-07-08 |
 | Fresenius Medical Care | New Graduate RN | Show Low, AZ, United States / Prescott Valley, AZ, United States / Peridot, AZ, United States / Kingman, AZ, United States / Miami, AZ, United States / Bullhead City, AZ, United States / Whiteriver, AZ, United States / Flagstaff, AZ, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Show-Low-AZ-USA/New-Graduate-RN_R0256573) | 2026-07-08 |
@@ -29,6 +33,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Graduate Radiology Technologist | Platte Valley Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Platte-Valley-Hospital/New-Graduate-Radiology-Technologist_R176997) | 2026-07-08 |
 | Intermountain Healthcare | Resource Pool New Grad RNs | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Resource-Pool-New-Grad-RNs_R172988) | 2026-07-08 |
 | Intertek | Entry Level Technician I | Plano, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15240) | 2026-07-08 |
+| Jobs for Humanity | Entry Level Sales Assistant | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000136439569) | 2026-07-08 |
+| Jobs for Humanity | Entry-Level Virtual Assistant (Remote) | Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000136298175) | 2026-07-08 |
 | KLA - Search | Data Scientist (Entry Level) - GSCS | Milpitas, Canada | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Data-Scientist--Entry-Level----GSCS_2638246-1) | 2026-07-08 |
 | KLA - UR | Data Scientist (Entry Level) - GSCS | Milpitas, Canada | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Data-Scientist--Entry-Level----GSCS_2638246) | 2026-07-08 |
 | LabCorp | Clinical Lab Technician - Invitae - Entry level | San Francisco CA | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Clinical-Lab-Technician---Invitae---Entry-level_2619682) | 2026-07-08 |
@@ -186,7 +192,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Withum | Health Care Claims Entry Level Analyst | Remote | [Apply](https://job-boards.greenhouse.io/campusopportunities/jobs/8459137002) | 2026-07-02 |
 | WSP | Early Career Building Electrical Engineer | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90288) | 2026-07-02 |
 | WSP | Early Career Commissioning Agent | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90188) | 2026-07-02 |
-| AECOM | Entry-Level Water/Wastewater Inspector | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000135274400) | 2026-07-01 |
 | Amentum | Machine Design Engineer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Machine-Design-Engineer---Entry-Level_R0164788-1) | 2026-07-01 |
 | AutoNation | Entry Level Technician-AutoNation Chevrolet Amarillo-$17.00 | Autonation Chevrolet Amarillo | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Amarillo/Entry-Level-Technician-AutoNation-Chevrolet-Amarillo--1700_JR2026144620) | 2026-07-01 |
 | Boston Medical Center | New Grad Registered Nurse, ICU Residency, (36 hours per week, various shifts) | Brighton, MA | [Apply](https://bmc.wd1.myworkdayjobs.com/BMC/job/Brighton-MA/New-Grad-Registered-Nurse--ICU-Residency---36-hours-per-week--various-shifts-_49680) | 2026-07-01 |
@@ -517,7 +522,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ERM | Graduate Consultant　Construction safety (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant---Entry-Level-_R00029668-1) | 2026-06-17 |
 | ERM | Graduate Consultant　Environmental Remediation (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant-Environmental-Remediation--Entry-Level-_R00029669) | 2026-06-17 |
 | ERM | Junior Mid-career Consultant (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Junior-Mid-career-Consultant--Entry-Level-_R00026444) | 2026-06-17 |
-| Eurofins | Entry Level Scientist: Trace Analysis and Structural Chemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132684917) | 2026-06-17 |
 | Eventual | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088) | 2026-06-17 |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Dublin | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Investments---Technology-Graduate-Program---Dublin_2130453) | 2026-06-17 |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) | 2026-06-17 |
@@ -643,7 +647,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) | 2026-06-13 |
 | Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000130001176) | 2026-06-13 |
 | Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) | 2026-06-13 |
-| Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000131399195) | 2026-06-13 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000131639431) | 2026-06-13 |
 | Fortinet | New Grad 2026 (Canada) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817) | 2026-06-13 |
 | Fortinet | New Grads 2026 (US) | Sunnyvale, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 2026-06-13 |
