@@ -131,6 +131,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dallas College | S01 - Student Assistant-Non Work Study-Local Funds-4 | Mountain View Campus | [Apply](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Mountain-View-Campus/S01---Student-Assistant-Non-Work-Study-Local-Funds-4_R13172) | 2026-07-08 |
 | Dallas College | Student Assistant-Non Work Study-6 | North Lake Campus | [Apply](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/North-Lake-Campus/Student-Assistant-Non-Work-Study-6_R13186) | 2026-07-08 |
 | Danaher Corporation | EHS & Facilities Intern | Brazil | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Diadema-So-Paulo-Brazil/EHS---Facilities-Intern_R1310643) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Communications Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/b36ba994-4208-4881-a8a9-cd00b8ec3fda) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Data and Coding Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Digital Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/be16fd29-ec2a-440f-a7da-fe1326755697) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Fundraising Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/e90ae4ab-0618-4389-be19-8c7f7e44509f) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Political Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/fe52f389-543b-496a-b6cb-9ee29cf8ee79) | 2026-07-08 |
+| Democratic Governors Association | Fall 2026 Research Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/765d0bb9-443b-45d3-90c9-0cf9d2b0c0d2) | 2026-07-08 |
 | Dentsu | STAGE - Assistant Planneur Stratégique H/F | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Planneur-Stratgique-H-F_R1127350) | 2026-07-08 |
 | Direct Supply | Interior Design Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Interior-Design-Intern_REQ-2026-2466) | 2026-07-08 |
 | DraftKings | Growth Marketing, Out of Home Co-op | Boston, MA | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Growth-Marketing--Out-of-Home-Co-op_JR14591) | 2026-07-08 |
@@ -2919,7 +2925,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | Graduate Dialogue, Instructional Design and Leadership Development Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Dialogue--Instructional-Design-and-Leadership-Development-Assistant--Student-_R3888) | 2026-06-24 |
 | Anduril | Naval Architect Co-op - Winter 2027 | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007) | 2026-06-24 |
 | Applied Materials | 2026 Fall Co-Op - Process Engineering Intern (Doctorate) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Fall-Co-Op---Process-Engineering-Intern--Doctorate-_R2622481) | 2026-06-24 |
-| Arc'teryx Equipment | Intern Talent Development & Culture Activation  EMEA (m/w/d) | Munich | [Apply](https://jobs.lever.co/arcteryx.com/820be270-0244-42a4-875c-cb825b96e404) | 2026-06-24 |
 | Ardian | Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154) | 2026-06-24 |
 | Ardian | Legal Corporate Stage - Janvier 2027 I Paris (M/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Legal-Corporate-Stage---Janvier-2027-I-Paris--M-F-_JR1001859) | 2026-06-24 |
 | ASML | Co-Op - Optical Engineer (Internship) | Wilton, CT, United States | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00345627) | 2026-06-24 |
@@ -4333,7 +4338,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Philips | Partner Compliance Screenings Intern | Shanghai | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Partner-Compliance-Screenings-Intern_585529) | 2026-06-17 |
 | Philips | Working student (all genders) Global Marketing - Commercial Catalog, Training and Events | Böblingen | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bblingen/Working-student--all-genders--Global-Marketing---Commercial-Catalog--Training-and-Events_585901-2) | 2026-06-17 |
 | Pigment | Business Development/Sales & Growth Marketing North America (6-month Internship) | Paris | [Apply](https://jobs.lever.co/pigment/d025a757-a3df-4ef7-8344-bcd0de83933f) | 2026-06-17 |
-| Pigment | Marketing Campaigns Intern | Paris | [Apply](https://jobs.lever.co/pigment/b2b57938-16e3-4795-abd5-db223e4442d7) | 2026-06-17 |
 | PMA Consultants Careers | Internship (00560) | Amherst, MA | [Apply](https://jobs.lever.co/pmaconsultants/0a6335b4-b88a-4db8-a754-0224d5a02edc) | 2026-06-17 |
 | PricewaterhouseCoopers (PwC) | FY27 - ASR - ASR TIS GE - Genève - Intern/Trainee - Start 01.01.2027 | Genève | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Genve/FY27---ASR---ASR-TIS-GE---Genve---Intern-Trainee---Start-01012027_737756WD) | 2026-06-17 |
 | PricewaterhouseCoopers (PwC) - US_Entry_Level_Careers | Atlanta - Tax JD - Intern - Summer 2027 | Ga-Atlanta | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/GA-Atlanta/Atlanta---Tax-JD---Intern---Summer-2027_612261EIB-1) | 2026-06-17 |
@@ -4954,7 +4958,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - PEE CMP | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CMP_JR99180) | 2026-06-15 |
 | Micron Technology | Intern-Assembly Equipment | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern-Assembly-Equipment_JR103478) | 2026-06-15 |
 | Motorola Solutions | Test Engineer (Co-Op) | Vietnam | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Test-Engineer--Co-Op-_R65089) | 2026-06-15 |
-| OakNorth Bank | Intern - Finance | Gurugram | [Apply](https://jobs.lever.co/oaknorth.ai/ff6469fe-6341-43be-ab86-05df7e0c92eb) | 2026-06-15 |
 | Omnis | Summer 2026 - Business Operations Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/18ca8e1d-e735-497c-b1c0-46e5593acc04) | 2026-06-15 |
 | Omnis | Summer 2026 - Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/f7a16237-02a3-49b6-aa7b-daebb5cffe1b) | 2026-06-15 |
 | Omnis | Summer 2026 - Software Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) | 2026-06-15 |
@@ -5943,7 +5946,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Signify | Data & insights Intern | Madrid | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Data---insights-Intern_364493-1) | 2026-06-11 |
 | Stryker | Tax Intern | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Tax-Intern_R566335) | 2026-06-11 |
 | Susquehanna International Group (SIG) | Marketing + Content Creation Intern: Fall 2026 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10942/marketing-%2b-content-creation-intern%3a-fall-2026/job) | 2026-06-11 |
-| Telesat | Business Development Intern | Arlington, VA | [Apply](https://jobs.lever.co/telesat/35fbe0fb-05be-4581-a191-ca2a8cc06b28) | 2026-06-11 |
+| Telesat | Business Development Intern (Fall Term September-December 2026) | Arlington, VA | [Apply](https://jobs.lever.co/telesat/35fbe0fb-05be-4581-a191-ca2a8cc06b28) | 2026-06-11 |
 | Telesat | Communications Systems Analyst Intern | Arlington, VA | [Apply](https://jobs.lever.co/telesat/5321efa6-d788-4eb8-9bcb-ced2a0b15e89) | 2026-06-11 |
 | Thales | HR Intern (Shared Services) | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/HR-Intern--Shared-Services-_R0331002) | 2026-06-11 |
 | Thales | Product Support Intern | Maynila | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Maynila/Product-Support-Intern_R0330530) | 2026-06-11 |
