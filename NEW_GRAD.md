@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Registered Nurse (RN) - Clinical Resource   Float New Grad | Advocate Lutheran General Hospital 1775 Dempster St | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Advocate-Lutheran-General-Hospital---1775-Dempster-St/Registered-Nurse--RN----Clinical-Resource---Float-New-Grad_R244551) | 2026-07-09 |
+| Anduril | Early Career Product Operations Rotation Program | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5181983007?gh_jid=5181983007) | 2026-07-09 |
 | AutoNation | Entry Level Automotive Technician at Toyota Spokane | Autonation Toyota Spokane Valley | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Spokane-Valley/Entry-Level-Automotive-Technician-at-Toyota-Spokane_JR2026145083) | 2026-07-09 |
 | AutoNation | Entry Level Technician | Autonation Chrysler Dodge Jeep Ram Hilton Head | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-Hilton-Head/Entry-Level-Technician_JR2026144506) | 2026-07-09 |
 | Banner Health | Registered Nurse RN New Grad Medical Surgical | Bumc Tucson (1625 N Campbell Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Registered-Nurse-RN-New-Grad-Medical-Surgical_R4447633) | 2026-07-09 |
@@ -345,6 +346,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | Mission Engineer, Air Dominance & Strike, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) | 2026-06-26 |
 | Figma | Early Career Recruiter | Ny • United States | [Apply](https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004) | 2026-06-26 |
 | First American | Entry-Level Process Improvement Analyst - REMOTE | Scottsdale, United States / United States Remote | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Arizona-Scottsdale/Business-Analyst-Associate--Remote-in-TX-_R057084) | 2026-06-26 |
+| Four Hands | Software Engineer - New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) | 2026-06-26 |
 | ING | Analyst Capital Markets & Advisory – Early Career Group, Homebase Asset Securitisation (ASec) (w/m/d) | Frankfurt | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Analyst-Capital-Markets---Advisory---Early-Career-Group--Homebase-Asset-Securitisation--ASec---w-m-d-_REQ-10116929-1) | 2026-06-26 |
 | Johns Manville (JM) | GP&L Associate- Entry Level Procurement Role | Denver Co Whq | [Apply](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/GP-L-Associate--Entry-Level-Procurement-Role_R26_1075) | 2026-06-26 |
 | KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) | 2026-06-26 |
@@ -873,7 +875,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Johnson Matthey | Operator I: Entry Level Operator | Royston UK | [Apply](https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site/job/Royston---UK/Operator-I--Entry-Level-Operator_R-014872-1) | 2026-06-04 |
 | Mosaic | Entry Level Operator-COL | CA-Colonsay, SK | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/CA-Colonsay-SK/Entry-Level-Operator-COL_64284-1) | 2026-06-04 |
 | SpaceX | New Graduate Engineer, Mechanical (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578053002?gh_jid=8578053002) | 2026-06-04 |
-| Uber Freight | Junior Accounts Payable/Receivable Specialist (New Grad Welcome) | Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5205786008) | 2026-06-04 |
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine/Telemetry Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Internal-Medicine-Telemetry-Unit_339945) | 2026-06-03 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg and Oncology | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg-and-Oncology_342195) | 2026-06-03 |
 | Cleveland Clinic | New Grad RN Resident - Pre & Post-Surgical General Surgery | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Pre---Post-Surgical-General-Surgery_337456) | 2026-06-03 |
@@ -1116,9 +1117,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) | 2026-06-02 |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
@@ -1126,8 +1127,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Field Geologist - Geotechnical | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5212213008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
 | Olsson | Entry-Level Transportation Engineer - Bridge | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5157350008) | 2026-06-02 |
-| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) | 2026-06-02 |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5214970008) | 2026-06-02 |
+| Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5116169008) | 2026-06-02 |
 | Pennsylvania State University | Graduate Program Support Coordinator | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Program-Support-Coordinator_REQ_0000076506-2) | 2026-06-02 |
 | Pennsylvania State University | Part-Time Graduate Program Support Position | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Graduate-Program-Support-Position_REQ_0000074260-1) | 2026-06-02 |
 | Pennsylvania State University | Part-Time MEP Graduate Program Assistant | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-MEP-Graduate-Program-Assistant_REQ_0000075737-1) | 2026-06-02 |
@@ -1186,8 +1187,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) | 2026-06-02 |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2026-06-02 |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) | 2026-06-02 |
 | Taylor Corporation | Equipment Operator – Entry Level | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/Amsterdam-NY---Taylor-Promotional-Products-Inc/Equipment-Operator-I---Entry-Level_R28457) | 2026-06-02 |
 | Taylor Corporation | Industrial Engineer (Entry-level) | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/North-Mankato-MN---Taylor-Corporation/Senior-Industrial-Engineer_R28324) | 2026-06-02 |
