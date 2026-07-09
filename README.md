@@ -201,6 +201,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Kingston, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1030-Coverdale-Dr-Kingston-ON/Student--Franchise-Part-Time-Day_R2000682082) | 2026-07-09 |
 | Loblaw Companies | Student, Franchise Part Time Evening | Kingston, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1030-Coverdale-Dr-Kingston-ON/Student--Franchise-Part-Time-Evening_R2000682088) | 2026-07-09 |
 | Lonza | Internship IBEX Process Development Downstream 80-100% | Ch Visp | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Internship-IBEX-Process-Development-Downstream-80-100-_R77184-1) | 2026-07-09 |
+| Loop | Business Operations Intern | Toronto, Canada | [Apply](https://ats.rippling.com/loop-careers/jobs/bce20fe1-1a3c-4ced-9fc2-bd8ec586a400) | 2026-07-09 |
 | Louisiana State University (LSU) | Coordinator of Student Life | Lsu Alexandria | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Coordinator-of-Student-Life_R00117038) | 2026-07-09 |
 | LSEG | Intern | Paris, France | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Paris-France/Intern_R0121282-1) | 2026-07-09 |
 | LSEG - Careers | Intern | Paris, France | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Paris-France/Intern_R0121282) | 2026-07-09 |
