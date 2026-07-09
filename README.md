@@ -82,6 +82,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Danaher Corporation | Field Service Engineer Intern | Italy | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Napoli-Italy/Field-Service-Engineer-Intern_R1307182) | 2026-07-09 |
 | Danaher Corporation | R&D Intern | Massachusetts, United States | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Westborough-Massachusetts-United-States/R-D-Intern_R1313841) | 2026-07-09 |
 | Danaher Corporation | Working Student Production Consumables (f/m/d) | Germany | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Aachen-North-RhineWestphalia-Germany/Working-Student-Production-Consumables--f-m-d-_R1314845) | 2026-07-09 |
+| Democratic Governors Association | Fall 2026 Compliance Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/e007a57d-27fe-4432-a6f6-fcf9cc547360) | 2026-07-09 |
 | Disney | Working Student (m/w/d) DCP E-Commerce | Germany | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Munich-Germany/Working-Student--m-w-d--DCP-E-Commerce_10154286) | 2026-07-09 |
 | Draper | Microsystems Integration Co-Op | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) | 2026-07-09 |
 | Duke Energy | Engineer I - Intern/Co-op Conversion (Webb) | Crystal River, FL | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Crystal-River-FL/Engineer-I---Intern-Co-op-Conversion--Webb-_R40442) | 2026-07-09 |
@@ -291,6 +292,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wells Fargo | 2027 Quantitative Analytics Program Intern | India | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Bengaluru-India/XMLNAME-2027-Quantitative-Analytics-Program-Intern_R-558426) | 2026-07-09 |
 | Woodward Governor | Internship in Quality | Niepolomice, PL | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niepolomice-PL/Internship-in-Quality_JR112346) | 2026-07-09 |
 | Zeiss | Internship Software Development Team for Medical Robotic Systems (f/m/x) | München | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Internship-Software-Development-Team-for-Medical-Robotic-Systems--f-m-x-_JR_1051268) | 2026-07-09 |
+| Zoox | Part Time Student Worker – Manufacturing SW Engineer | Hayward, Canada | [Apply](https://jobs.lever.co/zoox/02f4bebd-ab47-4d4c-b887-cffcfeea3494) | 2026-07-09 |
+| Zoox | Part-Time Student Worker – Hardware Software Integration Engineer | Hayward, Canada | [Apply](https://jobs.lever.co/zoox/76845566-1870-4836-91ee-ff8e27462f8d) | 2026-07-09 |
 | 3M | Compulsory Internship - Marketing Department | TR | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/TR-Turkey-Istanbul/Compulsory-Internship---Marketing-Department_R01167690) | 2026-07-08 |
 | ABB | A&M Analyst Intern | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/A-M-Analyst-Intern_JR00041105) | 2026-07-08 |
 | ABB | Communications and Marketing Intern | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Communications-and-Marketing-Intern_JR00040745) | 2026-07-08 |
@@ -1593,7 +1596,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship / Working Student – Technical Artist, 3D Artist & 3D Asset Creation for Digital Twins (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Working-Student---Technical-Artist--3D-Artist---3D-Asset-Creation-for-Digital-Twins--f-m-x-_JR_1051099) | 2026-07-03 |
 | Zeiss | Internship or Master Thesis on Quantum-Based Optimization (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-or-Master-Thesis-on-Quantum-Based-Optimization--f-m-x-_JR_1051101-3) | 2026-07-03 |
 | Zoox | Part-Time Student Worker – AI Validation and Benchmarking Engineer | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/6d8b31d2-6391-44b7-bf9f-93360172fae8) | 2026-07-03 |
-| Zoox | Part-time Student Worker – Software Development Engineer in Test | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049) | 2026-07-03 |
+| Zoox | Part-Time Student Worker – Software Development Engineer in Test | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049) | 2026-07-03 |
 | ABB | Working student (m/f/d) - Warehouse and Logistics Administration | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ratingen-North-Rhine-Westphalia-Germany/Working-student--m-f-d----Warehouse-and-Logistics-Administration_JR00040063) | 2026-07-02 |
 | Abbott | Engineering Internship | Costa Rica Alajuela | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Costa-Rica---Alajuela/Engineering-Internship_31145402) | 2026-07-02 |
 | Abbott | IT Intern | Imazium / 37 | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/IT-Intern_31149049-1) | 2026-07-02 |
@@ -4935,7 +4938,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Huntsman | FP&A Intern | Costa Rica Heredia | [Apply](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/FP-A-Intern_J-019926) | 2026-06-16 |
 | International Rescue Committee (IRC) | Fall 2026 Community Engagement Intern - UNPAID | Ga USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-GA-USA/Fall-2026-Community-Engagement-Intern---UNPAID_JR00003792) | 2026-06-16 |
 | IQVIA | Marketing Intern （设计方向） | China | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Shanghai-China/Marketing-Intern---_R1551842) | 2026-06-16 |
-| ispace | Mission Operations Intern (Full time) | Japan | [Apply](https://jobs.lever.co/ispace-inc/8d616c6e-0657-4903-89ab-e1ab9d9f1de4) | 2026-06-16 |
 | Jain Global | Analyst Intern | Singapore | [Apply](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Singapore-Singapore/Analyst-Intern_JR100501-1) | 2026-06-16 |
 | Jones Lang LaSalle (JLL) | Intern | Malaysia | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Intern_REQ514506) | 2026-06-16 |
 | Jones Lang LaSalle (JLL) | Intern | Prt | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Lisbon-PRT/Intern_REQ515698) | 2026-06-16 |
@@ -5110,7 +5112,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Magna International | Gearbox and Mechatronics Engineering Student | Michigan, United States | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Gearbox-and-Mechatronics-Engineering-Student_R00232073) | 2026-06-15 |
 | Magna International | Project Engineering Co-op | Newmarket, ON, Canada | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Project-Engineering-Co-op_R00247115) | 2026-06-15 |
 | Mass General Brigham | Senior Internship Coordinator, MGB Youth Programs | Boston-Ma | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Senior-Internship-Coordinator--MGB-Youth-Programs_RQ4065815) | 2026-06-15 |
-| Match Group | 【9月9日(水)・9月10日(木)】Pairs 2 Days Internship Workshop | Tokyo | [Apply](https://jobs.lever.co/matchgroup/d74b426e-3da3-44e1-a510-76610d7a6df3) | 2026-06-15 |
+| Match Group | 長期Internshipに直結！【9月9日(水)・9月10日(木)】Pairs 2 Days Internship Workshop | Tokyo | [Apply](https://jobs.lever.co/matchgroup/d74b426e-3da3-44e1-a510-76610d7a6df3) | 2026-06-15 |
 | Medtronic | Intern: Web & Content Operations | Spain | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Madrid-Madrid-Spain/Intern--Web---Content-Operations_R69232-1) | 2026-06-15 |
 | Mercer University | Student Actor | Mercer School Of Medicine | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Mercer-School-of-Medicine/Student-Actor_JR103934) | 2026-06-15 |
 | Merck | Intern - Data Science & BioStatistics- Manufacturing | Nld North Brabant Boxmeer | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/NLD---North-Brabant---Boxmeer/Intern---Data-Science---BioStatistics--Manufacturing_R390572-1) | 2026-06-15 |
@@ -10077,7 +10079,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | XPENG Motors | AI Agent Data Pipeline Intern | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8548990002) | 2026-06-02 |
 | XPENG Motors | AI Intern – VLA Deployment | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 2026-06-02 |
 | Xsolla | Internship Opportunity | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/09a7b7ec-7c95-491e-9d1b-0da77f2f8873) | 2026-06-02 |
-| Xsolla | Xsolla School – Student Application | China | [Apply](https://jobs.lever.co/xsolla/26a98b5c-ca2c-4ab9-934c-52ad1cedd9e0) | 2026-06-02 |
 | Xylem | Dualer Student Maschinenbau (m/w/d) | Weilheim | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Maschinenbau--m-w-d-_R41048) | 2026-06-02 |
 | Xylem | Dualer Student Mechatronik (m/w/d) | Weilheim | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Weilheim/Dualer-Student-Mechatronik--m-w-d-_R41049) | 2026-06-02 |
 | Yai | Community Health Nursing Internship | Westchester County | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Westchester-County/Community-Health-Nursing-Internship_R019287) | 2026-06-02 |
