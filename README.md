@@ -309,6 +309,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Office Manager, Student Life Disability Services | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Office-Manager--Student-Life-Disability-Services_R154610-2) | 2026-07-10 |
 | Ohio State University | Student Assistant | University Hospital | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/Student-Assistant_R154105-2) | 2026-07-10 |
 | OMERS | Student, Operations & Sustainability (Fall 2026. 4 or 8 Months) | Toronto, ON | [Apply](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Student--Operations---Sustainability_JR-8228-1) | 2026-07-10 |
+| Omnis | Fall 2026 - Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/71327ac7-2d08-46ef-9d83-2f9995800dce) | 2026-07-10 |
 | Pennsylvania State University | Student Advocacy Specialist - Bellisario College of Communications | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Advocacy-Specialist---Bellisario-College-of-Communications_REQ_0000079739-2) | 2026-07-10 |
 | Pennsylvania State University | Systems Administrator Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Systems-Administrator-Intern_REQ_0000080162-1) | 2026-07-10 |
 | PHI Air Medical | IT Intern | Tempe, AZ | [Apply](https://phigroup.wd12.myworkdayjobs.com/phihealthcareers/job/Tempe-AZ/IT-Intern_REQ002109) | 2026-07-10 |
@@ -5282,9 +5283,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - PEE CMP | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CMP_JR99180) | 2026-06-15 |
 | Micron Technology | Intern-Assembly Equipment | Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern-Assembly-Equipment_JR103478) | 2026-06-15 |
 | Motorola Solutions | Test Engineer (Co-Op) | Vietnam | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Test-Engineer--Co-Op-_R65089) | 2026-06-15 |
-| Omnis | Summer 2026 - Business Operations Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/18ca8e1d-e735-497c-b1c0-46e5593acc04) | 2026-06-15 |
-| Omnis | Summer 2026 - Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/f7a16237-02a3-49b6-aa7b-daebb5cffe1b) | 2026-06-15 |
-| Omnis | Summer 2026 - Software Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) | 2026-06-15 |
 | Otis Worldwide | MOD Promotion Intern | China | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/LOC3309-No28-Jiuhuan-Road-Hangzhou-Shangcheng-District-Zhejiang-China/MOD-Promotion-Intern_20161384) | 2026-06-15 |
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | D.c. | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) | 2026-06-15 |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 2026-06-15 |
