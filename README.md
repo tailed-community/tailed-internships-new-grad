@@ -106,6 +106,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ardian | Private Credit Stage - Janvier 2027 \| Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Private-Credit-Stage---Janvier-2027---Paris--H-F-_JR1002132) | 2026-07-10 |
 | Ardian | Real Estate Intern - September 2026I Milan (M/F) | Milan | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Real-Estate-Intern---September-2026I-Milan--M-F-_JR1002166-1) | 2026-07-10 |
 | Arizona State University | Management Intern - Marketing | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Marketing_JR123243) | 2026-07-10 |
+| Ascendis Pharma | Student Assistant - D365 Platform | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A643A8588C/) | 2026-07-10 |
 | ASML | HR Tech & AI Innovation internship: Agent Development & Enablement | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/HR-Tech---AI-Innovation-internship--Agent-Development---Enablement_J-00346786) | 2026-07-10 |
 | ASML | Internship - EUV UIR Intern - Tainan | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Tainan-Taiwan/Internship---EUV-UIR-Intern---Tainan_J-00346851) | 2026-07-10 |
 | Axon - axontalentcommunity | Render ATL - Leadership Development Internship 2027 | Arizona, United States | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798167003) | 2026-07-10 |
@@ -3898,7 +3899,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Heart Association | Intern, National Corporate Relations-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17674/intern%2c-national-corporate-relations-remote/job) | 2026-06-19 |
 | American Heart Association | Intern, Research & Grants-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17685/intern%2c-research-%26-grants-remote/job) | 2026-06-19 |
 | Analog Devices | Systems Applications Engineering Intern | Bonifacio Global City | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Systems-Applications-Engineering-Intern_R263326) | 2026-06-19 |
-| Ascendis Pharma | Student Assistant - Global IT | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/52D596DB17/) | 2026-06-19 |
 | Astranis | Guidance, Navigation, and Control Engineer Intern (Fall 2026) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4599603006) | 2026-06-19 |
 | AstraZeneca | AZ201 – AstraZeneca Internship Program - Human Resources Intern | Turkey Istanbul | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Turkey---Istanbul/AZ201---AstraZeneca-Internship-Program---Human-Resources-Intern_R-254465) | 2026-06-19 |
 | Aviva | Intern | Poland Warsaw Asec | [Apply](https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Intern_R-169985) | 2026-06-19 |
