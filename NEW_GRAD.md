@@ -786,7 +786,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Rigger - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17381/rigger---entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Sheetmetal Worker Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18913/sheetmetal-worker-entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Shipfitter Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18461/shipfitter-entry-level-%26-semi-skilled/job) | 2026-06-10 |
-| General Dynamics | Structural MT Grinder Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17302/structural-mt-grinder-entry-level-%26-semi-skilled/job) | 2026-06-10 |
 | General Dynamics | Submarine Insulation Installer - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17314/submarine-insulation-installer---entry-level/job) | 2026-06-10 |
 | General Dynamics | Submarine Mechanic / Machinist - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18254/submarine-mechanic---machinist---entry-level/job) | 2026-06-10 |
 | General Dynamics Mission Systems | Electrical Engineer – Entry Level [On Site] | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72771/electrical-engineer-%e2%80%93-entry-level-%5bon-site%5d/job) | 2026-06-10 |
