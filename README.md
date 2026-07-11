@@ -156,6 +156,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Turn Assistant-Treehouse (Student Living) | San Marcos, TX | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Treehouse-San-Marcos-TX/Turn-Assistant-Treehouse--Student-Living-_R0194397) | 2026-07-11 |
 | GuidePoint Security | Marketing Intern - Northwest/GPSU | Portland, OR | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6113874004?gh_jid=6113874004) | 2026-07-11 |
 | Haleon | Stagiaire QC Analytical | Switzerland Nyon | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Switzerland---Nyon/Stagiaire-QC-Analytical_545722) | 2026-07-11 |
+| Heron Power | Intern, Power Electronics Controls Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862) | 2026-07-11 |
+| Heron Power | Intern, Supply Chain (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/b786b564-44bc-454f-ad9b-482f8b35ae4c) | 2026-07-11 |
 | Hitachi | R&D Internship in Semiconductor Power Module 80 - 100 % (f/m/d) | Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lenzburg-Aargau-Switzerland/R-D-Internship-in-Semiconductor-Power-Module-80---100----f-m-d-_R0136531) | 2026-07-11 |
 | Holman | Drexel Co-Op | United States Remote | [Apply](https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Remote-NJ-US/Drexel-Co-Op_R0055956) | 2026-07-11 |
 | Huntsman | Business Operations Intern - Risks and Projects | Costa Rica Heredia | [Apply](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Costa-Rica---Heredia/Business-Operations-Intern---Risks-and-Projects_J-020046) | 2026-07-11 |
@@ -200,6 +202,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 2026-07-11 |
 | Parsons | AI & Digital Innovation Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895) | 2026-07-11 |
+| Pika | Research Intern (BS/MS/PhD) | California, United States | [Apply](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Risk Analytics Intern  - Milano [OTS] | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Risk-Analytics-Intern----Milano--OTS-_743054WD) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Strategy& \| Corporate & Business Strategy Intern - Milan | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Strategy----Corporate---Business-Strategy-Intern---Milan_743664WD-1) | 2026-07-11 |
 | Procter & Gamble (P&G) | University of Cincinnati R&D Engineer Co-op | Mason / Cincinnati | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Mason/University-of-Cincinnati-R-D-Engineer-Co-op_R000155207) | 2026-07-11 |
@@ -1721,7 +1724,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palo Alto Networks | Sales Intern | Office USA Tx | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---TX/Sales-Intern_JR-011732) | 2026-07-06 |
 | Pfizer | Environmental Intern | Argentina Buenos Aires | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Argentina---Buenos-Aires/Environmental-Intern_4959985) | 2026-07-06 |
 | Philips | Order Management Intern (all genders) | Lodz | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Order-Management-Intern--all-genders-_587301) | 2026-07-06 |
-| Pika | Research Intern (BS/MS/PhD) | California, United States | [Apply](https://jobs.ashbyhq.com/pika/6c9ba89d-91f3-4cf1-a318-70783773323a) | 2026-07-06 |
 | PricewaterhouseCoopers (PwC) | Finance - Finance Data & Systems Off-Cycle Internship (Jan - Jun 27) | Singapore Marina One | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Finance---Finance-Data---Systems-Off-Cycle-Internship--Jan---Jun-27-_742322WD) | 2026-07-06 |
 | PricewaterhouseCoopers (PwC) | Finance - Order-to-Cash Off-Cycle Internship (Jan - Jun 27) | Singapore | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Finance---Order-to-Cash-Off-Cycle-Internship--Jan---Jun-27-_742323WD) | 2026-07-06 |
 | PricewaterhouseCoopers (PwC) | Finance - Procure-to-Pay Off-Cycle Internship (Jan - Jun 27) | Singapore | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Finance---Procure-to-Pay-Off-Cycle-Internship--Jan---Jun-27-_742321WD) | 2026-07-06 |
@@ -6709,7 +6711,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Base Power | Deployment Intern (Pipeline Operations) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/342a2ac8-9df6-4f52-ae18-dce9028332a3) | 2026-06-08 |
 | Base Power | Firmware Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) | 2026-06-08 |
 | Base Power | Hardware Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770) | 2026-06-08 |
-| Base Power | Hardware Reliability & Test Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406) | 2026-06-08 |
 | Base Power | Hardware Sourcing Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/7ba325d9-4256-4567-83a4-8dd9c72a0d10) | 2026-06-08 |
 | Base Power | Manufacturing Controls Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d) | 2026-06-08 |
 | Base Power | Manufacturing Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b) | 2026-06-08 |
@@ -6782,7 +6783,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Four Hands | Product Development Intern | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 2026-06-08 |
 | Freudenberg Group | Supply Chain Intern | Valinhos | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Valinhos/Supply-Chain-Intern_R_00101695-1) | 2026-06-08 |
 | Fundwell | AI Innovation Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982) | 2026-06-08 |
-| Gimlet Labs | Member of Technical Staff (Intern) | California, United States | [Apply](https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9) | 2026-06-08 |
 | Great American Insurance Company | Business Transformation Intern | Oh (usa) | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Transformation-Intern_R9094) | 2026-06-08 |
 | Great Question | AI Engineer Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) | 2026-06-08 |
 | Greystar Worldwide | Leasing & Marketing Manager - Aptos, CA (Student Living) | San Jose, Canada | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/City-Office-San-Jose-San-Jose-CA/Leasing---Marketing-Manager---Aptos--CA--Student-Living-_R0191002) | 2026-06-08 |
@@ -6873,7 +6873,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Snowflake | Software Engineer Intern - Berlin (2026) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Zurich (2026) | Switzerland | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | 2026-06-08 |
 | Solink | Software Engineer, COOP | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef) | 2026-06-08 |
-| Solva | AI Engineer Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6) | 2026-06-08 |
 | Super | Legal Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/3295ced3-f64c-40fb-bd78-6ff35355c42b) | 2026-06-08 |
 | Super | Payments Engineering Intern (12-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c) | 2026-06-08 |
 | Super | Software Development Engineering Intern - Infrastructure (DevOps) -  12 Months | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/7d7eaa47-39d4-4677-aea9-f5d9f6c25ed8) | 2026-06-08 |
