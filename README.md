@@ -5321,9 +5321,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eulerity | Internship, Finance | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4689435006) | 2026-06-15 |
 | Eurofins | Internship - Business Admin / Management (6 Months) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132103500) | 2026-06-15 |
 | Experian | Accounting Associates Graduate (Global Finance) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000132120535) | 2026-06-15 |
-| Foundation | Controls Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) | 2026-06-15 |
-| Foundation | electrical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/85b37acb-be92-4907-be88-a4181c23b9ec) | 2026-06-15 |
-| Foundation | Mechanical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/cd029376-1fb1-4b58-bcb2-ba87f4a2826f) | 2026-06-15 |
 | Fred Hutchinson Cancer Center | Unpaid Research Intern - School Credit Only - Temporary | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job) | 2026-06-15 |
 | Fresenius Medical Care | Intern with German in Payroll Team | Poland | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Intern-with-German-in-Payroll-Team_R0257648) | 2026-06-15 |
 | Greystar Worldwide | Leasing Professional - Monarch 716 (Student Living) | Buffalo, NY | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Monarch-716-Buffalo-NY/Leasing-Professional---Monarch-716--Student-Living-_R0191702) | 2026-06-15 |
