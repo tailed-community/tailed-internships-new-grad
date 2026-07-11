@@ -31,6 +31,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | Intellera – Healthcare Policy & European Programmes Projects Intern | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma-Via-Po-14/Intellera---Healthcare-Policy---European-Programmes-Projects-Intern_R00338724) | 2026-07-11 |
 | Accenture | Maritime Business Analyst Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Maritime-Internship_R00342490) | 2026-07-11 |
 | Accenture | Práctica Ing conectividad y Redes -ChangeMakers Internship Program | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Ing-conectividad-y-Redes--ChangeMakers-Internship-Program_R00342718) | 2026-07-11 |
+| AECOM | Structural Engineering Intern | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137164948) | 2026-07-11 |
 | Agilent Technologies | Electrical Engineering Intern | US-De-Wilmington | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526) | 2026-07-11 |
 | Air Liquide | Summer Student - Administrative Assistant | London | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/London-ON---Adelaide-St-184/Summer-Student---Administrative-Assistant_R10096317) | 2026-07-11 |
 | Airbus | Long-term Internship - Quality Engineering | Columbus, MS | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Quality-Engineering_JR10428131) | 2026-07-11 |
@@ -1544,7 +1545,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Red Bull | Student Marketeer - Zonguldak Bülent Ecevit Üniversitesi | Turkey | [Apply](https://jobs.smartrecruiters.com/RedBull/744000136184014) | 2026-07-07 |
 | Robert Bosch Venture Capital | Inside Sales Support Internship | Belgium | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136157989) | 2026-07-07 |
 | Robert Bosch Venture Capital | Praktikum in der Fabrikautomatisierung | Dresden, SN | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136152095) | 2026-07-07 |
-| Robert Bosch Venture Capital | Praktikum KI-gestützte UX für Training, Tool-Konzeption und Kommunikation | Stuttgart, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136238150) | 2026-07-07 |
 | Robert Bosch Venture Capital | Undergraduate IT Student | Australia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136114394) | 2026-07-07 |
 | Roche | China Enterprise Technology Intern-CET | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/China-Enterprise-Technology-Intern-CET_202607-117519) | 2026-07-07 |
 | Roche | Data Engineer Intern-CET | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Data-Engineer-Intern-CET_202607-117521-1) | 2026-07-07 |
@@ -3970,7 +3970,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Samsung | Intern - open Innovation | Staines-Upon-Thames, United Kingdom | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/Intern---open-Innovation_R117992) | 2026-06-20 |
 | SpartanNash | Pharmacy Intern | Minnesota | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Litchfield-Minnesota/Pharmacy-Intern_R86898) | 2026-06-20 |
 | Ticketmaster | Practicante Profesional Legal (Legal Intern) | Peru | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/TMExternalSite/job/Lima-Peru/Practicante-Profesional-Legal--Legal-Intern-_JR-91202) | 2026-06-20 |
-| AbbVie | Intern- Occupational Health & Safety | Costa Rica | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990013694416) | 2026-06-19 |
 | Accenture | Finance Transformation - Working Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance-Transformation---Working-Internship_R00336967) | 2026-06-19 |
 | Accenture | Marketing & Communication Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Marketing---Communication-Internship_R00336468) | 2026-06-19 |
 | Accenture | Network Engineer Internship Program (She/He/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Network-Engineer-Internship-Program--She-He-They-_R00323381) | 2026-06-19 |
@@ -5497,7 +5496,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | [Internship] - SAP Programmer | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000113397097) | 2026-06-13 |
 | Continental | Accounting Internship (นักศึกษาฝึกงาน) วุฒิปริญญาตรี | Thailand | [Apply](https://jobs.smartrecruiters.com/Continental/744000131805985) | 2026-06-13 |
 | Continental | CO-OP EHS (Environmental Health & Safety) | Marysville, OH, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000104701125) | 2026-06-13 |
-| Continental | Communications Intern | Clinton, MS, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000131193273) | 2026-06-13 |
 | Continental | Die shop Internship (นักศึกษาฝึกงานแผนกแม่พิมพ์) วุฒิ ปวส | Thailand | [Apply](https://jobs.smartrecruiters.com/Continental/744000127570379) | 2026-06-13 |
 | Continental | Engineering Internship | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000017169370) | 2026-06-13 |
 | Continental | Engineering Internship (8h) - Tires | Timișoara, TM | [Apply](https://jobs.smartrecruiters.com/Continental/744000131426259) | 2026-06-13 |
@@ -5516,6 +5514,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Purchasing - Internship | Italy | [Apply](https://jobs.smartrecruiters.com/Continental/744000130234706) | 2026-06-13 |
 | Continental | Research and Development Internship - Year-Round (Halstead, KS) | Halstead, KS, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000122119270) | 2026-06-13 |
 | Continental | Sales Operations Intern | Fairlawn, OH, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000102087330) | 2026-06-13 |
+| Continental | Supply Chain Intern | Auburn, IN, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000106099245) | 2026-06-13 |
 | Continental | Working Student - Human Relations ContiTech (m/f/diverse) - REF96438E | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000126261014) | 2026-06-13 |
 | Corsair | AI & Automation Intern | Viet Nam | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8374) | 2026-06-13 |
 | Corsair | AI Data Engineer Intern | Viet Nam | [Apply](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8778) | 2026-06-13 |
