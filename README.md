@@ -190,6 +190,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Junior SW Safety Engineer - Student | Bucharest / Sibiu | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Junior-SW-Safety-Engineer---Student_R-10064549) | 2026-07-11 |
 | Ohio State University | Student Assistant - Architectural \| Fall 2026 | Health System Shared Services | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Student-Assistant---Architectural---Fall-2026_R154049-1) | 2026-07-11 |
 | Ohio State University | Student Assistant 2 - Ani Sci | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-2---Ani-Sci_R154849-2) | 2026-07-11 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 2026-07-11 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 2026-07-11 |
 | Parsons | AI & Digital Innovation Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Risk Analytics Intern  - Milano [OTS] | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Risk-Analytics-Intern----Milano--OTS-_743054WD) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Strategy& \| Corporate & Business Strategy Intern - Milan | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Strategy----Corporate---Business-Strategy-Intern---Milan_743664WD-1) | 2026-07-11 |
@@ -224,6 +227,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wash U | Director of Student Academic Affairs and Associate Dean - College of Arts & Sciences | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Director-of-Student-Academic-Affairs-and-Associate-Dean---College-of-Arts---Sciences_JR95484) | 2026-07-11 |
 | Western Governors University | Software Engineer II - Student Affairs | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-II---Student-Affairs_JR-025645) | 2026-07-11 |
 | Western Governors University | Software Engineer Student Affairs | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-Student-Affairs_JR-025646) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | China | [Apply](https://jobs.lever.co/xsolla/252b30e5-ce58-4a32-88b3-07ee83d06e67) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Germany | [Apply](https://jobs.lever.co/xsolla/26e49689-5da7-4d23-8079-d7bb763a5be1) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Serbia | [Apply](https://jobs.lever.co/xsolla/553aea16-c106-462a-97f6-e0289ccd9288) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Raleigh, United States | [Apply](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | Montreal | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) | 2026-07-11 |
 | ABB | Electrical/Controls Intern - Fall 2026 | TN, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Selmer/Electrical-Controls-Intern---Fall-2026_JR00040869) | 2026-07-10 |
 | ABB | Intern in Global IS Sourcing Team | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Intern-in-Global-IS-Sourcing-Team_JR00041420-1) | 2026-07-10 |
 | ABB | Internship in R&D Quality Team | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Internship-in-R-D-Quality-Team_JR00041162) | 2026-07-10 |
@@ -4211,7 +4221,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aircall | GTM Enablement Intern | Paris Office | [Apply](https://jobs.lever.co/aircall/daecac18-ae6c-45ea-9e0c-d307d18f1a14) | 2026-06-17 |
 | Aircall | Regional Marketing Intern (12 months) | San Francisco Office | [Apply](https://jobs.lever.co/aircall/0fbc9b05-520b-4cbb-a276-5a9a75e8f3bf) | 2026-06-17 |
 | Aircall | Regional Marketing Intern, LATAM (12 months) | San Francisco Office | [Apply](https://jobs.lever.co/aircall/0e52ec00-a327-49de-9378-6b8487229f89) | 2026-06-17 |
-| Aircall | Sales Intern - DACH market | Paris Office | [Apply](https://jobs.lever.co/aircall/4199e29e-52f6-4aae-bc50-a7518620b031) | 2026-06-17 |
 | Aircall | Sales Intern - French market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/131dcb57-0ba9-45fe-b5a4-e88e118bb06d) | 2026-06-17 |
 | Aircall | Sales Intern - Iberia market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/3a88fe56-9a33-476d-89de-76e4faa38cfc) | 2026-06-17 |
 | Aircall | Strategy & Operations Intern — Office of the General Manager, Small Business | Paris Office | [Apply](https://jobs.lever.co/aircall/d7f248d3-f16f-4bc7-9f7f-201e180600df) | 2026-06-17 |
@@ -8445,7 +8454,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Leonardo | Stage- Tesi Robotics | It Genova Fiumara | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Genova---Fiumara/Stage--Tesi-Robotics_R0026336) | 2026-06-02 |
 | Leonardo | Stage-Tesi Quantum | 400 | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Roma---Via-Tiburtina--KM12400/Stage-Tesi-Quantum_R0027023) | 2026-06-02 |
 | Leonardo | Working Student für Administrative Unterstützung | De Gilching Astopark | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/DE---Gilching---Astopark/Working-Student-fr-Administrative-Untersttzung_R0028778) | 2026-06-02 |
-| Level AI | Research Intern – Reinforcement Learning (RL) | Noida | [Apply](https://jobs.lever.co/levelai/f36e8f75-f360-4e32-8fc4-30dee64cd308) | 2026-06-02 |
 | Levi Strauss & Co. | stage SERRAVALLE | Not Specified | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/LFO-SERRAVALLE-DESIGNER-OUTLET-Serravalle-Scrivia-Italy/stage-SERRAVALLE_R-0152501) | 2026-06-02 |
 | Levi Strauss & Co. | Stagiaire Assistant Presse H/F | Not Specified | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Paris-France/Stagiaire-Assistant-Presse-H-F_R-0150306) | 2026-06-02 |
 | Levi Strauss & Co. | TIROCINANTE/STAGE presso Levi's Store Milano Vittorio Emanuele II (MI) | Not Specified | [Apply](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Milano-Italy/TIROCINANTE-STAGE-presso-Levi-s-Store-Milano-Vittorio-Emanuele-II--MI-_R-0151327) | 2026-06-02 |
