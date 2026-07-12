@@ -22,6 +22,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Student Nurse Scholar/CNA - Carolinas Medical Center (CMC) 4T Medical/Oncology Unit PT Days | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Student-Nurse-Scholar-CNA---Carolinas-Medical-Center--CMC--4T-Medical-Oncology-Unit-PT-Days_R251318) | 2026-07-12 |
+| AECOM | Electrical Engineering Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137302689) | 2026-07-12 |
 | DoubleVerify | Software Engineering Intern | Tel Aviv-Israel | [Apply](https://job-boards.greenhouse.io/doubleverify/jobs/8437562002) | 2026-07-12 |
 | Franklin Templeton - invitation-only | Intern | Singapore | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Singapore-Singapore/Intern_868154) | 2026-07-12 |
 | GE Healthcare | V&V Intern | Haifa Healthcare Ha Il 2 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4042840-1) | 2026-07-12 |
@@ -31,6 +32,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Occidental Petroleum | Mechanical Engineering Co-op | Squamish | [Apply](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Mechanical-Engineering-Co-op_JR108369) | 2026-07-12 |
 | Sanford Health | Radiology Intern | IA | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/IA-Sheldon/Radiology-Intern_R-0266661-1) | 2026-07-12 |
 | TransUnion | Intern - Sena | Bogota | [Apply](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Bogota/Intern---Sena_19041372) | 2026-07-12 |
+| University Health Network | Student - Admin Support | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000137268599) | 2026-07-12 |
 | 3M | Product Development Engineering Intern* | ON, Canada | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/CA-Ontario-Brockville/Product-Development-Engineering-Intern-_R01167138) | 2026-07-11 |
 | Abbott | Internship - Engineering | Ireland Clonmel / Ireland Donegal Town / Ireland Finisklin / Ireland Kilkenny / Ireland Longford / Ireland Cootehill | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780) | 2026-07-11 |
 | Abbott | Internship - Finance | Ireland Dublin | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Dublin/Finance-Internship_31155901) | 2026-07-11 |
@@ -285,7 +287,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Design Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137018972) | 2026-07-10 |
 | AECOM | Digital Engineering Intern (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137002452) | 2026-07-10 |
 | AECOM | Economist Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137033285) | 2026-07-10 |
-| AECOM | Electrical Engineering Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137026319) | 2026-07-10 |
 | AECOM | Electrical Engineering Intern (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137009953) | 2026-07-10 |
 | AECOM | Electrical Engineering Intern - Building Engineering (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137023585) | 2026-07-10 |
 | AECOM | Electrical Engineering Intern - Building Engineering (Nov 2026) | Perth, WA | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137014636) | 2026-07-10 |
@@ -657,7 +658,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | Bygg ekte løsninger. Med ekte innvirkning. Summer Internship for utviklere 💻 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Bygg-ekte-lsninger-Med-ekte-innvirkning-Summer-Internship-for-utviklere---_R00340352) | 2026-07-09 |
 | Accenture | Content & Market Research Intern (part-time for students) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Content---Market-Research-Intern--part-time-for-students-_R00337124) | 2026-07-09 |
 | Accor | Commercial Efficiency Apprentice - M/F/X | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000136556419) | 2026-07-09 |
-| Accor | Future of Search & Junior data analyst Apprentice | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000136554829) | 2026-07-09 |
 | Accor | Internship - Knowledge Management Connectivity (F/MX) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000136746255) | 2026-07-09 |
 | Accor | Partnership Assistant - Stage - H/F/X | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000136744339) | 2026-07-09 |
 | Agilent Technologies | Intern - Marketing Operations | US-De-Wilmington | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Marketing-Operations_4037959) | 2026-07-09 |
