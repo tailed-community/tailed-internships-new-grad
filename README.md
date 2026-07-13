@@ -510,6 +510,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Elekta | Business Analyst and PMO Intern | Stockholm | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Stockholm/Business-Analyst-and-PMO-Intern_R2026-1167) | 2026-07-13 |
 | Everfox | Product Engineering Intern | UK London | [Apply](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | 2026-07-13 |
 | Everfox | Software Engineering Intern | UK London | [Apply](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Intern-Product-Engineeer_JR500721) | 2026-07-13 |
+| Exowatt | AI Marketing Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/2f9e8254-401b-4f77-adcb-c4f01734c8fb) | 2026-07-13 |
+| Exowatt | Business Development Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/1e0d4de7-2917-45be-8166-6181bd32be2b) | 2026-07-13 |
+| Exowatt | Software Engineering Intern — Agent Platform (AI) | Austin, TX | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 2026-07-13 |
+| Exowatt | Software Engineering Intern — Inventory Automation & IoT/Robotics | Austin, TX | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 2026-07-13 |
+| Exowatt | Supply Chain & Manufacturing Intern — Facilities & EHS | Austin, TX | [Apply](https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16) | 2026-07-13 |
 | Ferrovial | HR Generalist Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/HR-Generalist-Internship_JR18256) | 2026-07-13 |
 | Ferrovial | Tax Advisory Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Tax-Advisory-Internship_JR18257) | 2026-07-13 |
 | Finastra | Technical Solutions Consultant Intern - CyberSecurity | Manila | [Apply](https://finastra.wd3.myworkdayjobs.com/FINC/job/Manila/Technical-Solutions-Consultant-Intern---CyberSecurity_REQ0626_0037494) | 2026-07-13 |
@@ -9173,7 +9178,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) | 2026-06-02 |
 | Papa John's | Co-Op | Hq_atlanta | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/Co-Op_R24_0000003518) | 2026-06-02 |
 | Papa John's | Co-Op | Hq_louisville | [Apply](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Louisville/Co-Op_R24_0000003445) | 2026-06-02 |
-| Parallel Wireless | Platform Integration Intern - North | Kinneret | [Apply](https://jobs.lever.co/parallelwireless/c2cb0c67-7687-4d4d-8243-bbc2e63f8588) | 2026-06-02 |
 | Parsons | Bridge Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IN-Indianapolis/Bridge-Engineering-Co-Op---Fall-2026_R177368-1) | 2026-06-02 |
 | Parsons | Civil Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MA-Boston/Civil-Engineering-Co-Op_R179491-1) | 2026-06-02 |
 | Parsons | Civil Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Civil-Engineering-Intern_R181314) | 2026-06-02 |
