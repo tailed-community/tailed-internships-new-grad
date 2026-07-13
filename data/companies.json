@@ -49,6 +49,13 @@
     "enabled": true
   },
   {
+    "company": "1X",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/1x",
+    "slug": "1x",
+    "enabled": true
+  },
+  {
     "company": "2nd Order Solutions",
     "source": "lever",
     "url": "https://jobs.lever.co/2os",
@@ -13486,6 +13493,26 @@
     ]
   },
   {
+    "company": "Datasite",
+    "source": "workday",
+    "url": "https://datasite.wd1.myworkdayjobs.com/datasite",
+    "tenant": "datasite",
+    "site": "datasite",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "DataVisor",
     "source": "workable",
     "url": "https://apply.workable.com/datavisor-jobs",
@@ -16589,6 +16616,26 @@
     ]
   },
   {
+    "company": "Everfox",
+    "source": "workday",
+    "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2",
+    "tenant": "evergreenix",
+    "site": "external-careers2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Everlaw",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/everlaw",
@@ -16765,6 +16812,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/exoduspoint",
     "slug": "exoduspoint",
+    "enabled": true
+  },
+  {
+    "company": "Exowatt",
+    "source": "lever",
+    "url": "https://jobs.lever.co/exowatt",
+    "slug": "exowatt",
     "enabled": true
   },
   {
@@ -19881,6 +19935,26 @@
     "enabled": true
   },
   {
+    "company": "GIA",
+    "source": "workday",
+    "url": "https://gia.wd1.myworkdayjobs.com/GIA",
+    "tenant": "gia",
+    "site": "GIA",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Giga AI",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/gigaml",
@@ -20568,6 +20642,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Great Gray",
+    "source": "lever",
+    "url": "https://jobs.lever.co/great-gray-group",
+    "slug": "great-gray-group",
+    "enabled": true
   },
   {
     "company": "Great Question",
@@ -23227,6 +23308,13 @@
     ]
   },
   {
+    "company": "Innodata",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/innodatainc",
+    "slug": "innodatainc",
+    "enabled": true
+  },
+  {
     "company": "insightsoftware",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/Insightsoftware",
@@ -24315,6 +24403,25 @@
       "new grad",
       "new graduate",
       "graduate"
+    ]
+  },
+  {
+    "company": "ITT",
+    "source": "icims",
+    "url": "https://careersenus-itt-inc.icims.com/jobs/search",
+    "host": "careersenus-itt-inc.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
     ]
   },
   {
@@ -32902,6 +33009,13 @@
     "enabled": true
   },
   {
+    "company": "Orennia",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/orennia",
+    "slug": "orennia",
+    "enabled": true
+  },
+  {
     "company": "Origami Risk",
     "source": "icims",
     "url": "https://careers-origamirisk.icims.com/jobs/search",
@@ -35485,6 +35599,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/pvminc",
     "slug": "pvminc",
+    "enabled": true
+  },
+  {
+    "company": "Pylon",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/pylon-labs",
+    "slug": "pylon-labs",
     "enabled": true
   },
   {
@@ -41379,6 +41500,26 @@
     ]
   },
   {
+    "company": "State Employees' Credit Union (SECU)",
+    "source": "workday",
+    "url": "https://ncsecu.wd1.myworkdayjobs.com/secu",
+    "tenant": "ncsecu",
+    "site": "secu",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "State Farm",
     "source": "icims",
     "url": "https://careers-statefarm.icims.com/jobs/search",
@@ -42910,6 +43051,26 @@
     "url": "https://jobs.lever.co/telesat",
     "slug": "telesat",
     "enabled": true
+  },
+  {
+    "company": "TelevisaUnivision",
+    "source": "workday",
+    "url": "https://univision.wd1.myworkdayjobs.com/en-US/External",
+    "tenant": "univision",
+    "site": "External",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
   },
   {
     "company": "Telligen",
