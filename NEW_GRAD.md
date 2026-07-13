@@ -80,7 +80,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Highmark Health | RN - Outpatient Medical Unit (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---Outpatient-Medical-Unit--NEW-GRAD--Jefferson_J281301) | 2026-07-10 |
 | Highmark Health | RN - PACU (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---PACU--NEW-GRAD--Jefferson_J281303) | 2026-07-10 |
 | Highmark Health | RN Operating Room (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN-Operating-Room--NEW-GRAD--Jefferson_J281299) | 2026-07-10 |
-| Hormel Foods | Entry Level Foodservice Sales Rep (Multiple Locations) | Austin, MN, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/34823) | 2026-07-10 |
 | Intertek | Entry-Level Construction Technician - Construction Materials Testing | Tampa, FL, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14615) | 2026-07-10 |
 | Jobs for Humanity | Entry Level Sales and Marketing Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000136904268) | 2026-07-10 |
 | Momentive | Entry Level Operator | US Ny Waterford | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Entry-Level-Operator_R9633) | 2026-07-10 |
@@ -96,7 +95,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000136873469) | 2026-07-10 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000136874239) | 2026-07-10 |
 | Weatherford | Field Engineer - NextGen Graduate Program Egypt | Egypt | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106782) | 2026-07-10 |
-| Weatherford | Field Engineer - NextGen Graduate Program Iraq | Iraq | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106788) | 2026-07-10 |
 | Weatherford | Field Engineer - NextGen Graduate Program Kuwait | Kuwait | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106790) | 2026-07-10 |
 | WSP | Entry Level Survey Technician | Columbus, OH, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90854) | 2026-07-10 |
 | WSP | On-call Entry Level Survey Technician | Columbus, OH, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90856) | 2026-07-10 |
@@ -312,7 +310,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Marvell - MarvellCareers2 | Application Engineer - Early Career | Santa Clara, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703-2) | 2026-06-30 |
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | United States-Virginia-Falls Church | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148) | 2026-06-30 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Grand Rapids, MI | Grand Rapids | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Grand-Rapids/Field-Service-Technician--Entry-Level----Grand-Rapids--MI_R000154306) | 2026-06-30 |
-| Securitas | Entry Level Security Officer | Ravenna, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172045) | 2026-06-30 |
 | Takeda | Entry-Level Phlebotomist | USA Wi Sheboygan | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---WI---Sheboygan/Entry-Level-Phlebotomist_R0183607-1) | 2026-06-30 |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Water Resources Designer | New York City, NY, United States | [Apply](https://careers-vhb.icims.com/jobs/6132/entry-level-water-resources-designer/job) | 2026-06-30 |
 | WeRide | New Grads 2026 - General Software Engineer (CN) | China | [Apply](https://jobs.lever.co/weride/475bf05a-29c7-4824-99f0-504ac4845415) | 2026-06-30 |
@@ -490,7 +487,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hadrian | Fullstack Software Engineer, New Grad | Torrance, United States | [Apply](https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3) | 2026-06-19 |
 | Highmark Health | RN E8 Med/Obs/Telemetry (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-E8-Med-Obs-Telemetry--West-Penn-Hospital_J281709-1) | 2026-06-19 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000132914969) | 2026-06-19 |
-| Weatherford | Field Engineer - NextGen Graduate Program | Thailand | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104983) | 2026-06-19 |
 | Capital One | Elevated X Capital One - Associate, Process Management New Grad 2027 | Toronto, ON | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Elevated-X-Capital-One---Associate--Process-Management-New-Grad-2027_R244877) | 2026-06-18 |
 | GE Healthcare | Field Service Engineer-Early Career Trainee | Remote | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/XMLNAME--Junior-Field-Service-Engineer-Early-Career-Trainee_R4042150-1) | 2026-06-18 |
 | HPE | Graduate Program - Strategy & Planning | Turkey | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Istanbul-Turkey/Graduate-Program---Strategy---Planning_1196356-1) | 2026-06-18 |
@@ -696,7 +692,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | RESPEC | Early Career Water Resources Engineer | Sarasota, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000102682055) | 2026-06-13 |
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) | 2026-06-13 |
 | Sandisk | System Product Engineer (New or Recent Graduate) | Milpitas, United States | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000131987189) | 2026-06-13 |
-| Savannah River National Laboratory | Entry-Level Electrical Engineer, Advanced Engineering | Aiken, SC, United States | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2130) | 2026-06-13 |
 | Securitas | Entry Level Security Officer | Grand Rapids, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170220) | 2026-06-13 |
 | Securitas | Entry Level Security Officer | West Grove, PA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/165152) | 2026-06-13 |
 | Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169231) | 2026-06-13 |
