@@ -621,6 +621,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Procter & Gamble (P&G) | Working Student - Human Resources (m/w/d) | Schwalbach Go & Tech Center | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/SCHWALBACH-GO--TECH-CENTER/Working-Student---Human-Resources--m-w-d-_R000155101) | 2026-07-13 |
 | Prologis | Internship Opportunity – Accounting (Accounts Payable) | Netherlands | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Amsterdam-Netherlands/Internship-Opportunity---Accounting--Accounts-Payable-_R6534-1) | 2026-07-13 |
 | Prysmian Cables & Systems | Intern | Emmen, NL | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Emmen-NL/Intern_R-34824) | 2026-07-13 |
+| Pylon | Software Engineer, Intern | California, United States | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) | 2026-07-13 |
 | RGA Reinsurance Company | Intern - Actuarial | Mumbai | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/India-Mumbai/Intern---Actuarial_J28195) | 2026-07-13 |
 | Roche | GCS Project Management Office Intern | Sant Cugat Del Vallès | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/GCS-Project-Management-Office-Intern_202607-118082-1) | 2026-07-13 |
 | Roche | Marketing Intern | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202607-117447) | 2026-07-13 |
@@ -3043,7 +3044,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Genesys | User Experience Design Intern | Galway (flexible) | [Apply](https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Galway-Flexible/User-Experience-Design-Intern_JR111614) | 2026-07-01 |
 | GHD | Environmental Engineering Co-op | Ottawa, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26364) | 2026-07-01 |
 | GlobalFoundries | Associate Engineering Intern, Tapeout Integration (Diploma) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--Tapeout-Integration--Diploma-_JR-2502737) | 2026-07-01 |
-| GOBankingRates | Application Security Fuzzing Intern | Czechia | [Apply](https://jobs.ashbyhq.com/gen-digital/5230f044-bf53-4ac1-abe8-89df61cfb4c1) | 2026-07-01 |
 | GOBankingRates | Data Engineer, Intern - MoneyLion | Malaysia | [Apply](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) | 2026-07-01 |
 | GOBankingRates | Data Scientist, Intern - MoneyLion | Malaysia | [Apply](https://jobs.ashbyhq.com/gen-digital/020a42a9-7c79-4e6c-958f-726069ff86f0) | 2026-07-01 |
 | GOBankingRates | Mobile Engineer, Intern - MoneyLion | Malaysia | [Apply](https://jobs.ashbyhq.com/gen-digital/f3817f1c-6832-4624-8fc1-fbf96e64721c) | 2026-07-01 |
@@ -5040,6 +5040,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Pharmacy Student | Edmonton, AB | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/17303-Stony-Plain-Rd-NW-Edmonton-AB/Pharmacy-Student_R2000675224) | 2026-06-17 |
 | LSEG - Careers | FTSE Summer Intern | Chn-Shanghai-Azia Centre 30 / F | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/CHN-Shanghai-Azia-Centre-30F/FTSE-Summer-Intern_R0120746-1) | 2026-06-17 |
 | Lydian | Materials Science & Engineering Co-op (JULY 2026) | Boston, MA, United States | [Apply](https://jobs.ashbyhq.com/lydian/ff701b48-15b2-48f0-b71d-3577e593c3da) | 2026-06-17 |
+| Mach Industries | Fall 2026 Engineering Internship | California, United States / San Luis Obispo, Canada | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) | 2026-06-17 |
 | Macy's | Macy's 2026 Summer Internship - Marketing MBA | New York, NY, United States | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80629) | 2026-06-17 |
 | Magna International | Intern - Infrared Imaging & Algorithms | California, United States | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) | 2026-06-17 |
 | Marathon Petroleum | Intern/Co-op - Accounting (Spring 2027) | Ohio / Colorado / Texas | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Accounting--Spring-2027-_00019957) | 2026-06-17 |
