@@ -377,6 +377,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Texas at Austin | Student Conference Associate | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Conference-Associate_R_00047283) | 2026-07-14 |
 | University of Texas at Austin | Student Occupancy Management Associate | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Occupancy-Management-Associate_R_00047326) | 2026-07-14 |
 | UNLV | Academic Advisor, UNLV Student Academic Success [R0152608] | Las Vegas | [Apply](https://nshe.wd1.myworkdayjobs.com/unlv-external/job/UNLV1-Main-Campus-Las-Vegas/Academic-Advisor--UNLV-Student-Academic-Success--R0152608-_R0152608) | 2026-07-14 |
+| WebFX | IT Support Internship | Harrisburg, PA | [Apply](https://jobs.lever.co/webfx/b4280af1-ce55-4cdd-ad9c-931eb630a627) | 2026-07-14 |
 | Western Governors University | Voice of Student Program Manager | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Voice-of-Student-Program-Manager_JR-025665) | 2026-07-14 |
 | ABB | Technical Intern | Vietnam | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hanoi-H-Ni-Vietnam/Technical-Intern_JR00041070) | 2026-07-13 |
 | Accenture | Accenture Internship Program - Jan to Jun 2027 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Accenture-Internship-Program---Jan-to-Jun-2027_R00342806) | 2026-07-13 |
@@ -3863,7 +3864,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | JINGDONG | JD Young Marketing Operations Internship | Nld-South Holland-Rotterdam | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/NLD-South-Holland-Rotterdam/JD-Young-Marketing-Operations-Internship_JR102988) | 2026-06-25 |
 | JM Family | Accounting Intern | Florida Deerfield Beach | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Accounting-Intern_JR104825) | 2026-06-25 |
 | Johnson & Johnson | Market Access, Strategic Team Lead, Early-Stage Assets | Toronto, ON, Canada | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Market-Access--Strategic-Team-Lead--Early-Stage-Assets_R-083625-1) | 2026-06-25 |
-| Kabam | Accounting Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/2252e64f-0436-4779-86a6-8dfde38a57f6) | 2026-06-25 |
 | Kabam | Community Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/314e12e8-2b9a-4999-89b9-22aab8669d5e) | 2026-06-25 |
 | Kabam | Content Marketing Co-Op | Vancouver | [Apply](https://jobs.lever.co/kabam/23c5879a-cf43-4ff8-951d-4c893bf9c456) | 2026-06-25 |
 | Kabam | Product Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/1b787210-e993-48fa-b875-80a251ea8801) | 2026-06-25 |
@@ -5562,6 +5562,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WVUMedicine | Student Rad Tech | Ruby Memorial Hospital (wvuh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/Student-Rad-Tech_JR26-37646) | 2026-06-17 |
 | XTX Markets | AI Research Internship - XTY Labs | New York | [Apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) | 2026-06-17 |
 | Zeiss | Working Student MATLAB Code & Repository Development (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-MATLAB-Code----Repository-Entwicklung--m-w-x-_JR_1049923-1) | 2026-06-17 |
+| Zoox | Part-Time Student Worker Software Engineer (6-month Contract) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b) | 2026-06-17 |
 | Accenture | Accenture Internship Program – Technology (May to Aug 2026) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Accenture-Internship-Program---Technology--May-to-Aug-2026-_R00297201) | 2026-06-16 |
 | Air Liquide | HR Intern | Taguig City | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Philippines-Taguig-City/HR-Intern_R10094462-1) | 2026-06-16 |
 | Airbus | Intern Project Control / Accounting | Amsterdam Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Amsterdam-Area/Intern-Project-Control---Accounting_JR10422297) | 2026-06-16 |
@@ -5873,7 +5874,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chubb | Actuarial Intern | Malaysia | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/32803) | 2026-06-13 |
 | Chubb | Intern, Service Desk | Malaysia | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/33362) | 2026-06-13 |
 | Chubb | Underwriting Intern | Malaysia | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/32890) | 2026-06-13 |
-| Cirque du Soleil | Régisseur - Luzia \| Stage Manager - Luzia | *en Tournée \| ON Tour | [Apply](https://jobs.lever.co/cirquedusoleil/9b7d9a9e-d25b-4656-83bf-b57bacb89044) | 2026-06-13 |
 | Citco | Citco Vilnius Internship Program Spring/Summer 2026 - Accounting Department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13366) | 2026-06-13 |
 | Codeage | Graphic Design/Illustrator Intern | Beverly Hills, United States | [Apply](https://jobs.smartrecruiters.com/Codeage/743999669081650) | 2026-06-13 |
 | Codeage | Web Developer Intern - WordPress and Woocommerce | Beverly Hills, United States | [Apply](https://jobs.smartrecruiters.com/Codeage/743999669081604) | 2026-06-13 |
@@ -8467,14 +8467,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 2026-06-02 |
 | Hermeus | GNC Engineering Intern (Controls) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 2026-06-02 |
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | 2026-06-02 |
-| Hermeus | Manufacturing Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) | 2026-06-02 |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | 2026-06-02 |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) | 2026-06-02 |
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) | 2026-06-02 |
-| Hermeus | Structures Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6) | 2026-06-02 |
 | Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) | 2026-06-02 |
 | Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | 2026-06-02 |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridgeshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | 2026-06-02 |
@@ -10115,7 +10113,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ZOLL Medical Corporation | Field Service Intern | Sg Central Warehouse | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/SG-Central-Warehouse/Intern_R4699) | 2026-06-02 |
 | ZOLL Medical Corporation | Stagiaire- Assistant(e) Compliance Officer | Voisins Le Bretonneux, France | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Voisins-le-Bretonneux-France/Stagiaire--Assistant-e--Compliance-Officer_R19256-1) | 2026-06-02 |
 | Zoox | Part-time Student Worker – Autonomous Driving & New Geofence Expansion | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663) | 2026-06-02 |
-| Zoox | PT Student Worker-AI Driven Trouble Shooting | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0bb2dd41-e6a9-41a5-bafc-8a438f0a7cca) | 2026-06-02 |
 | Zscaler | Detection Engineer- SkillBridge Intern | United States Remote | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) | 2026-06-02 |
 | Zscaler | Federal Security Operations - SkillBridge Intern | United States Remote | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5069684007) | 2026-06-02 |
 | Zscaler | Insider Risk Analyst - SkillBridge Intern | United States Remote | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5100618007) | 2026-06-02 |
@@ -10300,9 +10297,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Larian Studios | Gameplay Programmer Internship | Barcelona | [Apply](https://jobs.lever.co/larian/d546d9c3-ab0d-4c77-81d8-8b8388c158ff) | 2026-05-22 |
 | Larian Studios | Internship - Tools Programmer | Kuala Lumpur | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) | 2026-05-22 |
 | Larian Studios | Technical QA Tester Internship - Testeur QA technique stagiaire | QC | [Apply](https://jobs.lever.co/larian/840f47d9-ff56-46ca-bac9-f9287d433c14) | 2026-05-22 |
+| Magnet Forensics | HR Co-op (Fall 2026) | Waterloo | [Apply](https://jobs.lever.co/magnetforensics/cba8ccea-4e25-41af-b5e4-c6981d286c27) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) | 2026-05-22 |
-| Magnet Forensics | Software Developer Engineer in Test Co-op (Fall 2026) | Halifax, NS / Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809) | 2026-05-22 |
 | Unilever | Internship 26' - Internal Communications and Stakeholder Engagement (Hive) | Hive Wageningen | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hive-Wageningen/Internship-26----Internal-Communications-and-Stakeholder-Engagement--Hive-_R-1181939) | 2026-05-22 |
 | Veeva Systems | Implementation Consultant Intern | China Shanghai | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) | 2026-05-22 |
 | Veeva Systems | Intern Technical Consultant | China Shanghai | [Apply](https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0) | 2026-05-22 |
