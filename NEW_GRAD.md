@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) – Behavioral Medical Observation | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/New-Graduate-Registered-Nurse--RN----Behavioral-Medical-Observation_R253500) | 2026-07-14 |
+| AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137526639) | 2026-07-14 |
 | Anduril | 2026 Early Career Test & Evaluation Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007) | 2026-07-14 |
 | Anduril | Early Career Flight Test Engineer, Altius | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) | 2026-07-14 |
 | AutoNation | Entry Level Technician-AutoNation Chrysler Dodge Jeep Ram N. Fort Worth-$17 | Autonation Chrysler Dodge Jeep Ram N. Fort Worth | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth/Entry-Level-Technician-AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth--17_JR2026145382) | 2026-07-14 |
@@ -18,7 +19,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Surgical Medical Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Surgical-Medical-Unit_347585) | 2026-07-14 |
 | Conagra Brands | 1st Shift Entry Level Line Service | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Line-Service_Req-039175) | 2026-07-14 |
 | Conagra Brands | 1st Shift Entry Level Processor | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Processor_Req-039177) | 2026-07-14 |
+| Continental | New Graduate/Entry Level – Manufacturing & Engineering Development Program (eXplore Tires) | Sumter, SC, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000137535869) | 2026-07-14 |
 | DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY / San Francisco, Canada / Los Angeles, Canada / Seattle, WA / Sunnyvale, Canada | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) | 2026-07-14 |
+| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137537869) | 2026-07-14 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | Gilbert, AZ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14411/entry-level-geotechnical-engineer/job) | 2026-07-14 |
 | GE Vernova | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-2) | 2026-07-14 |
 | GE Vernova - vernova_externalsite | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-3) | 2026-07-14 |
@@ -44,6 +47,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sentara Health | Emergency Department Registered Nurse (RN) Cohort *New Grads Welcome* | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Emergency-Department-Registered-Nurse--RN--Cohort--New-Grads-Welcome-_JR-102925) | 2026-07-14 |
 | Sentara Health | Registered Nurse (New Grad) Emergency Department | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--New-Grad--Emergency-Department_JR-102927) | 2026-07-14 |
 | Sentara Health | Registered Nurse (RN) Oncology Unit - New Grads Welcome! (Days or Nights) | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--RN--Oncology-Unit---New-Grads-Welcome---Days-or-Nights-_JR-102953) | 2026-07-14 |
+| Société Générale de Surveillance (SGS) | Laboratory Technician – Entry Level – Agriculture (6-month contract) | Saskatoon, SK, Canada | [Apply](https://jobs.smartrecruiters.com/SGS/744000137547409) | 2026-07-14 |
 | SpaceX | Entry Level - Laser Production Technician (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8632059002?gh_jid=8632059002) | 2026-07-14 |
 | The Boeing Company | Hydro-Mechanical Systems Service Engineer (Entry-Level) | USA Seal Beach, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Hydro-Mechanical-Systems-Service-Engineer--Entry-Level-_JR2026518525-1) | 2026-07-14 |
 | The Boeing Company | Methods Process Analyst (Entry-Level or Associate) | USA Seattle, WA / USA Tukwila, WA | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Methods-Process-Analyst--Entry-Level-or-Associate-_JR2026517219-1) | 2026-07-14 |
@@ -230,7 +234,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CACI | Cybersecurity Engineer- Entry Level | High Point, NC, United States / Fort Bragg, NC, United States / Fort Huachuca, AZ, United States / International Germany | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/High-Point-NC-US/Cybersecurity-Engineer_328450) | 2026-07-06 |
 | Citi | Early Career, Campus Recruiter | Mumbai Maharashtra India | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Early-Career--Campus-Recruiter_26976075) | 2026-07-06 |
 | Jane Street | Cybersecurity Analyst: New Grad | New York, United States | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8613910002) | 2026-07-06 |
-| Jobs for Humanity | Office Junior (Entry-Level) | Canada Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000135971399) | 2026-07-06 |
 | Marsh | Account Executive  -  Open to Recent Graduate | Taipei Minquan East | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Taipei---Minquan-East/Account-Executive-----Valid-Life-Insurance-Broker-License-----Highly-Preferred-_R_350903) | 2026-07-06 |
 | NXP Semiconductors | <New Graduate Hiring> Pre-Assembly Process Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/Process-Engineer_R-10063958) | 2026-07-06 |
 | Procter & Gamble (P&G) | Entry Level Manufacturing Technician | Mehoopany Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MEHOOPANY-PLANT/Entry-Level-Manufacturing-Technician_R000154836) | 2026-07-06 |
@@ -681,7 +684,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | Engine Workshop Technician - Entry Level | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430808) | 2026-06-13 |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) | 2026-06-13 |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) | 2026-06-13 |
-| Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000130001176) | 2026-06-13 |
 | Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) | 2026-06-13 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000131639431) | 2026-06-13 |
 | Fiserv | Associate Android Systems Engineer (Entry-Level) | California | [Apply](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-Systems-Engineer---Core-Payments_R-10370875-1) | 2026-06-13 |
