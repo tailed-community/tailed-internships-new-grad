@@ -352,9 +352,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | Sales Intern - 广州 | Guangzhou | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Guangzhou/Sales-Intern---_R2861920) | 2026-07-14 |
 | Santander | HR Internship – Formazione, Selezione, Comunicazione Interna | Torino | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TORINO/HR-Internship---Formazione--Selezione--Comunicazione-Interna_Req1593605) | 2026-07-14 |
 | Schweitzer Engineering Laboratories | Account Administrator Intern | Florida Wesley Chapel | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Account-Administrator-Intern_2026-22238) | 2026-07-14 |
+| Serval | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) | 2026-07-14 |
 | Signify | Digital Communications & Community Management Intern | Amsterdam | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Digital-Communications---Community-Management-Intern_365655) | 2026-07-14 |
 | Signify | Philips Hue Marketing Intern (Benelux Consumer) | Eindhoven | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Philips-Hue-Marketing-Intern--Benelux-Consumer-_363582) | 2026-07-14 |
 | Signify | Talent Acquisition Intern | Warszawa | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Talent-Acquisition-Intern_365609) | 2026-07-14 |
+| Snowflake | AI-Powered BI Intern: Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb) | 2026-07-14 |
+| Solink | Software Engineer, COOP (Data Integrations) | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Staff | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Staff_R0014496) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Supervisor | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Supervisor_R0014497) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Sustainability Liaison Eco Rep | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Sustainability-Liaison-Eco-Rep_R0014462) | 2026-07-14 |
@@ -1607,7 +1610,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | OLG | Quality Control Analyst Student | Toronto, ON, Canada / Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Quality-Control-Analyst-Student_R26_00502) | 2026-07-09 |
 | OLG | Technology Operations (Service Desk) Student | Toronto, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Technology-Operations--Service-Desk--Student_R26_00505) | 2026-07-09 |
 | OLG | Technology Operations Engineering Student | Toronto, ON, Canada / Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Technology-Operations-Engineering-Student_R26_00451) | 2026-07-09 |
-| Ontic | Data Migration Analyst - Intern | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3) | 2026-07-09 |
 | Parsons | Landscape Architect Intern Qatar | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/QA---Doha/Landscape-Architect-Intern-Qatar_R182895) | 2026-07-09 |
 | Paystand | IT Support Intern | Mexico | [Apply](https://paystand.com/job-listing/?gh_jid=7793248003) | 2026-07-09 |
 | Pennsylvania State University | Federal Work Study - Student Office Assistant - Office of Entrepreneurship - Part Time | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Federal-Work-Study---Student-Office-Assistant---Office-of-Entrepreneurship---Part-Time_REQ_0000080062-1) | 2026-07-09 |
@@ -4052,8 +4054,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Service Technician - Union Grantville (Student Living) | San Diego, Canada | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Union-Grantville-San-Diego-CA/Service-Technician---Union-Grantville--Student-Living-_R0192535) | 2026-06-24 |
 | Greystar Worldwide | Service Technician- Nordheim Court (Student Living) | Seattle, WA | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Nordheim-Court-Seattle-WA/Service-Technician--Nordheim-Court--Student-Living-_R0192263) | 2026-06-24 |
 | Harris Computer | Stagiaire Legal / Intern Legal & admin | Montreal, QC / QC, Canada | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-Legal---Intern-Legal---admin_R0044653-3) | 2026-06-24 |
-| Heron Power | Intern, Electronics Design Engineer, Autumn 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb) | 2026-06-24 |
-| Heron Power | Intern, Electronics Design Engineer, Spring 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b) | 2026-06-24 |
+| Heron Power | Intern, Electronics Design Engineer, Fall 2026/Spring 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb) | 2026-06-24 |
 | Hewlett Packard (HP) | Business Analyst Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Analyst-Intern_UNI2668-2) | 2026-06-24 |
 | Hitachi | HVDC summer intern | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HVDC-summer-intern_R0135273) | 2026-06-24 |
 | Howard University | Student Research Assistant | Alain Locke Hall | [Apply](https://howard.wd1.myworkdayjobs.com/HU/job/Alain-Locke-Hall/Student-Research-Assistant_JR108205-1) | 2026-06-24 |
@@ -7161,10 +7162,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Medium Voltage Test Engineering | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0) | 2026-06-08 |
 | Heron Power | Intern, Power Electronics Engineer, Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/2289ac70-b237-4500-b429-76a725fdbb6a) | 2026-06-08 |
 | Heron Power | Intern, Power Magnetics Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/3960bba4-6f5b-438a-bb84-10e6e370d0b1) | 2026-06-08 |
-| Heron Power | Intern, System Integration & Test Software | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) | 2026-06-08 |
 | HPE | Middle East Marketing Intern | Saudi Arabia | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Riyadh-Riyadh-Saudi-Arabia/Middle-East-Marketing-Intern_1207421) | 2026-06-08 |
 | Jones Lang LaSalle (JLL) | Project and Development Services Intern | Vietnam | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Project-and-Development-Services-Intern_REQ513424) | 2026-06-08 |
-| Kognitos | Software Engineer Intern (AI-Native) — Summer 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5) | 2026-06-08 |
 | Lambda | AI Research Marketing Intern - Summer 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330) | 2026-06-08 |
 | Leland | AI Education Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) | 2026-06-08 |
 | Leland | Recruiting Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/b356ad9b-9cd2-4574-a538-1fcae8457217) | 2026-06-08 |
@@ -7210,7 +7209,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Roche | HR Intern - Early in Career Intern (APAC) | Petaling Jaya | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/HR-Intern---Early-in-Career-Intern--APAC-_202606-113836) | 2026-06-08 |
 | Roche | Internship Robotics - 12 months | Rotkreuz | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-Robotics---12-months_202605-113583-1) | 2026-06-08 |
 | Rocket Lab USA | Senior Stage Fluids Engineer I | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7680875003) | 2026-06-08 |
-| Root Access | Firmware / Embedded Engineer -- Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/root-access/ca7bc32d-5f10-49db-b569-2a7c94da484e) | 2026-06-08 |
 | RTX | Internship - Fall 2026 - Structural Analyst | CA-ON-Mississauga-P22m01 ~ 1801 Courtney Park Dr ~ P22m01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Structural-Analyst_01832031-1) | 2026-06-08 |
 | Sanofi | stage 3/6 mois – gestion systèmes documentaire | Aramon | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Aramon/stage-6-mois---assurance-qualit-systmes-documentation_R2859501) | 2026-06-08 |
 | Sanofi | Supply Chain Intern | City Of Singapore | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/City-of-Singapore/Supply-Chain-Intern_R2845286) | 2026-06-08 |
@@ -7228,11 +7226,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Simular | People & Operations Intern | Singapore / Palo Alto | [Apply](https://jobs.ashbyhq.com/Simular/cfa6bbf8-f9ab-4ff2-8473-b71ad8651d1f) | 2026-06-08 |
 | Simular | PhD Research Intern | California, United States / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009) | 2026-06-08 |
 | Simular | Software Engineer Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a) | 2026-06-08 |
-| Skydio | Middleware Software Engineer Intern - Fall 2026 | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) | 2026-06-08 |
 | Skydio | Software Engineer Intern Fall 2026/Winter 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | 2026-06-08 |
 | Snowflake | EMEA Communications Intern | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f) | 2026-06-08 |
 | Snowflake | Field Marketing Working Student - Munich | Germany / Remote | [Apply](https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe) | 2026-06-08 |
-| Snowflake | Research Intern (AI) - 2026 | Poland | [Apply](https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82) | 2026-06-08 |
 | Snowflake | Software Engineer Intern (AI/ML) - 2026 | Poland | [Apply](https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Berlin (2026) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Zurich (2026) | Switzerland | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | 2026-06-08 |
