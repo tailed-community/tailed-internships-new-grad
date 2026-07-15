@@ -1412,7 +1412,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ardian | Legal-Structuration Stage - Juillet 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170) | 2026-07-10 |
 | Ardian | Private Credit Stage - Janvier 2027 \| Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Private-Credit-Stage---Janvier-2027---Paris--H-F-_JR1002132) | 2026-07-10 |
 | Arizona State University | Management Intern - Marketing | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Marketing_JR123243) | 2026-07-10 |
-| Ascendis Pharma | Student Assistant - D365 Platform | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A643A8588C/) | 2026-07-10 |
+| Ascendis Pharma | Student Assistant - D365 Platform in Global IT | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A643A8588C/) | 2026-07-10 |
 | ASML | HR Tech & AI Innovation internship: Agent Development & Enablement | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/HR-Tech---AI-Innovation-internship--Agent-Development---Enablement_J-00346786) | 2026-07-10 |
 | ASML | Internship - EUV UIR Intern - Tainan | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Tainan-Taiwan/Internship---EUV-UIR-Intern---Tainan_J-00346851) | 2026-07-10 |
 | Axon - axontalentcommunity | Render ATL - Leadership Development Internship 2027 | Arizona, United States | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798167003) | 2026-07-10 |
