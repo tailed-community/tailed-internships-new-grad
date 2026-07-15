@@ -200,6 +200,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Client Advisor Intern | Camrose, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CAMROSE-Alberta-Canada/Client-Advisor-Intern_R-0000180504) | 2026-07-15 |
 | RBC | Client Advisor Intern | Quispamsis, NB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/QUISPAMSIS-New-Brunswick-Canada/Client-Advisor-Intern_R-0000180596-1) | 2026-07-15 |
 | RBC | Financial Intern | St. John's, NL, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Financial-Advisor_R-0000177300-1) | 2026-07-15 |
+| Rho | Video Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/rho/98d7c6a1-c5a6-4021-8b51-901f6b77c85b) | 2026-07-15 |
 | Roche | Business Operations Intern (Diabetes Care) | Budapest | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Business-Operations-Intern--Diabetes-Care-_202607-117973-1) | 2026-07-15 |
 | Roche | Intern - Marketing and Customer Experience | Central Singapore | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Central-Singapore/Intern---Marketing-and-Customer-Experience_202607-118147) | 2026-07-15 |
 | Roche | Internship Bioprocess Research (m/f/d) | Penzberg | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship-Bioprocess-Research--m-f-d-_202607-117938-1) | 2026-07-15 |
@@ -233,6 +234,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas A&M International University | Student Hourly Assistant (Recs- Intramural) | Laredo, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Student-Hourly-Assistant--Recs--Intramural-_R-095143) | 2026-07-15 |
 | Texas A&M University System | Interfraternity Council Advisor (Student Development Specialist II) | College Station, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Interfraternity-Council-Advisor--Student-Development-Specialist-II-_R-095049-2) | 2026-07-15 |
 | Thales | Trainee NetSec - (Internship September 2026) | Zaventem_exc | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Zaventem_EXC/Trainee-NetSec----Internship-September-2026-_R0334747) | 2026-07-15 |
+| The Exploration Company | Heat Exchanger Development Engineering Intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/fe3c5d62-6f13-4882-b664-bf5f2ce0ba0e) | 2026-07-15 |
 | The New School | Student Marketing Model - Student Assistant Specialist | A 66 West 12th Street | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/A---66-West-12th-Street/Student-Marketing-Model---Student-Assistant-Specialist_JR109086) | 2026-07-15 |
 | The Walt Disney Company | Creative Advertising Intern, Fall 2026 | Burbank, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Creative-Advertising-Intern--Fall-2026_10155523) | 2026-07-15 |
 | TJX | Sr. Talent Acquisition Specialist, Campus & Student Engagement | Mississauga | [Apply](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Sr-Talent-Acquisition-Specialist--Campus---Student-Engagement_REQ135605) | 2026-07-15 |
@@ -2491,7 +2493,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | MSX International | Junior Rental Advisor | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013931206) | 2026-07-06 |
 | Nidec | Co-Op Custom Design Marketing | North America / United States / Missouri / St. Louis Wpe, MO | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Co-Op-Custom-Design-Marketing_R0012409) | 2026-07-06 |
 | NOV | Internship: Service Engineer | Egypt | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42557) | 2026-07-06 |
-| NOX METALS | Software Engineering Intern | US, United States / Canada | [Apply](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f) | 2026-07-06 |
 | Palo Alto Networks | Business Operations Intern | Office Singapore Singapore | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Singapore---Singapore/Business-Operations-Intern_JR-016367) | 2026-07-06 |
 | Palo Alto Networks | EMEA Legal Intern | Office Netherlands Amsterdam The Valley | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Netherlands---Amsterdam---The-Valley/EMEA-Legal-Intern_JR-018462) | 2026-07-06 |
 | Palo Alto Networks | Intern - Corporate Sales | Office USA Tx | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---TX/Intern---Corporate-Sales_JR-011638) | 2026-07-06 |
@@ -2919,7 +2920,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi - Citi_Early_Careers_Events_Site | Unlock Your Future: Banking Analyst Internships in Japan - UK, Europe & MEA Session | London United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/Citi_Early_Careers_Events_Site/job/London--United-Kingdom/Unlock-Your-Future--Banking-Analyst-Internships-in-Japan---UK--Europe---MEA-Session_26974038) | 2026-07-02 |
 | Clera | B2C Marketing (part-time) Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/clera/5280779a-bcd0-499c-9c3b-41e5dc493092) | 2026-07-02 |
 | Clera | Early-Stage Startup Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/clera/29162a3c-3801-4a5d-89a4-a1fc93b8b860) | 2026-07-02 |
-| Clera | Founder's Associate Intern / Working Student – Enterprise Sales & Outbound | Germany | [Apply](https://jobs.ashbyhq.com/clera/1b97362a-e869-4999-9d16-2ac96701858d) | 2026-07-02 |
 | Clera | Founding Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767) | 2026-07-02 |
 | Clera | Operations Intern (Automation-First, Berlin) | Germany | [Apply](https://jobs.ashbyhq.com/clera/9017197d-46b6-4edd-9f0c-4c74058bd4de) | 2026-07-02 |
 | Clera | Operations Working Student (US AI Recruiting Marketplace) | Germany | [Apply](https://jobs.ashbyhq.com/clera/404383af-6bdd-437c-a98b-e4f2862630e8) | 2026-07-02 |
@@ -7236,16 +7236,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Snowflake | Software Engineer Intern (AI/ML) - 2026 | Poland | [Apply](https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Berlin (2026) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Zurich (2026) | Switzerland | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | 2026-06-08 |
-| Solink | Software Engineer, COOP | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/a9faf14b-6e54-4127-89b6-795011a025ef) | 2026-06-08 |
 | Super | Legal Intern | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/3295ced3-f64c-40fb-bd78-6ff35355c42b) | 2026-06-08 |
 | Super | Payments Engineering Intern (12-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c) | 2026-06-08 |
-| Super | Software Development Engineering Intern - Infrastructure (DevOps) -  12 Months | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/7d7eaa47-39d4-4677-aea9-f5d9f6c25ed8) | 2026-06-08 |
 | Super | Software Engineering Intern - Product (Full-Stack) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5) | 2026-06-08 |
 | Super | Travel Supply Analyst Intern (8-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2) | 2026-06-08 |
 | TENEX.AI | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) | 2026-06-08 |
 | Tenstorrent | CPU/AI Workload Analysis Intern | California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | 2026-06-08 |
 | Tessera Labs | Product Manager, Intern | California, United States / New York City Office / United States Remote | [Apply](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544) | 2026-06-08 |
-| Tessera Labs | Software Engineering Intern, Frontend | California, United States / Remote | [Apply](https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06) | 2026-06-08 |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567) | 2026-06-08 |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566) | 2026-06-08 |
 | The Exploration Company | Working Student- IT Operations | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) | 2026-06-08 |

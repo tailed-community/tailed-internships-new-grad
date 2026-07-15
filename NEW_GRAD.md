@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Abridge | Software Engineer - Early Career | California, United States / Nyc Office | [Apply](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | 2026-07-15 |
 | Accenture | Entry Level Technology - for MANILA Recruitment Hub applications only | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Entry-Level-Technology---for-MANILA-Recruitment-Hub-applications-only_R00343169) | 2026-07-15 |
 | AutoNation | Entry Level Technician | Autonation Chevrolet South Clearwater | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-South-Clearwater/Entry-Level-Technician_JR2026144728) | 2026-07-15 |
 | AutoNation | Entry Level Technician - Ford Torrance - Pay Starting At $20.00 | Autonation Ford Torrance | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Torrance/Entry-Level-Technician---Ford-Torrance---Pay-Starting-At--2000_JR2026143262) | 2026-07-15 |
