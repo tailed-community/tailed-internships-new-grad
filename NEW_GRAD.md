@@ -29,6 +29,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Grad RN Pediatric Resource Pool | Intermountain Health Primary Childrens Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/New-Grad-RN-Pediatric-Resource-Pool_R177702) | 2026-07-15 |
 | Jencap | Claims Assistant-Entry Level | Red Bank, NJ / Worcester, MA | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5102894007) | 2026-07-15 |
 | NXP Semiconductors | Entry-Level Data Scientist – Semiconductor Engineering & Automation | Kuala Lumpur | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Entry-Level-Data-Scientist---Semiconductor-Engineering---Automation_R-10064847) | 2026-07-15 |
+| Sargent & Lundy | Electrical Engineer 1 (Entry-Level) - Nuclear | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/25404/electrical-engineer-1-%28entry-level%29---nuclear/job) | 2026-07-15 |
 | Takeda | Entry Level Phlebotomist | USA Oh Findlay | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---OH---Findlay/Entry-Level-Phlebotomist_R0184773-1) | 2026-07-15 |
 | Takeda | Entry Level Phlebotomy | USA Nd Fargo | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---ND---Fargo/Entry-Level-Phlebotomy_R0184713-1) | 2026-07-15 |
 | The Boeing Company | Supply Chain Customer Support Specialist (Entry-Level) | USA Dallas, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Supply-Chain-Customer-Support-Specialist--Entry-Level-_JR2026519050-1) | 2026-07-15 |
@@ -212,7 +213,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Marvell | Test Engineer (Early Career) | Singapore | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Engineer_2602931) | 2026-07-08 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tampa, FL | Tampa | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tampa/Field-Service-Technician--Entry-Level----Tampa--FL_R000154604) | 2026-07-08 |
 | Sargent & Lundy | Transmission & Distribution Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/25324/transmission-%26-distribution-engineer-1-%28entry-level%29---grid/job) | 2026-07-08 |
-| Sentinel Technologies | Entry Level Field Technician | Not Specified | [Apply](https://careers-sentinel.icims.com/jobs/5069/entry-level-field-technician/job) | 2026-07-08 |
 | SpaceX | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | [Apply](https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002) | 2026-07-08 |
 | Stantec | Entry Level Geologist/GIT | Lombard, IL, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006623) | 2026-07-08 |
 | Takeda | Entry Level Phlebotomist | USA Mi Walker | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MI---Walker/Entry-Level-Phlebotomist_R0184189-1) | 2026-07-08 |
@@ -495,7 +495,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avnet | EMEA Engineering Graduate Program (m/f/d) | Hungary | [Apply](https://avnet.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/EMEA-Engineering-Graduate-Program--m-f-d-_JR-021999) | 2026-06-22 |
 | Draper | Entry Level RF Engineer | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626) | 2026-06-22 |
 | GE Vernova - vernova_externalsite | Part Sales Specialist - Early Career Trainee | Riyadh Sa 11 / Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh-SA-11/Part-Sales-Specialist---Early-Career-Trainee_R5042833-2) | 2026-06-22 |
-| General Dynamics Mission Systems | Entry Level Software Engineer | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/73193/entry-level-software-engineer/job) | 2026-06-22 |
 | Intertek | Caleb Brett - Entry-Level Petroleum Inspector | St Louis, MO, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15100) | 2026-06-22 |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Toa Baja, PR, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15101) | 2026-06-22 |
 | MaineGeneral Health | 1 West - Med/Surg Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-1-West---Med-Surg-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R16537) | 2026-06-22 |
@@ -839,7 +838,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | United Wholesale Mortgage | Entry Level Mortgage Call Centers | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15306/entry-level-mortgage-call-centers/job) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Mortgage Collections | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15377/entry-level-mortgage-collections/job) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Mortgage Lock Desk | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15486/entry-level-mortgage-lock-desk/job) | 2026-06-10 |
-| Vanasse Hangen Brustlin (VHB) | Entry Level Environmental Scientist | Watertown, MA, United States | [Apply](https://careers-vhb.icims.com/jobs/6079/entry-level-environmental-scientist/job) | 2026-06-10 |
 | Wade Trim | Entry Level Planner - #2970 | Flint, MI / Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17) | 2026-06-10 |
 | 8VC | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d) | 2026-06-08 |
 | Amentum | Entry Level RF Engineer | US-Va-Norfolk | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070) | 2026-06-08 |
