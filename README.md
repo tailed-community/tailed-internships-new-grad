@@ -32,6 +32,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Student practicant - determinat 2 luni | Brasov (30 Hermann) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Brasov-30-Hermann/Student-practicant---determinat-2-luni_JR10423094) | 2026-07-15 |
 | ALFA LAVAL | Internship- ED Partner Sales | Johannesburg | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Johannesburg/Internship--ED-Partner-Sales_JR0046684) | 2026-07-15 |
 | Arizona State University - ASUEP | Student Assistant, Data Integrity | Asu Enterprise Partners Outreach Hub | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Assistant--Data-Integrity_R1447) | 2026-07-15 |
+| Avertium | IT Intern | Mexico | [Apply](https://jobs.lever.co/avertium/eef0c9f9-827e-46d7-b532-e14b5e3ac693) | 2026-07-15 |
 | Baxter International | Connected Monitoring Co-Op | Skaneateles, NY | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Connected-Monitoring-Co-Op_JR-205605-1) | 2026-07-15 |
 | Becton Dickinson | R&D Co-op - Fall 2026 | USA Ga Covington Bmd | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/R-D-Co-op---Fall-2026_R-550099) | 2026-07-15 |
 | Becton Dickinson | R&D Co-op - Fall 2026, returning | USA Ga Covington Bmd | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/R-D-Co-op---Fall-2026--returning_R-550096) | 2026-07-15 |
@@ -57,6 +58,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cincinnati Children’s Hospital and Medical Center | Student II - AI/ML Governance | Remote | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---AI-ML-Governance_JR223360) | 2026-07-15 |
 | Cincinnati Children’s Hospital and Medical Center | Student II - Biomedical Equipment Technician | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Student-II---Biomedical-Equipment-Technician_JR223353) | 2026-07-15 |
 | Cincinnati Children’s Hospital and Medical Center | Student II - Software Engineering | Remote | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223359) | 2026-07-15 |
+| Cirrus Logic | Fall 2026 Co-Op - Analog Design Engineer (NC) | North Carolina | [Apply](https://jobs.eu.lever.co/cirrus/8ad92ca2-1f67-4a86-a5cf-12b7b2981960) | 2026-07-15 |
+| Cirrus Logic | Fall 2026 Co-Op - Digital Design Engineer | North Carolina | [Apply](https://jobs.eu.lever.co/cirrus/285c6096-5bc0-438e-abc6-b9768891167d) | 2026-07-15 |
+| Cirrus Logic | Fall 2026 Co-Op Embedded Software Test Engineer (MG) | Texas | [Apply](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | 2026-07-15 |
 | Citi - Citi_Early_Careers_Events_Site | Unlock Your Future: Banking Analyst Internships in Japan | New York New York United States | [Apply](https://citi.wd5.myworkdayjobs.com/Citi_Early_Careers_Events_Site/job/New-York-New-York-United-States/Unlock-Your-Future--Banking-Analyst-Internships-in-Japan_26975998) | 2026-07-15 |
 | City of Austin | Austin Aviation, Post Graduate Intern, Emergency Management (Hire in Process/please do not apply) By Invitation Only (Fill Date: 08/24/2026) | Aus Administration Building (admin) | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Administration-Building-Admin/Austin-Aviation--Post-Graduate-Intern--Emergency-Management--Hire-in-Process-please-do-not-apply--By-Invitation-Only--Fill-Date--08-24-2026-_JR104459) | 2026-07-15 |
 | Clarios | Intern - Human Resources | San Pedro Garza Garcia | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Human-Resources_WD49307) | 2026-07-15 |
@@ -77,6 +81,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Brand Marketing Intern | Italy | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Milan-Italy/Brand-Marketing-Intern_10155183) | 2026-07-15 |
 | Disney | PR, Publicity & Communication Intern | Italy | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Milan-Italy/PR--Publicity---Communication-Intern_10142633) | 2026-07-15 |
 | Evonik | Intern (m/f/div) Sustainability & Life Cycle Management | Hanau / Marl | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2) | 2026-07-15 |
+| Exowatt | Supply Chain & Manufacturing Intern - Contract Manufacturing Vendor | Austin, TX | [Apply](https://jobs.lever.co/exowatt/06c17743-04c7-48ad-94b0-85b6116bc15f) | 2026-07-15 |
+| Exowatt | Supply Chain & Manufacturing Intern - Manufacturing | Austin, TX | [Apply](https://jobs.lever.co/exowatt/030247a1-1067-4a59-9018-372962710652) | 2026-07-15 |
 | Flextronics International | Purchasing Intern | Guadalajara | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Purchasing-Intern_WD222685) | 2026-07-15 |
 | Flextronics International | SCM Intern -- Data analysis-1 | Shanghai | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/China-Shanghai/SCM-Intern----Data-analysis-1_WD222966-1) | 2026-07-15 |
 | Flowserve | CoOp/Intern Operations | Michigan US | [Apply](https://flowserve.wd1.myworkdayjobs.com/applied/job/Kalamazoo-Michigan-US/CoOp-Intern-Operations_R-20156) | 2026-07-15 |
@@ -157,6 +163,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | MKS Instruments | C++ Student m/f/d | Belarus Minsk | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Belarus-Minsk/C---Student-m-f-d_R20785) | 2026-07-15 |
 | Moog | Intern, Supply Chain | Buffalo, NY | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Supply-Chain_R-26-18675) | 2026-07-15 |
 | National Laboratory of the Rockies | Graduate (Year-Round) Intern - Transportation Systems Analysis | Golden, CO | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) | 2026-07-15 |
+| NextGen Federal Systems | Data Science & Machine Learning Intern | Remote | [Apply](https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6) | 2026-07-15 |
+| NextGen Federal Systems | Software Engineering Intern | Remote | [Apply](https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920) | 2026-07-15 |
 | NXP Semiconductors | 2026 Intern - Real Estate Intern | Beijing | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Beijing/XMLNAME-2027-Intern---Real-Estate-Intern_R-10065017) | 2026-07-15 |
 | NXP Semiconductors | Intern (f/m/d) Embedded Software & Automotive Networking | Munich / Sindelfingen / Hamburg | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Embedded-Software---Automotive-Networking_R-10065362) | 2026-07-15 |
 | NXP Semiconductors | Semiconductor Package Competitive Analysis Intern | Kuala Lumpur | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Semiconductor-Package-Competitive-Analysis-Intern_R-10064413) | 2026-07-15 |
@@ -229,8 +237,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Texas at Austin | Student Communications Assistant (Open to Non-Work Study and Work Study) | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Student-Communications-Assistant--Open-to-Non-Work-Study-and-Work-Study-_R_00047332) | 2026-07-15 |
 | Valeo | Intern - System | Chennai | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---System_REQ2026076173) | 2026-07-15 |
 | Vishay Intertechnology | Working Student (m/f/d) for Finance / Accounting / Tax | Selb, DE | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Selb-DE/Working-Student--m-f-d--for-Finance---Accounting---Tax_JR-18637) | 2026-07-15 |
+| Ware Malcomb | Intern, Architecture (Fall) | Ottawa, ON | [Apply](https://jobs.lever.co/waremalcomb/f2969810-e4ff-4098-8790-4d42c2ada0cc) | 2026-07-15 |
 | Wash U | Accountant II (Hybrid) - Controller's Office, Student Accounting | Missouri | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-West-Campus-Clayton-Missouri/Accountant-II--Hybrid----Controller-s-Office--Student-Accounting_JR95695-1) | 2026-07-15 |
 | Welocalize | AI Machine Learning Engineering Intern | Thessaloniki | [Apply](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Thessaloniki/AI-Machine-Learning-Engineering-Intern_R0007804) | 2026-07-15 |
+| Xsolla | Xsolla School – Student Application | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/86121d23-ed3b-48fd-a6f2-1e246ea57ea1) | 2026-07-15 |
 | Zeiss | Quality Engineering Intern | Cambridge / GB | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/CambridgeGB/Quality-Engineering-Intern_JR_1051297-1) | 2026-07-15 |
 | ABB | Internship (m/f/d) - Mechanical System Design & Analysis | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/Internship--m-f-d----Mechanical-System-Design---Analysis_JR00040358) | 2026-07-14 |
 | ABB | Internship: product development | Spain | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Oiartzun-Guipuzcoa-Spain/Internship--product-development_JR00041710) | 2026-07-14 |
@@ -942,9 +952,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Everfox | Software Engineering Intern | UK London | [Apply](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Intern-Product-Engineeer_JR500721) | 2026-07-13 |
 | Exowatt | AI Marketing Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/2f9e8254-401b-4f77-adcb-c4f01734c8fb) | 2026-07-13 |
 | Exowatt | Business Development Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/1e0d4de7-2917-45be-8166-6181bd32be2b) | 2026-07-13 |
-| Exowatt | Software Engineering Intern — Agent Platform (AI) | Austin, TX | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 2026-07-13 |
-| Exowatt | Software Engineering Intern — Inventory Automation & IoT/Robotics | Austin, TX | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 2026-07-13 |
-| Exowatt | Supply Chain & Manufacturing Intern — Facilities & EHS | Austin, TX | [Apply](https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16) | 2026-07-13 |
+| Exowatt | Software Engineering Intern  - Inventory Automation & IoT/Robotics | Austin, TX | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 2026-07-13 |
+| Exowatt | Software Engineering Intern - Agent Platform (AI) | Miami, FL | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 2026-07-13 |
+| Exowatt | Supply Chain & Manufacturing Intern - Facilities & EHS | Austin, TX | [Apply](https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16) | 2026-07-13 |
 | Experian | Consumer Service Agent –  Minijob / working student (10-20 hrs /week) | Germany | [Apply](https://jobs.smartrecruiters.com/Experian/744000137430579) | 2026-07-13 |
 | Ferrovial | HR Generalist Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/HR-Generalist-Internship_JR18256) | 2026-07-13 |
 | Ferrovial | Tax Advisory Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Tax-Advisory-Internship_JR18257) | 2026-07-13 |
@@ -3214,7 +3224,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Advocate Health Care | Pearl Innovation District Intern | Charlotte | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---915-Pearl-Park-Way/Pearl-Innovation-District-Intern_R247322) | 2026-07-01 |
 | Airbus | #Discover II 2026-2027 Supply Chain Quality Internship | Getafe Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-II-2026-2027-Supply-Chain-Quality-Internship_JR10409378) | 2026-07-01 |
 | Airbus | Internship Radar Remote Sensing and Geo Information (d/f/m) (Open) | Immenstaad Am Bodensee | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-Radar-Remote-Sensing-and-Geo-Information--d-f-m---Open-_JR10424555) | 2026-07-01 |
-| Aircall | Regional Marketing Intern, DACH - Paris | Paris Office | [Apply](https://jobs.lever.co/aircall/6737595c-eea0-4e64-b619-0894d532bead) | 2026-07-01 |
+| Aircall | Regional Marketing Intern, DACH Market | Paris Office | [Apply](https://jobs.lever.co/aircall/6737595c-eea0-4e64-b619-0894d532bead) | 2026-07-01 |
 | Alcon | Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Kontaktlinsenproduktion (Digitalisierung und Automatisierung interner Prozesse) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Kontaktlinsenproduktion--Digitalisierung-und-Automatisierung-interner-Prozesse-_R-2026-48144) | 2026-07-01 |
 | Alice L. Walton School of Medicine | Internship Program & Engagement Manager | Bentonville, AR | [Apply](https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/Internship-Program---Engagement-Manager_JR2384) | 2026-07-01 |
 | Altar'd State | Fall 2026 AS Home Merchandising and Marketing Internship | Knoxville, TN | [Apply](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Fall-2026-AS-Home-Merchandising-and-Marketing-Internship_SOSJ11866) | 2026-07-01 |
@@ -3986,7 +3996,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | JM Family | Accounting Intern | Florida Deerfield Beach | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Accounting-Intern_JR104825) | 2026-06-25 |
 | Kabam | Community Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/314e12e8-2b9a-4999-89b9-22aab8669d5e) | 2026-06-25 |
 | Kabam | Content Marketing Co-Op | Vancouver | [Apply](https://jobs.lever.co/kabam/23c5879a-cf43-4ff8-951d-4c893bf9c456) | 2026-06-25 |
-| Kabam | Product Marketing Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/1b787210-e993-48fa-b875-80a251ea8801) | 2026-06-25 |
 | Liberty University | Student Engagement Specialist | Lynchburg, VA | [Apply](https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Lynchburg-VA/Student-Engagement-Specialist_R0011618) | 2026-06-25 |
 | Loblaw Companies | Pharmacy Student | Charlottetown, PE | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/680-University-Ave-Charlottetown-PE/Pharmacy-Student_R2000674030) | 2026-06-25 |
 | Loblaw Companies | Pharmacy Student Part Time Day | Guelph, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1045-Paisley-Rd-Guelph-ON/Pharmacy-Student-Part-Time-Day_R2000677287) | 2026-06-25 |
@@ -4491,7 +4500,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ABB | IS Functional Analyst Intern | Panama | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Arraijan-Panam-Oeste-Panama/IS-Functional-Analyst-Intern_JR00036563) | 2026-06-20 |
 | ACI Worldwide | Intern Software Engineering | Norcross, GA, United States | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500) | 2026-06-20 |
 | Aerospike | Finance Intern | Mountain View | [Apply](https://job-boards.greenhouse.io/aerospike/jobs/8601387002) | 2026-06-20 |
-| Aircall | Sales intern - UKI market | London Office / Paris Office | [Apply](https://jobs.lever.co/aircall/f1d2fb78-a40b-4a33-ab8f-75e573ba9749) | 2026-06-20 |
+| Aircall | Sales Intern - UKI Market | London Office / Paris Office | [Apply](https://jobs.lever.co/aircall/f1d2fb78-a40b-4a33-ab8f-75e573ba9749) | 2026-06-20 |
 | American Heart Association | Intern, CPR Awareness & Project Management-Remote | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17404/intern%2c-cpr-awareness-%26-project-management-remote/job) | 2026-06-20 |
 | Arizona State University | Assistant Director of Student Services | West | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-West/Assistant-Director-of-Student-Services_JR122585-1) | 2026-06-20 |
 | Berkshire Hathaway Energy | Release Management Intern | Sioux City, IA, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005268) | 2026-06-20 |
@@ -4748,7 +4757,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Talent Management & Employee Experience - Intern | Milano | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Italy-Milano/Talent-Management---Employee-Experience---Intern_R10094468) | 2026-06-17 |
 | Airbus | Master Student AI Powered Compliance Assistant  (d/f/m) | Immenstaad Am Bodensee | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Master-Student-AI-Powered-Compliance-Assistant---d-f-m-_JR10413345) | 2026-06-17 |
 | Aircall | GTM Enablement Intern | Paris Office | [Apply](https://jobs.lever.co/aircall/daecac18-ae6c-45ea-9e0c-d307d18f1a14) | 2026-06-17 |
-| Aircall | Regional Marketing Intern (12 months) | San Francisco Office | [Apply](https://jobs.lever.co/aircall/0fbc9b05-520b-4cbb-a276-5a9a75e8f3bf) | 2026-06-17 |
+| Aircall | Regional Marketing Intern - NA Market | San Francisco Office | [Apply](https://jobs.lever.co/aircall/0fbc9b05-520b-4cbb-a276-5a9a75e8f3bf) | 2026-06-17 |
 | Aircall | Regional Marketing Intern, LATAM (12 months) | San Francisco Office | [Apply](https://jobs.lever.co/aircall/0e52ec00-a327-49de-9378-6b8487229f89) | 2026-06-17 |
 | Aircall | Sales Intern - French market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/131dcb57-0ba9-45fe-b5a4-e88e118bb06d) | 2026-06-17 |
 | Aircall | Sales Intern - Iberia market - 6 months | Paris Office | [Apply](https://jobs.lever.co/aircall/3a88fe56-9a33-476d-89de-76e4faa38cfc) | 2026-06-17 |
