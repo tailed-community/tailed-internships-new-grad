@@ -13,6 +13,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cenovus Energy | New Grad, Engineer-in-Training, June 2027 (Lloydminster) | CA-SK-Lloydminster / CA-AB-Lloydminster | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-SK-Lloydminster/New-Grad--Engineer-in-Training--June-2027--Lloydminster-_R-410823) | 2026-07-16 |
 | Cleveland Clinic | New Grad RN Resident - Med Surg | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/New-Grad-RN-Resident---Med-Surg_347542) | 2026-07-16 |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship | Pa Philadelphia | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship_R0976684) | 2026-07-16 |
+| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137947759) | 2026-07-16 |
+| Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137919754) | 2026-07-16 |
+| Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000138032950) | 2026-07-16 |
 | GE Vernova | Entry Level Steam Turbine Product Definition Engineer | Queretaro | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Queretaro/Entry-Level-Steam-Turbine-Product-Definition-Engineer_R5047528-1) | 2026-07-16 |
 | GE Vernova | GE Vernova Early Career Project Engineer | Greenville | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Early-Career-Project-Engineer_R5047315-1) | 2026-07-16 |
 | GE Vernova - vernova_externalsite | Entry Level Steam Turbine Product Definition Engineer | Queretaro | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Queretaro/Entry-Level-Steam-Turbine-Product-Definition-Engineer_R5047528-2) | 2026-07-16 |
@@ -174,7 +177,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship | Ny Brooklyn | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Brooklyn/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship_R0972564) | 2026-07-11 |
 | Edwards Lifesciences | 1st Shift Entry Level Assembler $18.50 | USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Utah--Salt-Lake-City/XMLNAME-1st-Shift-Entry-Level-Assembler--1850_Req-49371) | 2026-07-11 |
 | Edwards Lifesciences | Second Shift Entry Level Assembler $20+ | USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Utah--Salt-Lake-City/Second-Shift-Entry-Level-Assembler--1850_Req-49369) | 2026-07-11 |
-| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137212260) | 2026-07-11 |
 | Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137212229) | 2026-07-11 |
 | Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137207358) | 2026-07-11 |
 | Eurofins | Entry-Level Sample Management Lab Technician (2nd Shift, Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137211229) | 2026-07-11 |
@@ -202,7 +204,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Caterpillar | Production Planner - Caterpillar Machine Equipment Processing Center (EPC), Zeebrugge (College Graduate program) | East Flanders | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Zeebrugge-East-Flanders/Production-Planner---Caterpillar-Machine-Equipment-Processing-Center--EPC---Zeebrugge--College-Graduate-program-_R0000381728) | 2026-07-10 |
 | Ciena | AI-Enabled Software Test Engineer - New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842) | 2026-07-10 |
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Internal-Medicine-Unit_332310) | 2026-07-10 |
-| Eurofins | QC Reviewer - Entry Level | Lenexa, KS, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000136876869) | 2026-07-10 |
 | Highmark Health | RN - Ambulatory Surgery/GI Lab (NEW GRAD) Canonsburg | Canonsburg Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Canonsburg-PA-15317-100-Medical-Blvd/RN---Ambulatory-Surgery-GI-Lab--NEW-GRAD--Canonsburg_J282982) | 2026-07-10 |
 | Highmark Health | RN - GI Lab (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---GI-Lab--NEW-GRAD--Jefferson_J281305) | 2026-07-10 |
 | Highmark Health | RN - Outpatient Medical Unit (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---Outpatient-Medical-Unit--NEW-GRAD--Jefferson_J281301) | 2026-07-10 |
@@ -254,7 +255,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | Early Career Program – Future Sales Professional (m/w/d) | Germany | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/151868) | 2026-07-08 |
 | Intermountain Healthcare | New Graduate Radiology Technologist | Platte Valley Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Platte-Valley-Hospital/New-Graduate-Radiology-Technologist_R176997) | 2026-07-08 |
 | Intermountain Healthcare | Resource Pool New Grad RNs | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Resource-Pool-New-Grad-RNs_R172988) | 2026-07-08 |
-| Jobs for Humanity | Entry Level Sales Assistant | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000136439569) | 2026-07-08 |
 | Marvell | Test Engineer (Early Career) | Singapore | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Test-Engineer_2602931) | 2026-07-08 |
 | Sargent & Lundy | Transmission & Distribution Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/25324/transmission-%26-distribution-engineer-1-%28entry-level%29---grid/job) | 2026-07-08 |
 | SpaceX | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | [Apply](https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002) | 2026-07-08 |
@@ -700,7 +700,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) | 2026-06-13 |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) | 2026-06-13 |
 | Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) | 2026-06-13 |
-| Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000131639431) | 2026-06-13 |
 | Fortinet | New Grad 2026 (Canada) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817) | 2026-06-13 |
 | Fortinet | New Grads 2026 (US) | Sunnyvale, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 2026-06-13 |
 | GHD | Entry-Level Environmental Technician | Borger, TX, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26268) | 2026-06-13 |
