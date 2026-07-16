@@ -41,6 +41,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Blue Cross and Blue Shield of North Carolina | 2026 SkillBridge Intern *Open to Active Duty US Military Only*  (US Remote) | Remote | [Apply](https://bcbsnc.wd5.myworkdayjobs.com/bcbsnc/job/Remote/XMLNAME-2026-SkillBridge-Intern--Open-to-Active-Duty-US-Military-Only----US-Remote-_RQ0017856) | 2026-07-16 |
 | BlueScope | Student Internship finance | Nle-Apodaca | [Apply](https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/NLE-Apodaca/Student-Internship-finance_REQ-1225) | 2026-07-16 |
 | BlueScope | Student Internship production | Nle-Apodaca | [Apply](https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/NLE-Apodaca/Student-Internship-production_REQ-2965) | 2026-07-16 |
+| BPM LLP | Assurance Intern (January 2027) | San Francisco, Canada / San Jose, Canada / Santa Rosa, Canada / Long Beach City, Canada / Sacramento, Canada | [Apply](https://jobs.lever.co/bpmcpa/c46ea6a9-6899-4b32-961e-3e51b83b94f5) | 2026-07-16 |
 | Brock University | Student Information & Service Advisor | Main Campus | [Apply](https://brocku.wd3.myworkdayjobs.com/brocku_careers/job/St-Catharines-Main-Campus/Student-Information---Service-Advisor_JR-1024888) | 2026-07-16 |
 | CAE | C-MAD-100 Test Software Developer Intern | Montreal (st. Laurent) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/XMLNAME----C-MAD-100-Test-Software-Developer-Intern_122512) | 2026-07-16 |
 | Cardinal Health | PRN Pharmacy Intern | Tn-Oak Ridge-Methodist Medctr | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-Oak-Ridge-Methodist-MedCtr/PRN-Pharmacy-Intern_20183967) | 2026-07-16 |
@@ -74,6 +75,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Intern | Guangzhou | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Guangzhou/Intern_R1123570-1) | 2026-07-16 |
 | Dentsu | STAGE - Assistant Account Manager H/F | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Account-Manager-H-F_R1125680) | 2026-07-16 |
 | Disney | Creative Advertising Intern, Fall 2026 | Burbank, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Creative-Advertising-Intern--Fall-2026_10155523-1) | 2026-07-16 |
+| Ekimetrics | Stagiaire UX/UI Designer (H/F/N) | Paris | [Apply](https://jobs.lever.co/ekimetrics/0ce9394d-8230-4d78-9899-4b9f5812539a) | 2026-07-16 |
+| Equativ | AI Engineer Intern, GenAI Internal Automation (GAIA) | Paris | [Apply](https://jobs.lever.co/equativ/43f7b6c8-476b-4226-bbec-1e1b3dfb35b2) | 2026-07-16 |
 | Equinix | Data Center Customer Operations Intern | Frankfurt | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Frankfurt/Data-Center-Customer-Operations-Intern_JR-162209) | 2026-07-16 |
 | Fermilab | Summer Student | Batavia | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Summer-Student_R_009679) | 2026-07-16 |
 | Franklin Templeton - invitation-only | Intern | Australia | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Melbourne-Victoria-Australia/Intern_868827) | 2026-07-16 |
@@ -8223,7 +8226,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Henry Schein | 销售助理-intern | Beijing China | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Beijing---China/-intern_R132589) | 2026-06-02 |
 | Hermeus | Avionics Electrical Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/3cee58bc-55ef-4230-acf2-9a2e2851cf43) | 2026-06-02 |
 | Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 2026-06-02 |
-| Hermeus | GNC Engineering Intern (Controls) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07) | 2026-06-02 |
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | 2026-06-02 |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | 2026-06-02 |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) | 2026-06-02 |
