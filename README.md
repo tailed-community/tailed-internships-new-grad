@@ -28,6 +28,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | Intern | Colombia Bogota | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/Intern_31156379) | 2026-07-16 |
 | Abbott | Internship Business Support | Ireland Longford | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Longford/Internship-Business-Support_31156445) | 2026-07-16 |
 | Accenture | Práctica Infraestructura (Linux) -ChangeMakers Internship Program - Ing Informática | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Infraestructura--Linux---ChangeMakers-Internship-Program---Ing-Informtica_R00343878) | 2026-07-16 |
+| AcreTrader | Accounting Intern | Fayetteville, AR | [Apply](https://ats.rippling.com/acretrader-jobs/jobs/05f7090a-32a3-4103-9fb9-7ce7a20f9b60) | 2026-07-16 |
 | AECOM | Digital Technology Specialist Intern - AECOM Hunt | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137981679) | 2026-07-16 |
 | Airbus | Flight Test Support Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Flight-Test-Support-Intern_JR10429875) | 2026-07-16 |
 | Airbus | Intern (d/f/m) for Additive Manufacturing (AM) Design of fuel components | Bremen Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Intern--d-f-m--for-Additive-Manufacturing--AM--Design-of-fuel-components_JR10426102) | 2026-07-16 |
