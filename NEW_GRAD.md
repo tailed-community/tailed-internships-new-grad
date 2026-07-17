@@ -899,7 +899,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | 8VC | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d) | 2026-06-08 |
 | Amentum | Entry Level RF Engineer | US-Va-Norfolk | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070) | 2026-06-08 |
 | Base Power | Member Experience (New Grad) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/74d12075-e78d-4b1f-a9a1-f51b55b8ecb2) | 2026-06-08 |
-| Brain Co. | Early Career AI/ML Engineer | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839) | 2026-06-08 |
+| Brain Co. | Early Career Machine Learning Engineer, Applied AI | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839) | 2026-06-08 |
 | Cleveland Clinic | New Grad RN Resident - Cardiology Stepdown | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiology-Stepdown_328376) | 2026-06-08 |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular Surgery Stepdown | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Surgery-Stepdown_337337) | 2026-06-08 |
 | Cleveland Clinic | New Grad RN Resident - Stepdown Unit | Union Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Union-Hospital/New-Grad-RN-Resident---Stepdown-Unit_341682-1) | 2026-06-08 |
