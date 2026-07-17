@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Spring 2026 New Grad RN Stanly ICU | Albemarle, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Stanly---301-Yadkin-St-Albemarle-NC/Registered-Nurse--Atrium-Health-Stanly--Medical-ICU--FT--Night-Shift_R213599) | 2026-07-17 |
+| AECOM | Entry-Level Wetland Scientist | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000138193929) | 2026-07-17 |
 | Airbus | HR Admin Specialist - Early Career & Temporary workers management (French Speaker) | Lisbon (airbus Portugal) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Lisbon-Airbus-Portugal/HR-Admin-Specialist---Early-Career---Temporary-workers-management--French-Speaker-_JR10429741) | 2026-07-17 |
 | Amentum | Power System Design Engineer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Power-System-Design-Engineer---Entry-Level_R0166043-1) | 2026-07-17 |
 | Amentum | SLS Orion Trajectory Analyst, Entry Level (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/SLS-Orion-Trajectory-Analyst--Entry-Level--ES2-_R0164331) | 2026-07-17 |
@@ -23,6 +24,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Hematology/Oncology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Hematology-Oncology_341070) | 2026-07-17 |
 | Cleveland Clinic | New Grad RN Resident - Med Surg | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/New-Grad-RN-Resident---Med-Surg_343514) | 2026-07-17 |
 | Essity | Technical Apprentice (entry level) | Newcastle-Upon-Tyne | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Newcastle-Upon-Tyne/Technical-Apprentice--entry-level-_Essity264014) | 2026-07-17 |
+| Eurofins | Sample Management Officer – Entry Level (Graduates Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138236701) | 2026-07-17 |
 | Fresenius Medical Care | New Graduate RN | Layton, UT, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Layton-UT-USA/New-Graduate-RN_R0257213) | 2026-07-17 |
 | GE Vernova | Technician- Early Career Trainee | Riyadh Sa 11 / Al Khobar / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Riyadh-SA-11/Technician--Early-Career-Trainee_R5047608-1) | 2026-07-17 |
 | GE Vernova - vernova_externalsite | Technician- Early Career Trainee | Riyadh Sa 11 / Al Khobar / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh-SA-11/Technician--Early-Career-Trainee_R5047608-2) | 2026-07-17 |
@@ -63,7 +65,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CACI | Entry Level Background Investigator I | Remote | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-Background-Investigator-I_329127) | 2026-07-16 |
 | Cenovus Energy | New Grad, Engineer-in-Training, June 2027 (Lloydminster) | CA-SK-Lloydminster / CA-AB-Lloydminster | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-SK-Lloydminster/New-Grad--Engineer-in-Training--June-2027--Lloydminster-_R-410823) | 2026-07-16 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137947759) | 2026-07-16 |
-| Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137919754) | 2026-07-16 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000138032950) | 2026-07-16 |
 | GE Vernova | Entry Level Steam Turbine Product Definition Engineer | Queretaro | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Queretaro/Entry-Level-Steam-Turbine-Product-Definition-Engineer_R5047528-1) | 2026-07-16 |
 | GE Vernova | GE Vernova Early Career Project Engineer | Greenville | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Early-Career-Project-Engineer_R5047315-1) | 2026-07-16 |
@@ -159,7 +160,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - INTERN | Entry Level Systems Engineer | India | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/IND---Bangalore-India/Entry-Level-Systems-Engineer_JR2025480807) | 2026-07-15 |
 | WSP | Early Career Civil/Geotechnical Engineer | Irvine, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91090) | 2026-07-15 |
 | WSP | Entry Level Transmission Line Engineer, Overhead Transmission Line | Toronto, ON, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/77876) | 2026-07-15 |
-| AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137526639) | 2026-07-14 |
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) | 2026-07-14 |
 | Anduril | 2026 Early Career Test & Evaluation Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007) | 2026-07-14 |
 | AutoNation | Entry Level Technician-AutoNation Chrysler Dodge Jeep Ram N. Fort Worth-$17 | Autonation Chrysler Dodge Jeep Ram N. Fort Worth | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth/Entry-Level-Technician-AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth--17_JR2026145382) | 2026-07-14 |
@@ -284,7 +284,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Barry-Wehmiller | Entry level Controls Engineer - Data Center | Abilene, TX | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Abilene-TX/Entry-level-Controls-Engineer---Data-Center_R022107) | 2026-07-09 |
 | Cleveland Clinic | New Grad RN Resident - Neuro/Stroke | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Neuro_275432) | 2026-07-09 |
 | Corewell Health | RN Ortho Neuro New Grad | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/St-Joseph-MI/RN-Ortho-Neuro-New-Grad_R200808) | 2026-07-09 |
-| Eurofins | Laboratory Technician (entry level) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000136558609) | 2026-07-09 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Clarksdale, MS | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Clarksdale-MS/New-Graduate-Nurse---RN_R0258895-1) | 2026-07-09 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Boston, MA) | Massachusetts | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Massachusetts/Entry-Level-Associate-Neurophysiologist--Boston--MA-_JR107161-1) | 2026-07-09 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Winston-Salem/Greensboro, NC) | North Carolina | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/North-Carolina/Neurophysiologist--Winston-Salem-Greensboro--NC-_JR106797-1) | 2026-07-09 |
