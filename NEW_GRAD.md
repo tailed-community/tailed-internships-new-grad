@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Transportation Engineer | Ocoee, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000138373689) | 2026-07-18 |
 | AIG | Early Career Auto | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Mexico-City-Analyst_JR26EC329) | 2026-07-18 |
 | AIG | Early Career Claims Auto | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Claims-Auto_JR26EC117) | 2026-07-18 |
 | AIG | Early Career Property | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Property_JR26EC332) | 2026-07-18 |
@@ -17,6 +18,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Cardiology Stepdown Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiology-Stepdown-Unit-_347389) | 2026-07-18 |
 | Critical Mass | Project Coordinator (Entry Level - Creative) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8004061) | 2026-07-18 |
 | Deluxe | Machine Maintenance Technician - Entry Level - 1st Shift | Des Plaines, IL, United States | [Apply](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Des-Plaines-IL-USA/Machine-Maintenance-Technician---Entry-Level---1st-Shift_260936WD) | 2026-07-18 |
+| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138409552) | 2026-07-18 |
 | Fidelity Investments | Entry Level Customer Service - Albuquerque | Albuquerque, NM | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Albuquerque-NM/Entry-Level-Customer-Service---Albuquerque_2131724-1) | 2026-07-18 |
 | Fidelity Investments | Entry Level Customer Service - Omaha / Lincoln, NE area ONLY | Remote / Omaha, NE / Papillion, NE | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/WIS-NE-Remote-Omaha/Entry-Level-Customer-Service---Omaha---Lincoln--NE-area-ONLY_2131733) | 2026-07-18 |
 | Fidelity Investments - targeted | Entry Level Customer Service - Albuquerque | Albuquerque, NM | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Albuquerque-NM/Entry-Level-Customer-Service---Albuquerque_2131724) | 2026-07-18 |
@@ -85,7 +87,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Advocate Health Care | Registered Nurse (RN)-  New Grad Nurse Residency | Rome, GA | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Floyd-Medical-Center---304-Turner-McCall-Blvd-SW-Rome-GA/Nurse-Residency--Floyd-_R204704) | 2026-07-16 |
 | CACI | Entry Level Background Investigator I | Remote | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-Background-Investigator-I_329127) | 2026-07-16 |
 | Cenovus Energy | New Grad, Engineer-in-Training, June 2027 (Lloydminster) | CA-SK-Lloydminster / CA-AB-Lloydminster | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-SK-Lloydminster/New-Grad--Engineer-in-Training--June-2027--Lloydminster-_R-410823) | 2026-07-16 |
-| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137947759) | 2026-07-16 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000138032950) | 2026-07-16 |
 | GE Vernova | Entry Level Steam Turbine Product Definition Engineer | Queretaro | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Queretaro/Entry-Level-Steam-Turbine-Product-Definition-Engineer_R5047528-1) | 2026-07-16 |
 | GE Vernova | GE Vernova Early Career Project Engineer | Greenville | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Early-Career-Project-Engineer_R5047315-1) | 2026-07-16 |
@@ -241,7 +242,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Edwards Lifesciences | 1st Shift Entry Level Assembler $18.50 | USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Utah--Salt-Lake-City/XMLNAME-1st-Shift-Entry-Level-Assembler--1850_Req-49371) | 2026-07-11 |
 | Edwards Lifesciences | Second Shift Entry Level Assembler $20+ | USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Utah--Salt-Lake-City/Second-Shift-Entry-Level-Assembler--1850_Req-49369) | 2026-07-11 |
 | Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137212229) | 2026-07-11 |
-| Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137207358) | 2026-07-11 |
 | Eurofins | Entry-Level Sample Management Lab Technician (2nd Shift, Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137211229) | 2026-07-11 |
 | Eurofins | Wet Chemistry Lab Analyst - Entry-Level (Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137184096) | 2026-07-11 |
 | Fresenius Medical Care | New Graduate Registered Nurse | Bessemer, AL / Montevallo, AL / Sylacauga, AL / Huntsville, AL, United States / Birmingham, AL, United States / Mobile, AL, United States / Pelham, AL, United States / Opelika, AL / Northport, AL, United States / Mobile, AL / Tuscaloosa, AL, United States / Gardendale, AL / Winfield, AL / Al151 Fmcna Hwy 431 Roanoke Rai Clinic / Al178 Fmcna Cullman Clinic / Alabaster, AL, United States / Phenix City, AL / Talladega, AL / Selma, AL / Oxford, AL, United States / Huntsville, AL / Montgomery, AL / Hoover, AL, United States / Pell City, AL / Winfield, AL, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bessemer-AL/New-Graduate-Registered-Nurse_R0261643) | 2026-07-11 |
