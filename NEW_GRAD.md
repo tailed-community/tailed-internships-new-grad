@@ -10,10 +10,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AIG | Early Career Auto | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Mexico-City-Analyst_JR26EC329) | 2026-07-18 |
 | AIG | Early Career Claims Auto | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Claims-Auto_JR26EC117) | 2026-07-18 |
 | AIG | Early Career Property | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Property_JR26EC332) | 2026-07-18 |
+| Anduril | 2026 Early Career Electrical Engineer, Battlespace Awareness Radar Team | Colorado, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4747967007?gh_jid=4747967007) | 2026-07-18 |
 | AutoNation | Entry Level Technician | Autonation Toyota Mall Of Georgia | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Mall-of-Georgia/Entry-Level-Technician_JR2026145467) | 2026-07-18 |
 | CACI | Entry Level Background Investigator - Midwest | Bismarck, ND, United States / 2gv Maple Grove Mn (tax Jurisdiction Hennepin County) / 2sq Rapid City Sd (tax Jurisdiction Pennington County) / 3ia Newburg Mo (tax Jurisdiction Phelps County) / 1k8 Greenbay Wi (tax Jurisdiction Brown County) / 2hs Corpus Christi Tx (tax Jurisdiction Nueces County) / 2vw Sioux Falls Sd (tax Jurisdiction Minnehaha) / 2ss Grand Rapids Mn (tax Jurisdiction Itasca County) | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Bismarck-ND-US/Entry-Level-Background-Investigator_322430) | 2026-07-18 |
 | CACI | IT Data Specialist - Entry Level | Washington, DC, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/IT-Data-Specialist---Entry-Level_329225) | 2026-07-18 |
 | Cleveland Clinic | New Grad RN Resident – Cardiology Stepdown Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiology-Stepdown-Unit-_347389) | 2026-07-18 |
+| Critical Mass | Project Coordinator (Entry Level - Creative) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8004061) | 2026-07-18 |
 | Deluxe | Machine Maintenance Technician - Entry Level - 1st Shift | Des Plaines, IL, United States | [Apply](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Des-Plaines-IL-USA/Machine-Maintenance-Technician---Entry-Level---1st-Shift_260936WD) | 2026-07-18 |
 | Fidelity Investments | Entry Level Customer Service - Albuquerque | Albuquerque, NM | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Albuquerque-NM/Entry-Level-Customer-Service---Albuquerque_2131724-1) | 2026-07-18 |
 | Fidelity Investments | Entry Level Customer Service - Omaha / Lincoln, NE area ONLY | Remote / Omaha, NE / Papillion, NE | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/WIS-NE-Remote-Omaha/Entry-Level-Customer-Service---Omaha---Lincoln--NE-area-ONLY_2131733) | 2026-07-18 |
@@ -701,7 +703,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Texas Instruments | Equipment Engineer (Recent new grad) | Japan | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/240006J0) | 2026-06-17 |
 | Texas Instruments | Manufacturing Process Engineer (Recent new grad) | Japan | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/240006IX) | 2026-06-17 |
 | The Boeing Company - external_subsidiary | DSP Algorithms Engineer (Entry-Level) | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239) | 2026-06-17 |
-| The Brattle Group | Research Analyst Graduate Program '27 - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4671526005) | 2026-06-17 |
 | The Children's Mercy Hospital | Respiratory Therapist - New Graduate - Night Shift | Not Specified | [Apply](https://jobs-childrensmercykc.icims.com/jobs/32417/respiratory-therapist/job) | 2026-06-17 |
 | TSMG | Entry-Level Browser Tester | Kraków | [Apply](https://jobs.lever.co/tsmg/ac29e7f3-834b-4ac5-a7f5-5f57bde663e9) | 2026-06-17 |
 | US Tech Solutions | Administrative Assistant/Entry Level Business Analyst | Berkeley Heights, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/86114043) | 2026-06-17 |
@@ -1149,8 +1150,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) | 2026-06-02 |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
