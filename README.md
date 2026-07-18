@@ -146,6 +146,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RTX (en-US) | Stage - Gestion des Programmes | CA-QC-Longueuil-J01 ~ 1000 Blvd Marie-Victorin ~ J01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Gestion-des-Programmes_01840726) | 2026-07-18 |
 | Sanofi | Paid Intern - Portfolio & Strategy Coordinator – Central Southern Europe (CSE) | Warsaw | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Warsaw/Paid-Intern---Portfolio---Strategy-Coordinator---Central-Southern-Europe--CSE-_R2862831) | 2026-07-18 |
 | Sanofi | stage 6 mois - approvisionnement matières premières et produits finis | Marcy-L'etoile | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---approvisionnement-matires-premires-et-produits-finis_R2865407) | 2026-07-18 |
+| Socure | Field Marketing Intern - Public Sector | Washington Dc, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/socure/599b38c0-6b72-4e34-8ffb-d7942d7ef325) | 2026-07-18 |
 | Solenis | Professional Intern (Aprendiz) \| Lapa/SP | Brazil | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/So-Paulo-Brazil/Professional-Intern--Aprendiz----Lapa-SP_R0031332-1) | 2026-07-18 |
 | Southern New Hampshire University | Student - ITS Knowledge Enablement Assistant | Remote | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---ITS-Knowledge-Enablement-Assistant_R0014532) | 2026-07-18 |
 | Spot Freight | Accounting Intern | Indiana, United States | [Apply](https://spotinc.com/careers/applynow/?gh_jid=4697961006) | 2026-07-18 |
@@ -7172,16 +7173,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Astera | Computational Neuroscience Intern - Data Analysis and Modeling | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261) | 2026-06-08 |
 | Astera | Software Engineering Intern – Distributed Simulation Systems | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | 2026-06-08 |
 | Astera Labs | Design Verification Engineer (Intern 2026) | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | 2026-06-08 |
-| Atomic Semi | Automation Software Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c) | 2026-06-08 |
-| Atomic Semi | Electrical Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/ea384667-0913-49cc-8982-ebf0fe2620c6) | 2026-06-08 |
-| Atomic Semi | Electrical Engineering Intern, High Frequency Power Electronics - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/41123ae5-2489-4ac7-a4ed-c0c75faf5927) | 2026-06-08 |
-| Atomic Semi | Embedded Software Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f) | 2026-06-08 |
-| Atomic Semi | Fab Software Engineering Intern - Fall | California, United States | [Apply](https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5) | 2026-06-08 |
-| Atomic Semi | Infrastructure Software Engineering Intern - Fall | California, United States / Austin | [Apply](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | 2026-06-08 |
-| Atomic Semi | Mechanical Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/48923113-b51e-4c3a-ade9-47ac08313447) | 2026-06-08 |
-| Atomic Semi | Packaging Engineering Intern - Fall | Texas, United States | [Apply](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622) | 2026-06-08 |
-| Atomic Semi | Process Engineering Intern - Fall | Texas, United States | [Apply](https://jobs.ashbyhq.com/atomicsemi/a4edea14-08e9-46cf-9449-4bedb8b29dd9) | 2026-06-08 |
-| Atomic Semi | Rust Software Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470) | 2026-06-08 |
 | Auctor | Software Engineering Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) | 2026-06-08 |
 | Auctor | Visual Design Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/auctor/4f3db71d-d7ed-4b4f-846a-6e0962ce2661) | 2026-06-08 |
 | Base Power | Deployment Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/32f1731b-b702-4975-ae83-d16b5c629346) | 2026-06-08 |
