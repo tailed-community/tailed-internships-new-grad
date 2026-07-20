@@ -154,6 +154,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Healthcare | Edison Engineering Development Program Internship - Hardware | Waukesha / Aurora | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | 2026-07-20 |
 | GE Healthcare | Financial Management Program Internship | Il03-01-Chicago-500 W Monroe St | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Financial-Management-Program-Internship_R4043926-1) | 2026-07-20 |
 | GE Healthcare | Student assistent Freight | Eindhoven | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Eindhoven/Student-assistent-Freight_R4043433-1) | 2026-07-20 |
+| GeoComply | Software Engineer Intern (Fullstack) | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26) | 2026-07-20 |
+| GeoComply | Software Engineer Intern, iOS | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7) | 2026-07-20 |
 | GSK | Stage en préparation de matériel stérile | France Saint-Amand-Les-Eaux | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/France---Saint-Amand-les-Eaux/Stage-en-prparation-de-matriel-strile_445147) | 2026-07-20 |
 | Haleon | Sales Representative Intern | China Guangdong Foshan | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Guangdong---Foshan/Sales-Representative-Intern_545915-2) | 2026-07-20 |
 | HARMAN International | Intern, Android Application Develop | No. 9233 Humin Road | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/CN_Shanghai_12F--15F-No-9233-Humin-Road/Intern--Android-Application-Develop_R-54648-2026) | 2026-07-20 |
@@ -269,6 +271,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Woodward Governor | Supplier Quality Intern | Niepolomice, PL | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Niepolomice-PL/Supplier-Quality-Intern_JR112347) | 2026-07-20 |
 | WVUMedicine | 4P Nurse Intern/Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/XMLNAME-4P-Nurse-Intern_JR26-40481) | 2026-07-20 |
 | WVUMedicine | Stepdown Nurse Intern/Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Stepdown-Nurse-Intern-Extern_JR26-36820) | 2026-07-20 |
+| Xsolla | AI-First Engineering Intern | Moscow | [Apply](https://jobs.lever.co/xsolla/626e8bf3-183a-4e13-aadd-b7c1bbff26ad) | 2026-07-20 |
+| Xsolla | AI-First Engineering Intern | Perm | [Apply](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4) | 2026-07-20 |
 | Zeiss | Working Student Information Security (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Information-Security--m-w-x-_JR_1050971-1) | 2026-07-20 |
 | Clera | Growth & Marketing Intern / New-Grad | California, United States | [Apply](https://jobs.ashbyhq.com/clera/c930c830-e6b7-4ce8-b7de-f0d4cbec959d) | 2026-07-19 |
 | Loblaw Companies | Student, Franchise Part Time Evening | Kingston, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1030-Coverdale-Dr-Kingston-ON/Student--Franchise-Part-Time-Evening_R2000682079) | 2026-07-19 |
@@ -695,7 +699,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PTC | Business Development Intern - French Speaker | Spain | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Barcelona-Spain/Business-Development-Intern---French-Speaker_JR112466) | 2026-07-17 |
 | PTC | Business Development Intern - German speaker | Spain | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Barcelona-Spain/Business-Development-Intern---German-speaker_JR112463) | 2026-07-17 |
 | PTC | Business Development intern - Italian Speaker | Spain | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Barcelona-Spain/Business-Development-intern---Italian-Speaker_JR112465) | 2026-07-17 |
-| Rainmaker | Mechanical Engineering Intern (Fall: August - December) | El Segundo, Canada | [Apply](https://jobs.lever.co/make-rain/53b8e9ab-09b3-43db-aa07-354643a6cc58) | 2026-07-17 |
 | Ralliant | TA Intern | China | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9994) | 2026-07-17 |
 | RBC | Assistant Branch Manager Intern | Surrey, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SURREY-British-Columbia-Canada/Assistant-Branch-Manager-Intern_R-0000180780) | 2026-07-17 |
 | Red Bull | Internship International Category Portfolio Management | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000138275750) | 2026-07-17 |
