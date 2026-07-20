@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Carollo Engineers | Entry Level Civil/Environmental Engineer | Honolulu, HI, United States | [Apply](https://careers-carollo.icims.com/jobs/4522/entry-level-civil-environmental-engineer/job) | 2026-07-20 |
 | Cenovus Energy | New Grad, Supply Chain Management, June 2027 (Calgary) | CA-AB-Calgary | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Supply-Chain-Management--June-2027--Calgary-_R-410691) | 2026-07-20 |
 | City of Aurora | 2027-1B Entry Level Patrol Officer (Group B) | Not Specified | [Apply](https://auroragov.wd1.myworkdayjobs.com/careers/job/CAPSTC-Training-Center/XMLNAME-2027-1B-Entry-Level-Patrol-Officer--Group-B-_JR109051) | 2026-07-20 |
 | Custom Computer Specialists | Entry Level Technician | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4312796009) | 2026-07-20 |
