@@ -551,7 +551,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 2026-06-24 |
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) | 2026-06-24 |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0118674) | 2026-06-24 |
-| WSP | Early Career GIS Analyst | Phoenix, AZ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977) | 2026-06-24 |
 | AeroVironment | Entry-Level Software Engineer | Dayton, OH | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) | 2026-06-23 |
 | Cox | Entry Level Software Engineer (Burlington, VT) | Burlington Vt | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034) | 2026-06-23 |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | San Antonio, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15125) | 2026-06-23 |
@@ -620,7 +619,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry Level Civil/Environmental Engineer | El Paso, TX, United States | [Apply](https://careers-carollo.icims.com/jobs/4466/entry-level-civil-environmental-engineer/job) | 2026-06-17 |
 | Carollo Engineers | Entry Level Instrumentation and Controls Engineer | Tucson, AZ, United States | [Apply](https://careers-carollo.icims.com/jobs/4368/entry-level-instrumentation-and-controls-engineer/job) | 2026-06-17 |
 | Carollo Engineers | Entry-Level Wastewater Process Mechanical Engineer | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job) | 2026-06-17 |
-| Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210742910) | 2026-06-17 |
 | Cleveland Clinic | New Grad RN Resident – Progressive Care Step Down Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Progressive-Care-Step-Down-Unit_344745) | 2026-06-17 |
 | Cleveland Clinic | New Grad RN – Acute Care Cardiology and Cardiothoracic Surgery 7p-7:30a | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Care-Cardiology-and-Cardiothoracic-Surgery-7p-7-30a_335974-1) | 2026-06-17 |
 | Cleveland Clinic | New Grad RN – Acute Care Urology, GYN/ONC & Plastics | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Care-Urology--GYN-ONC---Plastics_332589-1) | 2026-06-17 |
@@ -761,7 +759,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Technician - Entry-level, Building and Construction | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14697) | 2026-06-13 |
 | Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
-| JP Morgan Chase | Entry-Level Specialist I Pooling (Collections, Fraud & Accounts) | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742910) | 2026-06-13 |
 | Michael Baker International | Bridge Associate Engineer, Entry Level | Columbus, OH, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308947) | 2026-06-13 |
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
@@ -775,7 +772,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/169231) | 2026-06-13 |
 | Securitas | Entry Level Security Officer ($18.00-$22.00/hour) | Boston, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171258) | 2026-06-13 |
 | Securitas | Entry Level Security Officer's (Saugus, MA): $17.77/hour | Medford, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/161503) | 2026-06-13 |
-| Securitas | Entry Level Security Officer- Now Hiring 2nd and 3rd Shifts | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167532) | 2026-06-13 |
 | Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Ashburn, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170683) | 2026-06-13 |
 | Securitas | Security Officer - Entry Level | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170875) | 2026-06-13 |
 | Securitas | Security Officer - Entry Level | Charlotte, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170755) | 2026-06-13 |
