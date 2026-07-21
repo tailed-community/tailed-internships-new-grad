@@ -893,7 +893,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | United Wholesale Mortgage | Entry Level Mortgage Collections | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15377/entry-level-mortgage-collections/job) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Mortgage Lock Desk | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15486/entry-level-mortgage-lock-desk/job) | 2026-06-10 |
 | Wade Trim | Entry Level Planner - #2970 | Flint, MI / Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17) | 2026-06-10 |
-| 8VC | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/8vc/4fea7270-2409-4701-b147-fc961d95588d) | 2026-06-08 |
 | Amentum | Entry Level RF Engineer | US-Va-Norfolk | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070) | 2026-06-08 |
 | Baker Hughes | Quality Control Inspector -Entry Level | Eachanari Post (consolidation) | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-Tamil-Nadu-Coimbatore-SF-No-608-Chettipalayam-Road-Eachanari-Post-Consolidation/Quality-Operator-Entry_R164715) | 2026-06-08 |
 | Base Power | Member Experience (New Grad) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/74d12075-e78d-4b1f-a9a1-f51b55b8ecb2) | 2026-06-08 |
