@@ -861,6 +861,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | TDS | Entry Level Sales Representative | Roachdale, IN, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/28812/entry-level-sales-representative/job) | 2026-06-10 |
 | TDS | Entry Level Sales Representative | Wausau, WI, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/28849/entry-level-sales-representative/job) | 2026-06-10 |
 | TDS | Entry Level Sales Representative | Alamogordo, NM, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/28855/entry-level-sales-representative/job) | 2026-06-10 |
+| TDS | Entry Level Sales Representative | Hobbs, NM, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29140/entry-level-sales-representative/job) | 2026-06-10 |
 | TDS | Entry Level Sales Representative | Mooresville, NC, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29325/entry-level-sales-representative/job) | 2026-06-10 |
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada Edmonton, AB | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Client Review Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/14099/entry-level-client-review-specialist/job) | 2026-06-10 |
