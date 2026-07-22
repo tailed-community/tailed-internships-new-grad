@@ -1973,7 +1973,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Signify | Philips Hue Marketing Intern (Benelux Consumer) | Eindhoven | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Philips-Hue-Marketing-Intern--Benelux-Consumer-_363582) | 2026-07-14 |
 | Signify | Talent Acquisition Intern | Warszawa | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Talent-Acquisition-Intern_365609) | 2026-07-14 |
 | Snowflake | AI-Powered BI Intern: Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb) | 2026-07-14 |
-| Solink | Software Engineer, COOP (Data Integrations) | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Staff | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Staff_R0014496) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Supervisor | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Supervisor_R0014497) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Sustainability Liaison Eco Rep | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Sustainability-Liaison-Eco-Rep_R0014462) | 2026-07-14 |
@@ -3777,7 +3776,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Intern Finance | Germany | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Munich-Germany/Intern-Finance_10153050) | 2026-07-02 |
 | Dow Chemical Company | Campus Internship 2025 - 2026 – Textile Durable Oil & Water Repellent Application Development (R&D) | Seneffe (bel) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Seneffe-BEL/Campus-Internship-2025---2026---Textile-Durable-Oil---Water-Repellent-Application-Development--R-D-_R2067303) | 2026-07-02 |
 | Dow Chemical Company | Local College Co-op: Analytical Operations | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kendallville-IN-USA/Local-College-Co-op--Analytical-Operations_R2066388) | 2026-07-02 |
-| Eight Sleep | Prototype & Test Engineering Intern, New Product Development | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3) | 2026-07-02 |
 | Espa AI | Software Engineer INTERN | Hybrid / Remote | [Apply](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8) | 2026-07-02 |
 | EVERSANA | Intern, EVERSANA Management Consulting (Sept 2026 Start, 10-week or 20-week Program) | United States Remote | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000135351499) | 2026-07-02 |
 | F. Schumacher & Co. | Product Data Strategy and Operations Intern | New York | [Apply](https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008) | 2026-07-02 |
@@ -4486,7 +4484,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rolls-Royce | Intern, Marine Business | Singapore | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Singapore/Intern--Marine-Business_JR6152558) | 2026-06-27 |
 | Royal Bank of Canada - RBCEARLYTALENT1 | Intern | New York, United States | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Rochester-New-York-United-States-of-America/Intern_R-0000178588-1) | 2026-06-27 |
 | SDSU Research Foundation | NIWC - Undergraduate Student III - PFAS In-Situ Stabilization Evaluations (Task No. 71-332604) | San Diego, United States | [Apply](https://careers-sdsurf.icims.com/jobs/20577/niwc---undergraduate-student-iii---pfas-in-situ-stabilization-evaluations-%28task-no.-71-332604%29/job) | 2026-06-27 |
-| Snowflake | Marketing Operations Intern (Fall 2026) | Washington, United States | [Apply](https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8) | 2026-06-27 |
 | Southern New Hampshire University | Student - Student Involvement Staff Assistant (Online Honor Societies) | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Student-Involvement-Staff-Assistant--Online-Honor-Societies-_R0014425) | 2026-06-27 |
 | St. Louis University | Student and Administrative Support Coordinator - School of Law | Slu Saint Louis, MO | [Apply](https://slu.wd5.myworkdayjobs.com/en-US/Careers/job/SLU-Saint-Louis-MO/Student-and-Administrative-Support-Coordinator---School-of-Law_2025-09540) | 2026-06-27 |
 | Stantec | Civil Engineering Co-op Student - Fall 2026 | Waterloo, ON, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006511) | 2026-06-27 |
@@ -7414,7 +7411,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jones Lang LaSalle (JLL) | Intern, Real Estate Research (Off-cycle, Jul/Aug - Dec 2026) | Singapore | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Intern--Real-Estate-Research--Off-cycle--Jul-Aug---Dec-2026-_REQ513489) | 2026-06-08 |
 | Jones Lang LaSalle (JLL) | Project and Development Services Intern | Vietnam | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ho-Chi-Minh-City-Vietnam/Project-and-Development-Services-Intern_REQ513424) | 2026-06-08 |
 | Leland | AI Education Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633) | 2026-06-08 |
-| Leland | Recruiting Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/leland/b356ad9b-9cd2-4574-a538-1fcae8457217) | 2026-06-08 |
 | Loblaw Companies | Student, Franchise Part Time Day | Parry Sound, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/60-Joseph-St-Parry-Sound-ON/Student--Franchise-Part-Time-Day_R2000664840) | 2026-06-08 |
 | Mariana Minerals | Chemical Engineering Intern | Utah, United States | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) | 2026-06-08 |
 | Marvell | Digital IC Design Intern | Argentina | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Cordoba-Argentina/Digital-IC-Design-Intern_2502731) | 2026-06-08 |
@@ -7478,7 +7474,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tessera Labs | Product Manager, Intern | California, United States / New York City Office / United States Remote | [Apply](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544) | 2026-06-08 |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Artist | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Artist_R0310567) | 2026-06-08 |
 | Thales | Stage-/afstudeeropdracht - HBO -Thales Naval Game  - Game Developer | Hengelo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Hengelo/Stage--afstudeeropdracht---HBO--Thales-Naval-Game----Game-Developer_R0310566) | 2026-06-08 |
-| The Exploration Company | Working Student- IT Operations | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/0d975efe-a8f5-467b-953c-847f50c4d3bd) | 2026-06-08 |
 | Tilde Research | Kernel Engineer (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8) | 2026-06-08 |
 | Tilde Research | ML Engineer (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef) | 2026-06-08 |
 | Tilde Research | ML Researcher (Internship and Full-time) | California, United States | [Apply](https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508) | 2026-06-08 |
@@ -7486,7 +7481,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Uncountable | Working Student -- Software Engineer: Munich | Munich | [Apply](https://jobs.ashbyhq.com/uncountable/9ca128de-0a2b-4be3-97e6-6c3a3b08dd10) | 2026-06-08 |
 | University of Virginia | Student IT Support Technician (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-IT-Support-Technician--Student-Wage-_R0084001) | 2026-06-08 |
 | Upvest | Open Application: Internship \| Working Student (f/m/d) | Germany / Remote | [Apply](https://jobs.ashbyhq.com/upvest/090b73f0-cfe3-47b4-b411-948357d0d215) | 2026-06-08 |
-| Upvest | Working Student Accounting (f/m/d) | Germany / Remote | [Apply](https://jobs.ashbyhq.com/upvest/ce3bdfe5-ec15-47f3-92dd-5454d74c2415) | 2026-06-08 |
+| Upvest | Working Student / Intern Accounting (f/m/d) | Germany / Remote | [Apply](https://jobs.ashbyhq.com/upvest/ce3bdfe5-ec15-47f3-92dd-5454d74c2415) | 2026-06-08 |
 | Valeo | Assistant(e) Trésorier Back-Office - Stage | Paris | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/Assistant-e--Trsorier-Back-Office---Stage_REQ2026076176-1) | 2026-06-08 |
 | Vendelux | Part time Data Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43) | 2026-06-08 |
 | Vendelux | Tech Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de) | 2026-06-08 |
