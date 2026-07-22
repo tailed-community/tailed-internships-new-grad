@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Civil Engineer - Ports and Marine | Orange, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000138901013) | 2026-07-22 |
 | Allstate Insurance Company | Entry Level Financial Analyst | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Entry-Level-Financial-Analyst_R32928-1) | 2026-07-22 |
 | AutoNation | Entry Level Technician - Toyota Newnan | Autonation Toyota Newnan | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Newnan/Entry-Level-Technician---Toyota-Newnan_JR2026145569) | 2026-07-22 |
 | Avis Budget Group | Entry Level HR Specialist/ Contact Center | Tulsa | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/4500-S-129th-E-Ave-Tulsa-74134/HR-Services-Specialist-I---FT-2_R0189771) | 2026-07-22 |
@@ -15,6 +16,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CACI | Entry Level Background Investigator - Capital Region | Remote | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-Background-Investigator---Capital-Region_329381-1) | 2026-07-22 |
 | Conagra Brands | 2nd Shift Entry Level Processor | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-2nd-Shift-Entry-Level-Processor_Req-039293) | 2026-07-22 |
 | ERM | Consulting Associate (Entry Level) - Sustainable Finance HLAC | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Sao-Paulo-Brazil/Consulting-Associate--Entry-Level----Sustainable-Finance-HLAC_R00031152) | 2026-07-22 |
+| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138925229) | 2026-07-22 |
+| Eurofins | Entry Level Cell Culture Associate | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138954869) | 2026-07-22 |
 | Fortinet | Network Support (New Grads 2026) | Atlanta, GA, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) | 2026-07-22 |
 | Hewlett Packard (HP) | Entry level Embedded Controller Firmware Developer | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Entry-level-Embedded-Controller-Firmware-Developer_3161371) | 2026-07-22 |
 | Rochester Regional Health | New Graduate LPN - Medical / Surgical | Rochester General Hospital (rgh) | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Rochester-General-Hospital-RGH/New-Graduate-LPN---Medical---Surgical_REQ_239058) | 2026-07-22 |
@@ -220,7 +223,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Conagra Brands | 1st Shift Entry Level Line Service | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Line-Service_Req-039175) | 2026-07-14 |
 | Conagra Brands | 1st Shift Entry Level Processor | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Processor_Req-039177) | 2026-07-14 |
 | DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY / San Francisco, Canada / Los Angeles, Canada / Seattle, WA / Sunnyvale, Canada | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) | 2026-07-14 |
-| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137537869) | 2026-07-14 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | Gilbert, AZ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14411/entry-level-geotechnical-engineer/job) | 2026-07-14 |
 | GE Vernova | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-2) | 2026-07-14 |
 | GE Vernova - vernova_externalsite | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-3) | 2026-07-14 |
@@ -293,7 +295,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Highmark Health | RN - Outpatient Medical Unit (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---Outpatient-Medical-Unit--NEW-GRAD--Jefferson_J281301) | 2026-07-10 |
 | Highmark Health | RN - PACU (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN---PACU--NEW-GRAD--Jefferson_J281303) | 2026-07-10 |
 | Highmark Health | RN Operating Room (NEW GRAD) Jefferson | Jefferson Hills Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Jefferson-Hills-PA-15025-565-Coal-Valley-Road/RN-Operating-Room--NEW-GRAD--Jefferson_J281299) | 2026-07-10 |
-| Jobs for Humanity | Entry Level Sales and Marketing Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000136904268) | 2026-07-10 |
 | Momentive | Entry Level Operator | US Ny Waterford | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Entry-Level-Operator_R9633) | 2026-07-10 |
 | Olsson | Entry-Level Surveyor | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5317739008) | 2026-07-10 |
 | Rogers Behavioral Health | POOL II Intake Specialist - Oconomowoc - Weekends and PMs - New Grads Encouraged to Apply! | Oconomowoc, WI | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Oconomowoc-Main-Campus-Oconomowoc-WI/POOL-II-Intake-Specialist---Oconomowoc---Weekends-and-PMs---New-Grads-Encouraged-to-Apply-_R7405) | 2026-07-10 |
@@ -581,7 +582,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | HPE | Graduate Program - Strategy & Planning | Turkey | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Istanbul-Turkey/Graduate-Program---Strategy---Planning_1196356-1) | 2026-06-18 |
 | Olsson | Entry-Level Surveyor | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5268475008) | 2026-06-18 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000153681) | 2026-06-18 |
-| AECOM | Entry-Level Water/Wastewater Engineer | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000132641942) | 2026-06-17 |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Wpafb | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Entry-Level-Radar-Exploitation-Engineer_7886) | 2026-06-17 |
 | AG Technologies | Entry level informatica developer Job | Texas City, TX, United States | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/88420885) | 2026-06-17 |
 | AG Technologies | Entry level IT professionals | San Francisco, United States | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/93738764) | 2026-06-17 |
