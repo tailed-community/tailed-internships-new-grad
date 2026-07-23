@@ -872,7 +872,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Jefferson Health | Surgical Tech OR (FT - Day) *New Grads Welcome - Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Certified-Surgical-Technician--Full-Time-_REQ-0022890-1) | 2026-06-08 |
-| Northwood Space | DSP Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/965d06ea-9701-4b28-a87c-e44897136691) | 2026-06-08 |
 | Northwood Space | Electronics Test Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) | 2026-06-08 |
 | Northwood Space | Infrastructure Engineer - Early Career | California, United States / Washington D.c. | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) | 2026-06-08 |
 | Northwood Space | RF Hardware Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/5d76a025-bb64-4ddd-8b97-8649c41d89ed) | 2026-06-08 |
