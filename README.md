@@ -58,6 +58,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stage – Assistant(e) Chargé(e) de Projet Gouvernance– Parfums Beauté – Janvier 2027 – H/F/X | Neuilly-Sur-Seine | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-e--Charg-e--de-Projet-Gouvernance--Parfums-Beaut---Janvier-2027---H-F-X_JOBREQ00115259-1) | 2026-07-25 |
 | Circle K | Intern in Finance Systems Team | Support Office Riga BC & Bu | [Apply](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Intern-in-Finance-Systems-Team_R607797-1) | 2026-07-25 |
 | City of Austin | Austin Aviation, IT Business Systems Analyst - Undergraduate Intern | Aus Information Systems Building (is) | [Apply](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | 2026-07-25 |
+| Crest Industries | Mid-State Accounting Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/b155c903-f65d-489b-8ea0-d959af22c481) | 2026-07-25 |
 | Criteo | Account Strategist Intern - New Business (German or French speaker) | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-Intern---New-Business--German-speaker-_r20884-1) | 2026-07-25 |
 | Criteo | Data Analyst- Intern | Gurgaon | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Data-Analyst--Intern_r20878) | 2026-07-25 |
 | CVS Health | Pharmacy Intern | Il Naperville | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Naperville/Pharmacy-Intern_R0988190) | 2026-07-25 |
@@ -144,6 +145,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Northeastern University | Asst Dir - Student Enrollment | Dedham, MA | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Dedham-MA/Asst-Dir---Student-Enrollment_R141054) | 2026-07-25 |
 | Northwestern Mutual | Investment Analyst Intern - Private Debt & Equity, Summer 2027 | Wi Corporate | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | 2026-07-25 |
 | NVIDIA | System Design Validation Intern - 2027 | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | 2026-07-25 |
+| Octopus Energy | Investment Analyst Intern | Singapore (sg) | [Apply](https://jobs.lever.co/octoenergy/a7bc2a55-010e-4e1e-afb2-2cb16f04e3b6) | 2026-07-25 |
 | Ohio State University | Student Assistant | University Hospital | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/University-Hospital/Student-Assistant_R155505-2) | 2026-07-25 |
 | Parsons | Systems Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Chantilly/Systems-Engineering-Intern_R183765) | 2026-07-25 |
 | Philips | Internship: Change Management (non-thesis) | Amsterdam | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Change-Management--non-thesis-_588137) | 2026-07-25 |
@@ -514,7 +516,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Yai | Access VR Summer Employment Intern | Rockland County | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Rockland-County/Access-VR-Summer-Employment-Intern_R025278) | 2026-07-24 |
 | Zebra | 2026(6 months) Internship(Sri Lanka) -Software Engineering | Sri Lanka | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR101824) | 2026-07-24 |
 | Zoox | Part-Time Student Worker System Test Engineer | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868) | 2026-07-24 |
-| Zoox | Part-Time Student Worker TPM | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223) | 2026-07-24 |
+| Zoox | Part-Time Student Worker Technical Program Manager | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223) | 2026-07-24 |
 | ABB | ABB Kraków Student Internship Talent Pool – Share your CV with us | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/ABB-Krakw-Student-Internship-Talent-Pool---Leave-Your-CV_JR00042570) | 2026-07-23 |
 | ABB | intern-机械设计实习生 | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/intern-_JR00041824-5) | 2026-07-23 |
 | ABB | Student Internship - Information Security Awareness and Education | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship---Information-Security-Awareness-and-Education_JR00042489) | 2026-07-23 |
@@ -3023,9 +3025,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ohio State University | Student Assistant - Architectural \| Fall 2026 | Health System Shared Services | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Student-Assistant---Architectural---Fall-2026_R154049-1) | 2026-07-11 |
 | Ohio State University | Student Assistant 2 - Ani Sci | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-2---Ani-Sci_R154849-2) | 2026-07-11 |
 | onsemi | CA Intern Finance | India | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505300) | 2026-07-11 |
-| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 2026-07-11 |
-| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 2026-07-11 |
-| Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 2026-07-11 |
 | Pika | Research Intern (BS/MS/PhD) | California, United States | [Apply](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Risk Analytics Intern  - Milano [OTS] | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Risk-Analytics-Intern----Milano--OTS-_743054WD) | 2026-07-11 |
 | PricewaterhouseCoopers (PwC) | Strategy& \| Corporate & Business Strategy Intern - Milan | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Strategy----Corporate---Business-Strategy-Intern---Milan_743664WD-1) | 2026-07-11 |
@@ -6337,7 +6336,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WVUMedicine | Student MR Tech Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Student-MR-Tech-Extern_JR25-23212) | 2026-06-17 |
 | XTX Markets | AI Research Internship - XTY Labs | New York | [Apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) | 2026-06-17 |
 | Zeiss | Working Student MATLAB Code & Repository Development (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-MATLAB-Code----Repository-Entwicklung--m-w-x-_JR_1049923-1) | 2026-06-17 |
-| Zoox | Part-Time Student Worker Software Engineer (6-month Contract) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b) | 2026-06-17 |
 | Accenture | Accenture Internship Program – Technology (May to Aug 2026) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Accenture-Internship-Program---Technology--May-to-Aug-2026-_R00297201) | 2026-06-16 |
 | Alcon | Student*in /m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich IT (Information Systems Operations Management) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-IT--Information-Systems-Operations-Management-_R-2026-47803) | 2026-06-16 |
 | American Heart Association | Intern, Development & Community Events-Dayton, OH, or the immediate surrounding | Not Specified | [Apply](https://careers-heart.icims.com/jobs/17669/intern%2c-development-%26-community-events-dayton%2c-oh%2c-or-the-immediate-surrounding/job) | 2026-06-16 |
@@ -9304,7 +9302,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PlusAI | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern - Scenario Simulation | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) | 2026-06-02 |
 | PlusAI | Perception Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64) | 2026-06-02 |
-| PlusAI | Reinforcement Learning Planning Research Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/7565aed4-41b0-44e9-8608-3ccd07e18262) | 2026-06-02 |
 | PlusAI | Research Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca) | 2026-06-02 |
 | PlusAI | Research Engineer Intern - Control | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc) | 2026-06-02 |
 | PlusAI | Research Engineer Intern - Mapping & Localization | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061) | 2026-06-02 |
