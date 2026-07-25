@@ -268730,20 +268730,6 @@
     "date_archived": "2026-07-24"
   },
   {
-    "id": "workable-altom-transport-5848393",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workable",
-    "url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/",
-    "date_posted": "2026-05-28",
-    "date_added": "2026-06-29",
-    "active": false,
-    "date_archived": "2026-07-24"
-  },
-  {
     "id": "workday-abb-job-alpharetta-georgia-united-states-of-america-finance-intern-fall-2026-jr00039384",
     "company": "ABB",
     "title": "Finance Intern - Fall 2026",
@@ -272254,6 +272240,20 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000138856069",
     "date_posted": "2026-07-21",
     "date_added": "2026-07-21",
+    "active": false,
+    "date_archived": "2026-07-25"
+  },
+  {
+    "id": "workable-altom-transport-5860341",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "type": "internship",
+    "season": "Fall",
+    "source": "workable",
+    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
+    "date_posted": "2026-06-03",
+    "date_added": "2026-06-15",
     "active": false,
     "date_archived": "2026-07-25"
   }

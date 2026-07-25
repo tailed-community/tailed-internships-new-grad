@@ -4749,6 +4749,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Hardware Engineer Internship | Martos | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Martos/Hardware-Engineer-Internship_REQ2026073741) | 2026-06-30 |
 | ABB | Pension Management Internship | Netherlands | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Rotterdam-South-Holland-Netherlands/Pension-Management-Internship_JR00039363-1) | 2026-06-29 |
 | Air Liquide | Stage - Siège social  - Real Estate project and data manager H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-project-and-data-manager-H-F_R10095113) | 2026-06-29 |
+| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | 2026-06-29 |
 | Applied Materials | Industrial Engineer - Student | Isr | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Industrial-Engineer---Student_R2622470) | 2026-06-29 |
 | AstraZeneca | Accounting Intern | Romania Bucharest | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Romania---Bucharest/Accounting-Intern_R-255453) | 2026-06-29 |
 | AstraZeneca | IT Intern | Romania Bucharest | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Romania---Bucharest/IT-Intern_R-255455) | 2026-06-29 |
@@ -6423,7 +6424,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | Supply Chain & Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
 | Air Liquide | Internship - E&I Documentation Trainee | Agrate R2 Tgcm Dnp | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Agrate-R2---TGCM---DNP/Internship---E-I-Documentation-Trainee_R10091446) | 2026-06-15 |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) | 2026-06-15 |
-| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) | 2026-06-15 |
 | Ascendis Pharma | Intern - Administration | Italy | [Apply](https://apply.workable.com/ascendis-pharma/j/567911160B/) | 2026-06-15 |
 | Ascendis Pharma | Student Assistant Commercial Intelligence (f/m/d) | Germany | [Apply](https://apply.workable.com/ascendis-pharma/j/07E2C343D1/) | 2026-06-15 |
 | ASML | Internship - HR Global Mobility Expertise (GME) Intern - Hsinchu | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Internship---HR-Global-Mobility-Expertise--GME--Intern--one-year-contract----Hsinchu_J-00344573) | 2026-06-15 |
