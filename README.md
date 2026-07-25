@@ -90,6 +90,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fresenius Medical Care | Student Dietitian Clinical Placement | Dunbar, WV, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Dunbar-WV-USA/Student-Dietitian-Clinical-Placement_R0263386) | 2026-07-25 |
 | Fresenius Medical Care | Student Social Work Clinical Placement | Exeter, NH, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Exeter-NH-USA/Student-Social-Work-Clinical-Placement_R0263084) | 2026-07-25 |
 | Fresenius Medical Care | Student Social Worker Clinical Placement | Opelika, AL, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Opelika-AL-USA/Student-Social-Worker-Clinical-Placement_R0263302) | 2026-07-25 |
+| G2 | Legal Intern | Chicago, IL | [Apply](https://jobs.ashbyhq.com/G2/63cfa520-33ec-41c8-b629-95645879e948) | 2026-07-25 |
 | GE Aerospace | Product Support Engineering Intern | Queretaro | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Queretaro/Product-Support-Engineering-Intern_R5037880-1) | 2026-07-25 |
 | GE Appliances | Interaction Design Internship (Immediate Start through May 2027) | Louisville, KY, United States | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Interaction-Design-Internship--Year-Long-_REQ-26327) | 2026-07-25 |
 | GE Healthcare | Working Student (f/m/d) - Medical Affairs Administration Assistant | Munich | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Munich/Working-Student--f-m-d----Medical-Affairs-Administration-Assistant_R4043756-1) | 2026-07-25 |
@@ -104,6 +105,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Resident Assistant- Hornet Commons (Student Living) | Sacramento, Canada | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Hornet-Commons-Sacramento-CA/Resident-Assistant--Hornet-Commons--Student-Living-_R0195831) | 2026-07-25 |
 | Greystar Worldwide | Union on 24th - Community Assistant (Student Living) | Austin, TX | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Union-on-24th-Austin-TX/Union-on-24th---Community-Assistant--Student-Living-_R0195050) | 2026-07-25 |
 | GSK | Intern, Sales & Marketing Excellence, Mexico, 2026 | Mexico City Torre Mitikah | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Mexico-City-Torre-Mitikah/Intern--Sales---Marketing-Excellence--Mexico--2026_443383) | 2026-07-25 |
+| Heron Power | Intern, Business Development Associate, Fall 2026/Winter 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/823aab95-be9b-485e-a8fc-4024440a91cd) | 2026-07-25 |
 | Hewlett Packard (HP) | Category Internship | Brazil | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Barueri-So-Paulo-Brazil/Category-Internship_3163806) | 2026-07-25 |
 | HP | Category Internship | Brazil | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Barueri-So-Paulo-Brazil/Category-Internship_3163806-1) | 2026-07-25 |
 | Huron | Digital Consulting Director-Oracle Student Financial Aid (Technical) | Chicago 550 Van Buren | [Apply](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Digital-Consulting-Director-Oracle-Student-Financial-Aid--Technical-_JR-0016055) | 2026-07-25 |
@@ -184,6 +186,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Risk Management Intern, Fall 2026 | Burbank, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Risk-Management-Intern--Fall-2026_10156876-1) | 2026-07-25 |
 | Thermo Fisher Scientific | Fall 2026 Finance Co-op | Massachusetts, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Fall-2026-Finance-Co-op-_R-01362377-1) | 2026-07-25 |
 | Tyson Foods | Trailer Mechanic Trainee/Intern  (Russellville L.H. Garage) | Arkansas | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Russellville-AR-LH-Garage---Russellville-Arkansas/Trailer-Mechanic-Trainee-Intern---Russellville-LH-Garage-_R0475119-2) | 2026-07-25 |
+| UiPath | Presales & Solution Engineering Intern | Poland / Remote | [Apply](https://jobs.ashbyhq.com/uipath/2f0694c3-0a32-43db-8cba-783d8b4632f6) | 2026-07-25 |
 | Unilever | Finance Intern | South Africa | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Boksburg-South-Africa/Finance-Intern_R-1185774) | 2026-07-25 |
 | Unilever | Intern - Marketing | Sri Lanka | [Apply](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Colombo-Sri-Lanka/Intern---Marketing_R-1185594) | 2026-07-25 |
 | University of Chicago | Assistant Director, Student Life, Working Professionals Program | Chicago, IL | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Assistant-Director--Student-Life--Working-Professionals-Program_JR34640) | 2026-07-25 |
@@ -2599,7 +2602,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Signify | Digital Communications & Community Management Intern | Amsterdam | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Digital-Communications---Community-Management-Intern_365655) | 2026-07-14 |
 | Signify | Philips Hue Marketing Intern (Benelux Consumer) | Eindhoven | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Philips-Hue-Marketing-Intern--Benelux-Consumer-_363582) | 2026-07-14 |
 | Signify | Talent Acquisition Intern | Warszawa | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Talent-Acquisition-Intern_365609) | 2026-07-14 |
-| Snowflake | AI-Powered BI Intern: Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Staff | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Staff_R0014496) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Game Day and Equipment Supervisor | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Game-Day-and-Equipment-Supervisor_R0014497) | 2026-07-14 |
 | Southern New Hampshire University | Student - Athletics Sustainability Liaison Eco Rep | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Athletics-Sustainability-Liaison-Eco-Rep_R0014462) | 2026-07-14 |
@@ -4424,11 +4426,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sabre | Internal Audit Intern | Dallas-Fort Worth Metroplex | [Apply](https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Internal-Audit-Intern_JR108275) | 2026-07-02 |
 | Sanofi | Intern / Trainee in People Services Department (Paid Internship) | Warsaw | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Warsaw/Intern---Trainee-in-People-Services-Department--Paid-Internship-_R2860344) | 2026-07-02 |
 | Sarasota County | Energy Program Intern (UF/IFAS Extension) | Twin Lakes Park | [Apply](https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Twin-Lakes-Park/Energy-Program-Intern--UF-IFAS-Extension-_R20915) | 2026-07-02 |
-| Saronic | Electrical Engineer Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519) | 2026-07-02 |
 | Saronic | Information Technology Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) | 2026-07-02 |
 | Saronic | Naval Architect Intern (Fall 2026) | Texas, United States / Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192) | 2026-07-02 |
 | Saronic | Software Engineer Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) | 2026-07-02 |
-| Saronic | Test Engineer Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/927985ae-7a48-4628-9e03-36510d64fb5f) | 2026-07-02 |
 | Seven Research | Algorithmic Developer - Intern | New York | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | 2026-07-02 |
 | Seven Research | Core Developer - Intern | New York | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | 2026-07-02 |
 | Seven Research | Deep Learning Researcher - Intern | New York | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 2026-07-02 |
@@ -7613,9 +7613,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Scientech Research | Quantitative Developer Intern | China | [Apply](https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446) | 2026-06-08 |
 | Scientech Research | Quantitative Researcher Intern | New Jersey, United States | [Apply](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) | 2026-06-08 |
 | Scientech Research | Quantitative Researcher Intern | China | [Apply](https://jobs.ashbyhq.com/scientech-research/c344ad5a-b148-4a96-8d6c-a660e6f86896) | 2026-06-08 |
+| Sereact | Internship G2M | Germany / Remote | [Apply](https://jobs.ashbyhq.com/sereact/b1307f88-d714-429d-acda-5249941e7ba2) | 2026-06-08 |
 | Sereact | Internship Hardware (m/f/d) | Germany | [Apply](https://jobs.ashbyhq.com/sereact/5649e368-88e0-4c0f-b263-a007b53b4694) | 2026-06-08 |
 | Sereact | Internship R&D | Germany | [Apply](https://jobs.ashbyhq.com/sereact/54f1304b-89fb-47b4-ade5-51e1c2a74f41) | 2026-06-08 |
-| Sereact | Internship Sales | Germany / Remote | [Apply](https://jobs.ashbyhq.com/sereact/b1307f88-d714-429d-acda-5249941e7ba2) | 2026-06-08 |
 | Sereact | Internship Strategy & Execution (m/f/d) | Germany | [Apply](https://jobs.ashbyhq.com/sereact/816245cb-3d32-4e9c-b647-c75cd40fc487) | 2026-06-08 |
 | Signify | Marketing Communications Intern | Prague | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Prague/Marketing-Communications-Intern_364937) | 2026-06-08 |
 | Simular | GTM Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/4848fd37-97f5-4595-851d-0795da9f21b4) | 2026-06-08 |
@@ -7647,7 +7647,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vendelux | Part time Data Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43) | 2026-06-08 |
 | Vendelux | Tech Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de) | 2026-06-08 |
 | Wealth.com | Applied Scientist- AI/ML Intern | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/wealth-com/1899d513-4c4a-43b2-a307-8c8e4b877622) | 2026-06-08 |
-| WindBorne Systems | Creative Intern | California, United States | [Apply](https://jobs.ashbyhq.com/windborne-systems/eef84470-7eea-40c4-9bfc-43b9a14d9957) | 2026-06-08 |
 | BDO | Co-op or Intern, Credits & Incentives (Fall 2026) GTA Offices | Toronto Bay St / Markham / Oakville | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Credits---Incentives--Fall-2026--GTA-Offices_JR6411) | 2026-06-06 |
 | BDO | Co-op or Intern, Credits & Incentives (Fall 2026) Waterloo | Kitchener-Waterloo Caroline St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Kitchener-Waterloo---Caroline-St/Co-op-or-Intern--Credits---Incentives--Fall-2026--Waterloo_JR6418) | 2026-06-06 |
 | Cencora | STAGE ASSURANCE QUALITE (H/F) | Seiches-Sur-Le-Loire / Angers | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Seiches-sur-le-Loire/STAGE-ASSURANCE-QUALITE--H-F-_R2516462) | 2026-06-06 |

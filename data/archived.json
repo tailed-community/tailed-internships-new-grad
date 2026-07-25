@@ -271556,5 +271556,61 @@
     "date_added": "2026-07-09",
     "active": false,
     "date_archived": "2026-07-25"
+  },
+  {
+    "id": "ashby-saronic-927985ae-7a48-4628-9e03-36510d64fb5f",
+    "company": "Saronic",
+    "title": "Test Engineer Intern (Fall 2026)",
+    "location": "Texas, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/saronic/927985ae-7a48-4628-9e03-36510d64fb5f",
+    "date_posted": "2026-05-13",
+    "date_added": "2026-07-02",
+    "active": false,
+    "date_archived": "2026-07-25"
+  },
+  {
+    "id": "ashby-saronic-62c0a94b-c5a7-4b35-8092-d01dba301519",
+    "company": "Saronic",
+    "title": "Electrical Engineer Intern (Fall 2026)",
+    "location": "Texas, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519",
+    "date_posted": "2026-06-16",
+    "date_added": "2026-07-02",
+    "active": false,
+    "date_archived": "2026-07-25"
+  },
+  {
+    "id": "ashby-snowflake-634e9517-583c-446c-9a13-c0c5fe5960bb",
+    "company": "Snowflake",
+    "title": "AI-Powered BI Intern: Fall 2026",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb",
+    "date_posted": "2026-07-14",
+    "date_added": "2026-07-14",
+    "active": false,
+    "date_archived": "2026-07-25"
+  },
+  {
+    "id": "ashby-windborne-systems-eef84470-7eea-40c4-9bfc-43b9a14d9957",
+    "company": "WindBorne Systems",
+    "title": "Creative Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/windborne-systems/eef84470-7eea-40c4-9bfc-43b9a14d9957",
+    "date_posted": "2026-05-12",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-07-25"
   }
 ]
