@@ -2257,7 +2257,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Danaher Corporation | Pall P2P - Intern | Malaysia | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Malaysia/Pall-P2P---Intern_R1313596) | 2026-07-15 |
 | Disney | Brand Marketing Intern | Italy | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Milan-Italy/Brand-Marketing-Intern_10155183) | 2026-07-15 |
 | Disney | PR, Publicity & Communication Intern | Italy | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Milan-Italy/PR--Publicity---Communication-Intern_10142633) | 2026-07-15 |
-| DP World | Intern - Departament Tehnic (Planning & Maintenance) | Romania | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25824) | 2026-07-15 |
 | Egis Group | Stagiaire BAC+4 / Césure – Chargé de Projet RSE et Développement Durable H/F | Idf, France | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000137850799) | 2026-07-15 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship | San Jose | [Apply](https://us-erac.icims.com/jobs/557864/management-trainee-fall-2026-internship/job) | 2026-07-15 |
 | Enterprise Mobility | Management Trainee Internship | Santa Fe | [Apply](https://us-erac.icims.com/jobs/559293/management-trainee-internship/job) | 2026-07-15 |
@@ -6950,8 +6949,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | IT Security Internship (Summer 2026) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258835) | 2026-06-13 |
 | Wabtec | Manufacturing Engineer Intern (Mechanical) | Katy Wroclawskie, DS | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990012653106) | 2026-06-13 |
 | Williams-Sonoma | Research Engineering Internship - AI, Computer Vision, & Visualization | San Jose, United States | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15762) | 2026-06-13 |
-| Wood | H.O. Construction Engineer - Internship | Spain | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29089) | 2026-06-13 |
-| Wood | Project Engineering - Internship | Spain | [Apply](https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28703) | 2026-06-13 |
 | Worthington Enterprises | Accounting Intern | United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43110) | 2026-06-13 |
 | Worthington Enterprises | Safety Engineer Intern | West Warwick, RI, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43065) | 2026-06-13 |
 | WPP Media | Stage Consultant Média F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5252557008) | 2026-06-13 |

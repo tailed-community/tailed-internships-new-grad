@@ -272914,5 +272914,47 @@
     "date_added": "2026-07-15",
     "active": false,
     "date_archived": "2026-07-26"
+  },
+  {
+    "id": "oracle_hcm-dp-world-25824",
+    "company": "DP World",
+    "title": "Intern - Departament Tehnic (Planning & Maintenance)",
+    "location": "Romania",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25824",
+    "date_posted": "2026-07-14",
+    "date_added": "2026-07-15",
+    "active": false,
+    "date_archived": "2026-07-26"
+  },
+  {
+    "id": "oracle_hcm-wood-29089",
+    "company": "Wood",
+    "title": "H.O. Construction Engineer - Internship",
+    "location": "Spain",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29089",
+    "date_posted": "2026-05-07",
+    "date_added": "2026-06-13",
+    "active": false,
+    "date_archived": "2026-07-26"
+  },
+  {
+    "id": "oracle_hcm-wood-28703",
+    "company": "Wood",
+    "title": "Project Engineering - Internship",
+    "location": "Spain",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28703",
+    "date_posted": "2026-04-20",
+    "date_added": "2026-06-13",
+    "active": false,
+    "date_archived": "2026-07-26"
   }
 ]
