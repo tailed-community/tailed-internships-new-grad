@@ -30,6 +30,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | North Bay, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/300-Lakeshore-Dr-North-Bay-ON/Student--Franchise-Part-Time-Day_R2000687709) | 2026-07-26 |
 | NatWest Group | ET_Tech Intern Hiring_IIT Guwahati | Bengaluru | [Apply](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/ET-Tech-Intern-Hiring-IIT-Guwahati_R-00282480) | 2026-07-26 |
 | Prairie View A&M University | Work-Study Assistant (Residential Student Technicians) \| Office of Housing & Residence Life-1 | Prairie View, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Work-Study-Assistant--Residential-Student-Technicians----Office-of-Housing---Residence-Life-1_R-095510-2) | 2026-07-26 |
+| Robert Bosch Venture Capital | 【MA】Customer Team Region Asia Pacific Southeast | Japan | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139861659) | 2026-07-26 |
 | Texas A&M University System | Work-Study Assistant (Residential Student Technicians) \| Office of Housing & Residence Life-1 | Prairie View, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Work-Study-Assistant--Residential-Student-Technicians----Office-of-Housing---Residence-Life-1_R-095510-1) | 2026-07-26 |
 | Accenture | Internship M&A Business Strategy | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Internship-M-A-Business-Strategy_R00340379) | 2026-07-25 |
 | Accor | STAGE - ASSISTANT MANAGER PROJETS LOYALTY - H/F/X | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000139670419) | 2026-07-25 |
@@ -3578,7 +3579,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | McKesson | Product Business Analyst Intern - Fall 2026 | Can, ON | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Product-Business-Analyst-Intern---Fall-2026_JR0149817) | 2026-07-08 |
 | Medpace, Inc. | Clinical Business Intelligence Internship - Spring 2026 | Ohio | [Apply](https://careers.medpace.com/jobs/12845?lang=en-us&icims=1) | 2026-07-08 |
 | Mercer University | Auxiliary Services Student Worker | Macon Campus | [Apply](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Auxiliary-Services-Student-Worker_JR104005) | 2026-07-08 |
-| NBCUniversal | Content Sales & Business Intern (January - June 2027) | Singapore | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000136371469) | 2026-07-08 |
 | NBCUniversal | Creative Services Intern (January - June 2027) | Singapore | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000136371090) | 2026-07-08 |
 | NBCUniversal | Data Analyst Intern (January - June 2027) | Singapore | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000136374429) | 2026-07-08 |
 | NBCUniversal | Digital Account Management Intern (January - June 2027) | Singapore | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000136371689) | 2026-07-08 |
@@ -5462,7 +5462,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Renault Group | [Internship] Digitalization of equipment organization and traceability processes (F/M) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Titu/XMLNAME--Internship--Digitalization-of-equipment-organization-and-traceability-processes--F-M-_JOBREQ_50268438) | 2026-06-19 |
 | Robert Bosch Venture Capital | Internship Logistics Planning and Optimization | Wernau (neckar), BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000133059079) | 2026-06-19 |
 | Robert Bosch Venture Capital | Internship Modeling the Physical Dynamics of Micro-Electro-Mechanical Systems | Reutlingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000133024882) | 2026-06-19 |
-| Robert Bosch Venture Capital | Mandatory Internship in the Area of Data Analytics and Generative AI | Schwieberdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000133011799) | 2026-06-19 |
 | Robert Bosch Venture Capital | Working Student in Controlling Area | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000133017020) | 2026-06-19 |
 | Santander | AI Data Scientist - Internship | Torino | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TORINO/AI-Data-Scientist---Internship_Req1588274) | 2026-06-19 |
 | SCOR | Actuarial Intern - Capital Modelling | London, United Kingdom | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5102) | 2026-06-19 |

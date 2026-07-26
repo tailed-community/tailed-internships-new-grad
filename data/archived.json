@@ -272956,5 +272956,33 @@
     "date_added": "2026-06-13",
     "active": false,
     "date_archived": "2026-07-26"
+  },
+  {
+    "id": "smartrecruiters-nbcuniversal-744000136371469",
+    "company": "NBCUniversal",
+    "title": "Content Sales & Business Intern (January - June 2027)",
+    "location": "Singapore",
+    "type": "internship",
+    "season": "2027",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000136371469",
+    "date_posted": "2026-07-08",
+    "date_added": "2026-07-08",
+    "active": false,
+    "date_archived": "2026-07-26"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000133011799",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Mandatory Internship in the Area of Data Analytics and Generative AI",
+    "location": "Schwieberdingen, BW",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133011799",
+    "date_posted": "2026-06-19",
+    "date_added": "2026-06-19",
+    "active": false,
+    "date_archived": "2026-07-26"
   }
 ]
