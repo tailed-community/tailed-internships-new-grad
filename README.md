@@ -1205,7 +1205,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crum & Forster Insurance | Intern - Event Planning, Part time | Morristown, NJ, United States | [Apply](https://careers-cfins.icims.com/jobs/5045/intern---event-planning%2c-part-time/job) | 2026-07-21 |
 | CTC | Quant Trading Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-07-21 |
 | CTC | Software Engineering Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 2026-07-21 |
-| Cummings Electrical | Pharmacy Technician/Intern- No nights, weekends or holidays! | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/84715/pharmacy-technician-intern--no-nights%2c-weekends-or-holidays%21/job) | 2026-07-21 |
+| Cummings Electrical | Pharmacy Technician/Intern- No nights, weekends or holidays! | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/84715/pharmacy-technician/job) | 2026-07-21 |
 | CVS Health | Pharmacy Intern | Az Phoenix | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Phoenix/Pharmacy-Intern_R0982881) | 2026-07-21 |
 | CVS Health | Pharmacy Intern | In Lafayette | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Lafayette/Pharmacy-Intern_R0982967) | 2026-07-21 |
 | CVS Health | Pharmacy Intern | Ga Warner Robins | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Warner-Robins/Pharmacy-Intern_R0982934) | 2026-07-21 |
@@ -4608,8 +4608,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valmont | Manufacturing Engineer Intern | Tulsa Ok / Claremore Ok | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Tulsa-OK/Manufacturing-Engineer-Intern_R27987-1) | 2026-07-01 |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Ireland | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | 2026-07-01 |
 | Warner Bros. | CRM Campaign Operations Intern | Budapest Szabadsag Ter 7 | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/Budapest-Szabadsag-Ter-7/CRM-Campaign-Operations-Intern_R000106461) | 2026-07-01 |
-| Waters Corporation | Electrical Student Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27016/2026-27016/job) | 2026-07-01 |
-| Waters Corporation | Plumbing Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27014/2026-27014/job) | 2026-07-01 |
+| Waters Corporation | Electrical Student Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27016/electrical-student-co-op/job) | 2026-07-01 |
+| Waters Corporation | Plumbing Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/27014/plumbing-co-op/job) | 2026-07-01 |
 | Western Digital | Intern - Maintenance Technician (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) Start in January 2027 | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000135237229) | 2026-07-01 |
 | WVUMedicine | Coordinator Student Programs | Ruby Memorial Hospital (wvuh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Ruby-Memorial-Hospital-WVUH/Coordinator-Student-Programs_JR26-39381-1) | 2026-07-01 |
 | Zebra | 2026 Summer Intern (Penang) BA - ( Japanese Speaking) | Malaysia | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Penang-Malaysia/XMLNAME-2026-Summer-Intern--Penang--BA-----Japanese-Speaking-_111260) | 2026-07-01 |
