@@ -28,6 +28,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Stage - AI Specialist (H/F) | Bagneux, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10096835) | 2026-07-27 |
 | Airbus | ACOQ6 Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOQ6-Intern_JR10431391) | 2026-07-27 |
 | Airbus | Intern (d/f/m) Application Development at Flight Physics | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Intern--d-f-m--Application-Development-at-Flight-Physics_JR10429177) | 2026-07-27 |
+| Allegiant Air | Intern, Financial Analyst (Fall 2026) | Las Vegas, NV | [Apply](https://jobs.lever.co/allegiantair/df5b7db9-c938-4f3d-8926-57d8a0dbecb3) | 2026-07-27 |
 | Amgen | Senior Associate, Talent Management, University Relations – Intern Program | India Hyderabad | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Senior-Associate--Talent-Management--University-Relations---Intern-Program_R-251367) | 2026-07-27 |
 | Ardian | Private Equity Semiconductor Stage - Janvier 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Private-Equity-Semiconductor-Stage---Janvier-2027-I-Paris--H-F-_JR1002150) | 2026-07-27 |
 | AstraZeneca | Internship - Marketing Intern (1 year) | Taiwan | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Taiwan/Internship---Marketing-Intern--1-year-_R-257128) | 2026-07-27 |
@@ -344,6 +345,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | stage 6 mois – amélioration continue en production | Tours | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Tours/stage-6-mois---amlioration-continue-en-production_R2865402) | 2026-07-27 |
 | Signify | Intern/Product Test | Shanghai | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Intern-Product-Test_365695) | 2026-07-27 |
 | Sony | Facilities Intern Iberia | Barcelona | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Barcelona/Facilities-Intern-Iberia_JR-119415-2) | 2026-07-27 |
+| Sophos | Field Marketing Intern – German speaking (m/f/d) | United Kingdom / Germany | [Apply](https://jobs.lever.co/sophos/c7895b4a-e459-4021-8094-a9e7c1ac9410) | 2026-07-27 |
 | St. Luke's University Health Network | Radiology Technologist Intern | Sellersville | [Apply](https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Sellersville-PA---700-Lawn-Ave/Radiology-Technologist-Intern_R143573) | 2026-07-27 |
 | Stride | Student Attendance Specialist | United States Remote | [Apply](https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US---NC---Remote/Student-Attendance-Specialist_JR115686) | 2026-07-27 |
 | Stryker | Discover Internship, Finance, I2P | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship--Finance--I2P_R569223-1) | 2026-07-27 |
@@ -956,7 +958,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dow Chemical Company | 2026 Summer Intern - M&E (Fukui) | Awara (jpn) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Awara-JPN/XMLNAME-2026-Summer-Intern---M-E--Fukui-_R2067523) | 2026-07-23 |
 | Draper | Acoustic and Vibration Technologies Co-op | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Co-op_JR002688) | 2026-07-23 |
 | Emerson Electric | German-Speaking Technical Support Representative Intern | Hungary | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008321) | 2026-07-23 |
-| Endpoint Clinical | Business Development Intern | Canada Remote | [Apply](https://jobs.lever.co/endpointclinical/22bcfb31-cc62-4c7d-a43b-87a0fa79ce32) | 2026-07-23 |
+| Endpoint Clinical | Business Development Intern | United States Remote | [Apply](https://jobs.lever.co/endpointclinical/22bcfb31-cc62-4c7d-a43b-87a0fa79ce32) | 2026-07-23 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship | Hayward | [Apply](https://us-erac.icims.com/jobs/559875/management-trainee-fall-2026-internship/job) | 2026-07-23 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship | Pleasanton | [Apply](https://us-erac.icims.com/jobs/559876/management-trainee-fall-2026-internship/job) | 2026-07-23 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship | Richmond | [Apply](https://us-erac.icims.com/jobs/559870/management-trainee-fall-2026-internship/job) | 2026-07-23 |
