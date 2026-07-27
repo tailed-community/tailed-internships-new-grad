@@ -1,32 +1,80 @@
 company,url,source,job_count,example_job_url,lead_source,identity
-Adaptive Security,https://jobs.ashbyhq.com/adaptivesecurity,ashby,1,https://jobs.ashbyhq.com/adaptivesecurity/a941849b-bc2b-421d-b58c-bd76cfa31b1b/application,Simplify,ashby :: adaptivesecurity
-Argmax,https://boards.greenhouse.io/argmax,greenhouse,1,https://job-boards.greenhouse.io/argmax/jobs/4067268009,Simplify,greenhouse :: argmax
+"Ampliwork, Inc",https://ats.rippling.com/ampliwork-inc/jobs,rippling,1,https://ats.rippling.com/ampliwork-inc/jobs/df7e9bf9-b88b-4f5b-9ac7-51e85664fe0e,Simplify,rippling :: ampliwork-inc
+Anthelion Capital,https://jobs.ashbyhq.com/anthelioncap,ashby,1,https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true,Simplify,ashby :: anthelioncap
+Aptura,https://jobs.ashbyhq.com/aptura,ashby,1,https://jobs.ashbyhq.com/aptura/fbe2e597-52df-49f8-9bed-0e3a21e620a9/application?embed=true,Simplify,ashby :: aptura
+Architect Labs,https://jobs.ashbyhq.com/architect,ashby,1,https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true,Simplify,ashby :: architect
 AssetWorks,https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks,workday,1,https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762,Simplify,workday :: volarisgroup :: goassetworks
-Avaap,https://avaap.wd501.myworkdayjobs.com/AvaapCareers,workday,1,https://avaap.wd501.myworkdayjobs.com/AvaapCareers/job/United-States-of-America/Student-Reporting---AMS_JR1132,Simplify,workday :: avaap :: avaapcareers
-Beacon Software,https://jobs.ashbyhq.com/beaconsoftware,ashby,1,https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true,Simplify,ashby :: beaconsoftware
+Baldwin Group,https://baldwin.wd1.myworkdayjobs.com/Baldwin,workday,1,https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868-1,Simplify,workday :: baldwin :: baldwin
+Bild AI,https://jobs.ashbyhq.com/bild-ai,ashby,1,https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true,Simplify,ashby :: bild-ai
 Blackberry,https://bb.wd3.myworkdayjobs.com/blackberry,workday,1,https://bb.wd3.myworkdayjobs.com/blackberry/job/Dusseldorf-Germany/Werkstudent---ERP-Anpassung-Entwicklung--Working-Student---ERP-Customization_20260101-3,Simplify,workday :: bb :: blackberry
 BlackRock,https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program,workday,2,https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170,Simplify,workday :: blackrock :: blackrock_early_careers_program
-Circleback,https://jobs.ashbyhq.com/circleback,ashby,1,https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true,Simplify,ashby :: circleback
-City of Aurora,https://auroragov.wd1.myworkdayjobs.com/careers,workday,1,https://auroragov.wd1.myworkdayjobs.com/careers/job/Daniel-P-Mikesell-Building-Southeast-Area-Maintenance-Facility--SEAM/Water-GIS-Intern_JR109039,Simplify,workday :: auroragov :: careers
-Compassion International,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink,workday,1,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1,Simplify,workday :: compassion :: compassioncareersprivatelink
-Composio,https://jobs.ashbyhq.com/composio,ashby,1,https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true,Simplify,ashby :: composio
-Constellation Space,https://jobs.ashbyhq.com/constellationspace,ashby,1,https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true,Simplify,ashby :: constellationspace
-CuspAI,https://jobs.ashbyhq.com/cuspai,ashby,1,https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true,Simplify,ashby :: cuspai
-Custom Computer Specialists,https://boards.greenhouse.io/customcomputerspecialists,greenhouse,1,https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009,Simplify,greenhouse :: customcomputerspecialists
-Deepgram,https://jobs.ashbyhq.com/deepgram,ashby,1,https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true,Simplify,ashby :: deepgram
-Duracell,https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26,oracle_hcm,1,https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330,Simplify,oracle_hcm :: fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com :: en :: cx_26
-Finning,https://finning.wd3.myworkdayjobs.com/External,workday,1,https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/Data-Quality-Analyst-Intern_R-2026-3274,Simplify,workday :: finning :: external
-General Atlantic,https://boards.greenhouse.io/generalatlantic,greenhouse,1,https://job-boards.greenhouse.io/generalatlantic/jobs/6115031004,Simplify,greenhouse :: generalatlantic
+Bloxd,https://jobs.ashbyhq.com/bloxd,ashby,1,https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474/application?embed=true,Simplify,ashby :: bloxd
+Blue Robotics,https://ats.rippling.com/blue-robotics/jobs,rippling,1,https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7,Simplify,rippling :: blue-robotics
+Brandeis University,https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs,workday,1,https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Temporary-Research-Assistant---School-of-Business-and-Economics--2026_R0013392-1,Simplify,workday :: brandeis :: jobs
+Columbia Helicopters,https://ats.rippling.com/colheli/jobs,rippling,1,https://ats.rippling.com/colheli/jobs/a4feeeb1-e7b2-41b5-8f33-b1a012e28b18,Simplify,rippling :: colheli
+Compassion International,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink,workday,2,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1,Simplify,workday :: compassion :: compassioncareersprivatelink
+Democratic National Committee,https://ats.rippling.com/democratic-national-committee/jobs,rippling,1,https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d,Simplify,rippling :: democratic-national-committee
+Denari,https://ats.rippling.com/denari/jobs,rippling,1,https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282,Simplify,rippling :: denari
+Dexmate,https://jobs.ashbyhq.com/dexmate,ashby,1,https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true,Simplify,ashby :: dexmate
+Ditto,https://jobs.ashbyhq.com/ditto,ashby,1,https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true,Simplify,ashby :: ditto
+Duku AI,https://ats.rippling.com/duku-ai/jobs,rippling,1,https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84,Simplify,rippling :: duku-ai
+Egra,https://jobs.ashbyhq.com/egra,ashby,1,https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true,Simplify,ashby :: egra
+Eragon,https://jobs.ashbyhq.com/eragon,ashby,1,https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e/application?embed=true,Simplify,ashby :: eragon
+Excel Sports Management,https://boards.greenhouse.io/excelsportsmanagement,greenhouse,1,https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005,Simplify,greenhouse :: excelsportsmanagement
+Exploration Technology Corp.,https://ats.rippling.com/etg/jobs,rippling,1,https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc,Simplify,rippling :: etg
+Fab2,https://jobs.ashbyhq.com/fab2,ashby,6,https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true,Simplify,ashby :: fab2
+Faculte,https://jobs.ashbyhq.com/faculty-fellowship,ashby,1,https://jobs.ashbyhq.com/faculty-fellowship/dd2a8104-fbec-4e54-bed8-1e0553186e00/application?embed=true,Simplify,ashby :: faculty-fellowship
+Firetiger,https://jobs.ashbyhq.com/firetiger,ashby,1,https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true,Simplify,ashby :: firetiger
+Fluency,https://jobs.ashbyhq.com/fluency,ashby,1,https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true,Simplify,ashby :: fluency
+Frontier Health,https://jobs.ashbyhq.com/frontier-health,ashby,1,https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true,Simplify,ashby :: frontier-health
 General Dynamics,https://careers-gd-ots.icims.com/jobs/search,icims,1,https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-gd-ots.icims.com
-Kulicke & Soffa,https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1,oracle_hcm,2,https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11499,Simplify,oracle_hcm :: etyy.fa.ap2.oraclecloud.com :: en :: cx_1
-Light & Wonder,https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers,workday,1,https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327,Simplify,workday :: lnw :: lightwonderexternalcareers
+GenMD,https://jobs.ashbyhq.com/genmd,ashby,1,https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true,Simplify,ashby :: genmd
+Georgian Partners Growth,https://jobs.ashbyhq.com/georgian,ashby,1,https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true,Simplify,ashby :: georgian
+"Gitar, Inc.",https://ats.rippling.com/gitar-careers/jobs,rippling,2,https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49,Simplify,rippling :: gitar-careers
+Golden Pet Brands,https://boards.greenhouse.io/goldenpetbrands,greenhouse,1,https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005,Simplify,greenhouse :: goldenpetbrands
+Gritt Robotics Inc,https://jobs.ashbyhq.com/gritt,ashby,1,https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true,Simplify,ashby :: gritt
+HireVue,https://jobs.smartrecruiters.com/HireVue,smartrecruiters,1,https://jobs.smartrecruiters.com/HireVue/744000138728139,Simplify,smartrecruiters :: hirevue
+Hubs.is,https://jobs.ashbyhq.com/hubs.is,ashby,1,https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true,Simplify,ashby :: hubs.is
+Junior AI,https://jobs.ashbyhq.com/junior,ashby,1,https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true,Simplify,ashby :: junior
+k-ID,https://jobs.ashbyhq.com/k-id,ashby,1,https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true,Simplify,ashby :: k-id
+Kinetic Systems,https://jobs.ashbyhq.com/kineticsystems,ashby,1,https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734/application?embed=true,Simplify,ashby :: kineticsystems
+Kirin,https://jobs.ashbyhq.com/kirin,ashby,2,https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a/application?embed=true,Simplify,ashby :: kirin
+"LightGuide, Inc.",https://ats.rippling.com/lightguide/jobs,rippling,1,https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408,Simplify,rippling :: lightguide
+Mistral AI,https://jobs.ashbyhq.com/mistral.ai,ashby,2,https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true,Simplify,ashby :: mistral.ai
+Mistral AI,https://jobs.ashbyhq.com/mtesting.ai,ashby,2,https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true,Simplify,ashby :: mtesting.ai
+Mobius Renewables,https://ats.rippling.com/greengas/jobs,rippling,1,https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6,Simplify,rippling :: greengas
+Monogram,https://jobs.ashbyhq.com/monogram,ashby,1,https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778/application?embed=true,Simplify,ashby :: monogram
+Moon,https://ats.rippling.com/moon/jobs,rippling,2,https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b,Simplify,rippling :: moon
+MSI,https://baldwin.wd1.myworkdayjobs.com/MSI,workday,1,https://baldwin.wd1.myworkdayjobs.com/MSI/job/Boston-Massachusetts-US/Rotational-Undergraduate-Analyst---MSI_JR109868,Simplify,workday :: baldwin :: msi
+MSM Inc.,https://ats.rippling.com/msm/jobs,rippling,1,https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4,Simplify,rippling :: msm
+NationGraph,https://jobs.ashbyhq.com/nationgraph,ashby,2,https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true,Simplify,ashby :: nationgraph
 Navy Federal,https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu,oracle_hcm,2,https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776,Simplify,oracle_hcm :: fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com :: en :: nfcu
-Odyssey,https://jobs.ashbyhq.com/odysseyml,ashby,1,https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d/application?embed=true,Simplify,ashby :: odysseyml
-Orbital Industries,https://jobs.ashbyhq.com/orbitalindustries,ashby,1,https://jobs.ashbyhq.com/orbitalindustries/837b7e29-b89a-4ea4-b90d-48d8782f48b8/application,Simplify,ashby :: orbitalindustries
+NeoCognition,https://jobs.ashbyhq.com/neocognition,ashby,1,https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76/application?embed=true,Simplify,ashby :: neocognition
+NeoSigma,https://ats.rippling.com/neosigma/jobs,rippling,1,https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866,Simplify,rippling :: neosigma
+NERv Technology Inc. D.B.A. FluidAI Medical,https://ats.rippling.com/fluidai-medical-careers/jobs,rippling,1,https://ats.rippling.com/fluidai-medical-careers/jobs/c87d6d49-edd6-47eb-93f8-6e8a93216b39,Simplify,rippling :: fluidai-medical-careers
+North Cloud,https://ats.rippling.com/north-cloud/jobs,rippling,1,https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4,Simplify,rippling :: north-cloud
+"Odin Dynamics, Inc",https://jobs.ashbyhq.com/odin-dynamics,ashby,1,https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true,Simplify,ashby :: odin-dynamics
+Oligo Space,https://jobs.ashbyhq.com/oligo,ashby,1,https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true,Simplify,ashby :: oligo
+Onware,https://ats.rippling.com/onware/jobs,rippling,1,https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a,Simplify,rippling :: onware
+Outpost Technologies,https://jobs.ashbyhq.com/outpostnow,ashby,1,https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee/application?embed=true,Simplify,ashby :: outpostnow
+Pendulum Intelligence,https://ats.rippling.com/pendulum-intelligence-jobs/jobs,rippling,1,https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27,Simplify,rippling :: pendulum-intelligence-jobs
 Persona AI,https://jobs.ashbyhq.com/persona.ai,ashby,1,https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application,Simplify,ashby :: persona.ai
-PGIM,https://pru.wd5.myworkdayjobs.com/pgim_careers,workday,5,https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Summer-Investment-Analyst-Program_R-124649,Simplify,workday :: pru :: pgim_careers
-Phaidra,https://boards.greenhouse.io/phaidra,greenhouse,1,https://job-boards.greenhouse.io/phaidra/jobs/4716285005,Simplify,greenhouse :: phaidra
+Phlair,https://jobs.ashbyhq.com/phlair,ashby,1,https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86/application?embed=true,Simplify,ashby :: phlair
+Phonely,https://jobs.ashbyhq.com/phonely,ashby,1,https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5/application?embed=true,Simplify,ashby :: phonely
+Phonic,https://jobs.ashbyhq.com/phonic,ashby,1,https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true,Simplify,ashby :: phonic
+Polymath,https://jobs.ashbyhq.com/polymath,ashby,1,https://jobs.ashbyhq.com/polymath/feac8f33-2e28-4434-bff5-cf26c849f270/application?embed=true,Simplify,ashby :: polymath
 PricewaterhouseCoopers (PwC),https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers,workday,1,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kingston/Markets-Intern_730763WD,Simplify,workday :: pwc :: global_experienced_careers
-RAVL,https://jobs.lever.co/ravl_io,lever,1,https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply,Simplify,lever :: ravl_io
+Quadrillion,https://jobs.ashbyhq.com/quadrillion-labs,ashby,3,https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true,Simplify,ashby :: quadrillion-labs
+Revise Robotics,https://jobs.ashbyhq.com/reviserobotics,ashby,1,https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true,Simplify,ashby :: reviserobotics
+Roam,https://jobs.ashbyhq.com/tryroam,ashby,1,https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application?embed=true,Simplify,ashby :: tryroam
+ROCKWOOL Group,https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL,workday,2,https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795,Simplify,workday :: rockwoolgroup :: rockwool
+Spacial AI,https://jobs.ashbyhq.com/spacial,ashby,1,https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true,Simplify,ashby :: spacial
+SpreeAI,https://ats.rippling.com/spreeai/jobs,rippling,3,https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1,Simplify,rippling :: spreeai
+Terranova,https://jobs.ashbyhq.com/terranova,ashby,1,https://jobs.ashbyhq.com/terranova/578d418d-42f8-404a-9b82-a5cbd67086d8/application?embed=true,Simplify,ashby :: terranova
+University of Ottawa,https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site,workday,1,https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR37685,Simplify,workday :: uottawa :: uottawa_external_career_site
+Varick Agents,https://jobs.ashbyhq.com/varick-agents,ashby,1,https://jobs.ashbyhq.com/varick-agents/b2df1c3b-43c7-40d4-8271-150a06f10bf2/application?embed=true,Simplify,ashby :: varick-agents
+Veeda AI,https://jobs.ashbyhq.com/veeda-labs,ashby,1,https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true,Simplify,ashby :: veeda-labs
+Vega Investment Technologies,https://jobs.ashbyhq.com/vega,ashby,1,https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true,Simplify,ashby :: vega
 Visa,https://visa.wd5.myworkdayjobs.com/Visa,workday,1,https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W,Simplify,workday :: visa :: visa
-Voloridge,https://boards.greenhouse.io/voloridgeinvestmentmanagement,greenhouse,2,https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009,Simplify,greenhouse :: voloridgeinvestmentmanagement
+Vmax AI Corp,https://jobs.ashbyhq.com/vmax,ashby,1,https://jobs.ashbyhq.com/vmax/7344d5fd-6fa3-4bce-b7bd-e73aa4dd568b/application?embed=true,Simplify,ashby :: vmax
+Zuru,https://jobs.ashbyhq.com/zuru,ashby,1,https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true,Simplify,ashby :: zuru
