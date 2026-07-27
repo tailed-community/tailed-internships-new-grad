@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | AutoNation | Entry Level Technician | Autonation Honda Dulles | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Dulles/Entry-Level-Technician_JR2026146066) | 2026-07-27 |
+| Eurofins | Inside Sales Representative - Entry Level | Plano, TX, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140025000) | 2026-07-27 |
 | Firetiger | Product Engineer — New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6) | 2026-07-27 |
 | GE Vernova | Substation Automation Commissioning  Engineer Early Career Trainee | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Al-Khobar/Substation-Automation-Commissioning--Engineer-Early-Career-Trainee_R5046864-1) | 2026-07-27 |
 | GE Vernova - vernova_externalsite | Substation Automation Commissioning  Engineer Early Career Trainee | Al Khobar | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Al-Khobar/Substation-Automation-Commissioning--Engineer-Early-Career-Trainee_R5046864-2) | 2026-07-27 |
