@@ -203364,20 +203364,6 @@
     "date_archived": "2026-07-11"
   },
   {
-    "id": "icims-enterprise-mobility-558884",
-    "company": "Enterprise Mobility",
-    "title": "Management Trainee Intern Spring 2027",
-    "location": "ON",
-    "type": "internship",
-    "season": "Spring 2027",
-    "source": "icims",
-    "url": "https://us-erac.icims.com/jobs/558884/management-trainee-intern-spring-2027/job",
-    "date_posted": null,
-    "date_added": "2026-07-10",
-    "active": false,
-    "date_archived": "2026-07-11"
-  },
-  {
     "id": "icims-keysight-technologies-53288",
     "company": "Keysight Technologies",
     "title": "Engineering Intern",
@@ -261002,20 +260988,6 @@
     "date_archived": "2026-07-23"
   },
   {
-    "id": "icims-kimley-horn-24847",
-    "company": "Kimley-Horn",
-    "title": "Landscape Architecture Intern",
-    "location": "Not specified",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "icims",
-    "url": "https://careers-kimley-horn.icims.com/jobs/24847/landscape-architecture-intern/job",
-    "date_posted": "2026-07-07",
-    "date_added": "2026-07-07",
-    "active": false,
-    "date_archived": "2026-07-23"
-  },
-  {
     "id": "icims-kinaxis-34764",
     "company": "Kinaxis",
     "title": "Co-op/Intern Software Development - C++",
@@ -277196,6 +277168,76 @@
     "url": "https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff",
     "date_posted": "2026-07-06",
     "date_added": "2026-07-20",
+    "active": false,
+    "date_archived": "2026-07-27"
+  },
+  {
+    "id": "icims-gannet-fleming-14444",
+    "company": "Gannet Fleming",
+    "title": "Entry Level Overhead Catenary System Engineer",
+    "location": "Philadelphia, PA, United States",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-gannettfleming.icims.com/jobs/14444/entry-level-overhead-catenary-system-engineer/job",
+    "date_posted": null,
+    "date_added": "2026-07-24",
+    "active": false,
+    "date_archived": "2026-07-27"
+  },
+  {
+    "id": "icims-kimley-horn-25271",
+    "company": "Kimley-Horn",
+    "title": "Environmental Science Intern",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-kimley-horn.icims.com/jobs/25271/environmental-science-intern/job",
+    "date_posted": "2026-07-22",
+    "date_added": "2026-07-23",
+    "active": false,
+    "date_archived": "2026-07-27"
+  },
+  {
+    "id": "icims-kimley-horn-25269",
+    "company": "Kimley-Horn",
+    "title": "Landscape Architecture Intern",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-kimley-horn.icims.com/jobs/25269/landscape-architecture-intern/job",
+    "date_posted": "2026-07-22",
+    "date_added": "2026-07-23",
+    "active": false,
+    "date_archived": "2026-07-27"
+  },
+  {
+    "id": "icims-mackenzie-investments-5938",
+    "company": "Mackenzie Investments",
+    "title": "Fall Intern 2026 - Investment Management, Fundamental Equity",
+    "location": "Greater Toronto Area, ON, Canada",
+    "type": "internship",
+    "season": "Fall",
+    "source": "icims",
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5938/fall-intern-2026---investment-management%2c-fundamental-equity/job",
+    "date_posted": "2026-07-16",
+    "date_added": "2026-07-17",
+    "active": false,
+    "date_archived": "2026-07-27"
+  },
+  {
+    "id": "icims-walter-p-moore-4180",
+    "company": "Walter P Moore",
+    "title": "Structural Intern",
+    "location": "Austin, TX, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-walterpmoore.icims.com/jobs/4180/structural-intern/job",
+    "date_posted": null,
+    "date_added": "2026-07-21",
     "active": false,
     "date_archived": "2026-07-27"
   }
