@@ -277184,5 +277184,19 @@
     "date_added": "2026-07-09",
     "active": false,
     "date_archived": "2026-07-27"
+  },
+  {
+    "id": "ashby-composio-cceb9883-7967-45a9-8e37-ed72cec3deff",
+    "company": "Composio",
+    "title": "Product Intern",
+    "location": "India, India",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff",
+    "date_posted": "2026-07-06",
+    "date_added": "2026-07-20",
+    "active": false,
+    "date_archived": "2026-07-27"
   }
 ]
