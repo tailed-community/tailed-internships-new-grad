@@ -543,7 +543,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | TDS | Entry Level Sales Representative | Missoula, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29566/entry-level-sales-representative/job) | 2026-06-26 |
 | TDS | Entry Level Sales Representative | Nampa, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29568/entry-level-sales-representative/job) | 2026-06-26 |
 | TDS | Entry Level Sales Representative | Great Falls, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29569/entry-level-sales-representative/job) | 2026-06-26 |
-| WSP | Early Career, Environmental Scientist, Geologist, Hydrogeologist or Engineer | Shelton, CT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89769) | 2026-06-26 |
 | Auto-Owners Insurance | Entry Level Life/Health Underwriter | Lansing, MI | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Entry-Level-Life-Health-Underwriter_R_13805-1) | 2026-06-25 |
 | CAI | IDIQ FIT Leaders Graduate Program | Manila One World Square | [Apply](https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/Manila---One-World-Square/IDIQ-FIT-Leaders-Graduate-Program---Hybrid--Mandaluyong-City_R7973) | 2026-06-25 |
 | Cox | Entry Level Diesel & Trailer Mechanic | Worcester Ma | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Worcester-MA/Entry-Level-Diesel---Trailer-Mechanic_R202679240) | 2026-06-25 |
@@ -717,7 +716,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-06-15 |
 | WSP | Early Career Civil Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89066) | 2026-06-15 |
 | ZOLL Medical Corporation | Client Services Representative (Entry Level) | Chelmsford, MA | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Client-Services-Representative--Entry-Level-_R18841) | 2026-06-15 |
-| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170682) | 2026-06-14 |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) | 2026-06-13 |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) | 2026-06-13 |
 | Atria Group | Entry Level ASP.NET programmer | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211) | 2026-06-13 |
