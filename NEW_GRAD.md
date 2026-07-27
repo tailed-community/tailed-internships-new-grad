@@ -88,7 +88,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company | Spacecraft Systems Engineer (Early Career) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Systems-Engineer--Early-Career----Millennium-Space-Systems_JR2026519970-1) | 2026-07-24 |
 | The Boeing Company - external_subsidiary | Spacecraft Systems Engineer (Early Career) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Systems-Engineer--Early-Career----Millennium-Space-Systems_JR2026519970) | 2026-07-24 |
 | Trimble | Associate Talent Attraction Business Partner, Early Career | Westminster | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Associate-Talent-Attraction-Business-Partner--Early-Career_R57103) | 2026-07-24 |
-| VaynerMedia | Post Creative Strategist ( Junior / Entry level ) | England | [Apply](https://vaynermedia.com/careers?gh_jid=8020698) | 2026-07-24 |
 | WSP | Early Career Substation Electrical Engineer | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91728) | 2026-07-24 |
 | Aerotek | Entry Level Recruiter/Sales Trainee (Knoxville, TN) | Knoxville, TN, United States | [Apply](https://careers-aerotek.icims.com/jobs/13494/entry-level-recruiter-sales-trainee-%28knoxville%2c-tn%29/job) | 2026-07-23 |
 | Applied Materials | Global Installation Engineer-Semi-Shanghai/Beijing/Wuxi/Chengdu-New Graduate | Chn | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Global-Installation-Engineer-Semi-Shanghai-Beijing-Wuxi-Chengdu-New-Graduate_R2624660) | 2026-07-23 |
@@ -1080,9 +1079,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry Level Engineer (Rail Structures Design) | Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5133130008) | 2026-06-02 |
 | Olsson | Entry Level Rail Structures Engineer - Relocate to Omaha | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5148352008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
@@ -1142,8 +1141,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) | 2026-06-02 |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) | 2026-06-02 |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) | 2026-06-02 |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) | 2026-06-02 |
 | Taylor Corporation | Equipment Operator – Entry Level | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/Amsterdam-NY---Taylor-Promotional-Products-Inc/Equipment-Operator-I---Entry-Level_R28457) | 2026-06-02 |
 | Teledyne | Manufacturing Process Operator (entry level - Night Shift) | Canada Edmonton, AB | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Manufacturing-Process-Operator--entry-level---Night-Shift-_REQ32199) | 2026-06-02 |
