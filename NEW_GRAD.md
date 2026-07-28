@@ -28,6 +28,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Machine Shop Maintenance Mechanic (Entry Level) | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/19579/machine-shop-maintenance-mechanic-%28entry-level%29/job) | 2026-07-28 |
 | General Dynamics Mission Systems | Entry Level Software Systems Engineer | Port Orchard, WA, United States | [Apply](https://careers-gdms.icims.com/jobs/73755/entry-level-software-systems-engineer/job) | 2026-07-28 |
 | Intermountain Healthcare | New Graduate RN Med Surg | Intermountain Health American Fork Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/New-Graduate-RN-Med-Surg_R167562) | 2026-07-28 |
+| Intertek | Entry Level Technicians - HVAC - 2nd and 3rd Shift | Cortland, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15376) | 2026-07-28 |
+| Intertek | Entry-Level Field Technician - Construction Materials Testing | Houston, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15411) | 2026-07-28 |
 | Kyndryl | Graduate Program – System Engineer Development | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---System-Engineer-Development_R-63861-1) | 2026-07-28 |
 | Meijer | Pharmacy Technician Entry Level 1 | Carpenter Road Ypsilanti, MI | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Carpenter-Road---Ypsilanti-MI/Pharmacy-Technician-Entry-Level-1_R000686280-1) | 2026-07-28 |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) | 2026-07-28 |
@@ -39,6 +41,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | State Street | 2027 New Graduate, Fund Accounting, Associate 1 | Japan | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2027-New-Graduate--Fund-Accounting--Associate-1_R-783908) | 2026-07-28 |
 | Takeda | Entry Level Phlebotomist | USA Co Colorado Springs | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---CO---Colorado-Springs/Entry-Level-Phlebotomist_R0185586-1) | 2026-07-28 |
 | Thermo Fisher Scientific | Scientist I - Entry Level | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Scientist-I---Entry-Level_R-01360023) | 2026-07-28 |
+| WSP | Early Career Project Controls Data Analyst | Seattle, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91898) | 2026-07-28 |
+| WSP | Early Career Substation Electrical Engineer | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91998) | 2026-07-28 |
 | AutoNation | Entry Level Technician | Autonation Honda Dulles | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Dulles/Entry-Level-Technician_JR2026146066) | 2026-07-27 |
 | Eurofins | Inside Sales Representative - Entry Level | Plano, TX, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140025000) | 2026-07-27 |
 | Firetiger | Product Engineer — New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6) | 2026-07-27 |
@@ -102,7 +106,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fresenius Medical Care | New Graduate RN | Oceanside, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Oceanside-CA-USA/New-Graduate-RN_R0256572) | 2026-07-24 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Bloomington, MN, United States | [Apply](https://careers-gdms.icims.com/jobs/73740/systems-engineer-%e2%80%93-entry-level/job) | 2026-07-24 |
 | ICF International | DevSecOps Engineer (Entry level - Clearance Required) - (US-Remote) | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/DevSecOps-Engineer--Entry-level---Clearance-Required-----US-Remote-_R2602510) | 2026-07-24 |
-| Intertek | Engineer - Electrical Safety (Entry Level) | Menlo Park, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15286) | 2026-07-24 |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Spring, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14717) | 2026-07-24 |
 | Kyndryl | Graduate Program – Application Consulting | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Application-Consulting_R-65539-1) | 2026-07-24 |
 | Marsh | Oliver Wyman – Entry-level Consultant & Project Analyst (2027) – Jakarta | Jakarta World Trade Blg. 3 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Jakarta---World-Trade-Blg-3/Oliver-Wyman---Entry-level-Consultant---Project-Analyst--2027----Jakarta_R_359661) | 2026-07-24 |
@@ -455,7 +458,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kimberly-Clark | Entry Level Operator Logistics | USA-Ct-New Milford | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-CT-New-Milford/Entry-Level-Operator-Logistics_886146-2) | 2026-07-02 |
 | Northwood Space | Electrical Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/af609880-1e6c-4f89-8594-3c593f6eba0f) | 2026-07-02 |
 | Ralliant | Field Applications Engineer - Entry Level | United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9554) | 2026-07-02 |
-| Ralliant | Research & Development / Manufacturing Early Career Rotational Program (ECRP) Associate | Fairport, NY, United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7964) | 2026-07-02 |
 | Solar Turbines | Associate Controls Engineer - Entry Level 2026 | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Associate-Controls-Engineer---Entry-Level-2026_R0000380399) | 2026-07-02 |
 | Solar Turbines | Mechanical Engineer- Entry Level 2026 | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Mechanical-Engineer--Entry-Level-2026_R0000379745) | 2026-07-02 |
 | Solar Turbines | Mechanical Systems Engineer- Entry Level 2026 | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Mechanical-Systems-Engineer--Entry-Level-2026_R0000379744) | 2026-07-02 |
@@ -480,7 +482,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | onsemi | Entry Level for ONSC Process Engineering (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505867) | 2026-07-01 |
 | onsemi | Entry Level for ONSC Process Engineering (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505866) | 2026-07-01 |
 | Pax8 | Entry Level Sales - Cloud Generation Specialist (BDR/SDR) | United States | [Apply](https://pax8inc.wd12.myworkdayjobs.com/en-US/Pax8Careers/job/United-States/Cloud-Generation-Specialist--BDR-SDR-_R-101420) | 2026-07-01 |
-| WSP | Early Career Architect | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90254) | 2026-07-01 |
 | Cleveland Clinic | New Grad RN Resident - Orthopaedic Surgery | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Orthopaedic-Surgery_326718) | 2026-06-30 |
 | Fresenius Medical Care | New Graduate Nurse | Trotwood, OH / Lima, OH, United States / Kenwood, OH, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Trotwood-OH/New-Graduate-Nurse_R0259710) | 2026-06-30 |
 | Marvell - MarvellCareers2 | Application Engineer - Early Career | Santa Clara, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703-2) | 2026-06-30 |
@@ -585,6 +586,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) | 2026-06-24 |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0118674) | 2026-06-24 |
 | Cox | Entry Level Software Engineer (Burlington, VT) | Burlington Vt | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034) | 2026-06-23 |
+| Intertek | Entry-Level Field Technician - Construction Materials Testing | San Antonio, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15125) | 2026-06-23 |
 | Moog | 2nd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-2nd-Shift-Entry-Level-Machinist_R-26-18520) | 2026-06-23 |
 | Olsson | Entry-Level Civil Engineer - Data Center | Denver, CO / Des Moines, IA / Lincoln, NE / Loveland, CO / Omaha, NE / Overland Park, KS / Phoenix, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5275707008) | 2026-06-23 |
 | Olsson | Entry-Level Surveyor | South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5275832008) | 2026-06-23 |
@@ -724,6 +726,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-06-15 |
 | WSP | Early Career Civil Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89066) | 2026-06-15 |
 | ZOLL Medical Corporation | Client Services Representative (Entry Level) | Chelmsford, MA | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Client-Services-Representative--Entry-Level-_R18841) | 2026-06-15 |
+| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/170682) | 2026-06-14 |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) | 2026-06-13 |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) | 2026-06-13 |
 | Atria Group | Entry Level ASP.NET programmer | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211) | 2026-06-13 |
@@ -736,7 +739,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BCforward | Entry Level Warehouse Worker | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/87305811) | 2026-06-13 |
 | BCforward | Summer Program -for entry level | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/91825727) | 2026-06-13 |
 | BGIS | BAS Technician - New Grads Welcome to Apply | Thunder Bay, ON, Canada | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/221834) | 2026-06-13 |
-| BGIS | Smart Buildings Coordinator - 1 Year Contract (New Grad Opportunity) | Markham, ON, Canada | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/231246) | 2026-06-13 |
 | Collabera | Entry Level Engineer | Princeton, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82343701) | 2026-06-13 |
 | Collabera | Entry Level Engineer | Phoenix, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82246178) | 2026-06-13 |
 | Comtech | Recruiter (Entry Level/Freshers) | Reston, VA, United States | [Apply](https://jobs.smartrecruiters.com/ComtechLLC2/110097018) | 2026-06-13 |
@@ -757,13 +759,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry Level Field Technician 1 - Construction Materials Testing | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14753) | 2026-06-13 |
 | Intertek | Entry Level Field Technician I - Construction | Denver, CO, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14258) | 2026-06-13 |
 | Intertek | Entry Level Field Technician I - Construction Materials Testing | Plymouth, MI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14731) | 2026-06-13 |
-| Intertek | Entry Level Technicians - HVAC - 2nd and 3rd Shift | Cortland, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14471) | 2026-06-13 |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Jefferson, LA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15065) | 2026-06-13 |
 | Intertek | Horizontal Transmission Acoustical Technician - Entry level | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15032) | 2026-06-13 |
 | Intertek | Technician - Entry-level, Building and Construction | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14697) | 2026-06-13 |
 | Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
-| Michael Baker International | Bridge Associate Engineer, Entry Level | Columbus, OH, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/308947) | 2026-06-13 |
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
 | NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) | 2026-06-13 |
@@ -795,7 +795,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Fire and Life Safety Engineer in Training (Active-Duty Service Member Only) DOD SkillBridge Program | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88974) | 2026-06-13 |
 | WSP | Early Career Geotechnical Engineer | Birmingham, AL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88945) | 2026-06-13 |
 | WSP | Early Career Geotechnical Engineer | Anchorage, AK, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88626) | 2026-06-13 |
-| WSP | Early Career Geotechnical Engineer | Charlotte, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87357) | 2026-06-13 |
 | WSP | Early Career Mechanical Engineer - Buildings | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88748) | 2026-06-13 |
 | WSP | Early Career P&C  Field Services Technician | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87819) | 2026-06-13 |
 | WSP | Early Career Substation Electrical Engineer | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86678) | 2026-06-13 |
