@@ -1608,7 +1608,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Emory University | Director Program of Research & Student Engagement - Emory College of Arts and Sciences | Emory Campus-Clifton Corridor | [Apply](https://staff-emory.icims.com/jobs/168779/director-program-of-research-%26-student-engagement---emory-college-of-arts-and-sciences/job) | 2026-07-22 |
 | Enterprise Mobility | Fall Management Trainee Intern | Maplewood & Central Areas | [Apply](https://us-erac.icims.com/jobs/559953/fall-management-trainee-intern/job) | 2026-07-22 |
 | EQ Bank | Indigenous Intern, Mortgage Services | Toronto | [Apply](https://jobs.lever.co/eqbank/46ada713-bbab-496d-8938-5a92a2762121) | 2026-07-22 |
-| EQ Bank | Indigenous Intern, Securitization & Indigenous Initiatives | Saskatoon | [Apply](https://jobs.lever.co/eqbank/54ba8739-90d0-4984-8899-5e0e8ff87bf5) | 2026-07-22 |
+| EQ Bank | Indigenous Intern, Securitization & Indigenous Initiatives | Regina | [Apply](https://jobs.lever.co/eqbank/54ba8739-90d0-4984-8899-5e0e8ff87bf5) | 2026-07-22 |
 | EQ Bank | Intern, CloudOps | Toronto | [Apply](https://jobs.lever.co/eqbank/4bd9e62c-3f44-430e-b201-874e86e35db0) | 2026-07-22 |
 | Essity | Finance Intern | Mexico | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Fe-Ciudad-de-Mxico--Mexico/Finance-Intern_Essity263448) | 2026-07-22 |
 | Essity | Marketing Intern | Mexico | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Fe-Ciudad-de-Mxico--Mexico/Marketing-Intern_Essity263374) | 2026-07-22 |
@@ -8648,7 +8648,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Webber - Accounting Intern - Heavy Civil | Tampa | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Tampa/Webber---Accounting-Intern---Heavy-Civil_JR17246) | 2026-06-02 |
 | Ferrovial | Webber - Accounting Intern - Heavy Civil | Atlanta, GA | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Atlanta-GA/Webber---Accounting-Intern---Heavy-Civil_JR17243) | 2026-06-02 |
 | Ferrovial | Webber - Field Engineer Intern I - Heavy Civil | Tampa | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Tampa/Webber---Field-Engineer-Intern-I---Heavy-Civil_JR16958) | 2026-06-02 |
-| Field AI | 1.53 Robotics Research Internship, Humanoid Manipulation (Summer 2026) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | 2026-06-02 |
+| Field AI | Robotics Research Internship, Humanoid Manipulation (Summer 2026) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | 2026-06-02 |
+| Field AI | Robotics Research Internship-Locomotion & Planning (Fall 2026) | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) | 2026-06-02 |
 | First Quality | Controls Engineering Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R10171) | 2026-06-02 |
 | First Quality | Controls Engineering Technician Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Technician-Intern_R8015) | 2026-06-02 |
 | First Quality | EHS Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/EHS-Intern_R10167) | 2026-06-02 |
