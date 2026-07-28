@@ -283022,5 +283022,47 @@
     "date_added": "2026-07-15",
     "active": false,
     "date_archived": "2026-07-28"
+  },
+  {
+    "id": "rippling-blue-robotics-a2ef9b40-afa7-4629-99b9-2a58b415a501",
+    "company": "Blue Robotics",
+    "title": "Mechanical Design Co-op (Fall 2026)",
+    "location": "Victoria, Canada",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/blue-robotics/jobs/a2ef9b40-afa7-4629-99b9-2a58b415a501",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-07-28"
+  },
+  {
+    "id": "rippling-msm-inc-6326629b-5434-4a86-8fce-d0e28ec424d4",
+    "company": "MSM Inc.",
+    "title": "AI Solutions Co-op (Fall 2026)",
+    "location": "Webster, NY",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-07-28"
+  },
+  {
+    "id": "rippling-theguarantors-756c2e54-a70a-4e0a-ac57-eb1b9542ed41",
+    "company": "TheGuarantors",
+    "title": "Market Research Intern",
+    "location": "New York, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/theguarantors-open-positions/jobs/756c2e54-a70a-4e0a-ac57-eb1b9542ed41",
+    "date_posted": null,
+    "date_added": "2026-07-08",
+    "active": false,
+    "date_archived": "2026-07-28"
   }
 ]

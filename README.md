@@ -382,7 +382,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Blackstone | 2027 Transaction Finance Off cycle Intern (January to June) Hong Kong | Hong Kong | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Transaction-Finance-Off-cycle-Intern--January-to-June--Hong-Kong_44171) | 2026-07-27 |
 | Bloxd | Software Engineering Intern | United Kingdom | [Apply](https://jobs.ashbyhq.com/bloxd/7ade559a-d07d-4ffe-b6ec-c79e41632474) | 2026-07-27 |
 | Blue Robotics | Electronics Design Co-op (Fall  2026) | Victoria, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7) | 2026-07-27 |
-| Blue Robotics | Mechanical Design Co-op (Fall 2026) | Victoria, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/a2ef9b40-afa7-4629-99b9-2a58b415a501) | 2026-07-27 |
 | CAE | Internship - Simulator Technician | Sepang | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Sepang/INTERNSHIP---SIMULATOR-TECHNICIAN_108994) | 2026-07-27 |
 | Caterpillar | Financial Intern (Accounting / Finance) | National Capital Region (manila) | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Metro-Manila-National-Capital-Region-Manila/Financial-Intern--Accounting---Finance-_R0000383225) | 2026-07-27 |
 | CDPQ | Intern | Sydney | [Apply](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Sydney/Intern_R03971) | 2026-07-27 |
@@ -705,7 +704,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mobius Renewables | Software Engineer - Intern | Houston, TX | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | 2026-07-27 |
 | Monogram | Software Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778) | 2026-07-27 |
 | Mosaic | Informational Technology Cybersecurity Co-Op/Intern - Fall 2026 | Fl (lithia Area) | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | 2026-07-27 |
-| MSM Inc. | AI Solutions Co-op (Fall 2026) | Webster, NY | [Apply](https://ats.rippling.com/msm/jobs/6326629b-5434-4a86-8fce-d0e28ec424d4) | 2026-07-27 |
 | NationGraph | Fall 2026 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416) | 2026-07-27 |
 | NationGraph | Winter 2027 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) | 2026-07-27 |
 | NeoCognition | Research Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76) | 2026-07-27 |
@@ -4118,7 +4116,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thales | Solution Customer Service Intern | São Paulo | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/So-Paulo/TUI-Solution-Customer-Service_R0333139-1) | 2026-07-08 |
 | The New School | JR109003 Student Activity Group Leader- Office of Student Engagement (FWS) | Jj 39 West 13th Street | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/JJ---39-West-13th-Street/Student-Activity-Group-Leader--Office-of-Student-Engagement--OSE-_JR109003) | 2026-07-08 |
 | The New School | Student Assistant - Making Center | N 66 Fifth Avenue | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/N---66-Fifth-Avenue/Student-Assistant---Making-Center_JR108985) | 2026-07-08 |
-| TheGuarantors | Market Research Intern | New York, NY | [Apply](https://ats.rippling.com/theguarantors-open-positions/jobs/756c2e54-a70a-4e0a-ac57-eb1b9542ed41) | 2026-07-08 |
 | UBC | Articling Student, Innocence Project | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Articling-Student--Innocence-Project_JR25149) | 2026-07-08 |
 | UL Solutions | Intern, Chemical Safety Testing | Viet Nam | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9644) | 2026-07-08 |
 | UL Solutions | Intern, Customer Service & Operations | Viet Nam | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9651) | 2026-07-08 |
