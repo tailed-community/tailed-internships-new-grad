@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Civil Engineer - Ports and Marine | Orange, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000140047119) | 2026-07-28 |
 | AutoNation | Entry Level Technician | Autonation Chevrolet Spokane Valley | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Spokane-Valley/Entry-Level-Technician_JR2026146246-1) | 2026-07-28 |
 | Barr | Geotechnical Engineer – Entry Level (Hybrid) | Bismarck, ND | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Bismarck-ND/Geotechnical-Engineer---Entry-Level--Hybrid-_R-102205) | 2026-07-28 |
 | Barr | Geotechnical Engineer – Entry Level – 2+ years (Hybrid) | Bismarck, ND | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Bismarck-ND/Geotechnical-Engineer---Entry-Level---2--years--Hybrid-_R-102206) | 2026-07-28 |
@@ -25,6 +26,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Corewell Health | New Grad RN MS | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Big-Rapids-MI/New-Grad-RN-MS_R221430) | 2026-07-28 |
 | Cushman & Wakefield | Entry level Helpdesk (Property/Real Estate) Talent Pool - Budapest | Hungary | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Entry-level-Helpdesk--Property-Real-Estate-_R330037) | 2026-07-28 |
 | DXC Technology | Entry Level Support Developer | Aus Sa Adelaide | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Entry-Level-Support-Developer_51585792) | 2026-07-28 |
+| Egis Group | CAD Technician - Highways (New Graduate) | North Bay, ON, Canada | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000140083039) | 2026-07-28 |
 | General Dynamics | Machine Shop Maintenance Mechanic (Entry Level) | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/19579/machine-shop-maintenance-mechanic-%28entry-level%29/job) | 2026-07-28 |
 | General Dynamics Mission Systems | Entry Level Software Systems Engineer | Port Orchard, WA, United States | [Apply](https://careers-gdms.icims.com/jobs/73755/entry-level-software-systems-engineer/job) | 2026-07-28 |
 | Intermountain Healthcare | New Graduate RN Med Surg | Intermountain Health American Fork Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/New-Graduate-RN-Med-Surg_R167562) | 2026-07-28 |
