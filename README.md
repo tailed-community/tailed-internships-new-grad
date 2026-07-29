@@ -101,6 +101,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Edwards Lifesciences | Engineering Co-Op Program, Spring-Summer 2027 | USA Irv-1472 Alton / Dbc6-7 / USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Engineering-Co-Op-Program--Spring-Summer-2027_Req-49531) | 2026-07-29 |
 | Entegris | EHS Intern | Malaysia | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/EHS-Intern_REQ-13621) | 2026-07-29 |
 | Ferrovial | Sustainability and Innovation Intern | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Sustainability-and-Innovation-Intern_JR18516) | 2026-07-29 |
+| Field AI | Internship - Robot Control Systems (Fall 2026) | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704) | 2026-07-29 |
 | Finning | Communications Intern | Calgary, AB, Canada / Edmonton, AB, Canada / Surrey, BC, Canada | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/Communications-Intern_R-2026-3392) | 2026-07-29 |
 | First Bank & Trust | SharePoint/Power Platform Intern | Sd (east) | [Apply](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780) | 2026-07-29 |
 | Flextronics International | Inventory Control Management Co-Op - Fall 2026 | SC, United States | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Inventory-Control-Management-Co-Op---Fall-2026_WD226231) | 2026-07-29 |
@@ -2779,7 +2780,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | DNV | Renewables Intern | South Africa | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7149) | 2026-07-16 |
 | Doctors Without Borders | Executive Intern | New York, United States | [Apply](https://job-boards.greenhouse.io/msfcareers/jobs/5355825008) | 2026-07-16 |
 | Ekimetrics | Stagiaire UX/UI Designer (H/F/N) | Paris | [Apply](https://jobs.lever.co/ekimetrics/0ce9394d-8230-4d78-9899-4b9f5812539a) | 2026-07-16 |
-| Equativ | AI Engineer Intern, GenAI Internal Automation (GAIA) | Paris | [Apply](https://jobs.lever.co/equativ/43f7b6c8-476b-4226-bbec-1e1b3dfb35b2) | 2026-07-16 |
 | Equinix | Data Center Customer Operations Intern | Frankfurt | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Frankfurt/Data-Center-Customer-Operations-Intern_JR-162209) | 2026-07-16 |
 | Fresenius Medical Care | Intern in Account to Report | Poland | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Intern-in-Account-to-Report_R0262154-1) | 2026-07-16 |
 | Freudenberg Group | Working Student, Purchasing, Aftermarket (f/m/d) | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Working-Student--Purchasing--Aftermarket--f-m-d-_R_00104263) | 2026-07-16 |
@@ -3796,7 +3796,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Louis Dreyfus Company | Internship Program - Grains & Oilseeds (G&O) | Singapore | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000137057729) | 2026-07-10 |
 | Maersk | Intern | Shah Alam | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Selangor-Shah-Alam-40400/Intern_R188077-1) | 2026-07-10 |
 | Marsh | Business Development Sales Intern | Milan Viale Bodio | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Milan---Viale-Bodio/Business-Development-Sales-Intern_R_358158) | 2026-07-10 |
-| Massachusetts School Building Authority | Capital Planning Data Assistant (Co-op) | Massachusetts | [Apply](https://jobs.lever.co/massschoolbuildings/ff3ff495-5325-4d94-9290-62c8bcd0b6ce) | 2026-07-10 |
 | McKesson | Data Governance Analyst Intern - Fall 2026 | Can, ON | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | 2026-07-10 |
 | McKesson | Stagiaire en transport – Automne 2026 / Transportation Intern – Fall 2026 | Can, QC | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-transport---Automne-2026---Transportation-Intern---Fall-2026_JR0150076) | 2026-07-10 |
 | Medical University of South Carolina | Respiratory Student Technician II | Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/Respiratory-Student-Technician-II_R-0000063383) | 2026-07-10 |
@@ -3904,7 +3903,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Danaher Corporation | R&D Intern | Massachusetts, United States | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Westborough-Massachusetts-United-States/R-D-Intern_R1313841) | 2026-07-09 |
 | Danaher Corporation | Working Student Production Consumables (f/m/d) | Germany | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Aachen-North-RhineWestphalia-Germany/Working-Student-Production-Consumables--f-m-d-_R1314845) | 2026-07-09 |
 | Defense Unicorns | SkillBridge Intern - Mission Manager | United States Remote | [Apply](https://job-boards.greenhouse.io/defenseunicorns/jobs/4761872007) | 2026-07-09 |
-| Democratic Governors Association | Fall 2026 Compliance Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/e007a57d-27fe-4432-a6f6-fcf9cc547360) | 2026-07-09 |
 | DNV | Engineering Intern (Mechanical/Materials/Metallurgical) | Brazil | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7069) | 2026-07-09 |
 | DTCC | Information Technology Intern [2027 Summer Program] | Jersey City, NJ, United States | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) | 2026-07-09 |
 | DTCC | Product Management Intern [2027 Summer Program] | Tampa, FL, United States | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | 2026-07-09 |
@@ -4078,12 +4076,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Corewell Health | Student Radiology Technologist | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grosse-Pointe-MI/Student-Radiology-Technologist_R218221) | 2026-07-08 |
 | Creative Artists Agency | Intern - Sports Property Sales (Japan) | Japan | [Apply](https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Tokyo-Japan/Intern---Sports-Property-Sales--Japan-_JR8982) | 2026-07-08 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Ok Oklahoma City | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OK---Oklahoma-City/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0968736) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Communications Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/b36ba994-4208-4881-a8a9-cd00b8ec3fda) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Data and Coding Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Digital Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/be16fd29-ec2a-440f-a7da-fe1326755697) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Fundraising Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/e90ae4ab-0618-4389-be19-8c7f7e44509f) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Political Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/fe52f389-543b-496a-b6cb-9ee29cf8ee79) | 2026-07-08 |
-| Democratic Governors Association | Fall 2026 Research Internship | Washington, DC | [Apply](https://jobs.lever.co/dga/765d0bb9-443b-45d3-90c9-0cf9d2b0c0d2) | 2026-07-08 |
 | Dentsu | STAGE - Assistant Planneur Stratégique H/F | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Planneur-Stratgique-H-F_R1127350) | 2026-07-08 |
 | Direct Supply | Interior Design Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Interior-Design-Intern_REQ-2026-2466) | 2026-07-08 |
 | DuCharme, McMillen & Associates | Talent Acquisition Intern - Fall 2026 | Fort Wayne, IN | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Talent-Acquisition-Intern---Fall-2026_REQ553) | 2026-07-08 |
@@ -7968,7 +7960,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Intact (en-US) | UX Design System Intern - 4-Month Internship/Co-op (Fall 2026) | Montréal, QC | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/System-Design-Intern--4-month-Internship-Coop--Fall-2026-_R154018) | 2026-06-05 |
 | Jones Lang LaSalle (JLL) | Strategic Operations Intern (Full/Part time, Jul - Dec 2026) | Singapore | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Strategic-Operations-Intern--Summer-2026-_REQ499618) | 2026-06-05 |
 | Leonardo | Stage- Tesi-  MBSE: Functional Analysis | It Torino C.so Francia | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Torino---Cso-Francia/Stage--Tesi--Functional-analysis-of-aerospace-systems-for-an-all-digital-design-process_R0026349) | 2026-06-05 |
-| Level AI | Product Design Intern(Delhi) | Noida | [Apply](https://jobs.lever.co/levelai/ec503f6c-ae4d-4546-945a-f754e621ca62) | 2026-06-05 |
 | Loblaw Companies | Pharmacy Intern | Kingston, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1162-Division-St-Kingston-ON/Pharmacy-Intern_R2000646938) | 2026-06-05 |
 | Loblaw Companies | Pharmacy Student | Pickering, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1792-Liverpool-Rd-Pickering-ON/Pharmacy-Student_R2000638798) | 2026-06-05 |
 | Loblaw Companies | Student, Franchise Part Time Day | Owen Sound, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1020-10th-St-W-Owen-Sound-ON/Student--Franchise-Part-Time-Day_R2000652819) | 2026-06-05 |
