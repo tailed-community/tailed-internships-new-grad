@@ -28,6 +28,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Grad RN Labor and Delivery | Intermountain Health American Fork Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/New-Grad-RN-Labor-and-Delivery_R179052-1) | 2026-07-29 |
 | Intermountain Healthcare | Registered Nurse New Graduate NICU | Intermountain Health Mckay-Dee Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Registered-Nurse-New-Graduate-NICU_R179023) | 2026-07-29 |
 | Intertek | Caleb Brett -Entry Level Inspector - Petroleum | Gonzales, LA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15416) | 2026-07-29 |
+| Jobs for Humanity | Entry-Level Data Entry & Virtual Assistant | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000140424209) | 2026-07-29 |
+| Jobs for Humanity | Marketing Coordinator (Entry-level) | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000140438829) | 2026-07-29 |
 | MaineGeneral Health | Physical Therapist (PT) - Oakland, 40 hrs/wk *NEW GRADUATES WELCOME!* | Oakland, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Oakland-ME/Physical-Therapist--PT----Oakland--40-hrs-wk--NEW-GRADUATES-WELCOME--_R17010) | 2026-07-29 |
 | Micron Technology | Entry-Level Process Integration Engineer - E1 | Taiwan | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Entry-Level-Process-Integration-Engineer---E1_JR106750) | 2026-07-29 |
 | NXP Semiconductors | <New Graduate Hiring> Manufacturing Test Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Manufacturing-Test-Engineer_R-10065722) | 2026-07-29 |
@@ -145,7 +147,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DriveTime | Automotive Technician - Entry Level | Mi 48180 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/10725-Telegraph-Rd-Taylor-MI-48180/Automotive-Technician---Entry-Level_R15995) | 2026-07-24 |
 | E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6222/transmission-line-engineer-%28entry-level%29/job) | 2026-07-24 |
 | Eurofins | Entry Level PCR Data Review | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139344109) | 2026-07-24 |
-| Eurofins | Entry-Level Sample Management Lab Technician (2nd Shift, Wed-Sat) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139352180) | 2026-07-24 |
 | EXL | Inbound Call Center Reps - Entry level | Connecticut, United States | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17781) | 2026-07-24 |
 | Fresenius Medical Care | New Graduate RN | Oceanside, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Oceanside-CA-USA/New-Graduate-RN_R0256572) | 2026-07-24 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Bloomington, MN, United States | [Apply](https://careers-gdms.icims.com/jobs/73740/systems-engineer-%e2%80%93-entry-level/job) | 2026-07-24 |
@@ -332,7 +333,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GHD | GHD Graduate Program 2026/27 - Darwin - Civil Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688) | 2026-07-15 |
 | GHD | GHD Graduate Program 2026/27 - Darwin - Electrical Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27686) | 2026-07-15 |
 | Jencap | Claims Assistant-Entry Level | Red Bank, NJ / Worcester, MA | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5102894007) | 2026-07-15 |
-| Jobs for Humanity | Entry-Level Virtual Assistant (Remote) | Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000137884114) | 2026-07-15 |
 | NXP Semiconductors | Entry-Level Data Scientist – Semiconductor Engineering & Automation | Kuala Lumpur | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Entry-Level-Data-Scientist---Semiconductor-Engineering---Automation_R-10064847) | 2026-07-15 |
 | Savannah River National Laboratory | Laboratory Technician, Entry-Level | Aiken, SC, United States | [Apply](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2153) | 2026-07-15 |
 | Takeda | Entry Level Phlebotomy | USA Nd Fargo | [Apply](https://takeda.wd3.myworkdayjobs.com/external/job/USA---ND---Fargo/Entry-Level-Phlebotomy_R0184713-1) | 2026-07-15 |
