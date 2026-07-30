@@ -902,7 +902,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Jefferson Health | Surgical Tech OR (FT - Day) *New Grads Welcome - Bucks | Bucks County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Bucks-County-PA/Certified-Surgical-Technician--Full-Time-_REQ-0022890-1) | 2026-06-08 |
 | Northwood Space | Electronics Test Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) | 2026-06-08 |
-| Northwood Space | Infrastructure Engineer - Early Career | California, United States / Washington D.c. | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) | 2026-06-08 |
 | Northwood Space | RF Hardware Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/5d76a025-bb64-4ddd-8b97-8649c41d89ed) | 2026-06-08 |
 | Northwood Space | Software Engineer – General (new grad / early career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | 2026-06-08 |
 | Notion | People Strategy & Operations, Early Career | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/83c8907b-e05e-401a-a5de-9ebe0b1a800f) | 2026-06-08 |

@@ -292402,5 +292402,61 @@
     "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-07-30"
+  },
+  {
+    "id": "ashby-monogram-fab3e651-00e7-4a85-bcb9-0821c642a778",
+    "company": "Monogram",
+    "title": "Software Engineering Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778",
+    "date_posted": "2025-12-11",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-07-30"
+  },
+  {
+    "id": "ashby-northwood-space-d81a9f1e-002e-4c1a-8b09-8dbac575279c",
+    "company": "Northwood Space",
+    "title": "Infrastructure Engineer - Early Career",
+    "location": "California, United States / Washington D.c.",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c",
+    "date_posted": "2026-04-22",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-07-30"
+  },
+  {
+    "id": "ashby-nuclear-promise-x-048ca8da-bfb9-4454-8147-ac9497629634",
+    "company": "Nuclear Promise X",
+    "title": "Software Developer Intern",
+    "location": "ON / Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634",
+    "date_posted": "2026-05-08",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-07-30"
+  },
+  {
+    "id": "ashby-rivian-and-volkswagen-group-technologies-75874976-540a-4e5c-aa72-1b23669c5211",
+    "company": "Rivian and Volkswagen Group Technologies",
+    "title": "Software Engineer Intern - Android Connectivity (Fall-Spring Co-op)",
+    "location": "Vancouver, BC, Canada",
+    "type": "internship",
+    "season": "Fall",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211",
+    "date_posted": "2026-06-09",
+    "date_added": "2026-06-17",
+    "active": false,
+    "date_archived": "2026-07-30"
   }
 ]

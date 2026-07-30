@@ -250,6 +250,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SiFive | Platform Technologies Language Design Intern | California, United States | [Apply](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183) | 2026-07-30 |
 | Signify | Intern Customs | Pila | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Pila/Intern-Customs_365760) | 2026-07-30 |
 | Signify | Procurement Engineer Intern | Mexicali | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Mexicali/Procurement-Engineer-Intern_365088) | 2026-07-30 |
+| Simular | Data Analyst Intern | Singapore | [Apply](https://jobs.ashbyhq.com/Simular/7147a575-c7da-44d3-a6d6-2cdd4d24b94a) | 2026-07-30 |
+| Simular | Design Engineer Intern | Singapore | [Apply](https://jobs.ashbyhq.com/Simular/3c53a046-4fc0-4b67-9295-1912abf16262) | 2026-07-30 |
+| Simular | Finance Operations Intern | Singapore | [Apply](https://jobs.ashbyhq.com/Simular/33df3607-4e98-45b6-ae7a-41d3d36fb385) | 2026-07-30 |
+| Simular | GTM Intern, Content & Distribution | California, United States / Remote / Singapore / United States Remote | [Apply](https://jobs.ashbyhq.com/Simular/b8281155-c4e2-41c5-9b8d-c4588c90fc24) | 2026-07-30 |
+| Simular | GTM Intern, Growth Operations | California, United States / Remote / Singapore / United States Remote | [Apply](https://jobs.ashbyhq.com/Simular/0597dd82-d5e7-4d3d-b434-7396a81c91d4) | 2026-07-30 |
 | Solar Turbines | Finance Intern | Baja California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/Tijuana-Baja-California/Finance-Intern_R0000384384) | 2026-07-30 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television – Fall 2026 | California | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893) | 2026-07-30 |
 | Sony Pictures Entertainment | Development Intern, Sony Nonfiction - Fall 2026 | California | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Van-Nuys-California/Development-Intern--Sony-Nonfiction---Fall-2026_JR113892) | 2026-07-30 |
@@ -373,7 +378,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Draper | Electronics & Embedded Systems Intern (Summer 2027) | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735) | 2026-07-29 |
 | Driscoll's | Intern BP&A | Netherlands Breda | [Apply](https://driscolls.wd5.myworkdayjobs.com/driscolls/job/Netherlands---Breda/Intern-BP-A_R0009137) | 2026-07-29 |
 | Edwards Lifesciences | Engineering Co-Op Program, Spring-Summer 2027 | USA Irv-1472 Alton / Dbc6-7 / USA Utah – Salt Lake City | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Engineering-Co-Op-Program--Spring-Summer-2027_Req-49531) | 2026-07-29 |
-| Eight Sleep | Design Intern NYC | New York, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/0adea282-8c47-4c3b-962c-e5658ef02cdd) | 2026-07-29 |
+| Eight Sleep | Graphic Design Intern — NYC | New York, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/0adea282-8c47-4c3b-962c-e5658ef02cdd) | 2026-07-29 |
 | Entegris | EHS Intern | Malaysia | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/EHS-Intern_REQ-13621) | 2026-07-29 |
 | Enterprise Mobility | Fall Management Trainee Internship - Logan Utah | Logan | [Apply](https://us-erac.icims.com/jobs/560648/fall-management-trainee-internship---logan-utah/job) | 2026-07-29 |
 | Enterprise Mobility | Fall Management Trainee Internship - Provo | Provo | [Apply](https://us-erac.icims.com/jobs/560650/fall-management-trainee-internship---provo/job) | 2026-07-29 |
@@ -523,7 +528,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SharkNinja | Fall 2026: Social Sharks Global Social Operations Co-op (August through December) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4699053006) | 2026-07-29 |
 | SharkNinja | Fall 2026: Social Sharks, Social Content Studio Co-op (August to December) | CA Irvine | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4699851006) | 2026-07-29 |
 | Signify | Supply Chain Intern | Huixquilucan De Degollado | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Huixquilucan-de-Degollado/Supply-Chain-Intern_365763) | 2026-07-29 |
-| Simular | Product & User Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Simular/77e4a500-e0a9-4c27-835e-4f6b304cdd03) | 2026-07-29 |
+| Simular | Product & User Operations Intern | Singapore | [Apply](https://jobs.ashbyhq.com/Simular/77e4a500-e0a9-4c27-835e-4f6b304cdd03) | 2026-07-29 |
 | Skydio | Electrical Engineer Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee) | 2026-07-29 |
 | Skydio | Operations Program Management Intern | California, United States | [Apply](https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5) | 2026-07-29 |
 | Skydio | Product Design Engineer Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182) | 2026-07-29 |
@@ -1136,7 +1141,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | k-ID | Finance Intern (SG) | Singapore / Remote | [Apply](https://jobs.ashbyhq.com/k-id/3088a8fa-aadc-48da-91b2-3b5bd4f6a2fe) | 2026-07-27 |
 | k-ID | Legal Internship Program 2026 | Singapore / Remote | [Apply](https://jobs.ashbyhq.com/k-id/c68702e7-9979-4322-9ade-b80db8761e16) | 2026-07-27 |
 | k-ID | Product Internship Program 2026 | Singapore / United States / Remote | [Apply](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d) | 2026-07-27 |
-| Kinetic Systems | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734) | 2026-07-27 |
+| Kinetic Systems | Internship | California, United States | [Apply](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734) | 2026-07-27 |
 | Kirin | Quantitative Research Intern - Prediction Markets | New York, United States / San Francisco / Shenzhen / Shanghai / United States Remote | [Apply](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a) | 2026-07-27 |
 | Kirin | Software Engineering Intern, AI Agents + Devices | China / New York City / Hong Kong | [Apply](https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99) | 2026-07-27 |
 | Kirin | VC Intern 风险投资实习生 | China / Hong Kong / Remote | [Apply](https://jobs.ashbyhq.com/kirin/f3ee27f7-aa1c-4645-b367-62c5c6c7b664) | 2026-07-27 |
@@ -1155,9 +1160,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - AI‑Driven Process Development Deposition & Ion implantation | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---AI-Driven-Process-Development-Deposition---Ion-implantation_JR100559) | 2026-07-27 |
 | Mistral AI | AI Data Solutions Intern – Data Partnerships | California, United States | [Apply](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd) | 2026-07-27 |
 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Ile-De-France, France | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | 2026-07-27 |
-| Mistral AI | Applied Scientist / Research Engineer (Internship) | Ile-De-France, France | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | 2026-07-27 |
+| Mistral AI | Applied Scientist / Research Engineer (Internship) | Ile-De-France, France / London | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | 2026-07-27 |
 | Mobius Renewables | Software Engineer - Intern | Houston, TX | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | 2026-07-27 |
-| Monogram | Software Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778) | 2026-07-27 |
 | Mosaic | Informational Technology Cybersecurity Co-Op/Intern - Fall 2026 | Fl (lithia Area) | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | 2026-07-27 |
 | NationGraph | Fall 2026 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416) | 2026-07-27 |
 | NationGraph | Winter 2027 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) | 2026-07-27 |
@@ -6539,7 +6543,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rivian and Volkswagen Group Technologies | Android Developer Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd) | 2026-06-17 |
 | Rivian and Volkswagen Group Technologies | Data Engineering Intern - AI & Analytics (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a) | 2026-06-17 |
 | Rivian and Volkswagen Group Technologies | Electromechanical Design Engineering Intern (Fall 2026) | California, United States / Illinois / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6) | 2026-06-17 |
-| Rivian and Volkswagen Group Technologies | Software Engineer Intern - Android Connectivity (Fall-Spring Co-op) | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211) | 2026-06-17 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Fall 2026) | California, United States / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c) | 2026-06-17 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Fall-Spring Co-op) | Toronto, ON, Canada / Vancouver, BC | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c) | 2026-06-17 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Connected Systems (Fall 2026) | California, United States / California | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92) | 2026-06-17 |
@@ -7890,7 +7893,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Meshy | Infrastructure Intern | Sunnycale, United States | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) | 2026-06-08 |
 | Notion | Software Engineer Intern (Fall 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 2026-06-08 |
 | Nuclear Promise X | AI Developer Co-op | Kincardine, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2) | 2026-06-08 |
-| Nuclear Promise X | Software Developer Intern | ON / Remote | [Apply](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634) | 2026-06-08 |
 | Output Biosciences | Research Intern (PhD), Machine Learning | New York, United States / Remote | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) | 2026-06-08 |
 | Perplexity AI | AI Inference Internship | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) | 2026-06-08 |
 | Perplexity AI | Internship - Search Backend Infra Engineer | Serbia | [Apply](https://jobs.ashbyhq.com/Perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | 2026-06-08 |
