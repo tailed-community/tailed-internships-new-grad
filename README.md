@@ -64,6 +64,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stage – Assistant(e) coordination supply chain (H/F/X)- Mode- Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--coordination-supply-chain--H-F-X---Mode--Janvier-2027_JOBREQ00115512) | 2026-07-30 |
 | Chanel | Stage- Assistant(e) Chef de Produit Lunettes (H/F/X) - Mode- Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage--Assistant-e--Chef-de-Produit-Lunettes--H-F-X----Mode--Janvier-2027_JOBREQ00115482) | 2026-07-30 |
 | Cincinnati Children’s Hospital and Medical Center | Student Co-Op - Psychiatry | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Student-Co-Op---Psychiatry_JR223514) | 2026-07-30 |
+| Cirque du Soleil | Assistant Stage Manager - KÀ | Las Vegas, NV | [Apply](https://jobs.lever.co/cirquedusoleil/dc9e6218-9b57-46df-8650-08a2581c154d) | 2026-07-30 |
+| Cirque du Soleil | Assistant Stage Manager – Blue Man Group North American Tour | En Tournée \| ON Tour | [Apply](https://jobs.lever.co/cirquedusoleil/4f749127-18c6-4aa2-ae24-fe3998dbbc3c) | 2026-07-30 |
+| Cirque du Soleil | Production Stage Manager – Blue Man Group North American Tour | En Tournée \| ON Tour | [Apply](https://jobs.lever.co/cirquedusoleil/e7c69483-2ca1-4df2-b33b-cf244db1cc1b) | 2026-07-30 |
 | Citi | Corporate Banking - Summer Internship Program, Tokyo - Japan, 2027 | Chiyoda-Ku Tokyo Japan | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Corporate-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982664) | 2026-07-30 |
 | Citi | Investment Banking - Summer Internship Program, Tokyo - Japan, 2027 | Chiyoda-Ku Tokyo Japan | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Investment-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982662) | 2026-07-30 |
 | CME Group | Corporate Tax Intern - Year Round | Chicago 20 S. Wacker | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Corporate-Tax-Intern---Year-Round_34675) | 2026-07-30 |
@@ -3119,8 +3122,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eurofins | Working Student Project Office (summer period July–October) | Barneveld, GE | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137814839) | 2026-07-15 |
 | Eurofins | Working Student Project Office (summer period July–October) | Amersfoort, UT | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137814044) | 2026-07-15 |
 | Evonik | Intern (m/f/div) Sustainability & Life Cycle Management | Hanau / Marl | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2) | 2026-07-15 |
-| Exowatt | Supply Chain & Manufacturing Intern - Contract Manufacturing Vendor | Austin, TX | [Apply](https://jobs.lever.co/exowatt/06c17743-04c7-48ad-94b0-85b6116bc15f) | 2026-07-15 |
-| Exowatt | Supply Chain & Manufacturing Intern - Manufacturing | Austin, TX | [Apply](https://jobs.lever.co/exowatt/030247a1-1067-4a59-9018-372962710652) | 2026-07-15 |
 | Five Rings Capital | Summer Intern 2027 - Quantitative Researcher (PhD) | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | 2026-07-15 |
 | Five Rings Capital | Summer Intern 2027 - Quantitative Trader | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | 2026-07-15 |
 | Five Rings Capital | Summer Intern 2027 - Software Developer | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | 2026-07-15 |
@@ -3650,9 +3651,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | DRW | Software Developer Intern | Amsterdam | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8020364) | 2026-07-13 |
 | DRW | Software Developer Intern (C++) | Singapore | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8014910) | 2026-07-13 |
 | Eurofins | 6-month internship - Junior Consultant | Belgium | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137457990) | 2026-07-13 |
-| Exowatt | AI Marketing Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/2f9e8254-401b-4f77-adcb-c4f01734c8fb) | 2026-07-13 |
-| Exowatt | Business Development Intern | Miami, FL | [Apply](https://jobs.lever.co/exowatt/1e0d4de7-2917-45be-8166-6181bd32be2b) | 2026-07-13 |
-| Exowatt | Supply Chain & Manufacturing Intern - Facilities & EHS | Austin, TX | [Apply](https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16) | 2026-07-13 |
 | Experian | Consumer Service Agent –  Minijob / working student (10-20 hrs /week) | Germany | [Apply](https://jobs.smartrecruiters.com/Experian/744000137430579) | 2026-07-13 |
 | Ferrovial | HR Generalist Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/HR-Generalist-Internship_JR18256) | 2026-07-13 |
 | Ferrovial | Tax Advisory Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Tax-Advisory-Internship_JR18257) | 2026-07-13 |
@@ -5414,7 +5412,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GSK | Intern, Marketing, Mexico, 2026 | Mexico City Torre Mitikah | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Mexico-City-Torre-Mitikah/Intern--Marketing--Mexico--2026_443593) | 2026-06-27 |
 | Highmark Health | Pharmacy Intern | Wexford Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Wexford-PA-15090-12351-Perry-Highway/Pharmacy-Intern_J283591) | 2026-06-27 |
 | Hitachi | Internship in Dielectric Withstand of Gas Insulated Switchgear 80 - 100% (f/m/d) | Switzerland | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zurich-Zurich-Switzerland/Internship-in-Dielectric-Withstand-of-Gas-Insulated-Switchgear-80---100---f-m-d-_R0134576) | 2026-06-27 |
-| Kabam | Software Engineer (Gameplay) Co-op | Vancouver | [Apply](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e) | 2026-06-27 |
 | Loblaw Companies | Pharmacy Intern | Dartmouth, NS | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/9-Braemar-Dr-Dartmouth-NS/Pharmacy-Intern_R2000677472) | 2026-06-27 |
 | Loblaw Companies | Student, Franchise Part Time Day | Walkerton, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1200-Yonge-St-Walkerton-ON/Student--Franchise-Part-Time-Day_R2000677922) | 2026-06-27 |
 | Marmon Holdings | Sales Engineering Co-op | Usa_oh_harrison_150 Production Dr. | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/USA_OH_Harrison_150-Production-Dr/Technical-Sales-Co-op_JR0000043525-2) | 2026-06-27 |
@@ -8846,7 +8843,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
-| Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) | 2026-06-02 |
 | Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) | 2026-06-02 |
 | Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | 2026-06-02 |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridgeshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | 2026-06-02 |
@@ -9489,7 +9485,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Plante Moran | 2027 Winter Healthcare Reimbursement Senior Care Intern | Columbus / Cleveland / Southfield | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Columbus/XMLNAME-2027-Winter-Healthcare-Reimbursement-Senior-Care-Intern_JR-01629) | 2026-06-02 |
 | PlusAI | Computer Vision Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9) | 2026-06-02 |
 | PlusAI | Deep Learning Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e) | 2026-06-02 |
-| PlusAI | Deep Learning Research Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern - Planning | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) | 2026-06-02 |
@@ -10132,7 +10127,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Varda Space | Recruiting Operations Internship - Fall 2026 | California, United States | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7684113003) | 2026-06-02 |
 | Varda Space | Vehicle Integration and Test Internship - Fall 2026 | California, United States | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7660858003) | 2026-06-02 |
 | Verkada | Hardware Engineer (Fall Co-op) | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4321159007) | 2026-06-02 |
-| Very Good Security | Application Security Intern | United States | [Apply](https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b) | 2026-06-02 |
 | Viatris | Digital and Commercial Excellence internship – 3 to 4 months Belgium, Hoeilaart | Belgium | [Apply](https://viatris.wd5.myworkdayjobs.com/External/job/Hoeilaart-Flemish-Region-Belgium/Digital-and-Commercial-Excellence-internship---3-to-4-months-Belgium--Hoeilaart_R5669800) | 2026-06-02 |
 | Viatris | Internship Medical Representative - Alexandria | Remote | [Apply](https://viatris.wd5.myworkdayjobs.com/External/job/Egypt-Remote-Office/Internship-Medical-Representative---Alexandria_R5669060-1) | 2026-06-02 |
 | Viavi Solutions | Intern 6 | Ind | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chennai-IND/Intern-6_250003878) | 2026-06-02 |
@@ -10144,6 +10138,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vistra | Intern Undergrad - Engineering | Davis-Besse | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Davis-Besse/Intern-Undergrad---Engineering_40014794) | 2026-06-02 |
 | Vizient | Summer Intern – Indirect Spend | Irving | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Summer-Intern---Indirect-Spend_31849R) | 2026-06-02 |
 | Volaris Group | Junior IWMS Project Manager - Intern | United States Tx | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R58168-2) | 2026-06-02 |
+| Voltus | Energy Markets Intern (MISO) | Remote | [Apply](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4) | 2026-06-02 |
 | Waabi | 2026 Intern, PhD Research Scientist | Toronto, ON / Pittsburgh, PA / San Francisco, Canada | [Apply](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) | 2026-06-02 |
 | Waabi | Research Internship/Co-op | Toronto, ON / San Francisco, Canada / United States Remote | [Apply](https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb) | 2026-06-02 |
 | Wash U | Assistant Athletic Trainer - Student Affairs | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Assistant-Athletic-Trainer---Student-Affairs_JR94554) | 2026-06-02 |
