@@ -58,6 +58,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ardian | Corporate Finance Intern - January 2027 I Luxembourg (M/F) | Luxembourg | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Luxembourg/Corporate-Finance-Intern---January-2027-I-Luxembourg--M-F-_JR1002199) | 2026-07-31 |
 | Arizona State University | Management Intern | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern_JR120684) | 2026-07-31 |
 | Arizona State University | Management Intern - Career Data and Analytics | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) | 2026-07-31 |
+| Ascendis Pharma | Student Assistant, Clinical Development Endocrine & Rare Disease Medical Science | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/1471ECFFE0/) | 2026-07-31 |
 | AstraZeneca | Finance Intern in FP&A Science Team - 12 months Career Starter Program | Poland Warsaw | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Poland---Warsaw/Finance-Intern-in-FP-A-Science-Team---12-months-Career-Starter-Program_R-240026) | 2026-07-31 |
 | Avery Dennison | Operations Intern - Summer 2027 | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140735309) | 2026-07-31 |
 | Avery Dennison | Procurement Intern - Summer 2027 | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140738552) | 2026-07-31 |
@@ -4081,7 +4082,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Sustainability Consultant Intern | Italy | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42388) | 2026-07-10 |
 | Ardian | Legal-Structuration Stage - Janvier 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Legal-Structuration-Stage---Janvier-2026-I-Paris--H-F-_JR1001694) | 2026-07-10 |
 | Ardian | Legal-Structuration Stage - Juillet 2027 I Paris (H/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170) | 2026-07-10 |
-| Ascendis Pharma | Student Assistant - D365 Platform in Global IT | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A643A8588C/) | 2026-07-10 |
 | ASML | HR Tech & AI Innovation internship: Agent Development & Enablement | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/HR-Tech---AI-Innovation-internship--Agent-Development---Enablement_J-00346786) | 2026-07-10 |
 | ASML | Internship - EUV UIR Intern - Tainan | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Tainan-Taiwan/Internship---EUV-UIR-Intern---Tainan_J-00346851) | 2026-07-10 |
 | Axon - axontalentcommunity | Render ATL - Leadership Development Internship 2027 | Massachusetts, United States | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7798168003) | 2026-07-10 |
@@ -5350,7 +5350,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Operations Engineer Intern | Kulim Infenion Carrier Gases ON-Site | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Kulim-Infenion---Carrier-gases---On-site/Operations-Engineer-Intern_R10095007) | 2026-06-30 |
 | Air Liquide | Supply chain Internship | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Supply-chain-Internship_R10095106) | 2026-06-30 |
 | Applied Materials | 2026 Fall Process Engineer Co-op - Adv Degree Gloucester, MA | Gloucester, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Process-Engineer-Co-op---Adv-Degree-Gloucester--MA_R2611502) | 2026-06-30 |
-| Ascendis Pharma | Digital Transformation Student Assistant - Global IT | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/9189D8B3A3/) | 2026-06-30 |
 | Banner Health | High School Internship Brush | East Morgan County Hosp (2400 W Edison) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/East-Morgan-County-Hosp-2400-W-Edison/High-School-Internship-Brush_R4446727) | 2026-06-30 |
 | Banner Health | High School Internship Sterling | Sterling Regional Med Ctr (615 Fairhurst St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Sterling-Regional-Med-Ctr-615-Fairhurst-St/High-School-Internship-Sterling_R4446726) | 2026-06-30 |
 | Base Power | Growth Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/fe71e011-a23a-4651-8f8a-9c0fcb5f1f22) | 2026-06-30 |
@@ -6864,7 +6863,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) | 2026-06-15 |
 | Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) | 2026-06-15 |
 | Ascendis Pharma | Intern - Administration | Italy | [Apply](https://apply.workable.com/ascendis-pharma/j/567911160B/) | 2026-06-15 |
-| Ascendis Pharma | Student Assistant Commercial Intelligence (f/m/d) | Germany | [Apply](https://apply.workable.com/ascendis-pharma/j/07E2C343D1/) | 2026-06-15 |
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
 | Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
