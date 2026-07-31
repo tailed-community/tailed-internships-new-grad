@@ -206,6 +206,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kroll | Intern, Investigation Diligence & Compliance (Specialist) | Boston, MA, United States | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014667) | 2026-07-31 |
 | Kyndryl | Dual Student in Kyndryl Hungary | Hungary | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Szekesfehervar-Fejer-Hungary/Dual-Student-in-Kyndryl-Hungary_R-60159-1) | 2026-07-31 |
 | Leonardo | ELI - Sales Support - STAGE | It Roma Via Tiburtina 1020 | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Roma---Via-Tiburtina-1020/ELI---Sales-Support---STAGE_R0032110) | 2026-07-31 |
+| LightGuide, Inc. | Application Engineering Co-Op | Wixom, MI | [Apply](https://ats.rippling.com/lightguide/jobs/37069bc9-a6ba-4841-97fb-b7d743826af0) | 2026-07-31 |
+| LightGuide, Inc. | Marketing Intern | Wixom, MI | [Apply](https://ats.rippling.com/lightguide/jobs/7cac3b69-1df4-400a-9076-6f86c0e76a48) | 2026-07-31 |
 | Littelfuse | Maintenance Intern | Suzhou | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Suzhou/Maintenance-Intern_JR-112236) | 2026-07-31 |
 | Live Nation Entertainment | Insomniac - Paid Fall Street Marketing Internship | Calabasas, United States | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Street-Marketing-Internship_JR-92052-1) | 2026-07-31 |
 | Loblaw Companies | Student Part Time Evening | Waterdown, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/115-Hamilton-Street-North-Waterdown-ON/Student-Part-Time-Evening_R2000689302) | 2026-07-31 |
