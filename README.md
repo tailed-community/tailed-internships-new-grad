@@ -113,6 +113,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Edwards Lifesciences | AI Engineering Internship | Costa Rica-Cartago-Bsc | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Costa-Rica-Cartago-BSC/AI-Engineering-Internship_Req-49794) | 2026-07-31 |
 | Epicor | Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Intern_JR105124-1) | 2026-07-31 |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Bangalore | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) | 2026-07-31 |
+| EQ Bank | HR Ops Intern | Toronto | [Apply](https://jobs.lever.co/eqbank/6f520184-f536-4b0f-b8a6-ab9c4b80d2ee) | 2026-07-31 |
 | Equinix | Data Center Development Intern Roles | Dallas / Elk Grove Village / Ashburn / Sv18 Silicon Valley | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Dallas/Data-Center-Development-Intern-Roles_JR-159872) | 2026-07-31 |
 | Flextronics International | Electrical Engineering Co-op | NH, United States | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Electrical-Engineering-Co-op_WD226386) | 2026-07-31 |
 | Flextronics International | Industrial Engineering Co-Op - Fall 2026 | SC, United States | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357) | 2026-07-31 |
@@ -200,6 +201,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | National Laboratory of the Rockies | Graduate Intern – Advanced Building Equipment Research Group | Golden, CO | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Advanced-Building-Equipment-Research-Group_R14429) | 2026-07-31 |
 | Nationwide Children's Hospital | IS Epic Services Intern | Columbus, OH | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Epic-Services-Intern_R-27206-1) | 2026-07-31 |
 | Nebraska Medicine | Inpatient Pharmacy Intern | Omaha, NE | [Apply](https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Inpatient-Pharmacy-Intern_REQ-37399) | 2026-07-31 |
+| Neighbor | Marketing Operations Intern (Part time) | Lehi, UT | [Apply](https://jobs.lever.co/neighbor/303c50a4-5f32-4d4c-86fc-2baeb9d9a3ac) | 2026-07-31 |
 | Nexstar | Hello Iowa Intern (Unpaid) | Ia-Des Moines / 1801 Grand Avenue (who) | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/IA-Des-Moines1801-Grand-Avenue-WHO/Hello-Iowa-Intern--Unpaid-_REQ-42465) | 2026-07-31 |
 | Nexstar | Lifestyle Show Fall Intern | Pa-Philadelphia / 5001 Wynnefield Avenue (tribune-Wphl) | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/PA-Philadelphia5001-Wynnefield-Avenue-Tribune-WPHL/Lifestyle-Show-Fall-Intern_REQ-42495) | 2026-07-31 |
 | Nexstar | Morning News Fall Intern | Pa-Philadelphia / 5001 Wynnefield Avenue (tribune-Wphl) | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/PA-Philadelphia5001-Wynnefield-Avenue-Tribune-WPHL/Morning-News-Fall-Intern_REQ-42494-1) | 2026-07-31 |
@@ -211,7 +213,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Internship: Software Test Engineer - JavaCard Applications (m/f/d) | Gratkorn | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Test-Engineer---JavaCard-Applications_R-10060761-1) | 2026-07-31 |
 | Ohio State University | Student Intern, Imaging Services | Outpatient Care / Ambulatory | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Outpatient-CareAmbulatory/Student-Intern--Imaging-Services_R156065-1) | 2026-07-31 |
 | Oshkosh | Internal Audit Intern | Wisconsin, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Internal-Audit-Intern_R48679) | 2026-07-31 |
+| Palantir | Forward Deployed Software Engineer, Internship - Commercial | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636) | 2026-07-31 |
+| Palantir | Forward Deployed Software Engineer, Internship - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | 2026-07-31 |
+| Palantir | Software Engineer, Internship | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) | 2026-07-31 |
+| Palantir | Software Engineer, Internship - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) | 2026-07-31 |
 | Pennsylvania State University | Part Time - Student - Parking Enforcement Worker | Penn State Harrisburg | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student---Parking-Enforcement-Worker_REQ_0000080855-1) | 2026-07-31 |
+| Penumbra Inc | Clinical Specialist Assistant Intern - Temp | Singapore | [Apply](https://jobs.lever.co/penumbrainc/1aaf8e1c-f567-4be9-9f9a-f12ef9604314) | 2026-07-31 |
 | Philips | Government Affairs Intern | Beijing | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Beijing/Government-Affairs-Intern_589191) | 2026-07-31 |
 | Philips | Intern of equipment | Suzhou | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Intern-of-equipment_588627) | 2026-07-31 |
 | Philips | Internship: Commercial Strategy & Sales (Dutch speaking) | Best | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Commercial-Strategy---Sales--Dutch-speaking-_587803) | 2026-07-31 |
@@ -4728,7 +4735,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tower Research Capital | Quantitative Trader Intern, PhD | New York | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 2026-07-06 |
 | Valeo | Stagiaire en Communication H/F | Bobigny | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bobigny/Stagiaire-en-Communication-H-F_REQ2026077838) | 2026-07-06 |
 | Verne Robotics | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b) | 2026-07-06 |
-| Xsolla | Finance Operations Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/0d405e3a-b8b0-40fa-92f3-c8eb8a057462) | 2026-07-06 |
 | Zeiss | Internship – Physically Based Rendering, Vulkan & Digital Twins (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Physically-Based-Rendering--Vulkan---Digital-Twins--f-m-x-_JR_1051106-2) | 2026-07-06 |
 | Zeiss | Working Student Mechatronics, Dynamics and Control Engineering (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Mechatronik-Dynamik-und-Regelungstechnik--m-w-x-_JR_1050513-1) | 2026-07-06 |
 | Air Liquide | Commercial Analyst Intern | Al Khobar Head Office Support Functions Al Gulf Rhq | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Al-Khobar-Head-Office---Support-functions---AL-Gulf-RHQ/Commercial-Analyst-Intern_R10095014) | 2026-07-05 |
@@ -6546,7 +6552,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | QuantCo | AI Engineering Intern | Europe | [Apply](https://jobs.lever.co/quantco-/da68e273-8f7e-47a7-a7d6-bf658a52561b) | 2026-06-17 |
 | QuantCo | Data Science Intern | United States | [Apply](https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02) | 2026-06-17 |
 | QuantCo | Data Science Intern | Europe | [Apply](https://jobs.lever.co/quantco-/a9862eb3-bbfa-4cdc-862d-ad614f20b1e4) | 2026-06-17 |
-| QuantCo | Office Management Working Student | Berlin Or Karlsruhe | [Apply](https://jobs.lever.co/quantco-/f41c0733-033e-431e-8feb-3b044874308d) | 2026-06-17 |
+| QuantCo | Office Management Working Student | Munich Or Karlsruhe | [Apply](https://jobs.lever.co/quantco-/f41c0733-033e-431e-8feb-3b044874308d) | 2026-06-17 |
 | QuantCo | Software Engineering Intern | Europe | [Apply](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c) | 2026-06-17 |
 | Quantinuum | Internship Opportunities with Quantinuum 2026 - UK/Germany | UK London Or Cambridge / Germany Munich | [Apply](https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd) | 2026-06-17 |
 | Recursion Pharmaceuticals | Interested in an internship? | United States Remote / Utah | [Apply](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026) | 2026-06-17 |
@@ -8635,7 +8641,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Quantity Surveyor Intern (Year Industry Placement) | Hs2 Brackley | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/HS2-Brackley/Quantity-Surveyor-Intern--Year-Industry-Placement-_JR17439) | 2026-06-02 |
 | Ferrovial | Webber - Accounting Intern - Heavy Civil | Tampa | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Tampa/Webber---Accounting-Intern---Heavy-Civil_JR17246) | 2026-06-02 |
 | Ferrovial | Webber - Accounting Intern - Heavy Civil | Atlanta, GA | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Atlanta-GA/Webber---Accounting-Intern---Heavy-Civil_JR17243) | 2026-06-02 |
-| Field AI | Robotics Research Internship, Humanoid Manipulation (Summer 2026) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | 2026-06-02 |
+| Field AI | Robotics Research Internship, Humanoid Manipulation (Fall 2026) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/2a2c8f00-3a28-481b-882c-33cb0ec4a3a0) | 2026-06-02 |
 | Field AI | Robotics Research Internship-Locomotion & Planning (Fall 2026) | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f) | 2026-06-02 |
 | First Quality | Controls Engineering Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R10171) | 2026-06-02 |
 | First Quality | Controls Engineering Technician Intern | US Pa Mcelhattan | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Technician-Intern_R8015) | 2026-06-02 |
@@ -9425,19 +9431,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Plante Moran | 2027 Tax Solutions Group Intern | Chicago Riverside Plaza / Traverse City / Toledo / Southfield / Schaumburg / Macomb / Kalamazoo / Grand Rapids / Fort Collins / Flint / East Lansing / Detroit / Denver Tech Center / Columbus / Cleveland / Cincinnati / Auburn Hills / Ann Arbor | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Chicago-Riverside-Plaza/XMLNAME-2027-Tax-Solutions-Group-Intern_JR-00438) | 2026-06-02 |
 | Plante Moran | 2027 Winter Healthcare Reimbursement Senior Care Intern | Columbus / Cleveland / Southfield | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Columbus/XMLNAME-2027-Winter-Healthcare-Reimbursement-Senior-Care-Intern_JR-01629) | 2026-06-02 |
 | PlusAI | Computer Vision Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9) | 2026-06-02 |
-| PlusAI | Deep Learning Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern - Planning | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc) | 2026-06-02 |
-| PlusAI | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) | 2026-06-02 |
 | PlusAI | Machine Learning Engineer Intern - Scenario Simulation | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) | 2026-06-02 |
-| PlusAI | Perception Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64) | 2026-06-02 |
-| PlusAI | Research Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca) | 2026-06-02 |
 | PlusAI | Research Engineer Intern - Control | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc) | 2026-06-02 |
 | PlusAI | Research Engineer Intern - Mapping & Localization | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061) | 2026-06-02 |
 | PlusAI | Robotics Systems Intern - Sensor Platform | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b) | 2026-06-02 |
 | PlusAI | Software Engineer Intern - Robotics | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) | 2026-06-02 |
-| PlusAI | Software Engineer Intern- Runtime, Robotics | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4) | 2026-06-02 |
-| PlusAI | Systems Engineering Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2) | 2026-06-02 |
 | Point72 | 2026 Warsaw MI Data – Web Scraping Internship | Poland | [Apply](https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002) | 2026-06-02 |
 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong | Hong Kong | [Apply](https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002) | 2026-06-02 |
 | Point72 | 2027 Point72 Academy Investment Analyst Summer Internship Program - Japan | Japan | [Apply](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | 2026-06-02 |
