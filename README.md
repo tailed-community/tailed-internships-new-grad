@@ -134,6 +134,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dallas College | Student Success Coach (Traditional) (North Lake) | North Lake Campus | [Apply](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/North-Lake-Campus/Student-Success-Coach--Traditional---North-Lake-_R13580) | 2026-08-01 |
 | Danaher Corporation | Bioinformatics Applications Internship | New York, United States | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/New-York-New-York-United-States/Bioinformatics-Applications-Internship_R1315868) | 2026-08-01 |
 | Dentsu | Media Intern | Buenos Aires | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Buenos-Aires/Media-Intern_R1128588) | 2026-08-01 |
+| EQ Bank | Intern, Modern Workplace Analyst | Toronto | [Apply](https://jobs.lever.co/eqbank/b9b8c0bd-24b2-4e78-8f1f-e2151aed834b) | 2026-08-01 |
 | Essity | Accounts Payable Intern (f/m/d) | Portugal | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lisbon-Portugal/Accounts-Payable-Intern--f-m-d-_Essity264350) | 2026-08-01 |
 | FOX | Fall 2026 Big Ten Network Internship Program - Media Management | Illinois, United States | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Fall-2026-Big-Ten-Network-Internship-Program---Media-Management_R50033501) | 2026-08-01 |
 | GE Healthcare | PDx LATAM Finance Intern | Sao Paulo | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Sao-Paulo/PDx-LATAM-Finance-Intern_R4043468-1) | 2026-08-01 |
@@ -221,6 +222,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Northeastern University | Student Services Coordinator, Orientation, Family, and First Year Programs | Oakland, Canada | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Oakland-CA/Student-Services-Coordinator--Orientation--Family--and-First-Year-Programs_R141196) | 2026-08-01 |
 | Novanta | Intern Engineering | Apex, NC | [Apply](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009560) | 2026-08-01 |
 | Ohio State University | Student Assistant | Ross Heart Hospital | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Ross-Heart-Hospital/Student-Assistant_R156004-2) | 2026-08-01 |
+| Palantir | Product Designer, Internship | New York, NY | [Apply](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | 2026-08-01 |
+| Palantir | Product Designer, Internship | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63) | 2026-08-01 |
+| Palantir | Product Designer, Internship - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | 2026-08-01 |
+| Palantir | Product Designer, Internship - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | 2026-08-01 |
+| Palantir | Product Designer, Internship - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | 2026-08-01 |
 | Philips | Software Development Engineer- intern | Bangalore | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Development-Engineer--intern_580320) | 2026-08-01 |
 | Pine Rest | Intern - CPE Chaplain: Onsite | Grand Rapids, MI | [Apply](https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Intern---CPE-Chaplain--Onsite_JR105216) | 2026-08-01 |
 | Pine Rest | Master's Level Internship - Macro MSW Leadership (Fall 2026 - Spring 2027) | Grand Rapids, MI | [Apply](https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Master-s-Leve-Internship---Macro-MSW-Leadership--Fall-2026---Spring-2027-_JR105251) | 2026-08-01 |
