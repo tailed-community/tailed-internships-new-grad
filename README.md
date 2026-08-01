@@ -862,8 +862,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Bradford, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/PO-Box-606-305-Barrie-St-Bradford-ON/Student--Franchise-Part-Time-Day_R2000688207) | 2026-07-30 |
 | Logitech | Early Careers Program Intern | Ireland / London, United Kingdom | [Apply](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Early-Careers-Program-Intern_147590) | 2026-07-30 |
 | Lonza | Internship IBEX MSAT USP 80-100% | Ch Visp | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Internship-IBEX-MSAT-USP-80-100-_R78332-1) | 2026-07-30 |
-| Loop | Data Scientist intern | Toronto, Canada | [Apply](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | 2026-07-30 |
-| Loop | Product Design Intern | Toronto, Canada | [Apply](https://ats.rippling.com/loop-careers/jobs/2874d85d-ac4c-4e71-8c01-ba27a51488e6) | 2026-07-30 |
 | Lynker | Intern | Not Specified | [Apply](https://careers-lynker.icims.com/jobs/1638/intern/job) | 2026-07-30 |
 | Maersk | Product Control-Student Assistant (Early Careers) | Copenhagen | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-2100/Product-Control-Student-Assistant--Early-Careers-_R190346) | 2026-07-30 |
 | Marriott Vacations Worldwide | Marketing Event Assistant Internship - Part Time (10-15 hours) - (August - December 2026) - Myrtle Beach | Marriott's Oceanwatch At Grande Dunes | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-OceanWatch-at-Grande-Dunes/Marketing-Event-Assistant-Internship---Part-Time--10-15-hours-----August---December-2026----Myrtle-Beach_JR92722) | 2026-07-30 |
@@ -1630,7 +1628,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NationGraph | Winter 2027 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) | 2026-07-27 |
 | NeoCognition | Research Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76) | 2026-07-27 |
 | NeoSigma | Member of Technical Staff - Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 2026-07-27 |
-| NERv Technology Inc. D.B.A. FluidAI Medical | Data and AI Engineering Associate (Co-op 8+ Months Preferred) | Kitchener, Canada | [Apply](https://ats.rippling.com/fluidai-medical-careers/jobs/c87d6d49-edd6-47eb-93f8-6e8a93216b39) | 2026-07-27 |
 | North Cloud | AI Automation Intern | Dumbo, NY | [Apply](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | 2026-07-27 |
 | NXP Semiconductors | Internship: Automotive Customer Application Software Engineer (m/f/d) | Gratkorn | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) | 2026-07-27 |
 | NXP Semiconductors | SW Engineering Intern | Eindhoven | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/SW-Engineering-Intern_R-10064053) | 2026-07-27 |
@@ -4350,7 +4347,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Pharmacy Intern | Kingston, NS | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/470-Main-St-Kingston-NS/Pharmacy-Intern_R2000681891) | 2026-07-09 |
 | Loblaw Companies | Student, Franchise Part Time Day | Kingston, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1030-Coverdale-Dr-Kingston-ON/Student--Franchise-Part-Time-Day_R2000682082) | 2026-07-09 |
 | Lonza | Internship IBEX Process Development Downstream 80-100% | Ch Visp | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Internship-IBEX-Process-Development-Downstream-80-100-_R77184-1) | 2026-07-09 |
-| Loop | Business Operations Intern | Toronto, Canada | [Apply](https://ats.rippling.com/loop-careers/jobs/bce20fe1-1a3c-4ced-9fc2-bd8ec586a400) | 2026-07-09 |
 | Louisiana State University (LSU) | Coordinator of Student Life | Lsu Alexandria | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/LSU---Alexandria/Coordinator-of-Student-Life_R00117038) | 2026-07-09 |
 | Magna International | Weld Technician Student | St. Thomas – Formet, ON, Canada | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/St-Thomas--Formet-Ontario-CA/Weld-Technician-Student_R00251144) | 2026-07-09 |
 | Mars | Internship Applied Statistics | Deu-Lower Saxony-Verden | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/DEU-Lower-Saxony-Verden/Internship-Applied-Statistics_R160278-1) | 2026-07-09 |

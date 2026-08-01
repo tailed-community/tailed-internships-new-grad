@@ -305884,5 +305884,61 @@
     "date_added": "2026-07-17",
     "active": false,
     "date_archived": "2026-08-01"
+  },
+  {
+    "id": "rippling-loop-bce20fe1-1a3c-4ced-9fc2-bd8ec586a400",
+    "company": "Loop",
+    "title": "Business Operations Intern",
+    "location": "Toronto, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/loop-careers/jobs/bce20fe1-1a3c-4ced-9fc2-bd8ec586a400",
+    "date_posted": null,
+    "date_added": "2026-07-09",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "rippling-loop-2874d85d-ac4c-4e71-8c01-ba27a51488e6",
+    "company": "Loop",
+    "title": "Product Design Intern",
+    "location": "Toronto, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/loop-careers/jobs/2874d85d-ac4c-4e71-8c01-ba27a51488e6",
+    "date_posted": null,
+    "date_added": "2026-07-30",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "rippling-loop-e016b693-7ce9-4dad-95ff-03b934fbd580",
+    "company": "Loop",
+    "title": "Data Scientist intern",
+    "location": "Toronto, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580",
+    "date_posted": null,
+    "date_added": "2026-07-30",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "rippling-nerv-technology-inc-d-b-a-fluidai-medical-c87d6d49-edd6-47eb-93f8-6e8a93216b39",
+    "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
+    "title": "Data and AI Engineering Associate (Co-op 8+ Months Preferred)",
+    "location": "Kitchener, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/c87d6d49-edd6-47eb-93f8-6e8a93216b39",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-01"
   }
 ]
