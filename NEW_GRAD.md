@@ -23,6 +23,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Post Surgical Unit | Marymount Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Post-Surgical-Unit_348912) | 2026-08-01 |
 | Cleveland Clinic | New Grad RN Resident – Surgery | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Surgery_349140) | 2026-08-01 |
 | CVS Health | Full-time Entry Level Pharmacy Technician Level 1, Dispensing (C Shift) | Pa Wilkes Barre | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Wilkes-Barre/Pharmacy-Technician-L1--Dispensing---C-Shift_R0912266) | 2026-08-01 |
+| Eurofins | QC Reviewer - Entry Level | Lenexa, KS, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140936006) | 2026-08-01 |
 | Fresenius Medical Care | New Grad Nurse | Mn. USA / St Cloud, MN, United States / Waite Park, MN, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/BRAINERD-MN-USA/New-Grad-Nurse_R0264412) | 2026-08-01 |
 | Fresenius Medical Care | New Graduate Nurse | Fitchburg, WI, United States / Milwaukee, WI, United States / Neenah, WI, United States / Appleton, WI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Fitchburg-WI-USA/New-Graduate-Nurse_R0264474) | 2026-08-01 |
 | Fresenius Medical Care | New Graduate Nurse | Akron, OH, United States / Youngstown, OH, United States / Cleveland, OH, United States / Columbus, OH, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Akron-OH-USA/New-Graduate-Nurse_R0264471) | 2026-08-01 |
@@ -271,7 +272,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Citi | Markets Operations Analyst - Entry Level | Belfast United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Analyst---Entry-Level_26979283) | 2026-07-23 |
 | Conagra Brands | Entry Level Mechanic - 3rd Shift | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Macon-Missouri/Entry-Level-Mechanic---3rd-Shift_Req-039326) | 2026-07-23 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139153989) | 2026-07-23 |
-| Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139156399) | 2026-07-23 |
 | Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000139215099) | 2026-07-23 |
 | Fortinet | Network Support (New Grads 2026) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) | 2026-07-23 |
 | Geosyntec Consultants | Early Career Geotechnical Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4699/early-career-geotechnical-engineer/job) | 2026-07-23 |
@@ -316,8 +316,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Ortho | Avon Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/New-Grad-RN-Resident---Med-Surg---Ortho_347892) | 2026-07-21 |
 | Corewell Health | New Grad Float RN | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Big-Rapids-MI/New-Grad-Float-RN_R221050) | 2026-07-21 |
 | Crowdstrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA Sunnyvale, Canada | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) | 2026-07-21 |
-| Eurofins | Associate Scientist l (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138683049) | 2026-07-21 |
-| Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138682640) | 2026-07-21 |
 | Kyndryl - KyndrylProfessionalCareers | Graduate Program – Application Consulting | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Application-Consulting_R-65539) | 2026-07-21 |
 | Marsh | Recruiting Coordinator, Entry-Level Recruiting Team (12 month Fixed Term Contract) - Warsaw | Warsaw Jerozolimskie | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Warsaw---Jerozolimskie/Recruiting-Coordinator--Entry-Level-Recruiting-Team--12-month-Fixed-Term-Contract----Warsaw_R_359457-1) | 2026-07-21 |
 | NiSource | IT Engineer I – Real-Time Systems - Entry Level | Columbus Oh Arena District / Merrillville In-Nipsco Hdq / Merrillville In-Slc | [Apply](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/IT-Engineer-I---Real-Time-Systems---Entry-Level_R00943226) | 2026-07-21 |
@@ -826,7 +824,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MSX International | Entry Level Openings for College Graduates (LA, San Francisco, Boston, NYC, Chicago, and Philadephia) | Southfield, United States | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990009703456) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
 | NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) | 2026-06-13 |
-| RESPEC | Early Career Engineer | Cheyenne, WY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000125844120) | 2026-06-13 |
 | RESPEC | Early Career Water Resources Engineer | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000103073456) | 2026-06-13 |
 | RESPEC | Early Career Water Resources Engineer | Sarasota, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000102682055) | 2026-06-13 |
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) | 2026-06-13 |
