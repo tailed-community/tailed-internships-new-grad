@@ -305296,5 +305296,61 @@
     "date_added": "2026-07-11",
     "active": false,
     "date_archived": "2026-08-01"
+  },
+  {
+    "id": "ashby-abridge-7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "company": "Abridge",
+    "title": "Software Engineer - Early Career",
+    "location": "California, United States / Nyc Office",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "date_posted": "2026-07-13",
+    "date_added": "2026-07-15",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "ashby-g2-63cfa520-33ec-41c8-b629-95645879e948",
+    "company": "G2",
+    "title": "Legal Intern",
+    "location": "Chicago, IL",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/G2/63cfa520-33ec-41c8-b629-95645879e948",
+    "date_posted": "2026-07-24",
+    "date_added": "2026-07-25",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "ashby-heron-power-b786b564-44bc-454f-ad9b-482f8b35ae4c",
+    "company": "Heron Power",
+    "title": "Intern, Supply Chain (Fall 2026)",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/heron-power/b786b564-44bc-454f-ad9b-482f8b35ae4c",
+    "date_posted": "2026-07-10",
+    "date_added": "2026-07-11",
+    "active": false,
+    "date_archived": "2026-08-01"
+  },
+  {
+    "id": "ashby-super-3295ced3-f64c-40fb-bd78-6ff35355c42b",
+    "company": "Super",
+    "title": "Legal Intern",
+    "location": "Canada / Toronto / Canada Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/super.com/3295ced3-f64c-40fb-bd78-6ff35355c42b",
+    "date_posted": "2026-05-11",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-01"
   }
 ]
