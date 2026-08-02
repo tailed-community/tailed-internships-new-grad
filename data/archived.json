@@ -304738,20 +304738,6 @@
     "date_archived": "2026-08-01"
   },
   {
-    "id": "greenhouse-cloudflare-8031027",
-    "company": "Cloudflare",
-    "title": "Network Strategy Intern (Fall 2026)",
-    "location": "In-Office",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "greenhouse",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
-    "date_posted": "2026-07-01",
-    "date_added": "2026-07-03",
-    "active": false,
-    "date_archived": "2026-08-01"
-  },
-  {
     "id": "greenhouse-doctors-without-borders-5362621008",
     "company": "Doctors Without Borders",
     "title": "Finance Intern",
@@ -306498,6 +306484,62 @@
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/CA---TORONTO-HUB-ONTOR/Building-and-Systems-Engineering-Intern_R26025717",
     "date_posted": "Posted 2 Days Ago",
     "date_added": "2026-07-31",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "greenhouse-cloudflare-8013562",
+    "company": "Cloudflare",
+    "title": "Network Strategy Intern (Fall 2026)",
+    "location": "In-Office",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+    "date_posted": "2026-06-26",
+    "date_added": "2026-06-27",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "greenhouse-cloudflare-8089379",
+    "company": "Cloudflare",
+    "title": "Research Engineer Intern (Fall 2026)",
+    "location": "In-Office",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+    "date_posted": "2026-07-28",
+    "date_added": "2026-07-29",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "greenhouse-toshiba-global-commerce-5192820007",
+    "company": "Toshiba Global Commerce",
+    "title": "AI Engineering Intern",
+    "location": "Durham, NC / Frisco, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+    "date_posted": "2026-07-26",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "greenhouse-toshiba-global-commerce-5192808007",
+    "company": "Toshiba Global Commerce",
+    "title": "Automation Engineering Intern",
+    "location": "Durham, NC / Frisco, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192808007",
+    "date_posted": "2026-07-26",
+    "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-08-02"
   }
