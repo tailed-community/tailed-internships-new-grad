@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Gannet Fleming | Entry Level Construction Inspector | Orlando, FL, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14471/entry-level-construction-inspector/job) | 2026-08-02 |
 | AAA Club Alliance - careers | Entry Level Cloud Services Analyst | Costa Mesa, Canada | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Cloud-Services-Analyst_JR202638192) | 2026-08-01 |
 | AutoNation | Entry Level Express/ Automotive Service Technician at Ford Bellevue - Pay $26 Hourly | Autonation Ford Bellevue | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Bellevue/express-technician_JR2026146451) | 2026-08-01 |
 | AutoNation | Entry Level Technician - Honda Roseville | Autonation Honda Roseville | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Roseville/Entry-Level-Technician---Honda-Roseville_JR2026146053) | 2026-08-01 |
