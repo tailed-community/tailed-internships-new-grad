@@ -21,6 +21,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/b22f4e84-aeb2-4872-aba4-135b0e7ecba0) | 2026-08-02 |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 2026-08-02 |
 | CVS Health | Pharmacy Intern | Fl Gainesville | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Gainesville/Pharmacy-Intern_R0997549) | 2026-08-02 |
 | Eulerity | Intern - Office of the CEO | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4701817006) | 2026-08-02 |
@@ -5117,7 +5118,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Paystand | Marketing Programs Intern | California, United States | [Apply](https://paystand.com/job-listing/?gh_jid=7790654003) | 2026-07-02 |
 | Pennsylvania State University | Part Time - Student - Kulkarni Theatre Event Technician | Penn State Harrisburg | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student---Kulkarni-Theatre-Event-Technician_REQ_0000079889-1) | 2026-07-02 |
 | Pennsylvania State University | Student Library Assistant | The Behrend College | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Erie-The-Behrend-College/Student-Library-Assistant_REQ_0000079819-1) | 2026-07-02 |
-| Periodic Labs | Nanofabrication Intern - Summer 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) | 2026-07-02 |
+| Periodic Labs | Nanofabrication Intern - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) | 2026-07-02 |
 | Philadelphia Gas Works | Drexel Co-Op - Field Operations Planning - Fall/Winter 2026 | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1978/drexel-co-op---field-operations-planning---fall-winter-2026/job) | 2026-07-02 |
 | Philips | Internship: Measurement Systems Development | Drachten | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Internship--Measurement---Analysis_586111) | 2026-07-02 |
 | Philips | Procurement Project Management Intern (all genders) | Lodz | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Procurement-Project-Management-Intern--all-genders-_587019) | 2026-07-02 |
