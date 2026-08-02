@@ -306542,5 +306542,47 @@
     "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-08-02"
+  },
+  {
+    "id": "oracle_hcm-coherent-2012893",
+    "company": "Coherent",
+    "title": "Machinist - Entry level",
+    "location": "Saxonburg, PA, United States",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012893",
+    "date_posted": "2026-06-16",
+    "date_added": "2026-06-17",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "oracle_hcm-ihg-161419",
+    "company": "IHG",
+    "title": "Front Office Internship- Kimpton Vividora",
+    "location": "Spain",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/161419",
+    "date_posted": "2026-04-30",
+    "date_added": "2026-06-13",
+    "active": false,
+    "date_archived": "2026-08-02"
+  },
+  {
+    "id": "oracle_hcm-nokia-38630",
+    "company": "Nokia",
+    "title": "Financial Project Analyst Intern",
+    "location": "Portugal",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38630",
+    "date_posted": "2026-07-28",
+    "date_added": "2026-07-29",
+    "active": false,
+    "date_archived": "2026-08-02"
   }
 ]
