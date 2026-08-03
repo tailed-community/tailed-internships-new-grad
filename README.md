@@ -38,6 +38,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brown Brothers Harriman | Technology Internship - Business Analyst | Krakow | [Apply](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Krakow/Technology-Internship---Business-Analyst_72287) | 2026-08-03 |
 | Brown Brothers Harriman | Technology Internship - Quality Assurance/Test Automation | Krakow | [Apply](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Krakow/Technology-Internship---Quality-Assurance-Test-Automation_72289) | 2026-08-03 |
 | Brown Brothers Harriman | Technology Internship - Software Engineer with Java | Krakow | [Apply](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Krakow/Technology-Internship---Software-Engineer-with-Java_72290) | 2026-08-03 |
+| CALSTART | Brand Implementation & Graphic Design Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/1cd80511-1855-49fd-8cee-b1fe6c0e5424) | 2026-08-03 |
+| CALSTART | Community Engagement Intern, CMO | Los Angeles | [Apply](https://jobs.lever.co/calstart/74b8ccf8-4ef1-46ca-a32a-44fa63422854) | 2026-08-03 |
+| CALSTART | Data Analysis Intern | East Coast, United States | [Apply](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8) | 2026-08-03 |
+| CALSTART | Policy Development & Support Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/664e9612-07c6-4352-a8af-2719b7fcac6b) | 2026-08-03 |
+| CALSTART | Web Development Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea) | 2026-08-03 |
+| CALSTART | Zero-Emission Data & Research Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909) | 2026-08-03 |
 | Chanel | Internship – CRM Campaign Project Management– CHANEL Europe – January 2027 – M/F/D | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---CRM-Campaign-Project-Management--CHANEL-Europe---January-2027---M-F-D_JOBREQ00115628) | 2026-08-03 |
 | Chanel | Internship – Store Planning – CHANEL Europe – September 2026 – M/F/D | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---Store-Planning---CHANEL-Europe---September-2026---M-F-D_JOBREQ00115627) | 2026-08-03 |
 | Chanel | Stage - Assistant(e) Coordination Produits Studio Photos (H/F/X) - Mode – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Coordination-Produits-Studio-Photos--H-F-X----Mode---Janvier-2027_JOBREQ00115607-3) | 2026-08-03 |
@@ -1878,7 +1884,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Stage - AI Specialist (H/F) | Bagneux, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10096835) | 2026-07-27 |
 | Airbus | ACOQ6 Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOQ6-Intern_JR10431391) | 2026-07-27 |
 | Airbus | Intern (d/f/m) Application Development at Flight Physics | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Intern--d-f-m--Application-Development-at-Flight-Physics_JR10429177) | 2026-07-27 |
-| Allegiant Air | Intern, Financial Analyst (Fall 2026) | Las Vegas, NV | [Apply](https://jobs.lever.co/allegiantair/df5b7db9-c938-4f3d-8926-57d8a0dbecb3) | 2026-07-27 |
 | Amgen | Senior Associate, Talent Management, University Relations – Intern Program | India Hyderabad | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Senior-Associate--Talent-Management--University-Relations---Intern-Program_R-251367) | 2026-07-27 |
 | Ampliwork, Inc | Operations & Strategy Intern | Montréal, Canada | [Apply](https://ats.rippling.com/ampliwork-inc/jobs/69f4b401-d69b-473a-973c-f324fe329131) | 2026-07-27 |
 | Anthelion Capital | Quant Developer / Quant Research Intern - 2026/2027 | New York, United States | [Apply](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | 2026-07-27 |
@@ -3463,7 +3468,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Enterprise Mobility | Fall 2026 Management Trainee Intern \| New Rochelle, NY | Mamaroneck | [Apply](https://us-erac.icims.com/jobs/559123/fall-2026-management-trainee-intern-%7c-new-rochelle%2c-ny/job) | 2026-07-17 |
 | Enterprise Mobility | Fall 2026 Management Trainee Intern \| Rockland County, NY | Haverstraw & Nyack | [Apply](https://us-erac.icims.com/jobs/559121/fall-2026-management-trainee-intern-%7c-rockland-county%2c-ny/job) | 2026-07-17 |
 | Enterprise Mobility | Fall 2026 Management Trainee Intern \| Westchester County, NY | Sleepy Hollow & Mount Kisco | [Apply](https://us-erac.icims.com/jobs/559138/fall-2026-management-trainee-intern-%7c-westchester-county%2c-ny/job) | 2026-07-17 |
-| Equativ | Data Scientist Intern | Paris | [Apply](https://jobs.lever.co/equativ/28b0ea9f-092e-4e31-aae6-b327e6887b31) | 2026-07-17 |
 | Freudenberg Group | Working Student Marketing & Communication (m/w/d) | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Working-Student-Marketing---Communication--m-w-d-_R_00105069) | 2026-07-17 |
 | GE Vernova | Working student Project Management (m/w/d) | Berlin | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Berlin/Working-student-Project-Management--m-w-d-_R5047358-1) | 2026-07-17 |
 | GE Vernova - vernova_externalsite | Working student Project Management (m/w/d) | Berlin | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Berlin/Working-student-Project-Management--m-w-d-_R5047358-2) | 2026-07-17 |
@@ -6192,7 +6196,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Tehnolog Productie / Program internship | Brasov (30 Hermann) | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Brasov-30-Hermann/Tehnolog-Productie---Program-internship_JR10422949-1) | 2026-06-22 |
 | Arcadis | Project Management Intern | Italy | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41945) | 2026-06-22 |
 | ASML | Software Engineering Internship: Python tool development | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Software-Engineering-Internship--Python-tool-development_J-00337347) | 2026-06-22 |
-| Brooks Running | Marketing Intern BeneLux (Start Date August 2026) | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/8788d1d9-ffc7-4f7d-8e69-0c5f129847e7) | 2026-06-22 |
 | Criteo | Data Analyst Intern - Business Ops Data Enablement (September 2026) | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Data-Analyst-Intern---Business-Ops-Data-Enablement_r19908) | 2026-06-22 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nj Denville | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Denville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0954083) | 2026-06-22 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Nj Ledgewood | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Ledgewood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0954079) | 2026-06-22 |
@@ -10424,10 +10427,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Acceldata | Software Engineering Co-op | Kitchener | [Apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) | 2026-05-22 |
 | Ciena | Product Verification Engineer Intern (12 months) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Engineer-Intern--12-months-_R031002) | 2026-05-22 |
 | Disney | Disney Research Studio Intern | Switzerland | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Zrich-Switzerland/Disney-Research-Studio-Intern_10150845) | 2026-05-22 |
-| Larian Studios | Environment Artist Intern \| Artiste d’environnement stagiaire | QC | [Apply](https://jobs.lever.co/larian/d3400c04-f716-43f8-96bc-f000209670f8) | 2026-05-22 |
 | Larian Studios | Gameplay Programmer Internship | Barcelona | [Apply](https://jobs.lever.co/larian/d546d9c3-ab0d-4c77-81d8-8b8388c158ff) | 2026-05-22 |
 | Larian Studios | Internship - Tools Programmer | Kuala Lumpur | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) | 2026-05-22 |
-| Larian Studios | Technical QA Tester Internship - Testeur QA technique stagiaire | QC | [Apply](https://jobs.lever.co/larian/840f47d9-ff56-46ca-bac9-f9287d433c14) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) | 2026-05-22 |
 | Veeva Systems | Implementation Consultant Intern | China Shanghai | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) | 2026-05-22 |
