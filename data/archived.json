@@ -310714,5 +310714,19 @@
     "date_added": "2026-07-05",
     "active": false,
     "date_archived": "2026-08-03"
+  },
+  {
+    "id": "ashby-snowflake-26a0ae52-97a6-4a46-9216-3c382570d89b",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern - Zurich (2026)",
+    "location": "Switzerland, Switzerland",
+    "type": "internship",
+    "season": "2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
+    "date_posted": "2026-05-12",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-03"
   }
 ]
