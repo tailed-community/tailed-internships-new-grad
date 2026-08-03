@@ -311722,5 +311722,61 @@
     "date_added": "2026-07-10",
     "active": false,
     "date_archived": "2026-08-03"
+  },
+  {
+    "id": "rippling-democratic-national-committee-b8495abb-0bd3-4dd0-b4c4-1895521375f1",
+    "company": "Democratic National Committee",
+    "title": "Fall 2026 DNC General Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/b8495abb-0bd3-4dd0-b4c4-1895521375f1",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-03"
+  },
+  {
+    "id": "rippling-democratic-national-committee-ca1848d1-e626-4310-8eea-08e4f639f37b",
+    "company": "Democratic National Committee",
+    "title": "Fall 2026 DNC Rapid Social Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/ca1848d1-e626-4310-8eea-08e4f639f37b",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-03"
+  },
+  {
+    "id": "rippling-democratic-national-committee-b921c53b-eff8-47fa-9862-4cb4f615710a",
+    "company": "Democratic National Committee",
+    "title": "Fall 2026 DNC Social Platforms Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/b921c53b-eff8-47fa-9862-4cb4f615710a",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-03"
+  },
+  {
+    "id": "rippling-democratic-national-committee-3f556194-5789-4d7c-bc00-35b9aea75e1d",
+    "company": "Democratic National Committee",
+    "title": "Fall 2026 DNC Technology Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/3f556194-5789-4d7c-bc00-35b9aea75e1d",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-03"
   }
 ]
