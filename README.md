@@ -22,6 +22,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Abbott | QA System Intern - Granada - Supply Chain | Spain Granada | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Granada/QA-System-Intern---Granada---Supply-Chain_31157509) | 2026-08-03 |
+| AECOM | Cost Management Intern - Quantity Surveying (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000141168199) | 2026-08-03 |
 | Alliaxis | Quality Control Intern | It Piombino | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IT---Piombino/Quality-Control-Intern_R-57002-1) | 2026-08-03 |
 | Alljoined | Research Intern (Fall) | California, United States | [Apply](https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515) | 2026-08-03 |
 | Allstate Insurance Company | Pricing Actuarial Analyst Intern | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433) | 2026-08-03 |
@@ -77,6 +78,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Clera | Founder Associate Intern | California, United States / Aachen / Stuttgart / Berlin / Hamburg / Karlsruhe / Munich | [Apply](https://jobs.ashbyhq.com/clera/982b38c9-f1f4-4ec5-a542-d8dee853da77) | 2026-08-03 |
 | Clera | Operations Intern → Full-Time | Germany | [Apply](https://jobs.ashbyhq.com/clera/456272ac-2935-405e-a5c5-960c5ff721f1) | 2026-08-03 |
 | Colonist | Product Developer Intern | Any Location / Remote | [Apply](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd) | 2026-08-03 |
+| Continental | Working Student - Business Intelligence & Data Engineering | Lithuania | [Apply](https://jobs.smartrecruiters.com/Continental/744000141234819) | 2026-08-03 |
+| Continental | Working Student/ Accounts Payable (6 to 12 months) | Lithuania | [Apply](https://jobs.smartrecruiters.com/Continental/744000141231111) | 2026-08-03 |
 | Copeland | Sales Analyst Intern | Romania | [Apply](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Cluj-Napoca-Romania/Sales-Analyst-Intern_JR117063) | 2026-08-03 |
 | Corteva | biologicals, intern | Czechia | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Prague-Czechia/biologicals--intern_247712W) | 2026-08-03 |
 | Cummins | Tax Accounting Intern 税务会计实习生 | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434334) | 2026-08-03 |
@@ -284,6 +287,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ERM | EHS & ESG M&A Intern | Italy | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Milan-Italy/Internship---M-A---focus-on-EHS_R00031019-1) | 2026-08-03 |
 | ERM | HSE Intern (Health, Safety & Environment) | Italy | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Milan-Italy/HSE-Intern--Health--Safety---Environment-_R00030846) | 2026-08-03 |
 | ERM | Project Assistant Intern (ReachCentrum) | Italy | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Milan-Italy/Project-Assistant-Intern--ReachCentrum-_R00031263) | 2026-08-03 |
+| Eurofins | [Tan Phu, HCM] - Admin Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141183823) | 2026-08-03 |
+| Eurofins | [Tan Phu, HCM] - Report Logout Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141181949) | 2026-08-03 |
+| Eurofins | Marketing Stagiair(e) (40 uur per week) | Leiden, ZH | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141243179) | 2026-08-03 |
 | Euronext | Accounts Receivable Intern | Amsterdam | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Amsterdam/Accounts-Receivable-Intern_R27896) | 2026-08-03 |
 | Euronext | AI Engineering Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219) | 2026-08-03 |
 | Euronext | Borsa italiana  Web Advertising Internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Borsa-italiana--Web-Advertising-Internship_R28126) | 2026-08-03 |
@@ -399,6 +405,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern – ML/AI Engineer (Product Engineering, STPG) | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ML-AI-Engineer--Product-Engineering--STPG-_JR93102) | 2026-08-03 |
 | Modal | ML Research Intern | New York, United States / San Francisco | [Apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 2026-08-03 |
 | Motorola Solutions | Order Management Intern (1st shift) | Poland | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Order-Management-Intern--1st-shift-_R67237) | 2026-08-03 |
+| NBCUniversal | Marketing Intern (w/m/d) | Switzerland | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000141256482) | 2026-08-03 |
 | Netsmart | Client Alignment Representative Future  (Summer 2027 Internship) | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Client-Alignment-Representative-Future---Summer-2027-Internship-_R015652) | 2026-08-03 |
 | NORY | Summer Operations Internship: Education Startup, NYC | NY, United States | [Apply](https://jobs.ashbyhq.com/nory-co/7e3c9e86-4afe-4e04-aba2-18602ee7bef5) | 2026-08-03 |
 | NVIDIA | System Design Engineer - LDE (RDSS Intern) | Taipei | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878) | 2026-08-03 |
@@ -427,7 +434,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PPL | Research & Development - PhD Engineering Intern | Kentucky / Pennsylvania / Rhode Island | [Apply](https://careers.pplweb.com/jobs/14149?lang=en-us&icims=1) | 2026-08-03 |
 | PricewaterhouseCoopers (PwC) | Actuarial Intern | Bangkok | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Actuarial-Intern_749766WD) | 2026-08-03 |
 | PricewaterhouseCoopers (PwC) | Finance - Intern | Bangkok | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bangkok/Finance---Intern_749785WD) | 2026-08-03 |
+| Ramboll | Environmental Consulting Intern – Contaminated Sites and Remediation | Italy | [Apply](https://jobs.smartrecruiters.com/Ramboll3/744000141260484) | 2026-08-03 |
 | RapDev | ServiceNow Engineering Intern | Massachusetts, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc) | 2026-08-03 |
+| Red Bull | Intern eCommerce Development | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000141270131) | 2026-08-03 |
+| Red Bull | Red Bull Student Marketeer 2026 - Johannesburg | Johannesburg, GP | [Apply](https://jobs.smartrecruiters.com/RedBull/744000141266849) | 2026-08-03 |
 | Regions Bank | 2027 ETP Analyst-Corporate Banking Group. 2026 Regions Interns Only. | Nc Charlotte Uptown Branch / Memphis / Al Regions Center / Al Rsa Tower / Dallas / Fl Downtown Tampa Building / Tx Regions Houston Headquarters Office / Ms) / Tx Ft Worth Operations Center / Al) / Tn Music Row Branch / Ga Regions Plaza Office | [Apply](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/XMLNAME-2027-ETP-Analyst-Corporate-Banking-Group_R104538-1) | 2026-08-03 |
 | Renault Group | CS27 BAC+5 Stagiaire AI ADOPTION & COMMUNICATION SPECIALIST (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Guyancourt/CS27-BAC-5-Stagiaire-AI-ADOPTION---COMMUNICATION-SPECIALIST--H-F-_JOBREQ_50273932) | 2026-08-03 |
 | Richemont | -	Business Analyst Intern, TimeVallée | Bellevue | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analyst-Intern_JR130546) | 2026-08-03 |
@@ -558,6 +568,15 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | Technology Procurement Intern | Meyrin | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Technology-Procurement-Intern_JR131328) | 2026-08-03 |
 | Richemont | Upstream Supply Chain Project Intern | Bellevue | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Upstream-Supply-Chain-Project-Intern_JR129678) | 2026-08-03 |
 | Richemont | Working Student - Retail Experience | Hamburg | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/HAMBURG/Working-Student---Retail-Experience_JR129330) | 2026-08-03 |
+| Robert Bosch Venture Capital | [EMC] Intern for Admin Intern - Training Support (HN) (Japanese Speaking) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141173369) | 2026-08-03 |
+| Robert Bosch Venture Capital | [EMC] Intern for AI Development | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141180479) | 2026-08-03 |
+| Robert Bosch Venture Capital | [EPM] DevOps Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141188150) | 2026-08-03 |
+| Robert Bosch Venture Capital | [Internship] Logistics Planning & Operations Intern (Japanese speaking) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141173229) | 2026-08-03 |
+| Robert Bosch Venture Capital | [Internship] Project Management Intern (Japanese speaking) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141168910) | 2026-08-03 |
+| Robert Bosch Venture Capital | Academic Internship in Corporate Governance (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141235939) | 2026-08-03 |
+| Robert Bosch Venture Capital | BEST Scholarship Program - 2026 | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141188689) | 2026-08-03 |
+| Robert Bosch Venture Capital | Internship MEMS Sensor Characterization and Testing | Kusterdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141228459) | 2026-08-03 |
+| Robert Bosch Venture Capital | Pflichtpraktikum Fertigungsbereich Qualitätsmanagement | Germany | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141182949) | 2026-08-03 |
 | Roche | Cybersecurity Analyst Intern | Sant Cugat Del Vallès | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Cybersecurity-Analyst-Intern_202607-119909) | 2026-08-03 |
 | Roche | Digital & Innovation Hub Intern | Subang Jaya | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Subang-Jaya/Digital---Innovation-Hub-Intern_202606-114215) | 2026-08-03 |
 | Rocket Lab USA | Avionics Intern - Neutron Avionics Systems | Auckland, NZ | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7819822003) | 2026-08-03 |
@@ -598,7 +617,16 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Boeing Company | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA Arlington, VA | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026519272-1) | 2026-08-03 |
 | The Boeing Company - INTERN | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA Arlington, VA | [Apply](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026519272) | 2026-08-03 |
 | The Coca-Cola Company | Coca-Cola Ignite Intern - Finance | Spain Madrid | [Apply](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Spain---Madrid/Coca-Cola-Ignite-Intern---Finance_R-139250) | 2026-08-03 |
+| Turner & Townsend | Internship 2026 - Quantity Surveying / Cost Management | Malaysia | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000126217639) | 2026-08-03 |
+| Turner & Townsend | Project Director – Residential, Student Accommodation, Hotels & Leisure | Ireland | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000140413619) | 2026-08-03 |
+| Turner & Townsend | Working Student - Project Manager | Germany | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000140169544) | 2026-08-03 |
+| Veolia | Stage - Chargé(e) de projets Événementiels et Administratifs | Idf, France | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141245181) | 2026-08-03 |
 | Warner Bros. | Aquisition intern | Munich | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/Munich-Leopoldstrae-57/Aquisition-intern_R000106670) | 2026-08-03 |
+| Western Digital | Intern - Data Science | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141229015) | 2026-08-03 |
+| Western Digital | Intern - Manufacturing Engineer | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141175090) | 2026-08-03 |
+| Western Digital | Intern Firmware Engineering | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141227773) | 2026-08-03 |
+| Western Digital | Intern- Firmware Engineering | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141229499) | 2026-08-03 |
+| Western Digital | Internship - Software Engineering | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141229099) | 2026-08-03 |
 | WTW | Early Careers: 2026 Graduate Actuarial Trainee (Intern) - Gurugram | India | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604931) | 2026-08-03 |
 | WTW | P&C Actuarial Intern | Italy | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604906) | 2026-08-03 |
 | Yotta Labs | Research Engineer Intern - AI Systems | United States / Hong Kong / Canada / Singapore / United States Remote | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) | 2026-08-03 |
@@ -1115,11 +1143,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | [Internship Program Q4] Embedded Software Intern (C/C++/Linux) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140816919) | 2026-07-31 |
 | Robert Bosch Venture Capital | [Internship Program Q4] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140816322) | 2026-07-31 |
 | Robert Bosch Venture Capital | [SX/EIT-MM] SAP Consultant Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140813079) | 2026-07-31 |
-| Robert Bosch Venture Capital | Internship in Development and Production of MEMS Sensors | Reutlingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140902779) | 2026-07-31 |
 | Robert Bosch Venture Capital | Internship in Solid Oxide Cell Development | Renningen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140696399) | 2026-07-31 |
 | Robert Bosch Venture Capital | Pflichtpraktikum im Eventmanagement | Leinfelden-Echterdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140836010) | 2026-07-31 |
 | Robert Bosch Venture Capital | Praktikum AI Integration & Smart Engineering | Wernau (neckar), BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140826660) | 2026-07-31 |
-| Robert Bosch Venture Capital | Praktikum in HR, Social Media und digitales Lernen | Lohr Am Main, BY | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140825369) | 2026-07-31 |
 | Robert Bosch Venture Capital | SENIOR SOFTWARE DEVELOPMENT ENGINEER (35417) | Curitiba, PR | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140763726) | 2026-07-31 |
 | Robert Bosch Venture Capital | Student Smart Career 2026 - 2028 | Blaj, AB | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140822519) | 2026-07-31 |
 | Robert Bosch Venture Capital | Working Student - Quality Management Purchasing | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140870521) | 2026-07-31 |
@@ -1268,7 +1294,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Investment Banking - Summer Internship Program, Tokyo - Japan, 2027 | Chiyoda-Ku Tokyo Japan | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Investment-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982662) | 2026-07-30 |
 | Cloudflare | Research Engineer Intern (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 2026-07-30 |
 | CME Group | Corporate Tax Intern - Year Round | Chicago 20 S. Wacker | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Corporate-Tax-Intern---Year-Round_34675) | 2026-07-30 |
-| Continental | Praktikum inkl. Abschluss- / Bachelorarbeit - Lackentwicklung - REF95335B | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000140666089) | 2026-07-30 |
 | CoxHealth | Radiology Student II - Urgent Care Sunshine - National - PRN | Springfield, MO | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Radiology-Student-II---Urgent-Care-Sunshine---National---PRN_R17337) | 2026-07-30 |
 | Cushman & Wakefield | EIC Intern | Spain | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/EIC-Intern_R328781) | 2026-07-30 |
 | Cushman & Wakefield | EIC Intern - Commercial Real Estate, Chennai | India | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/EIC-Intern---Commercial-Real-Estate--Chennai_R307361) | 2026-07-30 |
@@ -1489,7 +1514,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | Medical Sales Intern | Remote | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Egypt---Remote/Medical-Sales-Intern_31157637) | 2026-07-29 |
 | Accenture | Talent Acquisition & Employer Branding Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Talent-Acquisition---Employer-Branding-Internship_R00347485) | 2026-07-29 |
 | AECOM | Civil Engineering Intern - Civil & GET (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000140392949) | 2026-07-29 |
-| AECOM | Electrical Engineering Intern - Transmission & Distribution (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000140344308) | 2026-07-29 |
 | AECOM | Materials and Asset Management Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000140376349) | 2026-07-29 |
 | Airbus | ACOLFE Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLFE-Intern_JR10432757) | 2026-07-29 |
 | Airbus | ACOLS26 INTERN | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS26-INTERN_JR10433067) | 2026-07-29 |
@@ -1664,7 +1688,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | [BD] JavaScript Developer Intern (6-month fulltime internship) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140390469) | 2026-07-29 |
 | Robert Bosch Venture Capital | [BGSV/PJ-NE] Software Engineer Intern (Python, JavaScript/TypeScript, Java) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140405355) | 2026-07-29 |
 | Robert Bosch Venture Capital | ADAS Software Engineering Intern | Plymouth, MI, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | 2026-07-29 |
-| Robert Bosch Venture Capital | Autonomous Driving – Internship in Machine Learning | Sunnyvale, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) | 2026-07-29 |
 | Robert Bosch Venture Capital | Business Development Intern | Philippines | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140376049) | 2026-07-29 |
 | Robert Bosch Venture Capital | DevOps gyakornok | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140274489) | 2026-07-29 |
 | Robert Bosch Venture Capital | Extracurricular Internship: Gateway Firmware Engineer (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140435979) | 2026-07-29 |
@@ -1893,7 +1916,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Renault Group | [Internship] Product Manager Junior LCV (F/M) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Product-Manager-Junior-LCV--F-M-_JOBREQ_50271919) | 2026-07-28 |
 | Renault Group | CS27 BAC+5 – Stagiaire Transformation Digitale & Excellence Opérationnelle (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Guyancourt/CS27-BAC-5---Stagiaire-Transformation-Digitale---Excellence-Oprationnelle--H-F-_JOBREQ_50271834) | 2026-07-28 |
 | Revvity | Internship in Customer Support - Finance & Collections (Afternoon hours) | Krakow | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Krakow/Internship-in-Customer-Support---Finance---Collections--Afternoon-hours-_JR-045030) | 2026-07-28 |
-| Robert Bosch Venture Capital | [Internship] Logistics Planning & Operations Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140161850) | 2026-07-28 |
 | Robert Bosch Venture Capital | [Internship] Office Administration & Receptionist Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140160079) | 2026-07-28 |
 | Robert Bosch Venture Capital | Extracurricular Internship: Mechanical Design Engineer (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140028170) | 2026-07-28 |
 | Robert Bosch Venture Capital | Marketing Smart Start | Turkey | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140211139) | 2026-07-28 |
@@ -2077,7 +2099,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hewlett Packard (HP) | College Intern - Mechanical Design Engineering | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Mechanical-Design-Engineering_UNI4653) | 2026-07-27 |
 | Hewlett Packard (HP) | College Intern - Quality Engineering | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Quality-Engineering_UNI4034-2) | 2026-07-27 |
 | Hewlett Packard (HP) | College Intern - Strategic Procurement | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Strategic-Procurement_UNI4117) | 2026-07-27 |
-| HireVue | Data Science Intern \| Fully Remote US | United States Remote | [Apply](https://jobs.smartrecruiters.com/HireVue/744000138728139) | 2026-07-27 |
 | Hitachi | Internship - Quality Engineer | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Internship---Quality-Engineer_R0139370) | 2026-07-27 |
 | HMH | Technical Support Intern - Mechanics & Hydraulics | Brazil | [Apply](https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Macae-Brazil/Technical-Support-Intern---Mechanics---Hydraulics_JR102007) | 2026-07-27 |
 | HP | College Intern - Mechanical Design Engineering | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Mechanical-Design-Engineering_UNI4653-1) | 2026-07-27 |
@@ -2150,7 +2171,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ramboll | Werkstudent (m/w/d) (Teilzeit) oder Praktikant (m/w/d) (Vollzeit) für den Bereich Verkehrsplanung (ÖPNV) | Germany | [Apply](https://jobs.smartrecruiters.com/Ramboll3/744000139993639) | 2026-07-27 |
 | Red Bull | 2027 Red Bull Student Marketeer - East London | Kugompo City, EC | [Apply](https://jobs.smartrecruiters.com/RedBull/744000140007339) | 2026-07-27 |
 | Red Bull | 2027 Red Bull Student Marketeer - Free State | Bloemfontein, FS | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139959089) | 2026-07-27 |
-| Red Bull | Accounting Internship ( 6 months) | Cape Town, WC | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139915759) | 2026-07-27 |
 | Red Bull | Praktikum Brand Marketing Red Bull Österreich | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000140002120) | 2026-07-27 |
 | Red Bull | Red Bull Student Marketeer - Coventry University | United Kingdom Remote | [Apply](https://jobs.smartrecruiters.com/RedBull/744000140019709) | 2026-07-27 |
 | Red Bull | Student Marketeer - Flinders University | Adelaide, SA | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139912558) | 2026-07-27 |
@@ -2162,12 +2182,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Roam | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c) | 2026-07-27 |
 | Robert Bosch Venture Capital | [GS] HR Intern (Document handling) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139938665) | 2026-07-27 |
 | Robert Bosch Venture Capital | [Internship] Data and AI Intern (Data focused) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139971749) | 2026-07-27 |
-| Robert Bosch Venture Capital | HR Intern International Mobility | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139982809) | 2026-07-27 |
 | Robert Bosch Venture Capital | HSE - Internship | Italy | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139943604) | 2026-07-27 |
 | Robert Bosch Venture Capital | Internship in Business Analytics and Marketing | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139885886) | 2026-07-27 |
 | Robert Bosch Venture Capital | Manufacturing Operations Intern | Italy | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139943541) | 2026-07-27 |
 | Robert Bosch Venture Capital | Pflichtpraktikum in der Fertigungsplanung ESP | Bühl, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140005184) | 2026-07-27 |
-| Robert Bosch Venture Capital | Praktikum HR Management - Fokus Gesundheitsmanagement (w/m/div.) ab Oktober 2026, ab 30 h/Woche | Austria | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139955289) | 2026-07-27 |
 | Robert Bosch Venture Capital | Software Function Developer intern | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139993139) | 2026-07-27 |
 | Robert Bosch Venture Capital | Working Student in Embedded Software Development - High Level | Cluj-Napoca, CJ | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139973559) | 2026-07-27 |
 | Robert Bosch Venture Capital | Working Student in International Service IT & Processes (f/m/div.) | Wernau (neckar), BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140005874) | 2026-07-27 |
@@ -2544,7 +2562,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Red Bull | Red Bull Student Marketeer 2027 - Pretoria | Remote | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139316694) | 2026-07-24 |
 | Red Bull | Student Marketeer - University of Colorado Boulder | Boulder, CO, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139336009) | 2026-07-24 |
 | Regal Rexnord | MarCom Operations Intern | China | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Shanghai-Minhang-District-China/MarCom-Operations-Intern_R26_03822-1) | 2026-07-24 |
-| Robert Bosch Venture Capital | [GS] HRS Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139527009) | 2026-07-24 |
 | Robert Bosch Venture Capital | Internship in Quality Management | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139435206) | 2026-07-24 |
 | Robert Bosch Venture Capital | Internship in the EU Affairs Office | Belgium | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139577939) | 2026-07-24 |
 | Robert Bosch Venture Capital | Project Management & Migration Support - Internship | Serbia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139303115) | 2026-07-24 |
@@ -2789,7 +2806,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Red Bull | Student Marketeer Team Lead - Raleigh, NC | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139117849) | 2026-07-23 |
 | Robert Bosch Venture Capital | [Bosch HcP - Internship] Document Control Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139200389) | 2026-07-23 |
 | Robert Bosch Venture Capital | [Bosch R&D - Internship] Project Management Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139199600) | 2026-07-23 |
-| Robert Bosch Venture Capital | Intern, Purchasing | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139200329) | 2026-07-23 |
 | Robert Bosch Venture Capital | Internship 2026, Marketing Administrator (M/MBS-EA) (Korean speaking) | Thailand | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139201649) | 2026-07-23 |
 | Robert Bosch Venture Capital | Internship in Human Resource | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139193609) | 2026-07-23 |
 | Robert Bosch Venture Capital | Internship Project Management Office | Reutlingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139229409) | 2026-07-23 |
@@ -3752,7 +3768,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Netic | Full-Stack Software Engineer (Product) - Intern - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) | 2026-07-16 |
 | Netic | Software Engineer (Agent Platform) - Intern - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) | 2026-07-16 |
 | Nexstar | Showcase Internship | VA | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/VA-Richmond/Showcase-Internship_REQ-42281) | 2026-07-16 |
-| NielsenIQ | Intern | Santiago, RM | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000137933289) | 2026-07-16 |
 | Northeastern University | Co-op Counselor | Ma (main Campus) | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Co-op-Counselor_R140930) | 2026-07-16 |
 | Notion | Governance, Risk, and Compliance Intern (Fall 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b) | 2026-07-16 |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | 2026-07-16 |
@@ -4159,6 +4174,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WPP Media | Stage Consultant Média International F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5323957008) | 2026-07-14 |
 | WPP Media | Stage Juriste Affaires Sociales F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5342928008) | 2026-07-14 |
 | WPP Media | Student Assistant in Growth Marketing & Brand | Denmark | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5347520008) | 2026-07-14 |
+| AECOM | Electrical Engineering Intern - Transmission & Distribution (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137327208) | 2026-07-13 |
 | AECOM | Environmental Scientist Intern (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137328673) | 2026-07-13 |
 | AECOM | Process Engineering Intern (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137328708) | 2026-07-13 |
 | Allegro MicroSystems | Analog Design Engineer Intern - Master's Thesis | Italy | [Apply](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Milan-Italy/Analog-Design-Engineer-Intern---Master-s-Thesis_R6238) | 2026-07-13 |
@@ -4394,7 +4410,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | [Internship] Indirect Purchasing Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137359899) | 2026-07-13 |
 | Robert Bosch Venture Capital | Internship in Web Developer | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137359929) | 2026-07-13 |
 | Robert Bosch Venture Capital | Working Student - 3D Printing | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137398049) | 2026-07-13 |
-| Robert Bosch Venture Capital | Working Student in Project Management | Cluj-Napoca, CJ | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137381039) | 2026-07-13 |
 | Roche | Marketing Intern | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202607-117447) | 2026-07-13 |
 | Sanofi | Commercial Intern - 武汉 | Wuhan | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Wuhan/Sales-Intern_R2864038) | 2026-07-13 |
 | Shell | Shell Assessed Internship Programme 2027 - Australia | Brisbane George Street / Perth Shell House | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Brisbane---George-Street/Shell-Assessed-Internship-Programme-2027---Australia_R205115) | 2026-07-13 |
@@ -4531,7 +4546,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Electrical Engineering Intern - Mining and Industrial (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137045519) | 2026-07-10 |
 | AECOM | Electrical Engineering Intern - Mining and Industrial (Nov 2026) | Perth, WA | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137045329) | 2026-07-10 |
 | AECOM | Engineering Geologist Intern (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137012565) | 2026-07-10 |
-| AECOM | Environmental Science / Engineering Intern - GRS (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137032569) | 2026-07-10 |
 | AECOM | Fire Protection Engineering Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137023760) | 2026-07-10 |
 | AECOM | Geotechnical Engineering Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137038610) | 2026-07-10 |
 | AECOM | Heritage Specialist Intern (Nov 2026) | Australia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137033479) | 2026-07-10 |
@@ -4662,8 +4676,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vital Lyfe | Software Engineering Internship - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | 2026-07-10 |
 | W.R. Berkley | Information Security Co-Op | Not Specified | [Apply](https://careers-berkley.icims.com/jobs/14179/information-security-co-op/job) | 2026-07-10 |
 | Western Digital | Intern - Automation Development Engineer (Studying Master's Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000136959345) | 2026-07-10 |
-| Western Digital | Intern - Manufacturing Engineer | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000137017505) | 2026-07-10 |
-| Western Digital | Intern- Firmware Engineering | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000136953840) | 2026-07-10 |
 | Worthington Enterprises | Internal Audit Intern | Columbus, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43260) | 2026-07-10 |
 | Zeiss | Internship Product and Workflow Management Refractive Lasers (f/m/x) | Jena | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Internship-Product-and-Workflow-Management-Refractive-Lasers--f-m-x-_JR_1051183) | 2026-07-10 |
 | Zeiss | Internship – Post Merger Integration (PMI) Excellence (f/m/x) | München / Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Internship---Post-Merger-Integration--PMI--Excellence--f-m-x-_JR_1051252) | 2026-07-10 |
@@ -5071,10 +5083,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PricewaterhouseCoopers (PwC) | FY 27 - Intern - External Communications (Website) | Not Specified | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/FY-27---Intern---External-Communications--Website-_742784WD) | 2026-07-07 |
 | Procter & Gamble (P&G) | IT Internship | Mumbai General Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/IT-Internship_R000154803) | 2026-07-07 |
 | RBC | Client Advisor Intern | Guelph | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/108-SILVERCREEK-PKY-NGUELPH/Client-Advisor-Intern_R-0000178668) | 2026-07-07 |
-| Red Bull | Student Marketeer - Bolu Abant İzzet Baysal Üniversitesi | Turkey | [Apply](https://jobs.smartrecruiters.com/RedBull/744000136184670) | 2026-07-07 |
-| Red Bull | Student Marketeer - Düzce Üniversitesi | Turkey | [Apply](https://jobs.smartrecruiters.com/RedBull/744000136185639) | 2026-07-07 |
 | Robert Bosch Venture Capital | Inside Sales Support Internship | Belgium | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136157989) | 2026-07-07 |
-| Robert Bosch Venture Capital | Undergraduate IT Student | Australia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000136114394) | 2026-07-07 |
 | Roche | China Enterprise Technology Intern-CET | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/China-Enterprise-Technology-Intern-CET_202607-117519) | 2026-07-07 |
 | Roche | Data Scientist Intern | Shanghai | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Data-Scientist-Intern_202607-117570) | 2026-07-07 |
 | RTX - Private_Posting_No_TMP | Intern - Engineering | Sg-01-Singapore-051 Tc ~ 51 Calshot Rd ~ 51 Calshot Rd-051 Tc | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/SG-01-SINGAPORE-051-TC--51-Calshot-Rd--51-CALSHOT-RD-051-TC/Intern---Engineering_01857189) | 2026-07-07 |
@@ -5854,9 +5863,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PricewaterhouseCoopers (PwC) | Network Information Security Poly Internship (Sep 26 - Feb 27) | Singapore | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Network-Information-Security-Poly-Internship--Sep-26---Feb-27-_740652WD) | 2026-06-29 |
 | RBC | Intern – Business Management | Putrajaya | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern---COO-team_R-0000166417-1) | 2026-06-29 |
 | Renault Group | CS26 Stage - Bac+5 - Ingénieur base de données (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/FR_REN_RSAS---Guyancourt/CS26-Stage---Bac-5---Ingnieur-base-de-donnes--H-F-_JOBREQ_50239703) | 2026-06-29 |
-| Robert Bosch Venture Capital | Extracurricular Internship – Compliance Support (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134822076) | 2026-06-29 |
 | Robert Bosch Venture Capital | Indirect Purchasing Category Assistant Smart Start (Facility Management) | Turkey | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134699368) | 2026-06-29 |
-| Robert Bosch Venture Capital | Supply Chain & Logistics warehouse operations trainee | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134772559) | 2026-06-29 |
 | Roche | Intern - China Procurement Facilities & Utilities | Suzhou | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Suzhou/Intern---China-Procurement-Facilities---Utilities_202606-116535) | 2026-06-29 |
 | Roche | Lab-on-Chip Development Internship + Master Thesis at Near Patient Care (m/f/d) | Mannheim | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mannheim/Lab-on-Chip-Development-Internship---Master-Thesis-at-Near-Patient-Care--m-f-d-_202606-116713-1) | 2026-06-29 |
 | Royal Bank of Canada - RBCEARLYTALENT1 | Intern – Business Management | Putrajaya | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Intern---COO-team_R-0000166417-2) | 2026-06-29 |
@@ -6053,7 +6060,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Procter & Gamble (P&G) | Stage en Brand management | Paris Go-Asnieres-Sur-Seine | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Stage-en-Brand-management_R000154200) | 2026-06-25 |
 | Prysmian Cables & Systems | Intern Digital Innovation | Sorocaba | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Sorocaba/Intern-Digital-Innovation_R-34506) | 2026-06-25 |
 | RBC | Relationship Manager Intern, Business Markets | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000171662) | 2026-06-25 |
-| Robert Bosch Venture Capital | Undergraduate Sales and Marketing Student | Australia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134064066) | 2026-06-25 |
 | Rockwell Automation - External_Rockwell_Automation | Intern, Powerhouse Maintenance Team (RPA, AI, BI) | Poland | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Katowice-Poland/Intern--Powerhouse-Maintenance-Team--RPA--AI--BI-_R26-4833) | 2026-06-25 |
 | SCOR | Sustainable Finance Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5108) | 2026-06-25 |
 | SharkNinja | Fall 2026: Social Sharks Latin America (LATAM) Marketing Co-op (July/August to December) | Florida, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4691783006) | 2026-06-25 |
@@ -7270,14 +7276,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ABB | Recruitment Internship | Mexico | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Recruitment-Internship_JR00038388) | 2026-06-13 |
 | Accenture | Business Analyst - Intern | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776) | 2026-06-13 |
 | Accenture | Security Internship as of February 2027 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897) | 2026-06-13 |
-| Accor | B2B Marketing & Digital Trainee - M/F/X | Madrid, MD | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000129454699) | 2026-06-13 |
-| Accor | Chargé de Formation et Communication (F/H/X) - Alternance | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000129159369) | 2026-06-13 |
 | Accor | Communications for PM&E Brands - Intern (F/M/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000129115529) | 2026-06-13 |
 | Accor | Corporate Communications Intern - Digital Content (F/M/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000127365089) | 2026-06-13 |
 | Accor | Junior Category Manager Furniture, Fixtures and Equipment (FF&E) and Guest Technologies - Alternance Achat Direct (H/F/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000131844994) | 2026-06-13 |
 | Accor | Sponsorship Assistant - H/F/X | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000131127165) | 2026-06-13 |
 | Accor | Stage - Sustainable Performance Data Analyst (F/H/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000131080231) | 2026-06-13 |
-| Accor | Stagiaire Product Assistant - F/H/X | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000130405899) | 2026-06-13 |
 | Advocate Health Care | Student Registered Nurse Anesthetist (SRNA) - Inpatient | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Student-Registered-Nurse-Anesthetist--SRNA----Inpatient_R250709) | 2026-06-13 |
 | AECOM | Bridge Inspector Co-Op | Providence, RI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000123540332) | 2026-06-13 |
 | AECOM | Traction Power Intern | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000124443219) | 2026-06-13 |
@@ -7300,7 +7303,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Summer Water Intern | Austin, TX, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40005) | 2026-06-13 |
 | Arista Networks | Internal Audit Intern – Accounting & Finance | United States Remote | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000128256979) | 2026-06-13 |
 | Arista Networks | System Test Engineer  Intern | Santa Clara, United States | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000111461585) | 2026-06-13 |
-| Avery Dennison | Internship: Environmental, Health and Safety (EHS) | Thailand | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000072368085) | 2026-06-13 |
 | Avery Dennison | Stage en alternance département EHS | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000129937610) | 2026-06-13 |
 | Barkback | Marketing Intern | Santa Barbara, United States | [Apply](https://jobs.smartrecruiters.com/barkbackLlc/81475272) | 2026-06-13 |
 | Barkback | Software Intern | Santa Barbara, United States | [Apply](https://jobs.smartrecruiters.com/barkbackLlc/90864007) | 2026-06-13 |
@@ -7542,7 +7544,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RESPEC | Student Software Engineering Intern | Albuquerque, NM, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000012676985) | 2026-06-13 |
 | Robert Bosch Venture Capital | 2026 Mechanical Engineering International Intern PS-DC/ENP1-NA | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121016953) | 2026-06-13 |
 | Robert Bosch Venture Capital | [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000108426757) | 2026-06-13 |
-| Robert Bosch Venture Capital | BEST Scholarship Program - 2026 | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121108577) | 2026-06-13 |
 | Robert Bosch Venture Capital | Graduate Placement - Design Analyst (12-24 Months) | Fife, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130777175) | 2026-06-13 |
 | Robert Bosch Venture Capital | Internship 2026, M/PQT2-AZ, Purchasing Quality | Thailand | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000102005504) | 2026-06-13 |
 | Robert Bosch Venture Capital | Internship in Human Resources | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000125285674) | 2026-06-13 |
@@ -7555,7 +7556,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Student - eBike Technician support on hourly basis | Sweden | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) | 2026-06-13 |
 | Robert Bosch Venture Capital | Working Student - Industrial Engineering | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130411524) | 2026-06-13 |
 | Robert Bosch Venture Capital | Working Student in Digitization, IT and Office Support (f/m/div.) | Reutlingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127888889) | 2026-06-13 |
-| Robert Bosch Venture Capital | Working Student System Team Dev-/Data-Ops Tools and Infrastructure (f/m/div.) | Germany | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000131661568) | 2026-06-13 |
 | S&C Electric Company | Production Planner Assistant (Co-op) | Toronto, ON, Canada | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106700) | 2026-06-13 |
 | S&C Electric Company | Strategic Sourcing Assistant (Co-op) | Toronto, ON, Canada | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106719) | 2026-06-13 |
 | Sajix | Data Analyst | Canada Remote | [Apply](https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603050) | 2026-06-13 |
@@ -7581,7 +7581,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCOR | Sustainable Investment Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4864) | 2026-06-13 |
 | Sherwin-Williams | Intern R&D | Netherlands | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611238) | 2026-06-13 |
 | Sika | IEFP Professional Internship – Accounting Assistant | Portugal | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000126497079) | 2026-06-13 |
-| Sika | Praktikant (m/w/d) Unternehmenskommunikation für 6 Monate | Stuttgart, BW | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000128679370) | 2026-06-13 |
 | Sinclair | Intern | Columbus, OH, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16175) | 2026-06-13 |
 | Sinclair | Intern - Studio Crew | Salt Lake City, UT, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16359) | 2026-06-13 |
 | Sinclair | News intern | Mobile, AL, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16368) | 2026-06-13 |
