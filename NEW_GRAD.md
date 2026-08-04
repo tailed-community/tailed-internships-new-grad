@@ -9,6 +9,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | Airbus | Early Career AOCS engineer | Getafe Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Early-Career-AOCS-engineer_JR10432160) | 2026-08-04 |
 | Allstate Insurance Company | Early Career Trial Attorney (Remote - Houston, TX) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/Early-Career-Trial-Attorney--Remote---Houston--TX-_R33290) | 2026-08-04 |
+| Avery Dennison | Supply Chain Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000141332355) | 2026-08-04 |
 | Banner Health | Registered Nurse RN New Grad Neuro ICU | Bumc Phoenix (1111 E Mcdowell Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Registered-Nurse-RN-New-Grad-Neuro-ICU_R4450212) | 2026-08-04 |
 | Banner Health | Registered Nurse RN New Graduate Cardiac PCU | Banner Desert Med Ctr (1400 S Dobson Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Desert-Med-Ctr-1400-S-Dobson-Rd/Registered-Nurse-RN-New-Graduate-Cardiac-PCU_R4450352) | 2026-08-04 |
 | Banner Health | Registered Nurse RN New Graduate Observation Unit | Banner Boswell Med Ctr (10401 W Thunderbird Blvd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Boswell-Med-Ctr-10401-W-Thunderbird-Blvd/UNPOSTED---Registered-Nurse-RN-New-Graduate-Observation-Unit_R4450257) | 2026-08-04 |
@@ -17,6 +18,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Coronary ICU / Heart Failure ICU | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Coronary-ICU---Heart-Failure-ICU_350128) | 2026-08-04 |
 | Cleveland Clinic | New Grad RN Resident - Medical Telemetry | Mercy Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---Medical-Telemetry_344678) | 2026-08-04 |
 | ERM | Consulting Associate – (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate----Entry-Level-_R00031454) | 2026-08-04 |
+| Eurofins | Associate Scientist l (DNA) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321999) | 2026-08-04 |
+| Eurofins | Associate Scientist l (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321584) | 2026-08-04 |
+| Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321349) | 2026-08-04 |
+| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141335349) | 2026-08-04 |
+| Eurofins | Lyophilization Scientist (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141343981) | 2026-08-04 |
+| Eurofins | QC Microbiology Lab Tech - Entry Level (Sun - Wed) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141486903) | 2026-08-04 |
+| Eurofins | Sample Receipt Officer – Entry Level (Graduates are Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141361769) | 2026-08-04 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0264366) | 2026-08-04 |
 | GE Healthcare | MR Junior Specialist - Early Career Trainee program | Johannesburg | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Johannesburg/MR-Junior-Specialist---Early-Career-Trainee-program_R4044237-1) | 2026-08-04 |
 | GE Vernova | Entry Level Technical Field Advisor | Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Entry-Level-Technical-Field-Advisor_R5039120-2) | 2026-08-04 |
@@ -32,6 +40,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LabCorp | Entry Level Specimen Accessioner | USA Nm Santa Fe 2000 Vivigen Way | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA---NM---Santa-Fe---2000-Vivigen-Way/Entry-Level-Specimen-Accessioner_2627344) | 2026-08-04 |
 | Marsh | Oliver Wyman - Entry-level Consultant (2027) - Hong Kong | Hong Kong Taikoo | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Hong-Kong---Taikoo/Oliver-Wyman---Entry-level-Consultant--2027----Hong-Kong_R_359628) | 2026-08-04 |
 | Monolithic Power Systems | Analog Designer(New Grad) | Hong Kong China | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Hong-Kong---China/Analog-Designer-New-Grad-_R-1823-1) | 2026-08-04 |
+| RESPEC | Early Career Civil Engineer | Laramie, WY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141349729) | 2026-08-04 |
+| RESPEC | Early Career Civil Engineer | Fort Collins, CO, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141349699) | 2026-08-04 |
+| RESPEC | Early Career Civil Engineer | Cheyenne, WY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141345619) | 2026-08-04 |
+| RESPEC | Early Career Geologist | Laconia, NH, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141351879) | 2026-08-04 |
+| RESPEC | Early Career Geologist | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000141351949) | 2026-08-04 |
 | Samsara | Software Engineer I - New Grad, SF | San Francisco Sf9 | [Apply](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343) | 2026-08-04 |
 | Sanofi | M&S Graduate Program- Engineering & Maintenance Trainee-Shenzhen | Shenzhen | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shenzhen/M-S-Graduate-Program--Engineering---Maintenance-Trainee-Shenzhen_R2867533) | 2026-08-04 |
 | Sanofi | M&S Graduate Program-Quality Trainee-Beijing | Beijing | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/M-S-Graduate-Program-Quality-Trainee-Beijing_R2867441-1) | 2026-08-04 |
@@ -129,7 +142,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Denver | Entry Level Assistant City Attorney - Prosecution and Code Enforcement | Downtown Denver | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Downtown-Denver/Entry-Level-Assistant-City-Attorney---Prosecution-and-Code-Enforcement_R0082374-1) | 2026-07-31 |
 | Elanco | Process Engineering Associate (Entry Level) | Clinton, IN | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Process-Engineering-Associate--Entry-Level-_R0026583) | 2026-07-31 |
 | Eurofins | Entry Level - Document Control Specialist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140738606) | 2026-07-31 |
-| Eurofins | QC Microbiology Lab Tech - Entry Level (Sun - Wed) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140757439) | 2026-07-31 |
 | Eurofins | Regulated Waste Disposal Technician - Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140696089) | 2026-07-31 |
 | General Dynamics | Welder - Entry Level | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20028/welder---entry-level/job) | 2026-07-31 |
 | Honeywell | Entry Level Field Service Technician | Louisville, KY, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/152180) | 2026-07-31 |
@@ -326,7 +338,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avis Budget Group | Entry Level HR Specialist/ Contact Center | Tulsa | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/4500-S-129th-E-Ave-Tulsa-74134/HR-Services-Specialist-I---FT-2_R0189771) | 2026-07-22 |
 | Conagra Brands | 2nd Shift Entry Level Processor | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-2nd-Shift-Entry-Level-Processor_Req-039293) | 2026-07-22 |
 | ERM | Consulting Associate (Entry Level) - Sustainable Finance HLAC | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Sao-Paulo-Brazil/Consulting-Associate--Entry-Level----Sustainable-Finance-HLAC_R00031152) | 2026-07-22 |
-| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138925229) | 2026-07-22 |
 | Fortinet | Network Support (New Grads 2026) | Atlanta, GA, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) | 2026-07-22 |
 | Rochester Regional Health | New Graduate LPN - Medical / Surgical | Rochester General Hospital (rgh) | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Rochester-General-Hospital-RGH/New-Graduate-LPN---Medical---Surgical_REQ_239058) | 2026-07-22 |
 | Securitas | Entry Level Security Officer - Swings | Los Lunas, NM, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/172826) | 2026-07-22 |
@@ -344,7 +355,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Ortho | Avon Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/New-Grad-RN-Resident---Med-Surg---Ortho_347892) | 2026-07-21 |
 | Corewell Health | New Grad Float RN | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Big-Rapids-MI/New-Grad-Float-RN_R221050) | 2026-07-21 |
 | Crowdstrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA Sunnyvale, Canada | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) | 2026-07-21 |
-| Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138682640) | 2026-07-21 |
 | Kyndryl - KyndrylProfessionalCareers | Graduate Program – Application Consulting | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Application-Consulting_R-65539) | 2026-07-21 |
 | Marsh | Recruiting Coordinator, Entry-Level Recruiting Team (12 month Fixed Term Contract) - Warsaw | Warsaw Jerozolimskie | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Warsaw---Jerozolimskie/Recruiting-Coordinator--Entry-Level-Recruiting-Team--12-month-Fixed-Term-Contract----Warsaw_R_359457-1) | 2026-07-21 |
 | NiSource | IT Engineer I – Real-Time Systems - Entry Level | Columbus Oh Arena District / Merrillville In-Nipsco Hdq / Merrillville In-Slc | [Apply](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/IT-Engineer-I---Real-Time-Systems---Entry-Level_R00943226) | 2026-07-21 |
