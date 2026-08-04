@@ -284508,20 +284508,6 @@
     "date_archived": "2026-07-29"
   },
   {
-    "id": "ashby-saronic-f587dda9-da33-43ed-b166-0e30f8d94192",
-    "company": "Saronic",
-    "title": "Naval Architect Intern (Fall 2026)",
-    "location": "Texas, United States / Franklin, LA",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192",
-    "date_posted": "2026-06-09",
-    "date_added": "2026-07-02",
-    "active": false,
-    "date_archived": "2026-07-29"
-  },
-  {
     "id": "ashby-varick-agents-b2df1c3b-43c7-40d4-8271-150a06f10bf2",
     "company": "Varick Agents",
     "title": "Summer Engineering Intern",
@@ -315346,6 +315332,34 @@
     "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5323957008",
     "date_posted": "2026-07-10",
     "date_added": "2026-07-14",
+    "active": false,
+    "date_archived": "2026-08-04"
+  },
+  {
+    "id": "ashby-kirin-38772f01-84fd-4f09-a36d-e7fa86341b99",
+    "company": "Kirin",
+    "title": "Software Engineering Intern, AI Agents + Devices",
+    "location": "China, China / New York City / Hong Kong",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99",
+    "date_posted": "2025-12-27",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-04"
+  },
+  {
+    "id": "ashby-snowflake-e2178b92-95c6-4b96-a2ee-a529a3a066fe",
+    "company": "Snowflake",
+    "title": "Field Marketing Working Student - Munich",
+    "location": "Germany, Germany / Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe",
+    "date_posted": "2026-06-26",
+    "date_added": "2026-06-08",
     "active": false,
     "date_archived": "2026-08-04"
   }

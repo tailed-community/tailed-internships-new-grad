@@ -21,6 +21,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| 1X | CNC Machine Park Internship | California, United States | [Apply](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede) | 2026-08-04 |
 | ABB | Internship - Global Product Specialist - Energy Management | Italy | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Internship---Global-Product-Specialist---Energy-Management_JR00042501) | 2026-08-04 |
 | ABB | Student Internship in HR Operations | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Operations_JR00043437) | 2026-08-04 |
 | ABB | Summer Intern-Commerical officer | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Summer-Intern-Commerical-officer_JR00039038-1) | 2026-08-04 |
@@ -107,6 +108,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dow Chemical Company | Local College Co-op: Auburn Operations | Usa) | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Auburn-MI-USA/Local-College-Co-op--Auburn-Operations_R2067063) | 2026-08-04 |
 | Draper | Space GNC Co-Op (Fall 2026) | Houston, TX | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721) | 2026-08-04 |
 | ENOVIS | Engineering Intern | Mexico | [Apply](https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/Tijuana-Baja-California-Mexico/Engineering-Intern_R0033813) | 2026-08-04 |
+| Etched | Performance Tools Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) | 2026-08-04 |
 | Euronext | Borsa italiana - Internal control on financial reporting, internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Borsa-italiana---Internal-control-on-financial-reporting--internship_R28279) | 2026-08-04 |
 | Euronext | Borsa Italiana - Market surveillance, internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-surveillance--internship_R28284) | 2026-08-04 |
 | Fenwick & West | Facilities Intern (Seattle) | Seattle | [Apply](https://fenwick.wd1.myworkdayjobs.com/Fenwick_External_Careers/job/Seattle/Facilities-Intern--Seattle-_R2941) | 2026-08-04 |
@@ -188,6 +190,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Monolithic Power Systems | Security Analyst Intern | San Jose, Canada | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) | 2026-08-04 |
 | Moog | Intern, HR Employee Resource Group | Buffalo, NY | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--HR-Employee-Resource-Group_R-26-19201) | 2026-08-04 |
 | Motorola Solutions | Intern Software Developer (C++) | Poland | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C---_R66285) | 2026-08-04 |
+| MUBI | Business Affairs Intern | Greater London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/MUBI/5be23e5c-145e-4f8c-826f-0a303b92b85b) | 2026-08-04 |
 | MultiCare Health System | Radiology Technician Student - Tacoma General | Not Specified | [Apply](https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Radiology-Technician-Student---Tacoma-General_JR81101) | 2026-08-04 |
 | Netsmart | Business Development Representative Intern  (Summer 2027 Internship) | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Business-Development-Representative-Intern---Summer-2027-Internship-_R015663) | 2026-08-04 |
 | Netsmart | Cloud Engineer Future  (Summer 2027 Internship) | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) | 2026-08-04 |
@@ -2421,7 +2424,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | k-ID | Product Internship Program 2026 | Singapore / United States / Remote | [Apply](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d) | 2026-07-27 |
 | Kinetic Systems | Internship | California, United States | [Apply](https://jobs.ashbyhq.com/kineticsystems/209873f8-541e-4afe-9782-78487dffb734) | 2026-07-27 |
 | Kirin | Quantitative Research Intern - Prediction Markets | New York, United States / San Francisco / Shenzhen / Shanghai / United States Remote | [Apply](https://jobs.ashbyhq.com/kirin/93648515-7e6c-43f4-bdcb-0c072f22a15a) | 2026-07-27 |
-| Kirin | Software Engineering Intern, AI Agents + Devices | China / New York City / Hong Kong | [Apply](https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99) | 2026-07-27 |
 | Kirin | VC Intern 风险投资实习生 | China / Hong Kong / Remote | [Apply](https://jobs.ashbyhq.com/kirin/f3ee27f7-aa1c-4645-b367-62c5c6c7b664) | 2026-07-27 |
 | LightGuide, Inc. | Product Innovation Co-op | Wixom, MI | [Apply](https://ats.rippling.com/lightguide/jobs/1675cecb-fa30-4ea6-9946-7f8a4ac83408) | 2026-07-27 |
 | Live Nation Entertainment | STAGE - Assistant.e Chef.fe de projet événementiel | Fr Paris 11 Rue Paul Lelong | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/FR-Paris---11-Rue-Paul-Lelong/STAGE---Assistante-Cheffe-de-projet-vnementiel-_JR-91971) | 2026-07-27 |
@@ -5796,6 +5798,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | Intern / Trainee in People Services Department (Paid Internship) | Warsaw | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Warsaw/Intern---Trainee-in-People-Services-Department--Paid-Internship-_R2860344) | 2026-07-02 |
 | Sarasota County | Energy Program Intern (UF/IFAS Extension) | Twin Lakes Park | [Apply](https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Twin-Lakes-Park/Energy-Program-Intern--UF-IFAS-Extension-_R20915) | 2026-07-02 |
 | Saronic | Information Technology Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) | 2026-07-02 |
+| Saronic | Naval Architect Intern (Fall 2026) | Texas, United States / Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192) | 2026-07-02 |
 | Saronic | Software Engineer Intern (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) | 2026-07-02 |
 | Seven Research | Algorithmic Developer - Intern | New York | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | 2026-07-02 |
 | Seven Research | Core Developer - Intern | New York | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | 2026-07-02 |
@@ -8397,7 +8400,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Simular | PhD Research Intern | California, United States / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009) | 2026-06-08 |
 | Simular | Software Engineer Intern | California, United States / Remote / Singapore | [Apply](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a) | 2026-06-08 |
 | Snowflake | EMEA Communications Intern | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f) | 2026-06-08 |
-| Snowflake | Field Marketing Working Student - Munich | Germany / Remote | [Apply](https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe) | 2026-06-08 |
 | Snowflake | Software Engineer Intern - Berlin (2026) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | 2026-06-08 |
 | Super | Payments Engineering Intern (12-month) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c) | 2026-06-08 |
 | Super | Software Engineering Intern - Product (Full-Stack) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5) | 2026-06-08 |
