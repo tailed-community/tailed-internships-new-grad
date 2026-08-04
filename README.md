@@ -62,6 +62,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brandeis University | Chaplain Internship | Brandeis Waltham Campus | [Apply](https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Chaplain-Internship_R0013434-1) | 2026-08-04 |
 | Brandeis University | Program Specialist, Student Engagement & Leadership | Brandeis Waltham Campus | [Apply](https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Program-Specialist--Student-Engagement---Leadership_R0013431-1) | 2026-08-04 |
 | Brigham Young University - Provo | Assistant Director, Multicultural Student Services (MSS) | Provo, UT | [Apply](https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Assistant-Director--Multicultural-Student-Services--MSS-_JR-11208) | 2026-08-04 |
+| CALSTART | Graphic Design, Video & Motion Graphics Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/28ed81bc-2f8d-499b-bc6a-ac62a9d0256a) | 2026-08-04 |
+| CALSTART | Operations Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/e76e6969-806a-4b1d-8cdf-a6853aaf7ca7) | 2026-08-04 |
 | Cambridge Associates - Handshake | 2027 Summer Analyst Internship Program | Boston / Arlington / Dallas / San Francisco | [Apply](https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/XMLNAME-2027-Summer-Analyst-Internship-Program_JR0000363) | 2026-08-04 |
 | Capital One | Cyber Security Internship Program - Summer 2027 | Mclean, VA / Plano, TX | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Security-Internship-Program---Summer-2027_R244319) | 2026-08-04 |
 | Capital One | Technology Internship Program - Summer 2027 | Mclean, VA / Plano, TX / Richmond, VA | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1) | 2026-08-04 |
@@ -80,6 +82,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stage – Assistant(e) Coordinateur Media International – Parfums Beauté – Janvier 2027 – H/F/X | Neuilly-Sur-Seine | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-e--Coordinateur-Media-International---Parfums-Beaut---Janvier-2027---H-F-X_JOBREQ00115663-2) | 2026-08-04 |
 | Chanel | Stage – Assistant(e) Orchestration Collections (H/F/X)- Mode- Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Orchestration-Collections--H-F-X---Mode--Janvier-2027_JOBREQ00115632) | 2026-08-04 |
 | Chanel | Stage – Assistant.e Chef De Projet Digital - Horlogerie Joaillerie - Janvier 2027 - H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistante-Chef-De-Projet-Digital---Horlogerie-Joaillerie---Janvier-2027---H-F-X_JOBREQ00115652) | 2026-08-04 |
+| Cirque du Soleil | Stage Manager – "O" | Las Vegas, NV | [Apply](https://jobs.lever.co/cirquedusoleil/1b910f06-990b-4b8d-a1b3-8c2a39634dda) | 2026-08-04 |
 | Citi | Banking  – Commercial Banking, Internship, São Paulo – Brazil, 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking----Commercial-Banking--Internship--So-Paulo---Brazil--2026_26981144) | 2026-08-04 |
 | Comcast | Ticket Sales & Service Intern | Pa Philadelphia | [Apply](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Ticket-Sales---Service-Intern_R442046) | 2026-08-04 |
 | Corewell Health | Student Radiology Technologist | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Taylor-MI/Student-Radiology-Technologist_R220125) | 2026-08-04 |
@@ -369,11 +372,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Virginia | Operation Assistant - Federal Work-Study Position 2026-2027 (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Operation-Assistant---Federal-Work-Study-Position-2026-2027--Student-Wage-_R0085543) | 2026-08-04 |
 | University of Virginia | PhD Plus Graduate Student Intern, Office of Graduate and Postdoctoral Affairs | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/PhD-Plus-Graduate-Student-Intern--Office-of-Graduate-and-Postdoctoral-Affairs_R0085911) | 2026-08-04 |
 | Vanderlande Industries | Internship/Graduation: Improving Engineering Productivity with AI | Veghel | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship-Graduation--Improving-Engineering-Productivity-with-AI_JR37471) | 2026-08-04 |
+| Vivenu | Go-To-Market & Growth Intern (d/f/m) | Düsseldorf | [Apply](https://jobs.lever.co/vivenu/57eeb789-2b1a-457b-95fa-aebd9062497c) | 2026-08-04 |
 | Williams | Summer 2027 Return Engineering Intern | Ok Tulsa Headquarters / Tx Houston Tower / Ut Salt Lake City Office | [Apply](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | 2026-08-04 |
 | Williams | Summer 2027 Return Finance & Accounting Intern | Ok Tulsa Headquarters / Tx Houston Tower | [Apply](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Finance---Accounting-Intern_R112504) | 2026-08-04 |
 | Williams | Summer 2027 Return General Business/IT Intern | Ok Tulsa Headquarters / Tx Houston Tower | [Apply](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-General-Business-IT-Intern_R112503) | 2026-08-04 |
 | WVUMedicine | Med Surg Float Pool Nurse Intern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Med-Surg-Float-Pool-Nurse-Extern_JR26-40677) | 2026-08-04 |
 | WVUMedicine | Pharmacy Intern | Weirton Medical Center (wmch) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Weirton-Medical-Center-WMCH/Pharmacy-Intern_JR26-41818) | 2026-08-04 |
+| Xsolla | Finance Intern | China | [Apply](https://jobs.lever.co/xsolla/f820bf23-76c0-4747-91bc-275fb4f3ea94) | 2026-08-04 |
 | Yai | Speech Language Pathologist Intern | Queens | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Queens/Speech-Language-Pathologist-Intern_R025350) | 2026-08-04 |
 | Yai | Speech-Language Pathologist Intern | Manhattan | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Speech-Language-Pathologist-Intern_R025344) | 2026-08-04 |
 | AECOM | Cost Management Intern - Quantity Surveying (Nov 2026) | New Zealand | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000141168199) | 2026-08-03 |
@@ -2485,7 +2490,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Signify | Intern/Product Test | Shanghai | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Intern-Product-Test_365695) | 2026-07-27 |
 | Smiths Detection Group | Technical Service Engineer | Pine Brook, NJ, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000140025685) | 2026-07-27 |
 | Sony | Facilities Intern Iberia | Barcelona | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Barcelona/Facilities-Intern-Iberia_JR-119415-2) | 2026-07-27 |
-| Sophos | Field Marketing Intern – German speaking (m/f/d) | United Kingdom / Germany | [Apply](https://jobs.lever.co/sophos/c7895b4a-e459-4021-8094-a9e7c1ac9410) | 2026-07-27 |
 | Spacial AI | Software Engineering Intern (Summer 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26) | 2026-07-27 |
 | SpreeAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Us) | [Apply](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 2026-07-27 |
 | SpreeAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Us) | [Apply](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 2026-07-27 |
@@ -6422,7 +6426,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Otis Worldwide | Intern, Field Svc | China | [Apply](https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/LOC3397-Room-B27th-Floor-Times-SquareNo2-Guomao-Road-Haikou-Longhua-District-Hainan-China/Intern--Field-Svc_20161068) | 2026-06-23 |
 | Persistent Systems | Intern - Embedded Software Engineer (Fall 2026) | New York, NY, United States | [Apply](https://careers-persistentsystems.icims.com/jobs/2272/intern---embedded-software-engineer-%28fall-2026%29/job) | 2026-06-23 |
 | Philips | Marketing Intern (Imaging Components) | Suzhou | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Marketing-Intern--Imaging-Components-_584177) | 2026-06-23 |
-| PlusAI | Full Stack Engineer Intern | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) | 2026-06-23 |
 | PricewaterhouseCoopers (PwC) | FY 27 - Intern - Broader Assurance Service Pooling Team | Jakarta | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Intern---Broader-Assurance-Service-Pooling-Team_739262WD) | 2026-06-23 |
 | Procter & Gamble (P&G) | Data Analyst Internship | Brussels | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Data-Engineering-Internship_R000153931) | 2026-06-23 |
 | Procter & Gamble (P&G) | Digital Engineer Intern (m/f/x) | Jijona Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Digital-Engineer-Intern--m-f-x-_R000153831) | 2026-06-23 |
@@ -9193,7 +9196,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | 2026-06-02 |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) | 2026-06-02 |
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | 2026-06-02 |
-| Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
 | Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) | 2026-06-02 |
 | Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | 2026-06-02 |
@@ -10617,7 +10619,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ciena | Product Verification Engineer Intern (12 months) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Engineer-Intern--12-months-_R031002) | 2026-05-22 |
 | Disney | Disney Research Studio Intern | Switzerland | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Zrich-Switzerland/Disney-Research-Studio-Intern_10150845) | 2026-05-22 |
 | Larian Studios | Gameplay Programmer Internship | Barcelona | [Apply](https://jobs.lever.co/larian/d546d9c3-ab0d-4c77-81d8-8b8388c158ff) | 2026-05-22 |
-| Larian Studios | Internship - Tools Programmer | Kuala Lumpur | [Apply](https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa / ON | [Apply](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5) | 2026-05-22 |
 | Magnet Forensics | Software Developer Co-op (Fall 2026) | Halifax, NS | [Apply](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785) | 2026-05-22 |
 | Veeva Systems | Implementation Consultant Intern | China Shanghai | [Apply](https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110) | 2026-05-22 |

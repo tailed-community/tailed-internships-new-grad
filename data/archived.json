@@ -314984,5 +314984,61 @@
     "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-08-04"
+  },
+  {
+    "id": "lever-hermeus-10d69ef6-a754-42ab-833c-76adf01367bf",
+    "company": "Hermeus",
+    "title": "Software Engineering Intern (HIL) - Fall 2026",
+    "location": "Atlanta, GA",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf",
+    "date_posted": "2026-04-17",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-04"
+  },
+  {
+    "id": "lever-larian-studios-d37e91fa-00b1-4689-bc38-99db6be61216",
+    "company": "Larian Studios",
+    "title": "Internship - Tools Programmer",
+    "location": "Kuala Lumpur",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/larian/d37e91fa-00b1-4689-bc38-99db6be61216",
+    "date_posted": "2024-09-12",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-08-04"
+  },
+  {
+    "id": "lever-plusai-b69c9b6d-483f-41d4-b487-97c99332ca40",
+    "company": "PlusAI",
+    "title": "Full Stack Engineer Intern",
+    "location": "Santa Clara, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40",
+    "date_posted": "2026-05-15",
+    "date_added": "2026-06-23",
+    "active": false,
+    "date_archived": "2026-08-04"
+  },
+  {
+    "id": "lever-sophos-c7895b4a-e459-4021-8094-a9e7c1ac9410",
+    "company": "Sophos",
+    "title": "Field Marketing Intern – German speaking (m/f/d)",
+    "location": "United Kingdom / Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/sophos/c7895b4a-e459-4021-8094-a9e7c1ac9410",
+    "date_posted": "2026-07-27",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-04"
   }
 ]
