@@ -22,6 +22,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Med/Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Med-Surg_342905) | 2026-08-05 |
 | Cleveland Clinic | New Grad RN Resident – Ortho/Neuro/Trauma | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Ortho-Neuro-Trauma_348896) | 2026-08-05 |
 | Cox | Entry Level Software Engineer - Atlanta, GA | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1) | 2026-08-05 |
+| DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5365944008) | 2026-08-05 |
 | ERM | Consulting Associate (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate--Entry-Level-_R00031467) | 2026-08-05 |
 | ERM | Environmental Analyst  (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Environmental-Analyst---Entry-Level-_R00031469) | 2026-08-05 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Huntsville, AL | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Huntsville-AL/New-Graduate-Nurse---RN_R0264411) | 2026-08-05 |
@@ -31,6 +32,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MaineGeneral Health | 2 West - MedSurg Registered Nurse (RN) - 30 hours/week *NEW GRADUATES WELCOME!* | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---MedSurg-Registered-Nurse--RN----30-hours-week--NEW-GRADUATES-WELCOME--_R17035) | 2026-08-05 |
 | Marmon Holdings | Entry Level Machine Operator | Boyne City, MI | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Boyne-City-MI/Entry-Level-Machine-Operator_JR0000026269) | 2026-08-05 |
 | Merck | Entry-Level Bioanalytical Scientist, Pharmacokinetics, Onsite | USA Pennsylvania West Point | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Entry-Level-Bioanalytical-Scientist--Pharmacokinetics--Onsite_R409068-1) | 2026-08-05 |
+| Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5370606008) | 2026-08-05 |
+| Samsara | Entry Level Tech Sales - UK&I Market | England, United Kingdom | [Apply](https://www.samsara.com/company/careers/roles/8104994?gh_jid=8104994) | 2026-08-05 |
 | Samsung | 2027 New Grad: Samsung Emerging Engineer Development Program | TX, United States | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1) | 2026-08-05 |
 | Sanofi | M&S Graduate Program-Operation (Production) Trainee -Hangzhou | Hangzhou | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hangzhou/M-S-Graduate-Program-Operation--Production--Trainee--Hangzhou_R2867546-1) | 2026-08-05 |
 | Sentara Health | Registered Nurse (RN) Emergency Department (ED) Level Up New Grad | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--RN--Emergency-Department--ED--Level-Up-New-Grad_JR-104251) | 2026-08-05 |
@@ -564,7 +567,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Marsh | Account Executive  -  Open to Recent Graduate | Taipei Minquan East | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Taipei---Minquan-East/Account-Executive-----Valid-Life-Insurance-Broker-License-----Highly-Preferred-_R_350903) | 2026-07-06 |
 | NXP Semiconductors | <New Graduate Hiring> Pre-Assembly Process Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/Process-Engineer_R-10063958) | 2026-07-06 |
 | Procter & Gamble (P&G) | Entry Level Manufacturing Technician | Mehoopany Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MEHOOPANY-PLANT/Entry-Level-Manufacturing-Technician_R000154836) | 2026-07-06 |
-| CannonDesign | Plumbing/Fire Protection - Entry Level | Pittsburgh, PA | [Apply](http://www.cannondesign.com/careers/?gh_jid=8615531002) | 2026-07-05 |
 | Anduril | 2026 Early Career Manufacturing Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) | 2026-07-03 |
 | Beyond New Horizons | Early Career Mechanical Integrity Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/22913/early-career-mechanical-integrity-engineer/job) | 2026-07-03 |
 | Heidelberg Materials | 2027 Graduate Program - Eastern Region | Nsw | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Parramatta-NSW/XMLNAME-2027-Graduate-Program---Eastern-Region_JR10016883) | 2026-07-03 |
@@ -1140,11 +1142,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Occidental Petroleum Corporation (Oxy) | R&D/Technology Engineer - New Grad | California | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Brawley-California/Technology-Engineer---New-Grad_JR100734) | 2026-06-02 |
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
