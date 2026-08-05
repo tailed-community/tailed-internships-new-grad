@@ -25,6 +25,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5365944008) | 2026-08-05 |
 | ERM | Consulting Associate (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate--Entry-Level-_R00031467) | 2026-08-05 |
 | ERM | Environmental Analyst  (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Environmental-Analyst---Entry-Level-_R00031469) | 2026-08-05 |
+| Eurofins | Associate Scientist l (DNA) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141597300) | 2026-08-05 |
+| Eurofins | Associate Scientist l (SST) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141596969) | 2026-08-05 |
+| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141577730) | 2026-08-05 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Huntsville, AL | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Huntsville-AL/New-Graduate-Nurse---RN_R0264411) | 2026-08-05 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72366/systems-engineer-%e2%80%93-entry-level/job) | 2026-08-05 |
 | Intermountain Healthcare | New Grad RN Labor and Delivery | Intermountain Health Utah Valley Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/New-Grad-RN-Labor-and-Delivery_R179839) | 2026-08-05 |
@@ -54,10 +57,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Coronary ICU / Heart Failure ICU | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Coronary-ICU---Heart-Failure-ICU_350128) | 2026-08-04 |
 | ERM | Consulting Associate – (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate----Entry-Level-_R00031454) | 2026-08-04 |
 | Eurofins | Associate Scientist l (DNA) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321999) | 2026-08-04 |
-| Eurofins | Associate Scientist l (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321584) | 2026-08-04 |
 | Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321349) | 2026-08-04 |
 | Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141335349) | 2026-08-04 |
-| Eurofins | Lyophilization Scientist (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141343981) | 2026-08-04 |
 | Eurofins | QC Microbiology Lab Tech - Entry Level (Sun - Wed) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141486903) | 2026-08-04 |
 | Eurofins | Sample Receipt Officer – Entry Level (Graduates are Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141361769) | 2026-08-04 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0264366) | 2026-08-04 |
@@ -337,7 +338,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CannonDesign | Technology - Entry Level | Buffalo, NY / Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8643131002) | 2026-07-23 |
 | Citi | Markets Operations Analyst - Entry Level | Belfast United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Analyst---Entry-Level_26979283) | 2026-07-23 |
 | Conagra Brands | Entry Level Mechanic - 3rd Shift | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Macon-Missouri/Entry-Level-Mechanic---3rd-Shift_Req-039326) | 2026-07-23 |
-| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139153989) | 2026-07-23 |
 | Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000139215099) | 2026-07-23 |
 | Fortinet | Network Support (New Grads 2026) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) | 2026-07-23 |
 | Geosyntec Consultants | Early Career Geotechnical Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4699/early-career-geotechnical-engineer/job) | 2026-07-23 |
@@ -839,7 +839,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | Engine Workshop Technician - Entry Level | Argentina | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430808) | 2026-06-13 |
 | Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) | 2026-06-13 |
 | EXP | Junior Geotechnical Engineering New Grad | Barrie, ON, Canada | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112653) | 2026-06-13 |
-| Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000126036484) | 2026-06-13 |
 | Fortinet | New Grad 2026 (Canada) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817) | 2026-06-13 |
 | Fortinet | New Grads 2026 (US) | Sunnyvale, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 2026-06-13 |
 | GHD | Entry-Level Environmental Technician | Borger, TX, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26268) | 2026-06-13 |
