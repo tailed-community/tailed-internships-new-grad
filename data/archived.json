@@ -320682,5 +320682,47 @@
     "date_added": "2026-07-29",
     "active": false,
     "date_archived": "2026-08-05"
+  },
+  {
+    "id": "ashby-rapdev-b022388e-79d0-43b8-b524-64aaed9ff4dc",
+    "company": "RapDev",
+    "title": "ServiceNow Engineering Intern",
+    "location": "Massachusetts, United States / United States Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc",
+    "date_posted": "2026-07-29",
+    "date_added": "2026-08-03",
+    "active": false,
+    "date_archived": "2026-08-05"
+  },
+  {
+    "id": "ashby-reframe-systems-706aef0d-916d-48df-b32b-7311d49dc094",
+    "company": "Reframe Systems",
+    "title": "Mechanical Engineer (Fall 2026 Co-op)",
+    "location": "Andover, MA, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/reframesystems/706aef0d-916d-48df-b32b-7311d49dc094",
+    "date_posted": "2026-07-28",
+    "date_added": "2026-07-29",
+    "active": false,
+    "date_archived": "2026-08-05"
+  },
+  {
+    "id": "ashby-replit-12737078-74c7-4e63-98a7-5e8da1e9deb1",
+    "company": "Replit",
+    "title": "Software Engineering Intern (Summer 2026)",
+    "location": "California, United States / United States Remote",
+    "type": "internship",
+    "season": "Summer 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
+    "date_posted": "2025-10-01",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-05"
   }
 ]
