@@ -65,6 +65,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BorgWarner | Human Resources Intern | Bellwood Illinois USA | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bellwood---Illinois---USA/Human-Resources-Intern_R2026-3152) | 2026-08-05 |
 | BorgWarner | Market Research Intern (Year-Round) – (Corporate - GMR) | Auburn Hills Michigan USA | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Market-Research-Intern--Year-Round-----Corporate---GMR--_R2026-3095) | 2026-08-05 |
 | BorgWarner | Professional Internship Information Technology - Client Support (m/f/d) | Viana Do Castelo I Portugal | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Professional-Internship-Information-Technology---Client-Support--m-f-d-_R2026-3132) | 2026-08-05 |
+| CALSTART | Human Resources Intern | United States Remote | [Apply](https://jobs.lever.co/calstart/78a65ad0-8173-4ab0-be96-8b1b8adccf47) | 2026-08-05 |
 | Capital One | Intern, Financial Analyst - January 2027 (4 Month) | Toronto, ON | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Fall-Intern--Financial-Analyst---January-2027--4-Month-_R247476) | 2026-08-05 |
 | Carrier Global | Working student | Ivánska Cesta 30 / Slovakia | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-sroIvnska-cesta-30A-821-04-Bratislava-Slovakia/Working-student_30214523) | 2026-08-05 |
 | Cencora | Process Improvement (Stage) H/F | Lyon | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Lyon/Process-Improvement--Stage--H-F_R265345) | 2026-08-05 |
@@ -151,13 +152,16 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern | Mn Moorhead | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Moorhead/Pharmacy-Intern_R0999950) | 2026-08-05 |
 | CVS Health | Pharmacy Intern - Grad | L.l.c. | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/08922---Louisiana-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996747) | 2026-08-05 |
 | Dentsu | Finance Intern | Sandton | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Sandton/Finance-Intern_R1129027) | 2026-08-05 |
+| Diversified Automation | Software Engineering Co-op | Louisville, KY | [Apply](https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc) | 2026-08-05 |
 | Draper | Mechanical Engineering & System Packaging Intern | Cambridge, MA / St. Petersburg, FL | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763) | 2026-08-05 |
 | Duke Energy | Engineer I - Intern/Co-op Conversion (Hardin) | Charlotte, NC | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Engineer-I---Intern-Co-op-Conversion--Hardin-_R40787) | 2026-08-05 |
 | Elekta | INTERN – FIELD SERVICE - Bangalore/Hyderabad/Chennai | Gurgaon | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Gurgaon/INTERN---FIELD-SERVICE---Bangalore-Hyderabad-Chennai_R2026-0838) | 2026-08-05 |
+| EQ Bank | Intern - Credit Risk | Toronto | [Apply](https://jobs.lever.co/eqbank/0a137ebd-548d-4472-a129-285cb71f98b1) | 2026-08-05 |
 | ERM | Intern | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Intern_R00031460) | 2026-08-05 |
 | Essity | Student apprentice | Mexico | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Uruapan-Mexico/Student-apprentice_Essity261859) | 2026-08-05 |
 | Euronext | Borsa Italiana - Market Surveillance, Internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Surveillance--Internship_R28288) | 2026-08-05 |
 | Euronext | MTS - Client Services, internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/MTS---Client-Services--internship_R28289) | 2026-08-05 |
+| Field AI | Robotics Research Intern, Robot Learning (Fall 2026) \| PhD Part-time Internship | Pittsburgh, PA | [Apply](https://jobs.lever.co/field-ai/a03d3102-4ebf-4557-9e0e-537ead53e24f) | 2026-08-05 |
 | Flextronics International | automation technician (intern) | Suzhou | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/China-Suzhou/automation-technician--intern-_WD226894) | 2026-08-05 |
 | Flextronics International | Finance Intern | Guadalajara | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Finance-Intern_WD226372) | 2026-08-05 |
 | Flextronics International | Finance Student | Guadalajara | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Finance-Student_WD226371) | 2026-08-05 |
@@ -286,6 +290,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pennsylvania State University | Director of Student Financial Aid - Educational Affairs | College Of Medicine | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Director-of-Student-Financial-Aid---Educational-Affairs_REQ_0000080440-1) | 2026-08-05 |
 | Pennsylvania State University | Graduate Student Admissions Officer, College of Information Sciences and Technology | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Student-Admissions-Officer--College-of-Information-Sciences-and-Technology_REQ_0000080660-2) | 2026-08-05 |
 | Pennsylvania State University | Part-Time Event Management Intern - Intercollegiate Athletics | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Event-Management-Intern---Intercollegiate-Athletics_REQ_0000081017-2) | 2026-08-05 |
+| Penta Group | Monitoring & Insights Internship - West Coast Remote | San Francisco, Canada | [Apply](https://jobs.lever.co/pentagrp/501478ea-6890-47e2-8994-96e50b1159f0) | 2026-08-05 |
 | Philips | Supply Chain Intern (all genders) | Lodz | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lodz/Supply-Chain-Intern--all-genders-_588880) | 2026-08-05 |
 | PNC Financial Services | Human Resources Undergraduate Intern | Pa Pittsburgh (15222) | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Human-Resources-Undergraduate-Intern_R231530-1) | 2026-08-05 |
 | PricewaterhouseCoopers (PwC) | Digital Transformation Intern - Milano [DIG] | Milan | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Milan/Digital-Transformation-Intern---Milano--DIG-_749880WD) | 2026-08-05 |
@@ -396,6 +401,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zebra | 2026 (6-months) Internship (Singapore) - Portfolio Marketing Intern | Singapore | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Portfolio-Marketing-Intern_JR102443-1) | 2026-08-05 |
 | Zebra | 2027 Summer Internship (US) - Product Security | Illinois | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Security_JR102764) | 2026-08-05 |
 | Zeiss | Technical Service Intern | Minneapolis | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Minneapolis/Technical-Service-Intern_JR_1051475) | 2026-08-05 |
+| Zoox | Part-time Student Worker: Analyst | Foster City, Canada / San Diego, Canada / Seattle, WA | [Apply](https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5) | 2026-08-05 |
 | 1X | CNC Machine Park Internship | California, United States | [Apply](https://jobs.ashbyhq.com/1x/e7b4aaf5-5c55-4e2f-abcd-5c250657bede) | 2026-08-04 |
 | ABB | Internship - Global Product Specialist - Energy Management | Italy | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Internship---Global-Product-Specialist---Energy-Management_JR00042501) | 2026-08-04 |
 | ABB | Student Internship in HR Operations | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Operations_JR00043437) | 2026-08-04 |
@@ -6213,7 +6219,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Maintenance Technician - The Villas (Student Living) | Denver, CO | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Villas-CO-Denver-CO/Maintenance-Technician---The-Villas--Student-Living-_R0193130) | 2026-06-30 |
 | Hendrick Motorsports | Project and Race Support Engineer Fall 2026 Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Fall-2026-Internship_R-81645) | 2026-06-30 |
 | Hendrick Motorsports | Project and Race Support Engineer Spring 2027 - Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647) | 2026-06-30 |
-| Hermeus | Flight Test Operations Pilot Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/8b890bfe-924e-4520-a8a9-0641f0581514) | 2026-06-30 |
 | Hitachi | Energy Internship | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Energy-Internship_R0135781) | 2026-06-30 |
 | Hitachi | HSE Intern | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bac-Ninh-Bc-Ninh-Vietnam/HSE-Intern_R0135255-1) | 2026-06-30 |
 | Hologic | Internship in Materials Engineering (12 months) | Costa Rica | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11916) | 2026-06-30 |
@@ -7113,8 +7118,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jonas Software - JonasSoftwareUSA | Security Operations Intern | India (jonas Collections And Recovery Inc) | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658) | 2026-06-17 |
 | JPI | Field Operations Intern – SkillBridge | Dallas Office | [Apply](https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Field-Operations-Intern---SkillBridge_JR101326) | 2026-06-17 |
 | Kensington | Product Intern | Toronto | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5166237007) | 2026-06-17 |
-| Kepler Communications | Marketing Intern (September 2026) (8 months) | Toronto, ON | [Apply](https://jobs.lever.co/kepler/1661ac1d-c0d3-4f61-8a8b-a5e5ee1c9767) | 2026-06-17 |
-| Kepler Communications | Systems Engineering Intern (September 2026) (8-16 months) | Toronto, ON | [Apply](https://jobs.lever.co/kepler/dc00f9e7-bbc5-4e1c-aae4-a4b669f2983b) | 2026-06-17 |
 | Ketjen | Data Integration & Application Development Intern | Netherlands | [Apply](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Amsterdam-Netherlands/Data-Integration---Application-Development-Intern_REQ-30831) | 2026-06-17 |
 | Kids Alive | Overseas Intern - Guatemala | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/320750c5-f810-44ad-a5e0-8f8ec8070419) | 2026-06-17 |
 | Kids Alive | Overseas Intern - Kenya | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/dc34aecf-e393-4c5c-945a-5630fe78dad4) | 2026-06-17 |
@@ -9365,14 +9368,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Henry Schein | Field Sales Internship Opportunities | West Allis Wisconsin | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/West-Allis---Wisconsin/Field-Sales-Internship-Opportunities_R122614-1) | 2026-06-02 |
 | Henry Schein | Help Desk Specialist Stage | Milano Italy | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Milano---Italy/Help-Desk-Specialist-Stage_R134021) | 2026-06-02 |
 | Henry Schein | 销售助理-intern | Beijing China | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Beijing---China/-intern_R132589) | 2026-06-02 |
-| Hermeus | Avionics Electrical Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/3cee58bc-55ef-4230-acf2-9a2e2851cf43) | 2026-06-02 |
 | Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 2026-06-02 |
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | 2026-06-02 |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | 2026-06-02 |
 | Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) | 2026-06-02 |
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | 2026-06-02 |
-| Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
-| Hermeus | Subsystem Test Engineering Intern - Fall 2026 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) | 2026-06-02 |
+| Hermeus | Software Engineering Intern (Command & Control) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
 | Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | 2026-06-02 |
 | Hewlett Packard (HP) | Browser Software Engineer Intern | Cambridgeshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | 2026-06-02 |
 | Hewlett Packard (HP) | Category Sales Intern | Colombia | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bogota-Distrito-Capital-de-Bogot-Colombia/Category-Sales-Intern_3160005-1) | 2026-06-02 |
