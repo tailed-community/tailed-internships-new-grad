@@ -1205,7 +1205,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Verkada | Technical Support Engineer - University Graduate 2026 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) | 2026-06-02 |
 | Wade Trim | Entry Level Civil Engineer - #2864.08 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/45e070d6-2986-49c9-ab70-b5d6702818fa) | 2026-06-02 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #2771.20 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/7e4b8542-7bc1-4198-9951-971067517915) | 2026-06-02 |
-| Wade Trim | Entry Level Civil/Environmental Engineer -#2897.17 | Omaha, NE | [Apply](https://jobs.lever.co/wadetrim/08fda432-54e3-43dd-b9ec-09cb7951e55a) | 2026-06-02 |
 | Waystar | Entry Level Sales Executive | Louisville, KY | [Apply](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Entry-Level-Sales-Executive_R2468) | 2026-06-02 |
 | BDO | Junior Accountant, Assurance – Edmonton – January 2027 (New Grad) | Edmonton 103 St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---January-2027--New-Grad-_JR5882) | 2026-05-30 |
 | BDO | Junior Accountant, Assurance – Edmonton – September 2027 (New Grad) | Edmonton 103 St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884) | 2026-05-30 |
