@@ -282688,20 +282688,6 @@
     "date_archived": "2026-07-29"
   },
   {
-    "id": "lever-equativ-43f7b6c8-476b-4226-bbec-1e1b3dfb35b2",
-    "company": "Equativ",
-    "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
-    "location": "Paris",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/equativ/43f7b6c8-476b-4226-bbec-1e1b3dfb35b2",
-    "date_posted": "2026-07-16",
-    "date_added": "2026-07-16",
-    "active": false,
-    "date_archived": "2026-07-29"
-  },
-  {
     "id": "lever-level-ai-ec503f6c-ae4d-4546-945a-f754e621ca62",
     "company": "Level AI",
     "title": "Product Design Intern(Delhi)",
@@ -332020,6 +332006,34 @@
     "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Application-Engineer-Co-op_R3312-1",
     "date_posted": "Posted 7 Days Ago",
     "date_added": "2026-07-31",
+    "active": false,
+    "date_archived": "2026-08-07"
+  },
+  {
+    "id": "lever-telesat-35fbe0fb-05be-4581-a191-ca2a8cc06b28",
+    "company": "Telesat",
+    "title": "Business Development Intern (Fall Term September-December 2026)",
+    "location": "Arlington, VA",
+    "type": "internship",
+    "season": "Fall",
+    "source": "lever",
+    "url": "https://jobs.lever.co/telesat/35fbe0fb-05be-4581-a191-ca2a8cc06b28",
+    "date_posted": "2026-06-10",
+    "date_added": "2026-06-11",
+    "active": false,
+    "date_archived": "2026-08-07"
+  },
+  {
+    "id": "lever-telesat-5321efa6-d788-4eb8-9bcb-ced2a0b15e89",
+    "company": "Telesat",
+    "title": "Communications Systems Analyst Intern (Fall 2026 September-December)",
+    "location": "Arlington, VA",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/telesat/5321efa6-d788-4eb8-9bcb-ced2a0b15e89",
+    "date_posted": "2026-06-10",
+    "date_added": "2026-06-11",
     "active": false,
     "date_archived": "2026-08-07"
   }
