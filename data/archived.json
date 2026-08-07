@@ -332204,5 +332204,61 @@
     "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-08-07"
+  },
+  {
+    "id": "ashby-alljoined-b9e2f607-6a07-4836-8d89-e4f6de8bd515",
+    "company": "Alljoined",
+    "title": "Research Intern (Fall)",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Fall",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/alljoined/b9e2f607-6a07-4836-8d89-e4f6de8bd515",
+    "date_posted": "2025-11-12",
+    "date_added": "2026-08-03",
+    "active": false,
+    "date_archived": "2026-08-07"
+  },
+  {
+    "id": "ashby-clera-5372e670-2ab8-4be4-91ba-15930cd00257",
+    "company": "Clera",
+    "title": "Founder's Associate Intern / Working Student – Enterprise Sales & Outbound",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/5372e670-2ab8-4be4-91ba-15930cd00257",
+    "date_posted": "2026-08-01",
+    "date_added": "2026-08-01",
+    "active": false,
+    "date_archived": "2026-08-07"
+  },
+  {
+    "id": "ashby-clera-b22f4e84-aeb2-4872-aba4-135b0e7ecba0",
+    "company": "Clera",
+    "title": "Sales Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/b22f4e84-aeb2-4872-aba4-135b0e7ecba0",
+    "date_posted": "2026-08-01",
+    "date_added": "2026-08-02",
+    "active": false,
+    "date_archived": "2026-08-07"
+  },
+  {
+    "id": "ashby-genmd-91a747ff-8ac5-47ac-bf24-259e7920bb53",
+    "company": "GenMD",
+    "title": "Founding Product and Strategy Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/genmd/91a747ff-8ac5-47ac-bf24-259e7920bb53",
+    "date_posted": "2026-05-02",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-07"
   }
 ]
