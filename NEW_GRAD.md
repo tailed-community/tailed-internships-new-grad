@@ -9,6 +9,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | AAA Club Alliance - careers | Entry Level Data Scientist | Coppell, TX | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Entry-Level-Data-Scientist_JR202638253) | 2026-08-07 |
 | Addepar | Associate Alts Data Operation Analyst - Early Career | India | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8625641002) | 2026-08-07 |
+| AECOM | Entry-Level Water/Wastewater Engineer | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000141969899) | 2026-08-07 |
 | Amentum | AI-Enabled Solution Architect – Capture & Proposal Support (Entry-Level Architect) | United States Remote | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-Remote/AI-Enabled-Solution-Architect---Capture---Proposal-Support--Entry-Level-Architect-_R0167756) | 2026-08-07 |
 | AutoNation | Entry Level Technician | Autonation Toyota Newnan | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Newnan/Entry-Level-Technician_JR2026145567-1) | 2026-08-07 |
 | AutoNation | Entry Level Technician | Autonation Volkswagen Hilton Head | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Volkswagen-Hilton-Head/Automotive-Service-Technician---Volkswagen-Hardeeville_JR2026145130) | 2026-08-07 |
@@ -22,6 +23,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Pre & Post-Surgical General Surgery | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Pre---Post-Surgical-General-Surgery_337458-1) | 2026-08-07 |
 | Cleveland Clinic | New Grad RN Resident – Colorectal Surgery | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Colorectal-Surgery_344322-1) | 2026-08-07 |
 | CMC Markets | Graduate Program - Technology Development stream | Sydney | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Sydney/Graduate-Program---Technology-Development-stream_CMC4382) | 2026-08-07 |
+| Eurofins | Entry Level Chemist (2nd Shift) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000142001054) | 2026-08-07 |
+| Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000141942898) | 2026-08-07 |
 | GE Vernova | Power System Engineering - Early Career Traineeship | Riyadh Sa 11 / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Riyadh-SA-11/Power-System-Engineering---Early-Career-Traineeship_R5041110) | 2026-08-07 |
 | GE Vernova | Sourcing- Early Career Trainee | Cairo | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cairo/Sourcing--Early-Career-Trainee_R5047937-1) | 2026-08-07 |
 | GE Vernova - vernova_externalsite | Power System Engineering - Early Career Traineeship | Riyadh Sa 11 / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh-SA-11/Power-System-Engineering---Early-Career-Traineeship_R5041110-1) | 2026-08-07 |
@@ -41,6 +44,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Travelers Companies | Trial Counsel-Entry Level | Wa Bellevue / Wa Seattle / Wa Renton / Wa Sammamish / Wa Kirkland / Wa Bothell | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/WA---Bellevue/Trial-Counsel-Entry-Level_R-51948) | 2026-08-07 |
 | UL Solutions | Entry Level Engineer - Raleigh, NC | United States | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10420) | 2026-08-07 |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | San Antonio Home Office I | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Life--Annuity--and-Service-Specialist---Entry-Level_R0119855) | 2026-08-07 |
+| Veolia | Graduate Program Ingenieros | Barcelona, CT | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142089215) | 2026-08-07 |
 | WSP | Early Career Structural Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92624) | 2026-08-07 |
 | WSP | Early Career Structural Engineer | Washington, DC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92714) | 2026-08-07 |
 | WSP | Early Career Traffic Engineer | Morristown, NJ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92708) | 2026-08-07 |
@@ -130,7 +134,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ERM | Consulting Associate – (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate----Entry-Level-_R00031454) | 2026-08-04 |
 | Eurofins | Associate Scientist l (DNA) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321999) | 2026-08-04 |
 | Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321349) | 2026-08-04 |
-| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141335349) | 2026-08-04 |
 | Eurofins | QC Microbiology Lab Tech - Entry Level (Sun - Wed) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141486903) | 2026-08-04 |
 | Eurofins | Sample Receipt Officer – Entry Level (Graduates are Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141361769) | 2026-08-04 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0264366) | 2026-08-04 |
@@ -358,7 +361,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Diesel & Trailer Mechanic | Allentown Pa | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Allentown-PA/Entry-Level-Diesel---Trailer-Mechanic_R202680398) | 2026-07-24 |
 | DriveTime | Automotive Technician - Entry Level | Mi 48180 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/10725-Telegraph-Rd-Taylor-MI-48180/Automotive-Technician---Entry-Level_R15995) | 2026-07-24 |
 | E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6222/transmission-line-engineer-%28entry-level%29/job) | 2026-07-24 |
-| Eurofins | Entry Level PCR Data Review | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000139344109) | 2026-07-24 |
 | EXL | Inbound Call Center Reps - Entry level | Connecticut, United States | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17781) | 2026-07-24 |
 | ICF International | DevSecOps Engineer (Entry level - Clearance Required) - (US-Remote) | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/DevSecOps-Engineer--Entry-level---Clearance-Required-----US-Remote-_R2602510) | 2026-07-24 |
 | Kyndryl | Graduate Program – Application Consulting | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Application-Consulting_R-65539-1) | 2026-07-24 |
@@ -449,7 +451,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Solar Turbines | 2027 Entry Level Suppler Technical Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122) | 2026-07-17 |
 | Thales | AJISS Maintenance Support Technician (New Grad) | Halifax Wilkinson | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Halifax---Wilkinson/AJISS-Maintenance-Support-Technician--New-Grad-_R0334394-1) | 2026-07-17 |
 | Torch Technologies | Entry-Level Radar Engineer | Huntsville, AL | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Radar-Engineer_R1397) | 2026-07-17 |
-| Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000138032950) | 2026-07-16 |
 | GE Vernova | GE Vernova Early Career Project Engineer | Greenville | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Early-Career-Project-Engineer_R5047315-1) | 2026-07-16 |
 | GE Vernova - vernova_externalsite | GE Vernova Early Career Project Engineer | Greenville | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Early-Career-Project-Engineer_R5047315-2) | 2026-07-16 |
 | General Dynamics | 2026 Recent High School Grads - Entry Level Trades Opportunities - Groton | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/19485/2026-recent-high-school-grads---entry-level-trades-opportunities---groton/job) | 2026-07-16 |
