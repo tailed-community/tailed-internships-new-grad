@@ -311164,20 +311164,6 @@
     "date_archived": "2026-08-04"
   },
   {
-    "id": "lever-plusai-b69c9b6d-483f-41d4-b487-97c99332ca40",
-    "company": "PlusAI",
-    "title": "Full Stack Engineer Intern",
-    "location": "Santa Clara, CA",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40",
-    "date_posted": "2026-05-15",
-    "date_added": "2026-06-23",
-    "active": false,
-    "date_archived": "2026-08-04"
-  },
-  {
     "id": "lever-sophos-c7895b4a-e459-4021-8094-a9e7c1ac9410",
     "company": "Sophos",
     "title": "Field Marketing Intern – German speaking (m/f/d)",
@@ -335982,6 +335968,34 @@
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Security_JR102764",
     "date_posted": "Posted 3 Days Ago",
     "date_added": "2026-08-05",
+    "active": false,
+    "date_archived": "2026-08-08"
+  },
+  {
+    "id": "lever-achievers-107b91ae-16c8-4ec3-afed-9af3bdafc3bd",
+    "company": "Achievers",
+    "title": "Content Co-op",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/achievers/107b91ae-16c8-4ec3-afed-9af3bdafc3bd",
+    "date_posted": "2026-07-02",
+    "date_added": "2026-07-02",
+    "active": false,
+    "date_archived": "2026-08-08"
+  },
+  {
+    "id": "lever-brooks-running-c112ea4c-9c2c-4c83-8684-d584e57aaa1e",
+    "company": "Brooks Running",
+    "title": "Footwear Design Intern, Inline",
+    "location": "Seattle, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/brooksrunning/c112ea4c-9c2c-4c83-8684-d584e57aaa1e",
+    "date_posted": "2026-06-18",
+    "date_added": "2026-06-19",
     "active": false,
     "date_archived": "2026-08-08"
   }
