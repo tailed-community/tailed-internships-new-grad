@@ -505,6 +505,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sun Life | CPA Leadership Rotational Program – 2027 New Graduate Opportunity | Toronto, ON / Waterloo, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/CPA-Pre-Approved-Rotational-Program---2026-New-Graduate-Opportunity_JR00125800-1) | 2026-07-16 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Dallas/Richardson) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016564) | 2026-07-16 |
 | Texas Instruments | 2027 Entry Level Manufacturing Maintenance Specialist (Richardson) | Richardson, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016563) | 2026-07-16 |
+| Abridge | Software Engineer - Early Career | California, United States | [Apply](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | 2026-07-15 |
 | Accenture | Entry Level Technology - for MANILA Recruitment Hub applications only | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Entry-Level-Technology---for-MANILA-Recruitment-Hub-applications-only_R00343169) | 2026-07-15 |
 | Barr | Geologist – Entry Level (Hybrid) | Salt Lake City, UT | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Geologist---Entry-Level--Hybrid-_R-102196-1) | 2026-07-15 |
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_332335) | 2026-07-15 |
@@ -590,7 +591,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hewlett Packard Enterprise | Entry Level - Maintenance Renewals | Mexico | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Maintenance-Renewals-Specialist_1207856-1) | 2026-07-09 |
 | Netic | Technical Recruiter - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/bea76c74-368b-455c-85e2-5f9764a0202b) | 2026-07-09 |
 | NXP Semiconductors | Product/Test Engineer, Entry Level | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Product-Test-Engineer--Entry-Level_R-10063911-1) | 2026-07-09 |
-| Quora | Machine Learning Engineer, New Grad - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4) | 2026-07-09 |
 | Cleveland Clinic | New Grad RN Resident - Stepdown Unit | Avon Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/New-Grad-RN-Resident---Stepdown-Unit_344663-1) | 2026-07-08 |
 | Cleveland Clinic | New Grad RN Resident – Neuroscience Med/Surg | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Neuroscience-Med-Surg-09-FTE-7a-7-30p_344986-1) | 2026-07-08 |
 | Conagra Brands | Entry Level Production - 2nd Shift | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Macon-Missouri/Entry-Level-Production---2nd-Shift_Req-039100) | 2026-07-08 |
@@ -971,7 +971,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Northwood Space | Electronics Test Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) | 2026-06-08 |
-| Northwood Space | RF Hardware Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/5d76a025-bb64-4ddd-8b97-8649c41d89ed) | 2026-06-08 |
 | Northwood Space | Software Engineer – General (new grad / early career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | 2026-06-08 |
 | Parallel Web Systems | Early Career Research Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd) | 2026-06-08 |
 | SpaceX | New Graduate Engineer, Electrical (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8565726002?gh_jid=8565726002) | 2026-06-08 |
