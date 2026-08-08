@@ -332262,20 +332262,6 @@
     "date_archived": "2026-08-07"
   },
   {
-    "id": "workable-altom-transport-5860341",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workable",
-    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
-    "date_posted": "2026-06-03",
-    "date_added": "2026-06-15",
-    "active": false,
-    "date_archived": "2026-08-07"
-  },
-  {
     "id": "workday-abb-job-apodaca-nuevo-len-mexico-recruitment-internship-jr00038388",
     "company": "ABB",
     "title": "Recruitment Internship",
@@ -336836,6 +336822,20 @@
     "url": "https://ats.rippling.com/acretrader-jobs/jobs/05f7090a-32a3-4103-9fb9-7ce7a20f9b60",
     "date_posted": null,
     "date_added": "2026-07-16",
+    "active": false,
+    "date_archived": "2026-08-08"
+  },
+  {
+    "id": "workable-altom-transport-5848393",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "type": "internship",
+    "season": "Fall",
+    "source": "workable",
+    "url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/",
+    "date_posted": "2026-05-28",
+    "date_added": "2026-06-29",
     "active": false,
     "date_archived": "2026-08-08"
   }

@@ -6490,7 +6490,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Virginia | Concierge Desk and Event Assistant - School of Engineering (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Concierge-Desk-and-Event-Assistant---School-of-Engineering--Student-Wage-_R0084775) | 2026-06-30 |
 | Valeo | Hardware Engineer Internship | Martos | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Martos/Hardware-Engineer-Internship_REQ2026073741) | 2026-06-30 |
 | Air Liquide | Stage - Siège social  - Real Estate project and data manager H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-project-and-data-manager-H-F_R10095113) | 2026-06-29 |
-| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | 2026-06-29 |
 | Arcadis | Internship - Modellering technische vispassages | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41337) | 2026-06-29 |
 | Baker Hughes | Intern – Engineering – Vibo, Italy – 2026 (M/F/D) | It-Vv-Vibo Valentia-Via Le Marinate | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Emerging-Talent---Engineering-Intern-2026-Opportunities--Vibo-_R158420) | 2026-06-29 |
 | Baxter International | Finance Intern | Kuala Lumpur | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Kuala-Lumpur/Finance-Intern_JR-204931) | 2026-06-29 |
@@ -7747,6 +7746,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Stage Ingénieur Informatique  au sein du service Test & Validation Electronique | Angers | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454) | 2026-06-16 |
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Supply Chain & Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
+| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) | 2026-06-15 |
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
 | Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
