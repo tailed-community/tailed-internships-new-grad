@@ -22,6 +22,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Accenture | Intellera - Healthcare Intern Palermo | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Palermo-Via-Principe-di-Belmonte/Intellera---Healthcare-Intern-Palermo_R00349105) | 2026-08-08 |
+| AcreTrader | Legal Intern (Compliance) | Fayetteville, AR | [Apply](https://ats.rippling.com/acretrader-jobs/jobs/666d8d7e-94a1-48f4-88ac-3069a9878f88) | 2026-08-08 |
 | AECOM | Engineering Intern | Honolulu, HI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000142212720) | 2026-08-08 |
 | Albany Medical College | Student Employee | Ny 12208 | [Apply](https://albanymed.wd5.myworkdayjobs.com/albany_med/job/43-New-Scotland-Avenue-Albany-NY-12208/Student-Employee_71034) | 2026-08-08 |
 | Alice L. Walton School of Medicine | 2026 Archives Fall Intern | Bentonville, AR | [Apply](https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2026-Library-and-Archives-Fall-Intern_JR2482-1) | 2026-08-08 |
@@ -4621,7 +4622,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | World Kinect | Intern | Colombia | [Apply](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/BOGOTA-COLOMBIA/Intern_R22697) | 2026-07-17 |
 | ABB | Internship: Electrical Engineering and Testing Support | Spain | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Paterna-Valencia-Spain/Internship--Electrical-Engineering-and-Testing-Support_JR00041951-1) | 2026-07-16 |
 | ABB | Internship: Engineering / Maintenance / Environment | Spain | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Paterna-Valencia-Spain/Internship--Engineering---Maintenance---Environment_JR00041954) | 2026-07-16 |
-| AcreTrader | Accounting Intern | Fayetteville, AR | [Apply](https://ats.rippling.com/acretrader-jobs/jobs/05f7090a-32a3-4103-9fb9-7ce7a20f9b60) | 2026-07-16 |
 | AECOM | Digital Technology Specialist Intern - AECOM Hunt | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000137981679) | 2026-07-16 |
 | Airbus | Flight Test Support Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Flight-Test-Support-Intern_JR10429875) | 2026-07-16 |
 | Airbus | Internship (d/f/m) in Quality Procurement | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Internship--d-f-m--in-Quality-Procurement_JR10420221) | 2026-07-16 |

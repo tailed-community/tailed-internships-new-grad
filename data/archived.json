@@ -336824,5 +336824,19 @@
     "date_added": "2026-07-14",
     "active": false,
     "date_archived": "2026-08-08"
+  },
+  {
+    "id": "rippling-acretrader-05f7090a-32a3-4103-9fb9-7ce7a20f9b60",
+    "company": "AcreTrader",
+    "title": "Accounting Intern",
+    "location": "Fayetteville, AR",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/acretrader-jobs/jobs/05f7090a-32a3-4103-9fb9-7ce7a20f9b60",
+    "date_posted": null,
+    "date_added": "2026-07-16",
+    "active": false,
+    "date_archived": "2026-08-08"
   }
 ]
