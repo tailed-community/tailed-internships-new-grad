@@ -32,6 +32,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Hastings, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/52-Bridge-St-N-Hastings-ON/Student--Franchise-Part-Time-Day_R2000692104) | 2026-08-09 |
 | Loblaw Companies | Student, Franchise Part Time Evening | Perth, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/80-Dufferin-St-Perth-ON/Student--Franchise-Part-Time-Evening_R2000692020) | 2026-08-09 |
 | Manulife | Intern, Product Development | Wilayah Persekutuan Kuala Lumpur | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Intern--Product-Development_JR26071508) | 2026-08-09 |
+| Michael Baker International | Intern, Bridge CADD Technician | Moon Township, PA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309646) | 2026-08-09 |
 | Accenture | Intellera - Healthcare Intern Palermo | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Palermo-Via-Principe-di-Belmonte/Intellera---Healthcare-Intern-Palermo_R00349105) | 2026-08-08 |
 | AcreTrader | Legal Intern (Compliance) | Fayetteville, AR | [Apply](https://ats.rippling.com/acretrader-jobs/jobs/666d8d7e-94a1-48f4-88ac-3069a9878f88) | 2026-08-08 |
 | AECOM | Engineering Intern | Honolulu, HI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000142212720) | 2026-08-08 |
@@ -2944,7 +2945,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | TMX Group | Technical Project Coordinator Intern | Toronto 100 Adelaide St W | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Technical-Project-Coordinator-Intern_R-6313) | 2026-07-29 |
 | Tower Research Capital | Junior Execution Trader Intern | Gift City | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8091833) | 2026-07-29 |
 | Trimble | Software Engineering Intern | New Zealand Christchurch | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/New-Zealand---Christchurch/Software-Engineering-Intern_R56802) | 2026-07-29 |
-| UNFPA | International: Communication Intern [Japan National] | Fiji | [Apply](https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/job/35828) | 2026-07-29 |
 | University of Arkansas | Non-Student Extra Help (Adult Education Teacher) | Uam \| Mcgehee Campus | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAM--McGehee-Campus/Non-Student-Extra-Help--Adult-Education-Teacher-_R0088694-2) | 2026-07-29 |
 | University of Arkansas | Student Development Specialist / Community College Liaison | Little Rock | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Student-Development-Specialist---Community-College-Liaison_R0088664) | 2026-07-29 |
 | University of Texas - Austin | Plan II Honors Student Program Coordinator | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Plan-II-Honors-Student-Program-Coordinator_R_00047488) | 2026-07-29 |
@@ -7911,16 +7911,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Healthcare | Lean Manufacturing Intern – Continuous Improvement | Monterrey | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Monterrey/Lean-Manufacturing-Intern---Continuous-Improvement_R4035576-1) | 2026-06-13 |
 | General Dynamics UK | Co-op Fall 2026 - Human Resources - 4-12 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000125200524) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Adelaide | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26540) | 2026-06-13 |
-| GHD | GHD Summer Internship Program 2026/27 - Canberra, Wollongong & Southern NSW | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26536) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - New Zealand | New Zealand | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26533) | 2026-06-13 |
-| GHD | GHD Summer Internship Program 2026/27 - Northern Queensland and Northern Territory | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26535) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Perth | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26544) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Regional Western Australia | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26543) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - South Queensland | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26530) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Sydney | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26542) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26528) | 2026-06-13 |
 | GHD | GHD Summer Internship Program 2026/27 - Victoria | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26523) | 2026-06-13 |
-| GHD | GHD Summer Internship Program 2026/27 - Newcastle & Northern NSW | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26647) | 2026-06-13 |
 | GHD | Indigenous Engineer Intern/co-op | Toronto, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26420) | 2026-06-13 |
 | GHD | Indigenous Engineer Intern/co-op | Vancouver, BC, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26405) | 2026-06-13 |
 | GHD | Indigenous Engineer Intern/co-op | Fredericton, NB, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26192) | 2026-06-13 |

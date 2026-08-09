@@ -513,8 +513,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_332335) | 2026-07-15 |
 | DXC Technology | Entry-Level Support Developer | Aus Sa Adelaide | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Entry-Level-Support-Developer_51570353) | 2026-07-15 |
 | Fresenius Medical Care | New Grad Nurse- RN | Berkley, MI, United States / Lansing, MI, United States / Wyoming, MI, United States / Warren, MI, United States / Kalamazoo, MI, United States / East Lansing, MI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Berkley-MI-USA/New-Grad-Nurse--RN_R0262022-1) | 2026-07-15 |
-| GHD | GHD Graduate Program 2026/27 - Darwin - Civil Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688) | 2026-07-15 |
-| GHD | GHD Graduate Program 2026/27 - Darwin - Electrical Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27686) | 2026-07-15 |
 | Jencap | Claims Assistant-Entry Level | Red Bank, NJ / Worcester, MA | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5102894007) | 2026-07-15 |
 | NXP Semiconductors | Entry-Level Data Scientist – Semiconductor Engineering & Automation | Kuala Lumpur | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Entry-Level-Data-Scientist---Semiconductor-Engineering---Automation_R-10064847) | 2026-07-15 |
 | Texas Instruments | Entry Level Equipment Technician DMOS 6 - Night Shift | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016546) | 2026-07-15 |
@@ -861,7 +859,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fortinet | New Grad 2026 (Canada) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817) | 2026-06-13 |
 | Fortinet | New Grads 2026 (US) | Sunnyvale, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 2026-06-13 |
 | GHD | Entry-Level Environmental Technician | Borger, TX, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26268) | 2026-06-13 |
-| GHD | GHD Graduate Program 2026/27 - Power Advisory - Brisbane & Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26669) | 2026-06-13 |
 | IHG | 【2027年新卒対象】正社員（調理職）\|【New Graduate】Cook - Hotel Indigo Tokyo Shibuya | Japan | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/158392) | 2026-06-13 |
 | Integrated Resources | Entry Level - Production Technician | West Sacramento, United States | [Apply](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999658975658) | 2026-06-13 |
 | Integrated Resources | Entry Level Technician | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659301499) | 2026-06-13 |
