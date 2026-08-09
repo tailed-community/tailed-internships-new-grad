@@ -335888,48 +335888,6 @@
     "date_archived": "2026-08-08"
   },
   {
-    "id": "icims-cummings-electrical-85096",
-    "company": "Cummings Electrical",
-    "title": "Pharmacy Internship, Inpatient/Outpatient, Main Hospital Campus (Class of 2030)",
-    "location": "Not specified",
-    "type": "internship",
-    "season": "2030",
-    "source": "icims",
-    "url": "https://careers-uuhc.icims.com/jobs/85096/pharmacy-internship/job",
-    "date_posted": "2026-08-04",
-    "date_added": "2026-08-04",
-    "active": false,
-    "date_archived": "2026-08-08"
-  },
-  {
-    "id": "icims-cummings-electrical-84715",
-    "company": "Cummings Electrical",
-    "title": "Pharmacy Technician/Intern- No nights, weekends or holidays!",
-    "location": "Not specified",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "icims",
-    "url": "https://careers-uuhc.icims.com/jobs/84715/pharmacy-technician/job",
-    "date_posted": "2026-07-20",
-    "date_added": "2026-07-21",
-    "active": false,
-    "date_archived": "2026-08-08"
-  },
-  {
-    "id": "icims-cummings-electrical-82879",
-    "company": "Cummings Electrical",
-    "title": "Social Media & Digital Communications Graduate Intern",
-    "location": "Not specified",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "icims",
-    "url": "https://careers-uuhc.icims.com/jobs/82879/social-media-%26-digital-communications-graduate-intern/job",
-    "date_posted": "2026-04-27",
-    "date_added": "2026-06-10",
-    "active": false,
-    "date_archived": "2026-08-08"
-  },
-  {
     "id": "icims-dayton-freight-lines-16526",
     "company": "Dayton Freight Lines",
     "title": "Management Internship",
@@ -337550,6 +337508,20 @@
     "url": "https://jobs.ashbyhq.com/clera/29162a3c-3801-4a5d-89a4-a1fc93b8b860",
     "date_posted": "2026-06-07",
     "date_added": "2026-07-02",
+    "active": false,
+    "date_archived": "2026-08-09"
+  },
+  {
+    "id": "icims-kimley-horn-25706",
+    "company": "Kimley-Horn",
+    "title": "Mechanical Engineering Intern",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-kimley-horn.icims.com/jobs/25706/mechanical-engineering-intern/job",
+    "date_posted": "2026-08-05",
+    "date_added": "2026-08-06",
     "active": false,
     "date_archived": "2026-08-09"
   }

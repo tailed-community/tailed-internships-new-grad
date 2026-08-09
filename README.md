@@ -753,7 +753,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jones Lang LaSalle (JLL) | Intern, Value and Risk Advisory | Charleston, SC / Charlotte, NC / Richmond, VA / Norfolk, VA / Washington, DC / Tampa, FL / Atlanta, GA | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charleston-SC/Intern--Value-and-Risk-Advisory_REQ525638) | 2026-08-06 |
 | Keysight Technologies | Technical Support Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53731?lang=en-us&icims=1) | 2026-08-06 |
 | Kimley-Horn | Drafting & Design (CAD) Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25712/drafting-%26-design-%28cad%29-intern/job) | 2026-08-06 |
-| Kimley-Horn | Mechanical Engineering Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25706/mechanical-engineering-intern/job) | 2026-08-06 |
 | KLA - Search | Optical Engineering R&D Student | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Optical-Engineering-R-D-Student_2639489-1) | 2026-08-06 |
 | KnowBe4 | Customer Success Intern | Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8660687002) | 2026-08-06 |
 | Kroll | Intern, Mergers & Acquisitions | Chicago, IL, United States | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014738) | 2026-08-06 |
@@ -1406,6 +1405,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Corewell Health | Student Radiology Technologist | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Taylor-MI/Student-Radiology-Technologist_R220125) | 2026-08-04 |
 | Crane Co. | Manufacturing Intern | Ohio | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251) | 2026-08-04 |
 | CSC | Payroll Intern | Singapore | [Apply](https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/16636) | 2026-08-04 |
+| Cummings Electrical | Pharmacy Internship, Inpatient/Outpatient, Main Hospital Campus (Class of 2030) | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/85096/pharmacy-internship/job) | 2026-08-04 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Ma Whitman | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Whitman/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0999507) | 2026-08-04 |
 | Daktronics | Marketing Copywriting Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7481/marketing-copywriting-student/job) | 2026-08-04 |
 | Daktronics | Project Management Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7479/project-management-student/job) | 2026-08-04 |
@@ -4120,6 +4120,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crum & Forster Insurance | Intern - Event Planning, Part time | Morristown, NJ, United States | [Apply](https://careers-cfins.icims.com/jobs/5045/intern---event-planning%2c-part-time/job) | 2026-07-21 |
 | CTC | Quant Trading Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-07-21 |
 | CTC | Software Engineering Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 2026-07-21 |
+| Cummings Electrical | Pharmacy Technician/Intern- No nights, weekends or holidays! | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/84715/pharmacy-technician/job) | 2026-07-21 |
 | Dentsu | STAGE - Assistant Chef de Projet SEO-GEO H/F | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Chef-de-Projet-SEO-GEO-H-F_R1128180) | 2026-07-21 |
 | Enterprise Mobility | Fall 2026 Management Trainee Intern- Central NJ | Central Nj (redbank / Asbury) | [Apply](https://us-erac.icims.com/jobs/559530/fall-2026-management-trainee-intern--central-nj/job) | 2026-07-21 |
 | Evonik | Intern - Innovation and Special Project | Shanghai Xinzhuang | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Shanghai-Xinzhuang/Intern---Innovation-and-Special-Project_R49730) | 2026-07-21 |
@@ -8327,6 +8328,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cotiviti | Intern - Generative AI/Agentic AI/Research | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/18929/intern---generative-ai-agentic-ai-research/job) | 2026-06-10 |
 | Covestro | QUALITY & DATA CONTROL (M/F) - STAGE | Italy | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Filago-Lombardy-Italy/QUALITY---DATA-CONTROL--M-F----STAGE_JR-2026-01009) | 2026-06-10 |
 | Crowe | Tax Intern Winter 2027 | Chicago Il USA / Los Angeles CA USA / Columbus Oh USA / Denver Co USA / Fort Lauderdale Fl USA / Sacramento CA USA / South Bend In USA / Atlanta Ga USA | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Tax-Intern-Winter-2027_R-47932) | 2026-06-10 |
+| Cummings Electrical | Social Media & Digital Communications Graduate Intern | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/82879/administrative-internship/job) | 2026-06-10 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Mi Menominee | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Menominee/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0941419) | 2026-06-10 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Wi Menomonie | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Menomonie/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0941349) | 2026-06-10 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Wi De Pere | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---De-Pere/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0941336) | 2026-06-10 |
