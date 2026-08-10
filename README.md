@@ -271,6 +271,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | DP World | Project Administrator – Intern | United Arab Emirates | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26251) | 2026-08-10 |
 | DXC Technology | JAVA intern | Twn Tpe Taipei | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/TWN---TPE---TAIPEI/JAVA-intern_51586641) | 2026-08-10 |
 | DXC Technology | Project Assistant - Internship | Twn Tpe Taipei | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/TWN---TPE---TAIPEI/Project-Assistant---Internship_51586648) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/D9FF983568/) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/FDC3F6C6DD/) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/853A99DC2D/) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/DE83CB4589/) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/41C3DD73F6/) | 2026-08-10 |
+| e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/59907B9CD1/) | 2026-08-10 |
 | Ecolab | Internship - Associate Vendor Support Specialist with French | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Internship---Associate-Vendor-Support-Specialist-with-French_R00299106) | 2026-08-10 |
 | Eko Health | Product Intern, Clinical Technology | United States Remote | [Apply](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d) | 2026-08-10 |
 | Equinix | Intern, IBX Operations | Tsuen Wan New Territories / Tseung Kwan O / Shatin / Tsuen Wan | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Tsuen-Wan-New-Territories/Intern--IBX-Operations_JR-162707) | 2026-08-10 |
@@ -726,7 +732,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | WCL Operations Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Tenley-Campus-Washington-DC/WCL-Operations-Assistant--Student-_R4578) | 2026-08-07 |
 | Applied Materials | Chemist  (Co-Op - Santa Clara) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2625243) | 2026-08-07 |
 | Arizona State University | Student Services Coordinator Associate | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Student-Services-Coordinator-Associate_JR125045) | 2026-08-07 |
-| Ascendis Pharma | Student Assistant - Global IT Core Functions | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/DFF85C099A/) | 2026-08-07 |
+| Ascendis Pharma | Student Assistant - Data Engineering, BI & Reporting (Global IT) | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/DFF85C099A/) | 2026-08-07 |
 | Baker Tilly | State & Local Tax Intern – 2027 (Gonzaga Law) | USA Wa Seattle 999 Third Ave | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-WA-Seattle-999-Third-Ave/State---Local-Tax-Intern---2027--Gonzaga-Law-_JR107395) | 2026-08-07 |
 | BPM LLP | Real Estate Appraisal Intern | San Diego, Canada | [Apply](https://jobs.lever.co/bpmcpa/3f7e076e-a3a6-4474-9e11-e700063b5eea) | 2026-08-07 |
 | Brock University | Administrative Assistant, Co-op, Career & Experiential Education | Main Campus | [Apply](https://brocku.wd3.myworkdayjobs.com/brocku_careers/job/St-Catharines-Main-Campus/Administrative-Assistant--Co-op--Career---Experiential-Education_JR-1025159-1) | 2026-08-07 |
@@ -2607,7 +2613,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Real Estate & Development Intern | Virginia Beach, VA, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42536) | 2026-07-31 |
 | Arcadis | Water Engineer Intern | Middletown, CT, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42939) | 2026-07-31 |
 | Ardian | Corporate Finance Intern - January 2027 I Luxembourg (M/F) | Luxembourg | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Luxembourg/Corporate-Finance-Intern---January-2027-I-Luxembourg--M-F-_JR1002199) | 2026-07-31 |
-| Ascendis Pharma | Student Assistant, Clinical Development Endocrine & Rare Disease Medical Science | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/1471ECFFE0/) | 2026-07-31 |
 | AstraZeneca | Finance Intern in FP&A Science Team - 12 months Career Starter Program | Poland Warsaw | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Poland---Warsaw/Finance-Intern-in-FP-A-Science-Team---12-months-Career-Starter-Program_R-240026) | 2026-07-31 |
 | Avery Dennison | Operations Intern - Summer 2027 | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140735309) | 2026-07-31 |
 | Avery Dennison | Procurement Intern - Summer 2027 | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140738552) | 2026-07-31 |
@@ -6317,7 +6322,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Applied Intuition | Research Intern - World-Action Foundation Model, Robotics | California, United States | [Apply](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | 2026-07-02 |
 | Ardian | Compliance Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Compliance-Intern---September-2026---London_JR1002160) | 2026-07-02 |
 | Arkansas Children's | Clinical Laboratory Science Student | Not Specified | [Apply](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/Clinical-Laboratory-Science-Student_R0023898) | 2026-07-02 |
-| Ascendis Pharma | Student Assistant, Drug Product QC & Data Management | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A52DDC2E1C/) | 2026-07-02 |
 | Astranis | PCB Layout Engineer Intern (Fall 2026) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4597409006) | 2026-07-02 |
 | Astranis | Technical Project Management Intern (Fall 2026) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4693670006) | 2026-07-02 |
 | Baker Hughes | Intern – Cost Modeling Development - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Cost-Modeling-Development-Intern-2026-Opportunities--Florence---M-F-D-_R166191) | 2026-07-02 |
