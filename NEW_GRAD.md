@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Atoms | Software Engineer - New Grad | Multiple Locations Available | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002) | 2026-08-10 |
 | Banner Health | Registered Nurse New Grad Cardiac PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-New-Grad-Cardiac-PCU_R4450824) | 2026-08-10 |
 | Banner Health | Registered Nurse New Grad Neuro Trauma PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-New-Grad-Neuro-Trauma-PCU_R4450807) | 2026-08-10 |
 | Banner Health | Registered Nurse RN New Graduate PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-RN-New-Graduate-PCU_R4450806-1) | 2026-08-10 |
@@ -14,6 +15,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Stepdown | Union Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Union-Hospital/New-Grad-RN-Resident---Stepdown_347771) | 2026-08-10 |
 | FTI Consulting | 2027 Graduate Program, Healthcare Consulting | Australia | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Brisbane-Australia/XMLNAME-2027-Graduate-Program--Healthcare-Consulting_JR260607) | 2026-08-10 |
 | MRI Software | Data Management Analyst (B.com/BBA Entry Level) US Shift | India Office | [Apply](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Gurgaon-India-Office/Data-Management-Analyst--Bcom-BBA-_R-107903) | 2026-08-10 |
+| The Nuclear Company | Traveling Apprentice / Early Career – Electrical & Mechanical | Multiple Locations (traveling Project Work) | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5174564008) | 2026-08-10 |
+| The Nuclear Company | Traveling Entry-Level Helper Pool | Multiple Locations (traveling Project Work) | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5168649008) | 2026-08-10 |
 | Winland Foods | Entry Level Packaging Team Member - 12 Hour Shift Nights | Az Tolleson | [Apply](https://winlandfoods.wd1.myworkdayjobs.com/external/job/AZ-Tolleson/Entry-Level-Packaging-Team-Member---12-Hour-Shift-Nights_R28555) | 2026-08-10 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Neuro/Stroke | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Neuro-Stroke_314118) | 2026-08-09 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Post-Op-Surgery_346414) | 2026-08-09 |
@@ -304,6 +307,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sedgwick Claims Management Services | Claims Assistant - Entry Level (ON-SITE Concord, CA) | Concord, Canada | [Apply](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Concord-CA/Claims-Assistant---Entry-Level--ON-SITE-Concord--CA-_R76326) | 2026-07-30 |
 | Sentara Health | Registered Nurse (RN) - Emergency Department (ED) - New Grads | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--RN----Emergency-Department--ED----New-Grads_JR-103918) | 2026-07-30 |
 | SharkNinja | Shop Sharks: - Social Commerce Shark (Early Career) | London, United Kingdom | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4696090006) | 2026-07-30 |
+| WPP Media | Business Analyst (Entry Level) | London, United Kingdom | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5364102008) | 2026-07-30 |
 | WSP | Early Career Electrical Engineer | Oradell, NJ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91592) | 2026-07-30 |
 | WSP | Early Career Mining Engineer | Saint Louis, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92080) | 2026-07-30 |
 | Baldwin Group | Entry Level Insurance Agent - Personal Lines | Florida, United States | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boca-Raton-Florida-US/Entry-Level-Insurance-Agent---Personal-Lines_JR109887) | 2026-07-29 |
@@ -770,8 +774,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Dublin | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Investments---Technology-Graduate-Program---Dublin_2130453) | 2026-06-17 |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) | 2026-06-17 |
 | International Flavors & Fragrances | Start your early career at IFF Mexico! | Mexico | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Punto-Polanco-Mexico/Start-your-early-career-at-IFF-Mexico-_R17332-1) | 2026-06-17 |
-| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Mobile Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-06-17 |
+| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Software Developer (Entry Level) | London | [Apply](https://www.konrad.com/careers/job/7669159003?gh_jid=7669159003) | 2026-06-17 |
 | Konrad Group | Software Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-06-17 |
 | LPL Financial Holdings - university | New Grad January 2027 - Financial Service Professional (Tempe) | Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Tempe/New-Grad-2027---Financial-Service-Professional--Tempe-_R-050484) | 2026-06-17 |
@@ -976,7 +980,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | GE Vernova | Part Sales Specialist - Early Career Trainee | Riyadh Sa 11 / Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Riyadh-SA-11/Part-Sales-Specialist---Early-Career-Trainee_R5042833-1) | 2026-06-03 |
 | Highmark Health | RN - New Grad - Peri-Operative Opportunities, Canonsburg | Canonsburg Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Canonsburg-PA-15317-100-Medical-Blvd/RN---New-Grad---Peri-Operative-Opportunities--Canonsburg_J282339) | 2026-06-03 |
 | Northeastern University | Graduate Program Coordinator | Ma (main Campus) | [Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Graduate-Program-Coordinator_R140314) | 2026-06-03 |
-| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4811702008) | 2026-06-03 |
 | The Boeing Company | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA Berkeley, MO / USA Hazelwood, MO / USA Mascoutah, IL | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865) | 2026-06-03 |
 | Accenture | New Graduate Talent Intake 2025/2026 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/New-Graduate-Talent-Intake-2025-2026_R00322620-1) | 2026-06-02 |
 | Accenture | Software Engineering New Associate (Fresh Diploma Graduate Program) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Software-Engineering-New-Associate--Fresh-Diploma-Graduate-Program-_R00144534) | 2026-06-02 |
@@ -1135,6 +1138,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
+| Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
 | Pennsylvania State University | Part-Time Graduate Program Support Position | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Graduate-Program-Support-Position_REQ_0000074260-1) | 2026-06-02 |
