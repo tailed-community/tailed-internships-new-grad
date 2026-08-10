@@ -276,6 +276,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | IQVIA | Intern | India | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Bangalore-India/Intern_R1562634) | 2026-08-10 |
 | JINGDONG | JD Young HR & Admin Internship | Nld-South Holland-Rotterdam | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/NLD-South-Holland-Rotterdam/JD-Young-HR---Admin-Internship_JR103491) | 2026-08-10 |
 | Jones Lang LaSalle (JLL) | Intern - Ecology | China | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taipei-Taiwan-China/Intern---Ecology_REQ526809) | 2026-08-10 |
+| Keysight Technologies | Manufacturing Test Engineer Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53794?lang=en-us&icims=1) | 2026-08-10 |
+| Keysight Technologies | R&D Embedded Software Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53748?lang=en-us&icims=1) | 2026-08-10 |
+| Keysight Technologies | Technical Support Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53730?lang=en-us&icims=1) | 2026-08-10 |
+| Kimley-Horn | Structural Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25068/structural-intern/job) | 2026-08-10 |
 | Loblaw Companies | Pharmacy Intern | Nepean, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/200-Grant-Carman-Dr-Nepean-ON/Pharmacy-Intern_R2000692000) | 2026-08-10 |
 | Loblaw Companies | Pharmacy Student | Whitby, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/200-Taunton-Rd-W-Whitby-ON/Pharmacy-Student_R2000691287) | 2026-08-10 |
 | Loblaw Companies | Pharmacy Student | Mississauga, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/620-Eglinton-Ave-W-Mississauga-ON/Pharmacy-Student_R2000689648) | 2026-08-10 |
@@ -509,9 +513,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Johnson & Johnson | Software Engineer Coop | Ohio, United States | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820) | 2026-08-08 |
 | Jones Lang LaSalle (JLL) | NOC Intern | Malaysia | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/NOC-Intern_REQ525018) | 2026-08-08 |
 | KCI Technologies | MEP Engineering Intern | San Antonio, TX, United States | [Apply](https://careers-kci.icims.com/jobs/7970/mep-engineering-intern/job) | 2026-08-08 |
-| Kimley-Horn | Civil Engineering Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25736/civil-engineering-intern/job) | 2026-08-08 |
-| Kimley-Horn | Electrical Engineering Intern - Renewable Energy | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25446/electrical-engineering-intern---renewable-energy/job) | 2026-08-08 |
-| Kimley-Horn | Structural Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25432/structural-intern/job) | 2026-08-08 |
 | KLA - Search | Working Student for Data Analysis (m/f/d) | Deu-Saxony-Dresden-City Center | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/DEU-Saxony-Dresden-City-Center/Working-Student--gn--for-Data-Analysis_2638365) | 2026-08-08 |
 | KLA - Search | Working Student Foundry Analytics & SW Development (m/f/d) | Deu-Saxony-Dresden-City Center | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/DEU-Saxony-Dresden-City-Center/Working-Student-Foundry-Analytics---SW-Development--m-f-d-_2638557) | 2026-08-08 |
 | Kobo | Software Quality Assurance Co-op | Toronto, Canada | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Co-op_1036325) | 2026-08-08 |
@@ -770,6 +771,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | KBR | Software Intern | Texas | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) | 2026-08-07 |
 | Kenvue | Regulatory Affairs Intern | North America, ON, Canada | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-Canada-Ontario-Markham/Regulatory-Affairs-Intern_2607047424W) | 2026-08-07 |
 | Keysight Technologies | Intern Non Tech I | Germany | [Apply](https://jobs.keysight.com/jobs/53792?lang=en-us&icims=1) | 2026-08-07 |
+| Kimley-Horn | Civil Engineering Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25729/civil-engineering-intern/job) | 2026-08-07 |
 | Kroll | Intern, Expert Services (Construction) | Colombia | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014740) | 2026-08-07 |
 | Loblaw Companies | Coffee Shop Student/Asst PT Part Time Evening | Stoney Creek, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/21-Upper-Centennial-Parkway-South-Stoney-Creek-ON/Coffee-Shop-Student-Asst-PT-Part-Time-Evening_R2000691223) | 2026-08-07 |
 | Loblaw Companies | Soup, Sandwich, Chill and Grill Student Part Time Evening | Stoney Creek, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/21-Upper-Centennial-Parkway-South-Stoney-Creek-ON/Soup--Sandwich--Chill-and-Grill-Student-Part-Time-Evening_R2000691225) | 2026-08-07 |
@@ -1087,7 +1089,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jefferson Health | Federal Work Study Student | White Corners | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/White-Corners/Federal-Work-Study-Student_REQ-0027086) | 2026-08-06 |
 | Jones Lang LaSalle (JLL) | Intern, Value and Risk Advisory | Dallas, TX | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Intern--Value-and-Risk-Advisory_REQ526649) | 2026-08-06 |
 | Jones Lang LaSalle (JLL) | Intern, Value and Risk Advisory | Charleston, SC / Charlotte, NC / Richmond, VA / Norfolk, VA / Washington, DC / Tampa, FL / Atlanta, GA | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charleston-SC/Intern--Value-and-Risk-Advisory_REQ525638) | 2026-08-06 |
-| Keysight Technologies | Technical Support Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53731?lang=en-us&icims=1) | 2026-08-06 |
 | Kimley-Horn | Drafting & Design (CAD) Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25712/drafting-%26-design-%28cad%29-intern/job) | 2026-08-06 |
 | KLA - Search | Optical Engineering R&D Student | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Optical-Engineering-R-D-Student_2639489-1) | 2026-08-06 |
 | KnowBe4 | Customer Success Intern | Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8660687002) | 2026-08-06 |
@@ -7463,7 +7464,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jonas Software - JonasSoftwareUSA | Security Operations Intern | India (jonas Collections And Recovery Inc) | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658) | 2026-06-17 |
 | JPI | Field Operations Intern – SkillBridge | Dallas Office | [Apply](https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Field-Operations-Intern---SkillBridge_JR101326) | 2026-06-17 |
 | Ketjen | Data Integration & Application Development Intern | Netherlands | [Apply](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Amsterdam-Netherlands/Data-Integration---Application-Development-Intern_REQ-30831) | 2026-06-17 |
-| Keysight Technologies | Internship (m/f/d) – Machine Learning & Vehicle Radar Technology | Germany | [Apply](https://jobs.keysight.com/jobs/53027?lang=en-us&icims=1) | 2026-06-17 |
 | Kids Alive | Overseas Intern - Guatemala | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/320750c5-f810-44ad-a5e0-8f8ec8070419) | 2026-06-17 |
 | Kids Alive | Overseas Intern - Kenya | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/dc34aecf-e393-4c5c-945a-5630fe78dad4) | 2026-06-17 |
 | Kids Alive | Overseas Intern - Peru | Remote | [Apply](https://ats.rippling.com/kids-alive-international/jobs/49d2df4f-5b8a-496e-bf21-4a653152632c) | 2026-06-17 |
