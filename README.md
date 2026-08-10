@@ -274,6 +274,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ecolab | Internship - Associate Vendor Support Specialist with French | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Internship---Associate-Vendor-Support-Specialist-with-French_R00299106) | 2026-08-10 |
 | Eko Health | Product Intern, Clinical Technology | United States Remote | [Apply](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d) | 2026-08-10 |
 | Equinix | Intern, IBX Operations | Tsuen Wan New Territories / Tseung Kwan O / Shatin / Tsuen Wan | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Tsuen-Wan-New-Territories/Intern--IBX-Operations_JR-162707) | 2026-08-10 |
+| Eridu AI | Lab Intern | Saratoga, Canada | [Apply](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | 2026-08-10 |
 | Eurofins | Intern | Bengaluru, KA | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000142623140) | 2026-08-10 |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc) | 2026-08-10 |
 | Franklin Templeton - invitation-only | CS- Intern | India | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Mumbai-Maharashtra-India/CS--Intern_868902) | 2026-08-10 |
@@ -386,6 +387,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sony | Intern, Financial Planning & Analysis | New York | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Financial-Planning---Analysis_JR-119444-1) | 2026-08-10 |
 | Stand Insurance | Fire Science Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4) | 2026-08-10 |
 | Stryker | Finance Intern | China | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R570147) | 2026-08-10 |
+| StudyFetch | Business Operations Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/283c7a03-2802-46f1-a9c7-cc09dd396c78) | 2026-08-10 |
+| StudyFetch | Engineering Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5) | 2026-08-10 |
+| StudyFetch | Marketing Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/a71d3b1a-eeff-495e-aee9-ba0a008a48d8) | 2026-08-10 |
+| StudyFetch | Product Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | 2026-08-10 |
 | Tacit | Antenna Engineering Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6) | 2026-08-10 |
 | Tacit | RF Hardware Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19) | 2026-08-10 |
 | Teledyne | Electrical Engineering Intern | US Miamisburg, OH | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563) | 2026-08-10 |
