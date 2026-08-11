@@ -346036,5 +346036,19 @@
     "date_added": "2026-06-13",
     "active": false,
     "date_archived": "2026-08-11"
+  },
+  {
+    "id": "rippling-blue-robotics-a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7",
+    "company": "Blue Robotics",
+    "title": "Electronics Design Co-op (Fall  2026)",
+    "location": "Victoria, Canada",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-11"
   }
 ]
