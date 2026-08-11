@@ -79,6 +79,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Intern | Beijing | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Beijing/Intern_R1128092) | 2026-08-11 |
 | Denver | Therapeutic Recreation Intern | Greater Denver Area | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0082180) | 2026-08-11 |
 | Duke Energy | Economic Development Summer Internship 2026-2027 | High Springs, FL | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/High-Springs-FL/Economic-Development-Summer-Internship-2026-2027_R40897) | 2026-08-11 |
+| Dun & Bradstreet | R-19689 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/7ec28332-908e-4f56-a10a-95f356dc0630) | 2026-08-11 |
+| Dun & Bradstreet | R-19691 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/f4e8ccf6-9d44-4bdf-9ed9-023c67cae440) | 2026-08-11 |
 | Elanco | Talent Acquisition Intern | My Petaling Jaya | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/MY---Petaling-Jaya/Talent-Acquisition-Intern_R0026694) | 2026-08-11 |
 | Elekta | Data Processing Intern | Shanghai | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Shanghai/Data-Processing-Intern_R2026-1236) | 2026-08-11 |
 | Entegris | EHS Intern | Singapore | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Singapore-Singapore/EHS-Intern_REQ-13669) | 2026-08-11 |
@@ -200,6 +202,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | nVent | Internship Operations Technology | Straubenhardt, DE | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Straubenhardt-DE/Internship-Operations-Technology_R22743) | 2026-08-11 |
 | Ohio State University | Lead Manager (Non OSU-Student) | Remote | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Lead-Manager--Non-OSU-Student-_R156877) | 2026-08-11 |
 | Oshkosh | Engineering Intern | Leicestershire, United Kingdom | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Leicester-Leicestershire-United-Kingdom/Engineering-Intern_R48949) | 2026-08-11 |
+| Palantir | Forward Deployed Software Engineer, Internship - Commercial | South Korea | [Apply](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | 2026-08-11 |
 | PEAK6 | Trading Bootcamp Micro-Internship - Summer 2027 | Chicago, IL | [Apply](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | 2026-08-11 |
 | PEAK6 | Trading Internship for Women+ Summer 2027 | Chicago, IL | [Apply](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | 2026-08-11 |
 | PHI Air Medical | Patient Financial Services Intern | Tempe, AZ | [Apply](https://phigroup.wd12.myworkdayjobs.com/phihealthcareers/job/Tempe-AZ/Patient-Financial-Services-Intern_REQ002217) | 2026-08-11 |
@@ -608,7 +611,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/41C3DD73F6/) | 2026-08-10 |
 | e-Careers | Recruitment Coordinator Intern | United Kingdom Remote | [Apply](https://apply.workable.com/ecareers/j/59907B9CD1/) | 2026-08-10 |
 | Ecolab | Internship - Associate Vendor Support Specialist with French | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Internship---Associate-Vendor-Support-Specialist-with-French_R00299106) | 2026-08-10 |
-| Eko Health | Product Intern, Clinical Technology | United States Remote | [Apply](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d) | 2026-08-10 |
 | Equinix | Intern, IBX Operations | Tsuen Wan New Territories / Tseung Kwan O / Shatin / Tsuen Wan | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Tsuen-Wan-New-Territories/Intern--IBX-Operations_JR-162707) | 2026-08-10 |
 | Eridu AI | Lab Intern | Saratoga, Canada | [Apply](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | 2026-08-10 |
 | Eurofins | Intern | Bengaluru, KA | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000142623140) | 2026-08-10 |
@@ -1269,7 +1271,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Structural Engineering Co-Op - Fall 2027 | North Providence, RI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92614) | 2026-08-07 |
 | XPENG Motors | 2027 Campus Recruiting General Intelligence Center Internship Position | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8680036002) | 2026-08-07 |
 | XPENG Motors | 2027 Campus Recruiting Robotics Center Internship Position | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8681156002) | 2026-08-07 |
-| Xsolla | Engineering Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/b6943fc4-29c7-4829-a2db-b53915dd693b) | 2026-08-07 |
 | Zeiss | Working Student Internal Communications (f/m/x) | München | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Working-Student-Internal-Communications--f-m-x-_JR_1052053) | 2026-08-07 |
 | ABB | Internship / Master Thesis Student (m/f/d) AI for Network Security and Orchestration | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/Internship---Master-Thesis-Student--m-f-d--AI-for-Network-Security-and-Orchestration_JR00043254) | 2026-08-06 |
 | ABB | MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1) | 2026-08-06 |
@@ -4407,7 +4408,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Delta Dental | Internship- Utilization Management and Special Investigation Unit | Okemos, MI | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Utilization-Management-and-Special-Investigation-Unit_JR101381-1) | 2026-07-22 |
 | EQ Bank | Indigenous Intern, Mortgage Services | Toronto | [Apply](https://jobs.lever.co/eqbank/46ada713-bbab-496d-8938-5a92a2762121) | 2026-07-22 |
 | EQ Bank | Indigenous Intern, Securitization & Indigenous Initiatives | Regina | [Apply](https://jobs.lever.co/eqbank/54ba8739-90d0-4984-8899-5e0e8ff87bf5) | 2026-07-22 |
-| EQ Bank | Intern, CloudOps | Toronto | [Apply](https://jobs.lever.co/eqbank/4bd9e62c-3f44-430e-b201-874e86e35db0) | 2026-07-22 |
 | Essity | Finance Intern | Mexico | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Fe-Ciudad-de-Mxico--Mexico/Finance-Intern_Essity263448) | 2026-07-22 |
 | Expedia Group | Software Development Engineering Intern - May/June 2027 - Gurgaon | India Gurgaon | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/India---Gurgaon/Software-Development-Engineering-Intern---May-June-2027---Gurgaon_R-108098) | 2026-07-22 |
 | Ferrovial | Global Accounting Internship | Madrid | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Madrid/Global-Accounting-Internship_JR18374) | 2026-07-22 |
@@ -5808,7 +5808,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | World Surf League | Intern, Revenue Operations, Ad Ops, & Partnerships (Summer 2026) | Playa Del Rey-Hq | [Apply](https://boards.greenhouse.io/worldsurfleague/jobs/8629101002?gh_jid=8629101002) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 2026-07-11 |
-| Xsolla | AI-First Engineering Intern | China | [Apply](https://jobs.lever.co/xsolla/252b30e5-ce58-4a32-88b3-07ee83d06e67) | 2026-07-11 |
+| Xsolla | AI-First Engineering Intern | China / Shanghai | [Apply](https://jobs.lever.co/xsolla/252b30e5-ce58-4a32-88b3-07ee83d06e67) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Germany | [Apply](https://jobs.lever.co/xsolla/26e49689-5da7-4d23-8079-d7bb763a5be1) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Serbia | [Apply](https://jobs.lever.co/xsolla/553aea16-c106-462a-97f6-e0289ccd9288) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Raleigh, United States | [Apply](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 2026-07-11 |
@@ -10935,7 +10935,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Waabi | Research Internship/Co-op | Toronto, ON / San Francisco, Canada / United States Remote | [Apply](https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb) | 2026-06-02 |
 | Wash U | Personal Trainer (Part-Time) - Student Affairs | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Personal-Trainer--Part-Time----Student-Affairs_JR94766) | 2026-06-02 |
 | Waterfall | Intern | Remote | [Apply](https://jobs.lever.co/waterfall/0670f801-bf35-410e-8310-0f7aa3fa9650) | 2026-06-02 |
-| WeRide | 2026 Summer Intern - PhD | San Jose, Canada | [Apply](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d) | 2026-06-02 |
 | WeRide | International PR and Marketing Intern | One-North | [Apply](https://jobs.lever.co/weride/3fb55fce-d52a-438d-a8cb-177753df5ad9) | 2026-06-02 |
 | Westlake | 2026 Intern - Electrical Engineer | US Houston, TX | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Electrical-Engineer_R30242) | 2026-06-02 |
 | Westlake | 2026 Intern - Mechanical Engineer | US Houston, TX | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240) | 2026-06-02 |
