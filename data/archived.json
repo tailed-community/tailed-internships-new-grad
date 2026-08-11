@@ -335342,20 +335342,6 @@
     "date_archived": "2026-08-08"
   },
   {
-    "id": "workable-altom-transport-5848393",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workable",
-    "url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/",
-    "date_posted": "2026-05-28",
-    "date_added": "2026-06-29",
-    "active": false,
-    "date_archived": "2026-08-08"
-  },
-  {
     "id": "workday-abb-job-paterna-valencia-spain-internship-engineering-maintenance-environment-jr00041954",
     "company": "ABB",
     "title": "Internship: Engineering / Maintenance / Environment",
@@ -346048,6 +346034,34 @@
     "url": "https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7",
     "date_posted": null,
     "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-11"
+  },
+  {
+    "id": "workable-altom-transport-5860341",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "type": "internship",
+    "season": "Fall",
+    "source": "workable",
+    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
+    "date_posted": "2026-06-03",
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-08-11"
+  },
+  {
+    "id": "workable-ascendis-pharma-5939203",
+    "company": "Ascendis Pharma",
+    "title": "Student Assistant - Competitive Intelligence",
+    "location": "Hellerup, Capital Region of Denmark, Denmark",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/ascendis-pharma/j/B94628CB09/",
+    "date_posted": "2026-07-06",
+    "date_added": "2026-07-06",
     "active": false,
     "date_archived": "2026-08-11"
   }

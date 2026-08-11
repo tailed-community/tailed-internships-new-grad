@@ -6366,7 +6366,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Air Liquide | Stage - Fiscaliste H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Fiscaliste-H-F_R10091786) | 2026-07-06 |
 | Air Liquide | STAGE ASSISTANT COMMERCIAL F/H | Saint Priest Management Alfi El | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Saint-Priest---Management---ALFI-EL/STAGE-ASSISTANT-COMMERCIAL-F-H_R10095414-1) | 2026-07-06 |
 | American Tower | Facilities Internship | São Paulo, SP | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2762) | 2026-07-06 |
-| Ascendis Pharma | Student Assistant - Competitive Intelligence | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/B94628CB09/) | 2026-07-06 |
 | ASML | HR Internship | China | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Beijing-China/HR-Internship_J-00347055) | 2026-07-06 |
 | Biogen | Accounts Payable Internship, US CANADA (12 months) | Poland | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/Accounts-Payable-Internship--US-CANADA--12-months-_REQ23697) | 2026-07-06 |
 | Centric Brands | Intern, Graphic Design (Handbags) | Ph-Manila | [Apply](https://careers-centricbrands.icims.com/jobs/23379/intern%2c-graphic-design-%28handbags%29/job) | 2026-07-06 |
@@ -6939,6 +6938,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Virginia | Concierge Desk and Event Assistant - School of Engineering (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Concierge-Desk-and-Event-Assistant---School-of-Engineering--Student-Wage-_R0084775) | 2026-06-30 |
 | Valeo | Hardware Engineer Internship | Martos | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Martos/Hardware-Engineer-Internship_REQ2026073741) | 2026-06-30 |
 | Air Liquide | Stage - Siège social  - Real Estate project and data manager H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-project-and-data-manager-H-F_R10095113) | 2026-06-29 |
+| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | 2026-06-29 |
 | Arcadis | Internship - Modellering technische vispassages | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41337) | 2026-06-29 |
 | Baker Hughes | Intern – Engineering – Vibo, Italy – 2026 (M/F/D) | It-Vv-Vibo Valentia-Via Le Marinate | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Emerging-Talent---Engineering-Intern-2026-Opportunities--Vibo-_R158420) | 2026-06-29 |
 | Baxter International | Finance Intern | Kuala Lumpur | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Kuala-Lumpur/Finance-Intern_JR-204931) | 2026-06-29 |
@@ -8159,7 +8159,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Supply Chain & Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) | 2026-06-15 |
-| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) | 2026-06-15 |
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
 | Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
