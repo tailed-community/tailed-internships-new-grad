@@ -307,6 +307,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Schweitzer Engineering Laboratories | Test Engineering Intern | Washington Pullman | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Test-Engineering-Intern_2026-22409) | 2026-08-12 |
 | Sensata | Customer Claim Intern | Bulgaria | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Sofia-Bulgaria/Customer-Claim-Intern_IRC98223) | 2026-08-12 |
 | Sensata | Global Trade Compliance Mexico Intern | Mexico | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Tijuana-Mexico/Global-Trade-Compliance-Mexico-Intern_IRC98061) | 2026-08-12 |
+| Sentry | Software Engineer, Intern (Summer 2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1) | 2026-08-12 |
 | Sony Pictures Entertainment | Social Marketing Intern - Fall 2026 | California | [Apply](https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Social-Marketing-Intern---Fall-2026_JR114001) | 2026-08-12 |
 | Southern New Hampshire University | Student - Basic Needs Associate (Work Study Only) | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Basic-Needs-Associate--Work-Study-Only-_R0014645) | 2026-08-12 |
 | Southern New Hampshire University | Student - Penmen Guide | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Penmen-Guide_R0014643) | 2026-08-12 |
@@ -3962,8 +3963,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Excel Sports Management | Fall 2026 Intern, Speakers | New York, United States | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4717104005) | 2026-07-27 |
 | Exploration Technology Corp. | Engineering Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Fab2 | Automation Software Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c) | 2026-07-27 |
-| Fab2 | Electrical Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/ea384667-0913-49cc-8982-ebf0fe2620c6) | 2026-07-27 |
-| Fab2 | Electrical Engineering Intern, High Frequency Power Electronics - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/41123ae5-2489-4ac7-a4ed-c0c75faf5927) | 2026-07-27 |
 | Fab2 | Fab Software Engineering Intern - Fall | California, United States | [Apply](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5) | 2026-07-27 |
 | Fab2 | Infrastructure Software Engineering Intern - Fall | California, United States / Austin | [Apply](https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e) | 2026-07-27 |
 | Fab2 | Mechanical Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/48923113-b51e-4c3a-ade9-47ac08313447) | 2026-07-27 |
@@ -4009,7 +4008,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lonza | Internship IBEX MSAT 80-100% (m/f/d) | Ch Visp | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Internship-IBEX-MSAT-80-100---m-f-d-_R76767) | 2026-07-27 |
 | Marsh | Oliver Wyman - Talent Acquisition Intern - Gurugram | Gurugram Horizon | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Horizon/Oliver-Wyman---Talent-Acquisition-Intern---Gurugram_R_359760-1) | 2026-07-27 |
 | Micron Technology | Intern - AI‑Driven Process Development Deposition & Ion implantation | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---AI-Driven-Process-Development-Deposition---Ion-implantation_JR100559) | 2026-07-27 |
-| Mistral AI | AI Data Solutions Intern – Data Partnerships | California, United States | [Apply](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd) | 2026-07-27 |
 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Ile-De-France, France | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | 2026-07-27 |
 | Mistral AI | Applied Scientist / Research Engineer (Internship) | Ile-De-France, France / London | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | 2026-07-27 |
 | Mobius Renewables | Software Engineer - Intern | Houston, TX | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | 2026-07-27 |
@@ -6579,7 +6577,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Centric Brands | On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC) | Greensboro, NC, United States | [Apply](https://careers-centricbrands.icims.com/jobs/23357/on-site-fall-2026-internship---it%2c-business-analyst-%28greensboro%2c-nc%29/job) | 2026-07-03 |
 | Cloudflare | Professional Services Intern – Global Customer Services (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 2026-07-03 |
 | ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/C0CA13664F/) | 2026-07-03 |
-| Contoro | Robotics Intern, Deployment | Texas, United States | [Apply](https://jobs.ashbyhq.com/contoro/861ba383-ca6b-4eba-b087-ee7d4cd0fe89) | 2026-07-03 |
 | Criteo | Customer Care Intern | Gurgaon | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Customer-Care-Intern_r20805) | 2026-07-03 |
 | Ecolab | Intern in Finance | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Intern-in-Finance_R00299129) | 2026-07-03 |
 | GE Healthcare | Stage Chef de Projet Junior (H/F) | Buc | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Stage-Chef-de-Projet-Junior--H-F-_R4043245-1) | 2026-07-03 |
@@ -6679,7 +6676,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Baker Hughes | Intern – Cost Modeling Development - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Cost-Modeling-Development-Intern-2026-Opportunities--Florence---M-F-D-_R166191) | 2026-07-02 |
 | Baker Hughes | Intern – Materials Characterization & Test Protocol Development (Anion Exchange Membrane - AEM) - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Emerging-Talent---Materials-Characterization---Test-Protocol-Development--Anion-Exchange-Membrane---AEM--Intern-2026-Opportunities--Florence---M-F-D-_R166189) | 2026-07-02 |
 | Belmond | F&B Service Internship | Spain | [Apply](https://apply.workable.com/belmond-uk-ltd/j/BEB13585AC/) | 2026-07-02 |
-| Binance | IT Support Intern | US, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/binance.us/6eed58b2-6889-45ee-8e5e-67bdd93efadf) | 2026-07-02 |
 | Binance | Software Engineering Intern | US, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895) | 2026-07-02 |
 | Bird Construction | Student Project Coordinator | Regina, SK | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Regina-SK/Student-Project-Coordinator_JR-9089) | 2026-07-02 |
 | Blackstone | 2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London) | Berkeley Square House London | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842) | 2026-07-02 |
@@ -8994,14 +8990,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Astera | Software Engineering Intern – Distributed Simulation Systems | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | 2026-06-08 |
 | Astera Labs | Design Verification Engineer (Intern 2026) | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | 2026-06-08 |
 | Auctor | Software Engineering Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607) | 2026-06-08 |
-| Auctor | Visual Design Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/auctor/4f3db71d-d7ed-4b4f-846a-6e0962ce2661) | 2026-06-08 |
 | Base Power | Firmware Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) | 2026-06-08 |
 | Base Power | Hardware Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770) | 2026-06-08 |
 | Base Power | Hardware Sourcing Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/7ba325d9-4256-4567-83a4-8dd9c72a0d10) | 2026-06-08 |
 | Base Power | Manufacturing Controls Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/6c56e236-888e-423d-9f68-764bd9a4742d) | 2026-06-08 |
 | Base Power | Manufacturing Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b) | 2026-06-08 |
 | Base Power | Member Experience Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/bef96e47-d08d-4717-a2be-28975b367a89) | 2026-06-08 |
-| Base Power | Quantitative Developer Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) | 2026-06-08 |
 | Base Power | Software Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) | 2026-06-08 |
 | Blockhouse | Rust Developer Intern (Summer 2026) | New York, United States | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) | 2026-06-08 |
 | BorgWarner | Manufacturing Operations Professional Internship (m/f/d) | Viana Do Castelo I Portugal | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Manufacturing-Operations-Professional-Internship--m-f-d-_R2026-1081) | 2026-06-08 |
@@ -9075,7 +9069,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Roche | HR Intern - Early in Career Intern (APAC) | Petaling Jaya | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/HR-Intern---Early-in-Career-Intern--APAC-_202606-113836) | 2026-06-08 |
 | Rocket Lab USA | Senior Stage Fluids Engineer I | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7680875003) | 2026-06-08 |
 | RTX | Internship - Fall 2026 - Structural Analyst | CA-ON-Mississauga-P22m01 ~ 1801 Courtney Park Dr ~ P22m01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Structural-Analyst_01832031-1) | 2026-06-08 |
-| Scientech Research | Business Development Analyst Intern | New Jersey, United States | [Apply](https://jobs.ashbyhq.com/scientech-research/b414a9a6-30a6-40aa-bf67-c8e7fedc9598) | 2026-06-08 |
 | Scientech Research | Quantitative Developer Intern | New Jersey, United States | [Apply](https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c) | 2026-06-08 |
 | Scientech Research | Quantitative Developer Intern | China | [Apply](https://jobs.ashbyhq.com/scientech-research/5f8ecd5a-6970-4cb8-a9f9-031d68a0f446) | 2026-06-08 |
 | Scientech Research | Quantitative Researcher Intern | New Jersey, United States | [Apply](https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80) | 2026-06-08 |
