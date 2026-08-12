@@ -37,6 +37,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LabCorp | Clinical Lab Technician - Esoterix - Entry Level, Will Train! | Calabasas Hills CA | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Calabasas-Hills-CA/Clinical-Lab-Technician---Esoterix---Entry-Level--Will-Train-_2623081) | 2026-08-12 |
 | LabCorp | Entry Level Specimen Accessioner | Phoenix Az | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/Entry-Level-Specimen-Accessioner_2628600) | 2026-08-12 |
 | Oshkosh | Motorsports Performance Engineer - Entry Level | Michigan, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Motorsports-Performance-Engineer---Entry-Level_R49155) | 2026-08-12 |
+| Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623) | 2026-08-12 |
 | Solar Turbines | 2026 Materials and Process Engineering, Entry Level Rotation Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Materials-and-Process-Engineering--Entry-Level-Rotation-Engineer_R0000382200) | 2026-08-12 |
 | State Street | Software Engineer, CRD- New Graduate | Burlington Massachusetts | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) | 2026-08-12 |
 | The Boeing Company - external_subsidiary | Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921) | 2026-08-12 |
@@ -448,7 +449,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Renault Group | Graduate Program Management & Industrie 4.0 (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Le-Mans/Graduate-Program-Management---Industrie-40--H-F-_JOBREQ_50273556) | 2026-07-24 |
 | SpaceX | Starlink Production Technician - Entry Level | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8647897002?gh_jid=8647897002) | 2026-07-24 |
 | TDS | Entry Level Sales Representative | Helena, MT, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29675/entry-level-sales-representative/job) | 2026-07-24 |
-| Tenon | Entry-Level Technical Consultant | Indianapolis, IN | [Apply](https://job-boards.greenhouse.io/tenon/jobs/8067766) | 2026-07-24 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist (Pit Crew) - DM5 | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016668) | 2026-07-24 |
 | WSP | Early Career Substation Electrical Engineer | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91728) | 2026-07-24 |
 | Applied Materials | Global Installation Engineer-Semi-Shanghai/Beijing/Wuxi/Chengdu-New Graduate | Chn | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Global-Installation-Engineer-Semi-Shanghai-Beijing-Wuxi-Chengdu-New-Graduate_R2624660) | 2026-07-23 |
@@ -495,7 +495,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | City of Aurora | 2027-1B Entry Level Patrol Officer (Group B) | Not Specified | [Apply](https://auroragov.wd1.myworkdayjobs.com/careers/job/CAPSTC-Training-Center/XMLNAME-2027-1B-Entry-Level-Patrol-Officer--Group-B-_JR109051) | 2026-07-20 |
 | NXP Semiconductors | <New Graduate Hiring> Equipment Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Equipment-Engineer_R-10064797) | 2026-07-20 |
 | NXP Semiconductors | <New Graduate Hiring> Safe Launch Process Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Safe-Launch-Process-Engineer_R-10064390) | 2026-07-20 |
-| Anduril | 2026 Early Career Electrical Engineer, Battlespace Awareness Radar Team | Colorado, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4747967007?gh_jid=4747967007) | 2026-07-18 |
 | Cleveland Clinic | New Grad RN Resident – Cardiology Stepdown Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiology-Stepdown-Unit-_347389) | 2026-07-18 |
 | Critical Mass | Project Coordinator (Entry Level - Creative) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8004061) | 2026-07-18 |
 | Deluxe | Machine Maintenance Technician - Entry Level - 1st Shift | Des Plaines, IL, United States | [Apply](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Des-Plaines-IL-USA/Machine-Maintenance-Technician---Entry-Level---1st-Shift_260936WD) | 2026-07-18 |
@@ -736,7 +735,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | Buyer (Entry Level) | Fitchburg, MA, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000133670294) | 2026-06-24 |
 | Dandy | Entry-Level Crown & Bridge Technician - Night Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/ee8fe9a4-18fc-41b0-8566-543c9b667659) | 2026-06-24 |
 | Dandy | Entry-Level Crown & Bridge Technician - Swing Shift | Utah, United States | [Apply](https://jobs.ashbyhq.com/dandy/a8e5116e-5454-4f1e-87c9-6b6d7f911811) | 2026-06-24 |
-| Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 2026-06-24 |
 | Texas Instruments | Field Applications Program (New Graduate) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25004315) | 2026-06-24 |
 | AeroVironment | Entry-Level Software Engineer | Dayton, OH | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) | 2026-06-23 |
 | Moog | 2nd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-2nd-Shift-Entry-Level-Machinist_R-26-18520) | 2026-06-23 |
@@ -801,8 +799,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Dublin | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Investments---Technology-Graduate-Program---Dublin_2130453) | 2026-06-17 |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) | 2026-06-17 |
 | International Flavors & Fragrances | Start your early career at IFF Mexico! | Mexico | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Punto-Polanco-Mexico/Start-your-early-career-at-IFF-Mexico-_R17332-1) | 2026-06-17 |
-| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Mobile Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-06-17 |
+| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Software Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-06-17 |
 | Konrad Group | Software Developer (Entry Level) | London | [Apply](https://www.konrad.com/careers/job/7669159003?gh_jid=7669159003) | 2026-06-17 |
 | LPL Financial Holdings - university | New Grad January 2027 - Financial Service Professional (Tempe) | Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Tempe/New-Grad-2027---Financial-Service-Professional--Tempe-_R-050484) | 2026-06-17 |
@@ -1150,11 +1148,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Occidental Petroleum Corporation (Oxy) | R&D/Technology Engineer - New Grad | California | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Brawley-California/Technology-Engineer---New-Grad_JR100734) | 2026-06-02 |
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA / Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5062534008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
 | Pennsylvania State University | Part-Time Graduate Program Support Position | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Graduate-Program-Support-Position_REQ_0000074260-1) | 2026-06-02 |
