@@ -350180,5 +350180,61 @@
     "date_added": "2026-08-04",
     "active": false,
     "date_archived": "2026-08-12"
+  },
+  {
+    "id": "lever-behaviour-interactive-d9311227-582b-47e9-96d8-ac0016e21e72",
+    "company": "Behaviour Interactive",
+    "title": "Learning & Development Advisor - Internship Fall 2026  Conseiller·ère en Apprentissage & Développement",
+    "location": "Montreal, QC",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/bhvr/d9311227-582b-47e9-96d8-ac0016e21e72",
+    "date_posted": "2026-06-30",
+    "date_added": "2026-07-01",
+    "active": false,
+    "date_archived": "2026-08-12"
+  },
+  {
+    "id": "lever-fehr-peers-174fccc7-c96e-4633-9206-e3126263ef2d",
+    "company": "Fehr & Peers",
+    "title": "Entry-level Transportation Engineer/Planner (Summer 2026)",
+    "location": "California",
+    "type": "new_grad",
+    "season": "Summer 2026",
+    "source": "lever",
+    "url": "https://jobs.lever.co/fehrandpeers/174fccc7-c96e-4633-9206-e3126263ef2d",
+    "date_posted": "2026-05-08",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-12"
+  },
+  {
+    "id": "lever-octopus-energy-a7bc2a55-010e-4e1e-afb2-2cb16f04e3b6",
+    "company": "Octopus Energy",
+    "title": "Investment Analyst Intern",
+    "location": "Singapore (sg)",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/octoenergy/a7bc2a55-010e-4e1e-afb2-2cb16f04e3b6",
+    "date_posted": "2026-07-24",
+    "date_added": "2026-07-25",
+    "active": false,
+    "date_archived": "2026-08-12"
+  },
+  {
+    "id": "lever-penumbra-inc-7dc660d2-d67d-407b-ace1-e9861c4c2be9",
+    "company": "Penumbra Inc",
+    "title": "Vascular Product Marketing Intern - Temporary role (Part-time)",
+    "location": "Alameda, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/penumbrainc/7dc660d2-d67d-407b-ace1-e9861c4c2be9",
+    "date_posted": "2026-08-07",
+    "date_added": "2026-08-07",
+    "active": false,
+    "date_archived": "2026-08-12"
   }
 ]
