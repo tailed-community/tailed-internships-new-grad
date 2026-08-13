@@ -357096,5 +357096,47 @@
     "date_added": "2026-08-10",
     "active": false,
     "date_archived": "2026-08-13"
+  },
+  {
+    "id": "workable-ascendis-pharma-5956563",
+    "company": "Ascendis Pharma",
+    "title": "Student Assistant, Complaint Management department",
+    "location": "Hellerup, Capital Region of Denmark, Denmark",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/ascendis-pharma/j/20CB1B5DD2/",
+    "date_posted": "2026-07-14",
+    "date_added": "2026-07-14",
+    "active": false,
+    "date_archived": "2026-08-13"
+  },
+  {
+    "id": "workable-ascendis-pharma-6017611",
+    "company": "Ascendis Pharma",
+    "title": "Student Assistant - Data Engineering, BI & Reporting (Global IT)",
+    "location": "Hellerup, Capital Region of Denmark, Denmark",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/ascendis-pharma/j/DFF85C099A/",
+    "date_posted": "2026-08-07",
+    "date_added": "2026-08-07",
+    "active": false,
+    "date_archived": "2026-08-13"
+  },
+  {
+    "id": "workable-connectprep-5934889",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Remote, Washington, District of Columbia, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
+    "date_posted": "2026-07-02",
+    "date_added": "2026-07-03",
+    "active": false,
+    "date_archived": "2026-08-13"
   }
 ]

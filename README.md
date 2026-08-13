@@ -56,6 +56,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chase | 2027  - Global Corporate Banking - Large-Cap- Analyst Program - Off-Cycle Internship  - Tel Aviv | Israel | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210779495) | 2026-08-13 |
 | Cincinnati Children’s Hospital and Medical Center | Student II - Neurology Dr. Gross Lab | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Student-II---Neurology-Dr-Gross-Lab_JR224293) | 2026-08-13 |
 | Citi | Banking - Corporate Banking Internship, Lima - Perú, 2026 | Lima Lima Peru | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Lima-Lima-Peru/Banking---Corporate-Banking-Internship--Lima---Per--2026_26983849) | 2026-08-13 |
+| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/D1C67258C0/) | 2026-08-13 |
 | Continental | Intern - Purchasing, Year-Round | Fort Mill, SC, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000143117139) | 2026-08-13 |
 | Continental | Internship Student (Supply Chain APAC) - นักศึกษาฝึกงาน | Thailand | [Apply](https://jobs.smartrecruiters.com/Continental/744000143203767) | 2026-08-13 |
 | Corewell Health | Student Radiologic Technologist | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Niles-MI/Student-Radiologic-Technologist_R221083) | 2026-08-13 |
@@ -1751,7 +1752,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | WCL Operations Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Tenley-Campus-Washington-DC/WCL-Operations-Assistant--Student-_R4578) | 2026-08-07 |
 | Applied Materials | Chemist  (Co-Op - Santa Clara) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2625243) | 2026-08-07 |
 | Arizona State University | Student Services Coordinator Associate | Tempe | [Apply](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Student-Services-Coordinator-Associate_JR125045) | 2026-08-07 |
-| Ascendis Pharma | Student Assistant - Data Engineering, BI & Reporting (Global IT) | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/DFF85C099A/) | 2026-08-07 |
 | Baker Tilly | State & Local Tax Intern – 2027 (Gonzaga Law) | USA Wa Seattle 999 Third Ave | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-WA-Seattle-999-Third-Ave/State---Local-Tax-Intern---2027--Gonzaga-Law-_JR107395) | 2026-08-07 |
 | BPM LLP | Real Estate Appraisal Intern | San Diego, Canada | [Apply](https://jobs.lever.co/bpmcpa/3f7e076e-a3a6-4474-9e11-e700063b5eea) | 2026-08-07 |
 | Brock University | Administrative Assistant, Co-op, Career & Experiential Education | Main Campus | [Apply](https://brocku.wd3.myworkdayjobs.com/brocku_careers/job/St-Catharines-Main-Campus/Administrative-Assistant--Co-op--Career---Experiential-Education_JR-1025159-1) | 2026-08-07 |
@@ -5695,7 +5695,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Tower | Legal Intern | São Paulo, SP | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2772) | 2026-07-14 |
 | Arcadis | Water Engineer Co-op/Intern | Columbus, OH, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42083) | 2026-07-14 |
 | Arizona State University - ASUEP | Student Assistant - Data Science | Asu Enterprise Partners | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1449) | 2026-07-14 |
-| Ascendis Pharma | Student Assistant, Complaint Management department | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/20CB1B5DD2/) | 2026-07-14 |
 | ASML | Innovation Management \| Physical Security internship: security innovation funnel design | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Innovation-Management---Physical-Security-internship--security-innovation-funnel-design_J-00341203) | 2026-07-14 |
 | Avnet | (INTERN) Engineering Content Development | Mexico | [Apply](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/XMLNAME--INTERN--Engineering-Content-Development_JR-023603) | 2026-07-14 |
 | Avnet | Analytics Intern | Mexico | [Apply](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Analytics-Intern_JR-023564-1) | 2026-07-14 |
@@ -6721,7 +6720,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Centric Brands | On-site Fall 2026 Internship - Inventory & Returns (Greensboro, NC) | Greensboro, NC, United States | [Apply](https://careers-centricbrands.icims.com/jobs/23358/on-site-fall-2026-internship---inventory-%26-returns-%28greensboro%2c-nc%29/job) | 2026-07-03 |
 | Centric Brands | On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC) | Greensboro, NC, United States | [Apply](https://careers-centricbrands.icims.com/jobs/23357/on-site-fall-2026-internship---it%2c-business-analyst-%28greensboro%2c-nc%29/job) | 2026-07-03 |
 | Cloudflare | Professional Services Intern – Global Customer Services (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 2026-07-03 |
-| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/C0CA13664F/) | 2026-07-03 |
 | Criteo | Customer Care Intern | Gurgaon | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Gurgaon/Customer-Care-Intern_r20805) | 2026-07-03 |
 | Ecolab | Intern in Finance | Pol Malopolskie Kraków | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/POL---Malopolskie---Krakw/Intern-in-Finance_R00299129) | 2026-07-03 |
 | GE Healthcare | Stage Chef de Projet Junior (H/F) | Buc | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Stage-Chef-de-Projet-Junior--H-F-_R4043245-1) | 2026-07-03 |
