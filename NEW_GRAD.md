@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Environmental Engineer | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143093071) | 2026-08-13 |
+| AECOM | Entry Level Environmental Engineer | Fort Collins, CO, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143094409) | 2026-08-13 |
 | Amentum | Entry-Level Mechanical Engineer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Entry-Level-Mechanical-Engineer_R0168181) | 2026-08-13 |
 | AutoNation | Automotive Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Automotive-Entry-Level-Technician_JR2026147225) | 2026-08-13 |
 | AutoNation | Entry Level Technician | Autonation Ford Bradenton | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Bradenton/Automotive-Master-Technician_JR2026140713) | 2026-08-13 |
@@ -19,6 +21,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | RN New Grad Resident - Pediatric Epilepsy - Neuro Expansion | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Resident-I---Neuro-Expansion_326056) | 2026-08-13 |
 | Constellation Brands | Entry Level Harvest Cellar Worker - Lingua Franca Winery | Oregon | [Apply](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Salem-Oregon/Entry-Level-Harvest-Cellar-Worker---Lingua-Franca-Winery_R-39517) | 2026-08-13 |
 | ERM | 未経験者歓迎　コンストラクションセーフティコンサルタント・Construction safety (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant-Construction-safety--Entry-Level-_R00031579-2) | 2026-08-13 |
+| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143178519) | 2026-08-13 |
+| Eurofins | Entry Level Chemist (2nd Shift) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143179307) | 2026-08-13 |
+| Eurofins | Entry Level Manufacturing Technician - 1st Shift | Nashville, TN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143125978) | 2026-08-13 |
 | Fresenius Medical Care | New Grad Nurse- RN | Wyoming, MI / Lansing, MI, United States / Wyoming, MI, United States / Kalamazoo, MI, United States / East Lansing, MI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wyoming-MI/New-Grad-Nurse--RN_R0262022-1) | 2026-08-13 |
 | Fresenius Medical Care | New Graduate Nurse | Norfolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norfolk-VA/New-Graduate-Nurse_R0265781) | 2026-08-13 |
 | Fresenius Medical Care | New Graduate Nurse | Suffolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Suffolk-VA/New-Graduate-Nurse_R0265788) | 2026-08-13 |
@@ -38,6 +43,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sargent & Lundy | Mechanical Engineer 1 (Entry-Level) - Nuclear (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/25823/mechanical-engineer-1-%28entry-level%29---nuclear-%28summer-2027%29/job) | 2026-08-13 |
 | Sargent & Lundy | Transmission Line Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26038/transmission-line-engineer-1-%28entry-level%29---grid/job) | 2026-08-13 |
 | Sentry Insurance | Claims Representative Entry Level | Stevens Point, WI | [Apply](https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Claims-Representative-Entry-Level_JR-142569) | 2026-08-13 |
+| Société Générale de Surveillance (SGS) | Digital Forensic First Responder (Entry-Level) | Centurion, GP | [Apply](https://jobs.smartrecruiters.com/SGS/744000143235069) | 2026-08-13 |
+| Société Générale de Surveillance (SGS) | Evidence Custodian / Data Handler (Entry-Level) | Centurion, GP | [Apply](https://jobs.smartrecruiters.com/SGS/744000143234194) | 2026-08-13 |
 | SpaceX | Machining Technician (Starlink) - Entry Level | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8700616002?gh_jid=8700616002) | 2026-08-13 |
 | Thermo Fisher Scientific | Entry Level QC Reviewer - Vaccines | United States Remote | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Virginia-USA/Entry-Level-QC-Reviewer---Vaccines_R-01361553) | 2026-08-13 |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Civil/ Site Engineer | Virginia Beach, VA, United States / Richmond, VA, United States / Williamsburg, VA, United States | [Apply](https://careers-vhb.icims.com/jobs/6223/entry-level-civil--site-engineer/job) | 2026-08-13 |
@@ -198,7 +205,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BMO (External) | Retail Relationship Banker (New Grad) | Milwaukee, WI, United States / Waukesha, WI, United States / Oconomowoc, WI, United States / Menomonee Falls, WI, United States / Hartland, WI, United States / West Bend, WI, United States / Delafield, WI, United States / Brookfield, WI, United States | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Milwaukee-WI-USA/Retail-Relationship-Banker--New-Grad-_R260023155) | 2026-08-07 |
 | Cleveland Clinic | New Grad RN Resident – Colorectal Surgery | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Colorectal-Surgery_344322-1) | 2026-08-07 |
 | CMC Markets | Graduate Program - Technology Development stream | Sydney | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Sydney/Graduate-Program---Technology-Development-stream_CMC4382) | 2026-08-07 |
-| Eurofins | Entry Level Chemist (2nd Shift) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000142001054) | 2026-08-07 |
 | Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000141942898) | 2026-08-07 |
 | GE Vernova | Power System Engineering - Early Career Traineeship | Riyadh Sa 11 / Jeddah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Riyadh-SA-11/Power-System-Engineering---Early-Career-Traineeship_R5041110) | 2026-08-07 |
 | GE Vernova | Sourcing- Early Career Trainee | Cairo | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cairo/Sourcing--Early-Career-Trainee_R5047937-1) | 2026-08-07 |
@@ -261,7 +267,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ERM | Consulting Associate (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate--Entry-Level-_R00031467) | 2026-08-05 |
 | Eurofins | Associate Scientist l (DNA) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141597300) | 2026-08-05 |
 | Eurofins | Associate Scientist l (SST) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141596969) | 2026-08-05 |
-| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141577730) | 2026-08-05 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72366/systems-engineer-%e2%80%93-entry-level/job) | 2026-08-05 |
 | MaineGeneral Health | 2 West - MedSurg Registered Nurse (RN) - 30 hours/week *NEW GRADUATES WELCOME!* | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---MedSurg-Registered-Nurse--RN----30-hours-week--NEW-GRADUATES-WELCOME--_R17035) | 2026-08-05 |
 | Marmon Holdings | Entry Level Machine Operator | Boyne City, MI | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Boyne-City-MI/Entry-Level-Machine-Operator_JR0000026269) | 2026-08-05 |
@@ -385,7 +390,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Civil & Environmental Consultants | Civil Engineer - Entry Level | Indianapolis, IN, United States | [Apply](https://careers-cecinc.icims.com/jobs/6434/civil-engineer---entry-level/job) | 2026-07-30 |
 | Cleveland Clinic | New Grad RN Resident  - Med/Surg and Cardiac Care | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/RN---Med-Surg-and-Cardiac-Care_336193) | 2026-07-30 |
 | Ecolab | Supply Chain Graduate Program - Europe | Fra Nord-Pas-De-Calais Lille | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/FRA---Nord-Pas-de-Calais---Lille/Supply-Chain-LDP---Europe_R00296392-1) | 2026-07-30 |
-| Eurofins | Laboratory Technician (entry level) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000140540059) | 2026-07-30 |
 | Evonik | Evonik Rotation Program - Early Career Engineers | Richmond, VA / Lafayette, IN / Birmingham, AL / Little Rock, AR / Chester, PA / Mobile, AL / Pasadena, TX / Allentown, PA / Mapleton, IL / Reserve, LA | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Richmond-VA/Evonik-Rotation-Program---Early-Career-Engineers_R48939) | 2026-07-30 |
 | Evonik | Process Engineer - 2026/2027 University Graduate (ETAD program) | Mobile, AL | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Mobile-AL/Process-Engineer---2026-2027-University-Graduate--ETAD-program-_R50603) | 2026-07-30 |
 | Fresenius Medical Care | New Graduate RN | Spokane, WA, United States / Omak, WA, United States / Spokane, WA / Moses Lake, WA, United States / Deer Park, WA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Spokane-WA-USA/New-Graduate-RN_R0256567) | 2026-07-30 |
