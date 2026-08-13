@@ -45,6 +45,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BP - bpPrivateExternalCareersSite | Summer Intern - Wells Engineer – Houston, TX | United States Of America Texas Houston | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Wells-Engineer---Houston--TX_RQ114709) | 2026-08-13 |
 | Brooks Automation | Intern | Malaysia Johor | [Apply](https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Malaysia---Johor/Intern_R1152) | 2026-08-13 |
 | Cadence Design Systems | Product Validation Intern - Digital Backend | Shanghai | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Product-Validation-Intern---Digital-Backend_R55570) | 2026-08-13 |
+| Camlin | Graphic & Animation Designer (Junior or Intern/fixed term) | Serbia | [Apply](https://ats.rippling.com/camlin-careers/jobs/9bd675fe-e593-401e-8d1f-cfb6c37a7266) | 2026-08-13 |
 | Capital One | Analyst Early Internship Program - Summer 2027 | Mclean, VA | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) | 2026-08-13 |
 | Capital One | Business Analyst Intern - Summer 2027 | Mclean, VA / Richmond, VA / Chicago, IL / New York, NY / Plano, TX | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | 2026-08-13 |
 | Cardinal Health | Human Resources Internship (Master’s) – Summer 2027 | Oh-Dublin-Cardinal Place | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Human-Resources-Internship--Master-s----Summer-2027_20185488) | 2026-08-13 |
@@ -87,6 +88,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Exa Labs | Software Engineer, Intern | California, United States | [Apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | 2026-08-13 |
 | Experian | Accounting High School Internship | Remote | [Apply](https://jobs.smartrecruiters.com/Experian/744000143116439) | 2026-08-13 |
 | Fortive | Intern | India | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10539) | 2026-08-13 |
+| Foundation | Electrical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307) | 2026-08-13 |
+| Foundation | Mechanical Engineer Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/foundation-robotics/jobs/11905d9b-49ea-49fa-8fd3-3912a1d7d4f0) | 2026-08-13 |
 | Freddie Mac | Summer 2027 Intern - Return Offer Only | Mclean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Summer-2027-Intern---Return-Offer-Only_JR17434) | 2026-08-13 |
 | Freudenberg Group | Internship Finance AP | Brasov | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Brasov/Internship-Finance-AP_R_00105955-1) | 2026-08-13 |
 | FTI Consulting | Intern, Accounts Payable/Receivable, Regional Finance | Hong Kong | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Hong-Kong-Hong-Kong/Intern--Accounts-Payable-Receivable--Regional-Finance_JR260899) | 2026-08-13 |
@@ -1455,7 +1458,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sony | Intern, Financial Planning & Analysis | New York | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Financial-Planning---Analysis_JR-119444-1) | 2026-08-10 |
 | Stryker | Finance Intern | China | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R570147) | 2026-08-10 |
 | StudyFetch | Business Operations Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/283c7a03-2802-46f1-a9c7-cc09dd396c78) | 2026-08-10 |
-| StudyFetch | Engineering Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5) | 2026-08-10 |
 | StudyFetch | Marketing Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/a71d3b1a-eeff-495e-aee9-ba0a008a48d8) | 2026-08-10 |
 | StudyFetch | Product Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | 2026-08-10 |
 | Tacit | Antenna Engineering Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6) | 2026-08-10 |
@@ -4248,7 +4250,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NationGraph | Winter 2027 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) | 2026-07-27 |
 | NeoCognition | Research Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76) | 2026-07-27 |
 | NeoSigma | Member of Technical Staff - Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 2026-07-27 |
-| North Cloud | AI Automation Intern | Dumbo, NY | [Apply](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | 2026-07-27 |
 | NXP Semiconductors | Internship: Automotive Customer Application Software Engineer (m/f/d) | Gratkorn | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Automotive-Customer-Application-Software-Engineer--m-f-d-_R-10064842) | 2026-07-27 |
 | NXP Semiconductors | SW Engineering Intern | Eindhoven | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/SW-Engineering-Intern_R-10064053) | 2026-07-27 |
 | NXP Semiconductors | Working Student (f/m/d) AI & Security Engineering Assistance | Hamburg | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--AI---Security-Engineering-Assistance_R-10065141) | 2026-07-27 |

@@ -357068,5 +357068,33 @@
     "date_added": "2026-07-21",
     "active": false,
     "date_archived": "2026-08-13"
+  },
+  {
+    "id": "rippling-north-cloud-9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
+    "company": "North Cloud",
+    "title": "AI Automation Intern",
+    "location": "Dumbo, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-13"
+  },
+  {
+    "id": "rippling-studyfetch-4ab846a3-a963-46c3-a60d-03fa832fa7d5",
+    "company": "StudyFetch",
+    "title": "Engineering Intern",
+    "location": "Beverly Hills, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
+    "date_posted": null,
+    "date_added": "2026-08-10",
+    "active": false,
+    "date_archived": "2026-08-13"
   }
 ]
