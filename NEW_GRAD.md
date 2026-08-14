@@ -1228,7 +1228,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Uhaul | Hitch Installer / Entry Level Mechanic $17 | Minnesota | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Coon-Rapids-Minnesota/Hitch-Installer---Entry-Level-Mechanic_R238352) | 2026-06-02 |
 | University of Arkansas | RN New Grad Resident Program Winter 2027 | Little Rock | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/RN-New-Grad-Resident-Program-Winter-2027_R0082948-1) | 2026-06-02 |
 | Verkada | Technical Support Engineer - University Graduate 2026 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) | 2026-06-02 |
-| Wade Trim | Entry Level Civil Engineer - #2864.08 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/45e070d6-2986-49c9-ab70-b5d6702818fa) | 2026-06-02 |
+| Wade Trim | Entry Level Civil Engineer - Industrial and Commercial Energy #2864.08 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/45e070d6-2986-49c9-ab70-b5d6702818fa) | 2026-06-02 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #2771.20 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/7e4b8542-7bc1-4198-9951-971067517915) | 2026-06-02 |
 | Waystar | Entry Level Sales Executive | Louisville, KY | [Apply](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Louisville-KY/Entry-Level-Sales-Executive_R2468) | 2026-06-02 |
 | BDO | Junior Accountant, Assurance – Edmonton – September 2027 (New Grad) | Edmonton 103 St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884) | 2026-05-30 |
