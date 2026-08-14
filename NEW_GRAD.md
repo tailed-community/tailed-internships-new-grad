@@ -19,6 +19,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Citi | Markets Operations Entry-Level Analyst | Belfast United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Markets-Operations-Entry-Level-Analyst_26987229) | 2026-08-14 |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular Stepdown | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Stepdown_346259) | 2026-08-14 |
 | Cleveland Clinic | New Grad RN Resident – Progressive Pulmonary Care Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Progressive-Pulmonary-Care-Unit_343202) | 2026-08-14 |
+| Composio | Forward Deployed Engineer (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6) | 2026-08-14 |
+| Composio | Fullstack Engineer, Product Team (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491) | 2026-08-14 |
 | Five Rings Capital | Recent Graduate - Trading Assistant (NYC) | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008) | 2026-08-14 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0265949) | 2026-08-14 |
 | Fresenius Medical Care | New Graduate Nurse | Loris, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Loris-SC/New-Graduate-Nurse_R0265989) | 2026-08-14 |
