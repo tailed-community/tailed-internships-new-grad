@@ -362668,5 +362668,33 @@
     "date_added": "2026-08-12",
     "active": false,
     "date_archived": "2026-08-14"
+  },
+  {
+    "id": "rippling-acretrader-666d8d7e-94a1-48f4-88ac-3069a9878f88",
+    "company": "AcreTrader",
+    "title": "Legal Intern (Compliance)",
+    "location": "Fayetteville, AR",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/acretrader-jobs/jobs/666d8d7e-94a1-48f4-88ac-3069a9878f88",
+    "date_posted": null,
+    "date_added": "2026-08-08",
+    "active": false,
+    "date_archived": "2026-08-14"
+  },
+  {
+    "id": "rippling-studyfetch-283c7a03-2802-46f1-a9c7-cc09dd396c78",
+    "company": "StudyFetch",
+    "title": "Business Operations Intern",
+    "location": "Beverly Hills, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/studyfetch/jobs/283c7a03-2802-46f1-a9c7-cc09dd396c78",
+    "date_posted": null,
+    "date_added": "2026-08-10",
+    "active": false,
+    "date_archived": "2026-08-14"
   }
 ]

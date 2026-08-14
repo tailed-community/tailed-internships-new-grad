@@ -1707,7 +1707,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sartorius | Working Student Product Compliance (x\|w\|m) | Goettingen | [Apply](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Goettingen/Working-Student-Product-Compliance--x-w-m-_R41335-1) | 2026-08-10 |
 | Sony | Intern, Financial Planning & Analysis | New York | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Financial-Planning---Analysis_JR-119444-1) | 2026-08-10 |
 | Stryker | Finance Intern | China | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Suzhou-China/Finance-Intern_R570147) | 2026-08-10 |
-| StudyFetch | Business Operations Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/283c7a03-2802-46f1-a9c7-cc09dd396c78) | 2026-08-10 |
 | StudyFetch | Marketing Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/a71d3b1a-eeff-495e-aee9-ba0a008a48d8) | 2026-08-10 |
 | StudyFetch | Product Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | 2026-08-10 |
 | Tacit | Antenna Engineering Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6) | 2026-08-10 |
@@ -1749,7 +1748,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Manulife | Intern, Product Development | Wilayah Persekutuan Kuala Lumpur | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Intern--Product-Development_JR26071508) | 2026-08-09 |
 | Michael Baker International | Intern, Bridge CADD Technician | Moon Township, PA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309646) | 2026-08-09 |
 | Accenture | Intellera - Healthcare Intern Palermo | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Palermo-Via-Principe-di-Belmonte/Intellera---Healthcare-Intern-Palermo_R00349105) | 2026-08-08 |
-| AcreTrader | Legal Intern (Compliance) | Fayetteville, AR | [Apply](https://ats.rippling.com/acretrader-jobs/jobs/666d8d7e-94a1-48f4-88ac-3069a9878f88) | 2026-08-08 |
 | Albany Medical College | Student Employee | Ny 12208 | [Apply](https://albanymed.wd5.myworkdayjobs.com/albany_med/job/43-New-Scotland-Avenue-Albany-NY-12208/Student-Employee_71034) | 2026-08-08 |
 | Alice L. Walton School of Medicine | 2026 Archives Fall Intern | Bentonville, AR | [Apply](https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2026-Library-and-Archives-Fall-Intern_JR2482-1) | 2026-08-08 |
 | Amcor | Intern - Human Resources | Af Oshkosh North Wi | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-North-WI/Intern---Human-Resources_REQ_92728) | 2026-08-08 |
