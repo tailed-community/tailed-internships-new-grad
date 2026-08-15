@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Transportation Drainage Engineer | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143581689) | 2026-08-15 |
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Blood-Collection-Staff---Customer-Service_RC89303) | 2026-08-15 |
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
 | Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
@@ -159,7 +160,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Conagra Brands | 2nd Shift Entry Level Mechanic | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-2nd-Shift-Entry-Level-Mechanic_Req-039669) | 2026-08-12 |
 | Conagra Brands | 3rd Shift Entry Level Mechanic | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-3rd-Shift-Entry-Level-Mechanic_Req-039673) | 2026-08-12 |
 | ERM | Flanders - Junior Consultant Contaminated Site Management (Entry Level) | Belgium | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Antwerp-Belgium/Flanders---Junior-Consultant-Contaminated-Site-Management--Entry-Level-_R00030100-1) | 2026-08-12 |
-| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000142968660) | 2026-08-12 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Philadelphia, PA, United States / Upper Darby, PA, United States / Bryn Mawr, PA, United States / Sharon Hill, PA, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Philadelphia-PA-USA/New-Graduate-Nurse---RN_R0263369) | 2026-08-12 |
 | Fresenius Medical Care | New Graduate Registered Nurse | Syracuse, NY, United States / Albany, NY, United States / Buffalo, NY, United States / Rochester, NY, United States / Troy, NY, United States / Watertown, NY, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Syracuse-NY-USA/New-Graduate-Registered-Nurse_R0263381) | 2026-08-12 |
 | Fresenius Medical Care | New Graduate Registered Nurse | Allentown, PA, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Allentown-PA-USA/New-Graduate-Registered-Nurse_R0263376) | 2026-08-12 |
@@ -691,7 +691,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Rogers Behavioral Health | POOL II Intake Specialist - Oconomowoc - Weekends and PMs - New Grads Encouraged to Apply! | Oconomowoc, WI | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Oconomowoc-Main-Campus-Oconomowoc-WI/POOL-II-Intake-Specialist---Oconomowoc---Weekends-and-PMs---New-Grads-Encouraged-to-Apply-_R7405) | 2026-07-10 |
 | SpaceX | December 2026 New Graduate Engineer, Mechanical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8627507002?gh_jid=8627507002) | 2026-07-10 |
 | SpaceX | December 2026 New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002) | 2026-07-10 |
-| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000136873469) | 2026-07-10 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000136874239) | 2026-07-10 |
 | Anduril | Early Career Product Operations Rotation Program | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5181983007?gh_jid=5181983007) | 2026-07-09 |
 | Corewell Health | RN Ortho Neuro New Grad | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/St-Joseph-MI/RN-Ortho-Neuro-New-Grad_R200808) | 2026-07-09 |
