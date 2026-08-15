@@ -27,6 +27,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Notion | Software Engineer, New Grad (Dec 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 2026-08-15 |
 | Olsson | Entry-Level CAD Technician - Telecom | Des Moines, IA / Lincoln, NE / Little Rock, AR / North Kansas City, MO / Omaha, NE / Overland Park, KS / St. Louis, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390347008) | 2026-08-15 |
 | Olsson | Entry-Level Geotechnical Driller | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390559008) | 2026-08-15 |
+| Sargent & Lundy | Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26144/electrical-engineer-1-%28entry-level%29---nuclear-%28summer-2027%29/job) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Chatsworth | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-WE-616-Duvall-Rd-Chatsworth-GA-30705-USA/Entry-Level-Manufacturing_R-156021) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Andalusia | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-65-200-Waits-Drive-Hwy-29-N-Andalusia-AL-36420-USA/Entry-Level-Manufacturing_R-156016) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-156017) | 2026-08-15 |
@@ -89,8 +90,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Moog | 3rd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-3rd-Shift-Entry-Level-Machinist_R-26-17546) | 2026-08-14 |
 | NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000143469850) | 2026-08-14 |
 | Samsara | Entry Level Tech Sales - Benelux Market (work from the UK, Netherlands, Germany or France - Dutch speaking role) | France Remote / Remote / United Kingdom Remote | [Apply](https://www.samsara.com/company/careers/roles/8127985?gh_jid=8127985) | 2026-08-14 |
-| Sargent & Lundy | Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26136/electrical-engineer-1-%28entry-level%29---nuclear-%28summer-2027%29/job) | 2026-08-14 |
-| Sargent & Lundy | Transmission Line Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26075/transmission-line-engineer-1-%28entry-level%29---grid/job) | 2026-08-14 |
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173685) | 2026-08-14 |
 | Sedgwick Claims Management Services | Workers Compensation Claims Associate \| Medical Only Experience \| Entry Level \| Hybrid Schedule - Dublin, OH | Dublin, OH | [Apply](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Dublin-OH/Workers-Compensation-Claims-Associate---Medical-Only-Experience---Entry-Level---Hybrid-Schedule---Dublin--OH_R76291) | 2026-08-14 |
 | TDS | Entry Level Sales Representative | Coeur D’ Alene, ID, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29838/entry-level-sales-representative/job) | 2026-08-14 |
@@ -167,9 +166,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mach Industries | December 2026 New Graduate Engineer, Manufacturing | California, United States | [Apply](https://jobs.ashbyhq.com/mach/135d175a-287b-41e5-830b-faa0b1b132a3) | 2026-08-12 |
 | Mach Industries | December 2026 New Graduate Engineer, Mechanical | California, United States | [Apply](https://jobs.ashbyhq.com/mach/bb71b4f3-3a50-44fd-a3e1-1de6d00902e5) | 2026-08-12 |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC | California, United States | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 2026-08-12 |
-| Peraton | Spring/Summer 2027 University Entry-level STEM Pipeline | Reston, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/169644/spring-summer-2027-university-entry-level-stem-pipeline/job) | 2026-08-12 |
 | Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623) | 2026-08-12 |
-| Sargent & Lundy | Electrical Engineer 1 (Entry-Level) - Nuclear | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/25797/electrical-engineer-1-%28entry-level%29---nuclear/job) | 2026-08-12 |
 | Securitas | Entry Level Security Officer | Perrysburg, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173610) | 2026-08-12 |
 | Sentry | Software Engineer, New Grad (2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421) | 2026-08-12 |
 | Solar Turbines | 2026 Materials and Process Engineering, Entry Level Rotation Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Materials-and-Process-Engineering--Entry-Level-Rotation-Engineer_R0000382200) | 2026-08-12 |
@@ -432,7 +429,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | 2026-07-31 |
 | Palantir | Software Engineer, New Grad | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e) | 2026-07-31 |
 | Palantir | Software Engineer, New Grad - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b) | 2026-07-31 |
-| Peraton | Entry-Level Electrical Engineer | Aberdeen Proving Ground, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/169322/entry-level-electrical-engineer/job) | 2026-07-31 |
 | RoviSys | Entry Level Engineer/Developer | Pr-San Juan | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job) | 2026-07-31 |
 | SCS Engineers | Entry-level Civil or Environmental Engineer - Solid Waste | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3878/entry-level-civil-or-environmental-engineer---solid-waste/job) | 2026-07-31 |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
@@ -476,7 +472,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NXP Semiconductors | <New Graduate Hiring> Manufacturing Test Engineer | Kaohsiung | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/XMLNAME--New-Graduate-Hiring--Manufacturing-Test-Engineer_R-10065722) | 2026-07-29 |
 | OneMain Financial | Junior Operations Analyst - Entry Level | West Valley City, UT | [Apply](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/West-Valley-City-UT/Business-Analyst---Auto_R2607-51746) | 2026-07-29 |
 | SCS Engineers | Entry-level Civil or Geotechnical Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3880/entry-level-civil-or-geotechnical-engineer/job) | 2026-07-29 |
-| SCS Engineers | Entry-Level Field Technician | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3881/entry-level-field-technician/job) | 2026-07-29 |
 | Texas Instruments | 2026 Entry Level Equipment Technician | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011101) | 2026-07-29 |
 | Tutor Perini Corporation | Project Engineer Entry-Level | Not Specified | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/Milwaukee-WI-/Project-Engineer-Entry-Level_JR102793-1) | 2026-07-29 |
 | WSP | Early Career Environmental Scientist | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92060) | 2026-07-29 |
@@ -1020,14 +1015,14 @@ A community-maintained list of new grad and early-career roles across Canada and
 | KCI Technologies | Entry Level Field Surveyor | Sparks, MD, United States | [Apply](https://careers-kci.icims.com/jobs/7792/entry-level-field-surveyor/job) | 2026-06-10 |
 | KCI Technologies | Entry Level Land Surveyor | Fort Lauderdale, FL, United States | [Apply](https://careers-kci.icims.com/jobs/7851/entry-level-land-surveyor/job) | 2026-06-10 |
 | Marsh | P&C Insurance Account Executive (Open to recent graduate) | Nanjing Deji Tower | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Nanjing---Deji-Tower/P-C-Insurance-Account-Executive--Open-to-recent-graduate-_R_354607) | 2026-06-10 |
-| Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) | 2026-06-10 |
+| Sargent & Lundy | Entry Level Civil Engineer | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/21915/entry-level-civil-engineer/job) | 2026-06-10 |
+| Sargent & Lundy | Entry-Level Structural Engineer - Energy & Industrial Group (Summer 2026) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/20873/entry-level-structural-engineer---energy-%26-industrial-group-%28summer-2026%29/job) | 2026-06-10 |
 | Sargent & Lundy | Substation Engineer 1 (Entry Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24572/substation-engineer-1-%28entry-level%29---grid/job) | 2026-06-10 |
 | SpaceX | New Graduate Engineer, Launch & Test (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) | 2026-06-10 |
 | Steel Dynamics | Entry-Level Production | Butler, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/6871/entry-level-production/job) | 2026-06-10 |
 | TDS | Entry Level Sales Representative | Hobbs, NM, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29140/entry-level-sales-representative/job) | 2026-06-10 |
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada Edmonton, AB | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Client Review Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/14099/entry-level-client-review-specialist/job) | 2026-06-10 |
-| United Wholesale Mortgage | Entry Level Mortgage Call Centers | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15306/entry-level-mortgage-call-centers/job) | 2026-06-10 |
 | Wade Trim | Entry Level Planner - #2970 | Flint, MI / Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17) | 2026-06-10 |
 | Amentum | Entry Level RF Engineer | US-Va-Norfolk | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/Entry-Level-RF-Engineer_R0163070) | 2026-06-08 |
 | Base Power | Member Experience (New Grad) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/74d12075-e78d-4b1f-a9a1-f51b55b8ecb2) | 2026-06-08 |
