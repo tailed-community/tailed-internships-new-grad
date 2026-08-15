@@ -8,6 +8,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Blood-Collection-Staff---Customer-Service_RC89303) | 2026-08-15 |
+| Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
+| Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
+| Applied Intuition | Scenario Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | 2026-08-15 |
+| Applied Intuition | Software Engineer - New Grad (December 2026) | California, United States / Ann Arbor | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | 2026-08-15 |
+| Applied Intuition | Software Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
+| Applied Intuition | Vehicle Test Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | 2026-08-15 |
 | AutoNation | Automotive Entry Level Technician | Lexus Of Palm Beach | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Lexus-of-Palm-Beach/Automotive-Technicians-all-levels_JR2026136354) | 2026-08-15 |
 | AutoNation | Entry Level Technician-AutoNation Chrysler Dodge Jeep Ram N. Fort Worth-$17/HR | Autonation Chrysler Dodge Jeep Ram N. Fort Worth | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth/Entry-Level-Technician-AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth--17-HR_JR2026147230) | 2026-08-15 |
 | AutoNation | Entry Level Technician-BMW of Dallas-$18 | Bmw Of Dallas And Mini Of Dallas | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/BMW-of-Dallas-and-MINI-of-Dallas/Entry-Level-Technician-BMW-of-Dallas--18_JR2026147439) | 2026-08-15 |
@@ -18,6 +24,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ciena | Mechanical Engineer - New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mechanical-Engineer---New-Grad_R031522-1) | 2026-08-15 |
 | Fresenius Medical Care | New Graduate Nurse- RN | St Cloud, MN, United States / Mn. USA / Waite Park, MN, United States / Shakopee, MN, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/ST-CLOUD-MN-USA/New-Graduate-Nurse--RN_R0266107) | 2026-08-15 |
 | LabCorp | Entry level Lab Associate | Earth City Mo | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Earth-City-MO/Entry-level-Lab-Associate_2625214-1) | 2026-08-15 |
+| Notion | Software Engineer, New Grad (Dec 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 2026-08-15 |
 | Olsson | Entry-Level CAD Technician - Telecom | Des Moines, IA / Lincoln, NE / Little Rock, AR / North Kansas City, MO / Omaha, NE / Overland Park, KS / St. Louis, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390347008) | 2026-08-15 |
 | Olsson | Entry-Level Geotechnical Driller | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390559008) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Chatsworth | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-WE-616-Duvall-Rd-Chatsworth-GA-30705-USA/Entry-Level-Manufacturing_R-156021) | 2026-08-15 |
@@ -624,7 +631,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Solar Turbines | 2027 Entry Level Supply Chain Coordinator | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Supply-Chain-Coordinator_R0000381820) | 2026-07-16 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Dallas/Richardson) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016564) | 2026-07-16 |
 | Texas Instruments | 2027 Entry Level Manufacturing Maintenance Specialist (Richardson) | Richardson, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016563) | 2026-07-16 |
-| Abridge | Software Engineer - Early Career | California, United States | [Apply](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | 2026-07-15 |
+| Abridge | Software Engineer, Early Career | California, United States | [Apply](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) | 2026-07-15 |
 | Accenture | Entry Level Technology - for MANILA Recruitment Hub applications only | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Entry-Level-Technology---for-MANILA-Recruitment-Hub-applications-only_R00343169) | 2026-07-15 |
 | Barr | Geologist – Entry Level (Hybrid) | Salt Lake City, UT | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Geologist---Entry-Level--Hybrid-_R-102196-1) | 2026-07-15 |
 | Cleveland Clinic | New Grad RN Resident - Internal Medicine Telemetry | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---General-Medicine-Telemetry_332335) | 2026-07-15 |
