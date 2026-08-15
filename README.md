@@ -4561,7 +4561,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Marsh | Oliver Wyman - Talent Acquisition Intern - Gurugram | Gurugram Horizon | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Horizon/Oliver-Wyman---Talent-Acquisition-Intern---Gurugram_R_359760-1) | 2026-07-27 |
 | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Ile-De-France, France | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) | 2026-07-27 |
 | Mistral AI | Applied Scientist / Research Engineer (Internship) | Ile-De-France, France / London | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e) | 2026-07-27 |
-| Mobius Renewables | Software Engineer - Intern | Houston, TX | [Apply](https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6) | 2026-07-27 |
 | NationGraph | Winter 2027 Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) | 2026-07-27 |
 | NeoCognition | Research Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76) | 2026-07-27 |
 | NeoSigma | Member of Technical Staff - Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 2026-07-27 |

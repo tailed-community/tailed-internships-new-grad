@@ -366532,5 +366532,19 @@
     "date_added": "2026-08-14",
     "active": false,
     "date_archived": "2026-08-15"
+  },
+  {
+    "id": "rippling-mobius-renewables-b2938290-cc66-4f54-9888-bbe286c1d9b6",
+    "company": "Mobius Renewables",
+    "title": "Software Engineer - Intern",
+    "location": "Houston, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-15"
   }
 ]
