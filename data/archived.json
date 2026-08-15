@@ -249326,20 +249326,6 @@
     "date_archived": "2026-07-22"
   },
   {
-    "id": "lever-zoox-ba1f2937-abf0-4bde-86e9-e302202a6b0e",
-    "company": "Zoox",
-    "title": "Part-Time Student Worker Automation & Behavioral Science Engineer",
-    "location": "Foster City, CA",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e",
-    "date_posted": "2026-06-04",
-    "date_added": "2026-06-10",
-    "active": false,
-    "date_archived": "2026-07-22"
-  },
-  {
     "id": "greenhouse-aclu-kentucky-8582143002",
     "company": "ACLU Kentucky",
     "title": "Fall 2026 Legal Intern, Voting Rights Project",
@@ -365354,6 +365340,34 @@
     "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Bengaluru-India/XMLNAME-2027-CRDP-Summer-Internship---Early-Careers_R-566159",
     "date_posted": "Posted Yesterday",
     "date_added": "2026-08-13",
+    "active": false,
+    "date_archived": "2026-08-15"
+  },
+  {
+    "id": "lever-firework-30defeef-fd18-4a43-aa77-3462cca3a859",
+    "company": "Firework",
+    "title": "AI Content Intern",
+    "location": "California",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/fireworkhq/30defeef-fd18-4a43-aa77-3462cca3a859",
+    "date_posted": "2026-07-09",
+    "date_added": "2026-07-10",
+    "active": false,
+    "date_archived": "2026-08-15"
+  },
+  {
+    "id": "lever-wade-trim-45e070d6-2986-49c9-ab70-b5d6702818fa",
+    "company": "Wade Trim",
+    "title": "Entry Level Civil Engineer - Industrial and Commercial Energy #2864.08",
+    "location": "Pittsburgh, PA",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/wadetrim/45e070d6-2986-49c9-ab70-b5d6702818fa",
+    "date_posted": "2026-01-26",
+    "date_added": "2026-06-02",
     "active": false,
     "date_archived": "2026-08-15"
   }

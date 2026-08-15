@@ -1239,7 +1239,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Structural Engineering Co-Op - Fall 2026 | Boston, MA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007) | 2026-08-12 |
 | WTW | Intern Corporate Risk & Broking | Uganda | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604976) | 2026-08-12 |
 | Zeiss | Internship in People & Organizational Development \| Segment: Medical Technology (m/f/x) | Jena / Oberkochen / Berlin / München | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Praktikum-im-Bereich-People---Organizational-Development---Segment-Medizintechnik--m-w-x-_JR_1052109) | 2026-08-12 |
-| Zoox | Student Contract Worker - Machine Learning Engineer - Data Mining & VLM (Full-time) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e) | 2026-08-12 |
+| Zoox | Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e) | 2026-08-12 |
 | 1X | Internship - Manufacturing Engineering (Fall) | California, United States | [Apply](https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d) | 2026-08-11 |
 | ABB | Intern | Vietnam | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hanoi-H-Ni-Vietnam/Intern_JR00042989) | 2026-08-11 |
 | Accenture | Consulting Internship (Prague, Czech Republic) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Consulting-Internship--Prague--Czech-Republic-_R00350274) | 2026-08-11 |
@@ -6382,7 +6382,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Extra Space Storage | Meetings and Travel Intern | Salt Lake City, UT, United States | [Apply](https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Meetings-and-Travel-Intern_R-80081) | 2026-07-10 |
 | Faraday Future | Accounting Intern | California, United States | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7799321003) | 2026-07-10 |
 | Faraday Future | Finance & AI Automation Intern | California, United States | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7799326003) | 2026-07-10 |
-| Firework | AI Content Intern | California | [Apply](https://jobs.lever.co/fireworkhq/30defeef-fd18-4a43-aa77-3462cca3a859) | 2026-07-10 |
 | Freudenberg Group | Working Student Vileda Customer Service (f/m/d) | Weinheim | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Working-Student-Vileda-Customer-Service--f-m-d-_R_00104427) | 2026-07-10 |
 | GE Aerospace | Production Associate - High School Co-op | Jacksonville | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Production-Associate---High-School-Co-op_R5037325-2) | 2026-07-10 |
 | Greystar Worldwide | Maintenance Technician - Camber Villas (Student Living) | Bryan, TX | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Camber-Villas-Bryan-TX/Maintenance-Technician---Camber-Villas--Student-Living-_R0194181) | 2026-07-10 |
@@ -9164,6 +9163,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wash U | Fitness Instructor II (Part-time) - Student Affairs | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Fitness-Instructor-II--Part-time----Student-Affairs_JR94804) | 2026-06-10 |
 | Western & Southern Financial Group | Part-Time Customer Service Associate (Northern Kentucky University Student Only) | Highland Heights, KY, United States | [Apply](https://careers-westernsouthern.icims.com/jobs/24574/part-time-customer-service-associate-%28northern-kentucky-university-student-only%29/job) | 2026-06-10 |
 | Wieland | Engineering Intern, Recycling - Fall 2026 | Shelbyville, KY, United States | [Apply](https://careers-chasebrass.icims.com/jobs/3817/engineering-intern%2c-recycling---fall-2026/job) | 2026-06-10 |
+| Zoox | Contract Student Worker Automation & Behavioral Science Engineer | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e) | 2026-06-10 |
 | Airbus | Leadership University & Talent Mgmt Intern | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Leadership-University---Talent-Mgmt-Intern_JR10396522) | 2026-06-08 |
 | Allium | Engineering Intern - General / AI | New York, United States / Singapore | [Apply](https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e) | 2026-06-08 |
 | American University | Math & Stats Lab Tutor (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Math---Stats-Lab-Tutor--Student-_R4099) | 2026-06-08 |
