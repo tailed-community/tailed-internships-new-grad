@@ -23,6 +23,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | ABB | Technical Internship - Expression of Interest | Malaysia | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Petaling-Jaya-Selangor-Malaysia/Technical-Internship---Expression-of-Interest_JR00044260) | 2026-08-16 |
 | ASM Global | Marketing Intern | Charlottesville, VA | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Charlottesville-VA/Marketing-Intern_R100124777) | 2026-08-16 |
+| Clera | Engineering Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/be325be3-e692-4e4b-9c20-6aabbdf93d0b) | 2026-08-16 |
+| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/bd54d2d6-3ab9-448a-8c46-ec780c238c84) | 2026-08-16 |
 | Compeer Financial | Intern Tax and Accounting | Wi-Fond Du Lac / Wi-Sun Prairie / Wi-Prairie Du Sac / Wi-Dodgeville / Wi-Onalaska / Wi-Eau Claire | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5392298008) | 2026-08-16 |
 | CVS Health | Pharmacy Intern | Al Opelika | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Opelika/Pharmacy-Intern_R1012918) | 2026-08-16 |
 | CVS Health | Pharmacy Intern | Tx Garland | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Garland/Pharmacy-Intern_R1012891) | 2026-08-16 |
@@ -47,6 +49,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Occidental Petroleum Corporation (Oxy) | Engineering Intern (Oil & Gas Business) | Texas / New Mexico / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Midland-Texas/Engineering-Intern--Oil---Gas-Business-_JR110204) | 2026-08-16 |
 | Occidental Petroleum Corporation (Oxy) | Geology Intern | Texas / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | 2026-08-16 |
 | Occidental Petroleum Corporation (Oxy) | Geophysics Intern | Texas / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | 2026-08-16 |
+| Replit | Software Engineering Intern (Summer 2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 2026-08-16 |
 | ABB | Administration Intern | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Administration-Intern_JR00044549) | 2026-08-15 |
 | ABB | Student analyst in Electrification Ventures | Denmark | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ballerup-Region-Hovedstaden-Denmark/Student-analyst-in-Electrification-Ventures_JR00044322) | 2026-08-15 |
 | Abridge | Software Engineer, Intern | California, United States / Nyc Office | [Apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) | 2026-08-15 |
@@ -1565,7 +1568,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Client Advisor Intern | Camrose, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CAMROSE-Alberta-Canada/Client-Advisor-Intern_R-0000183573) | 2026-08-11 |
 | Red Bull | Business Intelligence Intern (LATAM) | São Paulo, SP | [Apply](https://jobs.smartrecruiters.com/RedBull/744000142692837) | 2026-08-11 |
 | Red Bull | Red Bull Student Marketeer - Innsbruck | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000142817659) | 2026-08-11 |
-| Reframe Systems | Mechanical Engineer Internship (Summer 27) | Andover, MA, United States | [Apply](https://jobs.ashbyhq.com/reframesystems/c4db63dc-4023-44f7-b971-d94cc730ab9f) | 2026-08-11 |
 | Renault Group | [Internship] Automatizare proces de extragere si sinteza date (F/M) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Mioveni/XMLNAME--Internship--Automatizare-proces-de-extragere-si-sinteza-date--F-M-_JOBREQ_50273287) | 2026-08-11 |
 | Renault Group | CS27 - Stage -  BAC +5 - Assistant Launching ( H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Boulogne-Billancourt/CS27---Stage----BAC--5---Assistant-Launching---H-F-_JOBREQ_50271331) | 2026-08-11 |
 | Renault Group | CS27 - Stage - BAC +5 - Chargé de communication (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Boulogne-Billancourt/CS27---Stage---BAC--5---Charg-de-communication--H-F-_JOBREQ_50271430) | 2026-08-11 |

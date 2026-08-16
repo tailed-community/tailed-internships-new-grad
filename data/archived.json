@@ -367498,5 +367498,19 @@
     "date_added": "2026-06-17",
     "active": false,
     "date_archived": "2026-08-16"
+  },
+  {
+    "id": "ashby-reframe-systems-c4db63dc-4023-44f7-b971-d94cc730ab9f",
+    "company": "Reframe Systems",
+    "title": "Mechanical Engineer Internship (Summer 27)",
+    "location": "Andover, MA, United States",
+    "type": "internship",
+    "season": "Summer",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/reframesystems/c4db63dc-4023-44f7-b971-d94cc730ab9f",
+    "date_posted": "2026-08-11",
+    "date_added": "2026-08-11",
+    "active": false,
+    "date_archived": "2026-08-16"
   }
 ]
