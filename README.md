@@ -1273,7 +1273,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | [SX/EIT-MM] UI/UX Designer Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143019399) | 2026-08-12 |
 | Robert Bosch Venture Capital | Graduate Specialist Program - Manufacturing | West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143083654) | 2026-08-12 |
 | Robert Bosch Venture Capital | Indirect Purchasing Category Assistant Smart Start (Facility Management) - Recruitment Days | Turkey | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143045014) | 2026-08-12 |
-| Robert Bosch Venture Capital | Intern, Corporate Communications | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143069809) | 2026-08-12 |
 | Robert Bosch Venture Capital | Internship AI Automation and Data Analysis | Kusterdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143087740) | 2026-08-12 |
 | Robert Bosch Venture Capital | Internship in Project Management Support - Bosch Diagnostics Solutions Framework | Plochingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143080999) | 2026-08-12 |
 | Robert Bosch Venture Capital | Paid Internship – Junior Developer (macOS) (f/m) | Poland | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143033029) | 2026-08-12 |
@@ -1339,7 +1338,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Wyoming | Hourly Pooled - UW Alumni Association Homecoming Intern | Laramie, WY, United States | [Apply](https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/262078) | 2026-08-12 |
 | Veolia | Process Innovation Intern | Oakville, ON, Canada | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940939) | 2026-08-12 |
 | Veolia | Process Innovation Intern | Montréal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142940889) | 2026-08-12 |
-| Wabtec | Intern, HR | Contagem, MG | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990014551816) | 2026-08-12 |
 | Warner Bros. | Communications and Publicity Internships: DC - Fall 2026 | Dc Washington 820 1st Street Ne | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/DC-Washington-820-1st-Street-NE/Communications-and-Publicity-Internships--DC---Fall-2026_R000107464) | 2026-08-12 |
 | Warner Bros. | Research & Analytics Internships: ATL - Fall 2026 | Ga Atlanta 1050 Techwood Drive Nw | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Research---Analytics-Internships--ATL---Fall-2026_R000107483) | 2026-08-12 |
 | Wash U | International Student & Scholar Advisor (Hybrid) - Provost Office | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/International-Student---Scholar-Advisor--Hybrid----Provost-Office_JR96487) | 2026-08-12 |

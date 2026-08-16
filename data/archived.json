@@ -367540,5 +367540,33 @@
     "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-08-16"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000143069809",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Intern, Corporate Communications",
+    "location": "Singapore",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143069809",
+    "date_posted": "2026-08-12",
+    "date_added": "2026-08-12",
+    "active": false,
+    "date_archived": "2026-08-16"
+  },
+  {
+    "id": "smartrecruiters-wabtec-3743990014551816",
+    "company": "Wabtec",
+    "title": "Intern, HR",
+    "location": "Contagem, MG",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014551816",
+    "date_posted": "2026-08-11",
+    "date_added": "2026-08-12",
+    "active": false,
+    "date_archived": "2026-08-16"
   }
 ]

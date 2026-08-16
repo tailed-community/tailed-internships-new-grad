@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AbbVie | Early Career Talent - Algeria | Algeria | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616066) | 2026-08-16 |
+| AbbVie | Early Career Talent - Tunisia | Tunisia | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616036) | 2026-08-16 |
 | AECOM | Entry Level Transportation Drainage Engineer | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143581689) | 2026-08-15 |
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Blood-Collection-Staff---Customer-Service_RC89303) | 2026-08-15 |
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
