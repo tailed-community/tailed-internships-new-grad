@@ -365316,20 +365316,6 @@
     "date_archived": "2026-08-15"
   },
   {
-    "id": "greenhouse-geotab-geotab-5215583008",
-    "company": "Geotab - geotab",
-    "title": "Marketing Intern - Southeast Asia. (Hybrid)",
-    "location": "Singapore  Singapore",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/geotab/jobs/5215583008",
-    "date_posted": "2026-06-23",
-    "date_added": "2026-06-23",
-    "active": false,
-    "date_archived": "2026-08-15"
-  },
-  {
     "id": "greenhouse-guidepoint-8675797002",
     "company": "Guidepoint",
     "title": "Talent Acquisition Intern",
@@ -367468,6 +367454,48 @@
     "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Edelstone-Center/Assistant-Director--Student-Program-Staffing-Operations_JR34328",
     "date_posted": "Posted 30+ Days Ago",
     "date_added": "2026-07-02",
+    "active": false,
+    "date_archived": "2026-08-16"
+  },
+  {
+    "id": "greenhouse-astranis-4597559006",
+    "company": "Astranis",
+    "title": "Harness Design Engineer Intern (Fall 2026)",
+    "location": "San Francisco",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597559006",
+    "date_posted": "2026-04-30",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-16"
+  },
+  {
+    "id": "greenhouse-geotab-geotab-5323142008",
+    "company": "Geotab - geotab",
+    "title": "Marketing Intern - Southeast Asia. (Hybrid)",
+    "location": "Singapore  Singapore",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/geotab/jobs/5323142008",
+    "date_posted": "2026-07-21",
+    "date_added": "2026-07-21",
+    "active": false,
+    "date_archived": "2026-08-16"
+  },
+  {
+    "id": "greenhouse-walleye-capital-walleyecapital-external-students-4676334006",
+    "company": "Walleye Capital - walleyecapital-external-students",
+    "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
+    "location": "Miami, FL",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+    "date_posted": "2026-06-01",
+    "date_added": "2026-06-17",
     "active": false,
     "date_archived": "2026-08-16"
   }
