@@ -173,6 +173,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mach Industries | December 2026 New Graduate Engineer, Manufacturing | California, United States | [Apply](https://jobs.ashbyhq.com/mach/135d175a-287b-41e5-830b-faa0b1b132a3) | 2026-08-12 |
 | Mach Industries | December 2026 New Graduate Engineer, Mechanical | California, United States | [Apply](https://jobs.ashbyhq.com/mach/bb71b4f3-3a50-44fd-a3e1-1de6d00902e5) | 2026-08-12 |
 | Mach Industries | December 2026 New Graduate Engineer, Software / GNC | California, United States | [Apply](https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb) | 2026-08-12 |
+| Peraton | Spring/Summer 2027 University Entry-level STEM Pipeline | Reston, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/169644/spring-summer-2027-university-entry-level-stem-pipeline/job) | 2026-08-12 |
 | Robinhood | Customer Experience Associate (New Grad) | Westlake, TX | [Apply](https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623) | 2026-08-12 |
 | Securitas | Entry Level Security Officer | Perrysburg, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173610) | 2026-08-12 |
 | Sentry | Software Engineer, New Grad (2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421) | 2026-08-12 |
@@ -434,6 +435,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | 2026-07-31 |
 | Palantir | Software Engineer, New Grad | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e) | 2026-07-31 |
 | Palantir | Software Engineer, New Grad - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b) | 2026-07-31 |
+| Peraton | Entry-Level Electrical Engineer | Aberdeen Proving Ground, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/169322/entry-level-electrical-engineer/job) | 2026-07-31 |
 | RoviSys | Entry Level Engineer/Developer | Pr-San Juan | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job) | 2026-07-31 |
 | SCS Engineers | Entry-level Civil or Environmental Engineer - Solid Waste | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3878/entry-level-civil-or-environmental-engineer---solid-waste/job) | 2026-07-31 |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
@@ -1016,11 +1018,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | KCI Technologies | Entry Level Field Surveyor | Sparks, MD, United States | [Apply](https://careers-kci.icims.com/jobs/7792/entry-level-field-surveyor/job) | 2026-06-10 |
 | KCI Technologies | Entry Level Land Surveyor | Fort Lauderdale, FL, United States | [Apply](https://careers-kci.icims.com/jobs/7851/entry-level-land-surveyor/job) | 2026-06-10 |
 | Marsh | P&C Insurance Account Executive (Open to recent graduate) | Nanjing Deji Tower | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Nanjing---Deji-Tower/P-C-Insurance-Account-Executive--Open-to-recent-graduate-_R_354607) | 2026-06-10 |
+| Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) | 2026-06-10 |
 | Sargent & Lundy | Entry Level Civil Engineer | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/21915/entry-level-civil-engineer/job) | 2026-06-10 |
 | Sargent & Lundy | Entry-Level Structural Engineer - Energy & Industrial Group (Summer 2026) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/20873/entry-level-structural-engineer---energy-%26-industrial-group-%28summer-2026%29/job) | 2026-06-10 |
 | Sargent & Lundy | Substation Engineer 1 (Entry Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/24572/substation-engineer-1-%28entry-level%29---grid/job) | 2026-06-10 |
 | SpaceX | New Graduate Engineer, Launch & Test (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) | 2026-06-10 |
-| Steel Dynamics | Entry-Level Production | Butler, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/6871/entry-level-production/job) | 2026-06-10 |
 | TDS | Entry Level Sales Representative | Hobbs, NM, United States | [Apply](https://external-telecom-teldta.icims.com/jobs/29140/entry-level-sales-representative/job) | 2026-06-10 |
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada Edmonton, AB | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761) | 2026-06-10 |
 | United Wholesale Mortgage | Entry Level Client Review Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/14099/entry-level-client-review-specialist/job) | 2026-06-10 |
