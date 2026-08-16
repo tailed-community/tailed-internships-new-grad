@@ -46,10 +46,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Beamsville, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/4961-King-St-E-Beamsville-ON/Student--Franchise-Part-Time-Day_R2000694478) | 2026-08-16 |
 | Loblaw Companies | Student, Franchise Part Time Evening | Newmarket, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/17255-Leslie-St-Newmarket-ON/Student--Franchise-Part-Time-Evening_R2000694405) | 2026-08-16 |
 | Micron Technology | Intern - DRAM PI | Id Main Site | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) | 2026-08-16 |
+| NOV | HSE Intern | Saudi Arabia | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/43388) | 2026-08-16 |
 | Occidental Petroleum Corporation (Oxy) | Engineering Intern (Oil & Gas Business) | Texas / New Mexico / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Midland-Texas/Engineering-Intern--Oil---Gas-Business-_JR110204) | 2026-08-16 |
 | Occidental Petroleum Corporation (Oxy) | Geology Intern | Texas / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geology-Intern_JR110202) | 2026-08-16 |
 | Occidental Petroleum Corporation (Oxy) | Geophysics Intern | Texas / Colorado | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203) | 2026-08-16 |
+| Photon | Software Engineering / AI Intern - US - Remote | United States | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) | 2026-08-16 |
 | Replit | Software Engineering Intern (Summer 2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 2026-08-16 |
+| WSP | Intern, Human Resources | Montreal, QC, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93062) | 2026-08-16 |
 | ABB | Administration Intern | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Administration-Intern_JR00044549) | 2026-08-15 |
 | ABB | Student analyst in Electrification Ventures | Denmark | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ballerup-Region-Hovedstaden-Denmark/Student-analyst-in-Electrification-Ventures_JR00044322) | 2026-08-15 |
 | Abridge | Software Engineer, Intern | California, United States / Nyc Office | [Apply](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) | 2026-08-15 |
@@ -900,8 +903,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Intern Technical AMHS | Nijmegen | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Nijmegen/Intern-Technical-AMHS_R-10065751) | 2026-08-13 |
 | Ohio State University | Student Advocacy Officer | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Advocacy-Officer_R156892-2) | 2026-08-13 |
 | Oklahoma State Government | Legal Intern- Temporary Position | Oklahoma County | [Apply](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Legal-Intern--Temporary-Position_JR63806) | 2026-08-13 |
-| Oracle | Platform Software Engineer 1 - Full-time Intern Conversion | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | 2026-08-13 |
-| Oracle - jobsearch | Platform Software Engineer 1 - Full-time Intern Conversion | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342415) | 2026-08-13 |
 | Oshkosh | Design Intern - Fall 2026 | Michigan, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Fall-2026_R49224) | 2026-08-13 |
 | Parsons | Roadway Engineering Co-Op - Fall 2026 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---OH-Akron/Roadway-Engineering-Co-Op---Fall-2026_R177773-1) | 2026-08-13 |
 | Pennsylvania State University | NCEMS Undergraduate Research Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Lab-Assistant_REQ_0000076665-1) | 2026-08-13 |
@@ -4639,12 +4640,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vishay Intertechnology | Student engineering | Dimona, IL | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Dimona-IL/Student-engineering_JR-18305) | 2026-07-27 |
 | WPP Media | Stage Consultant Média International F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5367213008) | 2026-07-27 |
 | WPP Media | Stage Online Marketeer (September 2026) | The Netherlands | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5371279008) | 2026-07-27 |
-| WSP | ACT Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91927) | 2026-07-27 |
-| WSP | NSW Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91922) | 2026-07-27 |
-| WSP | QLD Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91923) | 2026-07-27 |
-| WSP | SA Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91925) | 2026-07-27 |
-| WSP | VIC Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91924) | 2026-07-27 |
-| WSP | WA Summer Internship | Australia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91926) | 2026-07-27 |
 | WTW | Early Careers: 2026 Quality Assurance - Intern Program Retirement Technology - Manila | Philippines | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604902) | 2026-07-27 |
 | Zebra | Intern, Creative Communications & Project Coordination (Support Experience & Adoption) | Malaysia | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Penang-Malaysia/Intern--Creative-Communications---Project-Coordination--Support-Experience---Adoption-_JR102620) | 2026-07-27 |
 | Zuru | AI Integration Summer Internship 2026/2027 | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/16d4cc04-a913-495f-a835-f6dd1275384c) | 2026-07-27 |
@@ -7572,7 +7567,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Groundskeeper/Porter - Iconic on Alvarado (Student Living) | San Diego, Canada | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Iconic-on-Alvarado-San-Diego-CA/Groundskeeper-Porter---Iconic-on-Alvarado--Student-Living-_R0192597) | 2026-06-24 |
 | Heron Power | Intern, Electronics Design Engineer, Fall 2026/Spring 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb) | 2026-06-24 |
 | Howard University | Student Research Assistant | Alain Locke Hall | [Apply](https://howard.wd1.myworkdayjobs.com/HU/job/Alain-Locke-Hall/Student-Research-Assistant_JR108205-1) | 2026-06-24 |
-| IHG | People & Culture Intern - InterContinental Boston | MA, United States | [Apply](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/164723) | 2026-06-24 |
 | IKO | Process Engineering Co-Op | Hawkesbury, ON | [Apply](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Hawkesbury-ON/Process-Engineering-Co-Op_REQ-13312) | 2026-06-24 |
 | ING | INTERNSHIP - Technico Commercial | Luxembourg (siège Lux House) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Luxembourg-Sige-Lux-House/INTERNSHIP---Corporate-Electronic-Banking-Implementation_REQ-10116794) | 2026-06-24 |
 | International Rescue Committee (IRC) | Refugee Resettlement Intern (Fall 2026) | Md USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Refugee-Resettlement-Intern--Summer-2026-_JR00002353) | 2026-06-24 |

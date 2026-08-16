@@ -736,6 +736,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kimberly-Clark | Entry Level Operator Logistics | USA-Ct-New Milford | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-CT-New-Milford/Entry-Level-Operator-Logistics_886146-2) | 2026-07-02 |
 | Northwood Space | Electrical Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/af609880-1e6c-4f89-8594-3c593f6eba0f) | 2026-07-02 |
 | Ralliant | Field Applications Engineer - Entry Level | United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9554) | 2026-07-02 |
+| WSP | Early Career Building Electrical Engineer | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90288) | 2026-07-02 |
 | CannonDesign | Electrical - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8562759002) | 2026-07-01 |
 | CannonDesign | Experiential Graphic Designer - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8550946002) | 2026-07-01 |
 | Cleveland Clinic | New Grad RN Resident - Metabolic Surgery | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Metabolic-Surgery_334780) | 2026-07-01 |
