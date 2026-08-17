@@ -110,6 +110,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BerryDunn | Summer 2027 Outsourced Accounting Internship | Portland, ME, United States / Manchester, NH, United States / Bangor, ME, United States / Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3994/summer-2027-outsourced-accounting-internship/job) | 2026-08-17 |
 | Boom Supersonic | Summer 2027 Engineering and Tech Internship | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) | 2026-08-17 |
 | BP | Summer Intern – Reservoir Engineer – Houston, TX | United States Of America Texas Houston | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2) | 2026-08-17 |
+| Caddi Workflow Automation | Software Engineer Intern | Washington, United States | [Apply](https://apply.workable.com/trycaddi/j/9D1291C697/) | 2026-08-17 |
 | Caterpillar | Digital Transformation Support Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Digital-Transformation-Support-Intern_R0000388541-1) | 2026-08-17 |
 | Caterpillar | Project Coordinator Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Project-Coordinator-Intern_R0000388557) | 2026-08-17 |
 | Chanel | Stage - Assistant Chef de Projet Digital Expérience Client - Parfums Beauté – Janvier 2027 - H/F/X | Neuilly-Sur-Seine | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-Chef-de-Projet-Digital-Exprience-Client---Parfums-Beaut---Janvier-2027---H-F-X_JOBREQ00116054) | 2026-08-17 |
@@ -574,6 +575,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kyndryl - KyndrylProfessionalCareers | Legal Intern | India | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Legal-Intern_R-60263) | 2026-08-17 |
 | LinkedIn | Client Solutions Intern - LinkedIn Marketing Solutions (Estágio) | São Paulo, SP | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000143794178) | 2026-08-17 |
 | Loblaw Companies | Student, Franchise Part Time Day | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/25-Photography-Dr-Toronto-ON/Student--Franchise-Part-Time-Day_R2000694642) | 2026-08-17 |
+| Luminance | AI Engineering Intern | England, United Kingdom | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/) | 2026-08-17 |
 | Léger | Research Intern | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336) | 2026-08-17 |
 | Magnera | IT Data Analyst Intern | Evansville, IN, United States | [Apply](https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job) | 2026-08-17 |
 | Mapjects | Business Analyst , Functional Analyst | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675607) | 2026-08-17 |
