@@ -21,11 +21,88 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AARP | Advocacy and Communications Intern (Fall) | Texas | [Apply](https://careers.aarp.org/jobs/7488?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Advocacy and Outreach Intern | Louisiana | [Apply](https://careers.aarp.org/jobs/7466?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Advocacy Intern | Rhode Island | [Apply](https://careers.aarp.org/jobs/7755?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Advocacy Intern | Tennessee | [Apply](https://careers.aarp.org/jobs/7729?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Advocacy Mobilization Intern (Fall) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7593?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Advocacy, Outreach and Volunteer Engagement Intern | Georgia | [Apply](https://careers.aarp.org/jobs/7726?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications and Outreach Intern | Delaware | [Apply](https://careers.aarp.org/jobs/7710?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications and Outreach Intern | West Virginia | [Apply](https://careers.aarp.org/jobs/7462?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications and Volunteer Engagement Intern | North Dakota | [Apply](https://careers.aarp.org/jobs/7723?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications Intern | Mississippi | [Apply](https://careers.aarp.org/jobs/7775?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications Intern | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7464?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Communications, Outreach and Advocacy Intern | Maine | [Apply](https://careers.aarp.org/jobs/7461?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Community Outreach and Advocacy Intern | Washington | [Apply](https://careers.aarp.org/jobs/7763?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Community Outreach and Communications Intern | New Hampshire | [Apply](https://careers.aarp.org/jobs/7767?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Data Analyst Intern | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7355?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Data Science and Advanced Analytics Intern | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7437?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Digital Engagement Intern | Alabama | [Apply](https://careers.aarp.org/jobs/7715?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Ethics and Compliance Intern | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7702?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Foundation Litigation Intern (Summer 2027) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7733?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Information Technology Intern (Graduate Student) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7424?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Integrated Communications and Engagement Intern | Ohio | [Apply](https://careers.aarp.org/jobs/7750?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Legal Counsel for the Elderly Intern | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7471?lang=en-us&icims=1) | 2026-08-17 |
+| AARP | Library and Research Intern (Graduate Student) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7399?lang=en-us&icims=1) | 2026-08-17 |
 | ABB | AC Engineering Intern-1 | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/AC-Engineering-Intern-1_JR00044521) | 2026-08-17 |
 | ABB | Product Magement Intern NL | Netherlands | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Rotterdam-South-Holland-Netherlands/Product-Magement-Intern-NL_JR00044131) | 2026-08-17 |
 | Airbus | Finance intern (Treasury) | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Finance-intern--Treasury-_JR10435653) | 2026-08-17 |
 | Airbus | Flowline Intern | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Flowline-Intern_JR10427106) | 2026-08-17 |
 | Baker Hughes | Intern Business (Indonesia) 2026 Opportunities | Cilandak Barat | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/ID-JW-JAKARTA-JI-RA-KARTINI-KAV-8-CILANDAK-BARAT/Intern-Business--Indonesia--2026-Opportunities_R168104) | 2026-08-17 |
+| Bank of China USA | ADC/RSD Information/Cybersecurity Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/1941/adc-rsd-information-cybersecurity-intern/job) | 2026-08-17 |
+| Bank of China USA | Bank Clearing Department - Application Support Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2566/bank-clearing-department---application-support-intern/job) | 2026-08-17 |
+| Bank of China USA | Bank Clearing Department Application Support Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2568/bank-clearing-department-application-support-intern/job) | 2026-08-17 |
+| Bank of China USA | BKD QCU Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/1924/bkd-qcu-intern/job) | 2026-08-17 |
+| Bank of China USA | Credit Risk Management Department - Risk Analytics Model Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4081/credit-risk-management-department---risk-analytics-model-intern/job) | 2026-08-17 |
+| Bank of China USA | Enterprise Risk Management Department - Risk Data Aggregation Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4470/enterprise-risk-management-department---risk-data-aggregation-intern/job) | 2026-08-17 |
+| Bank of China USA | ERM Risk Data Aggregation Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4326/erm-risk-data-aggregation-intern/job) | 2026-08-17 |
+| Bank of China USA | Financial Institutions Department-FLU Risk Management Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3418/financial-institutions-department-flu-risk-management-intern/job) | 2026-08-17 |
+| Bank of China USA | Global Markets Department-Global Markets Sales Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4476/global-markets-department-global-markets-sales-intern/job) | 2026-08-17 |
+| Bank of China USA | Human Resources Department - Benefit and Compensation Team Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3649/human-resources-department---benefit-and-compensation-team-intern/job) | 2026-08-17 |
+| Bank of China USA | Human Resources Department - Expatriate Management Team Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4308/human-resources-department---expatriate-management-team-intern/job) | 2026-08-17 |
+| Bank of China USA | Human Resources Department-Employee Management Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3997/human-resources-department-employee-management-intern/job) | 2026-08-17 |
+| Bank of China USA | Internal Audit Department - Quality Assurance Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4098/internal-audit-department---quality-assurance-intern/job) | 2026-08-17 |
+| Bank of China USA | Internal Audit Department Data Analytics Audit Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4114/internal-audit-department-data-analytics-audit-intern/job) | 2026-08-17 |
+| Bank of China USA | Legal & Compliance Department - COO Office Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4480/legal-%26-compliance-department---coo-office-intern/job) | 2026-08-17 |
+| Bank of China USA | Legal and Compliance Department - Compliance Training Team Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3391/legal-and-compliance-department---compliance-training-team-intern/job) | 2026-08-17 |
+| Bank of China USA | Legal Office - FLU Risk Management Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4079/legal-office---flu-risk-management-intern/job) | 2026-08-17 |
+| Bank of China USA | MOD Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2431/mod-intern/job) | 2026-08-17 |
+| Bank of China USA | Operation Services - Back Office Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2577/operation-services---back-office-intern/job) | 2026-08-17 |
+| Bank of China USA | Operational Risk Management Department Governance Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3611/operational-risk-management-department-governance-intern/job) | 2026-08-17 |
+| Bank of China USA | Operational Risk Management Department New Activities Risk Management/Issues Management Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3613/operational-risk-management-department-new-activities-risk-management-issues-management-intern/job) | 2026-08-17 |
+| Bank of China USA | Operational Risk Management Governance Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2651/operational-risk-management-governance-intern/job) | 2026-08-17 |
+| Bank of China USA | OSD Back Office Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2286/osd-back-office-intern/job) | 2026-08-17 |
+| Bank of China USA | QNB Business Development Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/1998/qnb-business-development-intern/job) | 2026-08-17 |
+| Bank of China USA | Queens Branch - Teller Section & Safe Deposit Box Section Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/3941/queens-branch---teller-section-%26-safe-deposit-box-section-intern/job) | 2026-08-17 |
+| Bank of China USA | Treasury Liquidity & Funding Management intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/4119/treasury-liquidity-%26-funding-management-intern/job) | 2026-08-17 |
+| Bank of China USA | TSD Supply Chain & Trade Finance Section Intern | Not Specified | [Apply](https://careers-bocusa.icims.com/jobs/2432/tsd-supply-chain-%26-trade-finance-section-intern/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Audit Internship - Bangor, ME | Bangor, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4002/spring-2027-audit-internship---bangor%2c-me/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Audit Internship - Manchester, NH | Manchester, NH, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4003/spring-2027-audit-internship---manchester%2c-nh/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Audit Internship - Portland, ME | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3989/spring-2027-audit-internship---portland%2c-me/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Audit Internship - Waltham, MA | Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4004/spring-2027-audit-internship---waltham%2c-ma/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Outsourced Accounting Internship | Portland, ME, United States / Manchester, NH, United States / Bangor, ME, United States / Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3990/spring-2027-outsourced-accounting-internship/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Tax Internship - Bangor, ME | Bangor, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3999/spring-2027-tax-internship---bangor%2c-me/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Tax Internship - Manchester, NH | Manchester, NH, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3998/spring-2027-tax-internship---manchester%2c-nh/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Tax Internship - Not-For-Profit Focus | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4001/spring-2027-tax-internship---not-for-profit-focus/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Tax Internship - Portland, ME | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4000/spring-2027-tax-internship---portland%2c-me/job) | 2026-08-17 |
+| BerryDunn | Spring 2027 Tax Internship - Waltham, MA | Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3997/spring-2027-tax-internship---waltham%2c-ma/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Audit Internship - Bangor, ME | Bangor, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4007/summer-2027-audit-internship---bangor%2c-me/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Audit Internship - Manchester, NH | Manchester, NH, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4008/summer-2027-audit-internship---manchester%2c-nh/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Audit Internship - Portland, ME | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4006/summer-2027-audit-internship---portland%2c-me/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Audit Internship - Waltham, MA | Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4009/summer-2027-audit-internship---waltham%2c-ma/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Business Valuation Internship | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4018/summer-2027-business-valuation-internship/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Cybersecurity | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4020/summer-2027-consulting-internship---cybersecurity/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Digital Transformation | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3984/summer-2027-consulting-internship---digital-transformation/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Healthcare Data Management and Strategy | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3973/summer-2027-consulting-internship---healthcare-data-management-and-strategy/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Justice | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3983/summer-2027-consulting-internship---justice/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Management & Information Technology | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3968/summer-2027-consulting-internship---management-%26-information-technology/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Medicaid | Kapolei, HI, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3976/summer-2027-consulting-internship---medicaid/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Medicaid | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3975/summer-2027-consulting-internship---medicaid/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Organizational Development & Public Development Services | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3981/summer-2027-consulting-internship---organizational-development-%26-public-development-services/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Organizational Excellence, Medicaid | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3980/summer-2027-consulting-internship---organizational-excellence%2c-medicaid/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Consulting Internship - Parks, Recreation, and Libraries | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3985/summer-2027-consulting-internship---parks%2c-recreation%2c-and-libraries/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Internship - Technology Assurance | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4021/summer-2027-internship---technology-assurance/job) | 2026-08-17 |
+| BerryDunn | Summer 2027 Outsourced Accounting Internship | Portland, ME, United States / Manchester, NH, United States / Bangor, ME, United States / Waltham, MA, United States | [Apply](https://careers-berrydunn.icims.com/jobs/3994/summer-2027-outsourced-accounting-internship/job) | 2026-08-17 |
 | BP | Summer Intern – Reservoir Engineer – Houston, TX | United States Of America Texas Houston | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2) | 2026-08-17 |
 | Caterpillar | Digital Transformation Support Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Digital-Transformation-Support-Intern_R0000388541-1) | 2026-08-17 |
 | Caterpillar | Project Coordinator Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Project-Coordinator-Intern_R0000388557) | 2026-08-17 |
@@ -230,6 +307,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern - Grad | Oh Toledo | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Toledo/Pharmacy-Intern---Grad_R1013353-1) | 2026-08-17 |
 | CVS Health | Pharmacy Intern - Grad | Oh Rossford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Rossford/Pharmacy-Intern---Grad_R1013355) | 2026-08-17 |
 | CVS Health | Pharmacy Intern - Grad | Oh Sylvania | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Sylvania/Pharmacy-Intern---Grad_R1013352) | 2026-08-17 |
+| Daktronics | Firmware/Hardware Design Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7492/firmware-hardware-design-student/job) | 2026-08-17 |
+| Daktronics | Software Design Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7493/software-design-student/job) | 2026-08-17 |
 | Dedalus Labs | Design Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2) | 2026-08-17 |
 | Dedalus Labs | Growth Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/e5aca007-42ed-48a1-b553-50466381326b) | 2026-08-17 |
 | Dedalus Labs | Infrastructure Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) | 2026-08-17 |
@@ -280,6 +359,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Vernova - vernova_externalsite | GE Vernova Engineering Intern (Summer 2027) | Clearwater | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Clearwater/GE-Vernova-Engineering-Intern--Summer-2027-_R5050017-2) | 2026-08-17 |
 | GlobalFoundries | HRBP Intern (Jan – Jun 2027) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/HRBP-Intern--Jan---Jun-2027-_JR-2604492) | 2026-08-17 |
 | GlobalFoundries | Power Development Intern (Jan - Jun 2027) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Power-Development-Intern--Jan---Jun-2027-_JR-2604404) | 2026-08-17 |
+| GSK | Fall Co-op/AI Commercial Strategy & Activation | US-Durham Nc / Hybrid | [Apply](https://gsk-us-earlytalent.icims.com/jobs/10444/fall-co-op-ai-commercial-strategy-%26-activation/job) | 2026-08-17 |
+| GSK | Fall Co-op/AI Portfolio | US-Durham Nc / Hybrid | [Apply](https://gsk-us-earlytalent.icims.com/jobs/10503/fall-co-op-ai-portfolio/job) | 2026-08-17 |
+| GSK | Fall Co-op/In Vivo DMPK | US-Upper Providence Pa / Onsite | [Apply](https://gsk-us-earlytalent.icims.com/jobs/10496/fall-co-op-in-vivo-dmpk/job) | 2026-08-17 |
+| GSK | Fall Co-op/Strategic and Government Contracting | US-Philadelphia Pa / Hybrid | [Apply](https://gsk-us-earlytalent.icims.com/jobs/10380/fall-co-op-strategic-and-government-contracting/job) | 2026-08-17 |
 | Haleon | Intern | Suzhou Plant Tech Industry Park | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Suzhou-Plant-Tech-Industry-Park/Intern_547123) | 2026-08-17 |
 | Haleon | Sales Representative Intern | China Jiangsu Suzhou Suzhou Industrial Park No.40 West Suhong Road | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Jiangsu---Suzhou---Suzhou-Industrial-Park---No40-West-SuHong-Road/Sales-Representative-Intern_545983-1) | 2026-08-17 |
 | Haleon | Sales Representative Intern | China Jiangsu Nanjing Gulou District Phoenix Plaza Block B | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Jiangsu---Nanjing--GuLou-District---Phoenix-Plaza---Block-B/Sales-Representative-Intern_545985) | 2026-08-17 |
@@ -293,6 +376,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Highmark Health | Summer 2027 Actuarial Science Undergraduate Intern | Fap | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Actuarial-Science-Undergraduate-Intern_J284858) | 2026-08-17 |
 | HP | College Intern - Data Engineering & AI | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Engineering---AI_UNI4131-1) | 2026-08-17 |
 | Hypercubic | Software Engineering Internship | California, United States | [Apply](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490) | 2026-08-17 |
+| IES Holdings | Data Analytics - Intern | Wisconsin | [Apply](https://joinus.ies-co.com/jobs/24176?lang=en-us&icims=1) | 2026-08-17 |
 | Ingredion | Intern, Finance | Kuala Lumpur Ssc | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Kuala-Lumpur-SSC/Intern--Finance_Req-39996) | 2026-08-17 |
 | Intel | AI/ML Software Development Intern | Kulim | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) | 2026-08-17 |
 | Intel | Production ME Student for Intel Kiryat Gat | Kiryat-Gat | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Kiryat-Gat/Production-ME-Student-for-Intel-Kiryat-Gat_JR0286364) | 2026-08-17 |
@@ -304,14 +388,92 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Itron - Itron | Techno Functional Intern - IT Operations | Bangalore | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/India-Bangalore/Techno-Functional-Intern---IT-Operations_JR102834) | 2026-08-17 |
 | Jonas Software | AI Enablement Co-op | Canada Markham Ontario | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/AI-Enablement-Co-op_R51041-1) | 2026-08-17 |
 | Jones Lang LaSalle (JLL) | Business Support, Intern | Malaysia | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kuala-Lumpur-Malaysia/Business-Support--Intern_REQ528203) | 2026-08-17 |
+| Keysight Technologies | Full Stack Development Intern | Singapore | [Apply](https://jobs.keysight.com/jobs/53790?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | BC Offices – CPA and Non-CPA Opportunities in IT Audit – Co-op – Fall 2027 Start | Vancouver, Canada / Victoria, Canada / Kelowna, Canada | [Apply](https://careers.kpmg.ca/jobs/33444?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | BC Offices – Non-CPA Opportunities in Risk Services – Technology Risk Services – Co-op – 2027 Start | Vancouver, Canada / Victoria, Canada / Kelowna, Canada | [Apply](https://careers.kpmg.ca/jobs/33438?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | BC Offices – Non-CPA Opportunities in Risk Services – Technology Risk Services – Summer Intern – Summer 2027 Start | Vancouver, Canada / Victoria, Canada / Kelowna, Canada | [Apply](https://careers.kpmg.ca/jobs/33437?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Calgary Internship, Management Consulting (January - April 2027) | Calgary, Canada | [Apply](https://careers.kpmg.ca/jobs/33357?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Calgary Office – CPA Avenues Opportunities – Summer Internship – May 2027 – August 2027 | Calgary, Canada | [Apply](https://careers.kpmg.ca/jobs/33545?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Deal Advisory (CPA) - Transaction Services Intern/Co-op - Toronto - Winter, Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33259?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Deal Advisory - Infrastructure, Capital Projects, & Sustainability Summer Intern - Toronto - Summer 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33352?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Deal Advisory - Valuations - Complex Financial Instruments Co-op (8-month) - Toronto - Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33273?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Deal Advisory - Valuations - Dispute Advisory Services Intern/Co-op - Toronto - Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33362?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Deal Advisory - Valuations - Machinery & Equipment Co-op (4-month) - Toronto - Winter 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33363?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Edmonton Management Consulting TST Internship Consultant (January - April 2027) | Edmonton, Canada | [Apply](https://careers.kpmg.ca/jobs/33375?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - CPA Opportunities in Audit - Co-op - Winter 2027 | Toronto, Canada / Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33280?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - CPA Opportunities in Audit - Internship - Summer 2027 | Toronto, Canada / Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33281?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - CPA Opportunities in Tax - Internship & Co-op - Winter 2027 & Summer 2027 | Toronto, Canada / Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33311?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - Opportunities in Asset Management Digital Solutions - Product Specialist - Co-op & Intern - Summer 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33301?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - Opportunities in Asset Management Digital Solutions - Software Developer - Co-op & Intern - Summer 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33306?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - Opportunities in Global Compliance and Transformation - Technical Consultant - Co-op & Intern - Winter 2027, Summer 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33307?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - Opportunities in Private Enterprise Core Services - Co-op Student - Winter 2027 | Toronto, Canada / Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33283?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GTA Office - Opportunities in Private Enterprise Core Services - Internship - Summer 2027 | Toronto, Canada / Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33288?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GVA Internship Opportunities, Management Consulting - Summer Internship (May - August 2027) | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33378?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GVA Office – CPA and Non-CPA Opportunities in Risk Services – Governance, Risk and Compliance Services – Co-op – 2027 Start | Vancouver, Canada / Victoria, Canada | [Apply](https://careers.kpmg.ca/jobs/33431?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | GVA Office – CPA and Non-CPA Opportunities in Risk Services – Governance, Risk and Compliance Services – Summer Internship – Summer 2027 Start | Vancouver, Canada / Victoria, Canada | [Apply](https://careers.kpmg.ca/jobs/33429?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Halifax Office - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Halifax, Canada | [Apply](https://careers.kpmg.ca/jobs/33322?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Hamilton & Oakville Offices - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Hamilton, Canada / Oakville, Canada | [Apply](https://careers.kpmg.ca/jobs/33336?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Kamloops Office – CPA Opportunities in Audit – 4-month Co-op – Summer 2027 Start | Kamloops, Canada | [Apply](https://careers.kpmg.ca/jobs/33287?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Kamloops Office – CPA Opportunities in Audit – 8-month Co-op – January 2027 Start | Kamloops, Canada | [Apply](https://careers.kpmg.ca/jobs/33286?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Kelowna Office – CPA Opportunities in Audit – 8-month Co-op – January 2027 Start | Kelowna, Canada | [Apply](https://careers.kpmg.ca/jobs/33291?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Kingston Office - Opportunities in Audit - Co-op/Intern - Summer 2027 | Kingston, Canada | [Apply](https://careers.kpmg.ca/jobs/33331?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Kitchener-Waterloo Office - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Waterloo, Canada | [Apply](https://careers.kpmg.ca/jobs/33327?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | London Office - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | London, Canada | [Apply](https://careers.kpmg.ca/jobs/33333?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Management Consulting Enterprise Solutions: Consultant,  Internship  (Jan-April '27) | Toronto, Canada / Vancouver, Canada / Calgary, Canada / Halifax, Canada / Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33251?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Management Consulting GMA:  Consultant, Internship (Jan-April '27) | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33383?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Management Consulting GTA: Consultant, Internship (Jan-April '27) | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33354?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Management Consulting GTA: Senior Consultant, Internship (Jan-April '27) | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33459?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Management Consulting OTTAWA: Consultant, Internship (Jan-April '27) | Ottawa, Canada | [Apply](https://careers.kpmg.ca/jobs/33391?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Moncton and Fredericton - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Moncton, Canada / Fredericton, Canada | [Apply](https://careers.kpmg.ca/jobs/33348?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Montréal \| CPA Opportunities in Audit (Summer, Co-op and Full-Time internship) | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33305?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad – Winter 2027, Summer 2027, and Fall 2027 | Toronto, Canada / Burnaby, Canada / Calgary, Canada / Chilliwack, Canada / Edmonton, Canada / Fredericton, Canada / Halifax, Canada / Hamilton, Canada / Kamloops, Canada / Kelowna, Canada / Kingston, Canada / Kitchener, Canada / Lethbridge, Canada / London, Canada / Moncton, Canada / North Bay, Canada / Oakville, Canada / Ottawa, Canada / Prince George, Canada / Regina, Canada / Saint John, Canada / Saskatoon, Canada / St. Catharines, Canada / St. John's, Canada / Sudbury, Canada / Vancouver, Canada / Vaughan, Canada / Victoria, Canada / Waterloo, Canada / Windsor, Canada / Winnipeg, Canada / Abbotsford, Canada | [Apply](https://careers.kpmg.ca/jobs/33148?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | North Bay, Sault Ste. Marie, Sudbury Offices - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | North Bay, Canada / Sault Ste. Marie, Canada / Sudbury, Canada | [Apply](https://careers.kpmg.ca/jobs/33343?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | North Bay, Sault Ste. Marie, Sudbury Offices - Opportunities in Enterprise Core Services - Co-op/Intern - Winter 2027, Summer 2027 | Sault Ste. Marie, Canada / Sudbury, Canada / North Bay, Canada | [Apply](https://careers.kpmg.ca/jobs/33345?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Ottawa and Kanata Offices - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Ottawa, Canada / Kanata, Canada | [Apply](https://careers.kpmg.ca/jobs/33350?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Prince George Office – CPA Opportunities in Audit – 4-month Co-op – Summer 2027 Start | Prince George, Canada | [Apply](https://careers.kpmg.ca/jobs/33292?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Deal Advisory - Intern Corporate finance – Mergers & Acquisitions - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33448?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Intern Copilot - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33501?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Intern Forensic - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33538?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Intern Strategy & Economy - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33464?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Risk Services - Intern Cyber Security 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33446?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC - Risk Services Intern Financial Risk Management (FRM) - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33421?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC- Deal Advisory - Intern Business Strategy & Financial Modeling - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33443?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC- Deal Advisory - Intern Strategy & Operations - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33465?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | QC- Risk Services - Intern Governance, Risk and Compliance Services (GRC) - 2027 | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33450?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services (CPA) - Forensic Disputes & Investigations Intern/Co-op - Toronto - Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33276?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services (Non-CPA) - Actuarial Intern/Co-op - Toronto - Winter, Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33302?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services (Non-CPA) - Cyber Security Co-op (4-month) - Toronto - Winter 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33304?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services (Non-CPA) - Forensic Financial Crimes Intern/Co-op - Toronto - Winter, Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33312?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services (Non-CPA) - Forensic Technology Intern/Co-op - Toronto - Winter, Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33310?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services - Regulatory and Risk Advisory Intern/Co-op - Toronto - Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33366?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services - Technology Risk Services Intern/Co-op - Ontario & Atlantic - Winter, Summer or Fall 2027 | Toronto, Canada / Ottawa, Canada / St. John's, Canada / Halifax, Canada | [Apply](https://careers.kpmg.ca/jobs/33316?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Risk Services - Technology Risk Services Intern/Co-op - Toronto - Summer or Fall 2027 | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33314?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | St. John's Office - Opportunities in Audit - Co-op/Intern - Winter 2027 | St. John's, Canada | [Apply](https://careers.kpmg.ca/jobs/33329?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Toronto Office - CPA Opportunities in Tax - Full Time | Toronto, Canada | [Apply](https://careers.kpmg.ca/jobs/33308?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vancouver Office – CPA Opportunities in Audit – 4-month Co-op – January 2027 Start | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33234?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vancouver Office – CPA Opportunities in Audit – 4-month Co-op – January 2028 Start | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33238?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vancouver Office – CPA Opportunities in Audit – 8-month Co-op – Fall 2027 Start | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33232?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vancouver Office – CPA Opportunities in Audit – Summer Intern – Summer 2027 Start | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33237?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vancouver Office – CPA Opportunities in Tax – 4-month Co-op – January 2027 Start | Vancouver, Canada | [Apply](https://careers.kpmg.ca/jobs/33380?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vaughan Office - CPA Opportunities in Tax - Full Time - Fall 2027 | Vaughan, Canada | [Apply](https://careers.kpmg.ca/jobs/33309?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vernon Office – CPA Opportunities in Audit – 4-month Co-op – Summer 2027 Start | Vernon, Canada | [Apply](https://careers.kpmg.ca/jobs/33293?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Vernon Office – CPA Opportunities in Audit – 4-month Co-op – Winter 2027 Start | Vernon, Canada | [Apply](https://careers.kpmg.ca/jobs/33295?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Victoria Internship Opportunities, Management Consulting, Summer Internship (May - August 2027) | Victoria, Canada | [Apply](https://careers.kpmg.ca/jobs/33379?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Victoria Office – CPA Opportunities in Private Enterprise Audit – 4-month Co-op – January 2027 Start | Victoria, Canada | [Apply](https://careers.kpmg.ca/jobs/33254?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Victoria Office – CPA Opportunities in Private Enterprise Audit – Summer Internship – Summer 2027 Start | Victoria, Canada | [Apply](https://careers.kpmg.ca/jobs/33256?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Windsor Office - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Windsor, Canada | [Apply](https://careers.kpmg.ca/jobs/33325?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Windsor Office - Opportunities in Canadian Tax - Co-op - Winter 2027 | Windsor, Canada | [Apply](https://careers.kpmg.ca/jobs/33520?lang=en-us&icims=1) | 2026-08-17 |
+| KPMG | Winnipeg Management Consulting P&C Internship Consultant (January - April 2027) | Winnipeg, Canada | [Apply](https://careers.kpmg.ca/jobs/33384?lang=en-us&icims=1) | 2026-08-17 |
 | Kyndryl - KyndrylProfessionalCareers | Legal Intern | India | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Legal-Intern_R-60263) | 2026-08-17 |
 | Loblaw Companies | Student, Franchise Part Time Day | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/25-Photography-Dr-Toronto-ON/Student--Franchise-Part-Time-Day_R2000694642) | 2026-08-17 |
+| Magnera | IT Data Analyst Intern | Evansville, IN, United States | [Apply](https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job) | 2026-08-17 |
 | Mars | Internship Estandarización Operativa y Aprendizaje Digital | Mex-Jalisco-Guadalajara | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/MEX-Jalisco-Guadalajara/Internship-Estandarizacin-Operativa-y-Aprendizaje-Digital_R163729-1) | 2026-08-17 |
 | Mars | Internship Ingeniería Industrial/ Training | Mex-Nuevo Leon-Montemorelos | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/MEX-Nuevo-Leon-Montemorelos/Internship-Ingeniera-Industrial--Training_R163732-1) | 2026-08-17 |
 | Mars | Internship Internal Control and Events | Mex-Queretaro-Queretaro | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/MEX-Queretaro-Queretaro/Internship-Internal-Control-and-Events_R163730-1) | 2026-08-17 |
 | Mars | Internship Marketing | Mex-Queretaro-Queretaro | [Apply](https://mars.wd3.myworkdayjobs.com/external/job/MEX-Queretaro-Queretaro/Internship-Marketing_R163731-1) | 2026-08-17 |
 | Marsh | Investment Consulting Intern | Melbourne 727 Collins | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Melbourne---727-Collins/Investment-Consulting-Intern_R_361802) | 2026-08-17 |
 | Marsh | Investment Consulting Intern | Sydney Barangaroo | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Sydney---Barangaroo/Investment-Consulting-Intern_R_361804) | 2026-08-17 |
+| MaxLinear | AI Intern | Carlsbad, United States | [Apply](https://careersus-maxlinear.icims.com/jobs/3049/ai-intern/job) | 2026-08-17 |
 | Medtronic | CV Intern | Hong Kong | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Hong-Kong-Hong-Kong/CV-Intern_R72761) | 2026-08-17 |
 | Medtronic | Electrical Engineering Student | Israel | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Caesarea-Haifa-Israel/Electrical-Engineering-Student_R74528) | 2026-08-17 |
 | Medtronic - MedtronicCareers | CV Intern | Hong Kong | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hong-Kong-Hong-Kong/CV-Intern_R72761-1) | 2026-08-17 |
@@ -322,6 +484,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - Wet Etch Process Development Engineer | Id Main Site | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) | 2026-08-17 |
 | Micron Technology | Intern 2027 - DRAM Customer Enablement Engineering | Taiwan | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783) | 2026-08-17 |
 | MKS Instruments | 2026 Fall Employer Branding Intern | China Shenzhen / China Shanghai Pudong | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/China-Shenzhen/XMLNAME-2026-Fall-Employer-Branding-Intern_R21915) | 2026-08-17 |
+| MPR Associates | Summer/Co-op Engineer | Alexandria, VA, United States / East Lyme, CT, United States / Burlington, MA, United States / Salt Lake City, UT, United States | [Apply](https://careers-mpr.icims.com/jobs/1524/summer-co-op-engineer/job) | 2026-08-17 |
+| Noblis | Machinery Silencing Technician - Internship | Pennsylvania | [Apply](https://careers.noblis.org/jobs/27606?lang=en-us&icims=1) | 2026-08-17 |
 | Novartis | Intern Data Analyst | Hyderabad (office) | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942) | 2026-08-17 |
 | NVIDIA | Laser and Optics Development Student | Yokneam | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Laser-and-Optics-Development-Student_JR2022521) | 2026-08-17 |
 | OH.io | GTM Engineer – Part-Time Student Associate | Columbus, OH | [Apply](https://job-boards.greenhouse.io/ohio/jobs/4361901009) | 2026-08-17 |
@@ -665,8 +829,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Jones Lang LaSalle (JLL) | Capital Markets Summer 2027 Internship - New York | New York, NY | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Capital-Markets-Summer-2027-Internship---New-York_REQ528322) | 2026-08-15 |
 | KBR | Junior Engineer - Intern | Colorado | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Engineer---Intern_R2128287) | 2026-08-15 |
 | Keysight Technologies | Research Intern (PhD students) | California | [Apply](https://jobs.keysight.com/jobs/53743?lang=en-us&icims=1) | 2026-08-15 |
-| Kimley-Horn | Civil Engineering Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25846/civil-engineering-intern/job) | 2026-08-15 |
-| Kimley-Horn | Landscape Architecture Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25830/landscape-architecture-intern/job) | 2026-08-15 |
 | Kraft Heinz - KraftHeinz_Careers | Benefits Intern EPDM | Amsterdam | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Benefits-Intern-EPDM_R-105695) | 2026-08-15 |
 | LabCorp | MLS Student Trainee | Raritan Nj | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Raritan-NJ/MLS-Student-Trainee_2627240) | 2026-08-15 |
 | LabCorp | MLS Student Trainee | Phoenix Az | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/MLS-Student-Trainee_2625033) | 2026-08-15 |
@@ -960,7 +1122,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kenvue | Content Strategy Intern | Jakarta Raya | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Indonesia-Jawa-Jakarta-Raya/Content-Strategy-Intern_2607048089W) | 2026-08-14 |
 | KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | 2026-08-14 |
 | KeyBank | 2027 Summer Risk Management Internship Program- Cleveland | Cleveland, OH | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Risk-Management-Internship-Program--Cleveland_R-41378) | 2026-08-14 |
-| Kimley-Horn | Structural Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25819/structural-intern/job) | 2026-08-14 |
 | Kroll | Intern Valuations | Netherlands | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014733) | 2026-08-14 |
 | LabCorp | MLS Trainee Student Worker | Phoenix Az | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/MLS-Trainee-Student-Worker_2625031) | 2026-08-14 |
 | Loblaw Companies | Soup, Sandwich, Chill and Grill Student Part Time Day | Hamilton, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1579-Main-St-W-Hamilton-ON/Soup--Sandwich--Chill-and-Grill-Student-Part-Time-Day_R2000693725) | 2026-08-14 |
@@ -1571,8 +1732,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Johnson Controls - JCI_Confidential | Fire Engineering Intern | San Jose-San Jose-Costa Rica | [Apply](https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/San-Jose-San-Jose-Costa-Rica/Fire-Engineering-Intern_WD30276565) | 2026-08-12 |
 | Jones Lang LaSalle (JLL) | HVAC Technician Intern | Seattle, WA | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097) | 2026-08-12 |
 | Jones Lang LaSalle (JLL) | Intern, Office Leasing Advisory | Philippines | [Apply](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Makati-Philippines/Intern--Office-Leasing-Advisory_REQ523575) | 2026-08-12 |
-| Kimley-Horn | Graphic Design Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25766/graphic-design-intern/job) | 2026-08-12 |
-| Kimley-Horn | Software Developer Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/25761/software-developer-intern/job) | 2026-08-12 |
 | Lawrence Livermore National Laboratory (LLNL) | CGSR Research Associate Graduate - Spring 2027 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014540385) | 2026-08-12 |
 | Lawrence Livermore National Laboratory (LLNL) | CGSR Undergraduate Research Associate - Spring 2027 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014540256) | 2026-08-12 |
 | Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Division Graduate Intern - Fall 2026 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014541076) | 2026-08-12 |
@@ -4470,7 +4629,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HNTB - hntb_university_careers | Returning New Grad Engineer I - Winter/Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only) | Pa (pennsylvania) / Harrisburg, PA / Nc (whitehall) / Pittsburgh, PA / Baltimore, MD / Wv (elkins) / Raleigh, NC / Charlotte, NC / Nc (raleigh Field) / Virginia Beach, VA / Wv (charleston) / North Charleston, SC / Washington, DC / Va (richmond) / Pa (norristown) / Va (alexandria) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Philadelphia-PA-Pennsylvania/Returning-New-Grad-Engineer-I---Winter-Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-30929) | 2026-07-29 |
 | HP | College Intern - Supply Chain | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Supply-Chain_UNI4138-1) | 2026-07-29 |
 | Insulet Corporation | Intern, Maintenance Engineering | Johor | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Gelang-Patah-Johor/Intern--Maintenance-Engineering_REQ-2026-15478) | 2026-07-29 |
-| Keysight Technologies | Hardware Development Internship – Automotive and Energy Solutions | Germany | [Apply](https://jobs.keysight.com/jobs/53598?lang=en-us&icims=1) | 2026-07-29 |
 | Kognitos | Forward Deployed Engineer Intern (Mountain View) | California, United States | [Apply](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148) | 2026-07-29 |
 | Live Nation Entertainment | STAGE - Assistant.e de production | Fr Paris 11 Rue Paul Lelong | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/FR-Paris---11-Rue-Paul-Lelong/STAGE---Assistante-de-production_JR-92032) | 2026-07-29 |
 | Loblaw Companies | Student, Franchise Part Time Afternoon | London, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-925-Southdale-Rd-W-London-ON/Student--Franchise-Part-Time-Afternoon_R2000688410) | 2026-07-29 |
@@ -4611,7 +4769,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HP | College Intern – R&D Mechanical Engineer | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---R-D-Mechanical-Engineer_UNI4654-2) | 2026-07-28 |
 | Intertek | Intern | El Paso, TX, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15427) | 2026-07-28 |
 | Iowa State University | Graduate Student Services Specialist II - EMBA Coordinator | Ames, IA | [Apply](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Graduate-Student-Services-Specialist-II---EMBA-Coordinator_R19644) | 2026-07-28 |
-| Keysight Technologies | Technical Marketing Engineer Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/53611?lang=en-us&icims=1) | 2026-07-28 |
 | Later | Data/Analytics Co-op | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8647385002) | 2026-07-28 |
 | Lila Sciences - lilasciences | Co-Op, Enterprise Go-to-Market | Ma USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4332041009) | 2026-07-28 |
 | Lucid Motors | Business Operations Intern | Amsterdam, NH | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5197324007) | 2026-07-28 |
@@ -5377,7 +5534,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | KION Group - kiongroup | HR Intern | Poland | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Krakw-Poland/HR-Intern_JR-0088653) | 2026-07-22 |
 | Kroll | Intern, Valuation Services | Germany | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014559) | 2026-07-22 |
 | Loblaw Companies | Coffee Shop Student/Asst PT Part Time Day | Vaughan, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/3940-Highway-7-RR-2-Vaughan-ON/Coffee-Shop-Student-Asst-PT-Part-Time-Day_R2000686432) | 2026-07-22 |
-| Lynker | Grants and Internship Program Support | Not Specified | [Apply](https://careers-lynker.icims.com/jobs/1616/grants-and-internship-program-support/job) | 2026-07-22 |
 | Medpace, Inc. | AI Engineering Intern | London, United Kingdom | [Apply](https://careers.medpace.com/jobs/12863?lang=en-us&icims=1) | 2026-07-22 |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Mi Detroit Sales Office | [Apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26) | 2026-07-22 |
 | Micron Technology | Advanced Engineering & Manufacturing Internship (Singapore) | Fab 10n / Singapore | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Advanced-Engineering---Manufacturing-Internship_JR106775) | 2026-07-22 |
@@ -5480,7 +5636,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AbbVie | 2027 Packaging Co-Op (Jan - June) | North Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014191096) | 2026-07-21 |
 | AECOM | Civil Engineering Intern | Akron, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000138707446) | 2026-07-21 |
 | AECOM | Civil Engineering Intern | Cleveland, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000138707549) | 2026-07-21 |
-| Affiliated Engineers | Mechanical Engineer Intern | Gainesville | [Apply](https://careers-aeieng.icims.com/jobs/5748/mechanical-engineer-intern/job) | 2026-07-21 |
 | Airbus | IT Digital Workplace Internship - Workspace Operation Specialist Support (d/f/m) | Donauwörth | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/IT-Digital-Workplace-Internship---Workspace-Operation-Specialist-Support--d-f-m-_JR10418211-1) | 2026-07-21 |
 | AMAROK Security | Sales Intern | Columbia | [Apply](https://job-boards.greenhouse.io/amarok/jobs/6119503004) | 2026-07-21 |
 | American Tower | Finance Internship Opportunity – Accounts Receivable | São Paulo, SP | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2766) | 2026-07-21 |
@@ -7228,7 +7383,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | JINGDONG | JD Young Delivery Station Operations Internship | Nld-North Holland-Amsterdam | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/NLD-North-Holland-Amsterdam/JD-Young-Delivery-Station-Operations-Internship_JR103001) | 2026-07-02 |
 | Kimberly-Clark | Order To Cash Intern | Malaysia Petaling Jaya | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Malaysia---Petaling-Jaya/Order-To-Cash-Intern_886122-1) | 2026-07-02 |
 | Kimberly-Clark | OTC - Intern | Malaysia Petaling Jaya | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/Malaysia---Petaling-Jaya/OTC---Intern_886096-2) | 2026-07-02 |
-| Kimley-Horn | Accounts Payable Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/24728/accounts-payable-intern/job) | 2026-07-02 |
 | KLA - Search | Research Scientist Student | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Research-Scientist-Student_2638234-1) | 2026-07-02 |
 | kos.ai | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) | 2026-07-02 |
 | Lila Sciences - lilasciences | Co-Op, Autonomous SEM | Ma USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) | 2026-07-02 |
@@ -7478,7 +7632,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hitachi | Energy Internship | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Energy-Internship_R0135781) | 2026-06-30 |
 | Hitachi | HSE Intern | Vietnam | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bac-Ninh-Bc-Ninh-Vietnam/HSE-Intern_R0135255-1) | 2026-06-30 |
 | International Flavors & Fragrances | Intern Project Coordination  Fragrance development | Netherlands | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Hilversum-Liebergerweg-Netherlands/Intern-Project-Coordination_R19347) | 2026-06-30 |
-| Kimley-Horn | CAD Intern | Not Specified | [Apply](https://careers-kimley-horn.icims.com/jobs/24635/cad-intern/job) | 2026-06-30 |
 | LexisNexis Risk Solutions | Quality Assurance Intern | Brasil São Paulo | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Brasil---So-Paulo/Quality-Assurance-Intern_R115310) | 2026-06-30 |
 | Lila Sciences - lilasciences | Co-Op, ML Scientist for Protein Engineering | CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) | 2026-06-30 |
 | Loblaw Companies | Student Service Part Time Evening | Brampton, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/55-Mountainash-Road-Brampton-ON/Student-Service-Part-Time-Evening_R2000678285) | 2026-06-30 |
@@ -9141,28 +9294,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aerotek | Sales Internship | Irvine, United States | [Apply](https://careers-aerotek.icims.com/jobs/12773/sales-internship/job) | 2026-06-10 |
 | Air Liquide | Process Management & Digitalization Intern | Alexandria | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Egypt-Alexandria/Process-Management---Digitalization-Intern_R10093983) | 2026-06-10 |
 | Airbus | Working Student (d/f/m) in Structure Design – Fuselage Structure & Project Management | Bremen Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen-Area/Working-Student--d-f-m--in-Structure-Design---Fuselage-Structure---Project-Management_JR10416167) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Academic Programs | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2599/fall-intern%3a-academic-programs/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Asian Economics | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2627/fall-intern%3a-asian-economics/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Asian Securities | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2626/fall-intern%3a-asian-securities/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Asian Security and Technology | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2636/fall-intern%3a-asian-security-and-technology/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Center for the Future of the American University | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2620/fall-intern%3a-center-for-the-future-of-the-american-university/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Center on Opportunity and Social Mobility - Vocation, Career, and Work | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2610/fall-intern%3a-center-on-opportunity-and-social-mobility---vocation%2c-career%2c-and-work/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Coalition Defense of Taiwan | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2635/fall-intern%3a-coalition-defense-of-taiwan/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Coalitions | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2601/fall-intern%3a-coalitions/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Communications and Marketing Systems | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2598/fall-intern%3a-communications-and-marketing-systems/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Critical Threats Project - Iran and Middle East | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2630/fall-intern%3a-critical-threats-project---iran-and-middle-east/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Critical Threats Project – Africa | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2628/fall-intern%3a-critical-threats-project-%e2%80%93-africa/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Demographics and Political Economy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2631/fall-intern%3a-demographics-and-political-economy/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Development | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2606/fall-intern%3a-development/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Economic Policy | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2618/fall-intern%3a-economic-policy/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Events | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2604/fall-intern%3a-events/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: FREE Initiative | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2600/fall-intern%3a-free-initiative/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Housing Center | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2614/fall-intern%3a-housing-center/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Media Relations | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2602/fall-intern%3a-media-relations/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Military Strategy & US Defense Budget | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2632/fall-intern%3a-military-strategy-%26-us-defense-budget/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: National Security Strategy, Pentagon Budgeting, and the US Defense Industrial Base | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2634/fall-intern%3a-national-security-strategy%2c-pentagon-budgeting%2c-and-the-us-defense-industrial-base/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: Office of the President | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2607/fall-intern%3a-office-of-the-president/job) | 2026-06-10 |
-| American Enterprise Institute | Fall Intern: US Foreign Policy and Communications | DC, United States | [Apply](https://internships-aei.icims.com/jobs/2633/fall-intern%3a-us-foreign-policy-and-communications/job) | 2026-06-10 |
 | AMERICAN SYSTEMS | SkillBridge Cybersecurity Intern (Transitioning Military) | Not Specified | [Apply](https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job) | 2026-06-10 |
 | ASML | Internship - Global Mobility Team Intern - Hsinchu | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Internship---Global-Mobility-Team-Intern---Hsinchu_J-00343977) | 2026-06-10 |
 | ASML | Machine Learning Algo Intern (internship) | China | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shenzhen-China/ML-algo-intern--internship-_J-00340492-1) | 2026-06-10 |
@@ -9181,7 +9312,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cotiviti | Intern - Generative AI/Agentic AI/Research | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/18929/intern---generative-ai-agentic-ai-research/job) | 2026-06-10 |
 | Covestro | QUALITY & DATA CONTROL (M/F) - STAGE | Italy | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Filago-Lombardy-Italy/QUALITY---DATA-CONTROL--M-F----STAGE_JR-2026-01009) | 2026-06-10 |
 | Crowe | Tax Intern Winter 2027 | Chicago Il USA / Los Angeles CA USA / Columbus Oh USA / Denver Co USA / Fort Lauderdale Fl USA / Sacramento CA USA / South Bend In USA / Atlanta Ga USA | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Tax-Intern-Winter-2027_R-47932) | 2026-06-10 |
-| Cummings Electrical | Social Media & Digital Communications Graduate Intern | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/82879/social-media-%26-digital-communications-graduate-intern/job) | 2026-06-10 |
+| Cummings Electrical | Social Media & Digital Communications Graduate Intern | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/82879/administrative-internship/job) | 2026-06-10 |
 | Dayton Freight Lines | Human Resources Intern | Dayton | [Apply](https://careers-daytonfreight.icims.com/jobs/17927/human-resources-intern/job) | 2026-06-10 |
 | Driscoll's | Allocation Intern / Weekend Assistant – Breda | Netherlands Breda | [Apply](https://driscolls.wd5.myworkdayjobs.com/driscolls/job/Netherlands---Breda/lloAllocation-Intern---Weekend-Assistant---Breda_R0009094) | 2026-06-10 |
 | Emory University | Associate Director, Student Life - Candler School of Theology | Emory Campus-Clifton Corridor | [Apply](https://staff-emory.icims.com/jobs/162635/associate-director%2c-student-life---candler-school-of-theology/job) | 2026-06-10 |
@@ -9319,12 +9450,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stifel | Branch Intern | Not Specified | [Apply](https://careers-stifel.icims.com/jobs/9420/branch-intern/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Credit Analyst Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10794/credit-analyst-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Electricity + Natural Gas Analyst Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10945/electricity-%2b-natural-gas-analyst-internship%3a-summer-2027/job) | 2026-06-10 |
-| Susquehanna International Group (SIG) | Equity Analyst Internship: November 2026 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/9692/equity-analyst-internship%3a-november-2026/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Equity Analyst Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10573/equity-analyst-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | ETF Sales Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10944/etf-sales-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Growth Equity Portfolio Value Creation Analyst Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10716/growth-equity-portfolio-value-creation-analyst-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Machine Learning Internship - PhD: 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10785/machine-learning-internship---phd%3a-2027/job) | 2026-06-10 |
-| Susquehanna International Group (SIG) | Macro Analyst Internship: November 2026 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/9693/macro-analyst-internship%3a-november-2026/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Macro Analyst Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10724/macro-analyst-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Operations Internship: Summer 2027 | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10916/operations-internship%3a-summer-2027/job) | 2026-06-10 |
 | Susquehanna International Group (SIG) | Quantitative Research Internship - PhD | Not Specified | [Apply](https://careers-sig.icims.com/jobs/10429/quantitative-research-internship---phd/job) | 2026-06-10 |
