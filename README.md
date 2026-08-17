@@ -230,6 +230,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern - Grad | Oh Sylvania | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Sylvania/Pharmacy-Intern---Grad_R1013352) | 2026-08-17 |
 | Dentsu | Account Intern | Shanghai Haisu Plaza | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/Account-Intern_R1129628) | 2026-08-17 |
 | Dentsu | HR TA Intern | Shanghai Haisu Plaza | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/HR-TA-Intern_R1128962) | 2026-08-17 |
+| Dun & Bradstreet | R-19756 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/8f1d6940-955e-4885-aa2e-2a46a25d60b5) | 2026-08-17 |
 | Edwards Lifesciences | Intern, Global Supply Chain | Singapore Commercial – Distribution Center | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Singapore-Commercial--Distribution-Center/Intern--Global-Supply-Chain_Req-49543-1) | 2026-08-17 |
 | FMC Corporation | Data Management and Automation Intern | Switzerland | [Apply](https://fmc.wd12.myworkdayjobs.com/FMC/job/Geneva-Switzerland/Data-Management-and-Automation-Intern_R-2175) | 2026-08-17 |
 | GE Aerospace | Digital Technology Co-op – US – Spring 2027 | Evendale / Livonia | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2027_R5029741-1) | 2026-08-17 |
@@ -5640,7 +5641,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Healthcare | Commercial Sales Leadership Program Internship | Waukesha | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Commercial-Sales-Leadership-Program-Internship_R4043921-1) | 2026-07-20 |
 | GE Healthcare | Student assistent Freight | Eindhoven | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Eindhoven/Student-assistent-Freight_R4043433-1) | 2026-07-20 |
 | GeoComply | Software Engineer Intern (Fullstack) | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26) | 2026-07-20 |
-| GeoComply | Software Engineer Intern, iOS | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7) | 2026-07-20 |
+| GeoComply | Software Engineer Intern (Mobile) | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7) | 2026-07-20 |
 | HARMAN International | Intern, Android Application Develop | No. 9233 Humin Road / Chengdu Chengdu | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/CN_Shanghai_12F--15F-No-9233-Humin-Road/Intern--Android-Application-Develop_R-54648-2026) | 2026-07-20 |
 | Hitachi | Intern - Automation & Digital engineering | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/Inern---Automation---Digital-engineering_R0132493-1) | 2026-07-20 |
 | Hitachi | Power Consulting Intern | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Power-Consulting-Intern_R0138492) | 2026-07-20 |
@@ -10191,9 +10192,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Henry Schein | Help Desk Specialist Stage | Milano Italy | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Milano---Italy/Help-Desk-Specialist-Stage_R134021) | 2026-06-02 |
 | Henry Schein | 销售助理-intern | Beijing China | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Beijing---China/-intern_R132589) | 2026-06-02 |
 | Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 2026-06-02 |
-| Hermeus | Manufacturing Engineering Intern - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) | 2026-06-02 |
+| Hermeus | Manufacturing Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) | 2026-06-02 |
 | Hermeus | Mechanical Engineering Intern  - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) | 2026-06-02 |
-| Hermeus | Propulsion Engineer Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) | 2026-06-02 |
 | Hermeus | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) | 2026-06-02 |
 | Hermeus | Software Engineering Intern (Command & Control) - Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 2026-06-02 |
 | Hermeus | Test and Operations Engineering Intern - Fall 2026 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) | 2026-06-02 |
