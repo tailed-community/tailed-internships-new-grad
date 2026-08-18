@@ -1169,7 +1169,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | KPMG | Windsor Office - Opportunities in Canadian Tax - Co-op - Winter 2027 | Windsor, Canada | [Apply](https://careers.kpmg.ca/jobs/33520?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Winnipeg Management Consulting P&C Internship Consultant (January - April 2027) | Winnipeg, Canada | [Apply](https://careers.kpmg.ca/jobs/33384?lang=en-us&icims=1) | 2026-08-17 |
 | Kyndryl - KyndrylProfessionalCareers | Legal Intern | India | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Legal-Intern_R-60263) | 2026-08-17 |
-| Luminance | AI Engineering Intern | England, United Kingdom | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/) | 2026-08-17 |
 | Léger | Research Intern | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336) | 2026-08-17 |
 | Magnera | IT Data Analyst Intern | Evansville, IN, United States | [Apply](https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job) | 2026-08-17 |
 | Mapjects | Business Analyst , Functional Analyst | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675607) | 2026-08-17 |
@@ -8099,7 +8098,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas A&M International University | Intern- Information Technology (OIT- Help Desk) | Laredo, TX | [Apply](https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--OIT--Help-Desk-_R-094607) | 2026-06-30 |
 | University of Virginia | Concierge Desk and Event Assistant - School of Engineering (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Concierge-Desk-and-Event-Assistant---School-of-Engineering--Student-Wage-_R0084775) | 2026-06-30 |
 | Air Liquide | Stage - Siège social  - Real Estate project and data manager H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Sige-social----Real-Estate-project-and-data-manager-H-F_R10095113) | 2026-06-29 |
-| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/1E3C4A9408/) | 2026-06-29 |
 | Arcadis | Internship - Modellering technische vispassages | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41337) | 2026-06-29 |
 | Baker Hughes | Intern – Engineering – Vibo, Italy – 2026 (M/F/D) | It-Vv-Vibo Valentia-Via Le Marinate | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Emerging-Talent---Engineering-Intern-2026-Opportunities--Vibo-_R158420) | 2026-06-29 |
 | Baxter International | Finance Intern | Kuala Lumpur | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Kuala-Lumpur/Finance-Intern_JR-204931) | 2026-06-29 |
@@ -9233,6 +9231,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Supply Chain & Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
 | Alcon | Student*in (m/w/d) für ein mehrmonatiges Praxissemester/Pflichtpraktikum im Bereich Engineering Kontaktlinsenherstellung (Technischer Support) | Germany | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Grosswallstadt-Germany/Student-in--m-w-d--fr-ein-mehrmonatiges-Praxissemester-Pflichtpraktikum-im-Bereich-Engineering-Kontaktlinsenherstellung--Technischer-Support-_R-2026-47774) | 2026-06-15 |
+| Altom Transport | Fall Software Development Intern | Indiana, United States | [Apply](https://apply.workable.com/altom-transport/j/8536165C7B/) | 2026-06-15 |
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
 | Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
@@ -9249,7 +9248,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cotiviti | Intern - Generative AI Research Engineer | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/19341/intern---generative-ai-research-engineer/job) | 2026-06-15 |
 | Covestro | Receptionist (student part-time) | Bratislava | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Bratislava/Receptionist--student-part-time-_JR-2026-00551) | 2026-06-15 |
 | Elekta | Service Operations Intern | Istanbul | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) | 2026-06-15 |
-| Eluvio | Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal) | California, United States | [Apply](https://apply.workable.com/eluvio/j/F70F3473E7/) | 2026-06-15 |
 | Eurofins | Internship - Business Admin / Management (6 Months) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132103500) | 2026-06-15 |
 | Fred Hutchinson Cancer Center | Unpaid Research Intern - School Credit Only - Temporary | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job) | 2026-06-15 |
 | Fresenius Medical Care | Payroll Intern with German | Poland | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Intern-with-German-in-Payroll-Team_R0257648) | 2026-06-15 |

@@ -365078,20 +365078,6 @@
     "date_archived": "2026-08-15"
   },
   {
-    "id": "workable-altom-transport-5860341",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "type": "internship",
-    "season": "Fall",
-    "source": "workable",
-    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
-    "date_posted": "2026-06-03",
-    "date_added": "2026-06-15",
-    "active": false,
-    "date_archived": "2026-08-15"
-  },
-  {
     "id": "workable-falcomm-5132486",
     "company": "Falcomm",
     "title": "ML Software Engineer Intern - AI/CAD Integration",
@@ -377170,6 +377156,48 @@
     "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014600799",
     "date_posted": "2026-08-14",
     "date_added": "2026-08-15",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "workable-altom-transport-5848393",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "type": "internship",
+    "season": "Fall",
+    "source": "workable",
+    "url": "https://apply.workable.com/altom-transport/j/1E3C4A9408/",
+    "date_posted": "2026-05-28",
+    "date_added": "2026-06-29",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "workable-eluvio-5110094",
+    "company": "Eluvio",
+    "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
+    "location": "Berkeley, California, United States",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/eluvio/j/F70F3473E7/",
+    "date_posted": "2026-05-09",
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "workable-luminance-4921513",
+    "company": "Luminance",
+    "title": "AI Engineering Intern",
+    "location": "Cambridge, England, United Kingdom",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/luminance-1/j/E045EF5A7A/",
+    "date_posted": "2025-06-06",
+    "date_added": "2026-08-17",
     "active": false,
     "date_archived": "2026-08-18"
   }
