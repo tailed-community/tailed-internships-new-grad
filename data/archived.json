@@ -376640,5 +376640,61 @@
     "date_added": "2026-07-05",
     "active": false,
     "date_archived": "2026-08-18"
+  },
+  {
+    "id": "ashby-klue-dc0fb2c7-3424-43a4-8bbf-3761bab5f439",
+    "company": "Klue",
+    "title": "Program Management Associate, Intern",
+    "location": "Vancouver, BC, Canada / Canada Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/klue/dc0fb2c7-3424-43a4-8bbf-3761bab5f439",
+    "date_posted": "2026-07-07",
+    "date_added": "2026-07-08",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "ashby-sentry-672e2a76-d8e1-49c1-b227-4a189c4e49a1",
+    "company": "Sentry",
+    "title": "Software Engineer, Intern (Summer 2027)",
+    "location": "California, United States / United States Remote",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1",
+    "date_posted": "2026-08-01",
+    "date_added": "2026-08-12",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "ashby-sentry-5c3196c7-f3d6-4dba-9c41-c886df4b2421",
+    "company": "Sentry",
+    "title": "Software Engineer, New Grad (2027)",
+    "location": "California, United States / United States Remote",
+    "type": "new_grad",
+    "season": "2027",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421",
+    "date_posted": "2026-08-01",
+    "date_added": "2026-08-12",
+    "active": false,
+    "date_archived": "2026-08-18"
+  },
+  {
+    "id": "ashby-the-exploration-company-fe3c5d62-6f13-4882-b664-bf5f2ce0ba0e",
+    "company": "The Exploration Company",
+    "title": "Heat Exchanger Development Engineering Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/the-exploration-company/fe3c5d62-6f13-4882-b664-bf5f2ce0ba0e",
+    "date_posted": "2026-07-14",
+    "date_added": "2026-07-15",
+    "active": false,
+    "date_archived": "2026-08-18"
   }
 ]
