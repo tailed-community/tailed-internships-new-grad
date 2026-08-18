@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Transportation Engineer | Tucson, AZ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143909179) | 2026-08-18 |
+| AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143849949) | 2026-08-18 |
+| AECOM | Entry-Level Water/Wastewater Engineer | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143834408) | 2026-08-18 |
 | American Red Cross | Entry Level Phlebotomist | Dubuque, IA | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Dubuque-IA/Blood-Collection-Staff---Customer-Service_RC89962) | 2026-08-18 |
 | AutoNation | Entry Level Technician | Autonation Honda East Las Vegas | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-East-Las-Vegas/Entry-Level-Technician_JR2026147392) | 2026-08-18 |
 | AutoNation | Entry Level Technician - Toyota Hayward | Autonation Toyota Hayward | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Hayward/Entry-Level-Technician---Toyota-Hayward_JR2026147540) | 2026-08-18 |
@@ -40,6 +43,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Micron Technology | New Graduate (Community College) - Technician | Boise | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-Graduate--Community-College----Technician_JR109167) | 2026-08-18 |
 | Motorola Solutions | Entry Level Mechanical Engineer | Schaumburg, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-Mechanical-Engineer_R67313) | 2026-08-18 |
 | Novartis | Associate (Entry-Level), Territory Account Specialist – Houston South | Field Sales (usa) / Sugar Land (texas) / Houston (texas) | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Field-Sales-USA/Associate--Entry-Level---Territory-Account-Specialist---Houston-South_REQ-10085672-1) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Dallas-Fort Worth - Diablo Tools – DAT | Euless, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934519) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Houston, TX - Diablo Tools – DAT | Houston, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934429) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools – DAT | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933828) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Miami, FL - Diablo Tools – DAT | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934389) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New Jersey - Diablo Tools – DAT | Newark, NJ, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933909) | 2026-08-18 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New York City - Diablo Tools – DAT | Queens, NY, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933789) | 2026-08-18 |
 | Sargent & Lundy | Transmission & Distribution Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26145/transmission-%26-distribution-engineer-1-%28entry-level%29---grid/job) | 2026-08-18 |
 | Securitas | Entry Level Security Officer | Painesville, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173793) | 2026-08-18 |
 | Securitas | Entry Level Security Officer | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173814) | 2026-08-18 |
@@ -162,8 +171,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Environmental Scientist | Albuquerque, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93031) | 2026-08-14 |
 | WSP | Early Career Mechanical Engineer | Fort Mill, SC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93279) | 2026-08-14 |
 | WSP | Early Career Substation Electrical Engineer | Hallowell, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93181) | 2026-08-14 |
-| AECOM | Entry Level Environmental Engineer | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143093071) | 2026-08-13 |
-| AECOM | Entry Level Environmental Engineer | Fort Collins, CO, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143094409) | 2026-08-13 |
 | Amentum | Entry-Level Mechanical Engineer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Entry-Level-Mechanical-Engineer_R0168181) | 2026-08-13 |
 | AutoNation | Automotive Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Automotive-Entry-Level-Technician_JR2026147225) | 2026-08-13 |
 | AutoNation | Entry Level Technician | Autonation Ford Bradenton | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Bradenton/Automotive-Master-Technician_JR2026140713) | 2026-08-13 |
@@ -389,9 +396,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | Supply Chain Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000141332355) | 2026-08-04 |
 | CAI | Entry-Level Systems Analyst | Fl-Client-State | [Apply](https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Entry-Level-Systems-Analyst_R8248) | 2026-08-04 |
 | ERM | Consulting Associate – (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate----Entry-Level-_R00031454) | 2026-08-04 |
-| Eurofins | Associate Scientist l (DNA) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321999) | 2026-08-04 |
-| Eurofins | Associate Scientist l (SST) (Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141321349) | 2026-08-04 |
-| Eurofins | QC Microbiology Lab Tech - Entry Level (Sun - Wed) | Rensselaer, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141486903) | 2026-08-04 |
 | Eurofins | Sample Receipt Officer – Entry Level (Graduates are Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141361769) | 2026-08-04 |
 | GE Healthcare | MR Junior Specialist - Early Career Trainee program | Johannesburg | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Johannesburg/MR-Junior-Specialist---Early-Career-Trainee-program_R4044237-1) | 2026-08-04 |
 | GE Vernova | Entry Level Technical Field Advisor | Remote | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Entry-Level-Technical-Field-Advisor_R5039120-2) | 2026-08-04 |
