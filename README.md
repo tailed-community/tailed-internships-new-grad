@@ -5856,7 +5856,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oligo Space | Spacecraft Engineer Intern - all fields | California, United States | [Apply](https://jobs.ashbyhq.com/oligo/1273547c-a170-485f-871d-05a9d6a42051) | 2026-07-27 |
 | Onware | Full Stack Developer- Summer Intern Opportunity | Edmonton, Canada | [Apply](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) | 2026-07-27 |
 | Outpost Technologies | Technical Marketing Intern (Analytics, Research & Automation) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee) | 2026-07-27 |
-| Pendulum Intelligence | Product Manager Intern | United States Remote | [Apply](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | 2026-07-27 |
 | Phlair | Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d) | Germany | [Apply](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86) | 2026-07-27 |
 | Phonely | Content Marketing Intern | California, United States | [Apply](https://jobs.ashbyhq.com/phonely/060fbc8c-8392-41c2-8350-9b4e5b46ca61) | 2026-07-27 |
 | Phonely | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) | 2026-07-27 |
