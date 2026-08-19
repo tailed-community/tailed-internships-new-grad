@@ -29,6 +29,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN – Acute Cardiac and Nephrology | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Cardiac-and-Nephrology_327746) | 2026-08-19 |
 | Custom Computer Specialists | Entry Level Technician | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4366976009) | 2026-08-19 |
 | ERM | EHS/コンストラクションセーフティコンサルタント・EHS/Construction safety (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/EHS--EHS-Construction-safety--Entry-Level-_R00031691-1) | 2026-08-19 |
+| Expeditors | Entry Level Specialist | Aurora, CO, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000144158199) | 2026-08-19 |
+| Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000144295179) | 2026-08-19 |
 | Freeform | Additive Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894104003) | 2026-08-19 |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) | 2026-08-19 |
 | Fresenius Medical Care | New Graduate Nurse | Winchester, TN | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Winchester-TN/New-Graduate-Nurse_R0266097) | 2026-08-19 |
@@ -60,6 +62,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sargent & Lundy | Electrical Engineer 1 (Entry-Level) - Nuclear (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26190/electrical-engineer-1-%28entry-level%29---nuclear-%28summer-2027%29/job) | 2026-08-19 |
 | Sargent & Lundy | Substation Engineer 1 (Entry Level) - Grid (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26211/substation-engineer-1-%28entry-level%29---grid-%28summer-2027%29/job) | 2026-08-19 |
 | Sargent & Lundy | Transmission Line Engineer 1 (Entry-Level) - Grid | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26191/transmission-line-engineer-1-%28entry-level%29---grid/job) | 2026-08-19 |
+| Smiths Detection Group | Customer Reliability Engineer or Technical Specialist (Entry Level) | Port Arthur, TX, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000144172489) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Electrical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002) | 2026-08-19 |
@@ -129,7 +132,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MPR Associates | Early Career Engineer | Alexandria, VA, United States | [Apply](https://careers-mpr.icims.com/jobs/1523/early-career-engineer/job) | 2026-08-17 |
 | AbbVie | Early Career Talent - Algeria | Algeria | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616066) | 2026-08-16 |
 | AbbVie | Early Career Talent - Tunisia | Tunisia | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616036) | 2026-08-16 |
-| AECOM | Entry Level Transportation Drainage Engineer | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143581689) | 2026-08-15 |
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Blood-Collection-Staff---Customer-Service_RC89303) | 2026-08-15 |
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
 | Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
@@ -391,7 +393,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Intensive Care Unit (ICU) | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Intensive-Care-Unit--ICU-_349799) | 2026-08-06 |
 | Cleveland Clinic | New Grad RN Resident – Pre & Post-Surgical General Surgery | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Pre---Post-Surgical-General-Surgery_348917) | 2026-08-06 |
 | Cleveland Clinic | New Grad RN Resident- Rapid Observation Med Surg | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident--Rapid-Observation-Med-Surg_270438) | 2026-08-06 |
-| Experian | [Expression of Interest] Graduate Program in Technology & Analytics | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000141833941) | 2026-08-06 |
 | Fresenius Medical Care | New Graduate RN | Caldwell, ID, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Caldwell-ID-USA/New-Graduate-RN_R0256575) | 2026-08-06 |
 | GE Healthcare | Early Career Trainee, Logistics (DEMO team) | Rus06-01-Moscow-Naberezhnaya Tower | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/RUS06-01-Moscow-Naberezhnaya-Tower/Junior-DEMO-and-RA--Order-Management_R4042774-1) | 2026-08-06 |
 | Generac | Sales Development Representative (Entry Level) | Ga USA | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Atlanta-GA---USA/Sales-Development-Representative_JR15458) | 2026-08-06 |
@@ -420,8 +421,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Software Engineer - Atlanta, GA | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1) | 2026-08-05 |
 | DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5365944008) | 2026-08-05 |
 | ERM | Consulting Associate (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate--Entry-Level-_R00031467) | 2026-08-05 |
-| Eurofins | Associate Scientist l (DNA) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141597300) | 2026-08-05 |
-| Eurofins | Associate Scientist l (SST) (Full-Time/Entry-Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000141596969) | 2026-08-05 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/72366/systems-engineer-%e2%80%93-entry-level/job) | 2026-08-05 |
 | MaineGeneral Health | 2 West - MedSurg Registered Nurse (RN) - 30 hours/week *NEW GRADUATES WELCOME!* | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---MedSurg-Registered-Nurse--RN----30-hours-week--NEW-GRADUATES-WELCOME--_R17035) | 2026-08-05 |
 | Marmon Holdings | Entry Level Machine Operator | Boyne City, MI | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Boyne-City-MI/Entry-Level-Machine-Operator_JR0000026269) | 2026-08-05 |
@@ -551,7 +550,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Corewell Health | New Grad RN MS | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Big-Rapids-MI/New-Grad-RN-MS_R221430) | 2026-07-28 |
 | Cushman & Wakefield | Entry level Helpdesk (Property/Real Estate) Talent Pool - Budapest | Hungary | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/Budapest-Hungary/Entry-level-Helpdesk--Property-Real-Estate-_R330037) | 2026-07-28 |
 | DXC Technology | Entry Level Support Developer | Aus Sa Adelaide | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Entry-Level-Support-Developer_51585792) | 2026-07-28 |
-| Egis Group | CAD Technician - Highways (New Graduate) | North Bay, ON, Canada | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000140083039) | 2026-07-28 |
 | General Dynamics Mission Systems | Entry Level Software Systems Engineer | Port Orchard, WA, United States | [Apply](https://careers-gdms.icims.com/jobs/73755/entry-level-software-systems-engineer/job) | 2026-07-28 |
 | Intertek | Entry Level Technicians - HVAC - 2nd and 3rd Shift | Cortland, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15376) | 2026-07-28 |
 | Meijer | Pharmacy Technician Entry Level 1 | Carpenter Road Ypsilanti, MI | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Carpenter-Road---Ypsilanti-MI/Pharmacy-Technician-Entry-Level-1_R000686280-1) | 2026-07-28 |
