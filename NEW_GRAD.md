@@ -65,7 +65,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) | 2026-08-19 |
+| Stantec | Geotechnical Field Technician- Entry-Level | Markham, ON, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007275) | 2026-08-19 |
 | Trexon | Entry-Level Buyer/Planner | Az Chandler \| C.e. Precision Assemblies | [Apply](https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5214785007) | 2026-08-19 |
+| WSP | Early Career Civil Engineer | South Jordan, UT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93580) | 2026-08-19 |
+| WSP | Early Career Electrical Engineer - Buildings | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) | 2026-08-19 |
+| WSP | Early Career Geotechnical Engineer | Las Cruces, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92081) | 2026-08-19 |
 | AECOM | Entry Level Transportation Engineer | Tucson, AZ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143909179) | 2026-08-18 |
 | AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143849949) | 2026-08-18 |
 | AECOM | Entry-Level Water/Wastewater Engineer | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143834408) | 2026-08-18 |
@@ -147,7 +151,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level CAD Technician - Telecom | Des Moines, IA / Lincoln, NE / Little Rock, AR / North Kansas City, MO / Omaha, NE / Overland Park, KS / St. Louis, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390347008) | 2026-08-15 |
 | Olsson | Entry-Level Geotechnical Driller | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5390559008) | 2026-08-15 |
 | Securitas | Entry Level Security - Flex MSO | Albuquerque, NM, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173782) | 2026-08-15 |
-| Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Walton, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173770) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Chatsworth | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-WE-616-Duvall-Rd-Chatsworth-GA-30705-USA/Entry-Level-Manufacturing_R-156021) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Andalusia | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-65-200-Waits-Drive-Hwy-29-N-Andalusia-AL-36420-USA/Entry-Level-Manufacturing_R-156016) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-156017) | 2026-08-15 |
@@ -584,7 +587,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Diesel & Trailer Mechanic | Allentown Pa | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Allentown-PA/Entry-Level-Diesel---Trailer-Mechanic_R202680398) | 2026-07-24 |
 | DriveTime | Automotive Technician - Entry Level | Mi 48180 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/10725-Telegraph-Rd-Taylor-MI-48180/Automotive-Technician---Entry-Level_R15995) | 2026-07-24 |
 | E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6222/transmission-line-engineer-%28entry-level%29/job) | 2026-07-24 |
-| EXL | Inbound Call Center Reps - Entry level | Connecticut, United States | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17781) | 2026-07-24 |
+| EXL | Entry Level - Inbound Customer Care Reps | Connecticut, United States | [Apply](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17781) | 2026-07-24 |
 | Marsh | Oliver Wyman – Entry-level Consultant & Project Analyst (2027) – Jakarta | Jakarta World Trade Blg. 3 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Jakarta---World-Trade-Blg-3/Oliver-Wyman---Entry-level-Consultant---Project-Analyst--2027----Jakarta_R_359661) | 2026-07-24 |
 | Marsh | Oliver Wyman – Entry-level Consultant (2027) – Kuala Lumpur | Kuala Lumpur Corporate | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Kuala-Lumpur---Corporate/Oliver-Wyman---Entry-level-Consultant--2027----Kuala-Lumpur_R_359658) | 2026-07-24 |
 | Marsh | Oliver Wyman – Entry-level Consultant (2027) – Singapore | Singapore Marina View | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Singapore---Marina-View/Oliver-Wyman---Entry-level-Consultant--2027----Singapore_R_359681) | 2026-07-24 |
@@ -778,7 +781,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kimberly-Clark | Entry Level Operator Logistics | USA-Ct-New Milford | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-CT-New-Milford/Entry-Level-Operator-Logistics_886146-2) | 2026-07-02 |
 | Northwood Space | Electrical Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/af609880-1e6c-4f89-8594-3c593f6eba0f) | 2026-07-02 |
 | Ralliant | Field Applications Engineer - Entry Level | United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9554) | 2026-07-02 |
-| WSP | Early Career Building Electrical Engineer | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90288) | 2026-07-02 |
 | Amentum | Machine Design Engineer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Machine-Design-Engineer---Entry-Level_R0164788-1) | 2026-07-01 |
 | CannonDesign | Electrical - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8562759002) | 2026-07-01 |
 | CannonDesign | Experiential Graphic Designer - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8550946002) | 2026-07-01 |
