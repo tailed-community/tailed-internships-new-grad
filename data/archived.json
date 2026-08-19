@@ -385208,5 +385208,61 @@
     "date_added": "2026-07-09",
     "active": false,
     "date_archived": "2026-08-19"
+  },
+  {
+    "id": "ashby-clera-48e91600-6017-4fe0-b065-c5c3d56b3011",
+    "company": "Clera",
+    "title": "Operations Intern → Full-Time",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/48e91600-6017-4fe0-b065-c5c3d56b3011",
+    "date_posted": "2026-08-14",
+    "date_added": "2026-08-15",
+    "active": false,
+    "date_archived": "2026-08-19"
+  },
+  {
+    "id": "ashby-clera-f7c2cefa-ea74-4964-b45e-967c24f87f04",
+    "company": "Clera",
+    "title": "Growth & Marketing Intern / New-Grad",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/f7c2cefa-ea74-4964-b45e-967c24f87f04",
+    "date_posted": "2026-08-14",
+    "date_added": "2026-08-14",
+    "active": false,
+    "date_archived": "2026-08-19"
+  },
+  {
+    "id": "ashby-clera-be325be3-e692-4e4b-9c20-6aabbdf93d0b",
+    "company": "Clera",
+    "title": "Engineering Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/be325be3-e692-4e4b-9c20-6aabbdf93d0b",
+    "date_posted": "2026-08-15",
+    "date_added": "2026-08-16",
+    "active": false,
+    "date_archived": "2026-08-19"
+  },
+  {
+    "id": "ashby-fab2-907766af-a3c0-49a3-b01e-246baa437d10",
+    "company": "Fab2",
+    "title": "Rust Software Engineering Intern (Chip Design Tools) - Fall 2026",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10",
+    "date_posted": "2026-07-21",
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-19"
   }
 ]

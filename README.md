@@ -70,6 +70,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CDPQ | Stagiaire, Stratégie et transformation – Immobilier (dès janvier 2027) | Montreal | [Apply](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Stratgie-et-transformation---Immobilier--ds-janvier-2027-_R05028) | 2026-08-19 |
 | Cincinnati Children’s Hospital and Medical Center | Student III | Burnet Campus | [Apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Student-III_JR224598-1) | 2026-08-19 |
 | Cisco | Cisco Technology Experience​ - Internship Program for Polish Technical High Schools | Poland | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Cisco-Technology-Experience----Internship-Program-for-Polish-Technical-High-Schools_2023393) | 2026-08-19 |
+| Clera | Engineering Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/15304241-1da5-405a-8aa4-7e7baf4a83ad) | 2026-08-19 |
+| Clera | Generalist Operator (Early-Stage) | Germany | [Apply](https://jobs.ashbyhq.com/clera/e11d1251-41d7-49e6-a52a-0ec7ad73fd41) | 2026-08-19 |
 | Cleveland Clinic | Surgical Technology Intern | Cleveland Clinic Main Campus / Marymount Hospital / Lorain Family Health Surgery Center / Fairview Hospital / Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Surgical-Technology-Intern_351628) | 2026-08-19 |
 | Conagra Brands | Manufacturing Co-Op | Iowa | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) | 2026-08-19 |
 | Continental Resources | Accounting & Finance Intern (Summer 2027) | Oklahoma City, OK | [Apply](https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Accounting---Finance-Intern--Summer-2027-_R02590-1) | 2026-08-19 |
@@ -118,6 +120,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fifth Third Bank | Summer 2027 Interns - Equipment Finance | Cincinnati, OH / Chicago, IL | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2027-Interns---Equipment-Finance_R71371) | 2026-08-19 |
 | First Quality | 2027 Summer Internships (Science and Engineering) | US Ga Macon | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-GA-Macon/XMLNAME-2027-Summer-Internships--Science-and-Engineering-_R11907) | 2026-08-19 |
 | Five Below | Intern Support Lead Part Time | Pittsburg | [Apply](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Pittsburg-KS-66762/Intern-Support-Lead-Part-Time_JR93356) | 2026-08-19 |
+| Flagright | Product Operations Intern | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37) | 2026-08-19 |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) | 2026-08-19 |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | Rock Hill, SC, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Rock-Hill-SC-USA/Student-Dietitian-Clinical-Placement_R0265464) | 2026-08-19 |
 | Fresenius Medical Care | Working Student (m/f/d) - Supply Chain planning - Project | Germany | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bad-Homburg-Germany/Working-Student--m-f-d----Supply-Chain-planning---Project_R0266240) | 2026-08-19 |
@@ -150,6 +153,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Greystar Worldwide | Housekeeper - The 505 (MO) (Student Living) | Springfield, MO | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/The-505-MO-Springfield-MO/Housekeeper---The-505--MO---Student-Living-_R0198366) | 2026-08-19 |
 | Greystar Worldwide | Service Technician - Maplewood (Student Living) | Ithaca, NY | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Maplewood-Ithaca-NY/Service-Technician---Maplewood--Student-Living-_R0198314) | 2026-08-19 |
 | Greystar Worldwide | Service Technician - Summit Place (Student Living) | Charleston, SC | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Summit-Place-SC-Charleston-SC/Service-Technician---Summit-Place--Student-Living-_R0198333-1) | 2026-08-19 |
+| H3X Technologies | Advanced Manufacturing Engineering Intern (Spring) | Colorado, United States | [Apply](https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be) | 2026-08-19 |
+| H3X Technologies | Electromagnetics Engineering Intern (Spring) | Colorado, United States | [Apply](https://jobs.ashbyhq.com/h3x-technologies/930b8250-4c6d-4df0-a326-892fd594759a) | 2026-08-19 |
+| H3X Technologies | Mechanical Design Engineer Intern (Spring) | Colorado, United States | [Apply](https://jobs.ashbyhq.com/h3x-technologies/7add5fe2-8e3e-4817-b88a-34d803ba86f9) | 2026-08-19 |
+| H3X Technologies | Power Electronics Engineering Intern (Spring) | Colorado, United States | [Apply](https://jobs.ashbyhq.com/h3x-technologies/c121c3a9-a6ea-441a-b617-876cf6293fce) | 2026-08-19 |
+| H3X Technologies | Test Engineering Intern (Spring) | Colorado, United States | [Apply](https://jobs.ashbyhq.com/h3x-technologies/be8855c5-f8c7-4f09-bd3f-04ecbcf4b42d) | 2026-08-19 |
 | Haleon | Centrum Silver Marketing Intern | China Shanghai Huangpu District The Headquarters Building | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Centrum-Silver-Marketing-Intern_547125-1) | 2026-08-19 |
 | Haleon | Sales Representative Intern | China Xinjiang Urumqi Shuimogou District Wenzhou Building | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Xinjiang---Urumqi--ShuiMoGou-District---WenZhou-Building/Sales-Representative-Intern_546029) | 2026-08-19 |
 | Haleon | Sales Representative Intern | China Shanghai Shanghai | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---Shanghai/Sales-Representative-Intern_545979-1) | 2026-08-19 |
@@ -1752,7 +1760,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zebra | 2026(6 months) Internship(Sri Lanka) -Software Engineering | Sri Lanka | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Colombo-Sri-Lanka/XMLNAME-2026-6-months--Internship-Sri-Lanka---Software-Engineering_JR102701) | 2026-08-17 |
 | ABB | Technical Internship - Expression of Interest | Malaysia | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Petaling-Jaya-Selangor-Malaysia/Technical-Internship---Expression-of-Interest_JR00044260) | 2026-08-16 |
 | ASM Global | Marketing Intern | Charlottesville, VA | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Charlottesville-VA/Marketing-Intern_R100124777) | 2026-08-16 |
-| Clera | Engineering Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/be325be3-e692-4e4b-9c20-6aabbdf93d0b) | 2026-08-16 |
 | Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/bd54d2d6-3ab9-448a-8c46-ec780c238c84) | 2026-08-16 |
 | Compeer Financial | Intern Tax and Accounting | Wi-Fond Du Lac / Wi-Sun Prairie / Wi-Prairie Du Sac / Wi-Dodgeville / Wi-Onalaska / Wi-Eau Claire | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5392298008) | 2026-08-16 |
 | CVS Health | Pharmacy Intern | Al Opelika | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AL---Opelika/Pharmacy-Intern_R1012918) | 2026-08-16 |
@@ -1854,7 +1861,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stagiaire Finance – Accompagnement PME  - (H/F) - Janvier 2027 | Geneve | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Geneve/Stagiaire-Finance---Accompagnement-PME-----H-F----Janvier-2027_JOBREQ00115274-3) | 2026-08-15 |
 | Circle K | Intern in HR Administration team | Support Office Riga BC & Bu | [Apply](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Intern-in-HR-Administration-team_R612756-1) | 2026-08-15 |
 | Clera | Founder's Associate Intern / Working Student – Enterprise Sales & Outreach | Germany | [Apply](https://jobs.ashbyhq.com/clera/aca0a60c-06a8-4f96-8eb0-ad951045f7db) | 2026-08-15 |
-| Clera | Operations Intern → Full-Time | Germany | [Apply](https://jobs.ashbyhq.com/clera/48e91600-6017-4fe0-b065-c5c3d56b3011) | 2026-08-15 |
 | Clera | Working Student – Finance (m/f/d) | Germany | [Apply](https://jobs.ashbyhq.com/clera/18753a8a-17c1-4740-bf33-6d94ab07e648) | 2026-08-15 |
 | CNO Financial Group | Summer 2027 Commercial Mortgage and Real Estate Intern - ONSITE Carmel, IN | Carmel, IN | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Commercial-Mortgage-and-Real-Estate-Intern---ONSITE-Carmel--IN_JR170427) | 2026-08-15 |
 | Cooper University Health Care | Intern | Camden, NJ, United States | [Apply](https://careers-cooperhealth.icims.com/jobs/84785/intern/job) | 2026-08-15 |
@@ -2129,7 +2135,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cenovus Energy | Student, Campus Programs, Calgary (September, 2026) | CA-AB-Calgary | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Campus-Programs--Calgary--September--2026-_R-410901) | 2026-08-14 |
 | Chanel | Stage - Assistant Chef de Projet Merchandising Permanent (Parfum et Soin) - Division Parfums Beauté - Janvier 2027 - H/F/X | Neuilly-Sur-Seine | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-Chef-de-Projet-Merchandising-Permanent--Parfum-et-Soin----Division-Parfums-Beaut---Janvier-2027---H-F-X_JOBREQ00116021) | 2026-08-14 |
 | Chewie Labs | Electrical Engineering Intern, Summer 2026 | California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | 2026-08-14 |
-| Clera | Growth & Marketing Intern / New-Grad | California, United States | [Apply](https://jobs.ashbyhq.com/clera/f7c2cefa-ea74-4964-b45e-967c24f87f04) | 2026-08-14 |
 | Cloudflare | Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607) | 2026-08-14 |
 | CME Group | TPRM Belfast Intern 2026-2027 | Belfast Millennium House | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/TPRM-Belfast-Intern-2026-2027_34733) | 2026-08-14 |
 | CNO Financial Group | Internal Audit Intern 2027 - REMOTE | Carmel, IN | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Internal-Audit-Intern-2027---REMOTE_JR170431) | 2026-08-14 |
@@ -5738,7 +5743,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Exploration Technology Corp. | Engineering Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Fab2 | Automation Software Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c) | 2026-07-27 |
 | Fab2 | Mechanical Engineering Intern - Fall | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/48923113-b51e-4c3a-ade9-47ac08313447) | 2026-07-27 |
-| Fab2 | Rust Software Engineering Intern (Chip Design Tools) - Fall 2026 | California, United States | [Apply](https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10) | 2026-07-27 |
 | Firetiger | Product Engineer — Intern/Co-op | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc) | 2026-07-27 |
 | Fluency | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88) | 2026-07-27 |
 | Frontier Health | Applied Scientist / Research Engineer (Internship) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef) | 2026-07-27 |
@@ -5796,7 +5800,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Phlair | Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d) | Germany | [Apply](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86) | 2026-07-27 |
 | Phonely | Content Marketing Intern | California, United States | [Apply](https://jobs.ashbyhq.com/phonely/060fbc8c-8392-41c2-8350-9b4e5b46ca61) | 2026-07-27 |
 | Phonely | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) | 2026-07-27 |
-| Phonic | Machine Learning Research Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41) | 2026-07-27 |
+| Phonic | Machine Learning Research Intern 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41) | 2026-07-27 |
 | PricewaterhouseCoopers (PwC) | Intern - Assurance | Kuching | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuching/Intern---Assurance_747618WD) | 2026-07-27 |
 | Procter & Gamble (P&G) | [Sep/Oct 2026 Start] Finance & Accounting Business Operations Internship | Manila Net Park Office / Manila Six / Neo Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MANILA-NET-PARK-OFFICE/XMLNAME--Sep-Oct-2026-Start--Finance---Accounting-Business-Operations-Internship_R000156070) | 2026-07-27 |
 | Procter & Gamble (P&G) | ANALYTICS & INSIGHTS INTERN - P&G Management Internship Program (Summer 2027) | Singapore General Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/ANALYTICS---INSIGHTS-INTERN---P-G-Management-Internship-Program--Summer-2027-_R000155809) | 2026-07-27 |
