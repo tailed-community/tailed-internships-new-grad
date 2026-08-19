@@ -158,6 +158,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | First Quality | 2027 Summer Internships (Science and Engineering) | US Ga Macon | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-GA-Macon/XMLNAME-2027-Summer-Internships--Science-and-Engineering-_R11907) | 2026-08-19 |
 | Five Below | Intern Support Lead Part Time | Pittsburg | [Apply](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Pittsburg-KS-66762/Intern-Support-Lead-Part-Time_JR93356) | 2026-08-19 |
 | Flagright | Product Operations Intern | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37) | 2026-08-19 |
+| Flexion Robotics | Working Student/ Contractor for Physical AI Training | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/37CD3C820D/) | 2026-08-19 |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) | 2026-08-19 |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | Rock Hill, SC, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Rock-Hill-SC-USA/Student-Dietitian-Clinical-Placement_R0265464) | 2026-08-19 |
 | Fresenius Medical Care | Working Student (m/f/d) - Supply Chain planning - Project | Germany | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bad-Homburg-Germany/Working-Student--m-f-d----Supply-Chain-planning---Project_R0266240) | 2026-08-19 |
@@ -356,6 +357,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Occidental Petroleum Corporation (Oxy) | Petrophysics Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Petrophysics-Intern_JR110283) | 2026-08-19 |
 | Occidental Petroleum Corporation (Oxy) | Reservoir Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Reservoir-Intern_JR110284) | 2026-08-19 |
 | Occidental Petroleum Corporation (Oxy) | Supply Chain Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Supply-Chain-Intern_JR110272) | 2026-08-19 |
+| OceanComm | Electronics Technician Intern | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/AB7EE4F02B/) | 2026-08-19 |
+| OceanComm | Engineering Intern / Co-op | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/78353F7951/) | 2026-08-19 |
 | Ohio State University | Student AI Developer | Columbus Campus | [Apply](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-AI-Developer_R155722-1) | 2026-08-19 |
 | Parsons | Co-op Trainee (Architect Engineering) (Saudi National) | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Co-op-Trainee--Architect-Engineering---Saudi-National-_R185042) | 2026-08-19 |
 | Pennsylvania State University | Part-Time Student Competitive Sports Supervisor - Campus Recreation | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Competitive-Sports-Supervisor---Campus-Recreation_REQ_0000074365-1) | 2026-08-19 |
@@ -423,6 +426,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Procter & Gamble (P&G) | Engineering Internship - Irapuato Plant | Irapuato Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/IRAPUATO-PLANT/Engineering-Internship---Irapuato-Plant_R000157497) | 2026-08-19 |
 | Procter & Gamble (P&G) | Finance Intern | Almaty | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Almaty/Finance-Intern_R000157293) | 2026-08-19 |
 | Procter & Gamble (P&G) | Trade Marketing Intern - Interlomas' General Offices | Mexico City General Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MEXICO-CITY-GENERAL-OFFICE/Trade-Intern---Interlomas--General-Offices_R000157138) | 2026-08-19 |
+| ProNexus | Recruiting Intern | United States Remote | [Apply](https://apply.workable.com/pronexus-1/j/3F0F3F3EBD/) | 2026-08-19 |
+| ProNexus | Software Engineer Intern | United States Remote | [Apply](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/) | 2026-08-19 |
 | Razer | Software Testing Intern (Automation) | Singapore | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Testing-Automation_JR2026007776) | 2026-08-19 |
 | RBC | 2027 Winter - GRM, AML High Risk Client Management Intern (4 Months - Bedford, NS & Toronto, ON) | Bedford / Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/120-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter---GRM--AML-High-Risk-Client-Management-Intern--4-Months---Bedford--NS---Toronto--ON-_R-0000184658) | 2026-08-19 |
 | RBC | 2027 Winter - GRM, Data Scientist Intern (8 Months) | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | 2026-08-19 |
@@ -1716,6 +1721,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | KPMG | Windsor Office - Opportunities in Audit - Co-op/Intern - Winter 2027, Summer 2027 | Windsor, Canada | [Apply](https://careers.kpmg.ca/jobs/33325?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Windsor Office - Opportunities in Canadian Tax - Co-op - Winter 2027 | Windsor, Canada | [Apply](https://careers.kpmg.ca/jobs/33520?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Winnipeg Management Consulting P&C Internship Consultant (January - April 2027) | Winnipeg, Canada | [Apply](https://careers.kpmg.ca/jobs/33384?lang=en-us&icims=1) | 2026-08-17 |
+| Luminance | AI Engineering Intern | England, United Kingdom | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/) | 2026-08-17 |
 | Léger | Research Intern | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336) | 2026-08-17 |
 | Magnera | IT Data Analyst Intern | Evansville, IN, United States | [Apply](https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job) | 2026-08-17 |
 | Mapjects | Business Analyst , Functional Analyst | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675607) | 2026-08-17 |
@@ -2268,6 +2274,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Epicor | Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Intern_JR105068) | 2026-08-14 |
 | Fidelity Investments - targeted | Asset Management Business Support Summer 2027 Internship | Boston, MA / Merrimack, NH | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Asset-Management-Business-Support-Summer-2027-Internship_2132957) | 2026-08-14 |
 | Field AI | Electrical Engineer, Robotics Hardware- Part-time Internship | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) | 2026-08-14 |
+| Flexion Robotics | Embodied Agent Intern | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/498C19835B/) | 2026-08-14 |
+| Flexion Robotics | Internship - Humanoid Motion Generation (Diffusion or Flow Matching) | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/BC921EFCF7/) | 2026-08-14 |
+| Flexion Robotics | Research Internship - United States | California, United States | [Apply](https://apply.workable.com/flexion-robotics/j/8FF540773C/) | 2026-08-14 |
+| Flexion Robotics | Robotics Engineering Intern - Mechatronic Design | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/75F6594B5D/) | 2026-08-14 |
+| Flexion Robotics | Robotics Engineering Intern - Testing | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/9FDA4ADC0B/) | 2026-08-14 |
 | Florida Atlantic University | Career Coach, Experiential Learning & Internships – President’s Internship Program for Community Impact (PIPCI) | Boca Raton | [Apply](https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Career-Coach--Experiential-Learning---Internships---President-s-Internship-Program-for-Community-Impact--PIPCI-_REQ22588) | 2026-08-14 |
 | Fresenius Medical Care | Student Dietitian Clinical Placement | Schertz, TX, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Schertz-TX-USA/Student-Dietitian-Clinical-Placement_R0265282) | 2026-08-14 |
 | FTI Consulting | Intern \| Financial Services, Strategic Communications, Belgium | Belgium | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Brussels-Belgium/Intern---Financial-Services--Strategic-Communications--Belgium_JR2511M-TEE) | 2026-08-14 |
@@ -2326,6 +2337,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kenvue | Content Strategy Intern | Jakarta Raya | [Apply](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Indonesia-Jawa-Jakarta-Raya/Content-Strategy-Intern_2607048089W) | 2026-08-14 |
 | KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | 2026-08-14 |
 | KeyBank | 2027 Summer Risk Management Internship Program- Cleveland | Cleveland, OH | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Risk-Management-Internship-Program--Cleveland_R-41378) | 2026-08-14 |
+| Keywords Studios | HR Intern | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/CEA5BDBC11/) | 2026-08-14 |
 | Kroll | Intern Valuations | Netherlands | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014733) | 2026-08-14 |
 | LabCorp | MLS Trainee Student Worker | Phoenix Az | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Phoenix-AZ/MLS-Trainee-Student-Worker_2625031) | 2026-08-14 |
 | Loblaw Companies | Student, Franchise Part Time Evening | Waterloo, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/24-Forwell-Creek-Rd-Waterloo-ON/Student--Franchise-Part-Time-Evening_R2000693589) | 2026-08-14 |
@@ -8237,6 +8249,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | International Rescue Committee (IRC) | Post Resettlement Caseworker Intern (Unpaid) | Ny Rai USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York-NY-RAI-USA/Post-Resettlement-Caseworker-Intern--Unpaid-_JR00003948-1) | 2026-06-26 |
 | International Rescue Committee (IRC) | Preferred Communities Caseworker Intern (Unpaid | Ny Rai USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York-NY-RAI-USA/Preferred-Communities-Caseworker-Intern--Unpaid_JR00003947) | 2026-06-26 |
 | JINGDONG | JD Young Supply Chain Operations Internship | Gbr-London | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Operations-Internship_JR101813) | 2026-06-26 |
+| Keywords Studios | Accounts Payable Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/A2DF93B2D3/) | 2026-06-26 |
+| Keywords Studios | HR ADMIN - Student Traineeship | Poland | [Apply](https://apply.workable.com/keywords-intl1/j/41203FA127/) | 2026-06-26 |
+| Keywords Studios | HR Business Partner Intern | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/C8A816B0EB/) | 2026-06-26 |
+| Keywords Studios | SSC Payment Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/4265B34738/) | 2026-06-26 |
+| Keywords Studios | Talent Acquisition Intern for Player Engagement 2026 | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/1D8536672D/) | 2026-06-26 |
 | Kraft Heinz - KraftHeinz_Careers | Culinary Capabilities Intern | Nijmegen | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Culinary-Capabilities-Intern_R-104123) | 2026-06-26 |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Graduate Student Intern - Fall 2026 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 2026-06-26 |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern - Fall 2026 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 2026-06-26 |
@@ -9240,7 +9257,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Internship Student (MTE - Spare parts) - นักศึกษาฝึกงาน | Thailand | [Apply](https://jobs.smartrecruiters.com/Continental/744000132123004) | 2026-06-15 |
 | Cotiviti | Intern - Generative AI Research Engineer | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/19341/intern---generative-ai-research-engineer/job) | 2026-06-15 |
 | Elekta | Service Operations Intern | Istanbul | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) | 2026-06-15 |
+| Eluvio | Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal) | California, United States | [Apply](https://apply.workable.com/eluvio/j/F70F3473E7/) | 2026-06-15 |
 | Eurofins | Internship - Business Admin / Management (6 Months) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000132103500) | 2026-06-15 |
+| Falcomm | ML Software Engineer Intern - AI/CAD Integration | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/B5EB495F31/) | 2026-06-15 |
+| Falcomm | Operations Intern | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/156AD9A12B/) | 2026-06-15 |
 | Fred Hutchinson Cancer Center | Unpaid Research Intern - School Credit Only - Temporary | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job) | 2026-06-15 |
 | Fresenius Medical Care | Payroll Intern with German | Poland | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Intern-with-German-in-Payroll-Team_R0257648) | 2026-06-15 |
 | Haleon | Supply Chain Internship - Belgium (6 months) | Zaventem Da Vincilaan | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Zaventem-Da-Vincilaan/Supply-Chain-Internship---Belgium--6-months-_544521) | 2026-06-15 |
