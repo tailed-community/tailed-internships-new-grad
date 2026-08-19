@@ -384998,5 +384998,19 @@
     "date_added": "2026-08-12",
     "active": false,
     "date_archived": "2026-08-19"
+  },
+  {
+    "id": "lever-palantir-d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "location": "New York, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "date_posted": "2026-02-19",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-19"
   }
 ]

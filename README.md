@@ -23,6 +23,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | ABB | Procurement Intern with Spanish | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Procurement-Intern-with-Spanish_JR00044889-1) | 2026-08-19 |
 | Advocate Health Care | Student Nurse Scholar II | Monroe, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Union---600-Hospital-Dr-Monroe-NC/Student-Nurse-Scholar-II_R258708) | 2026-08-19 |
+| AHEAD | MS - NOC Apprentice/Intern (6 months) | Haryana | [Apply](https://jobs.lever.co/thinkahead/3fd5cb37-6541-4e97-a827-d644468e6535) | 2026-08-19 |
 | Airbus | Internship within Airbus Procurement Processes, Governance and Performance Management | München Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship-within-Airbus-Procurement-Processes--Governance-and-Performance-Management_JR10434335) | 2026-08-19 |
 | Alcon | Intern | Singapore | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Intern_R-2026-48743-1) | 2026-08-19 |
 | Alliaxis | Etudiante Co-op Finance Automne 2026 - Impôts***Finance Co-op Student Fall 2026 - Tax | CA Ids Office | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---IDS---Office/Finance-Co-op-Student-Fall-2026---Tax---Etudiante-Co-op-Finance-Automne-2026---Impts_R-57901-1) | 2026-08-19 |
@@ -102,6 +103,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Endeavor Health | Research Intern-Surgery | Evh Burch Building Evanston Hospital | [Apply](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Burch-Building-Evanston-Hospital/Research-Intern-Surgery_R46037) | 2026-08-19 |
 | Entegris | Customer Quality Engineer Intern | South Korea | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Suwon-si-Gyeonggi-do-South-Korea/Customer-Quality-Engineer-Intern_REQ-13919) | 2026-08-19 |
 | Epicor | Intern - Technical PMO & Product Operations | Bangalore | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Intern---Technical-PMO---Product-Operations_JR105379) | 2026-08-19 |
+| EQ Bank | Intern - Treasury Analyst (Fall student) | Toronto | [Apply](https://jobs.lever.co/eqbank/2d01dd5c-fdc4-4fbf-adde-dd081736e98e) | 2026-08-19 |
 | Fermilab | UNDERGRADUATE INTERN-ENGINEERING | Lead, SD | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Lead-SD/UNDERGRADUATE-INTERN-ENGINEERING_R_009774) | 2026-08-19 |
 | Fermilab | UNDERGRADUATE INTERN-MS | Lead, SD | [Apply](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Lead-SD/UNDERGRADUATE-INTERN-MS_R_009775) | 2026-08-19 |
 | Fifth Third Bank | Commercial Credit Internship - Summer 2027 - Charlotte | Charlotte, NC | [Apply](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Charlotte-NC/Commercial-Credit-Internship---Summer-2027---Charlotte_R71367) | 2026-08-19 |
@@ -11136,7 +11138,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Forward Deployed Software Engineer, Internship | Paris, France | [Apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship - AUS Government | Australia | [Apply](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | 2026-06-02 |
-| Palantir | Forward Deployed Software Engineer, Internship - Poland | New York, NY | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | 2026-06-02 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | 2026-06-02 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | D.c. | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | 2026-06-02 |
