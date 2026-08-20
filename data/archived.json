@@ -389912,5 +389912,47 @@
     "date_added": "2026-07-31",
     "active": false,
     "date_archived": "2026-08-20"
+  },
+  {
+    "id": "lever-field-ai-1049e3e1-b4ca-4996-96a5-14e933f35b44",
+    "company": "Field AI",
+    "title": "Electrical Engineer, Robotics Hardware- Part-time Internship",
+    "location": "Irvine, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44",
+    "date_posted": "2026-08-13",
+    "date_added": "2026-08-14",
+    "active": false,
+    "date_archived": "2026-08-20"
+  },
+  {
+    "id": "lever-reply-0fb458db-7cb9-4bfd-b9b6-c1c681316061",
+    "company": "Reply",
+    "title": "Android Developer Intern",
+    "location": "Michigan",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061",
+    "date_posted": "2026-05-21",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-20"
+  },
+  {
+    "id": "lever-reply-191d1794-e52a-4573-a2d0-2952b76f9cd5",
+    "company": "Reply",
+    "title": "iOS Developer Intern",
+    "location": "Michigan",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5",
+    "date_posted": "2026-05-21",
+    "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-08-20"
   }
 ]

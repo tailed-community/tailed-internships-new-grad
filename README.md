@@ -81,6 +81,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stage - Chef de Projet Gouvernance IT et Data Visualisation - Horlogerie Joaillerie - H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Chef-de-Projet-Gouvernance-IT-et-Data-Visualisation---Horlogerie-Joaillerie---H-F-X_JOBREQ00116151-1) | 2026-08-20 |
 | Chanel | STAGE – ASSISTANT(E) CHEF DE PROJET IT DIGITAL (H/F) - Septembre 2026 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---ASSISTANT-E--CHEF-DE-PROJET-IT-DIGITAL--H-F----Septembre-2026_JOBREQ00110053-2) | 2026-08-20 |
 | Cigna Group | Health Service Leadership Development Program Summer Associate (Intern) | Bloomfield, CT | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Health-Service-Leadership-Development-Program-Summer-Associate--Intern-_26009376) | 2026-08-20 |
+| Cirque du Soleil | Chef Machiniste de Scène & Accessoire – Spectacle en tournée \| Head of Stage Carpentry & Props – Touring Show | *en Tournée \| ON Tour | [Apply](https://jobs.lever.co/cirquedusoleil/edd21505-6080-430a-b240-70361cb09c61) | 2026-08-20 |
 | CNO Financial Group | Summer 2027 HR Programs & Associate Experience Intern - ONSITE Carmel, IN | Carmel, IN | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-HR-Programs---Associate-Experience-Intern---ONSITE-Carmel--IN_JR170435) | 2026-08-20 |
 | Cognex | Mechanical Engineering Intern - Studentische Hilfskraft (m/w/d) im Bereich Maschinenbau | Germany | [Apply](https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Aachen-Germany/Mechanical-Engineering-Intern---Studentische-Hilfskraft--m-w-d--im-Bereich-Maschinenbau_R0012304) | 2026-08-20 |
 | Conagra Brands | FP&A Internship - Summer 2027 | Illinois | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/FP-A-Internship---Summer-2027_Req-039834) | 2026-08-20 |
@@ -186,6 +187,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Johnson & Johnson | External Planning Intern | New Jersey, United States | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/External-Planning-Intern_R-094377) | 2026-08-20 |
 | Johnson & Johnson | Quality Control Biotech Intern | Belgium | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Quality-Control-Biotech-Intern_R-094829-1) | 2026-08-20 |
 | Johnson & Johnson | Spring 2027 Quality Engineering Co-op | Georgia, United States | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937) | 2026-08-20 |
+| Kepler Communications | Embedded Software Engineering Intern (January 2027) (4 months) | Toronto, ON | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1) | 2026-08-20 |
 | Kimberly-Clark | 2027 Engineering Co-ops & Internships | USA-Wi-Neenah | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-WI-Neenah/XMLNAME-2027-Engineering-Co-ops---Internships_887059) | 2026-08-20 |
 | Kimberly-Clark | 2027 Supply Chain Internships | USA-Wi-Neenah | [Apply](https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL/job/USA-WI-Neenah/XMLNAME-2027-Supply-Chain-Internships_887060) | 2026-08-20 |
 | LabCorp | MLS Student trainee | Burlington Nc | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/MLS-Student-trainee_2627437) | 2026-08-20 |
@@ -2531,7 +2533,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Elsevier | Researcher Academy Intern | Amsterdam | [Apply](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Amsterdam/Researcher-Academy-Intern_R114553) | 2026-08-14 |
 | Epicor | Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Intern_JR105068) | 2026-08-14 |
 | Fidelity Investments - targeted | Asset Management Business Support Summer 2027 Internship | Boston, MA / Merrimack, NH | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Asset-Management-Business-Support-Summer-2027-Internship_2132957) | 2026-08-14 |
-| Field AI | Electrical Engineer, Robotics Hardware- Part-time Internship | Irvine, Canada | [Apply](https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44) | 2026-08-14 |
 | Flexion Robotics | Embodied Agent Intern | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/498C19835B/) | 2026-08-14 |
 | Flexion Robotics | Internship - Humanoid Motion Generation (Diffusion or Flow Matching) | Switzerland | [Apply](https://apply.workable.com/flexion-robotics/j/BC921EFCF7/) | 2026-08-14 |
 | Flexion Robotics | Research Internship - United States | California, United States | [Apply](https://apply.workable.com/flexion-robotics/j/8FF540773C/) | 2026-08-14 |
@@ -11498,8 +11499,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Regal Rexnord | Manufacturing Engineering Co-Op | Kentucky, United States | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Manufacturing-Engineering-Co-Op_R26_00665) | 2026-06-02 |
 | Regal Rexnord | Supply Chain Co-Op | Kentucky, United States | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Supply-Chain-Co-Op_R26_02200-1) | 2026-06-02 |
 | Relativity Space | Supervisor, Stage Integration, Second Shift | California | [Apply](https://boards.greenhouse.io/relativity/jobs/8521975002?gh_jid=8521975002) | 2026-06-02 |
-| Reply | Android Developer Intern | Michigan | [Apply](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061) | 2026-06-02 |
-| Reply | iOS Developer Intern | Michigan | [Apply](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5) | 2026-06-02 |
 | Resmed | Technical Service & Support Intern LATAM | Sao Paulo, BR | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Brooklin-Sao-Paulo-BR/Technical-Service---Support-Intern-LATAM_JR_047268-1) | 2026-06-02 |
 | Resolve Tech Solutions | Junior Engineering Intern | Addison, TX | [Apply](https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/Junior-Engineering-Intern_R893) | 2026-06-02 |
 | Resolve Tech Solutions | Product Management Intern | Addison, TX | [Apply](https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/Product-Management-Intern_R1168) | 2026-06-02 |
