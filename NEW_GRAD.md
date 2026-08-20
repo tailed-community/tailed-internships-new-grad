@@ -88,7 +88,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | McKesson | Entry-level Research Nurse | TN, United States | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TN-Nashville/Entry-level-Research-Nurse_JR0152232-1) | 2026-08-19 |
 | NAV Canada | Developer - Entry Level | Ottawa | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291) | 2026-08-19 |
 | Northrop Grumman | Entry Level Machinist | United States-West Virginia-Rocket Center | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Entry-Level-Machinist_R10246339) | 2026-08-19 |
-| OceanComm | Entry-Level Electronics Technician | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/A96B95A022/) | 2026-08-19 |
 | Peraton | Entry Level Environmental Engineer | Clearfield, UT, United States | [Apply](https://careers-peraton.icims.com/jobs/169741/entry-level-environmental-engineer/job) | 2026-08-19 |
 | Philips | Entry-level Manufacturing Engineer (Latham, NY) | New York, United States | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Manufacturing-Engineer--Latham--NY-_580043) | 2026-08-19 |
 | Radiance Technologies | Entry-level Microelectronics R&D Engineer | Ruston, LA | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102341) | 2026-08-19 |
