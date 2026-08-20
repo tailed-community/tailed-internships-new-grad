@@ -7,12 +7,15 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Archaeological Technician | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144396009) | 2026-08-20 |
+| AECOM | Entry-Level Architecture Designer | North Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144406550) | 2026-08-20 |
 | AutoNation | Entry Level Technician | Autonation Volkswagen Mall Of Georgia | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Volkswagen-Mall-of-Georgia/Entry-Level-Technician_JR2026147787) | 2026-08-20 |
 | AutoNation | Entry Level Technician | Autonation Honda Thornton Road | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Thornton-Road/Entry-Level-Technician_JR2026147316) | 2026-08-20 |
 | Barclays | Banking Associate Graduate Program 2027 San Francisco | Four Embarcadero Center | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Associate-Graduate-Program-2027-San-Francisco_JR-0000123462-1) | 2026-08-20 |
 | CACI | Entry Level Background Investigator - Level I | Remote / Valley Village, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Entry-Level-Background-Investigator---Level-I_330877) | 2026-08-20 |
 | Citi | Transaction Reporting Team Analyst – Regulatory Reporting - Entry Level | Belfast United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Transaction-Reporting-Team-Analyst---Regulatory-Reporting---Entry-Level_26987176) | 2026-08-20 |
 | Cleveland Clinic | New Grad RN Resident – Inpatient Children's Rehab | Childrens Hospital Rehabilitation | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Childrens-Hospital-Rehabilitation/New-Grad-RN-Resident---Inpatient-Children-s-Rehab_329439-1) | 2026-08-20 |
+| Eurofins | Entry Level Chemist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000144404949) | 2026-08-20 |
 | Freeform | Electrical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) | 2026-08-20 |
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003) | 2026-08-20 |
 | Freeform | Materials Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003) | 2026-08-20 |
@@ -37,6 +40,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173881) | 2026-08-20 |
 | SpaceX | New Graduate Engineer, Civil/Structural (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002) | 2026-08-20 |
 | SpaceX | New Graduate Engineer, Software (Application Software) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | 2026-08-20 |
+| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000144321950) | 2026-08-20 |
+| Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000144319119) | 2026-08-20 |
 | Triumph | Business Development Associate - Entry Level Position | Dallas, TX | [Apply](https://tbkbank.wd1.myworkdayjobs.com/tfin/job/Dallas-TX/Business-Development-Associate---Entry-Level-Position_REQ-5057) | 2026-08-20 |
 | Vanderlande Industries | Electrical Project Engineer III - Entry Level | Ga USA | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Senior-Electrical-Project-Engineer_JR33346) | 2026-08-20 |
 | Woodard Curran | Entry-level Wastewater Engineer | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/b7c0b062-141c-4c17-9fc7-b70387a195a6) | 2026-08-20 |
@@ -102,9 +107,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Civil Engineer | South Jordan, UT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93580) | 2026-08-19 |
 | WSP | Early Career Electrical Engineer - Buildings | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) | 2026-08-19 |
 | WSP | Early Career Geotechnical Engineer | Las Cruces, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92081) | 2026-08-19 |
-| AECOM | Entry Level Transportation Engineer | Tucson, AZ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143909179) | 2026-08-18 |
 | AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143849949) | 2026-08-18 |
-| AECOM | Entry-Level Water/Wastewater Engineer | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143834408) | 2026-08-18 |
 | American Red Cross | Entry Level Phlebotomist | Dubuque, IA | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Dubuque-IA/Blood-Collection-Staff---Customer-Service_RC89962) | 2026-08-18 |
 | Banner Health | RN New Graduate Inpatient Med/Surg | Platte County Memorial Hosp (201 14th St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Platte-County-Memorial-Hosp-201-14th-St/RN-New-Graduate-Inpatient-Med-Surg_R4449187) | 2026-08-18 |
 | CACI | Software Engineer - Early Career - Cloud | Hanover, MD, United States / Remote | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) | 2026-08-18 |
@@ -871,7 +874,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Orthopaedic and Spine | Lutheran Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/RN-Resident---Orthopaedic-and-Spine_309676) | 2026-06-20 |
 | Globus Medical | Entry-Level Associate Neurophysiologist (New Hampshire) | New Hampshire / Massachusetts / Maine | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-Hampshire/Entry-Level-Associate-Neurophysiologist--New-Hampshire-_JR106875-1) | 2026-06-19 |
 | Highmark Health | RN E8 Med/Obs/Telemetry (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-E8-Med-Obs-Telemetry--West-Penn-Hospital_J281709-1) | 2026-06-19 |
-| Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000132914969) | 2026-06-19 |
 | Olsson | Entry-Level Surveyor | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5268475008) | 2026-06-18 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Tulsa, OK | Tulsa | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Tulsa/Field-Service-Technician--Entry-Level----Tulsa--OK_R000153681) | 2026-06-18 |
 | AG Technologies | Entry level informatica developer Job | Texas City, TX, United States | [Apply](https://jobs.smartrecruiters.com/AGTechnologies1/88420885) | 2026-06-17 |
