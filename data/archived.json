@@ -106750,20 +106750,6 @@
     "date_archived": "2026-06-23"
   },
   {
-    "id": "lever-ambi-robotics-35f5b149-b7ee-458a-b84c-1073b723798f",
-    "company": "Ambi Robotics",
-    "title": "Robotics QA Intern",
-    "location": "California",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f",
-    "date_posted": "2025-09-19",
-    "date_added": "2026-06-17",
-    "active": false,
-    "date_archived": "2026-06-23"
-  },
-  {
     "id": "lever-ekimetrics-fde67ae0-dd06-46af-8a3e-a6372107f88d",
     "company": "Ekimetrics",
     "title": "Internship September 2026 - Agentic AI for Semi-Automating the Data Science Workflow",
@@ -357112,20 +357098,6 @@
     "date_archived": "2026-08-14"
   },
   {
-    "id": "lever-zoox-76845566-1870-4836-91ee-ff8e27462f8d",
-    "company": "Zoox",
-    "title": "Part-Time Student Worker – Hardware Software Integration Engineer",
-    "location": "Hayward, CA",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/zoox/76845566-1870-4836-91ee-ff8e27462f8d",
-    "date_posted": "2026-07-08",
-    "date_added": "2026-07-09",
-    "active": false,
-    "date_archived": "2026-08-14"
-  },
-  {
     "id": "greenhouse-astranis-4614379006",
     "company": "Astranis",
     "title": "Propulsion Engineer Intern (Fall 2026)",
@@ -396826,6 +396798,34 @@
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Finance_JR102837",
     "date_posted": "Posted 3 Days Ago",
     "date_added": "2026-08-18",
+    "active": false,
+    "date_archived": "2026-08-21"
+  },
+  {
+    "id": "lever-cirque-du-soleil-b0bdc4ac-bc43-4e73-81ce-3197ff439151",
+    "company": "Cirque du Soleil",
+    "title": "General Stage Manager - \"O\"",
+    "location": "Las Vegas, NV",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/cirquedusoleil/b0bdc4ac-bc43-4e73-81ce-3197ff439151",
+    "date_posted": "2026-08-05",
+    "date_added": "2026-08-06",
+    "active": false,
+    "date_archived": "2026-08-21"
+  },
+  {
+    "id": "lever-cirque-du-soleil-1b910f06-990b-4b8d-a1b3-8c2a39634dda",
+    "company": "Cirque du Soleil",
+    "title": "Stage Manager – \"O\"",
+    "location": "Las Vegas, NV",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/cirquedusoleil/1b910f06-990b-4b8d-a1b3-8c2a39634dda",
+    "date_posted": "2026-08-04",
+    "date_added": "2026-08-04",
     "active": false,
     "date_archived": "2026-08-21"
   }
