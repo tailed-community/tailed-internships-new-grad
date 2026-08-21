@@ -208,21 +208,21 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shaw Industries Group | Entry Level Manufacturing | Chatsworth | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-WE-616-Duvall-Rd-Chatsworth-GA-30705-USA/Entry-Level-Manufacturing_R-156021) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Andalusia | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-65-200-Waits-Drive-Hwy-29-N-Andalusia-AL-36420-USA/Entry-Level-Manufacturing_R-156016) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-156017) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software  - '26/'27  (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP) 2026/2027 New Graduate Rotational Program (Toronto/Waterloo)) | Toronto, ON / Waterloo, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Account-Executive-Development-Program--AEDP--2026-2027-New-Graduate-Rotational-Program--Ontario-_JR00127097) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP) 2026/2027 New Graduate Rotational Program (Western - BC, Alberta, Manitoba and Saskatchewan) | Vancouver, BC / Regina, SK / Winnipeg, MB / Calgary, AB | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Vancouver-British-Columbia/Account-Executive-Development-Program--AEDP--2026-2027-New-Graduate-Rotational-Program--Western---BC--Alberta--Manitoba-and-Saskatchewan-_JR00127096) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP)  2026/2027 New Graduate Rotational Program | Montreal, QC | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Montreal-Quebec/Programme-de-formation-des-chargs-de-comptes--PFCC--Programme-de-rotation-pour-nouveaux-diplms-2026-2027--Quebec---Montreal-Quebec-City-_JR00127095) | 2026-08-15 |
@@ -440,6 +440,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NewYork-Presbyterian | Physician Assistant I - Neurocritical Care ICU - Nights - NYP/Queens Medical Group (New Grads Welcome to Apply!) | Nyp / Queens Medical Group | [Apply](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPQueens-Medical-Group/Physician-Assistant-I---Neurocritical-Care-ICU---Nights---NYP-Queens-Medical-Group--New-Grads-Welcome-to-Apply--_00885695) | 2026-08-06 |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5381192008) | 2026-08-06 |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5381202008) | 2026-08-06 |
+| Samsara | Software Engineer I (New Grad) | London Uk2 | [Apply](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345) | 2026-08-06 |
 | Securitas | Entry Level Security Officer | Dry Ridge, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173415) | 2026-08-06 |
 | Securitas | Entry Level Security Officer | Walton, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173413) | 2026-08-06 |
 | Cleveland Clinic | New Grad RN Resident - Heart & Lung Transplant | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Heart---Lung-Transplant_346457) | 2026-08-05 |
@@ -710,7 +711,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Surgical Medical Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Surgical-Medical-Unit_347585) | 2026-07-14 |
 | Conagra Brands | 1st Shift Entry Level Line Service | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Line-Service_Req-039175) | 2026-07-14 |
 | Conagra Brands | 1st Shift Entry Level Processor | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-1st-Shift-Entry-Level-Processor_Req-039177) | 2026-07-14 |
-| DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY / San Francisco, Canada / Los Angeles, Canada / Seattle, WA / Sunnyvale, Canada | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) | 2026-07-14 |
 | GE Vernova | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-2) | 2026-07-14 |
 | GE Vernova - vernova_externalsite | Field Service Engineer - Early Career Trainee | Abu Dhabi / Muscat / Sharjah | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Abu-Dhabi/Field-Service-Engineer---Early-Career-Trainee_R5047343-3) | 2026-07-14 |
 | Kyndryl | Kyndryl Graduate Program – IT Consultant | Netherlands | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Hoofddorp-North-Holland-Netherlands/Kyndryl-Graduate-Program---IT-Consultant_R-63095-2) | 2026-07-14 |
@@ -847,7 +847,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Privacy & Civil Liberties Engineer - New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | 2026-06-27 |
 | AIG | Early Career Trade Credit | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Trade-Credit_JR26EC327) | 2026-06-26 |
 | Anduril | Mission Engineer, Air Dominance & Strike, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) | 2026-06-26 |
-| Four Hands | Entry level Data Engineer – New Grad | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) | 2026-06-26 |
 | KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) | 2026-06-26 |
 | NXP Semiconductors | NFC System Software Engineer - Entry Level | San Jose (holger Way) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298) | 2026-06-26 |
 | NXP Semiconductors | NFC System Software Validation Engineer - Entry Level | San Diego (innovation Dr) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Innovation-Dr/NFC-System-Software-Validation-Engineer---Entry-Level_R-10064295) | 2026-06-26 |
@@ -929,10 +928,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Dublin | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Fidelity-Investments---Technology-Graduate-Program---Dublin_2130453) | 2026-06-17 |
 | Fidelity Investments - targeted | Fidelity Investments - Technology Graduate Program Referrals - Galway | Ireland | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Fidelity-Investments---Technology-Graduate-Program-Referrals---Galway_2130454) | 2026-06-17 |
 | International Flavors & Fragrances | Start your early career at IFF Mexico! | Mexico | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Punto-Polanco-Mexico/Start-your-early-career-at-IFF-Mexico-_R17332-1) | 2026-06-17 |
-| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Mobile Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/6015617003?gh_jid=6015617003) | 2026-06-17 |
-| Konrad Group | Software Developer (Entry Level) | London | [Apply](https://www.konrad.com/careers/job/7669159003?gh_jid=7669159003) | 2026-06-17 |
+| Konrad Group | Mobile Developer (Entry Level) | Gurgaon | [Apply](https://www.konrad.com/careers/job/6084536003?gh_jid=6084536003) | 2026-06-17 |
 | Konrad Group | Software Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/5893240003?gh_jid=5893240003) | 2026-06-17 |
+| Konrad Group | Software Developer (Entry Level) | London | [Apply](https://www.konrad.com/careers/job/7669159003?gh_jid=7669159003) | 2026-06-17 |
 | LPL Financial Holdings - university | New Grad January 2027 - Financial Service Professional (Tempe) | Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Tempe/New-Grad-2027---Financial-Service-Professional--Tempe-_R-050484) | 2026-06-17 |
 | N1 | New Grad Software Engineer (Backend Rust) | New York, United States / San Francisco Bay Area / Remote / US, United States / Europe | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) | 2026-06-17 |
 | N1 | New Grad Software Engineer (Full Stack) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a) | 2026-06-17 |
@@ -1241,13 +1240,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NXP Semiconductors | <New Graduate Hiring> Data Scientist | Singapore | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/XMLNAME--New-Graduate-Hiring--Data-Scientist_R-10061588) | 2026-06-02 |
 | Occidental Petroleum Corporation (Oxy) | R&D/Technology Engineer - New Grad | California | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Brawley-California/Technology-Engineer---New-Grad_JR100734) | 2026-06-02 |
 | Olsson | Entry Level Civil Engineer (Airports) | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5227239008) | 2026-06-02 |
-| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5128670008) | 2026-06-02 |
+| Olsson | Entry-Level Civil Engineer - Site Design | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4940397008) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222596008) | 2026-06-02 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5222582008) | 2026-06-02 |
-| Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Construction Material Testing Technician | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4772020008) | 2026-06-02 |
+| Olsson | Entry-Level Construction Material Testing Technician | La Vista, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4643428008) | 2026-06-02 |
 | Olsson | Entry-Level Geotechnical Engineer - Rail | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5229228008) | 2026-06-02 |
 | Pacific Life | Sales Associate - Entry Level | Omaha Ne-6750 | [Apply](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Omaha-NE-6750/Sales-Associate---Entry-Level_R16931) | 2026-06-02 |
 | Pennsylvania State University | Part-Time Graduate Program Support Position | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Graduate-Program-Support-Position_REQ_0000074260-1) | 2026-06-02 |
