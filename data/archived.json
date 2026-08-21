@@ -398158,5 +398158,33 @@
     "date_added": "2026-08-19",
     "active": false,
     "date_archived": "2026-08-21"
+  },
+  {
+    "id": "rippling-lightguide-inc-7cac3b69-1df4-400a-9076-6f86c0e76a48",
+    "company": "LightGuide, Inc.",
+    "title": "Marketing Intern",
+    "location": "Wixom, MI",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/lightguide/jobs/7cac3b69-1df4-400a-9076-6f86c0e76a48",
+    "date_posted": null,
+    "date_added": "2026-07-31",
+    "active": false,
+    "date_archived": "2026-08-21"
+  },
+  {
+    "id": "rippling-tive-ebee71c8-684f-4a6c-a020-d965b984afdc",
+    "company": "Tive",
+    "title": "Account Management Intern",
+    "location": "Prishtina, Kosovo",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/tive-careers/jobs/ebee71c8-684f-4a6c-a020-d965b984afdc",
+    "date_posted": null,
+    "date_added": "2026-08-04",
+    "active": false,
+    "date_archived": "2026-08-21"
   }
 ]
