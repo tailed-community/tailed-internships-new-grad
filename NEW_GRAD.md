@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Environmental Engineer 副工程師 (環境部 - 台北) | Taiwan | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144695419) | 2026-08-21 |
+| AECOM | Entry-level Environmental Engineer 副工程師 (環境部 - 高雄) | Taiwan | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144694339) | 2026-08-21 |
+| AECOM | Entry-Level Project Information Specialist | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144617887) | 2026-08-21 |
 | Amentum | Early Career Civil Engineer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Early-Career-Civil-Engineer_R0168623) | 2026-08-21 |
 | AutoNation | Automotive Entry Level Technician | Autonation Honda 385 | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-385/Automotive-Entry-Level-Technician_JR2026146385) | 2026-08-21 |
 | AutoNation | Automotive Entry Level Technician | Autonation Toyota Pinellas Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Pinellas-Park/Attention-Automotive-Technicians--Brand-New-Service-Center-looking-for-all-Levels-of-Technicians-_JR2026133861) | 2026-08-21 |
@@ -39,6 +42,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mosaic | Engineer I, New Graduate Program | US Mulberry, FL / US Riverview, FL / US Bartow, FL / US Lithia, FL / Fl (lithia Area) / US Bradley, FL | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Mulberry-FL/Engineer-I--New-Graduate-Program_64900) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506365) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506362) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Dallas-Fort Worth - Diablo Tools - DAT | Euless, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144628789) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Houston, TX - Diablo Tools - DAT | Houston, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144628719) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools - DAT | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626899) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Miami, FL - Diablo Tools - DAT | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144627759) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New Jersey - Diablo Tools - DAT | Newark, NJ, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626820) | 2026-08-21 |
+| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New York City - Diablo Tools - DAT | Queens, NY, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626539) | 2026-08-21 |
 | Santander | Retail Graduate Program Portugal | Not Specified | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Retail-Graduate-Program-Portugal_Req1589589) | 2026-08-21 |
 | Securitas | Open Interviews for Entry Level Security Officers - Offers on the Spot! | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173933) | 2026-08-21 |
 | The Boeing Company | Electrical Design Engineer (Entry-level/Associate) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Electrical-Design-Engineer--Entry-level-Associate----Millennium-Space-Systems_JR2026522544-1) | 2026-08-21 |
@@ -164,12 +173,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | JP Morgan Chase | 2026 Find Your Fit – Early Career Programs in China – Tsinghua University | China | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778140) | 2026-08-18 |
 | Micron Technology | New Graduate (Community College) - Technician | Boise | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-Graduate--Community-College----Technician_JR109167) | 2026-08-18 |
 | Novartis | Associate (Entry-Level), Rheumatology Territory Account Specialist – Houston South | Field Sales (usa) / Sugar Land (texas) / Houston (texas) | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Field-Sales-USA/Associate--Entry-Level---Territory-Account-Specialist---Houston-South_REQ-10085672-1) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Dallas-Fort Worth - Diablo Tools – DAT | Euless, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934519) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Houston, TX - Diablo Tools – DAT | Houston, TX, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934429) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools – DAT | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933828) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Miami, FL - Diablo Tools – DAT | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143934389) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New Jersey - Diablo Tools – DAT | Newark, NJ, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933909) | 2026-08-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New York City - Diablo Tools – DAT | Queens, NY, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143933789) | 2026-08-18 |
 | Securitas | Entry Level Security Officer | Painesville, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173793) | 2026-08-18 |
 | Securitas | Entry Level Security Officer | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173814) | 2026-08-18 |
 | Vanguard - vanguard_external | Entry Level Application Engineer  - 2027 Start Date | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412) | 2026-08-18 |
