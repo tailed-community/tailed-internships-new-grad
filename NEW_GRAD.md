@@ -8,6 +8,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Respiratory Therapist, New Graduate, Atrium Health Wake Forest Baptist | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Respiratory-Therapist--New-Graduate--Atrium-Health-Wake-Forest-Baptist_R268150) | 2026-08-22 |
+| AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144755649) | 2026-08-22 |
+| AECOM | Entry-Level Bridge Engineer | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144832309) | 2026-08-22 |
 | Amentum | Software Programmer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838) | 2026-08-22 |
 | AutoNation | Entry Level Lube Technician \| AutoNation Acura Colorado Springs | Autonation Acura Colorado Springs | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Acura-Colorado-Springs/Entry-Level-Lube-Technician---AutoNation-Acura-Colorado-Springs_JR2026147817-1) | 2026-08-22 |
 | AutoNation | Entry level technician | Autonation Chrysler Dodge Jeep Ram Pembroke Pines | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-Pembroke-Pines/Entry-level-technician_JR2026147651) | 2026-08-22 |
@@ -24,6 +26,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Trailer Mechanic Sun - Thur 7a-3:30p | Baltimore Md | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Baltimore-MD/Entry-Level-Trailer-Mechanic-Sun---Thur-7a-3-30p_R202681603) | 2026-08-22 |
 | Cox | Entry Level Trailer Mechanic Tue - Sat 2p-10p | Baltimore Md | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Baltimore-MD/Entry-Level-Trailer-Mechanic-Tue---Sat-2p-10p_R202681602) | 2026-08-22 |
 | Cox | Entry Level Trailer Mechanic Tue - Sat 7a-3:30p | Baltimore Md | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Baltimore-MD/Entry-Level-Trailer-Mechanic-Tue---Sat-7a-3-30p_R202681606) | 2026-08-22 |
+| Eurofins | Facilities Technician (Entry Level) | Fremont, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000144849619) | 2026-08-22 |
+| Eurofins | Facilities Technician (Full-Time/Entry Level) | Fremont, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000144849816) | 2026-08-22 |
 | General Dynamics Mission Systems | Software Engineer – Entry Level | Manassas, VA, United States | [Apply](https://careers-gdms.icims.com/jobs/74471/software-engineer-%e2%80%93-entry-level/job) | 2026-08-22 |
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/74470/systems-engineer-%e2%80%93-entry-level/job) | 2026-08-22 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Medford, OR) | Oregon | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Oregon/Entry-Level-Associate-Neurophysiologist--Medford--OR-_JR107359) | 2026-08-22 |
