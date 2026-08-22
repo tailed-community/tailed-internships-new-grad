@@ -400972,5 +400972,33 @@
     "date_added": "2026-08-19",
     "active": false,
     "date_archived": "2026-08-22"
+  },
+  {
+    "id": "lever-calstart-cbd0d758-18b0-481d-9e67-a065682f30ea",
+    "company": "CALSTART",
+    "title": "Web Development Intern",
+    "location": "Remote, US",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea",
+    "date_posted": "2026-07-30",
+    "date_added": "2026-08-03",
+    "active": false,
+    "date_archived": "2026-08-22"
+  },
+  {
+    "id": "lever-cirque-du-soleil-182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
+    "company": "Cirque du Soleil",
+    "title": "Régisseur – Cirque du Soleil LUDÕ | Stage Manager – Cirque du Soleil LUDÕ",
+    "location": "Nuevo Nayarit",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/cirquedusoleil/182c6859-e7e3-42fd-9168-b2f8ec1a64c6",
+    "date_posted": "2026-07-21",
+    "date_added": "2026-07-22",
+    "active": false,
+    "date_archived": "2026-08-22"
   }
 ]
