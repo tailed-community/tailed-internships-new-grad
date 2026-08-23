@@ -1653,6 +1653,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sezzle | Product Data Intern | Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/6685976003) | 2026-08-19 |
 | Sezzle | Product Design Intern | Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7559727003) | 2026-08-19 |
 | Shaw Industries Group | Tax Intern | Dalton | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-61-616-E-Walnut-Ave-Dalton-GA-30720-USA/Tax-Intern_R-156112) | 2026-08-19 |
+| Sherwin-Williams | Year-Round IT Database Engineer Co-Op | Cleveland, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017) | 2026-08-19 |
 | Signify | Global Marketing Communications Intern (B2C) | Madrid | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Global-Marketing-Communications-Intern--B2C-_365975) | 2026-08-19 |
 | Signify | Internship TU/e Company Tour | Eindhoven | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship-TU-e-Company-Tour_366107) | 2026-08-19 |
 | Signify | Mechanical Intern | Shanghai | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Mechanical-Intern_365978) | 2026-08-19 |
@@ -2166,6 +2167,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SharkNinja | Fall 2026: Digital/Sharks, Digital Marketing Co-op, Content & Digital Shelf (August to December) | Mississauga, ON, Canada | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703705006) | 2026-08-18 |
 | SharkNinja | Fall 2026: Digital/Sharks, Performance Data Co-op, Marketplace Intelligence (August to December) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703756006) | 2026-08-18 |
 | SharkNinja | Fall 2026: Digital/Sharks, Sales Co-op, Marketplaces (August to December) | Mississauga, ON, Canada | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703765006) | 2026-08-18 |
+| Sherwin-Williams | Year-Round Finance-Intern, Oracle Business Support | Cleveland, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620993) | 2026-08-18 |
 | Signify | Manufacturing Engineering Intern/ Stagiaire en génie manufacturier | Boisbriand / Montréal | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Boisbriand/Manufacturing-Engineering-Intern--Stagiaire-en-gnie-manufacturier_365634) | 2026-08-18 |
 | Smiths Detection Group | Commercial Intern – Commercial Tools & Business Intelligence | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000143823899) | 2026-08-18 |
 | Société Générale de Surveillance (SGS) | Jobstudenten klinisch onderzoek | Belgium | [Apply](https://jobs.smartrecruiters.com/SGS/744000144000644) | 2026-08-18 |
@@ -4577,6 +4579,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Schweitzer Engineering Laboratories | HR Recruiting Intern | Washington Pullman | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern_2026-22503) | 2026-08-07 |
 | Schweitzer Engineering Laboratories | Human Resources Intern | Washington Pullman | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern_2026-22421) | 2026-08-07 |
 | SharkNinja | Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006) | 2026-08-07 |
+| Sherwin-Williams | R&D Co-Op- Applicators Group | Brecksville, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620019) | 2026-08-07 |
 | Solid Power | Materials Engineering Intern | Louisville | [Apply](https://job-boards.greenhouse.io/solidpower/jobs/6138210004) | 2026-08-07 |
 | SpaceX | Spring 2027 Graduate Engineer Internship/Co-op | Flexible Any Spacex Site | [Apply](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) | 2026-08-07 |
 | SpaceX | Summer 2027 Graduate Engineer Internship/Co-op | Flexible Any Spacex Site | [Apply](https://boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002) | 2026-08-07 |
@@ -4840,6 +4843,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | Software Engineer (C++) Internship Program (She/He/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Software-Engineer--C----Internship-Program--She-He-They-_R00349414) | 2026-08-05 |
 | Accor | Intern, Finance and People & Culture (F/M/X) | Thailand | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000141513115) | 2026-08-05 |
 | AECOM | Environmental Intern | Singapore | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000141633557) | 2026-08-05 |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Marketing Operations, US Consumer Services - New York, NY | New York, NY, United States | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012175) | 2026-08-05 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Marketing, US Consumer Services - New York, NY | New York, NY, United States | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011566) | 2026-08-05 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY | New York, NY, United States | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | 2026-08-05 |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Innovation, Credit & Fraud Risk - Phoenix, AZ | Phoenix, AZ, United States | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) | 2026-08-05 |
@@ -5955,6 +5959,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Scientific Research Corporation | DoD SkillBridge Intern – (Cyber Security Analyst) (Active Duty Service Members) | Not Specified | [Apply](https://careers-scires.icims.com/jobs/11411/dod-skillbridge-intern-%e2%80%93-%28cyber-security-analyst%29-%28active-duty-service-members%29/job) | 2026-07-31 |
 | SCOR | EMEA CFO Controlling Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5271) | 2026-07-31 |
 | Shell | Chemistry Intern | Bintulu | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bintulu/Technologist--Chemical-Engineer--Intern_R196147) | 2026-07-31 |
+| Sherwin-Williams | Internship | Malaysia | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618495) | 2026-07-31 |
 | Simon | Intern, Social Media | San Marcos, TX | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/San-Marcos-TX/Intern--Social-Media_R13815) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Portland, OR, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16942) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Columbia, SC, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16943) | 2026-07-31 |
@@ -6987,7 +6992,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | New York Post Holdings | Page Six Video Intern, Fall 2026 (10 weeks, 24 hours a week) | Nyc 1211 Ave Of The Americas | [Apply](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Page-Six-Video-Intern_Job_Req_54262) | 2026-07-22 |
 | New York Post Holdings | Sports Reporting Intern, Fall 2026 (10 weeks, 24 hours a week) | Nyc 1211 Ave Of The Americas | [Apply](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Sports-Reporting-Intern_Job_Req_54268) | 2026-07-22 |
 | New York Post Holdings | YouTube Intern, Fall 2026 (10 weeks, 24 hours a week) | Nyc 1211 Ave Of The Americas | [Apply](https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/YouTube-Intern_Job_Req_54263) | 2026-07-22 |
-| Nokia | Health and Safety Service Assistant (Internship) | Italy | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38534) | 2026-07-22 |
 | NXP Semiconductors | 2027 Intern - Customer Quality Engineer Intern | Tianjin (dac) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-DAC/XMLNAME-2027-Intern---Customer-Quality-Engineer-Intern_R-10065020-1) | 2026-07-22 |
 | NXP Semiconductors | Internship -  Robotics | Eindhoven | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Internship----Robotics_R-10062364) | 2026-07-22 |
 | NXP Semiconductors | Internship: Phase-Noise-Resilient Architectures for Large MIMO FMCW Automotive Radars | Eindhoven | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Internship--Phase-Noise-Resilient-Architectures-for-Large-MIMO-FMCW-Automotive-Radars_R-10064089) | 2026-07-22 |
@@ -9846,6 +9850,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCOR | Strategic Insight Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4915) | 2026-06-13 |
 | SCOR | Sustainable Insurance Internship | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4899) | 2026-06-13 |
 | SCOR | Sustainable Investment Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4864) | 2026-06-13 |
+| Sherwin-Williams | Intern R&D | Netherlands | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611238) | 2026-06-13 |
 | Sinclair | Intern | Columbus, OH, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16175) | 2026-06-13 |
 | Sinclair | Intern - Studio Crew | Salt Lake City, UT, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16359) | 2026-06-13 |
 | Sinclair | News intern | Mobile, AL, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16368) | 2026-06-13 |
