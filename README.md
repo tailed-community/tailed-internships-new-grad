@@ -2335,7 +2335,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Caterpillar | Project Coordinator Intern | Jiangsu | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Project-Coordinator-Intern_R0000388557) | 2026-08-17 |
 | Chanel | Stage - Assistant Chef de Projet Digital Expérience Client - Parfums Beauté – Janvier 2027 - H/F/X | Neuilly-Sur-Seine | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/Stage---Assistant-Chef-de-Projet-Digital-Exprience-Client---Parfums-Beaut---Janvier-2027---H-F-X_JOBREQ00116054) | 2026-08-17 |
 | Chanel | Visual Merchandising Intern | Zürich | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Zrich/Visual-Merchandising-Intern_JOBREQ00115543-2) | 2026-08-17 |
-| Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4) | 2026-08-17 |
 | Cloudflare | GRC Team Intern (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8129796?gh_jid=8129796) | 2026-08-17 |
 | Continental | Internship - Global Talent Development (HR) (m/f/d) - REF97411K | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000143806281) | 2026-08-17 |
 | Continental | Internship - Test Stand Development for Tire Manufacturing (m/f/d) - REF98008V | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000143807432) | 2026-08-17 |

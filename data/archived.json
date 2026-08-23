@@ -402736,5 +402736,19 @@
     "date_added": "2026-07-09",
     "active": false,
     "date_archived": "2026-08-23"
+  },
+  {
+    "id": "ashby-clera-370fcfdb-d43c-4b57-913f-b1f93cf073d4",
+    "company": "Clera",
+    "title": "Founder Associate Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/370fcfdb-d43c-4b57-913f-b1f93cf073d4",
+    "date_posted": "2026-08-16",
+    "date_added": "2026-08-17",
+    "active": false,
+    "date_archived": "2026-08-23"
   }
 ]
