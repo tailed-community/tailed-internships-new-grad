@@ -22,6 +22,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Arctic Wolf | Co-op/ Intern | Ind | [Apply](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-IND/Co-op--Intern_R26_932) | 2026-08-23 |
+| Expeditors | Sales internship | Scottsdale, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000144890329) | 2026-08-23 |
 | GlobalFoundries | Quantum Technology Services Intern (Summer 2027) | USA New York Malta | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604439) | 2026-08-23 |
 | Loblaw Companies | Pizza Student Part Time Day | North York, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/700-Lawrence-Ave-W-North-York-ON/Pizza-Student-Part-Time-Day_R2000697858) | 2026-08-23 |
 | Loblaw Companies | Student Part Time Day | Burlington, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2025-Guelph-Line-Burlington-ON/Student-Part-Time-Day_R2000697648) | 2026-08-23 |
