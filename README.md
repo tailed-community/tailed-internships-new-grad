@@ -31,6 +31,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Engineering Industrial Intern | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Engineering-Industrial-Intern_JR10434684) | 2026-08-24 |
 | Airbus | Student Assistant - Commercial Intelligence & Inside Sales | Cpo Copenhagen Office | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Student-Assistant---Commercial-Intelligence---Inside-Sales_JR10436692) | 2026-08-24 |
 | Ambrook | Software Engineering Intern | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456) | 2026-08-24 |
+| Ampersand | Co-op, Data Engineering (Spring 2027, open to Northeastern students only) | Boston, MA | [Apply](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3) | 2026-08-24 |
+| Ampersand | Co-op, Protein Sciences (Spring 2027, open to Northeastern students only) | Boston, MA | [Apply](https://ats.rippling.com/ampersand-biomedicines/jobs/a0f43280-90dd-4c59-ad9c-24c0133e3fcd) | 2026-08-24 |
 | Analog Devices | Digital Design Engineer Intern | NC, United States / Rio Robles, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | 2026-08-24 |
 | Analog Devices | Manufacturing Engineer Intern | MA, United States / OR, United States | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) | 2026-08-24 |
 | Analog Devices | Product Engineer (Product Development) Intern | MA, United States / NC, United States | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) | 2026-08-24 |
@@ -71,6 +73,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | 2026-08-24 |
 | BRG | Internship - Competition Economics (German Speaker) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) | 2026-08-24 |
 | BRG | Internship - Competition Economics (October 2026 Start) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--October-2026-Start-_JR100949) | 2026-08-24 |
+| Capacity | Speech Technology Research Intern | Edinburgh, United Kingdom | [Apply](https://ats.rippling.com/capacity/jobs/fe15a314-75d1-4355-8e80-31de902d6d58) | 2026-08-24 |
 | Catalist | Data Services Intern | Washington, DC | [Apply](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec) | 2026-08-24 |
 | Caterpillar | Assembly Intern (装配实习生) - 31 | Tianjin | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Assembly-Intern------31_R0000390110) | 2026-08-24 |
 | Centric Brands | Photographer - Intern | Bd-Dhaka | [Apply](https://careers-centricbrands.icims.com/jobs/23549/photographer---intern/job) | 2026-08-24 |
@@ -706,6 +709,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Workday Early Careers | Workday Intern Cohort 2026 (Canada) | BC, Canada / ON, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Workday-Intern-Cohort-2026--Canada-_JR-0109239) | 2026-08-24 |
 | Zeiss | Intern, Sales & Service Ops, MED, VN | Ho Chi Minh | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Ho-Chi-Minh/Intern--Sales---Service-Ops--MED--VN_JR_1052115) | 2026-08-24 |
 | Zoomifier | Software Development Intern | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/CustomShow/75886593) | 2026-08-24 |
+| Zuckerman Investment Group | Investment Analyst – MBA Internship | Chicago, IL | [Apply](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | 2026-08-24 |
 | Expeditors | Sales internship | Scottsdale, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000144890329) | 2026-08-23 |
 | GlobalFoundries | Quantum Technology Services Intern (Summer 2027) | USA New York Malta | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Quantum-Technology-Services-Intern--Summer-2027-_JR-2604439) | 2026-08-23 |
 | Loblaw Companies | Pizza Student Part Time Day | North York, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/700-Lawrence-Ave-W-North-York-ON/Pizza-Student-Part-Time-Day_R2000697858) | 2026-08-23 |
