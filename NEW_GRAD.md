@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Bloxd | New Grad Software Engineer | United Kingdom | [Apply](https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3) | 2026-08-24 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg, Telemetry and Clinical Decision Units | Martin Health North | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/RN---Med-Surg--Telemetry-and-Clinical-Decision-Units_347734) | 2026-08-24 |
 | Cleveland Clinic | New Grad RN Resident - Oncology | Martin Health North | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/RN---Oncology_349896) | 2026-08-24 |
 | Equinix | Critical Facilities Engineer (Entry Level) | Oberengstringen | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Oberengstringen/Critical-Facilities-Engineer--Entry-Level-_JR-162984) | 2026-08-24 |
