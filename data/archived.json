@@ -406908,5 +406908,47 @@
     "date_added": "2026-08-21",
     "active": false,
     "date_archived": "2026-08-24"
+  },
+  {
+    "id": "lever-geocomply-1bb53e99-a9e6-4608-9a8d-2be79846eaee",
+    "company": "GeoComply",
+    "title": "Fraud Analyst Intern",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/1bb53e99-a9e6-4608-9a8d-2be79846eaee",
+    "date_posted": "2026-07-24",
+    "date_added": "2026-07-24",
+    "active": false,
+    "date_archived": "2026-08-24"
+  },
+  {
+    "id": "lever-geocomply-4057ba13-28ca-440f-b4b4-ead0fdd93fd4",
+    "company": "GeoComply",
+    "title": "Security Software Engineer Intern",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/4057ba13-28ca-440f-b4b4-ead0fdd93fd4",
+    "date_posted": "2026-07-24",
+    "date_added": "2026-07-24",
+    "active": false,
+    "date_archived": "2026-08-24"
+  },
+  {
+    "id": "lever-geocomply-4bc3f323-73e1-4338-943c-33653b305e26",
+    "company": "GeoComply",
+    "title": "Software Engineer Intern (Fullstack)",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26",
+    "date_posted": "2026-07-20",
+    "date_added": "2026-07-20",
+    "active": false,
+    "date_archived": "2026-08-24"
   }
 ]

@@ -40,6 +40,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039) | 2026-08-24 |
 | BRG | Internship - Competition Economics (German Speaker) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) | 2026-08-24 |
 | BRG | Internship - Competition Economics (October 2026 Start) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--October-2026-Start-_JR100949) | 2026-08-24 |
+| Catalist | Data Services Intern | Washington, DC | [Apply](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec) | 2026-08-24 |
 | Caterpillar | Assembly Intern (装配实习生) - 31 | Tianjin | [Apply](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Assembly-Intern------31_R0000390110) | 2026-08-24 |
 | Chanel | Stage - Assistant(e) Communication Haute-Couture (H/F/X) - Mode – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Communication-Haute-Couture--H-F-X----Mode---Janvier-2027_JOBREQ00116240) | 2026-08-24 |
 | Chanel | Stage – Assistant(e) Outils de communication Presse - Horlogerie Joaillerie - Janvier 2027 - H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Outils-de-communication-Presse---Horlogerie-Joaillerie---Janvier-2027---H-F-X_JOBREQ00116230) | 2026-08-24 |
@@ -306,6 +307,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | WDW Power and Facilities Electrical Engineering Interns, Spring 2027 | Lake Buena Vista, FL, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Power-and-Facilities-Electrical-Engineering-Interns--Spring-2027_10158139) | 2026-08-24 |
 | DXC Technology | RR-0393497 Service Desk Intern-19 | Sgp Singapore | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/RR-0393497-Service-Desk-Intern-19_51583322) | 2026-08-24 |
 | DXC Technology | ServiceDesk Intern | Sgp Singapore | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceDesk-Intern_51587333) | 2026-08-24 |
+| E-Space | Embedded Software Engineering Intern | Arlington, TX | [Apply](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3) | 2026-08-24 |
+| E-Space | Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics | Arlington, TX | [Apply](https://jobs.lever.co/espace/e2ee73af-22b9-4274-9994-9783e9ce9220) | 2026-08-24 |
+| E-Space | Help Desk Technician Intern | Arlington, TX | [Apply](https://jobs.lever.co/espace/81f708aa-c418-4490-82e7-386f35879f31) | 2026-08-24 |
+| E-Space | RF Product Development Lab Intern | Arlington, TX | [Apply](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d) | 2026-08-24 |
 | Ecolab | Intern | Chn Zhejiang Huzhou | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CHN---Zhejiang---Huzhou/Intern_R00301289) | 2026-08-24 |
 | Elsevier | Researcher Academy Intern | Nld Amsterdam (radarweg) | [Apply](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/NLD-Amsterdam-Radarweg/Researcher-Academy-Intern_R114553) | 2026-08-24 |
 | Excellus BCBS | College Intern - AI Engineering - Fall 2026 (Multiple Openings) | Rochester / Buffalo / Dewitt / Binghamton / Albany | [Apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2) | 2026-08-24 |
@@ -2198,7 +2203,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Engineering Internship Program | Malaysia | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000143974139) | 2026-08-18 |
 | AHEAD | MS - EUS Apprentice/Intern (6 months) | Haryana | [Apply](https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f) | 2026-08-18 |
 | AHEAD | MS - Ops Lead Intern (6 months) | Haryana | [Apply](https://jobs.lever.co/thinkahead/0660a3f8-680a-4ffa-bcc4-a7b25bb9c925) | 2026-08-18 |
-| AHEAD | MS - Windows Intern (6 months) | Haryana / Hyderabad | [Apply](https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55) | 2026-08-18 |
+| AHEAD | MS Infrastructure Intern (6 months) | Haryana / Hyderabad | [Apply](https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55) | 2026-08-18 |
 | Airbus | Long-term Internship - Technical Product Marketing | Grand Prairie, TX | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Technical-Product-Marketing_JR10435485) | 2026-08-18 |
 | Airbus | Student Assistant | Cpo Copenhagen Office | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Student-Assistant_JR10435328) | 2026-08-18 |
 | Airbus | Working Student Procurement Air Power Commodity IT & Ground Systems  (d/f/m) | München Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Working-Student-Procurement-Air-Power-Commodity-IT---Ground-Systems---d-f-m-_JR10433300) | 2026-08-18 |
@@ -2819,7 +2824,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Account Intern | Shanghai Haisu Plaza | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/Account-Intern_R1129628) | 2026-08-17 |
 | DiDi Global | Motion Planning Engineer (PhD, Intern) | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131863) | 2026-08-17 |
 | Dmg Media | Editorial Innovation Intern | London | [Apply](https://www.dmgmedia.co.uk/careers/jobs/id/8130320?gh_jid=8130320) | 2026-08-17 |
-| Dun & Bradstreet | R-19756 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/8f1d6940-955e-4885-aa2e-2a46a25d60b5) | 2026-08-17 |
+| Dun & Bradstreet | Intern (R-19756) | Mumbai India | [Apply](https://jobs.lever.co/dnb/8f1d6940-955e-4885-aa2e-2a46a25d60b5) | 2026-08-17 |
 | Edwards Lifesciences | Intern, Global Supply Chain | Singapore Commercial – Distribution Center | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Singapore-Commercial--Distribution-Center/Intern--Global-Supply-Chain_Req-49543-1) | 2026-08-17 |
 | Epia Neuro | Hardware Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe) | 2026-08-17 |
 | Felix Magazine | Ad Sales Associate | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/LuxeMediaLLC/743999657535367) | 2026-08-17 |
@@ -4182,8 +4187,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CSA Group | Marketing Working Student (m/w/d) | Plattling | [Apply](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Plattling/Marketing-Working-Student--m-w-d-_R004863) | 2026-08-11 |
 | Cummins | Expression Of Interest - Undergraduate Internships 2027 | Australia | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435363) | 2026-08-11 |
 | Denver | Therapeutic Recreation Intern | Greater Denver Area | [Apply](https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Greater-Denver-Area/Therapeutic-Recreation-Intern_R0082180) | 2026-08-11 |
-| Dun & Bradstreet | R-19689 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/7ec28332-908e-4f56-a10a-95f356dc0630) | 2026-08-11 |
-| Dun & Bradstreet | R-19691 (Intern) | Mumbai India | [Apply](https://jobs.lever.co/dnb/f4e8ccf6-9d44-4bdf-9ed9-023c67cae440) | 2026-08-11 |
+| Dun & Bradstreet | Intern (R-19689) | Mumbai India | [Apply](https://jobs.lever.co/dnb/7ec28332-908e-4f56-a10a-95f356dc0630) | 2026-08-11 |
+| Dun & Bradstreet | Intern (R-19691) | Mumbai India | [Apply](https://jobs.lever.co/dnb/f4e8ccf6-9d44-4bdf-9ed9-023c67cae440) | 2026-08-11 |
 | DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 2026-08-11 |
 | DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | London | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | 2026-08-11 |
 | Elanco | Talent Acquisition Intern | My Petaling Jaya | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/MY---Petaling-Jaya/Talent-Acquisition-Intern_R0026694) | 2026-08-11 |
@@ -6901,8 +6906,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Appliances | Intern- Dimensional Management | Bangalore, KA | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/IND-Bangalore-KA/Intern--Dimensional-Management_REQ-26320) | 2026-07-24 |
 | GE Vernova | Customer Support Engineering Intern - NYSC | Lagos | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Lagos/Customer-Support-Engineering-Intern---ECGIP_R5048156-1) | 2026-07-24 |
 | GE Vernova - vernova_externalsite | Customer Support Engineering Intern - NYSC | Lagos | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lagos/Customer-Support-Engineering-Intern---ECGIP_R5048156-2) | 2026-07-24 |
-| GeoComply | Fraud Analyst Intern | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/1bb53e99-a9e6-4608-9a8d-2be79846eaee) | 2026-07-24 |
-| GeoComply | Security Software Engineer Intern | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/4057ba13-28ca-440f-b4b4-ead0fdd93fd4) | 2026-07-24 |
 | Greystar Worldwide | Community Assistant - Nordheim Court (Student Living) | Seattle, WA | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Nordheim-Court-Seattle-WA/Community-Assistant---Nordheim-Court--Student-Living-_R0195763-1) | 2026-07-24 |
 | Greystar Worldwide | Turn Assistant - University Station (Student Living) | Norwood, OH | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/University-Station-Norwood-OH/Turn-Assistant---University-Station--Student-Living-_R0195700) | 2026-07-24 |
 | Haleon | Operational Excellence Internship - Manufacturing | Madrid | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Alcal-de-Henares-Madrid/Operational-Excellence-Internship---Manufacturing_546410) | 2026-07-24 |
@@ -7380,7 +7383,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Duracell | Accounts Payable Intern (Temporary) | Spain | [Apply](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1328) | 2026-07-20 |
 | GE Healthcare | Commercial Sales Leadership Program Internship | Waukesha | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Commercial-Sales-Leadership-Program-Internship_R4043921-1) | 2026-07-20 |
 | GE Healthcare | Student assistent Freight | Eindhoven | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Eindhoven/Student-assistent-Freight_R4043433-1) | 2026-07-20 |
-| GeoComply | Software Engineer Intern (Fullstack) | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/4bc3f323-73e1-4338-943c-33653b305e26) | 2026-07-20 |
 | GeoComply | Software Engineer Intern (Mobile) | Vietnam | [Apply](https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7) | 2026-07-20 |
 | Haleon | Sales Representative Intern | China Guangdong Foshan | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Guangdong---Foshan/Sales-Representative-Intern_545915-2) | 2026-07-20 |
 | HARMAN International | Intern, Android Application Develop | No. 9233 Humin Road / Chengdu Chengdu | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/CN_Shanghai_12F--15F-No-9233-Humin-Road/Intern--Android-Application-Develop_R-54648-2026) | 2026-07-20 |
