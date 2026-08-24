@@ -11,7 +11,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Med/Surg, Telemetry and Clinical Decision Units | Martin Health North | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/RN---Med-Surg--Telemetry-and-Clinical-Decision-Units_347734) | 2026-08-24 |
 | Cleveland Clinic | New Grad RN Resident - Oncology | Martin Health North | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/RN---Oncology_349896) | 2026-08-24 |
 | Equinix | Critical Facilities Engineer (Entry Level) | Oberengstringen | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Oberengstringen/Critical-Facilities-Engineer--Entry-Level-_JR-162984) | 2026-08-24 |
+| Filtration Group | Maintenance Technician - Entry Level | Not Specified | [Apply](https://careers-filtrationgroupcorp.icims.com/jobs/7486/maintenance-technician---entry-level/job) | 2026-08-24 |
 | Foresters Financial | Actuarial New Grad 2027 Opportunities | Toronto, ON | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Actuarial-New-Grad-2027-Opportunities_R-2297) | 2026-08-24 |
+| Framatome | Early Career Electrical Engineer - Site Projects Engineering | Onsite | [Apply](https://careers-framatome.icims.com/jobs/3014/early-career-electrical-engineer---site-projects-engineering/job) | 2026-08-24 |
+| Framatome | Early Career Electrical I&C Engineer | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2813/early-career-electrical-i%26c-engineer/job) | 2026-08-24 |
+| Framatome | Early Career IBR Mechanical Engineer | Onsite | [Apply](https://careers-framatome.icims.com/jobs/3031/early-career-ibr-mechanical-engineer/job) | 2026-08-24 |
+| Framatome | Entry Level Reactor Services Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2389/entry-level-reactor-services-technician/job) | 2026-08-24 |
 | General Matter | Chemical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375916008) | 2026-08-24 |
 | General Matter | Electrical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375934008) | 2026-08-24 |
 | General Matter | Electrical Engineer - Buildings (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375921008) | 2026-08-24 |

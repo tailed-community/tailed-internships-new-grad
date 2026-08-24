@@ -407034,5 +407034,61 @@
     "date_added": "2026-07-25",
     "active": false,
     "date_archived": "2026-08-24"
+  },
+  {
+    "id": "icims-cook-group-18182",
+    "company": "Cook Group",
+    "title": "COOK Medical Fall 2026 R&D Engineering Co-op",
+    "location": "Bloomington, IN, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "icims",
+    "url": "https://americas-cookmedical.icims.com/jobs/18182/cook-medical-fall-2026-r%26d-engineering-co-op/job",
+    "date_posted": "2026-03-17",
+    "date_added": "2026-06-10",
+    "active": false,
+    "date_archived": "2026-08-24"
+  },
+  {
+    "id": "icims-hines-13643",
+    "company": "Hines",
+    "title": "Intern - Asset Management",
+    "location": "It-Milan",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-hines.icims.com/jobs/13643/intern---asset-management/job",
+    "date_posted": null,
+    "date_added": "2026-06-10",
+    "active": false,
+    "date_archived": "2026-08-24"
+  },
+  {
+    "id": "icims-keysight-technologies-53431",
+    "company": "Keysight Technologies",
+    "title": "AI & Automation Intern",
+    "location": "Malaysia",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://jobs.keysight.com/jobs/53431?lang=en-us&icims=1",
+    "date_posted": "2026-07-09",
+    "date_added": "2026-07-09",
+    "active": false,
+    "date_archived": "2026-08-24"
+  },
+  {
+    "id": "icims-mackenzie-investments-5858",
+    "company": "Mackenzie Investments",
+    "title": "Fall Intern 2026 - Tax & Estate Planning",
+    "location": "Montreal, QC, Canada",
+    "type": "internship",
+    "season": "Fall",
+    "source": "icims",
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5858/fall-intern-2026---tax-%26-estate-planning/job",
+    "date_posted": "2026-08-17",
+    "date_added": "2026-08-18",
+    "active": false,
+    "date_archived": "2026-08-24"
   }
 ]
