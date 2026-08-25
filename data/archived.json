@@ -86030,20 +86030,6 @@
     "date_archived": "2026-06-18"
   },
   {
-    "id": "ashby-hadrian-f27b6322-0fc3-4dde-b1fb-97efae2115d8",
-    "company": "Hadrian",
-    "title": "Entry Level - Factory Technician - 2nd Shift",
-    "location": "California, United States",
-    "type": "new_grad",
-    "season": "Not specified",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/hadrian-automation/f27b6322-0fc3-4dde-b1fb-97efae2115d8",
-    "date_posted": "2026-05-14",
-    "date_added": "2026-06-08",
-    "active": false,
-    "date_archived": "2026-06-18"
-  },
-  {
     "id": "icims-aerotek-12769",
     "company": "Aerotek",
     "title": "Sales Internship",
@@ -297262,20 +297248,6 @@
     "date_archived": "2026-08-01"
   },
   {
-    "id": "ashby-heron-power-b786b564-44bc-454f-ad9b-482f8b35ae4c",
-    "company": "Heron Power",
-    "title": "Intern, Supply Chain (Fall 2026)",
-    "location": "California, United States",
-    "type": "internship",
-    "season": "Fall 2026",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/heron-power/b786b564-44bc-454f-ad9b-482f8b35ae4c",
-    "date_posted": "2026-07-10",
-    "date_added": "2026-07-11",
-    "active": false,
-    "date_archived": "2026-08-01"
-  },
-  {
     "id": "ashby-super-3295ced3-f64c-40fb-bd78-6ff35355c42b",
     "company": "Super",
     "title": "Legal Intern",
@@ -407732,6 +407704,62 @@
     "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5217334008",
     "date_posted": "2026-05-18",
     "date_added": "2026-07-29",
+    "active": false,
+    "date_archived": "2026-08-25"
+  },
+  {
+    "id": "ashby-clera-e11d1251-41d7-49e6-a52a-0ec7ad73fd41",
+    "company": "Clera",
+    "title": "Generalist Operator (Early-Stage)",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/e11d1251-41d7-49e6-a52a-0ec7ad73fd41",
+    "date_posted": "2026-08-18",
+    "date_added": "2026-08-19",
+    "active": false,
+    "date_archived": "2026-08-25"
+  },
+  {
+    "id": "ashby-meshy-262d74c7-8aab-474e-9fc6-8c8c48ec6572",
+    "company": "Meshy",
+    "title": "Fullstack Engineer Intern",
+    "location": "Sunnycale, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572",
+    "date_posted": "2026-07-27",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-25"
+  },
+  {
+    "id": "ashby-reflect-orbital-51d75a91-c088-4f00-89bc-4be8250b09f9",
+    "company": "Reflect Orbital",
+    "title": "Composites Engineering Intern (Fall 2026)",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/reflect-orbital/51d75a91-c088-4f00-89bc-4be8250b09f9",
+    "date_posted": "2026-07-15",
+    "date_added": "2026-07-16",
+    "active": false,
+    "date_archived": "2026-08-25"
+  },
+  {
+    "id": "ashby-replit-7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "company": "Replit",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "California, United States / United States Remote",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "date_posted": "2026-08-15",
+    "date_added": "2026-08-16",
     "active": false,
     "date_archived": "2026-08-25"
   }

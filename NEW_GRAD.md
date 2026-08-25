@@ -8,6 +8,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | New Grad Evergreen | Charlotte | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1001-Blythe-Blvd/New-Grad-Evergreen_R265971) | 2026-08-25 |
+| Applied Intuition | Build & Release Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
+| Applied Intuition | OTA/Cloud Validation Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
+| Applied Intuition | UX Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
 | AutoNation | Entry Level Technician | Autonation Volkswagen Hilton Head | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Volkswagen-Hilton-Head/Entry-Level-Technician_JR2026147803) | 2026-08-25 |
 | Barr | Cultural Resources Specialist – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Cultural-Resources-Specialist---Entry-Level--Hybrid-_R-102256) | 2026-08-25 |
 | Barr | Environmental Engineer – Entry Level (Hybrid) | Grand Rapids, MI | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Grand-Rapids-MI/Environmental-Engineer---Entry-Level--Hybrid-_R-102274) | 2026-08-25 |
@@ -36,6 +39,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kyndryl - KyndrylProfessionalCareers | Early Career Consult Program – Cybersecurity Infrastructure Associate | Usdalfri Dallas Frisco Ai Hub (fri) | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Cybersecurity-Infrastructure-Associate_R-67375-1) | 2026-08-25 |
 | Leidos | Entry-Level Computer Scientist | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248) | 2026-08-25 |
 | MaineGeneral Health | 1 West - Med/Surg Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-1-West---Med-Surg-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R17090) | 2026-08-25 |
+| Northwood Space | Global Sites Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/baa85b78-5718-4e74-9b21-170776dc4185) | 2026-08-25 |
 | PitchBook | Account Development Representative (Early Career, Outside Sales) | California, United States | [Apply](https://job-boards.greenhouse.io/pitchbookdata/jobs/4694515006) | 2026-08-25 |
 | Royal Bank of Canada | AI Engineer - New Grad | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/AI-Engineer---New-Grad_R-0000185645) | 2026-08-25 |
 | Royal Bank of Canada | Analyst, Strategic Reporting - New Grad | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Analyst--Strategic-Reporting---New-Grad_R-0000184816) | 2026-08-25 |
@@ -290,11 +294,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AbbVie | Early Career Talent - Tunisia | Tunisia | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616036) | 2026-08-16 |
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Blood-Collection-Staff---Customer-Service_RC89303) | 2026-08-15 |
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
+| Applied Intuition | Embedded Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | 2026-08-15 |
 | Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
 | Applied Intuition | Scenario Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | 2026-08-15 |
 | Applied Intuition | Software Engineer - New Grad (December 2026) | California, United States / Ann Arbor | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | 2026-08-15 |
 | Applied Intuition | Software Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
-| Applied Intuition | Vehicle Test Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | 2026-08-15 |
 | AutoNation | Automotive Entry Level Technician | Lexus Of Palm Beach | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Lexus-of-Palm-Beach/Automotive-Technicians-all-levels_JR2026136354) | 2026-08-15 |
 | AutoNation | Entry Level Technician-AutoNation Chrysler Dodge Jeep Ram N. Fort Worth-$17/HR | Autonation Chrysler Dodge Jeep Ram N. Fort Worth | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth/Entry-Level-Technician-AutoNation-Chrysler-Dodge-Jeep-Ram-N-Fort-Worth--17-HR_JR2026147230) | 2026-08-15 |
 | Avis Budget Group | Entry Level Automotive Technician - FT | East Elmhurst | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/23-85-87th-St-East-Elmhurst-11369/Entry-Level-Automotive-Technician---FT_R0184759) | 2026-08-15 |
@@ -1154,6 +1158,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Deliveroo | Software Engineer, New Grad | City Of, United Kingdom | [Apply](https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636) | 2026-06-08 |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
+| Hadrian | Entry Level - Factory Technician - 2nd Shift | Torrance, United States | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f27b6322-0fc3-4dde-b1fb-97efae2115d8) | 2026-06-08 |
 | Northwood Space | Software Engineer – General (new grad / early career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | 2026-06-08 |
 | Parallel Web Systems | Early Career Research Engineer | California, United States | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd) | 2026-06-08 |
 | Intermountain Healthcare | Registered Nurse New Graduate Winter 2026 Cohort St Vincent Hospital | Intermountain Health St Vincent Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-New-Graduate-Winter-2026-Cohort-St-Vincent-Hospital_R173876-1) | 2026-06-07 |
