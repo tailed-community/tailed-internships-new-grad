@@ -8,6 +8,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | New Grad Evergreen | Charlotte | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1001-Blythe-Blvd/New-Grad-Evergreen_R265971) | 2026-08-25 |
+| AECOM | Entry-Level Geologist/Geophysicist | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145291599) | 2026-08-25 |
+| AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145330842) | 2026-08-25 |
+| AECOM | Entry-Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145377109) | 2026-08-25 |
+| AECOM | Entry-Level Traffic Engineer | Middleton, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145348558) | 2026-08-25 |
 | Applied Intuition | Build & Release Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
 | Applied Intuition | UX Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
@@ -29,6 +33,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Emergency Department | Euclid Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Euclid-Hospital/New-Grad-RN-Resident---Emergency-Department_351057) | 2026-08-25 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Telemetry Unit | Marymount Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350192) | 2026-08-25 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg Post-Operative Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Med-Surg-Post-Operative-Unit_347605) | 2026-08-25 |
+| Dexterra Group | Construction Laborer – Entry Level (contract) | Edmonton, AB, Canada | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000145357289) | 2026-08-25 |
+| Eurofins | Entry Level-Lab Technician (Weds-Sun)- Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145372439) | 2026-08-25 |
 | EXP | BIM Tech (Entry Level) | Orlando, FL, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113060) | 2026-08-25 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Birmingham, AL | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Birmingham-AL/New-Graduate-Nurse---RN_R0266589) | 2026-08-25 |
 | GE Vernova - vernova_externalsite | Entry Level - Industrial Plumber/Steamfitter | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/Entry-Level---Industrial-Plumber-Steamfitter-3_R5040915-1) | 2026-08-25 |
@@ -392,9 +398,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Med/Surg | Avon Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/New-Grad-RN-Resident---Med-Surg_350753) | 2026-08-13 |
 | Cleveland Clinic | New Grad RN Resident - Neuro Medical Telemetry | Mercy Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---Neuro-Medical-Telemetry_350171) | 2026-08-13 |
 | ERM | 未経験者歓迎　コンストラクションセーフティコンサルタント・Construction safety (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant-Construction-safety--Entry-Level-_R00031579-2) | 2026-08-13 |
-| Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143178519) | 2026-08-13 |
 | Eurofins | Entry Level Chemist (2nd Shift) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143179307) | 2026-08-13 |
-| Eurofins | Entry Level Manufacturing Technician - 1st Shift | Nashville, TN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143125978) | 2026-08-13 |
 | Fresenius Medical Care | New Grad Nurse- RN | Wyoming, MI / Lansing, MI, United States / Wyoming, MI, United States / Kalamazoo, MI, United States / East Lansing, MI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wyoming-MI/New-Grad-Nurse--RN_R0262022-1) | 2026-08-13 |
 | Fresenius Medical Care | New Graduate Nurse | Norfolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norfolk-VA/New-Graduate-Nurse_R0265781) | 2026-08-13 |
 | Fresenius Medical Care | New Graduate Nurse | Suffolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Suffolk-VA/New-Graduate-Nurse_R0265788) | 2026-08-13 |
