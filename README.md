@@ -4990,7 +4990,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Virtu Financial | 2027 Internship - FPGA Engineer | Ireland | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8638124002) | 2026-08-13 |
 | Visa | Client Services Intern - Students Graduating Summer 2028 or December 2027 | Kazakhstan | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/KZ---Almaty-Kazakhstan/Client-Services-Intern---Students-Graduating-Summer-2028-or-December-2027_REF086764W) | 2026-08-13 |
 | Visa | VCA Intern - Graduates Summer 2028/December 2027 | Azerbaijan | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/AZ---Baku-Azerbaijan/VCA-Intern---Graduates-Summer-2028-December-2027_REF086781W) | 2026-08-13 |
-| Ware Malcomb | Talent Acquisition Intern (Fall) | Houston, TX | [Apply](https://jobs.lever.co/waremalcomb/516f7f6d-1a3b-402b-b453-56e39f045335) | 2026-08-13 |
 | Weatherford | USA - Weatherford Summer Business Internship | Houston, TX, United States | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107149) | 2026-08-13 |
 | Weatherford | USA - Weatherford Summer Engineering Internship | Houston, TX, United States | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107150) | 2026-08-13 |
 | Wells Fargo | 2027 Quantitative Analytics Summer Internship Capital Markets (Masters) – Early Careers | Charlotte, NC | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | 2026-08-13 |
@@ -5876,7 +5875,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NXP Semiconductors | Working Student (f/m/d) Product Management - Secure Edge Identification | Hamburg | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Product-Management---Secure-Edge-Identification_R-10064589) | 2026-08-07 |
 | Oshkosh | Purchasing Data Analytics Intern - NPD | Netherlands | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hoofddorp-Netherlands/Purchasing-Data-Analytics-Intern---NPD_R49036) | 2026-08-07 |
 | Pennsylvania State University | Part Time - Student (Graduate) - AI Research Assistant | Penn State Harrisburg | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student--Graduate----AI-Research-Assistant_REQ_0000081095-1) | 2026-08-07 |
-| PlusAI | Deep Learning Research Intern — Multimodal BEV Perception | Santa Clara, Canada | [Apply](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62) | 2026-08-07 |
 | PricewaterhouseCoopers (PwC) | Intern - Tax, Personal Tax (November 2026 Intake) | Kuala Lumpur | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Tax--Personal-Tax--November-2026-Intake-_751019WD) | 2026-08-07 |
 | Rainmaker | Mechanical Engineering Intern - Fall | El Segundo, Canada | [Apply](https://jobs.lever.co/make-rain/87613e64-cc8f-47ab-a053-0b2c3ee93ebd) | 2026-08-07 |
 | Red Bull | Red Bull Student Marketeer -  UFMG | Belo Horizonte, MG | [Apply](https://jobs.smartrecruiters.com/RedBull/744000141981359) | 2026-08-07 |
@@ -9954,6 +9952,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | Charlotte, NC / Saint Louis, MO | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Wealth---Investment-Management-Summer-Internship---Early-Careers_R-556103) | 2026-06-27 |
 | Yai | Hankering for More Social Work Internship | Manhattan | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Hankering-for-More-Social-Work-Internship_R025113) | 2026-06-27 |
 | Accenture | Accenture Indonesia Internship Program – Technology & Consulting | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jakarta/Accenture-Indonesia-Internship-Program---Technology---Consulting_R00335993) | 2026-06-26 |
+| Brooks Running | eCommerce EMEA Intern (Starting January 2027) | Amsterdam | [Apply](https://jobs.lever.co/brooksrunning/eefe5906-9fba-42e5-9043-d17c4d8877a2) | 2026-06-26 |
 | Celonis | Intern Business Development (Benelux market) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7784708003?gh_jid=7784708003) | 2026-06-26 |
 | Experian | Working Student (m/f/d) Finance | Germany | [Apply](https://jobs.smartrecruiters.com/Experian/744000134449219) | 2026-06-26 |
 | GlobalFoundries | Implant Equipment Assistant Engineer (Diploma Intern) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Implant-Equipment-Assistant-Engineer--Diploma-Intern-_JR-2502734) | 2026-06-26 |
@@ -10624,7 +10623,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Philadelphia Gas Works | Electrical Engineering Internship - Marketing Department | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1962/electrical-engineering-internship---marketing-department/job) | 2026-06-17 |
 | Philadelphia Gas Works | Internship - Occupational Safety & Training - Field Operations Department | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1947/internship---occupational-safety-%26-training---field-operations-department/job) | 2026-06-17 |
 | Pigment | Business Development/Sales & Growth Marketing North America (6-month Internship) | Paris | [Apply](https://jobs.lever.co/pigment/d025a757-a3df-4ef7-8344-bcd0de83933f) | 2026-06-17 |
-| PMA Consultants Careers | Internship (00560) | Amherst, MA | [Apply](https://jobs.lever.co/pmaconsultants/0a6335b4-b88a-4db8-a754-0224d5a02edc) | 2026-06-17 |
 | Prime Intellect | Internship | California, United States | [Apply](https://jobs.ashbyhq.com/PrimeIntellect/486b3511-7128-46f9-93a5-fc1d748d8852) | 2026-06-17 |
 | Prosidian Consulting | Art Collection Management Intern | United States Remote | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000035959575) | 2026-06-17 |
 | Prosidian Consulting | CAD Intern \| Engineering [COC0101100] | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000077982405) | 2026-06-17 |
@@ -10798,6 +10796,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WVUMedicine | Student MR Tech Extern | Thomas Memorial Hospital (tmh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Thomas-Memorial-Hospital-TMH/Student-MR-Tech-Extern_JR25-23212) | 2026-06-17 |
 | XTX Markets | AI Research Internship - XTY Labs | New York | [Apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) | 2026-06-17 |
 | Zeiss | Working Student MATLAB Code & Repository Development (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-MATLAB-Code----Repository-Entwicklung--m-w-x-_JR_1049923-1) | 2026-06-17 |
+| Zoox | Contract Student Worker Software Engineer (6-month Contract) (20/hrs week) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b) | 2026-06-17 |
 | Avery Dennison | Product Regulatory Compliance Intern | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000132423149) | 2026-06-16 |
 | BorgWarner | Manufacturing Engineering Intern | Izmir Türkiye | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Izmir---Trkiye/Manufacturing-Engineering-Intern_R2026-2348) | 2026-06-16 |
 | Cencora | Intern | Wemea > Netherlands > Boots Apotheek Paauwenburg | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Boots-apotheek-Paauwenburg/Intern_R2610222) | 2026-06-16 |

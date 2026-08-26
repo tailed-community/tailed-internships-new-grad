@@ -259658,20 +259658,6 @@
     "date_archived": "2026-07-24"
   },
   {
-    "id": "lever-brooks-running-eefe5906-9fba-42e5-9043-d17c4d8877a2",
-    "company": "Brooks Running",
-    "title": "eCommerce EMEA Intern",
-    "location": "Amsterdam",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/brooksrunning/eefe5906-9fba-42e5-9043-d17c4d8877a2",
-    "date_posted": "2026-06-26",
-    "date_added": "2026-06-26",
-    "active": false,
-    "date_archived": "2026-07-24"
-  },
-  {
     "id": "lever-exowatt-46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c",
     "company": "Exowatt",
     "title": "Software Engineering Intern  - Inventory Automation & IoT/Robotics",
@@ -263266,20 +263252,6 @@
     "url": "https://jobs.lever.co/plus-2/7565aed4-41b0-44e9-8608-3ccd07e18262",
     "date_posted": "2026-05-22",
     "date_added": "2026-06-02",
-    "active": false,
-    "date_archived": "2026-07-25"
-  },
-  {
-    "id": "lever-zoox-5f10dfaf-5920-4506-8a09-b39b29e6f48b",
-    "company": "Zoox",
-    "title": "Part-Time Student Worker Software Engineer (6-month Contract)",
-    "location": "Foster City, CA",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b",
-    "date_posted": "2025-10-16",
-    "date_added": "2026-06-17",
     "active": false,
     "date_archived": "2026-07-25"
   },
@@ -413990,6 +413962,48 @@
     "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Minneapolis/Technical-Service-Intern_JR_1051475",
     "date_posted": "Posted 21 Days Ago",
     "date_added": "2026-08-05",
+    "active": false,
+    "date_archived": "2026-08-26"
+  },
+  {
+    "id": "lever-plusai-2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
+    "company": "PlusAI",
+    "title": "Deep Learning Research Intern — Multimodal BEV Perception",
+    "location": "Santa Clara, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62",
+    "date_posted": "2026-08-04",
+    "date_added": "2026-08-07",
+    "active": false,
+    "date_archived": "2026-08-26"
+  },
+  {
+    "id": "lever-pma-consultants-careers-0a6335b4-b88a-4db8-a754-0224d5a02edc",
+    "company": "PMA Consultants Careers",
+    "title": "Internship (00560)",
+    "location": "Amherst, MA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/pmaconsultants/0a6335b4-b88a-4db8-a754-0224d5a02edc",
+    "date_posted": "2026-05-05",
+    "date_added": "2026-06-17",
+    "active": false,
+    "date_archived": "2026-08-26"
+  },
+  {
+    "id": "lever-ware-malcomb-516f7f6d-1a3b-402b-b453-56e39f045335",
+    "company": "Ware Malcomb",
+    "title": "Talent Acquisition Intern (Fall)",
+    "location": "Houston, TX",
+    "type": "internship",
+    "season": "Fall",
+    "source": "lever",
+    "url": "https://jobs.lever.co/waremalcomb/516f7f6d-1a3b-402b-b453-56e39f045335",
+    "date_posted": "2024-04-09",
+    "date_added": "2026-08-13",
     "active": false,
     "date_archived": "2026-08-26"
   }
