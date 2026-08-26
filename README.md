@@ -922,8 +922,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Intern - Performance Marketing Specialist | Bangkok | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Bangkok/Intern---Performance-Marketing-Specialist_R1129452) | 2026-08-25 |
 | Dentsu | PR Intern | Ho Chi Minh City | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/PR-Intern_R1128789) | 2026-08-25 |
 | DESRI | Commercial Intern (Summer 2027) | New York, NY / Greenwood Village, CO / Houston, TX | [Apply](https://ats.rippling.com/desri-careers/jobs/b798f91b-3cf7-40a6-b76e-6c69a6e45cc2) | 2026-08-25 |
-| DESRI | Legal Intern (Summer 2027) | Houston, TX / Greenwood Village, CO / New York, NY | [Apply](https://ats.rippling.com/desri-careers/jobs/90a69381-dec2-4ae8-90ec-f89f8f1c72be) | 2026-08-25 |
-| DESRI | People/Business Operations Intern (Summer 2027) | Greenwood Village, CO / Houston, TX / New York, NY | [Apply](https://ats.rippling.com/desri-careers/jobs/652623ef-b971-467d-ab99-cf525b2f4a67) | 2026-08-25 |
+| DESRI | Legal Intern (Summer 2027) | Greenwood Village, CO / New York, NY / Houston, TX | [Apply](https://ats.rippling.com/desri-careers/jobs/90a69381-dec2-4ae8-90ec-f89f8f1c72be) | 2026-08-25 |
+| DESRI | People/Business Operations Intern (Summer 2027) | New York, NY / Greenwood Village, CO / Houston, TX | [Apply](https://ats.rippling.com/desri-careers/jobs/652623ef-b971-467d-ab99-cf525b2f4a67) | 2026-08-25 |
 | DESRI | Physical Intern (Summer 2027) | Greenwood Village, CO / New York, NY / Houston, TX | [Apply](https://ats.rippling.com/desri-careers/jobs/167c47d9-10de-4dd9-b439-33b67cc65950) | 2026-08-25 |
 | Diamondback Energy | Summer 2027 Finance Intern | Midland, TX | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Finance-Intern_R100838) | 2026-08-25 |
 | Disney | Attractions Operations and Sustainment Intern, Spring 2027 | Lake Buena Vista, FL, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Attractions-Operations-and-Sustainment-Intern--Spring-2027_10157953) | 2026-08-25 |
@@ -7798,10 +7798,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dexmate | Robot Learning Intern | Singapore | [Apply](https://jobs.ashbyhq.com/dexmate/2ba5c98b-721d-43db-9b11-aac5aa175df4) | 2026-07-27 |
 | Duku AI | Intern - GTM (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/5225f2e8-7cff-4756-8d90-c62988d61302) | 2026-07-27 |
 | Duku AI | Intern - Ops (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/80673267-2a6b-44a3-bce7-4e27922c742a) | 2026-07-27 |
-| Duku AI | Intern - Tech (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/d6140320-add8-4c23-80b0-5253e87d7c84) | 2026-07-27 |
 | Egra | AI Researcher / Engineer / Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003) | 2026-07-27 |
 | Eragon | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) | 2026-07-27 |
-| Exploration Technology Corp. | Engineering Intern | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
+| Exploration Technology Corp. | Engineering Intern (Fall/Winter 2026) | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Firetiger | Product Engineer — Intern/Co-op | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc) | 2026-07-27 |
 | Frontier Health | Applied Scientist / Research Engineer (Internship) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef) | 2026-07-27 |
 | GenMD | AI Research Scientist Intern | California, United States | [Apply](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13) | 2026-07-27 |
