@@ -91,6 +91,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BDO | Co-op or Intern, US Corporate Tax Services (January 2027) Edmonton or Calgary | Calgary 8th Ave Sw / Edmonton 103 St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Calgary---8th-Ave-SW/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Edmonton-or-Calgary_JR6917) | 2026-08-26 |
 | BDO | Co-op or Intern, US Corporate Tax Services (January 2027) Oakville | Oakville | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Oakville_JR6916) | 2026-08-26 |
 | BDO | Co-op or Intern, US Corporate Tax Services (January 2027) Vancouver | Vancouver | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Vancouver/Co-op-or-Intern--US-Corporate-Tax-Services--January-2027--Vancouver_JR6915) | 2026-08-26 |
+| Belmond | Internship for Finance (Malaysian Student Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/32D3D4CA69/) | 2026-08-26 |
+| Belmond | Internship for Human Resources (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/ECE4F269A6/) | 2026-08-26 |
 | Beth Israel Lahey Health | Physical Therapy Intern | Beverly Hospital | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/Beverly-Hospital/Physical-Therapy-Intern_JR101838) | 2026-08-26 |
 | Blackstone | 2027 Blackstone Private Equity Off Cycle Internship | London | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Private-Equity-Off-Cycle-Internship_45106) | 2026-08-26 |
 | BMO | BMO Capital Markets Winter 2027 Global Markets Analyst (Generalist & Quantitative/Developer), Toronto (Co-Op/ Internship) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R260018951) | 2026-08-26 |
@@ -10959,7 +10961,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
 | Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
-| Belmond | Internship for Human Resources (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6D34EB7FBF/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |
