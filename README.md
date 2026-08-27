@@ -502,6 +502,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lennox International | Mechanical Engineering Intern | Carrollton, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54561/mechanical-engineering-intern/job) | 2026-08-27 |
 | Lennox International | MES & Industrial Automation Intern | Richardson, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54562/mes-%26-industrial-automation-intern/job) | 2026-08-27 |
 | Lennox International | SAP/Kronos HR Intern | Richardson, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54560/sap-kronos-hr-intern/job) | 2026-08-27 |
+| LightGuide, Inc. | Sales & Product Co-op | Wixom, MI | [Apply](https://ats.rippling.com/lightguide/jobs/09a34d3f-471a-402d-aeaf-3fda3d822aa2) | 2026-08-27 |
 | Littelfuse | Production Intern | Dongguan | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dongguan/Production-Intern_JR-112412) | 2026-08-27 |
 | LivaNova | Working Student Controlling (m/f/d) | Germany | [Apply](https://livanova.wd5.myworkdayjobs.com/search/job/Munich-Germany/Working-Student-Controlling--m-f-d-_JR-14757) | 2026-08-27 |
 | Live Nation Entertainment | Stage Hand - Fillmore, New Orleans | New Orleans, LA, United States | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-Orleans-LA-USA/Stage-Hand---Fillmore--New-Orleans_JR-69325-1) | 2026-08-27 |
@@ -2295,8 +2296,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Engineering Industrial Intern | Beijing Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Engineering-Industrial-Intern_JR10434684) | 2026-08-24 |
 | Airbus | Student Assistant - Commercial Intelligence & Inside Sales | Cpo Copenhagen Office | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Student-Assistant---Commercial-Intelligence---Inside-Sales_JR10436692) | 2026-08-24 |
 | Ambrook | Software Engineering Intern | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456) | 2026-08-24 |
-| Ampersand | Co-op, Data Engineering (Spring 2027, open to Northeastern students only) | Boston, MA | [Apply](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3) | 2026-08-24 |
-| Ampersand | Co-op, Protein Sciences (Spring 2027, open to Northeastern students only) | Boston, MA | [Apply](https://ats.rippling.com/ampersand-biomedicines/jobs/a0f43280-90dd-4c59-ad9c-24c0133e3fcd) | 2026-08-24 |
 | Analog Devices | Digital Design Engineer Intern | NC, United States / Rio Robles, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | 2026-08-24 |
 | Analog Devices | Manufacturing Engineer Intern | MA, United States / OR, United States | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301) | 2026-08-24 |
 | Analog Devices | Product Engineer (Product Development) Intern | MA, United States / NC, United States | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302) | 2026-08-24 |
@@ -8336,7 +8335,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Duku AI | Intern - Ops (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/80673267-2a6b-44a3-bce7-4e27922c742a) | 2026-07-27 |
 | Egra | AI Researcher / Engineer / Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003) | 2026-07-27 |
 | Eragon | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) | 2026-07-27 |
-| Exploration Technology Corp. | Engineering Intern (Fall/Winter 2026) | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Firetiger | Product Engineer — Intern/Co-op | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc) | 2026-07-27 |
 | Frontier Health | Applied Scientist / Research Engineer (Internship) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef) | 2026-07-27 |
 | GenMD | AI Research Scientist Intern | California, United States | [Apply](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13) | 2026-07-27 |
@@ -8377,7 +8375,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oligo Space | Spacecraft Engineer Intern (Flight Software) | California, United States | [Apply](https://jobs.ashbyhq.com/oligo/45d070de-bbb0-4dea-a726-06bf64709e49) | 2026-07-27 |
 | Oligo Space | Spacecraft Engineer Intern (Mechanical) | California, United States | [Apply](https://jobs.ashbyhq.com/oligo/74ab041f-2a79-48fb-ae8e-89e650f133cb) | 2026-07-27 |
 | Oligo Space | Spacecraft Engineer Intern - all fields | California, United States | [Apply](https://jobs.ashbyhq.com/oligo/1273547c-a170-485f-871d-05a9d6a42051) | 2026-07-27 |
-| Onware | Full Stack Developer- Summer Intern Opportunity | Edmonton, Canada | [Apply](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) | 2026-07-27 |
 | Outpost Technologies | Technical Marketing Intern (Analytics, Research & Automation) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee) | 2026-07-27 |
 | Phlair | Working Student / Intern – Control Team (Systems & Data Infrastructure) (f/m/d) | Germany | [Apply](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86) | 2026-07-27 |
 | Phonely | Content Marketing Intern | California, United States | [Apply](https://jobs.ashbyhq.com/phonely/060fbc8c-8392-41c2-8350-9b4e5b46ca61) | 2026-07-27 |

@@ -429112,5 +429112,61 @@
     "date_added": "2026-08-20",
     "active": false,
     "date_archived": "2026-08-27"
+  },
+  {
+    "id": "rippling-ampersand-be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
+    "company": "Ampersand",
+    "title": "Co-op, Data Engineering (Spring 2027, open to Northeastern students only)",
+    "location": "Boston, MA",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
+    "date_posted": null,
+    "date_added": "2026-08-24",
+    "active": false,
+    "date_archived": "2026-08-27"
+  },
+  {
+    "id": "rippling-ampersand-a0f43280-90dd-4c59-ad9c-24c0133e3fcd",
+    "company": "Ampersand",
+    "title": "Co-op, Protein Sciences (Spring 2027, open to Northeastern students only)",
+    "location": "Boston, MA",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/a0f43280-90dd-4c59-ad9c-24c0133e3fcd",
+    "date_posted": null,
+    "date_added": "2026-08-24",
+    "active": false,
+    "date_archived": "2026-08-27"
+  },
+  {
+    "id": "rippling-exploration-technology-corp-75ad65e6-f504-4ae2-adf1-587e704b2bcc",
+    "company": "Exploration Technology Corp.",
+    "title": "Engineering Intern (Fall/Winter 2026)",
+    "location": "San Francisco, CA",
+    "type": "internship",
+    "season": "Winter 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-27"
+  },
+  {
+    "id": "rippling-onware-1b9d59b6-1ab0-4c40-8429-39b5b62f019a",
+    "company": "Onware",
+    "title": "Full Stack Developer- Summer Intern Opportunity",
+    "location": "Edmonton, Canada",
+    "type": "internship",
+    "season": "Summer",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-08-27"
   }
 ]
