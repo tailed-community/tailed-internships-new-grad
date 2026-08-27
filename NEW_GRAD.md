@@ -7,6 +7,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Roadway Design Engineer | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146058430) | 2026-08-27 |
+| AECOM | Entry-Level Civil Engineer – Roadway Designer | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145725719) | 2026-08-27 |
+| AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145822866) | 2026-08-27 |
+| AECOM | Entry-Level Geotechnical Engineer - Hiring Event with AECOM - Philadelphia | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145767139) | 2026-08-27 |
+| AECOM | Entry-Level Structural Engineer | Roanoke, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145821446) | 2026-08-27 |
+| AECOM | Entry-Level Traction Power Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145838379) | 2026-08-27 |
 | Amcor | Entry Level Manufacturing - Film Tech 3 pm to 11 pm | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Entry-Level-Manufacturing---Film-Tech-3-pm-to-11-pm_REQ_95609) | 2026-08-27 |
 | Amcor | Manufacturing Entry Level - Film Tech 11 pm to 7 am | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Manufacturing-Entry-Level---Film-Tech-11-pm-to-7-am_REQ_95003) | 2026-08-27 |
 | Amcor | Manufacturing Entry Level - Film Tech 3 pm to 11 pm | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Film-Tech_REQ_93467) | 2026-08-27 |
@@ -40,6 +46,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DriveTime | Automotive Tech - Entry Level | Pa 19067 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1381-S-Pennsylvania-Ave-Morrisville-PA-19067/Automotive-Tech---Entry-Level_R16254) | 2026-08-27 |
 | DriveTime | Automotive Tech - Entry Level | Tn 38115 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/6535-Winchester-Rd-Memphis-TN-38115/Automotive-Tech---Entry-Level_R16222) | 2026-08-27 |
 | DriveTime | Automotive Technician - Entry Level | Co 80215 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/11000-W-Colfax-Ave-Lakewood-CO-80215/Automotive-Technician---Entry-Level_R16224-1) | 2026-08-27 |
+| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145741515) | 2026-08-27 |
+| Eurofins | Entry Level-Lab Technician (Weds-Sun)- Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145763750) | 2026-08-27 |
+| Eurofins | Entry Level-Lab Technician Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145760817) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse | Newberry, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Newberry-SC/New-Graduate-Nurse_R0267531) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse | Bishopville, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bishopville-SC/New-Graduate-Nurse_R0267535) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse - RN | St Marys, GA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/St-Marys-GA/New-Graduate-Nurse---RN_R0267360-1) | 2026-08-27 |
@@ -91,6 +100,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company | Spacecraft Propulsion Engineer (Entry-Level) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Propulsion-Engineer--Entry-Level----Millennium-Space-Systems_JR2026523225-1) | 2026-08-27 |
 | The Boeing Company - external_subsidiary | Entry Level ASIC/FPGA Design Engineer – Space Electronics - MTV | USA Mountain View, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433) | 2026-08-27 |
 | The Boeing Company - external_subsidiary | Spacecraft Propulsion Engineer (Entry-Level) - Millennium Space Systems | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Spacecraft-Propulsion-Engineer--Entry-Level----Millennium-Space-Systems_JR2026523225) | 2026-08-27 |
+| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000146048559) | 2026-08-27 |
 | Weatherford | Field Engineer - NextGen Graduate Program Qatar | Qatar | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107311) | 2026-08-27 |
 | Worthington Enterprises | Entry Level Welder | Jefferson, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43349) | 2026-08-27 |
 | WSP | Early Career Building Technology Systems | Houston, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93070) | 2026-08-27 |
@@ -168,7 +178,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Zip | Software Engineer, New Grad (2027 Start) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) | 2026-08-26 |
 | Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
 | Advocate Health Care | New Grad Evergreen | Charlotte | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1001-Blythe-Blvd/New-Grad-Evergreen_R265971) | 2026-08-25 |
-| AECOM | Entry-Level Geologist/Geophysicist | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145291599) | 2026-08-25 |
 | AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145330842) | 2026-08-25 |
 | AECOM | Entry-Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145377109) | 2026-08-25 |
 | AECOM | Entry-Level Traffic Engineer | Middleton, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145348558) | 2026-08-25 |
@@ -191,7 +200,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Telemetry Unit | Marymount Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_350192) | 2026-08-25 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg Post-Operative Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Med-Surg-Post-Operative-Unit_347605) | 2026-08-25 |
 | Dexterra Group | Construction Laborer – Entry Level (contract) | Edmonton, AB, Canada | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000145357289) | 2026-08-25 |
-| Eurofins | Entry Level-Lab Technician (Weds-Sun)- Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145372439) | 2026-08-25 |
 | EXP | BIM Tech (Entry Level) | Orlando, FL, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113060) | 2026-08-25 |
 | Fresenius Medical Care | New Graduate Nurse - RN | Birmingham, AL | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Birmingham-AL/New-Graduate-Nurse---RN_R0266589) | 2026-08-25 |
 | GE Vernova - vernova_externalsite | Entry Level - Industrial Plumber/Steamfitter | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/Entry-Level---Industrial-Plumber-Steamfitter-3_R5040915-1) | 2026-08-25 |
@@ -249,8 +257,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Crane Co. | Early Career Business Leadership Associate (Fast Track Program) | Texas | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Early-Career-Business-Leadership-Associate--Fast-Track-Program-_JR102386) | 2026-08-23 |
 | UBC | Graduate Program Coordinator | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Graduate-Program-Coordinator_JR25760) | 2026-08-23 |
 | Advocate Health Care | Respiratory Therapist, New Graduate, Atrium Health Wake Forest Baptist | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Respiratory-Therapist--New-Graduate--Atrium-Health-Wake-Forest-Baptist_R268150) | 2026-08-22 |
-| AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144755649) | 2026-08-22 |
-| AECOM | Entry-Level Bridge Engineer | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144832309) | 2026-08-22 |
 | Amentum | Software Programmer - Entry Level | US-Tn-Tullahoma | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838) | 2026-08-22 |
 | AutoNation | Entry Level Lube Technician \| AutoNation Acura Colorado Springs | Autonation Acura Colorado Springs | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Acura-Colorado-Springs/Entry-Level-Lube-Technician---AutoNation-Acura-Colorado-Springs_JR2026147817-1) | 2026-08-22 |
 | BMO (Campus) | BMO Capital Markets New Grad 2027  Corporate Banking Analyst, Toronto – Real Estate | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-New-Grad-2027--Corporate-Banking-Analyst--Toronto---Real-Estate_R260021186-1) | 2026-08-22 |
@@ -280,8 +286,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early  Career Mechanical Engineer | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93641) | 2026-08-22 |
 | WSP | Early Career Geological Engineer | Holland, MI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93786) | 2026-08-22 |
 | WSP | Early Career Plumbing Engineer | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93642) | 2026-08-22 |
-| AECOM | Entry-Level Environmental Engineer 副工程師 (環境部 - 台北) | Taiwan | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144695419) | 2026-08-21 |
-| AECOM | Entry-level Environmental Engineer 副工程師 (環境部 - 高雄) | Taiwan | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000144694339) | 2026-08-21 |
 | Amentum | Early Career Civil Engineer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Early-Career-Civil-Engineer_R0168623) | 2026-08-21 |
 | AutoNation | Automotive Entry Level Technician | Autonation Honda 385 | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-385/Automotive-Entry-Level-Technician_JR2026146385) | 2026-08-21 |
 | AutoNation | Automotive Entry Level Technician | Autonation Toyota Pinellas Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Pinellas-Park/Attention-Automotive-Technicians--Brand-New-Service-Center-looking-for-all-Levels-of-Technicians-_JR2026133861) | 2026-08-21 |
@@ -318,7 +322,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AutoNation | Entry Level Technician | Autonation Volkswagen Mall Of Georgia | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Volkswagen-Mall-of-Georgia/Entry-Level-Technician_JR2026147787) | 2026-08-20 |
 | Barclays | Banking Associate Graduate Program 2027 San Francisco | Four Embarcadero Center | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Associate-Graduate-Program-2027-San-Francisco_JR-0000123462-1) | 2026-08-20 |
 | Citi | Transaction Reporting Team Analyst – Regulatory Reporting - Entry Level | Belfast United Kingdom | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Transaction-Reporting-Team-Analyst---Regulatory-Reporting---Entry-Level_26987176) | 2026-08-20 |
-| Eurofins | Entry Level Chemist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000144404949) | 2026-08-20 |
 | Freeform | Electrical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) | 2026-08-20 |
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003) | 2026-08-20 |
 | Freeform | Materials Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003) | 2026-08-20 |
@@ -334,7 +337,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kyndryl | Early Career Consult Program – Sales Operations Associate | Usdalfri Dallas Frisco Ai Hub (fri) | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Sales-Operations-Associate_R-67172) | 2026-08-20 |
 | SpaceX | New Graduate Engineer, Civil/Structural (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002) | 2026-08-20 |
 | SpaceX | New Graduate Engineer, Software (Application Software) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | 2026-08-20 |
-| Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000144321950) | 2026-08-20 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000144319119) | 2026-08-20 |
 | Triumph | Business Development Associate - Entry Level Position | Dallas, TX | [Apply](https://tbkbank.wd1.myworkdayjobs.com/tfin/job/Dallas-TX/Business-Development-Associate---Entry-Level-Position_REQ-5057) | 2026-08-20 |
 | Vanderlande Industries | Electrical Project Engineer III - Entry Level | Ga USA | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Senior-Electrical-Project-Engineer_JR33346) | 2026-08-20 |
@@ -479,7 +481,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Progressive Pulmonary Care Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Progressive-Pulmonary-Care-Unit_343202) | 2026-08-14 |
 | Composio | Forward Deployed Engineer (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6) | 2026-08-14 |
 | Composio | Fullstack Engineer, Product Team (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491) | 2026-08-14 |
-| Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000143389749) | 2026-08-14 |
 | Five Rings Capital | Recent Graduate - Trading Assistant (NYC) | New York | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008) | 2026-08-14 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0265949) | 2026-08-14 |
 | Fresenius Medical Care | New Graduate Nurse | Loris, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Loris-SC/New-Graduate-Nurse_R0265989) | 2026-08-14 |
