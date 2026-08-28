@@ -8735,6 +8735,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Duku AI | Intern - GTM (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/5225f2e8-7cff-4756-8d90-c62988d61302) | 2026-07-27 |
 | Duku AI | Intern - Ops (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/80673267-2a6b-44a3-bce7-4e27922c742a) | 2026-07-27 |
 | Eragon | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) | 2026-07-27 |
+| Exploration Technology Corp. | Engineering Intern (Fall/Winter 2026) | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Firetiger | Product Engineer — Intern/Co-op | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc) | 2026-07-27 |
 | Frontier Health | Applied Scientist / Research Engineer (Internship) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef) | 2026-07-27 |
 | GenMD | AI Research Scientist Intern | California, United States | [Apply](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13) | 2026-07-27 |
