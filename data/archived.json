@@ -433690,5 +433690,61 @@
     "date_added": "2026-08-24",
     "active": false,
     "date_archived": "2026-08-28"
+  },
+  {
+    "id": "lever-eq-bank-54ba8739-90d0-4984-8899-5e0e8ff87bf5",
+    "company": "EQ Bank",
+    "title": "Indigenous Intern, Securitization & Indigenous Initiatives",
+    "location": "Regina",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank/54ba8739-90d0-4984-8899-5e0e8ff87bf5",
+    "date_posted": "2026-07-21",
+    "date_added": "2026-07-22",
+    "active": false,
+    "date_archived": "2026-08-28"
+  },
+  {
+    "id": "lever-eq-bank-2d01dd5c-fdc4-4fbf-adde-dd081736e98e",
+    "company": "EQ Bank",
+    "title": "Intern - Treasury Analyst (Fall student)",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Fall",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank/2d01dd5c-fdc4-4fbf-adde-dd081736e98e",
+    "date_posted": "2026-08-19",
+    "date_added": "2026-08-19",
+    "active": false,
+    "date_archived": "2026-08-28"
+  },
+  {
+    "id": "lever-geocomply-b98890bb-ce91-4535-830c-085fd915bfb0",
+    "company": "GeoComply",
+    "title": "Software Engineer Intern (Backend)",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/b98890bb-ce91-4535-830c-085fd915bfb0",
+    "date_posted": "2026-07-07",
+    "date_added": "2026-07-07",
+    "active": false,
+    "date_archived": "2026-08-28"
+  },
+  {
+    "id": "lever-geocomply-cf5da87d-9758-466f-98b2-21973dad37d7",
+    "company": "GeoComply",
+    "title": "Software Engineer Intern (Mobile)",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/cf5da87d-9758-466f-98b2-21973dad37d7",
+    "date_posted": "2026-07-20",
+    "date_added": "2026-07-20",
+    "active": false,
+    "date_archived": "2026-08-28"
   }
 ]
