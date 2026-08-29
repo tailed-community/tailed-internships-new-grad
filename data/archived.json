@@ -435972,5 +435972,33 @@
     "date_added": "2026-08-08",
     "active": false,
     "date_archived": "2026-08-29"
+  },
+  {
+    "id": "smartrecruiters-continental-744000144791867",
+    "company": "Continental",
+    "title": "IT Support Intern",
+    "location": "Sumter, SC, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Continental/744000144791867",
+    "date_posted": "2026-08-21",
+    "date_added": "2026-08-22",
+    "active": false,
+    "date_archived": "2026-08-29"
+  },
+  {
+    "id": "smartrecruiters-wabtec-3743990014731736",
+    "company": "Wabtec",
+    "title": "Intern",
+    "location": "Shanghai, SD",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014731736",
+    "date_posted": "2026-08-21",
+    "date_added": "2026-08-21",
+    "active": false,
+    "date_archived": "2026-08-29"
   }
 ]

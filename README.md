@@ -3507,7 +3507,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chubb | Actuarial Internship | Philadelphia, PA, United States | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36113) | 2026-08-22 |
 | CIBC | Project Coordinator Co-op | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Project-Coordinator-Co-op_2617484-1) | 2026-08-22 |
 | Cloudflare | Strategic Events Intern (Fall 2026) | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8142802?gh_jid=8142802) | 2026-08-22 |
-| Continental | IT Support Intern | Sumter, SC, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000144791867) | 2026-08-22 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Sc Spartanburg | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Spartanburg/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1018580) | 2026-08-22 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Pa Philadelphia | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1018570) | 2026-08-22 |
 | CVS Health | Pharmacy Intern - Grad | Me Portland | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/ME---Portland/Pharmacy-Intern---Grad_R1019415) | 2026-08-22 |
@@ -4031,7 +4030,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vanguard - vanguard_external | College to Corporate IT Internship - Data Science (PA) | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | 2026-08-21 |
 | Vanguard - vanguard_external | College to Corporate IT Internship - Risk & Security - Analyst  (NC) | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) | 2026-08-21 |
 | Vanguard - vanguard_external | College to Corporate IT Internship - Risk & Security - Analyst  (PA) | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) | 2026-08-21 |
-| Wabtec | Intern | Shanghai, SD | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990014731736) | 2026-08-21 |
 | Wash U | Financial Aid Awarding Specialist (Hybrid) - Student Financial Services | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Financial-Aid-Awarding-Specialist--Hybrid----Student-Financial-Services_JR96783-1) | 2026-08-21 |
 | Williams-Sonoma | Engineer Intern (QA Process & Systems) | Singapore | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19941) | 2026-08-21 |
 | Workato | Intern, Customer Success | Japan | [Apply](https://www.workato.com/careers?gh_jid=8687978002#open-roles) | 2026-08-21 |
