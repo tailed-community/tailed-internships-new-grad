@@ -1075,7 +1075,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Haleon | OTC Marketing Intern | China Beijing Chaoyang District Ocean International Centre Tower A | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Beijing---ChaoYang-District---Ocean-International-Centre---Tower-A/OTC-Marketing-Intern_547469-1) | 2026-08-27 |
 | Heidelberg Materials | Operations Management Intern | Richmond, TX | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Richmond-TX/Operations-Management-Intern_JR10018151) | 2026-08-27 |
 | Heidelberg Materials | Quality Control Co-Op | Ottawa, ON | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Ottawa-ON/Quality-Control-Co-Op_JR10018372) | 2026-08-27 |
-| Hilton Worldwide | Event Management Intern - Hotel del Coronado, A Curio Collection by Hilton | Coronado, United States | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/220825) | 2026-08-27 |
 | Hitachi | Business Transformation & Process Excellence Intern | Italy | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Business-Transformation---Process-Excellence-Intern_R0139559) | 2026-08-27 |
 | Hitachi | Internship Customer Experience | Sweden | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Internship-Customer-Experience_R0142648) | 2026-08-27 |
 | HNTB | Intern Electrical Engineer - Summer 2027 | Kansas City, MO / Ks (sprint Parkway) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1) | 2026-08-27 |
@@ -6737,7 +6736,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Western Digital | Intern - Data Analytics | Philippines | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000142781279) | 2026-08-11 |
 | Western Digital | Intern - Manufacturing Engineer | Philippines | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000142781369) | 2026-08-11 |
 | WSP | Civil Engineering Intern- Summer 2027 | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92898) | 2026-08-11 |
-| WSP | Geotechnical Engineering Intern - Summer 2027 | Anchorage, AK, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91733) | 2026-08-11 |
 | WSP | Mechanical Engineering Co-op Student | Thornhill, ON, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91602) | 2026-08-11 |
 | Zeiss | Working Student Adhesive Technology (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Klebetechnologie--m-w-x-_JR_1051383) | 2026-08-11 |
 | Accenture | Cybersecurity Analyst Internship Program (She/He/They) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Cybersecurity-Consultant-Internship-Program--She-He-They-_R00350253) | 2026-08-10 |
@@ -8355,7 +8353,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | 特药事业部 - Commercial Intern - 成都 | Chengdu | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/-Sales-Intern-_R2861119) | 2026-07-31 |
 | SC Johnson | Intern, Marketing Commercialization | Switzerland Rolle | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland---Rolle/Intern--Marketing-Commercialization_33650-1) | 2026-07-31 |
 | Scientific Research Corporation | DoD SkillBridge Intern – (Cyber Security Analyst) (Active Duty Service Members) | Not Specified | [Apply](https://careers-scires.icims.com/jobs/11411/dod-skillbridge-intern-%e2%80%93-%28cyber-security-analyst%29-%28active-duty-service-members%29/job) | 2026-07-31 |
-| Sherwin-Williams | Internship | Malaysia | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618495) | 2026-07-31 |
 | Simon | Intern, Social Media | San Marcos, TX | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/San-Marcos-TX/Intern--Social-Media_R13815) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Columbia, SC, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16943) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Charleston, WV, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16944) | 2026-07-31 |
@@ -9597,7 +9594,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi - Citi_Early_Careers_Events_Site | Unlock Your Future: Banking Analyst Internships in Japan (North America) | New York New York United States | [Apply](https://citi.wd5.myworkdayjobs.com/Citi_Early_Careers_Events_Site/job/New-York-New-York-United-States/Unlock-Your-Future--Banking-Analyst-Internships-in-Japan_26975998) | 2026-07-15 |
 | Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 2026-07-15 |
 | Curtiss-Wright Corporation | Supply Chain Intern | US-Oh-Brecksville (farris) | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Brecksville-Farris/Supply-Chain-Intern_JR12801) | 2026-07-15 |
-| DP World | Intern - Departament Tehnic (Planning & Maintenance) | Romania | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25824) | 2026-07-15 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship | San Jose | [Apply](https://us-erac.icims.com/jobs/557864/management-trainee-fall-2026-internship/job) | 2026-07-15 |
 | Enterprise Mobility | Management Trainee Internship | Santa Fe | [Apply](https://us-erac.icims.com/jobs/559293/management-trainee-internship/job) | 2026-07-15 |
 | Enterprise Mobility | Management Trainee Internship - Summer 2027 | Albuquerque | [Apply](https://us-erac.icims.com/jobs/559318/management-trainee-internship---summer-2027/job) | 2026-07-15 |
