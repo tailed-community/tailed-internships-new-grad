@@ -435804,5 +435804,33 @@
     "date_added": "2026-07-05",
     "active": false,
     "date_archived": "2026-08-29"
+  },
+  {
+    "id": "ashby-etched-157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
+    "company": "Etched",
+    "title": "RTL Intern",
+    "location": "San Jose, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
+    "date_posted": "2026-02-07",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-29"
+  },
+  {
+    "id": "ashby-nory-d1fcd85e-c00f-49b6-8abb-3c87b147c030",
+    "company": "NORY",
+    "title": "Summer Operations Internship: Education Startup, NYC",
+    "location": "NY, United States",
+    "type": "internship",
+    "season": "Summer",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/nory-co/d1fcd85e-c00f-49b6-8abb-3c87b147c030",
+    "date_posted": "2026-08-10",
+    "date_added": "2026-08-11",
+    "active": false,
+    "date_archived": "2026-08-29"
   }
 ]
