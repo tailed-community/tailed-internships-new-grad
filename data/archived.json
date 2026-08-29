@@ -435832,5 +435832,47 @@
     "date_added": "2026-08-11",
     "active": false,
     "date_archived": "2026-08-29"
+  },
+  {
+    "id": "icims-lhb-1937",
+    "company": "LHB",
+    "title": "Structural Engineer | Entry-Level",
+    "location": "Duluth, MN, United States / Minneapolis, MN, United States",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-lhbcorp.icims.com/jobs/1937/structural-engineer-%7c-entry-level/job",
+    "date_posted": null,
+    "date_added": "2026-07-14",
+    "active": false,
+    "date_archived": "2026-08-29"
+  },
+  {
+    "id": "icims-steel-dynamics-7882",
+    "company": "Steel Dynamics",
+    "title": "Mechanical Engineering Internship",
+    "location": "Butler, IN, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-steeldynamics.icims.com/jobs/7882/mechanical-engineering-internship/job",
+    "date_posted": null,
+    "date_added": "2026-08-20",
+    "active": false,
+    "date_archived": "2026-08-29"
+  },
+  {
+    "id": "icims-steel-dynamics-7881",
+    "company": "Steel Dynamics",
+    "title": "Mechanical Engineering Internship",
+    "location": "Columbus, MS, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-steeldynamics.icims.com/jobs/7881/mechanical-engineering-internship/job",
+    "date_posted": null,
+    "date_added": "2026-08-20",
+    "active": false,
+    "date_archived": "2026-08-29"
   }
 ]
