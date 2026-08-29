@@ -306,7 +306,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Matter | Electrical I&C Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375939008) | 2026-08-24 |
 | General Matter | Manufacturing Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375941008) | 2026-08-24 |
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
-| General Matter | Software Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
+| General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
 | General Matter | Structural Engineer - Buildings (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375999008) | 2026-08-24 |
 | General Matter | Test Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375985008) | 2026-08-24 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Panama | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/209705) | 2026-08-24 |
@@ -502,21 +502,21 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shaw Industries Group | Entry Level Manufacturing | Chatsworth | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-WE-616-Duvall-Rd-Chatsworth-GA-30705-USA/Entry-Level-Manufacturing_R-156021) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing | Andalusia | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-65-200-Waits-Drive-Hwy-29-N-Andalusia-AL-36420-USA/Entry-Level-Manufacturing_R-156016) | 2026-08-15 |
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-156017) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software  - '26/'27  (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP) 2026/2027 New Graduate Rotational Program (Toronto/Waterloo)) | Toronto, ON / Waterloo, ON | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Account-Executive-Development-Program--AEDP--2026-2027-New-Graduate-Rotational-Program--Ontario-_JR00127097) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP) 2026/2027 New Graduate Rotational Program (Western - BC, Alberta, Manitoba and Saskatchewan) | Vancouver, BC / Regina, SK / Winnipeg, MB / Calgary, AB | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Vancouver-British-Columbia/Account-Executive-Development-Program--AEDP--2026-2027-New-Graduate-Rotational-Program--Western---BC--Alberta--Manitoba-and-Saskatchewan-_JR00127096) | 2026-08-15 |
 | Sun Life | Account Executive Development Program (AEDP)  2026/2027 New Graduate Rotational Program | Montreal, QC | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Montreal-Quebec/Programme-de-formation-des-chargs-de-comptes--PFCC--Programme-de-rotation-pour-nouveaux-diplms-2026-2027--Quebec---Montreal-Quebec-City-_JR00127095) | 2026-08-15 |
