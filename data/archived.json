@@ -436812,5 +436812,33 @@
     "date_added": "2026-06-08",
     "active": false,
     "date_archived": "2026-08-30"
+  },
+  {
+    "id": "icims-affiliated-engineers-5755",
+    "company": "Affiliated Engineers",
+    "title": "Fire Protection Engineer Intern",
+    "location": "Madison",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-aeieng.icims.com/jobs/5755/fire-protection-engineer-intern/job",
+    "date_posted": null,
+    "date_added": "2026-07-30",
+    "active": false,
+    "date_archived": "2026-08-30"
+  },
+  {
+    "id": "icims-scientific-research-corporation-11411",
+    "company": "Scientific Research Corporation",
+    "title": "DoD SkillBridge Intern – (Cyber Security Analyst) (Active Duty Service Members)",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-scires.icims.com/jobs/11411/dod-skillbridge-intern-%e2%80%93-%28cyber-security-analyst%29-%28active-duty-service-members%29/job",
+    "date_posted": null,
+    "date_added": "2026-07-31",
+    "active": false,
+    "date_archived": "2026-08-30"
   }
 ]

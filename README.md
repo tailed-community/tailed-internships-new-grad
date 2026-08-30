@@ -8316,7 +8316,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | 普药事业部-Commercial Intern-济南 | Jinan | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Jinan/-Commercial-Intern-_R2866694) | 2026-07-31 |
 | Sanofi | 特药事业部 - Commercial Intern - 成都 | Chengdu | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/-Sales-Intern-_R2861119) | 2026-07-31 |
 | SC Johnson | Intern, Marketing Commercialization | Switzerland Rolle | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland---Rolle/Intern--Marketing-Commercialization_33650-1) | 2026-07-31 |
-| Scientific Research Corporation | DoD SkillBridge Intern – (Cyber Security Analyst) (Active Duty Service Members) | Not Specified | [Apply](https://careers-scires.icims.com/jobs/11411/dod-skillbridge-intern-%e2%80%93-%28cyber-security-analyst%29-%28active-duty-service-members%29/job) | 2026-07-31 |
 | Simon | Intern, Social Media | San Marcos, TX | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/San-Marcos-TX/Intern--Social-Media_R13815) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Columbia, SC, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16943) | 2026-07-31 |
 | Sinclair | News Intern (Fall 2026) | Charleston, WV, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16944) | 2026-07-31 |
@@ -8352,7 +8351,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | Technical Validation Intern - ANS - Granada | Spain Granada | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Granada/Technical-Validation-Intern---ANS---Granada_31155377) | 2026-07-30 |
 | Accor | Global Employer Branding & Candidate Experience Intern | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000140503079) | 2026-07-30 |
 | Advocate Health Care | Student Intern - Emergency Medicine Research - Temporary | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Student-Intern---Emergency-Medicine-Research---Temporary_R256116) | 2026-07-30 |
-| Affiliated Engineers | Fire Protection Engineer Intern | Madison | [Apply](https://careers-aeieng.icims.com/jobs/5755/fire-protection-engineer-intern/job) | 2026-07-30 |
 | Airbus | Long-term Internship - Health & Safety | Grand Prairie, TX | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Health---Safety_JR10432610) | 2026-07-30 |
 | Airbus | Working Student (d/f/m) – Chief Engineering Office | Manching | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Working-Student--d-f-m----Chief-Engineering-Office_JR10428965) | 2026-07-30 |
 | Ardian | Infrastructure Intern - January 2027 \| Madrid (M/F) | Madrid / Esp Madrid Calle Fortuny 6 | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Madrid/Infrastructure-Intern---January-2027---Madrid--M-F-_JR1002198) | 2026-07-30 |
