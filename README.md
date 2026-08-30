@@ -31,6 +31,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Summer Internship – A320 Family Liaison Engineering | Mobile Area, AL | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---A320-Family-Liaison-Engineering_JR10434484) | 2026-08-30 |
 | Armanino | Winter 2027 Tax Intern (New York) | New York (madison Ave.) | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/Armanino/job/New-York-City-New-York-Madison-Ave/Winter-2027-Tax-Intern--New-York-_JR104259) | 2026-08-30 |
 | Cencora | Government Affairs Co-op | Washington, DC | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/Government-Affairs-Co-op_R266912) | 2026-08-30 |
+| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/4da438bb-af83-4bc2-be9c-f023c45905e7) | 2026-08-30 |
+| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/024b4600-6f2c-45aa-88c3-79e242d7eb15) | 2026-08-30 |
 | GE Healthcare | Sales Intern, Molecular Imaging | Rus06-01-Moscow-Naberezhnaya Tower | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/RUS06-01-Moscow-Naberezhnaya-Tower/Sales-Intern--Molecular-Imaging_R4045518-1) | 2026-08-30 |
 | General Motors | Purchasing Student Intern | Mexico | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mexico-City-Mexico-Mexico/Purchasing-Student-Intern_JR-202617987) | 2026-08-30 |
 | Loblaw Companies | Personal Shopper Student Part Time Day | Georgetown, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/171-Guelph-St-Georgetown-ON/Personal-Shopper-Student-Part-Time-Day_R2000700589) | 2026-08-30 |
@@ -12014,13 +12016,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Etched | Electrical Platform Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a) | 2026-06-08 |
 | Etched | Finance Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/a0a1671e-15d4-474c-8227-97fe16ade553) | 2026-06-08 |
 | Etched | Firmware Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) | 2026-06-08 |
+| Etched | Growth Ops Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75) | 2026-06-08 |
 | Etched | GTM Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e) | 2026-06-08 |
 | Etched | Inference Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | 2026-06-08 |
-| Etched | Infrastructure Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/1b073af4-6764-45ca-a22d-40a4823f0877) | 2026-06-08 |
 | Etched | Mech / Thermal Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | 2026-06-08 |
 | Etched | PD Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | 2026-06-08 |
 | Etched | Supercomputing Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | 2026-06-08 |
-| Etched | Talent Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75) | 2026-06-08 |
 | Faculty AI | UK Defence Veterans - Civilian Work Attachment | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/faculty/b0001741-61ad-49c6-b3e1-91922f7d4026) | 2026-06-08 |
 | Four Hands | Product Development Intern | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 2026-06-08 |
 | Freudenberg Group | Supply Chain Intern | Valinhos | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Valinhos/Supply-Chain-Intern_R_00101695-1) | 2026-06-08 |

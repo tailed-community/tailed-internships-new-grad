@@ -436798,5 +436798,19 @@
     "date_added": "2026-06-25",
     "active": false,
     "date_archived": "2026-08-30"
+  },
+  {
+    "id": "ashby-etched-1b073af4-6764-45ca-a22d-40a4823f0877",
+    "company": "Etched",
+    "title": "Infrastructure Intern",
+    "location": "San Jose, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/Etched/1b073af4-6764-45ca-a22d-40a4823f0877",
+    "date_posted": "2026-02-07",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-08-30"
   }
 ]
