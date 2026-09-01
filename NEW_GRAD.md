@@ -18,6 +18,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ACCIONA | Mechanical Engineer graduate - Graduate Program 2027 | Perth | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Perth/Mechanical-Engineer-graduate---Graduate-Program-2027_20101384) | 2026-09-01 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) – General Pediatrics | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/New-Graduate-Registered-Nurse--RN----General-Pediatrics_R261408-1) | 2026-09-01 |
 | Advocate Health Care | Registered Nurse (RN) - New Graduate - Cardiology Stepdown | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Registered-Nurse--RN----New-Graduate---Cardiology-Stepdown_R267024-1) | 2026-09-01 |
+| AECOM | Entry-Level Construction Engineers - Networking Event with AECOM - New York Metro | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146718199) | 2026-09-01 |
+| AECOM | Entry-Level Electrical Engineer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146736059) | 2026-09-01 |
+| AECOM | Entry-Level Environmental Planner | Hamilton, ON, Canada | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146764910) | 2026-09-01 |
+| AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146742819) | 2026-09-01 |
+| AECOM | Entry-Level Structural Engineer - Bridge Design - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146715059) | 2026-09-01 |
+| AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146734047) | 2026-09-01 |
+| AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146592174) | 2026-09-01 |
 | Airbus | AGGP2027 – Graduate Program in Quality Department | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/AGGP2027---Graduate-Program-in-Quality-Department_JR10432249) | 2026-09-01 |
 | Airbus | AGGP2027 – Graduate Program in Quality Department | Hamburg Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/AGGP2027---Graduate-Program-in-Quality-Department_JR10432586) | 2026-09-01 |
 | Arkansas Children's | RN I New Graduate Resident | Not Specified | [Apply](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/RN-I-New-Graduate-Resident_R0024368) | 2026-09-01 |
@@ -298,11 +305,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3007 | Dallas, TX | [Apply](https://jobs.lever.co/wadetrim/98c1e508-84d9-4b8b-9e1e-f004738b8846) | 2026-08-28 |
 | Weatherford | Field Engineer - NextGen Graduate Program | Namibia | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107331) | 2026-08-28 |
 | WSP | Early Career Substation Drafter | Columbus, OH, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94227) | 2026-08-28 |
-| AECOM | Entry Level Roadway Design Engineer | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146058430) | 2026-08-27 |
-| AECOM | Entry-Level Civil Engineer – Roadway Designer | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145725719) | 2026-08-27 |
 | AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145822866) | 2026-08-27 |
 | AECOM | Entry-Level Geotechnical Engineer - Hiring Event with AECOM - Philadelphia | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145767139) | 2026-08-27 |
-| AECOM | Entry-Level Structural Engineer | Roanoke, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145821446) | 2026-08-27 |
 | AECOM | Entry-Level Traction Power Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145838379) | 2026-08-27 |
 | Amcor | Entry Level Manufacturing - Film Tech 3 pm to 11 pm | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Entry-Level-Manufacturing---Film-Tech-3-pm-to-11-pm_REQ_95609) | 2026-08-27 |
 | Amcor | Manufacturing Entry Level - Film Tech 11 pm to 7 am | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Manufacturing-Entry-Level---Film-Tech-11-pm-to-7-am_REQ_95003) | 2026-08-27 |
@@ -449,7 +453,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Zip | Software Engineer, New Grad (2027 Start) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) | 2026-08-26 |
 | Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
 | AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145330842) | 2026-08-25 |
-| AECOM | Entry-Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145377109) | 2026-08-25 |
 | Applied Intuition | Build & Release Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
 | Applied Intuition | UX Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
