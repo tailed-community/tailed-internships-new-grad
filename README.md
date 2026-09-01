@@ -42,6 +42,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ameriprise Financial | Advice and Wealth Management Products and Business Solutions Intern | Minnesota | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Advice-and-Wealth-Management-Products-and-Business-Solutions-Intern_R26_3467) | 2026-09-01 |
 | Ameriprise Financial | Finance Internship | Minnesota | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Finance-Internship_R26_3511) | 2026-09-01 |
 | Ameriprise Financial | Financial Advisor in Training Intern | Minnesota / Nevada / North Carolina | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Financial-Advisor-in-Training-Intern_R26_3498) | 2026-09-01 |
+| Apex | Mechanical Engineering Internship (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/31c57de3-6150-41c6-a632-ea193cf57218) | 2026-09-01 |
+| Apex | RF/Comms Internship (Spring or Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/c80a2580-ff4d-4391-a745-4560fbd0b239) | 2026-09-01 |
 | Applied Materials | GPM Intern | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/GPM-Intern_R2626422) | 2026-09-01 |
 | Aptiv | MCAD Engineer - Intern | Poland | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/MCAD-Engineer---Intern_J000703033) | 2026-09-01 |
 | Aptiv | Mechanical Engineering Intern | Poland | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Mechanical-Engineering-Intern_J000703029) | 2026-09-01 |
@@ -1007,6 +1009,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Shell | Shell Assessed Internship Programme 2027 - Netherlands | Amsterdam / Pernis / The Hague / Rotterdam | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Amsterdam/Shell-Assessed-Internship-Programme-2027---Netherlands_R205052) | 2026-09-01 |
 | Shield AI | Summer 2027 - Electrical Engineering Co-op (June 2027) | Texas / California / Boston, MA / Washington | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) | 2026-09-01 |
 | Shield AI | Summer 2027 - Electrical Engineering Intern | Texas / Washington / California / Boston, MA | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) | 2026-09-01 |
+| Sierra | Intern, Agent Development (Summer 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e) | 2026-09-01 |
+| Sierra | Intern, Agent Development (Winter 2027) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4) | 2026-09-01 |
 | Signify | Dynalite R&D  Intern | Sydney | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Sydney/Dynalite-R-D--Intern_366064) | 2026-09-01 |
 | Sonoco | Engineering - Internship | West Chicago, IL, United States | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/West-Chicago-IL-USA/Engineering---Internship_JR-159862) | 2026-09-01 |
 | Sonoco | Engineering Co-op | USA Tn Chestnut Hill D142 | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/USA---TN---Chestnut-Hill---D142/Engineering-Co-op_JR-159804) | 2026-09-01 |
@@ -7108,7 +7112,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Daktronics | Firmware/Hardware Design Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7492/firmware-hardware-design-student/job) | 2026-08-17 |
 | Daktronics | Software Design Student | Not Specified | [Apply](https://careers-daktronics.icims.com/jobs/7493/software-design-student/job) | 2026-08-17 |
 | Dedalus Labs | Design Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2) | 2026-08-17 |
-| Dedalus Labs | Growth Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/e5aca007-42ed-48a1-b553-50466381326b) | 2026-08-17 |
 | Dedalus Labs | Infrastructure Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) | 2026-08-17 |
 | Dedalus Labs | Product Manager Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c) | 2026-08-17 |
 | DiDi Global | Motion Planning Engineer (PhD, Intern) | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/didi/jobs/8131863) | 2026-08-17 |
@@ -8713,7 +8716,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Delta Dental | Internship- Compliance | Okemos, MI | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Compliance_JR101398-1) | 2026-08-07 |
 | DNV | Payroll Intern | Brazil | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7259) | 2026-08-07 |
 | Enterprise Mobility | Management Trainee Fall 2026 Internship - Madison | Madison | [Apply](https://us-erac.icims.com/jobs/561750/management-trainee-fall-2026-internship---madison/job) | 2026-08-07 |
-| Fizz | Product Research Intern (Arabic-speaking) | Remote / Florida / Louisiana / D.c. / Virginia / Kentucky / New York / Indiana / Texas / New Jersey / Vermont / Pennsylvania / Tennessee / Oregon / Illinois / Connecticut / California / Maryland / Massachusetts | [Apply](https://jobs.ashbyhq.com/fizz/d359c72b-326c-4890-85a3-9ae4bdb35a53) | 2026-08-07 |
 | Garrett Motion | International Internship Czech Republic 2027- INTERNSHIP IN POST TEST ANALYSIS DEPARTMENT | Czech Republic | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14858) | 2026-08-07 |
 | GlobalFoundries | IP & Design Engineering Intern (Fall 2026) | USA Texas Richardson | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699) | 2026-08-07 |
 | Highmark Health | Radiology Tech Intern / Casual \| Forbes | Monroeville Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Monroeville-PA-15146-2570-Haymaker-Road/Radiology-Technologist-Intern---Forbes_J285718) | 2026-08-07 |
@@ -12552,7 +12554,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lila Sciences - lilasciences | Co-Op, Data Extraction | Ma USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) | 2026-06-17 |
 | Lila Sciences - lilasciences | Co-Op, Software Product Management | Ma USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) | 2026-06-17 |
 | Live Nation Entertainment | Intern, Artist Manager Assistant | Etobicoke, ON, Canada | [Apply](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Etobicoke-ON-CA/Intern--Artist-Manager-Assistant_JR-90997-3) | 2026-06-17 |
-| Mach Industries | Fall 2026 Engineering Internship | California, United States / San Luis Obispo, Canada | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) | 2026-06-17 |
 | Magna International | Intern - Infrared Imaging & Algorithms | California, United States | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) | 2026-06-17 |
 | Marathon Petroleum | Intern/Co-op - Accounting (Spring 2027) | Ohio / Colorado / Texas | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Accounting--Spring-2027-_00019957) | 2026-06-17 |
 | Marathon Petroleum | Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027) | Ohio / California / Utah | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Spring-2027-_00020050) | 2026-06-17 |
