@@ -11371,10 +11371,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dexmate | Frontend Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119) | 2026-07-27 |
 | Dexmate | Research Intern, PhD (AI, Robotics) | California, United States | [Apply](https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc) | 2026-07-27 |
 | Dexmate | Robot Learning Intern | Singapore | [Apply](https://jobs.ashbyhq.com/dexmate/2ba5c98b-721d-43db-9b11-aac5aa175df4) | 2026-07-27 |
-| Duku AI | Intern - GTM (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/5225f2e8-7cff-4756-8d90-c62988d61302) | 2026-07-27 |
-| Duku AI | Intern - Ops (Visiting) | London, United Kingdom / Holborn, United Kingdom | [Apply](https://ats.rippling.com/duku-ai/jobs/80673267-2a6b-44a3-bce7-4e27922c742a) | 2026-07-27 |
 | Eragon | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) | 2026-07-27 |
-| Exploration Technology Corp. | Engineering Intern (Fall/Winter 2026) | San Francisco, Canada | [Apply](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 2026-07-27 |
 | Firetiger | Product Engineer — Intern/Co-op | California, United States | [Apply](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc) | 2026-07-27 |
 | Frontier Health | Applied Scientist / Research Engineer (Internship) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef) | 2026-07-27 |
 | GE Healthcare | Research Intern - AI | Ind19-01-Bengaluru-Epip 122 (phase Ii) | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) | 2026-07-27 |
@@ -11439,10 +11436,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ROCKWOOL Group | Op zoek naar een stage of wil je open solliciteren? | Roermond | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Roermond/Op-zoek-naar-een-stage-of-wil-je-open-solliciteren-_R0023550) | 2026-07-27 |
 | ROCKWOOL Group | Product Management - Intern | Illinois | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) | 2026-07-27 |
 | Spacial AI | Software Engineering Intern (Summer 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26) | 2026-07-27 |
-| SpreeAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Us) | [Apply](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 2026-07-27 |
-| SpreeAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Us) | [Apply](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 2026-07-27 |
-| SpreeAI | Social Media Intern | Us) | [Apply](https://ats.rippling.com/spreeai/jobs/77d3f24b-7522-4de7-8df3-14a3010dc094) | 2026-07-27 |
-| SpreeAI | Software Engineer Intern (AI Infrastructure / Training / Inference) | San Francisco, Canada | [Apply](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | 2026-07-27 |
 | Squarepoint Capital | Intern Quant Researcher | Hong Kong | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 2026-07-27 |
 | Terranova | Controls/Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/terranova/58b4f28b-80eb-449a-ad41-63469edb8c6d) | 2026-07-27 |
 | Terranova | Embedded Systems Intern | California, United States | [Apply](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da) | 2026-07-27 |
