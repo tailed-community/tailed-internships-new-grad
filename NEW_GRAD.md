@@ -9,6 +9,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Med Surg | Cornelius, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Lake-Norman---1130-Tree-of-Life-Cornelius-NC/New-Graduate-Registered-Nurse--RN----Med-Surg_R265662) | 2026-09-02 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Post Surgical Care 1 | Concord, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Cabarrus---920-Church-St-N-Concord-NC/New-Graduate-Registered-Nurse--RN----Post-Surgical-Care-1_R257730) | 2026-09-02 |
+| AECOM | AECOM Is Hosting A Networking Event For Upcoming Entry-Level BIM Specialist in New York City! | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147026220) | 2026-09-02 |
+| AECOM | Entry-Level Highway Design Engineer | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146989220) | 2026-09-02 |
+| AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146984119) | 2026-09-02 |
 | AeroVironment | Entry-Level Software Engineer | Austin, TX | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600) | 2026-09-02 |
 | Amentum | Structural Analyst, Early Career (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Structural-Analyst--Early-Career--ES2-_R0169220-1) | 2026-09-02 |
 | Applied Materials | R&D Process Engineer (Entry-level) | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/R-D-Process-Engineer--Entry-level-_R2627816) | 2026-09-02 |
@@ -43,6 +46,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Emergency Department (ED) | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Emergency-Department--ED-_352458-1) | 2026-09-02 |
 | Equifax - external | Product Associate (Entry Level) | Aus-Sydney-Blue-Street | [Apply](https://equifax.wd5.myworkdayjobs.com/external/job/AUS-Sydney-Blue-Street/Product-Analyst_J00177645) | 2026-09-02 |
 | Equinix | Data Center Critical Facilities Engineer (Entry Level) | Frankfurt | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/Frankfurt/Data-Center-Critical-Facilities-Engineer--Entry-Level-_JR-163139) | 2026-09-02 |
+| Eurofins | Entry Level Analytical Chemist | Groton, CT, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000146994905) | 2026-09-02 |
+| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000146800976) | 2026-09-02 |
+| Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000146915119) | 2026-09-02 |
 | Generac | Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems | USA Il East Peoria | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/USA---IL-East-Peoria/Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958) | 2026-09-02 |
 | General Dynamics | Pipefitter - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20553/pipefitter---entry-level-and-skilled/job) | 2026-09-02 |
 | General Dynamics | Sheetmetal - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20552/sheetmetal---entry-level-and-skilled/job) | 2026-09-02 |
@@ -384,8 +390,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DriveTime | Automotive Tech - Entry Level | Pa 19067 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1381-S-Pennsylvania-Ave-Morrisville-PA-19067/Automotive-Tech---Entry-Level_R16254) | 2026-08-27 |
 | DriveTime | Automotive Tech - Entry Level | Tn 38115 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/6535-Winchester-Rd-Memphis-TN-38115/Automotive-Tech---Entry-Level_R16222) | 2026-08-27 |
 | DriveTime | Automotive Technician - Entry Level | Co 80215 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/11000-W-Colfax-Ave-Lakewood-CO-80215/Automotive-Technician---Entry-Level_R16224-1) | 2026-08-27 |
-| Eurofins | Entry Level-Lab Technician (Weds-Sun)- Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145763750) | 2026-08-27 |
-| Eurofins | Entry Level-Lab Technician Eurofins Environment Testing Northeast, Edison NJ | Edison, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000145760817) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse | Newberry, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Newberry-SC/New-Graduate-Nurse_R0267531) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse | Bishopville, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bishopville-SC/New-Graduate-Nurse_R0267535) | 2026-08-27 |
 | Fresenius Medical Care | New Graduate Nurse - RN | St Marys, GA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/St-Marys-GA/New-Graduate-Nurse---RN_R0267360-1) | 2026-08-27 |
@@ -636,7 +640,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Post-Op-Surgery_350978) | 2026-08-19 |
 | Cleveland Clinic | New Grad RN – Acute Cardiac and Nephrology | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Cardiac-and-Nephrology_327746) | 2026-08-19 |
 | ERM | EHS/コンストラクションセーフティコンサルタント・EHS/Construction safety (Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/EHS--EHS-Construction-safety--Entry-Level-_R00031691-1) | 2026-08-19 |
-| Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000144295179) | 2026-08-19 |
 | Freeform | Additive Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894104003) | 2026-08-19 |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) | 2026-08-19 |
 | Fresenius Medical Care | New Graduate Nurse | Winchester, TN | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Winchester-TN/New-Graduate-Nurse_R0266097) | 2026-08-19 |
@@ -945,7 +948,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Allstate Insurance Company | Early Career Trial Attorney (Hybrid - Bronx, Westchester & Putnam County, New York) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NY-Remote/Early-Career-Trial-Attorney--Hybrid---Bronx--Westchester---Putnam-County--New-York-_R33289) | 2026-07-31 |
 | Allstate Insurance Company | Early Career Trial Attorney - Richmond, VA (Remote) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---VA-Remote/Early-Career-Trial-Attorney---Richmond--VA--Remote-_R33319-1) | 2026-07-31 |
 | Avery Dennison | Operations Early Career Program (OECP)  Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140741208) | 2026-07-31 |
-| Avery Dennison | Sales Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000140902987) | 2026-07-31 |
 | Cleveland Clinic | New Grad RN Resident - Emergency Department | Mercy Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Mercy-Hospital/New-Grad-RN-Resident---Emergency-Department_348520) | 2026-07-31 |
 | Elanco | Process Engineering Associate (Entry Level) | Clinton, IN | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Process-Engineering-Associate--Entry-Level-_R0026583) | 2026-07-31 |
 | General Dynamics | Welder - Entry Level | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20028/welder---entry-level/job) | 2026-07-31 |
