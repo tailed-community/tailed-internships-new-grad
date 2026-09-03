@@ -465722,5 +465722,19 @@
     "date_added": "2026-06-13",
     "active": false,
     "date_archived": "2026-09-03"
+  },
+  {
+    "id": "rippling-studyfetch-45f16361-69b0-4e74-8cc3-d2574336c76f",
+    "company": "StudyFetch",
+    "title": "Product Intern",
+    "location": "Beverly Hills, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f",
+    "date_posted": null,
+    "date_added": "2026-08-10",
+    "active": false,
+    "date_archived": "2026-09-03"
   }
 ]

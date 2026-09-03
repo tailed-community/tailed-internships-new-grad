@@ -10421,7 +10421,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Student Worker Part Time | Sweden | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142574429) | 2026-08-10 |
 | Sartorius | Working Student Product Compliance (x\|w\|m) | Goettingen | [Apply](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Goettingen/Working-Student-Product-Compliance--x-w-m-_R41335-1) | 2026-08-10 |
 | StudyFetch | Marketing Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/a71d3b1a-eeff-495e-aee9-ba0a008a48d8) | 2026-08-10 |
-| StudyFetch | Product Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | 2026-08-10 |
 | Tacit | Antenna Engineering Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6) | 2026-08-10 |
 | Tacit | RF Hardware Intern (Fall 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19) | 2026-08-10 |
 | Teledyne | Electrical Engineering Intern | US Miamisburg, OH | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563) | 2026-08-10 |
