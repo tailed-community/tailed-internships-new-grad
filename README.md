@@ -80,6 +80,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Equity | Accounting Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5228997007) | 2026-09-04 |
 | American Equity | Expense Management Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230490007) | 2026-09-04 |
 | American Equity | Tax Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230498007) | 2026-09-04 |
+| American Rare Earths | Geology Intern | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/6b0dab18-de97-4a51-bb9a-77eb735d8b75) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Cleveland, OH | Cleveland, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3190/utility-infrastructure-internship---cleveland%2c-oh/job) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Columbus, OH | Columbus, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3189/utility-infrastructure-internship---columbus%2c-oh/job) | 2026-09-04 |
 | American Tower | Engineering Co-Op | Cary, NC, United States | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2906) | 2026-09-04 |
