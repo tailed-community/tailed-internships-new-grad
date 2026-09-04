@@ -246,6 +246,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | H.B. Fuller | Process Engineering Intern | Texas, United States | [Apply](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/Houston-Texas-USA/Process-Engineering-Intern_R26_0000002100) | 2026-09-04 |
 | H.B. Fuller | Sales Intern | Minnesota, United States | [Apply](https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Sales-Intern_R26_0000002103) | 2026-09-04 |
 | HARMAN International | Working Student SCM Excellence, Project Analytics & Support (m/f/d) | Garching Bavaria / Germany | [Apply](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/Working-Student-SCM-Excellence--Project-Analytics---Support--m-f-d-_R-55420-2026) | 2026-09-04 |
+| Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) | 2026-09-04 |
+| Hermeus | Mission Systems Engineering Intern | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) | 2026-09-04 |
 | Hewlett Packard (HP) | Finance Intern | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Finance-Intern_UNI4241) | 2026-09-04 |
 | Hitachi | I3X Intern | United States Remote | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/I3X-Intern_R0143620) | 2026-09-04 |
 | HNTB | Public Engagement Intern - Summer 2027 | Kansas City, MO / Oklahoma City, OK / Ks (sprint Parkway) / Des Moines, IA / St. Louis, MO | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Public-Engagement-Intern---Summer-2027_R-31454) | 2026-09-04 |
@@ -569,6 +571,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Xcel Energy | Corporate Impact Intern - MN | Minneapolis, MN | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Corporate-Impact-Intern---MN_JR115698) | 2026-09-04 |
 | Yai | Access VR Summer Employment Intern | Rockland County | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Rockland-County/Access-VR-Summer-Employment-Intern_R025282) | 2026-09-04 |
 | Yai | Speech Language Pathology Graduate Internship | Manhattan | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Manhattan/Speech-Language-Pathology-Graduate-Internship_R025553) | 2026-09-04 |
+| Zoox | Contract Student Worker - Autonomy Safety Data Engineer | Foster City, Canada / Boston, MA / Seattle, WA | [Apply](https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819) | 2026-09-04 |
 | 3M | Internship - 2027 Undergraduate Finance Intern | Maplewood, United States | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Finance-Intern_R01170529) | 2026-09-03 |
 | ABB | Electrical Design Engineer Intern- Summer 2027 | Arkansas, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726) | 2026-09-03 |
 | ABB | Internal Communications Intern- Spring 2027 | TN, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/Internal-Communications-Intern--Spring-2027_JR00039009) | 2026-09-03 |
@@ -7451,7 +7454,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BRG | Internship - Competition Economics (German Speaker) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--German-Speaker-_JR100948) | 2026-08-24 |
 | BRG | Internship - Competition Economics (October 2026 Start) | Bel | [Apply](https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/job/Brussels-BEL/Internship---Competition-Economics--October-2026-Start-_JR100949) | 2026-08-24 |
 | Capacity | Speech Technology Research Intern | Edinburgh, United Kingdom | [Apply](https://ats.rippling.com/capacity/jobs/fe15a314-75d1-4355-8e80-31de902d6d58) | 2026-08-24 |
-| Catalist | Data Services Intern | Washington, DC | [Apply](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec) | 2026-08-24 |
 | Centric Brands | Intern, Photography | Bd-Dhaka | [Apply](https://careers-centricbrands.icims.com/jobs/23549/intern%2c-photography/job) | 2026-08-24 |
 | Chanel | Stage - Assistant(e) Communication Haute-Couture (H/F/X) - Mode – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Communication-Haute-Couture--H-F-X----Mode---Janvier-2027_JOBREQ00116240) | 2026-08-24 |
 | Chanel | Stage – Assistant(e) Outils de communication Presse - Horlogerie Joaillerie - Janvier 2027 - H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Outils-de-communication-Presse---Horlogerie-Joaillerie---Janvier-2027---H-F-X_JOBREQ00116230) | 2026-08-24 |
@@ -11220,7 +11222,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Emerson Electric | Software Engineering Intern | China | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008552) | 2026-08-05 |
 | Enterprise Mobility | Summer 2027 Airport Management Trainee Intern | Kansas City International Airport (mci) | [Apply](https://us-erac.icims.com/jobs/561327/summer-2027-airport-management-trainee-intern/job) | 2026-08-05 |
 | Enterprise Mobility | Summer 2027 Management Trainee Intern | Kansas City And Surrounding Area | [Apply](https://us-erac.icims.com/jobs/561324/summer-2027-management-trainee-intern/job) | 2026-08-05 |
-| EQ Bank | Intern - Credit Risk | Toronto | [Apply](https://jobs.lever.co/eqbank/0a137ebd-548d-4472-a129-285cb71f98b1) | 2026-08-05 |
 | ERM | Intern | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Intern_R00031460) | 2026-08-05 |
 | Euronext | Borsa Italiana - Market Surveillance, Internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Borsa-Italiana---Market-Surveillance--Internship_R28288) | 2026-08-05 |
 | Euronext | MTS - Client Services, internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/MTS---Client-Services--internship_R28289) | 2026-08-05 |
@@ -12953,7 +12954,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Axle & Manufacturing | Maintenance College Co-Op | Three Rivers, MI | [Apply](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Three-Rivers-MI/Maintenance-College-Co-Op_JREQ-223171) | 2026-07-17 |
 | American Axle & Manufacturing | Supply Chain College Co-Op | Three Rivers, MI | [Apply](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Three-Rivers-MI/Supply-Chain-College-Co-Op_JREQ-221117) | 2026-07-17 |
 | Ardian | Private Credit Intern - September 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184) | 2026-07-17 |
-| Avertium | CyberSecurity Intern | Mexico | [Apply](https://jobs.lever.co/avertium/b2304e03-1bc8-4610-ac01-7efd5408ce1a) | 2026-07-17 |
 | Baker Hughes | Intern - IET GTS Deployment Team - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---IET-GTS-Deployment-Team---Florence--Italy---2026--M-F-D-_R167033) | 2026-07-17 |
 | Baker Hughes | Intern – Clean Power Solutions - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Clean-Power-Solutions---Florence--Italy---2026--M-F-D-_R166722) | 2026-07-17 |
 | Baker Hughes | Intern – GTS Upgrades Operational Excellence - Florence, Italy - 2026 (M/F/D) | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---GTS-Upgrades-Operational-Excellence---Florence--Italy---2026--M-F-D-_R166720) | 2026-07-17 |
@@ -13099,7 +13099,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Abbott | Marketing Intern - CRM - Madrid | Spain Madrid | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Marketing-Intern---CRM---Madrid_31155120) | 2026-07-15 |
 | ALFA LAVAL | Internship- ED Partner Sales | Johannesburg | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Johannesburg/Internship--ED-Partner-Sales_JR0046684) | 2026-07-15 |
 | Arizona State University - ASUEP | Student Assistant, Data Integrity | Asu Enterprise Partners Outreach Hub | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Assistant--Data-Integrity_R1447) | 2026-07-15 |
-| Avertium | IT Intern | Mexico | [Apply](https://jobs.lever.co/avertium/eef0c9f9-827e-46d7-b532-e14b5e3ac693) | 2026-07-15 |
 | BlueScope | Shipping Internship | Nle-Apodaca | [Apply](https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/NLE-Apodaca/Shipping-Internship_REQ-2942) | 2026-07-15 |
 | Cencora | Intern | Wemea > Netherlands > Boots Apotheek Papegaaienburg | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--Netherlands--Boots-apotheek-Papegaaienburg/Intern_R2610223) | 2026-07-15 |
 | Chevron Corporation | 2026-2027 Earth Science Intern | Texas, United States | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409) | 2026-07-15 |
@@ -13331,7 +13330,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | Programming and Scheduling Intern Balkans | Bulgaria | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Sofia-Bulgaria/Programming-and-Scheduling-Intern-Balkans_10154258-1) | 2026-07-11 |
 | University of Virginia | Fraternity & Sorority Life Office Assistant (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Fraternity---Sorority-Life-Office-Assistant--Student-Wage-_R0085178) | 2026-07-11 |
 | Wash U | Director of Student Academic Affairs and Associate Dean - College of Arts & Sciences | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Director-of-Student-Academic-Affairs-and-Associate-Dean---College-of-Arts---Sciences_JR95484) | 2026-07-11 |
-| Xsolla | AI-First Engineering Intern | Kuala Lumpur | [Apply](https://jobs.lever.co/xsolla/09161ef0-8266-4de5-9017-fd34a29c3a3d) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Los Angeles, United States | [Apply](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Raleigh, United States | [Apply](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 2026-07-11 |
 | Xsolla | AI-First Engineering Intern | Montreal | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571) | 2026-07-11 |
@@ -14285,7 +14283,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aircall | Strategy & Operations Intern — Office of the General Manager, Small Business | Paris Office | [Apply](https://jobs.lever.co/aircall/d7f248d3-f16f-4bc7-9f7f-201e180600df) | 2026-06-17 |
 | ALFA LAVAL | Internship Planning Engineer | San Bonifacio | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/San-Bonifacio/Internship-Planning-Engineer_JR0041273) | 2026-06-17 |
 | Alliaxis | Warehouse Worker - Student | CA Edmonton Distribution | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Edmonton---Distribution/Warehouse-Worker---Student_R-56452) | 2026-06-17 |
-| Ambi Robotics | Robotics QA Intern | California | [Apply](https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f) | 2026-06-17 |
 | American Axle & Manufacturing | Controls & IT College Co-Op | Fort Wayne, IN | [Apply](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Fort-Wayne-IN/Controls---IT-College-Co-Op_JREQ-220547-1) | 2026-06-17 |
 | American Axle & Manufacturing | Electrical Engineering College Co-op | Detroit, MI | [Apply](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Electrical-Engineering-College-Co-op_JREQ-221637-2) | 2026-06-17 |
 | American Axle & Manufacturing | Environmental Health & Safety College Co-Op | Three Rivers, MI | [Apply](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Three-Rivers-MI/EHS-College-Co-Op_JREQ-220378) | 2026-06-17 |
