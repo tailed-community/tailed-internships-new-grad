@@ -659,6 +659,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Vanguard - vanguard_external | Entry Level Application Engineer - Dallas - 2027 Start Date | Dallas / Ft. Worth, TX | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853) | 2026-08-26 |
 | Worcester Polytechnic Institute | Campus Police Officer - Entry Level OK | Worcester | [Apply](https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Campus-Police-Officer_R0003508) | 2026-08-26 |
 | Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
+| Zip | Software Engineer, New Grad (2027 Start) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) | 2026-08-26 |
 | AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145330842) | 2026-08-25 |
 | Applied Intuition | Build & Release Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |

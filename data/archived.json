@@ -428134,20 +428134,6 @@
     "date_archived": "2026-08-28"
   },
   {
-    "id": "ashby-zip-2bc7327b-1c06-418a-beeb-bec1dd70480e",
-    "company": "Zip",
-    "title": "Software Engineer Intern (Winter 2027)",
-    "location": "Toronto, ON, Canada / Canada Remote",
-    "type": "internship",
-    "season": "Winter 2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
-    "date_posted": "2026-08-11",
-    "date_added": "2026-08-26",
-    "active": false,
-    "date_archived": "2026-08-28"
-  },
-  {
     "id": "icims-american-enterprise-institute-2614",
     "company": "American Enterprise Institute",
     "title": "Fall Intern: Housing Center",
@@ -453964,20 +453950,6 @@
     "date_archived": "2026-09-02"
   },
   {
-    "id": "ashby-zip-df6eb1ee-b360-46fe-b23f-658626ec59ea",
-    "company": "Zip",
-    "title": "Software Engineer, New Grad (2027 Start)",
-    "location": "California, United States / United States Remote",
-    "type": "new_grad",
-    "season": "2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-    "date_posted": "2026-08-25",
-    "date_added": "2026-08-26",
-    "active": false,
-    "date_archived": "2026-09-02"
-  },
-  {
     "id": "icims-american-enterprise-institute-2630",
     "company": "American Enterprise Institute",
     "title": "Fall Intern: Critical Threats Project - Iran and Middle East",
@@ -474890,6 +474862,62 @@
     "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5269245008",
     "date_posted": "2026-06-24",
     "date_added": "2026-06-25",
+    "active": false,
+    "date_archived": "2026-09-05"
+  },
+  {
+    "id": "ashby-clera-4da438bb-af83-4bc2-be9c-f023c45905e7",
+    "company": "Clera",
+    "title": "Founder's Associate Intern / Working Student",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/4da438bb-af83-4bc2-be9c-f023c45905e7",
+    "date_posted": "2026-08-29",
+    "date_added": "2026-08-30",
+    "active": false,
+    "date_archived": "2026-09-05"
+  },
+  {
+    "id": "ashby-hypercubic-ab7a23f9-7280-4443-b442-2813dc39d490",
+    "company": "Hypercubic",
+    "title": "Software Engineering Internship",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
+    "date_posted": "2026-08-14",
+    "date_added": "2026-08-17",
+    "active": false,
+    "date_archived": "2026-09-05"
+  },
+  {
+    "id": "ashby-leland-94347c0b-273b-4c17-9987-563912629633",
+    "company": "Leland",
+    "title": "AI Education Intern",
+    "location": "Utah, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633",
+    "date_posted": "2026-04-24",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-09-05"
+  },
+  {
+    "id": "ashby-skydio-1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "company": "Skydio",
+    "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
+    "location": "California, United States / United States Remote",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "date_posted": "2026-07-31",
+    "date_added": "2026-08-01",
     "active": false,
     "date_archived": "2026-09-05"
   }
