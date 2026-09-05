@@ -6680,7 +6680,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lennox International | Mechanical Engineering Intern | Carrollton, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54561/mechanical-engineering-intern/job) | 2026-08-27 |
 | Lennox International | MES & Industrial Automation Intern | Richardson, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54562/mes-%26-industrial-automation-intern/job) | 2026-08-27 |
 | Lennox International | SAP/Kronos HR Intern | Richardson, TX, United States | [Apply](https://uscareers-lennox.icims.com/jobs/54560/sap-kronos-hr-intern/job) | 2026-08-27 |
-| LightGuide, Inc. | Sales & Product Co-op | Wixom, MI | [Apply](https://ats.rippling.com/lightguide/jobs/09a34d3f-471a-402d-aeaf-3fda3d822aa2) | 2026-08-27 |
 | Littelfuse | Production Intern | Dongguan | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dongguan/Production-Intern_JR-112412) | 2026-08-27 |
 | LivaNova | Working Student Controlling (m/f/d) | Germany | [Apply](https://livanova.wd5.myworkdayjobs.com/search/job/Munich-Germany/Working-Student-Controlling--m-f-d-_JR-14757) | 2026-08-27 |
 | Loblaw Companies | Soup, Sandwich, Chill and Grill Student Part Time Evening | Stoney Creek, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/21-Upper-Centennial-Parkway-South-Stoney-Creek-ON/Soup--Sandwich--Chill-and-Grill-Student-Part-Time-Evening_R2000699741) | 2026-08-27 |

@@ -475214,5 +475214,19 @@
     "date_added": "2026-08-13",
     "active": false,
     "date_archived": "2026-09-05"
+  },
+  {
+    "id": "rippling-lightguide-inc-09a34d3f-471a-402d-aeaf-3fda3d822aa2",
+    "company": "LightGuide, Inc.",
+    "title": "Sales & Product Co-op",
+    "location": "Wixom, MI",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/lightguide/jobs/09a34d3f-471a-402d-aeaf-3fda3d822aa2",
+    "date_posted": null,
+    "date_added": "2026-08-27",
+    "active": false,
+    "date_archived": "2026-09-05"
   }
 ]
