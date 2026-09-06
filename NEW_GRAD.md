@@ -851,12 +851,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Geologist | Kansas City, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93451) | 2026-08-18 |
 | ALFA LAVAL | Graduate Program 2027 (Food & Pharma Division) | Stockholm | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Stockholm/Graduate-Program-2027--Food---Water-Division-_JR0046715) | 2026-08-17 |
 | Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) | 2026-08-17 |
-| Boom Supersonic | Manufacturing Engineer (Early Career Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/545823c3-76b5-4a95-bbfc-3b3c07f65129) | 2026-08-17 |
-| Boom Supersonic | Materials & Manufacturing Process Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4305b927-6d4a-4093-9c78-e91e5567d57f) | 2026-08-17 |
-| Boom Supersonic | Mechanical Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/3cb7c9fb-6dfe-4e72-b4a9-89deb9a1cbf2) | 2026-08-17 |
-| Boom Supersonic | Software Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) | 2026-08-17 |
-| Boom Supersonic | Special Projects Analyst (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/a636acc7-9430-4048-b585-9b44ca6ac9bd) | 2026-08-17 |
-| Boom Supersonic | Turbomachinery Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/76387763-abfd-462c-a878-4a6ed3c0552b) | 2026-08-17 |
+| Boom Supersonic | Manufacturing Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/545823c3-76b5-4a95-bbfc-3b3c07f65129) | 2026-08-17 |
+| Boom Supersonic | Materials & Manufacturing Process Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4305b927-6d4a-4093-9c78-e91e5567d57f) | 2026-08-17 |
+| Boom Supersonic | Mechanical Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/3cb7c9fb-6dfe-4e72-b4a9-89deb9a1cbf2) | 2026-08-17 |
+| Boom Supersonic | Software Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc) | 2026-08-17 |
+| Boom Supersonic | Special Projects Analyst (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/a636acc7-9430-4048-b585-9b44ca6ac9bd) | 2026-08-17 |
+| Boom Supersonic | Turbomachinery Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/76387763-abfd-462c-a878-4a6ed3c0552b) | 2026-08-17 |
 | General Dynamics Mission Systems | Electrical Engineer - Entry Level | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/74275/electrical-engineer---entry-level/job) | 2026-08-17 |
 | General Dynamics Mission Systems | Software Engineer - Entry Level | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/74274/software-engineer---entry-level/job) | 2026-08-17 |
 | MPR Associates | Early Career Engineer | Alexandria, VA, United States | [Apply](https://careers-mpr.icims.com/jobs/1523/early-career-engineer/job) | 2026-08-17 |
