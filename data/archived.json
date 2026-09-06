@@ -476222,5 +476222,33 @@
     "date_added": "2026-07-05",
     "active": false,
     "date_archived": "2026-09-06"
+  },
+  {
+    "id": "ashby-clera-024b4600-6f2c-45aa-88c3-79e242d7eb15",
+    "company": "Clera",
+    "title": "Sales Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/024b4600-6f2c-45aa-88c3-79e242d7eb15",
+    "date_posted": "2026-08-29",
+    "date_added": "2026-08-30",
+    "active": false,
+    "date_archived": "2026-09-06"
+  },
+  {
+    "id": "ashby-mubi-566635cb-41d0-4b99-903d-0c43a3a56fca",
+    "company": "MUBI",
+    "title": "Communications Intern, US",
+    "location": "New York, United States / United States Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/MUBI/566635cb-41d0-4b99-903d-0c43a3a56fca",
+    "date_posted": "2026-08-27",
+    "date_added": "2026-08-27",
+    "active": false,
+    "date_archived": "2026-09-06"
   }
 ]

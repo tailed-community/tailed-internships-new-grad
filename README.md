@@ -22,6 +22,17 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | BMO (Campus) | Financial Governance and Controls Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024742-2) | 2026-09-06 |
+| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/12ca175a-7b18-4ec9-9197-44aac4485b1b) | 2026-09-06 |
+| Fab2 | Automation Software Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) | 2026-09-06 |
+| Fab2 | Electrical Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae) | 2026-09-06 |
+| Fab2 | Electrical Engineering Intern, High Frequency Power Electronics - Summer | Texas, United States | [Apply](https://jobs.ashbyhq.com/fab2/b3628272-a336-4dd6-968d-041bc4de5bc5) | 2026-09-06 |
+| Fab2 | Embedded Software Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4) | 2026-09-06 |
+| Fab2 | Fab Software Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) | 2026-09-06 |
+| Fab2 | Infrastructure Software Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) | 2026-09-06 |
+| Fab2 | Mechanical Engineering Intern - Summer | Texas, United States | [Apply](https://jobs.ashbyhq.com/fab2/ada329fa-d8f5-4210-9722-82b1a33487df) | 2026-09-06 |
+| Fab2 | Packaging Engineering Intern - Summer | Texas, United States | [Apply](https://jobs.ashbyhq.com/fab2/832baa82-d5e1-44b9-bd6f-ef9dbf200a54) | 2026-09-06 |
+| Fab2 | Process Engineering Intern - Summer | Texas, United States | [Apply](https://jobs.ashbyhq.com/fab2/c8c9b760-8c9f-4481-8566-27282f8c0a07) | 2026-09-06 |
+| Fab2 | Rust Software Engineering Intern, Chip Design Tools - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361) | 2026-09-06 |
 | Harbinger Motors | Intern, Business Systems | Garden Grove, Canada | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5231840007) | 2026-09-06 |
 | Harbinger Motors | Intern, Cybersecurity | Garden Grove, Canada | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007) | 2026-09-06 |
 | Harbinger Motors | Intern, Finance | Garden Grove, Canada | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5231841007) | 2026-09-06 |
@@ -5724,7 +5735,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Airbus | Summer Internship – A320 Family Liaison Engineering | Mobile Area, AL | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---A320-Family-Liaison-Engineering_JR10434484) | 2026-08-30 |
 | Armanino | Winter 2027 Tax Intern (New York) | New York (madison Ave.) | [Apply](https://armaninollp.wd1.myworkdayjobs.com/en-US/Armanino/job/New-York-City-New-York-Madison-Ave/Winter-2027-Tax-Intern--New-York-_JR104259) | 2026-08-30 |
 | Cencora | Government Affairs Co-op | Washington, DC | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Washington-DC/Government-Affairs-Co-op_R266912) | 2026-08-30 |
-| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/024b4600-6f2c-45aa-88c3-79e242d7eb15) | 2026-08-30 |
 | GE Healthcare | Sales Intern, Molecular Imaging | Rus06-01-Moscow-Naberezhnaya Tower | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/RUS06-01-Moscow-Naberezhnaya-Tower/Sales-Intern--Molecular-Imaging_R4045518-1) | 2026-08-30 |
 | Loblaw Companies | Personal Shopper Student Part Time Day | Georgetown, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/171-Guelph-St-Georgetown-ON/Personal-Shopper-Student-Part-Time-Day_R2000700589) | 2026-08-30 |
 | Marathon Petroleum | Intern/Co-op - Refining Electrical Engineering (Fall 2027) | Ohio / Texas / Washington / California / North Dakota / Utah / Illinois / Michigan / Minnesota / Kentucky / Louisiana / Alaska | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Refining-Electrical-Engineering--Fall-2027-_00023685) | 2026-08-30 |
@@ -6728,7 +6738,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | Intern - Technical Customer Management, AI | Longmont-Max Office, CO | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) | 2026-08-27 |
 | Mitsubishi UFJ Financial Group | Financial Crimes Compliance – Complex Investigations Intern | Singapore Office Occ | [Apply](https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/Singapore-Office-OCC/Financial-Crimes-Compliance---Complex-Investigations-Intern_10079064-WD) | 2026-08-27 |
 | Motorola Solutions | Indirect Procurement Internship - Summer 2027 (Hybrid) | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Indirect-Procurement-Internship---Summer-2027--Hybrid-_R67595) | 2026-08-27 |
-| MUBI | Communications Intern, US | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/MUBI/566635cb-41d0-4b99-903d-0c43a3a56fca) | 2026-08-27 |
 | MUBI | Film Editing & Marketing Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/MUBI/a766f990-8e5a-4da7-869f-4cafc94ee918) | 2026-08-27 |
 | MultiCare Health System | Mary Bridge Pharmacy Intern - Must be in Pharmacy School | Not Specified | [Apply](https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Mary-Bridge-Pharmacy-Intern---Must-be-in-Pharmacy-School_JR81134) | 2026-08-27 |
 | MultiCare Health System | Radiology Technologist Student (Per Diem) | Not Specified | [Apply](https://multicare.wd1.myworkdayjobs.com/multicare/job/Yakima-Washington/Radiology-Technologist-Student--Per-Diem-_JR82423) | 2026-08-27 |
