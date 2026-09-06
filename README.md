@@ -54,6 +54,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PPL | Craft-Worker Intern - I/E Technician | Kentucky | [Apply](https://careers.pplweb.com/jobs/15181?lang=en-us&icims=1) | 2026-09-06 |
 | PricewaterhouseCoopers (PwC) - US_Entry_Level_Careers | Charlotte - Tax - Intern - Summer 2027 | Nc-Charlotte | [Apply](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NC-Charlotte/Charlotte---Tax---Intern---Summer-2027_756392WD) | 2026-09-06 |
 | Visa | COOP Trainee (For current students - second semester COOP, starting in January 2027) | Saudi Arabia | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/SA---Riyadh-Saudi-Arabia/COOP-Trainee--For-current-students---second-semester-COOP--starting-in-January-2027-_REF086773W) | 2026-09-06 |
+| Wabtec | Finance Intern | Shanghai, SD | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990015094546) | 2026-09-06 |
 | WTW | FTD Intern | Saudi Arabia | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605626) | 2026-09-06 |
 | WTW | Intern | Saudi Arabia | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605628) | 2026-09-06 |
 | ABB | Market Research & Analysis Intern - Summer 2027 | NC, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583) | 2026-09-05 |
@@ -6867,7 +6868,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Extracurricular Internship in Product Cost Controlling (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000146025254) | 2026-08-27 |
 | Robert Bosch Venture Capital | Extracurricular Internship: AI & Automation Development (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145938412) | 2026-08-27 |
 | Robert Bosch Venture Capital | Mandatory Internship Controlling - Focus BU Strategy & Digitalization | Schwäbisch Gmünd, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145959789) | 2026-08-27 |
-| Robert Bosch Venture Capital | Phone as a Key Software Engineering - Intern | Plymouth, MI, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145785190) | 2026-08-27 |
 | Robert Bosch Venture Capital | Technická podpora oddělení průmyslových kotlů – STUDENT | Czechia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145901569) | 2026-08-27 |
 | Robert Bosch Venture Capital | Working Student Digitalization in Quality | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145917949) | 2026-08-27 |
 | Roche | Clinical Scientist - Late Stage Development (Ophthalmology) | Basel | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Clinical-Scientist---Late-Stage-Development_202608-121672-2) | 2026-08-27 |
