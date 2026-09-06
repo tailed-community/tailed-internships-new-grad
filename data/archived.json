@@ -476250,5 +476250,61 @@
     "date_added": "2026-08-27",
     "active": false,
     "date_archived": "2026-09-06"
+  },
+  {
+    "id": "oracle_hcm-emerson-electric-26010160",
+    "company": "Emerson Electric",
+    "title": "RF Engineering Co-op (January-June 2027)",
+    "location": "Santa Rosa, United States",
+    "type": "internship",
+    "season": "2027",
+    "source": "oracle_hcm",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010160",
+    "date_posted": "2026-09-03",
+    "date_added": "2026-09-03",
+    "active": false,
+    "date_archived": "2026-09-06"
+  },
+  {
+    "id": "oracle_hcm-ghd-28174",
+    "company": "GHD",
+    "title": "GHD Graduate Program 2027 - International Development - Canberra or Brisbane",
+    "location": "Australia",
+    "type": "new_grad",
+    "season": "2027",
+    "source": "oracle_hcm",
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28174",
+    "date_posted": "2026-08-13",
+    "date_added": "2026-08-13",
+    "active": false,
+    "date_archived": "2026-09-06"
+  },
+  {
+    "id": "oracle_hcm-ghd-28502",
+    "company": "GHD",
+    "title": "GHD Graduate Program 2026/27 - Graduate Planner (New Zealand)",
+    "location": "New Zealand",
+    "type": "new_grad",
+    "season": "2026",
+    "source": "oracle_hcm",
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28502",
+    "date_posted": "2026-09-01",
+    "date_added": "2026-09-01",
+    "active": false,
+    "date_archived": "2026-09-06"
+  },
+  {
+    "id": "oracle_hcm-wtw-202604412",
+    "company": "WTW",
+    "title": "Working student Executive Compensation & Board Advisory",
+    "location": "Netherlands",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "oracle_hcm",
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604412",
+    "date_posted": "2026-08-27",
+    "date_added": "2026-07-09",
+    "active": false,
+    "date_archived": "2026-09-06"
   }
 ]
