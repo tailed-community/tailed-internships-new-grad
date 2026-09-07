@@ -860,7 +860,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Vanguard - vanguard_external | Entry Level Application Engineer - 2027 Start Date - Malvern | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1) | 2026-08-18 |
 | WSP | Early Career Geologist | Kansas City, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93451) | 2026-08-18 |
 | ALFA LAVAL | Graduate Program 2027 (Food & Pharma Division) | Stockholm | [Apply](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Stockholm/Graduate-Program-2027--Food---Water-Division-_JR0046715) | 2026-08-17 |
-| Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) | 2026-08-17 |
+| Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) | 2026-08-17 |
 | Boom Supersonic | Manufacturing Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/545823c3-76b5-4a95-bbfc-3b3c07f65129) | 2026-08-17 |
 | Boom Supersonic | Materials & Manufacturing Process Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4305b927-6d4a-4093-9c78-e91e5567d57f) | 2026-08-17 |
 | Boom Supersonic | Mechanical Engineer (Early Career) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/3cb7c9fb-6dfe-4e72-b4a9-89deb9a1cbf2) | 2026-08-17 |
