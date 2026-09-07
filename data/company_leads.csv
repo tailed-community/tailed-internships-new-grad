@@ -1,43 +1,89 @@
 company,url,source,job_count,example_job_url,lead_source,identity
-AMD,https://careers.amd.com?icims=1,icims,33,https://careers.amd.com/jobs/86868?icims=1,Simplify,icims :: jibe :: careers.amd.com
-American Institutes for Research,https://boards.greenhouse.io/americaninstitutesforresearch,greenhouse,1,https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008,Simplify,greenhouse :: americaninstitutesforresearch
-AMI,https://jobs.ashbyhq.com/ami,ashby,1,https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true,Simplify,ashby :: ami
-Arizona State University,https://asuep.wd5.myworkdayjobs.com/ASUFoundation,workday,1,https://asuep.wd5.myworkdayjobs.com/ASUFoundation/job/Tempe-AZ/Student-Assistant---Gift-Administration-and-Data-Management_R1467,Simplify,workday :: asuep :: asufoundation
+Acumatica,https://jobs.smartrecruiters.com/Acumatica,smartrecruiters,1,https://jobs.smartrecruiters.com/Acumatica/744000146749696,Simplify,smartrecruiters :: acumatica
+Albedo,https://boards.greenhouse.io/albedo,greenhouse,1,https://job-boards.greenhouse.io/albedo/jobs/4379497009,Simplify,greenhouse :: albedo
+AMD,https://careers.amd.com?icims=1,icims,64,https://careers.amd.com/jobs/86868?icims=1,Simplify,icims :: jibe :: careers.amd.com
+Andersen Corporation,https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site,workday,1,https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Sustainability-Intern_R-8207,Simplify,workday :: andersen :: andersen_external_career_site
+Arena Investors I Quaestor Advisors,https://apply.workable.com/arena-investors-lp,workable,1,https://apply.workable.com/arena-investors-lp/j/134D6A3454/apply,Simplify,workable :: arena-investors-lp
+Arizona State University,https://asuep.wd5.myworkdayjobs.com/ASUFoundation,workday,2,https://asuep.wd5.myworkdayjobs.com/ASUFoundation/job/Tempe-AZ/Student-Assistant---Gift-Administration-and-Data-Management_R1467,Simplify,workday :: asuep :: asufoundation
+Armadin,https://jobs.ashbyhq.com/armadin,ashby,2,https://jobs.ashbyhq.com/armadin/8ddb9c3a-3031-42d4-ad68-adcc865e32cf/application?embed=true,Simplify,ashby :: armadin
 AssetWorks,https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks,workday,1,https://volarisgroup.wd3.myworkdayjobs.com/GoAssetWorks/job/United-States---TX/Software-Development-Intern_R67762,Simplify,workday :: volarisgroup :: goassetworks
+Astrion,https://careers.astrion.us?icims=1,icims,1,https://careers.astrion.us/jobs/24801?icims=1,Simplify,icims :: jibe :: careers.astrion.us
+Axle,https://jobs.smartrecruiters.com/AxleInformaticsLLC,smartrecruiters,1,https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012,Simplify,smartrecruiters :: axleinformaticsllc
 Blackberry,https://bb.wd3.myworkdayjobs.com/blackberry,workday,1,https://bb.wd3.myworkdayjobs.com/blackberry/job/Dusseldorf-Germany/Werkstudent---ERP-Anpassung-Entwicklung--Working-Student---ERP-Customization_20260101-3,Simplify,workday :: bb :: blackberry
 BlackRock,https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program,workday,2,https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170,Simplify,workday :: blackrock :: blackrock_early_careers_program
-Bland AI,https://jobs.ashbyhq.com/bland,ashby,2,https://jobs.ashbyhq.com/bland/bd8743ff-9e18-4f79-9c9a-288f384921f3/application?embed=true,Simplify,ashby :: bland
-BTI360,https://boards.greenhouse.io/bti36021,greenhouse,1,https://job-boards.greenhouse.io/bti36021/jobs/8155152,Simplify,greenhouse :: bti36021
-Canadian Solar,https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar,workday,1,https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414,Simplify,workday :: canadiansolar :: canadiansolar
+CDM Smith,https://careers.cdmsmith.com?icims=1,icims,1,https://careers.cdmsmith.com/jobs/4398?icims=1,Simplify,icims :: jibe :: careers.cdmsmith.com
+Cheiron,https://jobs.ashbyhq.com/cheiron,ashby,1,https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application?embed=true,Simplify,ashby :: cheiron
 Chick-fil-A,https://careers.chick-fil-a.com?icims=1,icims,1,https://careers.chick-fil-a.com/jobs/15017?icims=1,Simplify,icims :: jibe :: careers.chick-fil-a.com
+City of Vancouver,https://cityofvancouver.wd5.myworkdayjobs.com/COV,workday,1,https://cityofvancouver.wd5.myworkdayjobs.com/COV/job/LOC0075-City-Hall---3rd-Floor/Inspire-Vancouver-Research-Intern_26-0250,Simplify,workday :: cityofvancouver :: cov
 Compassion International,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink,workday,2,https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1,Simplify,workday :: compassion :: compassioncareersprivatelink
-Concentric,https://boards.greenhouse.io/concentric,greenhouse,1,https://job-boards.greenhouse.io/concentric/jobs/4703940006,Simplify,greenhouse :: concentric
-Conduent,https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1,oracle_hcm,1,https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529,Simplify,oracle_hcm :: egua.fa.us2.oraclecloud.com :: en :: cx_1
-Customers Bank,https://customersbank.wd1.myworkdayjobs.com/customersbankcareers,workday,1,https://customersbank.wd1.myworkdayjobs.com/customersbankcareers/job/Malvern-PA/AI-Innovation-Risk-Co-Op_REQ-2026-978,Simplify,workday :: customersbank :: customersbankcareers
-Elk Valley Resources,https://jobs.lever.co/evr,lever,2,https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply,Simplify,lever :: evr
+Crest Nicholson,https://crestnicholson.wd103.myworkdayjobs.com/CN,workday,1,https://crestnicholson.wd103.myworkdayjobs.com/CN/job/Addlestone/Sales---Marketing-Insights-Intern_JR101083,Simplify,workday :: crestnicholson :: cn
+Cvent,https://careers.cvent.com?icims=1,icims,1,https://careers.cvent.com/jobs/10806?icims=1,Simplify,icims :: jibe :: careers.cvent.com
+Deft AI,https://jobs.ashbyhq.com/deft-ai,ashby,1,https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true,Simplify,ashby :: deft-ai
+Dynamic Catholic,https://jobs.lever.co/dynamiccatholic,lever,2,https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad/apply,Simplify,lever :: dynamiccatholic
+Exelon,https://careers.comed.com?icims=1,icims,1,https://careers.comed.com/jobs/30120?icims=1,Simplify,icims :: jibe :: careers.comed.com
 Fannie Mae,https://jobs.smartrecruiters.com/FannieMae1SB,smartrecruiters,3,https://jobs.smartrecruiters.com/FannieMae1SB/743999744532787,Simplify,smartrecruiters :: fanniemae1sb
 FTI Consulting,https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate,workday,1,https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339,Simplify,workday :: fticonsulting :: fticonsultingcareersprivate
-Garmin,https://careers.garmin.com?icims=1,icims,2,https://careers.garmin.com/jobs/18681?icims=1,Simplify,icims :: jibe :: careers.garmin.com
+Garmin,https://careers.garmin.com?icims=1,icims,7,https://careers.garmin.com/jobs/18681?icims=1,Simplify,icims :: jibe :: careers.garmin.com
 General Dynamics,https://careers-gd-ots.icims.com/jobs/search,icims,2,https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-gd-ots.icims.com
-GrayMatter Robotics,https://jobs.ashbyhq.com/graymatter-robotics,ashby,1,https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true,Simplify,ashby :: graymatter-robotics
-Johns Hopkins Applied Physics Laboratory,https://careers.jhuapl.edu?icims=1,icims,1,https://careers.jhuapl.edu/jobs/59800?icims=1,Simplify,icims :: jibe :: careers.jhuapl.edu
-Maximor AI,https://jobs.ashbyhq.com/maximor,ashby,1,https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true,Simplify,ashby :: maximor
-Maxinsights,https://jobs.ashbyhq.com/maxinsights,ashby,1,https://jobs.ashbyhq.com/maxinsights/afbc425f-9543-460d-8f78-792a8017d060/application?embed=true,Simplify,ashby :: maxinsights
+Humanscale,https://careers-humanscale.icims.com/jobs/search,icims,1,https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-humanscale.icims.com
+Hy-Vee,https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers,workday,3,https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148,Simplify,workday :: hyvee :: hyveecareers
+IAT Insurance Group,https://iatinsurancegroup.wd1.myworkdayjobs.com/iat,workday,1,https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404,Simplify,workday :: iatinsurancegroup :: iat
+Inspiration Commerce Group,https://jobs.ashbyhq.com/inspiration-commerce-group,ashby,1,https://jobs.ashbyhq.com/inspiration-commerce-group/ae338ac1-ab64-492c-a8f3-2ee2f33b488c/application?embed=true,Simplify,ashby :: inspiration-commerce-group
+K2 Space,https://boards.greenhouse.io/k2spacecorporation,greenhouse,3,https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008,Simplify,greenhouse :: k2spacecorporation
+KIHOMAC,https://apply.workable.com/kihomac,workable,1,https://apply.workable.com/kihomac/j/6A6AEC50F9/apply,Simplify,workable :: kihomac
+Kinder Morgan,https://careers.kindermorgan.com?icims=1,icims,2,https://careers.kindermorgan.com/jobs/6032?icims=1,Simplify,icims :: jibe :: careers.kindermorgan.com
+Kokosing,https://kokosing.wd5.myworkdayjobs.com/en-US/Kokosing_External_Career_Site,workday,1,https://kokosing.wd5.myworkdayjobs.com/en-US/Kokosing_External_Career_Site/job/Westerville-OH/Fall-2026-Co-op_R-102048,Simplify,workday :: kokosing :: kokosing_external_career_site
+Loram,https://jobs.smartrecruiters.com/Loram1,smartrecruiters,2,https://jobs.smartrecruiters.com/Loram1/3743990015082845,Simplify,smartrecruiters :: loram1
+Luxium Solutions,https://apply.workable.com/luxium-solutions-llc,workable,1,https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply,Simplify,workable :: luxium-solutions-llc
+M.C. Dean,https://careers.mcdean.com?icims=1,icims,2,https://careers.mcdean.com/jobs/32343?icims=1,Simplify,icims :: jibe :: careers.mcdean.com
+Major League Baseball,https://jobs.lever.co/redsox,lever,1,https://jobs.lever.co/redsox/a5498ff9-824d-463b-89b4-8d68a7d685a8/apply,Simplify,lever :: redsox
+Mary Free Bed Rehabilitation Hospital,https://maryfreebed.wd12.myworkdayjobs.com/mfb,workday,1,https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/IT-Intern---Project-Management_JB102944,Simplify,workday :: maryfreebed :: mfb
 McKesson,https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req,workday,1,https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979,Simplify,workday :: mckesson :: sourcer_on_req
+Mind Robotics,https://jobs.ashbyhq.com/mindrobotics,ashby,1,https://jobs.ashbyhq.com/mindrobotics/27814c7a-7359-4ea7-8d39-bb8ea12f705d/application?embed=true,Simplify,ashby :: mindrobotics
+Mirego,https://jobs.lever.co/mirego,lever,2,https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply,Simplify,lever :: mirego
 Mistral AI,https://jobs.ashbyhq.com/mtesting.ai,ashby,2,https://jobs.ashbyhq.com/mtesting.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true,Simplify,ashby :: mtesting.ai
-Multnomah County,https://multco.wd1.myworkdayjobs.com/multco_jobs,workday,2,https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1,Simplify,workday :: multco :: multco_jobs
 Navy Federal,https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu,oracle_hcm,5,https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776,Simplify,oracle_hcm :: fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com :: en :: nfcu
-Nomagic,https://jobs.lever.co/nomagic,lever,1,https://jobs.lever.co/Nomagic/c7a6445d-3fd8-4bf1-90c0-ec01c2bef2af/apply,Simplify,lever :: nomagic
-Persona AI,https://jobs.ashbyhq.com/persona.ai,ashby,4,https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application,Simplify,ashby :: persona.ai
+Niantic Spatial,https://jobs.ashbyhq.com/niantic-spatial,ashby,1,https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307/application?embed=true,Simplify,ashby :: niantic-spatial
+NJM Insurance Group,https://njm.wd1.myworkdayjobs.com/njm,workday,1,https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190,Simplify,workday :: njm :: njm
+Oceanus Marine Technologies,https://jobs.ashbyhq.com/oceanus,ashby,1,https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application?embed=true,Simplify,ashby :: oceanus
+Odys Aviation,https://jobs.ashbyhq.com/odys-aviation,ashby,1,https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true,Simplify,ashby :: odys-aviation
+Omnicom Group,https://interpublic.wd5.myworkdayjobs.com/omc,workday,1,https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Experience-Design-Intern-Consultant--Design-Engineering-_R14053,Simplify,workday :: interpublic :: omc
+Parkdepot,https://jobs.lever.co/salesdemo-jr,lever,1,https://jobs.lever.co/salesdemo-jr/a5070161-0ed6-4872-b34a-28f90f7fc8c3/apply,Simplify,lever :: salesdemo-jr
+Perry Homes,https://apply.workable.com/perryhomes,workable,3,https://apply.workable.com/perryhomes/j/89E30FE67D/apply,Simplify,workable :: perryhomes
+Persona AI,https://jobs.ashbyhq.com/persona.ai,ashby,5,https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application,Simplify,ashby :: persona.ai
+Pluralis Research,https://jobs.ashbyhq.com/pluralis-research,ashby,1,https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true,Simplify,ashby :: pluralis-research
+POET,https://poet.wd1.myworkdayjobs.com/POET,workday,2,https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679,Simplify,workday :: poet :: poet
+Post Holdings,https://jobs.postholdings.com?icims=1,icims,4,https://jobs.postholdings.com/jobs/31960?icims=1,Simplify,icims :: jibe :: jobs.postholdings.com
 PricewaterhouseCoopers (PwC),https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers,workday,1,https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kingston/Markets-Intern_730763WD,Simplify,workday :: pwc :: global_experienced_careers
-Realm,https://jobs.ashbyhq.com/realmalliance,ashby,1,https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true,Simplify,ashby :: realmalliance
-Rivet Industries,https://jobs.ashbyhq.com/rivet,ashby,1,https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true,Simplify,ashby :: rivet
-Rystad Energy,https://apply.workable.com/rystad-energy,workable,1,https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply,Simplify,workable :: rystad-energy
-S&B Engineers and Constructors,https://taicareers-sbec.icims.com/jobs/search,icims,1,https://taicareers-sbec.icims.com/jobs/14454/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: taicareers-sbec.icims.com
-Sabre Systems,https://careers.sabresystems.com?icims=1,icims,1,https://careers.sabresystems.com/jobs/4759?icims=1,Simplify,icims :: jibe :: careers.sabresystems.com
-Sage,https://boards.greenhouse.io/sage49,greenhouse,2,https://job-boards.greenhouse.io/sage49/jobs/6131185004,Simplify,greenhouse :: sage49
-Somerce,https://apply.workable.com/somerce,workable,1,https://apply.workable.com/somerce/j/DD49E21C54/apply,Simplify,workable :: somerce
-TELUS Digital,https://jobs.ashbyhq.com/telus-digital,ashby,2,https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true,Simplify,ashby :: telus-digital
-The Browser Company,https://jobs.ashbyhq.com/the%20browser%20company,ashby,1,https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true,Simplify,ashby :: the browser company
-Thea Energy,https://jobs.lever.co/thea.energy,lever,1,https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5/apply,Simplify,lever :: thea.energy
+Primer,https://jobs.ashbyhq.com/primer,ashby,1,https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true,Simplify,ashby :: primer
+Principal Financial Group,https://careers.principal.com?icims=1,icims,1,https://careers.principal.com/jobs/52513?icims=1,Simplify,icims :: jibe :: careers.principal.com
+Qualified Health,https://jobs.ashbyhq.com/qualified-health-pbc,ashby,1,https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789/application?embed=true,Simplify,ashby :: qualified-health-pbc
+Ramiel Capital,https://jobs.ashbyhq.com/ramielcapital,ashby,1,https://jobs.ashbyhq.com/ramielcapital/8c57222a-e723-49a6-b9f1-b4628c1da76f/application?embed=true,Simplify,ashby :: ramielcapital
+Red Rabbit Robotics,https://apply.workable.com/red-rabbit-robotics,workable,1,https://apply.workable.com/red-rabbit-robotics/j/5B8938477D/apply,Simplify,workable :: red-rabbit-robotics
+Resonetics,https://careers-resonetics.icims.com/jobs/search,icims,1,https://careers-resonetics.icims.com/jobs/5326/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-resonetics.icims.com
+Riverside Natural Foods,https://boards.greenhouse.io/riversidenaturalfoodsltd,greenhouse,1,https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008,Simplify,greenhouse :: riversidenaturalfoodsltd
+Rockefeller Capital Management,https://careers-rcm.icims.com/jobs/search,icims,3,https://careers-rcm.icims.com/jobs/5480/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-rcm.icims.com
+Shawbrook,https://jobs.smartrecruiters.com/Shawbrook,smartrecruiters,1,https://jobs.smartrecruiters.com/Shawbrook/744000147298303,Simplify,smartrecruiters :: shawbrook
+skillz,https://boards.greenhouse.io/skillzinc,greenhouse,1,https://job-boards.greenhouse.io/skillzinc/jobs/8168006,Simplify,greenhouse :: skillzinc
+Sorting Robotics,https://apply.workable.com/sorting-robotics,workable,1,https://apply.workable.com/sorting-robotics/j/05B01A3981/apply,Simplify,workable :: sorting-robotics
+Southern Star Central Gas Pipeline,https://careers-sscgp.icims.com/jobs/search,icims,2,https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-sscgp.icims.com
+STAG,https://ats.rippling.com/stag-careers/jobs,rippling,1,https://ats.rippling.com/stag-careers/jobs/460b168c-070a-4132-b874-6e5c9323ccaa,Simplify,rippling :: stag-careers
+Star Dental Partners,https://careers-hhsys.icims.com/jobs/search,icims,1,https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-hhsys.icims.com
+State Farm,https://jobs.statefarm.com?icims=1,icims,1,https://jobs.statefarm.com/jobs/45477?icims=1,Simplify,icims :: jibe :: jobs.statefarm.com
+Strattec,https://careers-strattec.icims.com/jobs/search,icims,1,https://careers-strattec.icims.com/jobs/8480/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-strattec.icims.com
+Stryten,https://jobs.stryten.com?icims=1,icims,4,https://jobs.stryten.com/jobs/5808?icims=1,Simplify,icims :: jibe :: jobs.stryten.com
+Syngenta Group,https://jobs.smartrecruiters.com/SyngentaGroup,smartrecruiters,1,https://jobs.smartrecruiters.com/SyngentaGroup/744000146744188,Simplify,smartrecruiters :: syngentagroup
+Tarrant Regional Water District,https://trwd.wd1.myworkdayjobs.com/TRWDCareers,workday,1,https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217,Simplify,workday :: trwd :: trwdcareers
+UnitX,https://jobs.ashbyhq.com/unitxlabs,ashby,1,https://jobs.ashbyhq.com/unitxlabs/4bc69e66-9d39-419b-acf8-32806a7bf9e9/application?embed=true,Simplify,ashby :: unitxlabs
+Universal Health Services,https://jobs.uhsinc.com?icims=1,icims,2,https://jobs.uhsinc.com/jobs/367247?icims=1,Simplify,icims :: jibe :: jobs.uhsinc.com
+Upbring,https://careers-upbring.icims.com/jobs/search,icims,1,https://careers-upbring.icims.com/jobs/7139/job?mobile=true&needsRedirect=false,Simplify,icims :: classic :: careers-upbring.icims.com
+V2X,https://careers.gov2x.com?icims=1,icims,2,https://careers.gov2x.com/jobs/62685?icims=1,Simplify,icims :: jibe :: careers.gov2x.com
+Valon,https://jobs.ashbyhq.com/Valon,ashby,1,https://jobs.ashbyhq.com/Valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application?embed=true,Simplify,ashby :: valon
+Vaxcyte,https://boards.greenhouse.io/vaxcyte,greenhouse,1,https://boards.greenhouse.io/vaxcyte/jobs/5017289008,Simplify,greenhouse :: vaxcyte
+Venerable,https://venerable.wd5.myworkdayjobs.com/venerablecareers,workday,1,https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Product-Management-Co-op_REQ763,Simplify,workday :: venerable :: venerablecareers
+Verdantas,https://verdantas.wd108.myworkdayjobs.com/Verdantas,workday,2,https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128,Simplify,workday :: verdantas :: verdantas
 Visa,https://visa.wd5.myworkdayjobs.com/Visa,workday,1,https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W,Simplify,workday :: visa :: visa
+Western Aircraft,https://jobs.lever.co/westair,lever,1,https://jobs.lever.co/westair/51bc12ff-c76e-42e7-8e79-d7a095de8681/apply,Simplify,lever :: westair
+Williams Racing,https://jobs.smartrecruiters.com/WilliamsRacing,smartrecruiters,3,https://jobs.smartrecruiters.com/WilliamsRacing/744000146956879,Simplify,smartrecruiters :: williamsracing
+Winsupply,https://jobs.smartrecruiters.com/Winsupply1,smartrecruiters,2,https://jobs.smartrecruiters.com/Winsupply1/3743990015014717,Simplify,smartrecruiters :: winsupply1
+ZS,https://jobs.zs.com?icims=1,icims,3,https://jobs.zs.com/jobs/63439?icims=1,Simplify,icims :: jibe :: jobs.zs.com
