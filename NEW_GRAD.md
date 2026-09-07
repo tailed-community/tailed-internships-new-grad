@@ -9,6 +9,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | ACCIONA | Learning & Development graduate - Graduate Program 2027 | Brisbane | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Learning---Development-graduate---Graduate-Program-2027_20101646) | 2026-09-07 |
 | City of Vancouver | Entry Level Police Officer | Not Specified | [Apply](https://cityofvancouver.wd5.myworkdayjobs.com/COV/job/Entry-Level-Police-Officer_24-0029) | 2026-09-07 |
+| Eurofins | Laboratory Technician/Assistant – Entry Level (Graduates Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147701839) | 2026-09-07 |
 | General Motors | TRACK: Entry-Level – Global Purchasing & Supply Chain (GPSC) Rotational Program | Michigan, United States | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/TRACK--Entry-Level---Global-Purchasing---Supply-Chain--GPSC--Rotational-Program_JR-202617450) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse | Saginaw, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Saginaw-MI/New-Grad-Registered-Nurse_JB100773) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse (RN) - Inpatient Acute Care | Grand Rapids, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/New-Grad-Registered-Nurse--RN----Inpatient-Acute-Care_JB103015) | 2026-09-07 |
@@ -95,7 +96,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer (ESSP) | Freeport, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94576) | 2026-09-05 |
 | WSP | Early Career Structural Engineer - Buildings | Boston, MA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94677) | 2026-09-05 |
 | AECOM | Entry Level Civil Engineer | Waterloo, IA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147533960) | 2026-09-04 |
-| AECOM | Entry Level Roadway Engineer | Ridgeland, MS, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147337468) | 2026-09-04 |
 | AECOM | Entry-Level Aviation Specialist - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147530509) | 2026-09-04 |
 | AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147343364) | 2026-09-04 |
 | AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147389480) | 2026-09-04 |
@@ -1480,7 +1480,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry Level - Field Construction Technician | Kaukauna, WI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14898) | 2026-06-13 |
 | Intertek | Entry Level Field Technician 1 - Construction Materials Testing | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14753) | 2026-06-13 |
 | Intertek | Entry Level Field Technician I - Construction Materials Testing | Plymouth, MI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14731) | 2026-06-13 |
-| Jobs for Humanity | Entry-Level Contact Center Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000124101164) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
 | NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) | 2026-06-13 |
