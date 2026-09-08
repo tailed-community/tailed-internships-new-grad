@@ -484104,5 +484104,19 @@
     "date_added": "2026-07-06",
     "active": false,
     "date_archived": "2026-09-08"
+  },
+  {
+    "id": "lever-toyota-research-institute-186808f9-464c-4f22-9d7d-4372ef272ff0",
+    "company": "Toyota Research Institute",
+    "title": "Robotics Research Intern - Post-Training",
+    "location": "Los Altos, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0",
+    "date_posted": "2026-08-17",
+    "date_added": "2026-08-18",
+    "active": false,
+    "date_archived": "2026-09-08"
   }
 ]
