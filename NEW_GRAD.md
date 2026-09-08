@@ -24,7 +24,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | Jacksonville, FL - Land/Site Development, New Grad | Jacksonville | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417935008) | 2026-09-08 |
 | BGE - bgeinc | SARASOTA - Land/Site Development, New Grad | Sarasota | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417941008) | 2026-09-08 |
 | BGE - bgeinc | WEST PALM BEACH - Land/Site Development, New Grad | Palm Beach Gardens | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417939008) | 2026-09-08 |
+| Cummins | 2027 Early Career - Electronic Systems Engineer - Software | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437612) | 2026-09-08 |
 | General Dynamics Mission Systems | Mechanical Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/74728/mechanical-engineer-%e2%80%93-entry-level/job) | 2026-09-08 |
+| GHD | GHD Graduate Program 2026/27 - Engagement & Communication - Perth | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28647) | 2026-09-08 |
 | ID.me | Summer 2027 - Data Scientist (New Grad) | Mountain View, Canada | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) | 2026-09-08 |
 | ID.me | Summer 2027 - General Program (New Grad) | Mountain View, Canada | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986696003) | 2026-09-08 |
 | Kyndryl | Graduate Program - Systems Administration- Technical Specialist | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Systems-Administration--Technical-Specialist_R-65540-1) | 2026-09-08 |
@@ -237,7 +239,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | 2027 Early Career - Combustion and Emissions Systems Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435671) | 2026-09-03 |
 | Cummins | 2027 Early Career - Customer Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436104) | 2026-09-03 |
 | Cummins | 2027 Early Career - Electronic Systems Controls Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434745) | 2026-09-03 |
-| Cummins | 2027 Early Career - Electronic Systems Engineer - Software | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437219) | 2026-09-03 |
 | Cummins | 2027 Early Career - Electronic Systems Product Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437103) | 2026-09-03 |
 | Cummins | 2027 Early Career - Engineer - Auto Test | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437212) | 2026-09-03 |
 | Cummins | 2027 Early Career - Engineer - Software Integration | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437110) | 2026-09-03 |
