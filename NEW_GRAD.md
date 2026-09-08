@@ -24,6 +24,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | Jacksonville, FL - Land/Site Development, New Grad | Jacksonville | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417935008) | 2026-09-08 |
 | BGE - bgeinc | SARASOTA - Land/Site Development, New Grad | Sarasota | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417941008) | 2026-09-08 |
 | BGE - bgeinc | WEST PALM BEACH - Land/Site Development, New Grad | Palm Beach Gardens | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5417939008) | 2026-09-08 |
+| General Dynamics Mission Systems | Mechanical Engineer – Entry Level | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/74728/mechanical-engineer-%e2%80%93-entry-level/job) | 2026-09-08 |
 | ID.me | Summer 2027 - Data Scientist (New Grad) | Mountain View, Canada | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) | 2026-09-08 |
 | ID.me | Summer 2027 - General Program (New Grad) | Mountain View, Canada | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986696003) | 2026-09-08 |
 | Kyndryl | Graduate Program - Systems Administration- Technical Specialist | Mexico | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Mexico-City-Distrito-Federal-Mexico/Graduate-Program---Systems-Administration--Technical-Specialist_R-65540-1) | 2026-09-08 |
