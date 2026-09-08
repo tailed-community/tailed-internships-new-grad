@@ -9,6 +9,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | Accenture | Entry Level Advisory Development Program - Process Excellence Summer Analyst - NAELFY27 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Entry-Level-Advisory-Development-Program---Process-Excellence-Summer-Analyst---NAELFY27_R00354373) | 2026-09-08 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Progressive Care Unit | Aurora Medical Center Grafton 975 Port Washington Rd | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Grafton---975-Port-Washington-Rd/New-Graduate-Registered-Nurse--RN----Progressive-Care-Unit_R270740) | 2026-09-08 |
+| AECOM | Entry-Level Civil Engineer -  Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148232079) | 2026-09-08 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148254963) | 2026-09-08 |
+| AECOM | Entry-Level Design Engineer - Water - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148217578) | 2026-09-08 |
 | AutoNation | ENTRY LEVEL TECHNICIAN | Mercedes-Benz Of Miami | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Mercedes-Benz-of-Miami/ENTRY-LEVEL-TECHNICIAN_JR2026148430) | 2026-09-08 |
 | Banner Health | Registered Nurse RN New Graduate Adult Acute Care | Banner Ocotillo Med Ctr (1405 S Alma School Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Ocotillo-Med-Ctr-1405-S-Alma-School-Rd/Registered-Nurse-RN-New-Graduate-Adult-Acute-Care_R4453703) | 2026-09-08 |
 | Banner Health | Registered Nurse RN New Graduate Neuro Progressive Care PCU | Banner Desert Med Ctr (1400 S Dobson Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Desert-Med-Ctr-1400-S-Dobson-Rd/Registered-Nurse-RN-New-Graduate-Neuro-Progressive-Care-PCU_R4452154) | 2026-09-08 |
@@ -34,6 +37,14 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medtronic | Early Career Opportunities- Medtronic Manufacturing | Singapore | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Singapore-Singapore-Singapore/Early-Career-Opportunities--Medtronic-Manufacturing_R76373) | 2026-09-08 |
 | Medtronic - MedtronicCareers | Early Career Opportunities- Medtronic Manufacturing | Singapore | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Early-Career-Opportunities--Medtronic-Manufacturing_R76373-1) | 2026-09-08 |
 | Monolithic Power Systems | Software Engineer - New Grad | Spain | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Plano, TX, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148245172) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Ellicott City, MD, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148245429) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148241169) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Virginia Beach, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148238570) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Charlottesville, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148234264) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Prince George, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148226290) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148225620) | 2026-09-08 |
+| Timmons Group | New Graduate Civil Project Engineer I | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148224789) | 2026-09-08 |
 | Wells Fargo | 2027 Commercial Banking Early Career Development Program (CA/CO) | Los Angeles, Canada / San Diego, Canada | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/LOS-ANGELES-CA/XMLNAME-2027-Commercial-Banking-Early-Career-Development-Program--CA-CO-_R-572757) | 2026-09-08 |
 | Wells Fargo | 2027 Commercial Banking Early Career Development Program | Charlotte, NC / Boston, MA / Atlanta, GA / Irving, TX / Minneapolis, MN / Houston, TX / Chicago, IL | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Commercial-Banking-Early-Career-Development-Program_R-572756) | 2026-09-08 |
 | ACCIONA | Learning & Development graduate - Graduate Program 2027 | Brisbane | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Learning---Development-graduate---Graduate-Program-2027_20101646) | 2026-09-07 |
@@ -208,7 +219,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry Level Geotechnical Engineer - Networking Event with AECOM – New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147036909) | 2026-09-03 |
 | AECOM | Entry-Level Architectural Designer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147085949) | 2026-09-03 |
 | AECOM | Entry-Level Architectural Designer - Hiring Event with AECOM - New York City | Bloomfield, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147085690) | 2026-09-03 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147042380) | 2026-09-03 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147042808) | 2026-09-03 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147086809) | 2026-09-03 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147085235) | 2026-09-03 |
@@ -319,7 +329,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Clarivate | IP Renewals Analyst (Entry level) | R155-Belgrade | [Apply](https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/R155-Belgrade/IP-Renewals-Analyst--Entry-level-_JREQ136406-1) | 2026-09-02 |
 | Equifax - external | Product Associate (Entry Level) | Aus-Sydney-Blue-Street | [Apply](https://equifax.wd5.myworkdayjobs.com/external/job/AUS-Sydney-Blue-Street/Product-Analyst_J00177645) | 2026-09-02 |
 | Eurofins | Entry Level Analytical Chemist | Groton, CT, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000146994905) | 2026-09-02 |
-| Eurofins | Entry Level Microbiologist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000146800976) | 2026-09-02 |
 | Experian | Graduate Program in Technology & Analytics - (Expression of Interest) | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000146915119) | 2026-09-02 |
 | Generac | Entry Level Electrical Design Engineer – Switchgear & Generator Control Systems | USA Il East Peoria | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/USA---IL-East-Peoria/Entry-Level-Electrical-Design-Engineer---Switchgear---Generator-Control-Systems_JR15958) | 2026-09-02 |
 | General Dynamics | Pipefitter - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20553/pipefitter---entry-level-and-skilled/job) | 2026-09-02 |
@@ -1479,7 +1488,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Collabera | Entry Level Engineer | Princeton, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82343701) | 2026-06-13 |
 | Collabera | Entry Level Engineer | Phoenix, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Collabera2/82246178) | 2026-06-13 |
 | Comtech | Recruiter (Entry Level/Freshers) | Reston, VA, United States | [Apply](https://jobs.smartrecruiters.com/ComtechLLC2/110097018) | 2026-06-13 |
-| Egis Group | UAE National Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000097971076) | 2026-06-13 |
 | Fortinet | New Grad 2026 (Canada) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817) | 2026-06-13 |
 | Fortinet | New Grads 2026 (US) | Sunnyvale, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 2026-06-13 |
 | GHD | Entry-Level Environmental Technician | Borger, TX, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26268) | 2026-06-13 |
@@ -1491,7 +1499,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry Level Field Technician I - Construction Materials Testing | Plymouth, MI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14731) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
 | MSX International | New Graduates in Economics | Italy | [Apply](https://jobs.smartrecruiters.com/MSXInternational/3743990013492106) | 2026-06-13 |
-| NielsenIQ | NIQ Early Career Program: Alternance - Chargé d’Administration du Personnel junior F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000130397825) | 2026-06-13 |
 | RESPEC | Early Career Water Resources Engineer | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000103073456) | 2026-06-13 |
 | RESPEC | Early Career Water Resources Engineer | Sarasota, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000102682055) | 2026-06-13 |
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) | 2026-06-13 |
