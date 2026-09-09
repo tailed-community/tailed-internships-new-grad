@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Applied Intuition | Electrical System Integration Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e) | 2026-09-09 |
+| Applied Intuition | Mechanical Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | 2026-09-09 |
 | AutoNation | Automotive Entry Level Technician | Autonation Toyota Pinellas Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Pinellas-Park/Automotive-Entry-Level-Technician_JR2026148882) | 2026-09-09 |
 | Baldwin Group | Entry Level Insurance Sales - Personal Lines | Florida, United States | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boca-Raton-Florida-US/Entry-Level-Insurance-Sales---Personal-Lines_JR110162) | 2026-09-09 |
 | Barr | GIS Specialist – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hybrid-_R-102332-1) | 2026-09-09 |
