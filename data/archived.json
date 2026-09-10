@@ -499434,5 +499434,19 @@
     "date_added": "2026-09-04",
     "active": false,
     "date_archived": "2026-09-10"
+  },
+  {
+    "id": "rippling-capacity-fe15a314-75d1-4355-8e80-31de902d6d58",
+    "company": "Capacity",
+    "title": "Speech Technology Research Intern",
+    "location": "Edinburgh, United Kingdom",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/capacity/jobs/fe15a314-75d1-4355-8e80-31de902d6d58",
+    "date_posted": null,
+    "date_added": "2026-08-24",
+    "active": false,
+    "date_archived": "2026-09-10"
   }
 ]
