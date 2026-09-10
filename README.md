@@ -1116,6 +1116,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wade Trim | Engineer Summer Intern - #3055 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/ee355c3b-45d4-45d8-94a1-d394fe7af258) | 2026-09-10 |
 | Wade Trim | Engineer Summer Intern - #3056 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/2d2a0593-7e26-4cbc-aabe-db6ce0cd351e) | 2026-09-10 |
 | Wade Trim | Landscape Architect Summer Intern - #3025 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b91daf5c-85dd-4714-9a92-cb1a81edb359) | 2026-09-10 |
+| WallStreetQuants | Quantitative Researcher - Internship | New York, United States | [Apply](https://apply.workable.com/wallstreetquants/j/494E392FD3/) | 2026-09-10 |
+| WallStreetQuants | Quantitative Trading Intern | Florida, United States | [Apply](https://apply.workable.com/wallstreetquants/j/8CB119E789/) | 2026-09-10 |
 | Wash U | Student Life Coordinator - Office of Student Life | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Office-of-Student-Life-Coordinator---Office-of-Student-Life_JR97278) | 2026-09-10 |
 | WebFX | Digital Marketing Strategy & Analytics Internship | Harrisburg, PA | [Apply](https://jobs.lever.co/webfx/1385c482-b61c-4559-ad60-32f981f9ef2f) | 2026-09-10 |
 | Wells Fargo | 2026 CIB Commercial Real Estate Internship Program – Early Careers​ | India | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/Bengaluru-India/XMLNAME-2026-CIB-Commercial-Real-Estate-Internship-Program---Early-Careers-_R-571924) | 2026-09-10 |
@@ -9290,6 +9292,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RSM | International Tax Transfer Pricing Intern - Summer 2027 | Mclean | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/International-Tax-Transfer-Pricing-Intern---Summer-2027_JR120930) | 2026-08-31 |
 | RSM | State and Local Tax Intern – Summer 2027 | Mclean | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/McLean/State-and-Local-Tax-Intern---Summer-2027_JR115810-1) | 2026-08-31 |
 | RTX - Private_Posting_No_TMP | Electrical Production Support Engineer Intern (Summer 2027) | US-Az-Tucson-801 ~ 1151 E Hermans Rd ~ Bldg 801 (external Site) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115) | 2026-08-31 |
+| Rystad Energy | Analyst Intern - Summer 2027 | Norway | [Apply](https://apply.workable.com/rystad-energy/j/6EE4FE3309/) | 2026-08-31 |
+| Rystad Energy | Analyst Intern - Summer 2027 | Texas, United States | [Apply](https://apply.workable.com/rystad-energy/j/74A4CBBC6B/) | 2026-08-31 |
+| Rystad Energy | Management Consultant Intern - Summer 2027 | Norway | [Apply](https://apply.workable.com/rystad-energy/j/F9E04CBB04/) | 2026-08-31 |
+| Rystad Energy | Management Consulting Intern (Energy) - Summer 2027 | New York, United States | [Apply](https://apply.workable.com/rystad-energy/j/2D5685A54E/) | 2026-08-31 |
+| Rystad Energy | Management Consulting Intern (Energy) - Summer 2027 | Texas, United States | [Apply](https://apply.workable.com/rystad-energy/j/2260A1891E/) | 2026-08-31 |
+| Rystad Energy | Technology Intern 2027 | Norway | [Apply](https://apply.workable.com/rystad-energy/j/E28E161025/) | 2026-08-31 |
 | S&B Engineers and Constructors | Intern, Naval Architect - New Orleans, LA | New Orleans, LA, United States | [Apply](https://taicareers-sbec.icims.com/jobs/14187/intern%2c-naval-architect---new-orleans%2c-la/job) | 2026-08-31 |
 | S&B Engineers and Constructors | Intern, Structural Engineer - Houston, TX | Houston, TX, United States | [Apply](https://taicareers-sbec.icims.com/jobs/14191/intern%2c-structural-engineer---houston%2c-tx/job) | 2026-08-31 |
 | S&B Engineers and Constructors | Intern, Structural Engineer - New Orleans, LA | New Orleans, LA, United States | [Apply](https://taicareers-sbec.icims.com/jobs/14189/intern%2c-structural-engineer---new-orleans%2c-la/job) | 2026-08-31 |
@@ -12859,6 +12867,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Occidental Petroleum Corporation (Oxy) | Petrophysics Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Petrophysics-Intern_JR110283) | 2026-08-19 |
 | Occidental Petroleum Corporation (Oxy) | Reservoir Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Reservoir-Intern_JR110284) | 2026-08-19 |
 | Occidental Petroleum Corporation (Oxy) | Supply Chain Intern | Not Specified | [Apply](https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Supply-Chain-Intern_JR110272) | 2026-08-19 |
+| OceanComm | Electronics Technician Intern | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/AB7EE4F02B/) | 2026-08-19 |
+| OceanComm | Engineering Intern / Co-op | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/78353F7951/) | 2026-08-19 |
 | Pennsylvania State University | Part-Time Student Competitive Sports Supervisor - Campus Recreation | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Competitive-Sports-Supervisor---Campus-Recreation_REQ_0000074365-1) | 2026-08-19 |
 | Philips | Internship Packaging | Drachten | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Drachten/Internship-Packaging_590459) | 2026-08-19 |
 | PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | Tx USA | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | 2026-08-19 |
@@ -18273,6 +18283,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cotiviti | Intern - Generative AI Research Engineer | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/19341/intern---generative-ai-research-engineer/job) | 2026-06-15 |
 | Disney | Scheduling Intern | Portugal | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lisbon-Portugal/Scheduling-Intern_10152374) | 2026-06-15 |
 | Elekta | Service Operations Intern | Istanbul | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) | 2026-06-15 |
+| Eluvio | Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal) | California, United States | [Apply](https://apply.workable.com/eluvio/j/F70F3473E7/) | 2026-06-15 |
 | Hitachi | Summer intern for HVDC Control & Protection | China | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Summer-intern-for-HVDC-Control---Protection_R0133316) | 2026-06-15 |
 | International Rescue Committee (IRC) | NYSA Photography Teaching Assistant Intern (Unpaid) | Ny Rai USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York-NY-RAI-USA/NYSA-Photography-Teaching-Assistant-Intern--Unpaid-_JR00003704-1) | 2026-06-15 |
 | Larian Studios | Level Design Internship | Gent | [Apply](https://jobs.lever.co/larian/27fc755d-40b6-43b9-b58a-3ca3ebb01fc7) | 2026-06-15 |
