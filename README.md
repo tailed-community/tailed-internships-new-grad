@@ -81,6 +81,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AltaGas | AltaGas - 2027 Finance Intern | Calgary, AB | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Finance-Intern_R7243) | 2026-09-11 |
 | Amentum | Intern - GN&C Spring Intern | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) | 2026-09-11 |
 | American Century Investments | Personal Financial Solutions Intern | Missouri | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Personal-Financial-Solutions-Intern_R0005719) | 2026-09-11 |
+| American Rare Earths | Engineering Intern | Stillwater, OK | [Apply](https://ats.rippling.com/usare/jobs/1a62e20c-2b6e-40bd-8e1b-652ac5c37d1e) | 2026-09-11 |
 | AMERICAN SYSTEMS | SkillBridge Industrial/Personnel Security Intern (Transitioning Military) | Not Specified | [Apply](https://careers-americansystems.icims.com/jobs/4932/skillbridge-industrial-personnel-security-intern-%28transitioning-military%29/job) | 2026-09-11 |
 | American University | Administrative Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Administrative-Assistant--Student-_R4886) | 2026-09-11 |
 | American University | Athletics Marketing and Ticket Sales (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Athletics-Marketing-and-Ticket-Sales--Student---FWS-_R4888) | 2026-09-11 |

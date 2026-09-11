@@ -48,6 +48,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ICF International | Project Researcher (Remote, Entry Level) | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Project-Researcher_R2603042) | 2026-09-11 |
 | Intermountain Healthcare | RN New Grad | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/RN-New-Grad_R181614) | 2026-09-11 |
 | Multnomah County | New Grad Community Health Nurse (Additional 12% Corrections Nursing Premium)  ( | Portland, OR | [Apply](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/New-Grad-Community-Health-Nurse--Additional-12--Corrections-Nursing-Premium----_R-20047) | 2026-09-11 |
+| Nerdio | Solutions Engineer (Early Career) | United States Remote | [Apply](https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67) | 2026-09-11 |
 | Novartis | Early Career Associate | Prague | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Prague/Early-Career-Associate_REQ-10087335-1) | 2026-09-11 |
 | Olsson | Entry-Level Construction Technician | Grand Island, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5393834008) | 2026-09-11 |
 | Olsson | Entry-Level Engineer - Water/Wastewater | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420753008) | 2026-09-11 |
