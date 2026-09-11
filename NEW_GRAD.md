@@ -160,10 +160,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
 | Veolia | Graduate Program Ingenieros/as | Barcelona, CT | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148766494) | 2026-09-10 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3040 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/b0084dcc-892e-4d64-854c-8a84dac48a39) | 2026-09-10 |
-| WallStreetQuants | Entry-Level Quantitative Developer | United States Remote | [Apply](https://apply.workable.com/wallstreetquants/j/AA3FB20456/) | 2026-09-10 |
-| WallStreetQuants | New Grad Full-Time Quantitative Researcher | England, United Kingdom | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/) | 2026-09-10 |
-| WallStreetQuants | New Grad Full-Time Quantitative Trader | Illinois, United States | [Apply](https://apply.workable.com/wallstreetquants/j/615D982644/) | 2026-09-10 |
-| WallStreetQuants | New Grad Full-Time Quantitative Trader | New York, United States | [Apply](https://apply.workable.com/wallstreetquants/j/C611D9282B/) | 2026-09-10 |
 | WSP | Early Career - Building Technology Systems | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94957) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94694) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94860) | 2026-09-10 |
@@ -688,7 +684,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | RELX | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January) | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1) | 2026-08-31 |
 | RELX | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June) | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2) | 2026-08-31 |
 | RELX | Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June) | Boca Raton, FL | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023) | 2026-08-31 |
-| Rystad Energy | Marketing Graduate Program - Summer 2027 | Norway | [Apply](https://apply.workable.com/rystad-energy/j/7CF7893FC4/) | 2026-08-31 |
 | Waste Connections | Entry Level Sales Rep | 6501-Georgia Hauling | [Apply](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6501-Georgia-Hauling/Entry-Level-Sales-Rep_R-103216) | 2026-08-31 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) \| 3E- Academic Med/Surg | Macon, GA | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/New-Graduate-Registered-Nurse--RN----3E--Academic-Med-Surg_R270065) | 2026-08-30 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) \| 3W- Renal Dialysis | Macon, GA | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/New-Graduate-Registered-Nurse--RN----3W--Renal-Dialysis_R270049) | 2026-08-30 |
