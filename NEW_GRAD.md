@@ -719,7 +719,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Calgary | Calgary, AB | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Calgary-AB/Associate--Commercial-Banking-Associate-Program---New-Grad---Calgary_2617869) | 2026-08-28 |
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Edmonton | Edmonton, AB | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Edmonton-AB/Associate--Commercial-Banking-Associate-Program---New-Grad---Edmonton_2617818) | 2026-08-28 |
 | Cox | Entry Level Mobile Diesel Mechanic | Hillsborough Nj | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Hillsborough-NJ/Entry-Level-Mobile-Diesel-Mechanic_R202681894) | 2026-08-28 |
-| Daniels Health | Early Career Machine Operator - 2nd Shift Blow Mold | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/2579e1a9-de9a-4a6e-84ea-83b87b5bab47) | 2026-08-28 |
 | Eight Sleep | Electrical Engineer (New Grad / Spring 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294) | 2026-08-28 |
 | Eight Sleep | Mechanical Engineer (New Grad / Spring 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96) | 2026-08-28 |
 | Eurofins | Entry Level Business Support Specialist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000146177900) | 2026-08-28 |
