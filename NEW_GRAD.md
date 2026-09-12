@@ -27,6 +27,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Certik | Financial Analyst (Entry-Level) | New York / Remote | [Apply](https://jobs.lever.co/certik/7d25f5e8-2fed-412c-b182-6568a491483e) | 2026-09-12 |
 | Cleveland Clinic | New Grad RN Resident - Pediatric ICU | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Pediatric-ICU_351516) | 2026-09-12 |
 | Cleveland Clinic | New Grad RN Resident – Urology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Urology_332340) | 2026-09-12 |
+| DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5422505008) | 2026-09-12 |
 | GE Vernova | Entry Level Industrial Plumber/Steamfitter-1 | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/Entry-Level-Industrial-Plumber-Steamfitter-1_R5052343) | 2026-09-12 |
 | GE Vernova - vernova_externalsite | Entry Level Industrial Plumber/Steamfitter-1 | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/Entry-Level-Industrial-Plumber-Steamfitter-1_R5052343-1) | 2026-09-12 |
 | General Motors | Entry-Level Manufacturing Controls/Electrical Engineer | Ohio, United States / New York, United States / Michigan, United States / Indiana, United States / Stpg | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Defiance-Ohio-United-States-of-America/Entry-Level-Manufacturing-Controls-Electrical-Engineer_JR-202620159) | 2026-09-12 |
@@ -42,6 +43,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LabCorp | Specimen Accessioner - Entry level, will train! | San Francisco CA | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Specimen-Accessioner---Entry-level--will-train-_2630526) | 2026-09-12 |
 | NXP Semiconductors | Entry Level Semiconductor Test Engineer | Chandler (office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1) | 2026-09-12 |
 | Sentara Health | Registered Nurse (RN) - Burn Trauma Intermediate Care - Med/Surg (New Grads) | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--RN----Burn-Trauma-Intermediate-Care---Med-Surg_JR-105915-1) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | Washington, DC | [Apply](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | 2026-09-12 |
 | Taylor Corporation | Order Picker (Entry Level) | Not Specified | [Apply](https://taylor.wd1.myworkdayjobs.com/external/job/Grove-City-OH---Taylor-Corporation/Order-Picker--Entry-Level-_R29822) | 2026-09-12 |
 | Accenture | Entry Level Supply Chain and Engineering - Joshua Tree Group Process Excellence Summer Analyst - Houston - NAELFY27 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/Entry-Level-Supply-Chain-and-Engineering---Joshua-Tree-Group-Process-Excellence-Summer-Analyst---Houston---NAELFY27_R00356105) | 2026-09-11 |
 | Accenture | Entry Level Technology Summer Analyst - Various Locations - NAELFY27 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981) | 2026-09-11 |
@@ -84,9 +88,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Nerdio | Solutions Engineer (Early Career) | United States Remote | [Apply](https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67) | 2026-09-11 |
 | Novartis | Early Career Associate | Prague | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Prague/Early-Career-Associate_REQ-10087335-1) | 2026-09-11 |
 | Olsson | Entry-Level Construction Technician | Grand Island, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5393834008) | 2026-09-11 |
+| Olsson | Entry-Level Engineer - Water/Wastewater | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420759008) | 2026-09-11 |
 | Olsson | Entry-Level Engineer - Water/Wastewater | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420753008) | 2026-09-11 |
 | Olsson | Entry-Level Engineer - Water/Wastewater | Fayetteville, AR | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420715008) | 2026-09-11 |
-| Olsson | Entry-Level Engineer - Water/Wastewater | North Kansas City, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420759008) | 2026-09-11 |
 | Olsson | Entry-Level Rail Engineer (EIT) - Construction Management | Dallas, TX / Fayetteville, AR / Fort Worth, TX / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Omaha, NE / Overland Park, KS / Phoenix, AZ / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5421145008) | 2026-09-11 |
 | Plante Moran | 2027 Winter Digital Transformation Services Entry Level Consultant | Columbus / Southfield | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Columbus/XMLNAME-2027-Winter-Digital-Transformation-Services-Entry-Level-Consultant_JR-03347) | 2026-09-11 |
 | Salesforce | Finance Pathways Rotation Analyst (Early Career) | Georgia Atlanta / Washington Seattle / California San Francisco | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359807-2) | 2026-09-11 |
@@ -642,10 +646,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sierra | APX (New Grad 2027) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015) | 2026-09-01 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8128744) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8157838) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad - Frontend | Barcelona | [Apply](https://stripe.com/jobs/search?gh_jid=8130927) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Dallas/Richardson, TX) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017480) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Lehi, UT) | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017481) | 2026-09-01 |
@@ -920,9 +924,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Framatome | Early Career Electrical Engineer - Site Projects Engineering | Onsite | [Apply](https://careers-framatome.icims.com/jobs/3014/early-career-electrical-engineer---site-projects-engineering/job) | 2026-08-24 |
 | Framatome | Entry Level Reactor Services Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2389/entry-level-reactor-services-technician/job) | 2026-08-24 |
 | General Matter | Chemical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375916008) | 2026-08-24 |
+| General Matter | Electrical Design Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375939008) | 2026-08-24 |
 | General Matter | Electrical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375934008) | 2026-08-24 |
 | General Matter | Electrical Engineer - Buildings (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375921008) | 2026-08-24 |
-| General Matter | Electrical I&C Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375939008) | 2026-08-24 |
 | General Matter | Manufacturing Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375941008) | 2026-08-24 |
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
 | General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
@@ -1073,11 +1077,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software  - '26/'27  (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 2026-08-15 |
@@ -1213,6 +1217,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Generac | Sales Development Representative (Entry Level) | Fl USA / Mo USA / Sc USA / Nc USA / Il USA / Al USA / Co USA / Tx USA / In USA / Ga USA / Oh USA / Ok USA / Az USA / Tn USA / Mn USA | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Orlando-FL---USA/Sales-Development-Representative_JR15460) | 2026-08-06 |
 | Highmark Health | RN - Telemetry/Medical Surgical (New Grad) Canonsburg | Canonsburg Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Canonsburg-PA-15317-100-Medical-Blvd/RN---Telemetry-Medical-Surgical--New-Grad--Canonsburg_J281378) | 2026-08-06 |
 | LPL Financial Holdings - university | New Grad Summer 2027 - Financial Service Professional (Tempe) | Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Tempe/New-Grad-Sumer-2027---Financial-Service-Professional--Tempe-_R-052611) | 2026-08-06 |
+| mthree | Entry Level Full-Stack Developer | Canada | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006) | 2026-08-06 |
 | Muon Space | Software Engineer, Entry-Level | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5204498007) | 2026-08-06 |
 | NewYork-Presbyterian | Physician Assistant I - Neurocritical Care ICU - Nights - NYP/Queens Medical Group (New Grads Welcome to Apply!) | Nyp / Queens Medical Group | [Apply](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPQueens-Medical-Group/Physician-Assistant-I---Neurocritical-Care-ICU---Nights---NYP-Queens-Medical-Group--New-Grads-Welcome-to-Apply--_00885695) | 2026-08-06 |
 | Olsson | Entry-Level Bridge Engineer | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5381192008) | 2026-08-06 |
@@ -1225,7 +1230,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – General Medicine/Geriatric Medicine | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---General-Medicine-Geriatric-Medicine_336538-1) | 2026-08-05 |
 | Cleveland Clinic | New Grad RN Resident – ICU | Euclid Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Euclid-Hospital/New-Grad-RN-Resident---ICU_345432) | 2026-08-05 |
 | Cleveland Clinic | New Grad RN Resident – Leukemia Unit | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Leukemia-Unit_349036-1) | 2026-08-05 |
-| DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5365944008) | 2026-08-05 |
 | ERM | Consulting Associate (Entry Level) | Brazil | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Salvador-Brazil/Consulting-Associate--Entry-Level-_R00031467) | 2026-08-05 |
 | MaineGeneral Health | 2 West - MedSurg Registered Nurse (RN) - 30 hours/week *NEW GRADUATES WELCOME!* | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---MedSurg-Registered-Nurse--RN----30-hours-week--NEW-GRADUATES-WELCOME--_R17035) | 2026-08-05 |
 | Olsson | Entry-Level Transportation Engineer - Roadway | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5370606008) | 2026-08-05 |
