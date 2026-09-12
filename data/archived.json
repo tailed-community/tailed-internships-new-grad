@@ -510494,5 +510494,33 @@
     "date_added": "2026-09-10",
     "active": false,
     "date_archived": "2026-09-12"
+  },
+  {
+    "id": "lever-eq-bank-c4f2b0e3-e9a9-4824-9c15-9f421a89405d",
+    "company": "EQ Bank",
+    "title": "Intern - Credit Risk, Winter 2027",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank/c4f2b0e3-e9a9-4824-9c15-9f421a89405d",
+    "date_posted": "2026-09-09",
+    "date_added": "2026-09-10",
+    "active": false,
+    "date_archived": "2026-09-12"
+  },
+  {
+    "id": "lever-eq-bank-402c7669-ebcc-412d-99b8-2a711ed425d0",
+    "company": "EQ Bank",
+    "title": "Intern, Business Analyst",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank/402c7669-ebcc-412d-99b8-2a711ed425d0",
+    "date_posted": "2026-06-03",
+    "date_added": "2026-06-03",
+    "active": false,
+    "date_archived": "2026-09-12"
   }
 ]

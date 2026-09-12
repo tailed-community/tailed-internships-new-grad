@@ -169,6 +169,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Finance Intern | Buenos Aires | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Buenos-Aires/Finance-Intern_R1131379) | 2026-09-12 |
 | DigiKey | Product Management & Supplier Development Intern | Thief River Falls, MN | [Apply](https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829) | 2026-09-12 |
 | Draper | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) | 2026-09-12 |
+| E-Space | E-Space 2027 Summer Internship, Arlington TX | Arlington, TX | [Apply](https://jobs.lever.co/espace/296ec3b9-550d-440a-a2c4-1e8fc6dd648b) | 2026-09-12 |
 | Ecolab | Intern | Col Cundinamarca Bogota | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/COL---Cundinamarca---Bogota/Practicante-de-Servicios-Administrativos-y-Atencin-Corporativa---Bogot_R00301684) | 2026-09-12 |
 | Elanco | Engineering Intern – Fort Dodge, Iowa (Summer 2027) | Fort Dodge, IA | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Fort-Dodge-IA/Engineering-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027172) | 2026-09-12 |
 | Elanco | Operational Excellence Intern – Fort Dodge, Iowa (Summer 2027) | Fort Dodge, IA | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Fort-Dodge-IA/Operational-Excellence-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027171) | 2026-09-12 |
@@ -176,6 +177,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | EMC Insurance | Intern- Data Science | Iowa | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524) | 2026-09-12 |
 | Entegris | Designer/Drafter Co-Op | San Luis Obispo, Canada | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Designer-Drafter-Co-Op_REQ-14428-1) | 2026-09-12 |
 | Entegris | Technical Training Co-Op | Chaska, MN | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Technical-Training-Co-Op_REQ-14459) | 2026-09-12 |
+| EQ Bank | Intern - Credit Risk, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/138a3759-3f62-4e02-bfec-67eb06d92523) | 2026-09-12 |
+| EQ Bank | Intern - Funding Support, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/cdf5273c-94ee-4254-b20d-b8721b91df06) | 2026-09-12 |
+| EQ Bank | Intern - Residential Lending Strategy, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/4bca636d-a14c-4aa5-aa68-6383710a9d02) | 2026-09-12 |
 | Erickson Senior Living | Corporate IT Intern | Baltimore, MD | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/College-Intern-Corporate_R0103863-1) | 2026-09-12 |
 | Essity | Brand Intern Regio | Mexico | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Santa-Fe-Ciudad-de-Mxico--Mexico/Brand-Intern-Regio_Essity265338) | 2026-09-12 |
 | Faith Technologies - fti | Construction Management Intern- Arizona Summer 2027 | Az Phoenix / Az Glendale / Az Mesa / Az Goodyear / Az Peonia / Az Chandler | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/AZ---Phoenix/Construction-Management-Internship--Arizona-Summer-2027_R12064-1) | 2026-09-12 |
@@ -252,6 +256,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Graco | Manufacturing Engineering Intern | Pennsylvania, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Manufacturing-Engineering-Intern_R0023592) | 2026-09-12 |
 | Graco | Manufacturing Engineering Intern - Summer 2027 | South Dakota, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Sioux-Falls-South-Dakota-USA/Manufacturing-Engineering-Intern---Summer-2027_R0023643) | 2026-09-12 |
 | Graco | Mechanical Engineering Intern | Pennsylvania, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Erie-Pennsylvania-USA/Mechanical-Engineering-Intern_R0023550) | 2026-09-12 |
+| Greenlight | Legal & Compliance Intern | Remote | [Apply](https://jobs.lever.co/greenlight/f1ff7255-5783-4f61-8d15-83b752417e37) | 2026-09-12 |
 | Greystar Worldwide | Community Assistant - Union on Knox (Student Living) | College Park, MD | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Union-on-Knox-College-Park-MD/Community-Assistant---Union-on-Knox--Student-Living-_R0200801) | 2026-09-12 |
 | Greystar Worldwide | Community Manager - University Station (Student Living) | Norwood, OH | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/University-Station-Norwood-OH/Community-Manager---University-Station--Student-Living-_R0200630) | 2026-09-12 |
 | Greystar Worldwide | Leasing Professional - Eastgate Apartments (Student Living) | Waco, TX | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Eastgate-Apartments-Waco-TX/Leasing-Professional---Eastgate-Apartments--Student-Living-_R0200834) | 2026-09-12 |
@@ -271,6 +276,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heidelberg Materials | Mining Engineer Intern | Mccook, IL | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Mccook-IL/Mining-Engineer-Intern_JR10018751) | 2026-09-12 |
 | Heidelberg Materials | Process Engineer Intern | Harleyville, SC | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Harleyville-SC/Process-Engineer-Intern_JR10018745) | 2026-09-12 |
 | Henry Schein | Internal Audit Intern (Part-Time) | United States Remote | [Apply](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/New-York-United-States---Remote/Internal-Audit-Intern--Part-Time-_R135121) | 2026-09-12 |
+| Hermeus | Test and Operations Engineering Intern - Spring/Summer 2027 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/d40446ee-40a9-4bb0-a3a8-a4a189b74630) | 2026-09-12 |
 | Hewlett Packard (HP) | Strategy Intern | California, United States / Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Palo-Alto-California-United-States-of-America/Strategy-Intern_UNI4671) | 2026-09-12 |
 | HNTB | Environmental Planning/Public Involvement Intern - Summer 2027 | Ct (hartford) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Rocky-Hill-CT-Hartford/Environmental-Planning-Public-Involvement-Intern---Summer-2027_R-31566-1) | 2026-09-12 |
 | HNTB | GIS Intern - Summer 2027 | Tn (city Center) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Intern---Summer-2027_R-31562) | 2026-09-12 |
@@ -395,6 +401,20 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Q2 | 2027 Summer Intern Referrals (INTERNAL ONLY) | Austin, TX / North Carolina | [Apply](https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/XMLNAME-2027-Summer-Intern-Referrals--INTERNAL-ONLY-_REQ-12757) | 2026-09-12 |
 | QTS | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) | 2026-09-12 |
 | QTS | Summer 2027 Internship: Technology Optimization Project Management | Phoenix, AZ | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Phoenix-AZ/Summer-2027-Internship--Technology-Optimization-Project-Management_R2026-2023) | 2026-09-12 |
+| Quantinuum | Electrical Engineering Intern - 997 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb) | 2026-09-12 |
+| Quantinuum | Facilities Engineering Intern - 1000 | US Brooklyn Park, MN | [Apply](https://jobs.eu.lever.co/quantinuum/f186df57-b777-4efe-b82e-6315ec3caa59) | 2026-09-12 |
+| Quantinuum | Facilities Mechanical Engineer Intern - 999 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/94cbc678-1cc2-47d2-a20a-88966ca17e6b) | 2026-09-12 |
+| Quantinuum | Facilities Project Engineer Intern - 1001 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/68de3fa7-021a-4eae-89fe-646ad1ed2c53) | 2026-09-12 |
+| Quantinuum | IT Applications Intern - 984 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b) | 2026-09-12 |
+| Quantinuum | Layout Automation Developer Intern - 993 | US Brooklyn Park, MN | [Apply](https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0) | 2026-09-12 |
+| Quantinuum | Manufacturing Engineering Intern - 998 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/acec8ce5-b42e-4b16-8dc2-6ae715bfda80) | 2026-09-12 |
+| Quantinuum | Materials and Process Engineering Intern - 991 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/7d3818af-bf02-49ef-81f2-2962a22a02e3) | 2026-09-12 |
+| Quantinuum | Mechanical Engineering Intern - 990 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/18509665-2037-4c6d-95fc-0eedd02a8f45) | 2026-09-12 |
+| Quantinuum | Metasurface Optical Design Intern - 994 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/ca00d719-ecda-4245-9c41-0da221dc2bb5) | 2026-09-12 |
+| Quantinuum | Metasurface Resonant Photonic Design Intern - 988 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/dc2d5427-8263-400f-9ca7-501d2e17162f) | 2026-09-12 |
+| Quantinuum | PIC Design Intern - 995 | US Broomfield, CO / US Albuquerque, NM | [Apply](https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107) | 2026-09-12 |
+| Quantinuum | Software Engineering Intern - 989 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf) | 2026-09-12 |
+| Quantinuum | Support Services Intern - 986 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/84cd4e05-408c-4410-8ac5-176ef8be93d9) | 2026-09-12 |
 | RBC | Relationship Manager Intern, Commercial Financial Services | Langley, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LANGLEY-British-Columbia-Canada/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000179353) | 2026-09-12 |
 | Regal Rexnord | Commercial Excellence, Training and Enablement Summer Intern | Wisconsin, United States | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Commercial-Excellence--Training-and-Enablement-Summer-Intern_R26_04758-1) | 2026-09-12 |
 | Roche | Digital Solutions Intern | Sao Paulo | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sao-Paulo/Digital-Solutions-Intern_202608-121923-1) | 2026-09-12 |
@@ -431,6 +451,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | 2027 Summer Internship Opportunities Swiftwater PA | Swiftwater, PA | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Internship-Opportunities-Swiftwater-PA_R2871183) | 2026-09-12 |
 | Sanofi | 2027 Summer Internship Opportunities Washington DC | Washington, DC | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Washington-DC/XMLNAME-2027-Summer-Internship-Opportunities-Washington-DC_R2871184) | 2026-09-12 |
 | Sanofi | 2027 Summer Internship Opportunities, Waltham, MA | Waltham, MA | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Summer-Internship-Opportunities--Waltham--MA_R2871180) | 2026-09-12 |
+| Stand Together | KIP Spring 2027 - Policy Intern - Taxpayers Protection Alliance Foundation | Washington, DC | [Apply](https://jobs.lever.co/standtogether/8f415a5a-f825-46ff-8633-8eb3c522afef) | 2026-09-12 |
 | Stanley Black & Decker | Engineering Co-op / Summer Intern | Mexico | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ciudad-Apodaca-Nuevo-Len-Mexico/Engineering-Co-op---Summer-Intern_REQ-1000052355) | 2026-09-12 |
 | Stanley Black & Decker | HR Intern | Colombia | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Medelln-Antioquia-Colombia/HR-Intern_REQ-1000051851) | 2026-09-12 |
 | Stanley Black & Decker | Manufacturing Internship - 1st shift, $15.00hr | Mission, TX, United States | [Apply](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1) | 2026-09-12 |
@@ -469,6 +490,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Watts Water | Strategic Marketing Intern - Analytics & Segmentation, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533) | 2026-09-12 |
 | Watts Water | Strategic Marketing Intern - Benchmarking, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Benchmarking--Summer-2027_10017534) | 2026-09-12 |
 | Watts Water | Video Production Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Video-Production-Intern--Summer-2027_10017537) | 2026-09-12 |
+| Xcimer Energy | Summer 2027 Internship - Computational and Software Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911) | 2026-09-12 |
+| Xcimer Energy | Summer 2027 Internship - Electrical and Pulsed Power Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d) | 2026-09-12 |
+| Xcimer Energy | Summer 2027 Internship - Mechanical Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3) | 2026-09-12 |
+| Xcimer Energy | Summer 2027 Internship - Optical Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a) | 2026-09-12 |
+| Xcimer Energy | Summer 2027 Internship - Physics | Denver, CO | [Apply](https://jobs.lever.co/xcimer/27e40b7a-0008-42e6-b43f-200d727f9b49) | 2026-09-12 |
 | Xylem | Sales Support Intern | Lainate | [Apply](https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Lainate/Sales-Support-Intern_R50693) | 2026-09-12 |
 | ABB | Human Resources Intern - Winter 2027 | Saint-Laurent, QC, Canada | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Human-Resources-Intern---Winter-2027_JR00043194) | 2026-09-11 |
 | ABB | Intern-Designer | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Intern-Designer_JR00047001) | 2026-09-11 |
@@ -1892,7 +1918,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eos Energy Storage | 2027 Summer Internship Program | Nova Place / Nj Edison / Thorn Hill / Pa Turtle Creek | [Apply](https://eosenergystorage.wd1.myworkdayjobs.com/eos/job/Nova-Place/XMLNAME-2027-Summer-Internship-Program_R6711) | 2026-09-10 |
 | Epic Games | Backend Services Programmer Intern | North Carolina, United States | [Apply](https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004) | 2026-09-10 |
 | Epic Games | UI Programmer Intern | North Carolina, United States | [Apply](https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004) | 2026-09-10 |
-| EQ Bank | Intern - Credit Risk, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/c4f2b0e3-e9a9-4824-9c15-9f421a89405d) | 2026-09-10 |
 | EQT Corporation | Corporate Tax Intern | Canonsburg, PA | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5418000008) | 2026-09-10 |
 | EQT Corporation | Talent Acquisition & Recruitment Marketing Intern | Remote | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5418939008) | 2026-09-10 |
 | Essity | Working Student Controlling (d/f/m) | Germany | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Mannheim-Germany/Working-Student-Controlling--d-f-m-_Essity265128) | 2026-09-10 |
@@ -19703,7 +19728,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stagiaire Ingénieur Matière | Verneuil En Halatte | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Verneuil-En-Halatte/Stagiaire-Ingnieur-Matire_JOBREQ00113552) | 2026-06-03 |
 | Crane Co. | Finance Intern | Leicester, United Kingdom | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Leicester-UK/Finance-Intern_JR101818) | 2026-06-03 |
 | Curtiss-Wright Corporation | Purchasing & Supply Chain Intern (6-month assignment) | US-Oh-Middleburg Hts. (nuclear) | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1) | 2026-06-03 |
-| EQ Bank | Intern, Business Analyst | Toronto | [Apply](https://jobs.lever.co/eqbank/402c7669-ebcc-412d-99b8-2a711ed425d0) | 2026-06-03 |
 | GE Vernova | STAGIAIRE - Ingénieur Digitalisation de la traçabilité Qualité - Access VBA SQL & Python  Industrie 4.0- H/F | Aix-Les-Bains | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Aix-les-Bains/STAGIAIRE---Ingnieur-Digitalisation-de-la-traabilit-Qualit---Access-VBA-SQL---Python--Industrie-40--H-F_R5043861-1) | 2026-06-03 |
 | GSK | Stage en alternance : Communication Digitale & Support au Changement, Belgique – 2026 | Belgium-Wavre | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Belgium-Wavre/Stage-en-alternance---Communication-Digitale---Support-au-Changement--Belgique---2026_442467) | 2026-06-03 |
 | International Rescue Committee (IRC) | Instructional Design Intern | Nj USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Elizabeth-NJ-USA/Instructional-Design-Intern_JR00003617) | 2026-06-03 |
