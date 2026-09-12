@@ -418600,20 +418600,6 @@
     "date_archived": "2026-08-27"
   },
   {
-    "id": "ashby-abridge-3f07a457-dc14-4238-bf4e-5c33b5c1f883",
-    "company": "Abridge",
-    "title": "Software Engineer, Intern",
-    "location": "California, United States / Nyc Office",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
-    "date_posted": "2026-08-14",
-    "date_added": "2026-08-15",
-    "active": false,
-    "date_archived": "2026-08-27"
-  },
-  {
     "id": "ashby-astera-d20c0641-1b3e-4666-bc08-4f90ee813261",
     "company": "Astera",
     "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
@@ -503006,20 +502992,6 @@
     "date_archived": "2026-09-11"
   },
   {
-    "id": "ashby-graymatter-robotics-0f5acd77-6b34-4444-9ddc-1ce91cad177c",
-    "company": "GrayMatter Robotics",
-    "title": "Robotics Engineer (New Grad): Government Projects",
-    "location": "California, United States",
-    "type": "new_grad",
-    "season": "Not specified",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/graymatter-robotics/0f5acd77-6b34-4444-9ddc-1ce91cad177c",
-    "date_posted": "2026-08-25",
-    "date_added": "2026-08-31",
-    "active": false,
-    "date_archived": "2026-09-11"
-  },
-  {
     "id": "ashby-hadrian-f27b6322-0fc3-4dde-b1fb-97efae2115d8",
     "company": "Hadrian",
     "title": "Entry Level - Factory Technician - 2nd Shift",
@@ -510660,6 +510632,34 @@
     "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5293581008",
     "date_posted": "2026-07-06",
     "date_added": "2026-07-09",
+    "active": false,
+    "date_archived": "2026-09-12"
+  },
+  {
+    "id": "ashby-ai-intern-to-the-ceo-979e5863-bfa0-4443-bf51-ea91cecdc704",
+    "company": "AI Intern to the CEO",
+    "title": "Social Media Intern",
+    "location": "Massachusetts, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/cyvl/979e5863-bfa0-4443-bf51-ea91cecdc704",
+    "date_posted": "2026-08-19",
+    "date_added": "2026-08-20",
+    "active": false,
+    "date_archived": "2026-09-12"
+  },
+  {
+    "id": "ashby-gobankingrates-10cea0da-3ec0-4374-be12-d391abffc1d7",
+    "company": "GOBankingRates",
+    "title": "Software Engineer, Working Student",
+    "location": "Czechia, Czechia / Cze  Brno",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/gen-digital/10cea0da-3ec0-4374-be12-d391abffc1d7",
+    "date_posted": "2026-09-10",
+    "date_added": "2026-09-11",
     "active": false,
     "date_archived": "2026-09-12"
   }
