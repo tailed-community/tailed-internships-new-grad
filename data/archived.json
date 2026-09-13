@@ -512034,5 +512034,61 @@
     "date_added": "2026-09-09",
     "active": false,
     "date_archived": "2026-09-13"
+  },
+  {
+    "id": "icims-charles-schwab-126266",
+    "company": "Charles Schwab",
+    "title": "2027 Product Management Intern (thinkorswim)",
+    "location": "Austin, TX, United States",
+    "type": "internship",
+    "season": "2027",
+    "source": "icims",
+    "url": "https://career-schwab.icims.com/jobs/126266/2027-product-management-intern-%28thinkorswim%29/job",
+    "date_posted": null,
+    "date_added": "2026-09-10",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "icims-general-dynamics-20686",
+    "company": "General Dynamics",
+    "title": "Subcontract Buyer (Supply Chain/entry level)",
+    "location": "Groton, CT, United States",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-gdeb.icims.com/jobs/20686/subcontract-buyer-%28supply-chain-entry-level%29/job",
+    "date_posted": null,
+    "date_added": "2026-09-10",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "icims-scs-engineers-3962",
+    "company": "SCS Engineers",
+    "title": "Civil or Environmental Engineering Intern",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-scsengineers.icims.com/jobs/3962/civil-or-environmental-engineering-intern/job",
+    "date_posted": null,
+    "date_added": "2026-09-12",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "icims-scs-engineers-3887",
+    "company": "SCS Engineers",
+    "title": "Entry-level Civil or Environmental Engineer",
+    "location": "Not specified",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers-scsengineers.icims.com/jobs/3887/entry-level-civil-or-environmental-engineer/job",
+    "date_posted": null,
+    "date_added": "2026-08-03",
+    "active": false,
+    "date_archived": "2026-09-13"
   }
 ]
