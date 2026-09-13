@@ -24,6 +24,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AES | Co-op Engineer - Gas Turbine/DCS Operations (Spring 2027) | Indianapolis, IN, United States | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Spring-2027-_R1064410) | 2026-09-13 |
 | Allegion | Summer Intern - Maintenance | In Tobey Dr | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Maintenance_JR37352-1) | 2026-09-13 |
 | AnaVation LLC | Computer Science Internship Summer 2027 | Chantilly, VA | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | 2026-09-13 |
+| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/2ce6a5dc-ac55-4d5e-93f6-b6e2c067f8da) | 2026-09-13 |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | 2026-09-13 |
 | Direct Supply | Marketing Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Marketing-Intern_REQ-2026-2557) | 2026-09-13 |
 | Direct Supply | Software Engineer Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559) | 2026-09-13 |
@@ -3026,7 +3027,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citizens Financial Group | 2027 Commercial Summer Intern - New York, NY | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49209) | 2026-09-09 |
 | Citizens Financial Group | 2027 Commercial Summer Intern - Tampa, FL | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49211) | 2026-09-09 |
 | Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/7628080b-c859-49f1-9b46-3f919f654c86) | 2026-09-09 |
-| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/fd46d96e-77bb-4d13-afef-d871717a34ff) | 2026-09-09 |
 | Cna Financial Corp | Finance / Accounting Internship Program (Summer 2027) | Chicago, IL, United States | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Finance---Accounting-Internship-Program--Summer-2027-_R-8048) | 2026-09-09 |
 | Coalfire | Vanderbilt University \| Compliance Advisory - 2027 Summer Internship | United States | [Apply](https://jobs.lever.co/coalfire/8a64a9c2-bd95-421e-8ff5-c211dc9f5763) | 2026-09-09 |
 | Conagra Brands | Summer 2027 - Brand Management Internship | Illinois | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Summer-2027---Brand-Management-Internship_Req-040145) | 2026-09-09 |
@@ -5750,7 +5750,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Xcel Energy | Wildfire Analyst Intern- CO | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Wildfire-Analyst-Intern--CO_JR115413-1) | 2026-09-07 |
 | Zuru | Content Marketing Internship (Beauty) | Australia | [Apply](https://jobs.ashbyhq.com/zuru/54254b0c-9820-466b-ba55-0570bf90c16b) | 2026-09-07 |
 | BMO (Campus) | Financial Governance and Controls Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Financial-Governance-and-Controls-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024742-2) | 2026-09-06 |
-| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/12ca175a-7b18-4ec9-9197-44aac4485b1b) | 2026-09-06 |
 | Fab2 | Automation Software Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) | 2026-09-06 |
 | Fab2 | Electrical Engineering Intern - Summer | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae) | 2026-09-06 |
 | Fab2 | Electrical Engineering Intern, High Frequency Power Electronics - Summer | Texas, United States | [Apply](https://jobs.ashbyhq.com/fab2/b3628272-a336-4dd6-968d-041bc4de5bc5) | 2026-09-06 |

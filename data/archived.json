@@ -512006,5 +512006,33 @@
     "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-09-13"
+  },
+  {
+    "id": "ashby-clera-12ca175a-7b18-4ec9-9197-44aac4485b1b",
+    "company": "Clera",
+    "title": "Founder's Associate Intern / Working Student",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/12ca175a-7b18-4ec9-9197-44aac4485b1b",
+    "date_posted": "2026-09-05",
+    "date_added": "2026-09-06",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "ashby-clera-fd46d96e-77bb-4d13-afef-d871717a34ff",
+    "company": "Clera",
+    "title": "Sales Intern",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/fd46d96e-77bb-4d13-afef-d871717a34ff",
+    "date_posted": "2026-09-08",
+    "date_added": "2026-09-09",
+    "active": false,
+    "date_archived": "2026-09-13"
   }
 ]
