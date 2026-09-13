@@ -512174,5 +512174,47 @@
     "date_added": "2026-09-08",
     "active": false,
     "date_archived": "2026-09-13"
+  },
+  {
+    "id": "smartrecruiters-red-bull-744000141495401",
+    "company": "Red Bull",
+    "title": "Student Marketeer - Helwan University - Fine Art",
+    "location": "Egypt",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000141495401",
+    "date_posted": "2026-08-04",
+    "date_added": "2026-08-04",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000148066244",
+    "company": "Robert Bosch Venture Capital",
+    "title": "[Internship] Sales Support Intern",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148066244",
+    "date_posted": "2026-09-08",
+    "date_added": "2026-09-08",
+    "active": false,
+    "date_archived": "2026-09-13"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000145884829",
+    "company": "Robert Bosch Venture Capital",
+    "title": "[Bosch HcP – Internship] Finance Controlling Intern",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145884829",
+    "date_posted": "2026-08-27",
+    "date_added": "2026-08-27",
+    "active": false,
+    "date_archived": "2026-09-13"
   }
 ]

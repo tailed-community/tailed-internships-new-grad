@@ -112,6 +112,18 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RBC | Client Advisor Intern | Winnipeg, MB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WINNIPEG-Manitoba-Canada/Client-Advisor-Intern_R-0000187352-3) | 2026-09-13 |
 | RBC | Client Advisor Intern | Pickering, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/PICKERING-Ontario-Canada/Client-Advisor-Intern_R-0000187644) | 2026-09-13 |
 | RBC | Financial Advisor Intern | Thompson | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/131-SELKIRK-AVETHOMPSON/Financial-Advisor-Intern_R-0000183056) | 2026-09-13 |
+| Red Bull | Communicatie Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192939) | 2026-09-13 |
+| Red Bull | Festival & Events Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192929) | 2026-09-13 |
+| Red Bull | Field Marketing Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149193029) | 2026-09-13 |
+| Red Bull | Field Sales Data Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192999) | 2026-09-13 |
+| Red Bull | Marketing & Event Management Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192989) | 2026-09-13 |
+| Red Bull | Music & Dance Marketing Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149193009) | 2026-09-13 |
+| Red Bull | Sport & Events Marketing Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192919) | 2026-09-13 |
+| Red Bull | Sports & Athletes Marketing Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192829) | 2026-09-13 |
+| Red Bull | Supply Chain Data Analyst Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149193019) | 2026-09-13 |
+| Red Bull | Trade Marketing Stage | Amsterdam, NH | [Apply](https://jobs.smartrecruiters.com/RedBull/744000149192909) | 2026-09-13 |
+| Robert Bosch Venture Capital | [Internship] Sales Support Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149193289) | 2026-09-13 |
+| Robert Bosch Venture Capital | Intern, Learning & Development | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149191809) | 2026-09-13 |
 | RSM | Federal Tax Services Intern - Real Estate - Summer 2027 | Phoenix | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/Federal-Tax-Services-Intern---Real-Estate---Summer-2027_JR117485-1) | 2026-09-13 |
 | RTX (en-US) | Commercial Engines Business Intern (Summer 2027) | US-Ct-East Hartford-Obg ~ 400 Main St ~ Bldg Obg | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Business-Intern--Summer-2027-_01873413) | 2026-09-13 |
 | RTX - Private_Posting_No_TMP | Quality Engineer Intern (Summer 2027) | US-Az-Tucson-809 ~ 1151 E Hermans Rd ~ Bldg 809 (external Site) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/Quality-Engineer-Intern--Summer-2027-_01872951) | 2026-09-13 |
@@ -4583,7 +4595,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | STAGE - Boutique Assistant - Paris | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/STAGE---Boutique-Assistant---Paris_JR133527-1) | 2026-09-08 |
 | Richemont | Stage 10/2026 - Stagiaire Qualité Service Après-Ventes | Brussels | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/BRUSSELS/Stage-10-2026---Stagiaire-Qualit-Service-Aprs-Ventes_JR133507) | 2026-09-08 |
 | Robert Bosch Venture Capital | [Internship] Marketing and Communications Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148064773) | 2026-09-08 |
-| Robert Bosch Venture Capital | [Internship] Sales Support Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148066244) | 2026-09-08 |
 | Robert Bosch Venture Capital | Design Engineer Intern | Vernon Hills, IL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148252267) | 2026-09-08 |
 | Robert Bosch Venture Capital | Extracurricular Internship: Mechanical Engineer – eBike (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148231216) | 2026-09-08 |
 | Robert Bosch Venture Capital | Intern, Supply Chain | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148134259) | 2026-09-08 |
@@ -11794,7 +11805,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | Stagiaire Ass Chargée de Recrutement RH | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Stagiaire-Ass-Charge-de-Recrutement-RH_JR132079-2) | 2026-08-27 |
 | Richemont | Stagiaire Assistante CRM International | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Stagiaire-Assistante-CRM-International_JR132106-1) | 2026-08-27 |
 | Richemont | Store Design Planning Intern | Meyrin | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Store-Design-Planning-Intern_JR133013-1) | 2026-08-27 |
-| Robert Bosch Venture Capital | [Bosch HcP – Internship] Finance Controlling Intern | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145884829) | 2026-08-27 |
 | Robert Bosch Venture Capital | [ETA] AI Engineer Intern (6-month fulltime Internship) | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145938529) | 2026-08-27 |
 | Robert Bosch Venture Capital | Extracurricular Internship in Product Cost Controlling (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000146025254) | 2026-08-27 |
 | Robert Bosch Venture Capital | Mandatory Internship Controlling - Focus BU Strategy & Digitalization | Schwäbisch Gmünd, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145959789) | 2026-08-27 |
@@ -16330,7 +16340,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PNC Financial Services | Supply Chain Management Undergraduate Intern | Pa Pittsburgh (15222) | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Supply-Chain-Management-Undergraduate-Intern_R231462-1) | 2026-08-04 |
 | PNC Financial Services | Technology Undergraduate Intern | Pa Pittsburgh (15222) / Az Phoenix / Co Denver (80005) / Al Birmingham / Tx Dallas / Oh Cleveland | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1) | 2026-08-04 |
 | PricewaterhouseCoopers (PwC) | Global Technology Solutions - Service Delivery Off-Cycle Internship (Jan - Jun 27) | Singapore | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Global-Technology-Solutions---Service-Delivery-Off-Cycle-Internship--Jan---Jun-27-_750054WD) | 2026-08-04 |
-| Red Bull | Student Marketeer - Helwan University - Fine Art | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000141495401) | 2026-08-04 |
 | Richemont | Stagiaire Assistant CDP Omnichannel | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Stagiaire-Assistant-CDP-Omnichannel_JR132109-2) | 2026-08-04 |
 | Robert Bosch Venture Capital | 2027 Spring Logistics Co-Op | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141338089) | 2026-08-04 |
 | Robert Bosch Venture Capital | 2027 Spring Manufacturing Engineering Co-Op | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141337134) | 2026-08-04 |
