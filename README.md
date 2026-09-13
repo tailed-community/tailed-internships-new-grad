@@ -24,6 +24,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AES | Co-op Engineer - Gas Turbine/DCS Operations (Spring 2027) | Indianapolis, IN, United States | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Spring-2027-_R1064410) | 2026-09-13 |
 | Allegion | Summer Intern - Maintenance | In Tobey Dr | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Maintenance_JR37352-1) | 2026-09-13 |
 | AnaVation LLC | Computer Science Internship Summer 2027 | Chantilly, VA | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | 2026-09-13 |
+| Arconic | Electrical Engineer- Co-op | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826) | 2026-09-13 |
+| Arconic | Mechanical Engineer - Co-op | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827) | 2026-09-13 |
 | Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/2ce6a5dc-ac55-4d5e-93f6-b6e2c067f8da) | 2026-09-13 |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | 2026-09-13 |
 | Direct Supply | Marketing Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Marketing-Intern_REQ-2026-2557) | 2026-09-13 |
@@ -115,9 +117,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RTX - Private_Posting_No_TMP | Quality Engineer Intern (Summer 2027) | US-Az-Tucson-809 ~ 1151 E Hermans Rd ~ Bldg 809 (external Site) | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-809--1151-E-Hermans-Rd--BLDG-809-External-Site/Quality-Engineer-Intern--Summer-2027-_01872951) | 2026-09-13 |
 | SCS Engineers | Civil or Environmental Engineering Intern | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4000/civil-or-environmental-engineering-intern/job) | 2026-09-13 |
 | SCS Engineers | Environmental or Geology Intern | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3998/environmental-or-geology-intern/job) | 2026-09-13 |
+| Staples | COOP Placement | Saint Eustache, QC, Canada | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/74584) | 2026-09-13 |
 | The Walt Disney Company | Intern, Growth & Retention Marketing, Disney+ Philippines - Jan to Jun 2027 | Philippines | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Taguig-Philippines/Intern--Growth---Retention-Marketing--Philippines--Disney----Jan-to-Jun-2027_10160459-1) | 2026-09-13 |
 | The Walt Disney Company | Intern, Integrated Marketing, Studios - Jan to Jun 2027 | Singapore | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Singapore-Singapore/Intern--Integrated-Marketing--Studios---Jan-to-Jun-2027_10160454-1) | 2026-09-13 |
 | The Walt Disney Company | Intern, Social Media & Creative, Disney+ & Studios - Jan to Jun 2027 | Indonesia | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Jakarta-Indonesia/Intern--Social-Media---Creative--Disney----Studios---Jan-to-Jul-2027_10160450-1) | 2026-09-13 |
+| Vertiv | Engineering Sustainability Graduate Intern | Columbus, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279281) | 2026-09-13 |
 | AARP | Outreach Intern (St. Louis Area) | Missouri | [Apply](https://careers.aarp.org/jobs/7806?lang=en-us&icims=1) | 2026-09-12 |
 | ACCIONA | Engineering Co-op | ON / BC / USA Atlanta Office | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Ontario/Co-op-Placement_20101915) | 2026-09-12 |
 | Acxiom | Intern - Legal | Conway | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Intern---Legal_JR014472) | 2026-09-12 |
@@ -3020,13 +3024,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cigna Group | Spring 2027 Actuarial Intern (Part-Time, On-Site) - Bloomfield, CT | Bloomfield, CT | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Spring-2027-Actuarial-Intern--Part-Time--On-Site----Bloomfield--CT_26010921) | 2026-09-09 |
 | Cisco | Software Consulting Engineer I (Intern) United States | USA-Research Triangle Park | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | 2026-09-09 |
 | Cisco | Wireless Software Engineer_ Intern | Switzerland | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Atlanta, GA | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49207) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Boston, MA | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49200) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Chicago, IL | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49210) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Global Markets, Boston, MA | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49205) | 2026-09-09 |
 | Citizens Financial Group | 2027 Commercial Summer Intern - Houston, TX | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - New York, NY | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49209) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Tampa, FL | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49211) | 2026-09-09 |
 | Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/7628080b-c859-49f1-9b46-3f919f654c86) | 2026-09-09 |
 | Cna Financial Corp | Finance / Accounting Internship Program (Summer 2027) | Chicago, IL, United States | [Apply](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Finance---Accounting-Internship-Program--Summer-2027-_R-8048) | 2026-09-09 |
 | Coalfire | Vanderbilt University \| Compliance Advisory - 2027 Summer Internship | United States | [Apply](https://jobs.lever.co/coalfire/8a64a9c2-bd95-421e-8ff5-c211dc9f5763) | 2026-09-09 |
@@ -4838,7 +4836,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | VF | Product Development Intern – Apparel | Emea > Che > Stabio > Vf Campus Vf1 | [Apply](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Product-Development-Intern---Apparel_R-20260812-0013) | 2026-09-08 |
 | Wealthsimple | Intern, Capital Markets (8 month term) | Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/wealthsimple/3f324be6-87bf-4352-a098-bde635287f9c) | 2026-09-08 |
 | Wealthsimple | Intern, Finance | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/wealthsimple/50dcb3a5-b896-42c6-8173-0f6a95718ead) | 2026-09-08 |
-| Weatherford | Intern -Supplier Quality Analyst & Digital Transformation | India | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430) | 2026-09-08 |
 | Wells Fargo | 2027 COO Enterprise Complaints, Remediations & Loudspeaker Summer Internship - Early Careers | Chandler, AZ / West Des Moines, IA | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHANDLER-AZ/XMLNAME-2027-COO-Enterprise-Complaints--Remediations---Loudspeaker-Summer-Internship---Early-Careers_R-573813) | 2026-09-08 |
 | WPP Media | Intern AI, Data & Tech | Norway | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5413592008) | 2026-09-08 |
 | WPP Media | Intern Investment & Partnerships | Norway | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5417838008) | 2026-09-08 |
@@ -6938,6 +6935,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Co-op Trainee (Computer Engineering)_(Saudi National) | Saudi Arabia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94657) | 2026-09-04 |
 | WSP | Co-op Trainee (Industrial Engineering)_(Saudi National) | Saudi Arabia | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94656) | 2026-09-04 |
 | WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 | Portland, OR, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400) | 2026-09-04 |
+| WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 | Tulsa, OK, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94545) | 2026-09-04 |
 | WTW | Early Careers: Health and Benefits Northeastern Co-op - Spring Term 2027 | Boston, MA, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605593) | 2026-09-04 |
 | WVUMedicine | HR Intern (Summer 2027) | Operations Support Center | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Operations-Support-Center/HR-Intern--Summer-2027-_JR26-44625) | 2026-09-04 |
 | WVUMedicine | UHC - Student Respiratory Therapist | United Hospital Center (uhc) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/United-Hospital-Center-UHC/UHC---Student-Respiratory-Therapist_JR26-44576) | 2026-09-04 |
