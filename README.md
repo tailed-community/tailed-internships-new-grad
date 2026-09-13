@@ -23,6 +23,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | AES | Co-op Engineer - Gas Turbine/DCS Operations (Spring 2027) | Indianapolis, IN, United States | [Apply](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Spring-2027-_R1064410) | 2026-09-13 |
 | Allegion | Summer Intern - Maintenance | In Tobey Dr | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Maintenance_JR37352-1) | 2026-09-13 |
+| AnaVation LLC | Computer Science Internship Summer 2027 | Chantilly, VA | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7) | 2026-09-13 |
 | Direct Supply | AI Engineer Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553) | 2026-09-13 |
 | Direct Supply | Marketing Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Marketing-Intern_REQ-2026-2557) | 2026-09-13 |
 | Direct Supply | Software Engineer Intern | Milwaukee, WI | [Apply](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559) | 2026-09-13 |
