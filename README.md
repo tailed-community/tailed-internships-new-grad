@@ -88,6 +88,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Express | Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill) | West Sussex, United Kingdom | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | 2026-09-14 |
 | American Express | Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - London) | London, United Kingdom | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769) | 2026-09-14 |
 | American Express | Campus - Internship Programme - Undergraduate Staff Auditor - 2027 (UK) | London, United Kingdom | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013195) | 2026-09-14 |
+| American Rare Earths | Geology Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443) | 2026-09-14 |
+| American Rare Earths | Mining Engineering Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/05f28dd6-bfd8-414a-b35c-c7ff94b8e614) | 2026-09-14 |
+| American Rare Earths | R&D Process Engineering Intern (Summer 2027) | Wheat Ridge, CO | [Apply](https://ats.rippling.com/usare/jobs/b6210346-8f69-4d89-9900-d450a0a62c44) | 2026-09-14 |
 | American Tower | NetOps Intern (Maintenance) | Spain | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2937) | 2026-09-14 |
 | American University | ISSS Student Advisor (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/ISSS-Student-Advisor--Student-_R4961) | 2026-09-14 |
 | American University | Personal Trainer (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Personal-Trainer--Student-_R4964) | 2026-09-14 |
@@ -218,6 +221,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cleveland Clinic | Pharmacy Intern - Inpatient | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Pharmacy-Intern---Inpatient_347121) | 2026-09-14 |
 | Cleveland-Cliffs | Civil Engineering Intern | Ctc | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/CTC/Civil-Engineering-Intern_R13496) | 2026-09-14 |
 | Cleveland-Cliffs | Computer Science Engineering Intern | Rockport Works | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553) | 2026-09-14 |
+| Collier Aerospace | NCSG Aerospace Methods & Automations Intern (Summer 2027) | Raleigh, NC | [Apply](https://ats.rippling.com/collieraerospace/jobs/c1fcbdc3-fe19-4209-b080-15a5db8c75e1) | 2026-09-14 |
+| Collier Aerospace | NCSG Aerospace Structural Engineering Intern (Summer 2027) | Raleigh, NC | [Apply](https://ats.rippling.com/collieraerospace/jobs/e132478d-3a1c-4bb6-9f57-002df2853f0c) | 2026-09-14 |
+| Collier Aerospace | NCSG Application Engineering Intern (Summer 2027) | Raleigh, NC / Huntersville, NC | [Apply](https://ats.rippling.com/collieraerospace/jobs/67c85d52-9d22-454b-a6e3-b03c473e63d0) | 2026-09-14 |
+| Collier Aerospace | Software Engineering Intern (Summer 2027) | Newport News, VA | [Apply](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51) | 2026-09-14 |
+| Collier Aerospace | Software Engineering Intern - Web Applications (Summer 2027) | Newport News, VA | [Apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) | 2026-09-14 |
 | Cone Health | Clinical Informatics Intern | White Box | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Clinical-Informatics-Intern_JR155168) | 2026-09-14 |
 | Cone Health | Executive Office Intern | White Box | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Executive-Office-Intern_JR155165) | 2026-09-14 |
 | Cone Health | Food and Nutrition Service Intern | White Box | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Food-and-Nutrition-Service-Intern_JR155169) | 2026-09-14 |
@@ -315,6 +323,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CoStar Group | Technology Intern - Nashville, TN (Summer 2027) | US-Tn Nashville | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670) | 2026-09-14 |
 | CoStar Group | Technology Intern - Richmond, VA (Summer 2027) | US-Va Richmond Costar Tower | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665) | 2026-09-14 |
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
+| Cozey | Data Science Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c) | 2026-09-14 |
+| Cozey | Finance & Accounting Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/fba77820-6f39-4474-9718-ae1501f197b9) | 2026-09-14 |
+| Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
+| Cozey | Product Management Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) | 2026-09-14 |
+| Cozey | Retail Construction Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/0388fb31-0777-4c2c-9106-32a9dd6cfa27) | 2026-09-14 |
+| Cozey | Retail Training Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/839cb52f-7a0b-4c43-b0f6-f6a7e2a187c5) | 2026-09-14 |
 | Crane Co. | Engineering Co-op | Ohio | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Engineering-Co-op_JR102436) | 2026-09-14 |
 | Criteo | Account Strategist France Intern | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-France-Intern_r21128) | 2026-09-14 |
 | Cushman & Wakefield | EIC Intern | Cw Site USA CA Westlake Village 2820 Townsgate Rd | [Apply](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---CA---Westlake-Village---2820-Townsgate-Rd/EIC-Intern_R335742) | 2026-09-14 |
@@ -1118,6 +1132,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nidec | Test Engineering Intern | Europe / Gre / Markopoulo Roboteq Greece Ike | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/EuropeGREMarkopoulo---Roboteq-Greece-IKE/Test-Engineering-Intern_R0017486-1) | 2026-09-14 |
 | NielsenIQ | NIQ Early Career Program: Internship – Merchandising and delivery support F/M | Milano, MI | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000149257665) | 2026-09-14 |
 | NJM Insurance Group | Financial Reporting Intern | Njm Trenton | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Financial-Reporting-Intern_R2008276) | 2026-09-14 |
+| North Cloud | Graphic Designer Intern | Brooklyn, NY | [Apply](https://ats.rippling.com/north-cloud/jobs/c63d1c64-35a9-4e5a-83d7-560c3c776627) | 2026-09-14 |
 | Novanta | Intern, Engineering | Spain | [Apply](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Barcelona-Spain/Intern--Engineering_R009409) | 2026-09-14 |
 | Novogradac | Junior Analyst Intern | Austin, TX | [Apply](https://novoco.wd108.myworkdayjobs.com/Novogradac/job/Austin-TX/Junior-Analyst-Intern_JR100656) | 2026-09-14 |
 | nVent | Electrical Engineering Co-Op | Solon, OH, United States | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Electrical-Engineering-Co-Op_R23593) | 2026-09-14 |
@@ -1505,6 +1520,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thrivent | MBA/Graduate - Private Investment Grade and Private High Yield Credit Internship - Summer 2027 | Mpls-Investments Office | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/MBA-Graduate---Private-Investment-Grade-and-Private-High-Yield-Credit-Internship---Summer-2027_REQ-48324) | 2026-09-14 |
 | Tiffany & Co. | Internship - Supply Chain – Sales & Distribution Planning (F/H) | France | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63822) | 2026-09-14 |
 | Tiffany & Co. | Stage - Ressources Humaines Retail & Siège (F/H) | France | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/63823) | 2026-09-14 |
+| Tive | Software Engineer Co-op | Boston, MA | [Apply](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) | 2026-09-14 |
 | TJX | Verkauf (m/w/d) in Teilzeit 15 Std. Student | Gießen | [Apply](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Gieen-HE-35390/Verkauf--m-w-d--in-Teilzeit-15-Std-Student_REQ156595) | 2026-09-14 |
 | TripAdvisor | Brand Specialist Intern | Milan | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8200743) | 2026-09-14 |
 | TTP | 6-Month PhD Student Placement - Physics Consultant - 2027 | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149301520) | 2026-09-14 |
@@ -2381,7 +2397,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AltaGas | AltaGas - 2027 Finance Intern | Calgary, AB | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Finance-Intern_R7243) | 2026-09-11 |
 | Amentum | Intern - GN&C Spring Intern | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) | 2026-09-11 |
 | American Century Investments | Personal Financial Solutions Intern | Missouri | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Personal-Financial-Solutions-Intern_R0005719) | 2026-09-11 |
-| American Rare Earths | Engineering Intern | Stillwater, OK | [Apply](https://ats.rippling.com/usare/jobs/1a62e20c-2b6e-40bd-8e1b-652ac5c37d1e) | 2026-09-11 |
+| American Rare Earths | Engineering Intern (Summer 2027) | Stillwater, OK | [Apply](https://ats.rippling.com/usare/jobs/1a62e20c-2b6e-40bd-8e1b-652ac5c37d1e) | 2026-09-11 |
 | AMERICAN SYSTEMS | SkillBridge Industrial/Personnel Security Intern (Transitioning Military) | Not Specified | [Apply](https://careers-americansystems.icims.com/jobs/4932/skillbridge-industrial-personnel-security-intern-%28transitioning-military%29/job) | 2026-09-11 |
 | American University | Administrative Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Administrative-Assistant--Student-_R4886) | 2026-09-11 |
 | American University | Athletics Marketing and Ticket Sales (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Athletics-Marketing-and-Ticket-Sales--Student---FWS-_R4888) | 2026-09-11 |
@@ -7689,7 +7705,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Equity | Accounting Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5228997007) | 2026-09-04 |
 | American Equity | Expense Management Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230490007) | 2026-09-04 |
 | American Equity | Tax Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230498007) | 2026-09-04 |
-| American Rare Earths | Geology Intern | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/6b0dab18-de97-4a51-bb9a-77eb735d8b75) | 2026-09-04 |
+| American Rare Earths | Geology Intern (Fall 2026) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/6b0dab18-de97-4a51-bb9a-77eb735d8b75) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Cleveland, OH | Cleveland, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3190/utility-infrastructure-internship---cleveland%2c-oh/job) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Columbus, OH | Columbus, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3189/utility-infrastructure-internship---columbus%2c-oh/job) | 2026-09-04 |
 | American Tower | Engineering Co-Op | Cary, NC, United States | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2906) | 2026-09-04 |
