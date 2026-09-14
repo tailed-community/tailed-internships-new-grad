@@ -520728,5 +520728,33 @@
     "date_added": "2026-08-24",
     "active": false,
     "date_archived": "2026-09-14"
+  },
+  {
+    "id": "lever-bpm-llp-c46ea6a9-6899-4b32-961e-3e51b83b94f5",
+    "company": "BPM LLP",
+    "title": "Assurance Intern (January 2027)",
+    "location": "San Francisco, CA / San Jose, CA / Santa Rosa, CA / Long Beach City, CA / Sacramento, CA / Santa Monica, CA",
+    "type": "internship",
+    "season": "2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/bpmcpa/c46ea6a9-6899-4b32-961e-3e51b83b94f5",
+    "date_posted": "2026-04-23",
+    "date_added": "2026-07-16",
+    "active": false,
+    "date_archived": "2026-09-14"
+  },
+  {
+    "id": "lever-geocomply-7b5cf819-341e-4980-be14-97b8a205ec1f",
+    "company": "GeoComply",
+    "title": "Mobile Security Engineer Intern (Open to DE, DA, or ML backgrounds)",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/geocomply-2/7b5cf819-341e-4980-be14-97b8a205ec1f",
+    "date_posted": "2026-07-07",
+    "date_added": "2026-07-07",
+    "active": false,
+    "date_archived": "2026-09-14"
   }
 ]
