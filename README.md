@@ -317,6 +317,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Constellation Energy | Summer 2027 Technical Engineering Internship - Pottstown, PA (ASSOCIATE'S DEGREE ONLY) | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/138601?lang=en-us&icims=1) | 2026-09-14 |
 | Constellation Energy | Summer 2027 Technical Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Illinois | [Apply](https://jobs.constellationenergy.com/jobs/138838?lang=en-us&icims=1) | 2026-09-14 |
 | Constellation Energy | Summer 2027 Technical Internship - Wharton, TX (ASSOCIATE'S DEGREE ONLY) | Texas | [Apply](https://jobs.constellationenergy.com/jobs/138675?lang=en-us&icims=1) | 2026-09-14 |
+| Coretek Services | AI & Automation Development Intern | Michigan, United States | [Apply](https://apply.workable.com/coretek-services/j/8D69C6C871/) | 2026-09-14 |
 | CoStar Group | Security Engineer Intern - Arlington, VA | US-Va Arlington | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) | 2026-09-14 |
 | CoStar Group | Security Engineer Intern - Richmond, VA | US-Va Richmond | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726) | 2026-09-14 |
 | CoStar Group | Technology Intern - Arlington, VA (Summer 2027) | US-Va Arlington | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666) | 2026-09-14 |
@@ -20146,8 +20147,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Digital Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
 | Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
-| Belmond | Hr Intern - Season 2026 - Villa San Michele, a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/2A303D866D/) | 2026-06-15 |
-| Belmond | Internship Communications & Events, Villa San Michele a Belmond Hotel | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9A1B675DED/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |
