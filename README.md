@@ -228,6 +228,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Clarios | OE Sales Intern (Summer 2027) | Plymouth, United States | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Plymouth/OE-Sales-Intern--Summer-2027-_WD49961) | 2026-09-16 |
 | Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/930dd6d3-0467-4aca-bab1-4506eefab676) | 2026-09-16 |
 | Cole Engineering Services | AI Intern | Orlando, FL, United States | [Apply](https://jobs-cesi.icims.com/jobs/11219/ai-intern/job) | 2026-09-16 |
+| Collier Aerospace | NCSG AI Feature Development Internship (Summer 2027) | Raleigh, NC | [Apply](https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827) | 2026-09-16 |
 | Continental | Internship HR - Talent Management & International HR Projects - REF97411K | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000149794019) | 2026-09-16 |
 | Continental | Praktikum - Human Resources - Students Management & HR Operations - REF99378G | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000149789149) | 2026-09-16 |
 | Cook Group | Internship, AI and Data Solutions | West Lafayette, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19270/internship%2c-ai-and-data-solutions/job) | 2026-09-16 |
@@ -15058,9 +15059,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Intern - Performance Marketing Specialist | Bangkok | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Bangkok/Intern---Performance-Marketing-Specialist_R1129452) | 2026-08-25 |
 | Dentsu | PR Intern | Ho Chi Minh City | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/PR-Intern_R1128789) | 2026-08-25 |
 | DESRI | Investment/Strategy Intern (Summer 2027) | New York, NY / Houston, TX / Greenwood Village, CO | [Apply](https://ats.rippling.com/desri-careers/jobs/b798f91b-3cf7-40a6-b76e-6c69a6e45cc2) | 2026-08-25 |
-| DESRI | Legal Intern (Summer 2027) | New York, NY / Houston, TX / Greenwood Village, CO | [Apply](https://ats.rippling.com/desri-careers/jobs/90a69381-dec2-4ae8-90ec-f89f8f1c72be) | 2026-08-25 |
-| DESRI | People/Business Operations Intern (Summer 2027) | Houston, TX / New York, NY / Greenwood Village, CO | [Apply](https://ats.rippling.com/desri-careers/jobs/652623ef-b971-467d-ab99-cf525b2f4a67) | 2026-08-25 |
-| DESRI | Physical Intern (Summer 2027) | Houston, TX / New York, NY / Greenwood Village, CO | [Apply](https://ats.rippling.com/desri-careers/jobs/167c47d9-10de-4dd9-b439-33b67cc65950) | 2026-08-25 |
+| DESRI | Legal Intern (Summer 2027) | Greenwood Village, CO / Houston, TX / New York, NY | [Apply](https://ats.rippling.com/desri-careers/jobs/90a69381-dec2-4ae8-90ec-f89f8f1c72be) | 2026-08-25 |
+| DESRI | People Intern (Summer 2027) | Houston, TX / New York, NY / Greenwood Village, CO | [Apply](https://ats.rippling.com/desri-careers/jobs/652623ef-b971-467d-ab99-cf525b2f4a67) | 2026-08-25 |
+| DESRI | Physical Intern (Summer 2027) | Greenwood Village, CO / New York, NY / Houston, TX | [Apply](https://ats.rippling.com/desri-careers/jobs/167c47d9-10de-4dd9-b439-33b67cc65950) | 2026-08-25 |
 | Diamondback Energy | Summer 2027 Finance Intern | Midland, TX | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Finance-Intern_R100838) | 2026-08-25 |
 | DNV | Fleet in Service Internship - Houston, TX | Houston, TX, United States | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7329) | 2026-08-25 |
 | DuCharme, McMillen & Associates | IT Quality Assurance Intern - Spring 2027 | Fort Wayne, IN | [Apply](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/IT-Quality-Assurance-Intern---Spring-2027_REQ656) | 2026-08-25 |
