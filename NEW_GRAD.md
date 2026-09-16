@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Civil/Wastewater Engineers - Hiring Event with AECOM - New York | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149745666) | 2026-09-16 |
+| AECOM | Entry-Level Biologist - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149674549) | 2026-09-16 |
+| AECOM | Entry-Level Deputy Project Managers - Hiring Event with AECOM - Boston | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149883685) | 2026-09-16 |
 | AMT Engineering | Entry Level Transportation Engineer - December 2026 | Virginia | [Apply](https://jobs.lever.co/amtengineering/16add832-77b3-4e48-a1dd-c5a7a9555104) | 2026-09-16 |
 | AMT Engineering | Entry Level Transportation Engineer - May 2027 | Virginia | [Apply](https://jobs.lever.co/amtengineering/3378287b-9ef9-46ed-b59f-0f2754277566) | 2026-09-16 |
 | AMT Engineering | Entry Level Transportation Engineer - May 2027 | Columbus, OH | [Apply](https://jobs.lever.co/amtengineering/694244fd-26d0-48d6-9cef-07f0f55f2024) | 2026-09-16 |
@@ -28,6 +31,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Mobile Trailer Mechanic | Rochester Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Rochester-NY/Entry-Level-Mobile-Trailer-Mechanic_R202682620-1) | 2026-09-16 |
 | Daniels Health | Early Career Machine Operator - 2nd Shift Blow Mold | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/93c1a3e7-9990-442b-a19a-c55fa70ba72e) | 2026-09-16 |
 | Edwards Lifesciences | Business & Supply Chain Graduate Program | Ireland-Limerick | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Ireland-Limerick/Business---Supply-Chain-Graduate-Program_Req-50891-1) | 2026-09-16 |
+| Eurofins | Associate Scientist l (SST) (Full-Time/Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149693739) | 2026-09-16 |
+| Eurofins | Entry Level Chemist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149686059) | 2026-09-16 |
+| Eurofins | Entry Level Chemist- TASC | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149897039) | 2026-09-16 |
+| Eurofins | Laboratory Support Technician- PT (entry-level), Eurofins Environment Testing, Earth City , MO | Earth City, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149705520) | 2026-09-16 |
+| Eurofins | Sample Admin Specialist- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149715659) | 2026-09-16 |
 | Freudenberg Group | Tool Shop Operator (Entry Level) - 2nd Shift | Northfield, NH | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Northfield-NH/Tool-Shop-Operator--Entry-Level----2nd-Shift_R_00107207) | 2026-09-16 |
 | GE Vernova | Entry Level Industrial Plumber/Steamfitter | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/Entry-Level-Industrial-Plumber-Steamfitter_R5053058-2) | 2026-09-16 |
 | GE Vernova - vernova_externalsite | Entry Level Industrial Plumber/Steamfitter | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Schenectady/Entry-Level-Industrial-Plumber-Steamfitter_R5053058-3) | 2026-09-16 |
@@ -121,7 +129,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Entry-Level Substation Electrical Engineer | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95247) | 2026-09-15 |
 | Advocate Health Care | Registered Nurse(RN)- New Graduate- Interventional Cardiology | Winston Salem | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Winston-Salem-NC---1-Medical-Center-Blvd/Registered-Nurse-RN---New-Graduate--Interventional-Cardiology_R273402) | 2026-09-14 |
 | AECOM | Entry Level Construction Engineer | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149398309) | 2026-09-14 |
-| AECOM | Entry-Level Biologist - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149341299) | 2026-09-14 |
 | AECOM | Entry-Level Civil Engineer - Aviation - Hiring Event with AECOM - Boston | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149343540) | 2026-09-14 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149390664) | 2026-09-14 |
 | AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149338704) | 2026-09-14 |
@@ -220,7 +227,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eurofins | Entry Level Analytical Chemist- GC/LC | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149104959) | 2026-09-12 |
 | Eurofins | Entry Level Associate Bioassay Scientist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149079000) | 2026-09-12 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149082799) | 2026-09-12 |
-| Eurofins | Entry Level Chemist: Trace Analysis and Structural Chemistry | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149104169) | 2026-09-12 |
 | Eurofins | Laboratory Technician I (Entry-Level/Non-Degree) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149066189) | 2026-09-12 |
 | Eurofins | Sample Handling Associate (Entry-level/Non-degree) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149069870) | 2026-09-12 |
 | Eurofins | Sample Receiving Technician (Entry-level/Non-degree) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149070126) | 2026-09-12 |
@@ -383,7 +389,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Richmond, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94863) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Hamilton, NJ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94866) | 2026-09-10 |
 | WSP | Early Career Transmission Line Civil Engineer | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94700) | 2026-09-10 |
-| AECOM | Civil Engineer (Entry-Level) | San Juan, PR, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148553808) | 2026-09-09 |
 | AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148530158) | 2026-09-09 |
 | AECOM | Entry-Level Geologist/Environmental Scientist - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148516309) | 2026-09-09 |
 | Applied Intuition | Electrical System Integration Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e) | 2026-09-09 |
@@ -627,8 +632,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ACCIONA | Communications & Stakeholder Management graduate - Graduate Program 2027 | Brisbane / Perth | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Communications---Stakeholder-Management-graduate---Graduate-Program-2027_20101511) | 2026-09-03 |
 | ACCIONA | Human Resources graduate - Graduate Program 2027 | Brisbane / Adelaide / Sydney | [Apply](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Brisbane/Human-Resources-graduate---Graduate-Program-2027_20101516) | 2026-09-03 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Med/Surg 4GHJ | Concord, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Cabarrus---920-Church-St-N-Concord-NC/New-Graduate-Registered-Nurse--RN----Med-Surg-4GHJ_R268475) | 2026-09-03 |
-| AECOM | Entry Level Geotechnical Engineer - Networking Event with AECOM – New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147036995) | 2026-09-03 |
-| AECOM | Entry Level Geotechnical Engineer - Networking Event with AECOM – New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147036909) | 2026-09-03 |
 | AECOM | Entry-Level Architectural Designer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147085949) | 2026-09-03 |
 | AECOM | Entry-Level Architectural Designer - Hiring Event with AECOM - New York City | Bloomfield, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147085690) | 2026-09-03 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147042808) | 2026-09-03 |
@@ -696,7 +699,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Mechanical Engineer - Buildings | Irvine, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94597) | 2026-09-03 |
 | WSP | Early Career Substation Electrical Engineer | San Diego, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94480) | 2026-09-03 |
 | WSP | Entry Level Substation Structural Engineer | Duluth, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94471) | 2026-09-03 |
-| AECOM | AECOM Is Hosting A Networking Event For Upcoming Entry-Level BIM Specialist in New York City! | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147026220) | 2026-09-02 |
 | AeroVironment | Entry-Level Software Engineer | Austin, TX | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600) | 2026-09-02 |
 | Applied Materials | R&D Process Engineer (Entry-level) | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/R-D-Process-Engineer--Entry-level-_R2627816) | 2026-09-02 |
 | BDO | New Grad: Junior Accountant, Assurance - Winnipeg (January 2027) | Winnipeg | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Winnipeg/New-Grad--Junior-Accountant--Assurance---Winnipeg--January-2027-_JR6982) | 2026-09-02 |
