@@ -7,6 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AMT Engineering | Entry Level Transportation Engineer - December 2026 | Virginia | [Apply](https://jobs.lever.co/amtengineering/16add832-77b3-4e48-a1dd-c5a7a9555104) | 2026-09-16 |
+| AMT Engineering | Entry Level Transportation Engineer - May 2027 | Virginia | [Apply](https://jobs.lever.co/amtengineering/3378287b-9ef9-46ed-b59f-0f2754277566) | 2026-09-16 |
+| AMT Engineering | Entry Level Transportation Engineer - May 2027 | Columbus, OH | [Apply](https://jobs.lever.co/amtengineering/694244fd-26d0-48d6-9cef-07f0f55f2024) | 2026-09-16 |
+| AMT Engineering | Entry Level Transportation Engineer - May 2027 | Maryland | [Apply](https://jobs.lever.co/amtengineering/69be69f5-785b-4a97-ab16-7be3ae8e971c) | 2026-09-16 |
 | Applied Materials | Sales Operations-New Graduate-Shanghai | Chn | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Sales-Operations-New-Graduate-Shanghai_R2628605) | 2026-09-16 |
 | AutoNation | Entry Level Lube Technician \| AutoNation CDJR Arapahoe \| Pays $20/hourly | Autonation Chrysler Dodge Jeep Ram Arapahoe | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chrysler-Dodge-Jeep-Ram-Arapahoe/Entry-Level-Lube-Technician---AutoNation-CDJR-Arapahoe---Pays--20-hourly_JR2026149157) | 2026-09-16 |
 | Barr | Geotechnical Engineer – Entry Level (Hybrid) | Duluth, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Duluth-MN/Geotechnical-Engineer---Entry-Level--Hybrid-_R-102341) | 2026-09-16 |
@@ -19,6 +23,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Med Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Med-Surg_337783) | 2026-09-16 |
 | Cleveland Clinic | New Grad RN Resident – Pre/Post PACU Neuro Expansion | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Pre-Post-PACU-Neuro-Expansion_354942) | 2026-09-16 |
 | Cox | Entry Level Mobile Trailer Mechanic | Rochester Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Rochester-NY/Entry-Level-Mobile-Trailer-Mechanic_R202682620-1) | 2026-09-16 |
+| Daniels Health | Early Career Machine Operator - 2nd Shift Blow Mold | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/93c1a3e7-9990-442b-a19a-c55fa70ba72e) | 2026-09-16 |
 | Edwards Lifesciences | Business & Supply Chain Graduate Program | Ireland-Limerick | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Ireland-Limerick/Business---Supply-Chain-Graduate-Program_Req-50891-1) | 2026-09-16 |
 | Freudenberg Group | Tool Shop Operator (Entry Level) - 2nd Shift | Northfield, NH | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Northfield-NH/Tool-Shop-Operator--Entry-Level----2nd-Shift_R_00107207) | 2026-09-16 |
 | GE Vernova | Entry Level Industrial Plumber/Steamfitter | Schenectady | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/Entry-Level-Industrial-Plumber-Steamfitter_R5053058-2) | 2026-09-16 |
