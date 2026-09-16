@@ -1626,6 +1626,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | N1 | New Grad Software Engineer (Full Stack) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a) | 2026-06-17 |
 | National Indemnity Company | Entry Level Underwriter | Omaha, NE | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Entry-Level-Underwriter_R14735) | 2026-06-17 |
 | Prosidian Consulting | Entry Level Payroll Specialist \| Payroll Specialist [COC0052051] | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/prosidianconsulting/744000082025922) | 2026-06-17 |
+| Rilla | Software Engineer, New Grads | New York, United States | [Apply](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5) | 2026-06-17 |
 | RoviSys | Entry Level Engineer/Developer | Westborough, MA, United States | [Apply](https://careers-rovisys.icims.com/jobs/2011/entry-level-engineer-developer/job) | 2026-06-17 |
 | RoviSys | Entry Level Engineer/Developer | Houston, TX, United States | [Apply](https://careers-rovisys.icims.com/jobs/1894/entry-level-engineer-developer/job) | 2026-06-17 |
 | Sanford Health | New Grad LPN - Bismarck | ND | [Apply](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/ND-Bismarck/New-Grad-LPN---Bismarck_R-0205478) | 2026-06-17 |
