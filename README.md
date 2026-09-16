@@ -145,6 +145,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Applied Materials | College Intern | Mys | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/PenangMYS/College-Intern_R2627745) | 2026-09-16 |
 | Applied Materials | Regional Strategy and Partnerships Intern | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Regional-Strategy-and-Partnerships-Intern_R2628817) | 2026-09-16 |
 | Ardian | Infrastructure Intern - December 2026I Milan (M/F) | Milan | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Milan/Infrastructure-Intern---December-2026I-Milan--M-F-_JR1002238) | 2026-09-16 |
+| Ascendis Pharma | Marketing Intern | Italy | [Apply](https://apply.workable.com/ascendis-pharma/j/26775BFB40/) | 2026-09-16 |
 | ASM Global | Stage Red Event Services Coordinator | Fontana, Canada | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Fontana-CA/Stage-Red-Event-Services-Coordinator_R100125508) | 2026-09-16 |
 | ASM Global | Stage Red F&B Server | Stage Red Theater | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Stage-Red-Theater/Stage-Red-F-B-Server_R100125490) | 2026-09-16 |
 | ASM Global | Stage Red Food & Beverage Bartender | Stage Red Theater | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Stage-Red-Theater/Stage-Red-Food---Beverage-Bartender_R100125494-1) | 2026-09-16 |
