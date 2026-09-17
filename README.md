@@ -433,6 +433,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Intel | Data Science and Analytics Student | Kiryat-Gat | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Kiryat-Gat/Data-Science-and-Analytics-Student_JR0286939) | 2026-09-17 |
 | Intel | Software Student for x86 Validation Tools | Haifa | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Haifa/Software-Student-for-x86-Validation-Tools_JR0287280) | 2026-09-17 |
 | Intel | Undergrad Intern Sales and Marketing | Seoul | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/South-Korea-Seoul/Undergrad-Intern-Sales-and-Marketing_JR0287304) | 2026-09-17 |
+| Intelliguard | Part-Time-Engineering Intern – R&D | Columbus, OH | [Apply](https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f) | 2026-09-17 |
 | Intermountain Healthcare | Pharmacy Intern | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Pharmacy-Intern_R183632) | 2026-09-17 |
 | Intermountain Healthcare | Radiology Tech Student -LPT | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Radiology-Tech-Student--LPT_R183749) | 2026-09-17 |
 | Invesco | Early Career Intern - Private Markets Product | Georgia | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | 2026-09-17 |
@@ -16222,7 +16223,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Weave | Data Engineer Intern | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d) | 2026-08-24 |
 | Western Digital | Intern - AI Information Technology (Studying Master's and Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000145156358) | 2026-08-24 |
 | Zoomifier | Software Development Intern | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/CustomShow/75886593) | 2026-08-24 |
-| Zuckerman Investment Group | Investment Analyst – MBA Internship | Chicago, IL | [Apply](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | 2026-08-24 |
 | Expeditors | Sales internship | Scottsdale, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000144890329) | 2026-08-23 |
 | Loblaw Companies | Pizza Student Part Time Day | North York, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/700-Lawrence-Ave-W-North-York-ON/Pizza-Student-Part-Time-Day_R2000697858) | 2026-08-23 |
 | PricewaterhouseCoopers (PwC) | FY 27 - Internship - Enterprise System and Transformation Assurance | Jakarta | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Jakarta/FY-27---Internship---Enterprise-System-and-Transformation-Assurance_754342WD) | 2026-08-23 |
