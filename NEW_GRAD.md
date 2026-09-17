@@ -429,8 +429,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Transmission Line Civil Engineer | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94700) | 2026-09-10 |
 | AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148530158) | 2026-09-09 |
 | AECOM | Entry-Level Geologist/Environmental Scientist - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148516309) | 2026-09-09 |
-| Applied Intuition | Electrical System Integration Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e) | 2026-09-09 |
-| Applied Intuition | Mechanical Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | 2026-09-09 |
+| Applied Intuition | Electrical System Integration Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e) | 2026-09-09 |
+| Applied Intuition | Mechanical Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6e57a97e-62bb-46fb-92ec-dd12831fd6f9) | 2026-09-09 |
 | Arcadis | Entry Level Geologist/Environmental Scientist | Paramus, NJ, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44088) | 2026-09-09 |
 | Baldwin Group | Entry Level Insurance Sales - Personal Lines | Florida, United States | [Apply](https://baldwin.wd1.myworkdayjobs.com/Baldwin/job/Boca-Raton-Florida-US/Entry-Level-Insurance-Sales---Personal-Lines_JR110162) | 2026-09-09 |
 | Barr | GIS Specialist – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/GIS-Specialist---Entry-Level--Hybrid-_R-102332-1) | 2026-09-09 |
@@ -681,7 +681,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Amcor | Customer Success Representative- Entry Level | Acd Devens Ma | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Devens-MA/Customer-Success-Representative--Entry-Level_REQ_95897) | 2026-09-03 |
 | Amcor | Entry Level Manufacturing | Af Oshkosh South Wi / Af Oshkosh Converter Films Wi / Af Oshkosh North Wi / Af Oshkosh Specialty Films Wi | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-South-WI/Entry-Level-Manufacturing_REQ_95885) | 2026-09-03 |
 | Anduril | 2027 Early Career Flight Software Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 2026-09-03 |
-| Applied Intuition | Cybersecurity Software Engineer - New Grad (December 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | 2026-09-03 |
+| Applied Intuition | Cybersecurity Software Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | 2026-09-03 |
 | Applied Intuition | Forward Deployed Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | 2026-09-03 |
 | Arcadis | Entry-Level Electrical Engineer (Power) | Columbus, OH, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43843) | 2026-09-03 |
 | AutoNation | Entry Level Technician-Audi Plano-$18.00/HR | Audi Plano | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Audi-Plano/Entry-Level-Technician-Audi-Plano--1800-HR_JR2026148631) | 2026-09-03 |
@@ -918,8 +918,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Calgary | Calgary, AB | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Calgary-AB/Associate--Commercial-Banking-Associate-Program---New-Grad---Calgary_2617869) | 2026-08-28 |
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Edmonton | Edmonton, AB | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Edmonton-AB/Associate--Commercial-Banking-Associate-Program---New-Grad---Edmonton_2617818) | 2026-08-28 |
 | Cox | Entry Level Mobile Diesel Mechanic | Hillsborough Nj | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Hillsborough-NJ/Entry-Level-Mobile-Diesel-Mechanic_R202681894) | 2026-08-28 |
-| Eight Sleep | Electrical Engineer (New Grad / Spring 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294) | 2026-08-28 |
-| Eight Sleep | Mechanical Engineer (New Grad / Spring 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96) | 2026-08-28 |
+| Eight Sleep | Electrical Engineer (New Grad 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294) | 2026-08-28 |
+| Eight Sleep | Mechanical Engineer (New Grad 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96) | 2026-08-28 |
 | Hewlett Packard (HP) | Product Engineer - Electrical (Phetchaburi-Based) New Grads welcome | Thailand | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Khao-Yoi-Phetchaburi-Thailand/Product-Engineer---Electrical--Phetchaburi-Based--New-Grads-welcome_3167811) | 2026-08-28 |
 | HNTB | New Grad Engineer I - Summer 2027 | Indianapolis, IN | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Indianapolis-IN/New-Grad-Engineer-I---Summer-2027_R-31387-1) | 2026-08-28 |
 | HNTB - hntb_university_careers | New Grad Engineer I - Summer 2027 | Indianapolis, IN | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Indianapolis-IN/New-Grad-Engineer-I---Summer-2027_R-31387) | 2026-08-28 |
@@ -1033,8 +1033,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Co Or Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) | 2026-08-26 |
 | Valmont | Welder Entry Level | Valley Ne | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Welder-Entry-Level_R28550) | 2026-08-26 |
 | Vanguard - vanguard_external | Entry Level Application Engineer - Dallas - 2027 Start Date | Dallas / Ft. Worth, TX | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853) | 2026-08-26 |
-| Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
 | Zip | Software Engineer, New Grad (2027 Start) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea) | 2026-08-26 |
+| Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
 | Applied Intuition | Build & Release Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
 | Applied Intuition | UX Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
@@ -1182,12 +1182,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MPR Associates | Early Career Engineer | Alexandria, VA, United States | [Apply](https://careers-mpr.icims.com/jobs/1523/early-career-engineer/job) | 2026-08-17 |
 | AbbVie | Early Career Talent - Algeria | Algeria | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616066) | 2026-08-16 |
 | AbbVie | Early Career Talent - Tunisia | Tunisia | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014616036) | 2026-08-16 |
-| Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
+| Applied Intuition | Embedded Software Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
 | Applied Intuition | Embedded Test Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | 2026-08-15 |
 | Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
-| Applied Intuition | Scenario Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | 2026-08-15 |
+| Applied Intuition | Scenario Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | 2026-08-15 |
 | Applied Intuition | Software Engineer - New Grad (December 2026) | California, United States / Ann Arbor | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | 2026-08-15 |
-| Applied Intuition | Software Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
+| Applied Intuition | Software Integration Engineer - New Grad (December 2026) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
 | Barr | Civil Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Civil-Engineer---Entry-Level--Hybrid-_R-102245) | 2026-08-15 |
 | Barr | Civil Engineer – Entry Level (Hybrid) | Denver, CO | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Denver-CO/Civil-Engineer---Entry-Level--Hybrid-_R-102244) | 2026-08-15 |
 | Notion | Software Engineer, New Grad (Dec 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 2026-08-15 |
