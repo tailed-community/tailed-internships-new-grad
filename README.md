@@ -504,6 +504,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Micron Technology | TSE KEG Intern Engineer | Id Main Site | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283) | 2026-09-18 |
 | Mitsubishi UFG | 6 months internship - Stagiaire Direction Juridique/Legal Counsel Internship - January 2027 | Paris | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Paris/XMLNAME-6-months-internship---Stagiaire-Direction-Juridique-Legal-Counsel-Internship---January-2027_10079577-WD-1) | 2026-09-18 |
 | Momentive | Finance Rotational Co-op Program - 2027 | US Ny Niskayuna | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Finance-Rotational-Co-op-Program---2027_R9849-1) | 2026-09-18 |
+| Mytra | Robotics Intern - Winter 2026 | Brisbane, Canada | [Apply](https://ats.rippling.com/mytra/jobs/ce0c1a3b-21b5-42df-a710-1def7071dfd8) | 2026-09-18 |
 | National Indemnity Company | 2027 Summer Internships | Omaha, NE | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/XMLNAME-2027-Summer-Internships_R14954-1) | 2026-09-18 |
 | Navy Federal | Intern - Year Round (Maintenance Services) | Pensacola, FL, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32234) | 2026-09-18 |
 | Navy Federal | Intern - Year Round (Workplace Infrastructure & Analytics - Data Analyst) | Vienna, VA, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32376) | 2026-09-18 |
@@ -10468,7 +10469,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Equity | Accounting Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5228997007) | 2026-09-04 |
 | American Equity | Expense Management Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230490007) | 2026-09-04 |
 | American Equity | Tax Intern | Iowa, United States | [Apply](https://www.american-equity.com/about/careers/openings?gh_jid=5230498007) | 2026-09-04 |
-| American Rare Earths | Geology Intern (Fall 2026) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/6b0dab18-de97-4a51-bb9a-77eb735d8b75) | 2026-09-04 |
+| American Rare Earths | Geology Intern (Fall 2026) - Immediate Start | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/6b0dab18-de97-4a51-bb9a-77eb735d8b75) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Cleveland, OH | Cleveland, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3190/utility-infrastructure-internship---cleveland%2c-oh/job) | 2026-09-04 |
 | American Structurepoint | Utility Infrastructure Internship - Columbus, OH | Columbus, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3189/utility-infrastructure-internship---columbus%2c-oh/job) | 2026-09-04 |
 | American Tower | Engineering Co-Op | Cary, NC, United States | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2906) | 2026-09-04 |
