@@ -1756,7 +1756,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Base Power | Member Experience (New Grad) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/74d12075-e78d-4b1f-a9a1-f51b55b8ecb2) | 2026-06-08 |
 | Brain Co. | Early Career Machine Learning Engineer, Applied AI | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839) | 2026-06-08 |
 | Cleveland Clinic | New Grad RN Resident - High-Acuity Cardiovascular Care | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Stepdown-Unit_324977) | 2026-06-08 |
-| Deliveroo | Software Engineer, New Grad | City Of, United Kingdom | [Apply](https://jobs.ashbyhq.com/deliveroo/2b69d23b-30b5-46c8-95e8-48258ec05636) | 2026-06-08 |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Northwood Space | Software Engineer – General (new grad / early career) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) | 2026-06-08 |
