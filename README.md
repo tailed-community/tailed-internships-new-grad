@@ -1185,11 +1185,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Walt Disney Company | KGO-TV (ABC7) Assignment Desk News Intern, Spring 2027 | San Francisco, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/San-Francisco-CA-USA/KGO-TV--ABC7--Assignment-Desk-News-Intern--Spring-2027_10158968-1) | 2026-09-18 |
 | The Walt Disney Company | Production Internship | Portugal | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lisbon-Portugal/Production-Internship_10159709-1) | 2026-09-18 |
 | The Walt Disney Company | Store Planning Intern, Spring 2027 | Anaheim, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Store-Planning-Intern--Spring-2027_10161016) | 2026-09-18 |
-| TMEIC | Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075) | Virginia, United States | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/) | 2026-09-18 |
-| TMEIC | Intern - Engineer (Spring 2027) EIS (ET26076) | Texas, United States | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/) | 2026-09-18 |
-| TMEIC | Intern - Engineer (Spring 2027) EIS (ET26077) | Virginia, United States | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/) | 2026-09-18 |
-| TMEIC | Intern - Engineer (Spring2027) IS (ET26080) | Virginia, United States | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/) | 2026-09-18 |
-| TMEIC | Intern - Project Finance EIS (Spring 2027) (ET26096) | Texas, United States | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/C79B296DE7/) | 2026-09-18 |
 | Tokyo Electron | Manufacturing Engineer 2027 Summer Intern | Chaska | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590) | 2026-09-18 |
 | Tokyo Electron | Process Engineer 2027 Summer Intern | Hillsboro Qrs Shared | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Hillsboro-QRS-Shared/Process-Engineer-2027-Summer-Intern_R26-01589) | 2026-09-18 |
 | Tokyo Electron | Process Engineer 2027 Summer Intern | Chaska | [Apply](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Process-Engineer-2027-Summer-Intern_R26-01591) | 2026-09-18 |
