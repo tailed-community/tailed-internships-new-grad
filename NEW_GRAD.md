@@ -1935,15 +1935,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Capital One | Associate, Strategy Analyst - New Grad 2027 | Toronto, ON | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1) | 2026-05-23 |
 | Stripe | Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7544547) | 2026-05-23 |
 | Stripe | Tech Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7718947) | 2026-05-23 |
-| Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Berlin | [Apply](https://jobs.lever.co/veeva/876642c1-f063-492e-aab4-16d650b9da33) | 2026-05-22 |
-| Veeva Systems | Associate Consultant (Germany) - Entry-Level Technology Consulting (Life Sciences) | Germany Frankfurt | [Apply](https://jobs.lever.co/veeva/d07a89ac-a962-47ee-abb2-78ffe7aa5f4c) | 2026-05-22 |
-| Veeva Systems | Associate Consultant (Hungary) - Entry-Level Technology Consulting (Life Sciences) | Hungary Budapest | [Apply](https://jobs.lever.co/veeva/063e192f-f529-45c0-a1c3-1b7e571d55f3) | 2026-05-22 |
-| Veeva Systems | Associate Consultant (Poland) - Entry-Level Technology Consulting (Life Sciences) | Poland Warsaw | [Apply](https://jobs.lever.co/veeva/12699530-1d1e-4b90-b9ba-bd7870948356) | 2026-05-22 |
-| Veeva Systems | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) | 2026-05-22 |
-| Veeva Systems | Associate Consultant (UK) - Entry-Level Technology Consulting (Life Sciences) | United Kingdom London | [Apply](https://jobs.lever.co/veeva/093ee100-dfc8-4dc4-9a44-469eb2b1bd48) | 2026-05-22 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Life Sciences) | New York New York City | [Apply](https://jobs.lever.co/veeva/1584186a-ba9d-4827-9ecb-e7caec98d966) | 2026-05-22 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Life Sciences) | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/bf283bc3-6990-4b10-9005-cd685fc778de) | 2026-05-22 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Life Sciences) | Wisconsin Madison | [Apply](https://jobs.lever.co/veeva/fefcf570-9a35-49f8-83ba-bdb0723cba71) | 2026-05-22 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b) | 2026-05-22 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711) | 2026-05-22 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Warsaw | [Apply](https://jobs.lever.co/veeva/6ff937b5-3d27-4401-8019-951d2ceaced6) | 2026-05-22 |

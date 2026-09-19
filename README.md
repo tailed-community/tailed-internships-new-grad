@@ -23,6 +23,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | ABB | Order Execution Intern | Wisconsin, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Order-Execution-Intern_JR00045945) | 2026-09-19 |
 | ABB | Planning & Fulfillment Intern - Summer 2027 | Wisconsin, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Planning---Fulfillment-Intern---Summer-2027_JR00045988) | 2026-09-19 |
+| Achievers | Software Engineering Co-op - Winter 2027 | Toronto | [Apply](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181) | 2026-09-19 |
+| Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | [Apply](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed) | 2026-09-19 |
+| Acron Aviation | Systems Engineer Intern - St. Pete Site | St Petersburg, FL | [Apply](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184) | 2026-09-19 |
+| Acron Aviation | Test Engineer Intern - Grand Rapids Site | Grand Rapids, MI | [Apply](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7) | 2026-09-19 |
 | AIMCo | Student, Enterprise Risk Management (Fall 2026) | Edmonton / Calgary | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Enterprise-Risk-Management--Fall-2026-_JR100918) | 2026-09-19 |
 | AIMCo | Student, Treasury & Payments (Winter 2027) | Edmonton / Calgary | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Treasury---Payments--Winter-2027-_JR100919) | 2026-09-19 |
 | Airbus | Stage 2027 - Digitalisation & Automatisation de Dashboard Skywise (h/f) | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Stage-2027---Digitalisation---Automatisation-de-Dashboard-Skywise--h-f-_JR10441510) | 2026-09-19 |
@@ -146,6 +150,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | FX Design & VFX Intern, Spring 2027 | Burbank, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082) | 2026-09-19 |
 | Disney | Global Security Design & Engineering Intern, Spring 2027 | Glendale, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Global-Security-Design---Engineering-Intern--Spring-2027_10160013) | 2026-09-19 |
 | DPR Family of Companies | Construction Intern | Orlando, FL | [Apply](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Orlando-FL/Construction-Intern_JR-16627) | 2026-09-19 |
+| E-Space | Technical Intern: Equipment Commissioning Support (Korean/English) | Arlington, TX | [Apply](https://jobs.lever.co/espace/a9147805-46e7-4b43-bbea-738a1fa1c88c) | 2026-09-19 |
+| EQ Bank | Intern - Financial Analyst, Starting Fall 2026 | Toronto | [Apply](https://jobs.lever.co/eqbank/9a24aebc-33b8-442b-829b-02319097e8ba) | 2026-09-19 |
 | Erickson Senior Living | Student Server | Highlands Ranch, CO | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Highlands-Ranch-CO/Server_R0077667) | 2026-09-19 |
 | Euronext | ECS Intern | Dublin | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Dublin/ECS-Intern_R28629) | 2026-09-19 |
 | Excellus BCBS | College Intern - Summer 2027 - Desktop Support | Rochester / Dewitt | [Apply](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Desktop-Support_JR104019) | 2026-09-19 |
@@ -347,6 +353,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Texas at Austin | Senior Student Consultant | Austin, TX | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Senior-Student-Consultant_R_00048933) | 2026-09-19 |
 | USAA | Operations – Digital/Technical Product Manager Intern | San Antonio Home Office I | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101) | 2026-09-19 |
 | Valeo | Mechatronics Engineering Co-Op | Troy, MI | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op_REQ2026079866) | 2026-09-19 |
+| Ware Malcomb | Prácticas Profesionales, Arquitectura (Intern, Architecture) | Mexico City | [Apply](https://jobs.lever.co/waremalcomb/537cf0b7-b228-4e8e-aa66-f70328f24630) | 2026-09-19 |
 | Watts Water | Research & Development Engineering Intern, Summer 2027 | Blauvelt, NY | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Blauvelt-NY/Research---Development-Engineering-Intern--Summer-2027_10017515) | 2026-09-19 |
 | Western Governors University | Associate Learning Experience Designer- Student Success Operations Support | Salt Lake City, UT | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Learning-Experience-Designer--Student-Success-Operations-Support_JR-026118) | 2026-09-19 |
 | Xcel Energy | Regulatory Business Intern - CO | Denver, CO | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Regulatory-Business-Intern---CO_JR115914-1) | 2026-09-19 |
@@ -3272,7 +3279,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Enterprise Mobility | Summer 2027 Management Trainee Intern- Central NJ | Central Nj (redbank / Asbury) | [Apply](https://us-erac.icims.com/jobs/566124/summer-2027-management-trainee-intern--central-nj/job) | 2026-09-15 |
 | Epic Games | Communications Intern | North Carolina, United States | [Apply](https://epicgames.com/careers/jobs/6152496004?gh_jid=6152496004) | 2026-09-15 |
 | EQ Bank | Intern - Commercial Lending AI Engineer, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487) | 2026-09-15 |
-| EQ Bank | Intern - Financial Analyst, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/37abebd1-30e7-48f7-bec6-6d8a64ef0681) | 2026-09-15 |
 | EQ Bank | Intern - Modern Workplace Analyst, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/53d0826c-baeb-4ba6-87e5-7d6d416c1da7) | 2026-09-15 |
 | EQ Bank | Intern - PC Mastercard Lifecycle Management & Partnerships, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/b8cab018-3e0d-439e-ba11-963aa4920af7) | 2026-09-15 |
 | EQ Bank | Intern - Retail Lending AI Engineer, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea) | 2026-09-15 |
@@ -5705,7 +5711,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Quantinuum | IT Applications Intern - 984 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b) | 2026-09-12 |
 | Quantinuum | Layout Automation Developer Intern - 993 | US Brooklyn Park, MN | [Apply](https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0) | 2026-09-12 |
 | Quantinuum | Manufacturing Engineering Intern - 998 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/acec8ce5-b42e-4b16-8dc2-6ae715bfda80) | 2026-09-12 |
-| Quantinuum | Materials and Process Engineering Intern - 991 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/7d3818af-bf02-49ef-81f2-2962a22a02e3) | 2026-09-12 |
 | Quantinuum | Metasurface Optical Design Intern - 994 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/ca00d719-ecda-4245-9c41-0da221dc2bb5) | 2026-09-12 |
 | Quantinuum | Metasurface Resonant Photonic Design Intern - 988 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/dc2d5427-8263-400f-9ca7-501d2e17162f) | 2026-09-12 |
 | Quantinuum | PIC Design Intern - 995 | US Broomfield, CO / US Albuquerque, NM | [Apply](https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107) | 2026-09-12 |
@@ -21843,6 +21848,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HCVT | Tax Internship - Summer 2027 | Pasadena, Canada | [Apply](https://jobs.lever.co/hcvt/2b3dec49-1e99-4b25-9464-96bc20cf51b1) | 2026-06-17 |
 | HCVT | Tax Internship - Summer 2027 | Salt Lake City, UT | [Apply](https://jobs.lever.co/hcvt/2f4d5b8b-b5ea-4f74-96ec-a16313edf411) | 2026-06-17 |
 | HCVT | Tax Internship - Summer 2027 | West Los Angeles, Canada | [Apply](https://jobs.lever.co/hcvt/3f638f46-0380-4a53-9328-882830646ba8) | 2026-06-17 |
+| HCVT | Tax Internship - Summer 2027 | Fort Worth, TX | [Apply](https://jobs.lever.co/hcvt/cedf0491-2eb1-4393-842f-b15415d89948) | 2026-06-17 |
 | Hexagon AB | Mechanical Engineering Intern | Torrance, United States | [Apply](https://careers-hexagonpositioning.icims.com/jobs/2998/mechanical-engineering-intern/job) | 2026-06-17 |
 | Honeywell - CX_1 | Electrical Engineer - Summer 2026 Intern - Puerto Rico | Puerto Rico | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/122793) | 2026-06-17 |
 | Imerys - imerys_career2 | Stage | Belgium | [Apply](https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Willebroek-Belgium/Stage_REQ-08062) | 2026-06-17 |
