@@ -4228,8 +4228,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Services – Treasury and Trade Solutions, Internship, São Paulo – Brazil – 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Services---Treasury-and-Trade-Solutions--Internship--So-Paulo---Brazil---2026_26992878) | 2026-09-14 |
 | Citizens Financial Group | Treasury and Balance Sheet Strategies Graduate Internship 2027 | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49158) | 2026-09-14 |
 | Clarios | Intern/Working Student (m/f/d) in FEM Simulation & Battery Development | Hannover | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Germany-Hannover/Intern-Working-Student--m-f-d--in-FEM-Simulation---Battery-Development_WD50043) | 2026-09-14 |
-| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/a6a5e5cd-2a69-4aaf-9e2e-eba2e2107028) | 2026-09-14 |
-| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/0d4fbe6d-8fec-4282-b85c-1df862ab0be9) | 2026-09-14 |
 | Clera | Sales Internship | Germany | [Apply](https://jobs.ashbyhq.com/clera/a8b9670b-21e4-4d9c-9238-c3e6d1352b9e) | 2026-09-14 |
 | Cleveland Clinic | Pharmacy Intern - Inpatient | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Pharmacy-Intern---Inpatient_347121) | 2026-09-14 |
 | Cleveland-Cliffs | Civil Engineering Intern | Ctc | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/CTC/Civil-Engineering-Intern_R13496) | 2026-09-14 |
