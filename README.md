@@ -2966,7 +2966,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Southern New Hampshire University | Student - Duet Student Center Assistant | Remote | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Duet-Student-Center-Assistant_R0014795) | 2026-09-16 |
 | Span | HR Intern | India | [Apply](https://jobs.ashbyhq.com/span/1a44454a-c4eb-4a73-8f5b-7d3b921c0c1f) | 2026-09-16 |
 | SSOE Group | Mechanical Designer Part-Time Internship | Phoenix, AZ, United States | [Apply](https://careers-ssoe.icims.com/jobs/3814/mechanical-designer-part-time-internship/job) | 2026-09-16 |
-| SSOE Group | Software Developer Intern - Fall 2026 | Toledo, OH, United States | [Apply](https://careers-ssoe.icims.com/jobs/3812/software-developer-intern---fall-2026/job) | 2026-09-16 |
 | Stand Together | KIP Spring 2027 - Policy Intern - Foundation for Research on Equal Opportunity | Washington, DC | [Apply](https://jobs.lever.co/standtogether/5546b440-6b61-4c36-8c3a-33a3df4af994) | 2026-09-16 |
 | Stand Together | KIP Spring 2027 - Policy Intern - Illinois Policy Institute | Illinois | [Apply](https://jobs.lever.co/standtogether/2ac29d6d-45a2-4e50-97a2-bf8c463a3f36) | 2026-09-16 |
 | Standard Aero | Finance Intern (Summer) | Scottsdale, AZ, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10180) | 2026-09-16 |
@@ -6819,7 +6818,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Visier Solutions | Software Developer Co-op (January to August 2027) | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) | 2026-09-11 |
 | Visier Solutions | Test Developer Co-op (January to August 2027) | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006) | 2026-09-11 |
 | Voya Financial | Summer 2027 Finance Intern | United States Remote | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Finance-Intern_JR0033183) | 2026-09-11 |
-| Waters Corporation | Electrical Technician Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/25894/electrical-technician-co-op/job) | 2026-09-11 |
+| Waters Corporation | Electrical Technician Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/25894/2026-25894/job) | 2026-09-11 |
 | Weiss Asset Management | Investment Compliance Co-op | Massachusetts, United States | [Apply](https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797074002) | 2026-09-11 |
 | Weiss Asset Management | Investment Operations Co-op | Massachusetts, United States | [Apply](https://job-boards.greenhouse.io/weissassetmanagement/jobs/8797380002) | 2026-09-11 |
 | Wellington Management | Business Undergraduate Summer Internship | Boston, MA, United States | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Business-Undergraduate-Summer-Internship_R94777) | 2026-09-11 |
@@ -7085,7 +7084,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crest Industries | Developer Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd) | 2026-09-10 |
 | Crest Industries | Enterprise Technology Operations Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/79751f7f-fd05-4b5a-8154-f8f2819cf900) | 2026-09-10 |
 | Crest Industries | Security Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd) | 2026-09-10 |
-| Cummings Electrical | Pharmacy Internship - Huntsman Mental Health | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/85933/pharmacy-internship/job) | 2026-09-10 |
+| Cummings Electrical | Pharmacy Internship - Huntsman Mental Health | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/85933/pharmacy-internship---huntsman-mental-health/job) | 2026-09-10 |
 | Cummins | IT Intern - 视频剪辑实习生 | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437995) | 2026-09-10 |
 | Curtiss-Wright Corporation | Design Engineering Intern | US-Ny-East Farmingdale (tr) | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-TR/Design-Engineering-Intern_JR13583-2) | 2026-09-10 |
 | CVS Health | Retail Store Management Internship Summer 2027 - Central, GA | Ga Macon / Ga Columbus / Ga Warner Robins | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Macon/Retail-Store-Management-Internship-Summer-2027---Central--GA_R1038233) | 2026-09-10 |
@@ -18208,7 +18207,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | International Flavors & Fragrances | Intern – Sales Support | Spain | [Apply](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Barcelona-Spain/Intern---Sales-Support_R20765) | 2026-08-17 |
 | IQVIA | CRC Intern-Avacare | China | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Beijing-China/CRC-Intern-_R1554392) | 2026-08-17 |
 | Keysight Technologies | Full Stack Development Intern | Singapore | [Apply](https://jobs.keysight.com/jobs/53790?lang=en-us&icims=1) | 2026-08-17 |
-| KPMG | Kamloops Office – CPA Opportunities – Intern/Co-op – 2027 Start | Kamloops, Canada | [Apply](https://careers.kpmg.ca/jobs/33286?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Kelowna Office – CPA Opportunities in Audit – 8-month Co-op – January 2027 Start | Kelowna, Canada | [Apply](https://careers.kpmg.ca/jobs/33291?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Montréal \| CPA Opportunities in Audit (Summer, Co-op and Full-Time internship) | Montreal, Canada | [Apply](https://careers.kpmg.ca/jobs/33305?lang=en-us&icims=1) | 2026-08-17 |
 | KPMG | Prince George Office – CPA Opportunities in Audit – 4-month Co-op – Summer 2027 Start | Prince George, Canada | [Apply](https://careers.kpmg.ca/jobs/33292?lang=en-us&icims=1) | 2026-08-17 |
