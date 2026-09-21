@@ -22,6 +22,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | 3M | Internship - 2027 MBA IT Enterprise Application Intern | Maplewood, United States | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) | 2026-09-21 |
+| 4AG Robotics | AI Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-21 |
+| 4AG Robotics | Mechanical Designer Co-op Student (Fall 2026) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/92fd2acf-9f9b-4d64-a1ba-bbbe61ad277b) | 2026-09-21 |
+| 4AG Robotics | Robotics Software Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24) | 2026-09-21 |
 | ABB | Working student (m/f/d) - Mechanical Engineering | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Berlin-Berlin-Germany/Working-student--m-f-d----Mechanical-Engineering_JR00041989) | 2026-09-21 |
 | Abbott | Marketing Intern | Mingsheng Commercial Building | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Taiwan----Taipei----Mingsheng-Commercial-Building/Marketing-Intern_31162720) | 2026-09-21 |
 | AbbVie | créateur de contenu - Stage de 6 mois | Idf, France | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015503791) | 2026-09-21 |
@@ -829,6 +832,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Republic Airways | Safety Intern - Spring 2027 | Carmel Headquarters | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Safety-Intern---Spring-2027_JR-007629) | 2026-09-21 |
 | Republic Airways | Strategic Operations Intern - Spring 2027 | Carmel Headquarters | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Spring-2027_JR-007634) | 2026-09-21 |
 | Republic Airways | Strategic Operations Intern - Summer 2027 | Carmel Headquarters | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Strategic-Operations-Intern---Summer-2027_JR-007635) | 2026-09-21 |
+| REV Robotics | Electrical Engineering INTERN | Carrollton, TX | [Apply](https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744) | 2026-09-21 |
+| REV Robotics | Mechanical Engineering INTERN 2027 | Carrollton, TX | [Apply](https://ats.rippling.com/rev-robotics/jobs/6f40fd69-7d97-4142-a5fa-3c535a0b3e6e) | 2026-09-21 |
+| REV Robotics | Software Engineering INTERN 2027 | Carrollton, TX | [Apply](https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba) | 2026-09-21 |
 | RGA Reinsurance Company | Actuarial Student - EMEA Inforce Management | International, Canada | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/Canada-Toronto-International/Actuarial-Student---EMEA-Inforce-Management_J28748-1) | 2026-09-21 |
 | RGA Reinsurance Company | Actuarial Student - Structured Finance | Rga Re, Canada | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/Canada-Toronto-RGA-Re/Actuarial-Student---Structured-Finance_J28731) | 2026-09-21 |
 | RGA Reinsurance Company | Actuarial Student, USIM Capital Solutions team | International, Canada | [Apply](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/Canada-Toronto-International/Actuarial-Student--USIM-Capital-Solutions-team_J28596) | 2026-09-21 |
