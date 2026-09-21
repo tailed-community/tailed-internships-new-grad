@@ -174,6 +174,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Draper | Materials and Chemistry Engineering Co-op (Spring 2027) | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Co-op--Spring-2027-_JR002942) | 2026-09-21 |
 | Draper | Mechanical Engineering & System Packaging Intern (Summer 2027) | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943) | 2026-09-21 |
 | Ecolab | Logistics Support Intern | Ita Nichelino | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ITA---Nichelino/Logistics-Support-Intern_R00304716) | 2026-09-21 |
+| Ekimetrics | Stage de 6 mois UX/UI Designer (H/F/N) – PARIS | Paris | [Apply](https://jobs.lever.co/ekimetrics/67f3b0ca-ff14-4334-85c1-d53ba3856821) | 2026-09-21 |
 | Elanco | Marketing Student Assistant | Dk Ballerup | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/DK---Ballerup/Marketing-Student-Assistant_R0027262-1) | 2026-09-21 |
 | EMC Insurance | Claims Intern - Medical Management | Iowa | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Claims-Intern---Medical-Management_R6551-1) | 2026-09-21 |
 | EMC Insurance | Claims Intern - Worker's Compensation | Iowa Work From Home | [Apply](https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1) | 2026-09-21 |
@@ -472,6 +473,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PricewaterhouseCoopers (PwC) | Stage - Opérations & Supply Chain - Nantes - F/H | Nantes | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Nantes/Stage---Oprations---Supply-Chain---Nantes---F-H_763387WD) | 2026-09-21 |
 | PricewaterhouseCoopers (PwC) | Stage en Transformation Digitale/IT - Nantes - F/H | Nantes | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Nantes/Stage-en-Transformation-Digitale-IT---Nantes---F-H_763389WD) | 2026-09-21 |
 | PricewaterhouseCoopers (PwC) | Stagiaire en Fiscalité patrimoniale - Juillet 2027 - F/H | Neuilly-Sur-Seine | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Stagiaire-en-Fiscalit-patrimoniale---Juillet-2027---F-H_763138WD) | 2026-09-21 |
+| Protective Life | 2027 Sales Summer Internship Program | Birmingham, AL | [Apply](https://jobs.lever.co/protective/ece5130e-cf55-42b5-b928-cd4372b4488f) | 2026-09-21 |
+| Protective Life | 2027 Summer IT Internship Program | Birmingham, AL | [Apply](https://jobs.lever.co/protective/32a8a257-c5d4-4b77-bf0b-d08dbb93b752) | 2026-09-21 |
 | Prysmian Cables & Systems | Project Controlling Intern | Milan, IT | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milan-IT/Project-Controlling-Intern_R-36297-1) | 2026-09-21 |
 | PSECU | Service Desk Intern | Harrisburg, PA / Harrisburg / Hacc Financial Center | [Apply](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Service-Desk-Intern_JR101027) | 2026-09-21 |
 | RBC | Client Advisor Intern | Brantford, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BRANTFORD-Ontario-Canada/Client-Advisor-Intern_R-0000188272) | 2026-09-21 |
@@ -4303,7 +4306,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Repsol | Solar Field Services Intern | Downtown Houston | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Solar-Field-Services-Intern_84099) | 2026-09-15 |
 | Repsol | Strategic Initiatives Intern | Downtown Houston | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Strategic-Initiatives-Intern_84108) | 2026-09-15 |
 | Repsol | Transmission Intern | Downtown Houston | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Downtown-Houston/Transmission-Intern_84107) | 2026-09-15 |
-| Research Innovations | Information Assurance 2027 Summer Internship | San Antonio, TX | [Apply](https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee) | 2026-09-15 |
+| Research Innovations | Information Assurance 2027 Summer Internship | San Antonio, TX / St. Petersburg, FL | [Apply](https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee) | 2026-09-15 |
 | Resonetics | Lightspeed Engineering Co-op | Dayton, OH, United States | [Apply](https://careers-resonetics.icims.com/jobs/5454/lightspeed-engineering-co-op/job) | 2026-09-15 |
 | Resonetics | Manufacturing Engineering Co-op | Dayton, OH, United States | [Apply](https://careers-resonetics.icims.com/jobs/5450/manufacturing-engineering-co-op/job) | 2026-09-15 |
 | Resonetics | New Product Introduction (NPI) Engineering Co-op | Dayton, OH, United States | [Apply](https://careers-resonetics.icims.com/jobs/5455/new-product-introduction-%28npi%29-engineering-co-op/job) | 2026-09-15 |
@@ -7719,7 +7722,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Immuta | Full-Stack Engineering Internship - Summer 2027 | Columbus, OH | [Apply](https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d) | 2026-09-10 |
 | Immuta | Platform & Site Reliability Engineering Internship - Summer 2027 | Columbus, OH | [Apply](https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e) | 2026-09-10 |
 | Immuta | Product Engineering Intern - Summer 2027 | College Park, MD | [Apply](https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4) | 2026-09-10 |
-| Immuta | Product Research Internship - Summer 2027 | College Park, MD | [Apply](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b) | 2026-09-10 |
+| Immuta | Product Research Internship - Summer 2027 | Columbus, OH | [Apply](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b) | 2026-09-10 |
 | Immuta | UX Designer Internship - Summer 2027 | Oh \| Boston, MA | [Apply](https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3) | 2026-09-10 |
 | ING | Intern (Stagiaire) Administrative Support - Daily Banking Private Individuals | Gent Fabiolalaan / Louvain-L-N Boulevard Baudouin / Bruxelles Avenue Marnix (ing) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Gent-Fabiolalaan/Intern--Stagiaire--Administrative-Support---Daily-Banking-Private-Individuals_REQ-10121088) | 2026-09-10 |
 | ING | Internship Human Resources | Cdr (amsterdam Cedar) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship-Human-Resources_REQ-10121299) | 2026-09-10 |
@@ -8223,6 +8226,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American University | SPA Leadership Program, Administrative Support (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/SPA-Leadership-Program--Administrative-Support--Student-_R4894) | 2026-09-09 |
 | Amgen | Grad Intern - Operations - Engineering (Summer 2027) | US California Thousand Oaks | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349) | 2026-09-09 |
 | Amgen | Undergrad Intern - Operations – Engineering (Summer 2027) | US California Thousand Oaks | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335) | 2026-09-09 |
+| AnaVation LLC | Computer Science Internship Summer 2027 | San Antonio, TX | [Apply](https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b) | 2026-09-09 |
 | Anduril | 2027 Hardware Engineer Intern | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007) | 2026-09-09 |
 | Applied Materials | 2027 Software Engineering Intern (Masters - Santa Clara, CA) | Santa Clara, Canada | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265) | 2026-09-09 |
 | Applied Materials | 2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA) | Gloucester, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1) | 2026-09-09 |
