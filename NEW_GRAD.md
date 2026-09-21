@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150759509) | 2026-09-21 |
 | Anduril | Entry Level Systems Engineer, C2 Integration | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) | 2026-09-21 |
 | Anduril | Entry Level Systems Engineer, C2 Networking | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) | 2026-09-21 |
 | Anduril | New Grad Systems Engineer, C2 Integration | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) | 2026-09-21 |
@@ -18,7 +19,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Banner Health | Registered Nurse RN New Graduate General PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-RN-New-Graduate-General-PCU_R4454921-1) | 2026-09-21 |
 | Ciena | Mixed Signal IP Integration Engineer – New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688) | 2026-09-21 |
 | DecisionPoint | Software Developer (Entry-level) | US, United States | [Apply](https://careers-decisionpointcorp.icims.com/jobs/3766/software-developer-%28entry-level%29/job) | 2026-09-21 |
+| Expeditors | Customer Support Agent/Accounting Operations Support - onsite - Entry Level - Bucharest Support Center | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000150674132) | 2026-09-21 |
 | InterSystems | AI Engineer- Entry Level | Dubai | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/7593532003) | 2026-09-21 |
+| NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000150704125) | 2026-09-21 |
 | Ocean Spray | Entry Level Production Resources (Days and Nights available)) | Wisconsin Rapids, WI | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Wisconsin-Rapids-WI/Entry-Level-Production-Resources--4p-to-4a-_R5407) | 2026-09-21 |
 | Ocean Spray | Entry Level Production Worker | Middleboro, MA | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Middleboro-MA/Entry-Level-Production-Worker_R5178) | 2026-09-21 |
 | Ocean Spray | Production Resource Entry Level Nights (4pm to 4am) | Tomah, WI | [Apply](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Tomah-WI/Production-Resource-Entry-Level-Nights--4pm-to-4am-_R5383) | 2026-09-21 |
@@ -187,7 +190,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Med Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Med-Surg_337783) | 2026-09-16 |
 | Cox | Entry Level Mobile Trailer Mechanic | Rochester Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Rochester-NY/Entry-Level-Mobile-Trailer-Mechanic_R202682620-1) | 2026-09-16 |
 | Daniels Health | Early Career Machine Operator - 2nd Shift Blow Mold | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/93c1a3e7-9990-442b-a19a-c55fa70ba72e) | 2026-09-16 |
-| Eurofins | Associate Scientist l (SST) (Full-Time/Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149693739) | 2026-09-16 |
 | Eurofins | Entry Level Chemist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149686059) | 2026-09-16 |
 | Eurofins | Entry Level Chemist- TASC | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149897039) | 2026-09-16 |
 | Eurofins | Sample Admin Specialist- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149715659) | 2026-09-16 |
@@ -564,7 +566,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Accenture | Entry Level Advisory Summer Analyst - Various Locations - NAELFY27 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Entry-Level-Advisory-Development-Program---Process-Excellence-Summer-Analyst---NAELFY27_R00354373) | 2026-09-08 |
 | AECOM | Entry-Level Civil Engineer -  Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148232079) | 2026-09-08 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148254963) | 2026-09-08 |
-| AECOM | Entry-Level Design Engineer - Water - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000148217578) | 2026-09-08 |
 | AutoNation | ENTRY LEVEL TECHNICIAN | Mercedes-Benz Of Miami | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Mercedes-Benz-of-Miami/ENTRY-LEVEL-TECHNICIAN_JR2026148430) | 2026-09-08 |
 | BGE | ATLANTA - Land/Site Development, New Grad | Kennesaw | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5417907008) | 2026-09-08 |
 | BGE | FRISCO - Land Development, New Grad | Frisco | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5397054008) | 2026-09-08 |
@@ -662,9 +663,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Accenture | Record to Report - Entry Level | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/Record-to-Report---Entry-Level_R00353401) | 2026-09-04 |
 | AECOM | Entry-Level Aviation Specialist - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147530509) | 2026-09-04 |
 | AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147343364) | 2026-09-04 |
-| AECOM | Entry-Level Environmental Health and Safety Digital Consultant - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147332569) | 2026-09-04 |
-| AECOM | Entry-Level Geologist - Hiring Event with AECOM - New York City | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147331311) | 2026-09-04 |
-| AECOM | Entry-Level Geologist - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147329520) | 2026-09-04 |
 | AECOM | Entry-Level Structural Engineer - Bridge Design - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147406219) | 2026-09-04 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147334939) | 2026-09-04 |
 | Allstate Insurance Company - sourcing_event | 360 Financial Analyst - New Grad | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/XMLNAME-360-Financial-Analyst---New-Grad_R34731) | 2026-09-04 |
@@ -1254,7 +1252,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Monolithic Power Systems | Package Material R&D Engineer (New Grad) | Hong Kong China | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Hong-Kong---China/Package-Material-R-D-Engineer--New-Grad-_R-1855-1) | 2026-08-14 |
 | Monolithic Power Systems | Package R&D Engineer (New Grad) | Hong Kong China | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Hong-Kong---China/Package-R-D-Engineer--New-Grad-_R-1856) | 2026-08-14 |
 | Moog | 3rd Shift Entry Level Machinist | Blacksburg, VA | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/XMLNAME-3rd-Shift-Entry-Level-Machinist_R-26-17546) | 2026-08-14 |
-| NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000143469850) | 2026-08-14 |
 | WSP | Early Career Substation Electrical Engineer | Hallowell, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93181) | 2026-08-14 |
 | Barry-Wehmiller - BWConfidential | Entry Level Controls Engineer | San Antonio, TX | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/San-Antonio-TX/Entry-Level-Controls-Engineer_R022421) | 2026-08-13 |
 | Barry-Wehmiller - BWConfidential | Entry Level Controls Engineer | Tx USA | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Abilene-TX-USA/Entry-Level-Controls-Engineer_R022390) | 2026-08-13 |
@@ -1328,7 +1325,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Structural Engineer - Buildings | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80529) | 2026-08-08 |
 | Cleveland Clinic | New Grad RN Resident – Colorectal Surgery | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Colorectal-Surgery_344322-1) | 2026-08-07 |
 | CMC Markets | Graduate Program - Technology Development stream | Sydney | [Apply](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Sydney/Graduate-Program---Technology-Development-stream_CMC4382) | 2026-08-07 |
-| Experian | Experian Graduate Program in Technology & Analytics | Bulgaria | [Apply](https://jobs.smartrecruiters.com/Experian/744000141942898) | 2026-08-07 |
 | Howmet Aerospace | Entry Level Tool Maker - Technician | Mauston, WI, United States | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118746) | 2026-08-07 |
 | Konrad Group | Associate Consultant (Spring 2027 Graduate Program) | Toronto | [Apply](https://www.konrad.com/careers/job/7832032003?gh_jid=7832032003) | 2026-08-07 |
 | Stryker | Entry-Level Medical Devices | Australia / New Zealand | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Brisbane-Australia/Entry-Level-Medical-Devices_R557625-1) | 2026-08-07 |
