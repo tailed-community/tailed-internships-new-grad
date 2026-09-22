@@ -109,6 +109,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Barry-Wehmiller | Dualer Student Maschinenbau (m/w/d) Konstruktion und Entwicklung 2027 | Germany (hohes Gestade) | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Nrtingen-Germany-Hohes-Gestade/Dualer-Student-Maschinenbau--m-w-d--Konstruktion-und-Entwicklung-2027_R022906) | 2026-09-22 |
 | Bartlett & West | Engineer Intern (Water Resources) | Rolla, MO, United States | [Apply](https://careers-bartwest.icims.com/jobs/2456/engineer-intern-%28water-resources%29/job) | 2026-09-22 |
 | BDO | Co-op or Intern - Forensic Disputes & Investigations - Toronto - Summer 2027 | Toronto Bay St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern---Forensic-Disputes---Investigations---Toronto---Summer-2027_JR7100) | 2026-09-22 |
+| Belmond | Marketing internship | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/DD6FFE6827/) | 2026-09-22 |
+| Belmond | Social Media Internship | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1B18A237F5/) | 2026-09-22 |
 | Bernhard | Sustainability Intern | New Orleans, LA, United States | [Apply](https://careers-enfra.icims.com/jobs/11228/sustainability-intern/job) | 2026-09-22 |
 | Bernhard - careers-bernhard.icims.com | Sustainability Intern | New Orleans, LA, United States | [Apply](https://careers-enfra.icims.com/jobs/11228/sustainability-intern/job) | 2026-09-22 |
 | BerryDunn | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) | 2026-09-22 |
