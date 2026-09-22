@@ -7,6 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150784950) | 2026-09-22 |
+| AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151084191) | 2026-09-22 |
+| AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151084019) | 2026-09-22 |
+| AECOM | Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA | Chelmsford, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151062739) | 2026-09-22 |
 | Air Products | Graduate Program - Supply Chain Analyst | Belgium | [Apply](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Brussels-Belgium/Graduate-Program---Supply-Chain-Analyst_JR-2026-22166) | 2026-09-22 |
 | Amentum | Entry Level Software Engineer | US-Va-Dahlgren | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030) | 2026-09-22 |
 | Amgen | Fuel ETRP Rotational Graduate Program 2027 | Ireland Dublin | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Ireland---Dublin/Fuel-ETRP-Rotational-Graduate-Program-2027_R-255799) | 2026-09-22 |
@@ -44,6 +48,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Field Geologist | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5431255008) | 2026-09-22 |
 | onsemi | Suzhou Entry Level Talent (ATNPI) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506718) | 2026-09-22 |
 | Plante Moran | 2027 Family Office - Estate Planning Advisor Entry Level | East Lansing | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/East-Lansing/XMLNAME-2027-Family-Office---Estate-Planning-Advisor-Entry-Level_JR-03373) | 2026-09-22 |
+| Red Bull | Red Bull Graduate Program - Brand Marketing | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000150965708) | 2026-09-22 |
+| Red Bull | Red Bull Graduate Program - Supply & Demand Planning | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000150972929) | 2026-09-22 |
 | Sentara Health | Direct Care Registered Nurse - 3James Med/Surg Stroke Unit - Full-time Night Shift (New Grads Welcome!) | Hampton, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Hampton-VA/Direct-Care-Registered-Nurse---3James-Med-Surg-Stroke-Unit---Full-time-Night-Shift--New-Grads-Welcome--_JR-106200-1) | 2026-09-22 |
 | Sentara Health | RN new grad Fast-track Application/ Nurse Residency Program-All Sentara location | Sentara Norfolk General Hospital / Hampton, VA / Virginia Beach, VA / Charlottesville, VA / South Boston, VA / Norfolk, VA / Elizabeth City, NC / Harrisonburg, VA / Suffolk, VA / Woodbridge, VA / Williamsburg, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Norfolk-General-Hospital/RN-new-grad-Fast-track-Application--Nurse-Residency-Program-All-Sentara-location_JR-105628) | 2026-09-22 |
 | SingleStore | MIT-Software Engineer-New Grad \|Helios\| | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882) | 2026-09-22 |
@@ -128,7 +134,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150231190) | 2026-09-18 |
 | AECOM | Entry-Level Environmental Engineers - Networking Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150397509) | 2026-09-18 |
 | AECOM | Entry-Level Environmental Scientist - Networking Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150396525) | 2026-09-18 |
-| AECOM | Entry-Level Mechanical Engineer | Roanoke, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150258159) | 2026-09-18 |
 | AECOM | Entry-Level Sustainability Opportunities - New York City - Hiring Event with AECOM | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150380639) | 2026-09-18 |
 | Airbus | Early career mechanical engineer | Getafe Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Early-career-mechanical-engineer_JR10439683) | 2026-09-18 |
 | Airbus | Embedded Software Development Engineer – Entry-level Software developer (m/f) | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Embedded-Software-Development-Engineer---Entry-level-Software-developer--m-f-_JR10427609-2) | 2026-09-18 |
@@ -253,7 +258,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Cardiac Telemetry | Monroe, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Union---600-Hospital-Dr-Monroe-NC/RN---Cardiac-Telemetry-Full-Time--3p-3a----AH-Union_R203891) | 2026-09-15 |
 | Advocate Health Care | Registered Nurse (RN) New Grad - Behavioral Health | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Behavioral-Health-Charlotte---501-Billingsley-Rd-Charlotte-NC/Registered-Nurse--RN--New-Grad---Behavioral-Health_R270157) | 2026-09-15 |
 | AECOM | Entry-Level BIM Specialist - Hiring Event with AECOM - Philadelphia | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149488097) | 2026-09-15 |
-| AECOM | Entry-Level Civil Engineer | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149409789) | 2026-09-15 |
 | AECOM | Entry-Level Civil Engineer - Aviation - Hiring Event with AECOM - Boston | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149669175) | 2026-09-15 |
 | AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149624264) | 2026-09-15 |
 | Anduril | 2027 Early Career Industrial Engineer | Ohio, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007) | 2026-09-15 |
@@ -302,7 +306,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149338704) | 2026-09-14 |
 | AECOM | Entry-Level Inspector - Hiring Event with AECOM - Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149398990) | 2026-09-14 |
 | AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Boston | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149369609) | 2026-09-14 |
-| AECOM | Entry-Level Structural Engineer | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149395049) | 2026-09-14 |
 | Autostore | Entry Level Electrical Engineer | Atlanta, GA, United States | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Electrical-Engineer_JR102690) | 2026-09-14 |
 | Autostore | Entry Level Software Engineer | Atlanta, GA, United States | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691) | 2026-09-14 |
 | Autostore | Entry Level- Mechanical Engineer | Atlanta, GA, United States | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level--Mechanical-Engineer_JR102689) | 2026-09-14 |
@@ -348,8 +351,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | 2027 UR Early Career Program-IA Marketing UR | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157437) | 2026-09-14 |
 | J.M. Smucker | Production General Labor- Entry Level | Topeka, KS | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Topeka-KS/Production-General-Labor--Entry-Level_115675) | 2026-09-14 |
 | LEGO | Moulding Technician Graduate Program | Not Specified | [Apply](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Tan-Uyen-Binh-Duong/Moulding-Technician-Graduate-Program_0000036275) | 2026-09-14 |
-| PA Consulting | Early Career \| Growth Strategy Analyst (2027) | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000149388126) | 2026-09-14 |
-| PA Consulting | Early Career \| Growth Strategy Analyst (2027) | Chicago, United States | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000149390658) | 2026-09-14 |
 | Retell AI | Forward Deployed Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940) | 2026-09-14 |
 | Retell AI | Software Engineer (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463) | 2026-09-14 |
 | Rochester Regional Health | New Graduate Registered Nurse: Clifton Springs Adult ED Fellowship | Clifton Springs Hospital | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Clifton-Springs-Hospital/New-Graduate-Registered-Nurse--Clifton-Springs-Adult-ED-Fellowship_REQ_242287) | 2026-09-14 |
@@ -572,7 +573,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | State Street | State Street Markets Professional Development Program - Entry Level - Frankfurt - July 2027 | Germany | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Frankfurt-Germany/State-Street-Markets-Professional-Development-Program---Entry-Level---Frankfurt---July-2027_R-797597-1) | 2026-09-09 |
 | State Street - equest | Alpha Professional Development Program - Entry level- London July 2027 | England | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/London-England/XMLNAME--Alpha-Professional-Development-Program---Entry-level--London-July-2027_R-797600-2) | 2026-09-09 |
 | State Street - equest | State Street Markets Professional Development Program - Entry Level - Frankfurt - July 2027 | Germany | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/Frankfurt-Germany/State-Street-Markets-Professional-Development-Program---Entry-Level---Frankfurt---July-2027_R-797597) | 2026-09-09 |
-| Timmons Group | New Graduate Civil Project Engineer I | Wilmington, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148345350) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Washington, DC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148335967) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlottesville, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148324188) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148306780) | 2026-09-09 |
@@ -686,9 +686,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer (ESSP) | Freeport, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94576) | 2026-09-05 |
 | Accenture | Record to Report - Entry Level | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quezon/Record-to-Report---Entry-Level_R00353401) | 2026-09-04 |
 | AECOM | Entry-Level Aviation Specialist - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147530509) | 2026-09-04 |
-| AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147343364) | 2026-09-04 |
-| AECOM | Entry-Level Structural Engineer - Bridge Design - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147406219) | 2026-09-04 |
-| AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - New York City | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147334939) | 2026-09-04 |
 | Allstate Insurance Company - sourcing_event | 360 Financial Analyst - New Grad | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/XMLNAME-360-Financial-Analyst---New-Grad_R34731) | 2026-09-04 |
 | AtkinsRéalis | New Graduate, Building Structural Division | Ca.ab.calgary.144-4th Avenue Sw Suite 2200 (west Tower) / Ca.on.ottawa.1145 Hunt Club Road / Ca.nl.st. John's.1-165 Duckworth St / Ca.on.toronto.191 The West Mall | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAABCalgary144-4th-avenue-SW-Suite-2200-West-Tower/New-Graduate--Building-Structural-Division_R-162446) | 2026-09-04 |
 | AtkinsRéalis | New Graduate, Civil Division | Ca.on.toronto.191 The West Mall / Suit 1000 / Ca.bc.vancouver. 733 Seymour St. / Ca.nl.st. John's.1-165 Duckworth St / Ca.ns.halifax.1660 Hollis Street Suite 301 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONToronto191-The-West-Mall/New-Graduate--Civil-Division_R-162351) | 2026-09-04 |
@@ -717,7 +714,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, Canada / New York, NY / San Francisco, Canada / Sunnyvale, Canada / Seattle, WA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 2026-09-04 |
 | DXC Technology | IT Engineer (Japanese Speaker) - Entry level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Engineer--Japanese-Speaker----Entry-level_51588497) | 2026-09-04 |
 | Egis Group | Entry Level Engineer | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000147539499) | 2026-09-04 |
-| Eurofins | Entry Level Data Package Specialist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147319680) | 2026-09-04 |
 | Eurofins | Entry Level Lab Accessioner | Fairfield, OH, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147545309) | 2026-09-04 |
 | Fresenius Medical Care | New Graduate Nurse | Reidsville, NC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Reidsville-NC/New-Graduate-Nurse_R0268783) | 2026-09-04 |
 | Fresenius Medical Care | New Graduate Nurse- RN | Lima, OH, United States / Kenwood, OH, United States / Cincinnati, OH, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lima-OH-USA/New-Graduate-Burse--RN_R0268740) | 2026-09-04 |
