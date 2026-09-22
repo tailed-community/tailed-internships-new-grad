@@ -31,6 +31,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Software Engineer - Atlanta, GA | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766) | 2026-09-22 |
 | DH Pace | Entry level Buyer/Purchasing Coordinator | Springfield Mo | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5429245008) | 2026-09-22 |
 | GE Healthcare | Early Career Trainee - PCS & ULS Inside Service Sales - Saudi | Riyadh | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Riyadh/Early-Career-Trainee---PCS---ULS-Inside-Service-Sales---Saudi_R4046685-1) | 2026-09-22 |
+| General Dynamics | Payload Launch Control Systems Engineer - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18875/payload-launch-control-systems-engineer---entry-level/job) | 2026-09-22 |
 | GSK | Engineering Graduate Program, Zebulon, US, 2027 | USA North Carolina Zebulon | [Apply](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---North-Carolina---Zebulon/Engineering-Graduate-Program--Zebulon--US--2027_448260) | 2026-09-22 |
 | Guardian Life | 2027 Early Career Program - Associate Underwriter | Boston | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Early-Career-Program---Associate-Underwriter_R000109879) | 2026-09-22 |
 | ICF International | Economics Specialist (Entry Level, Hybrid, Summer 2027) | Reston, VA / Waltham | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Economics-Specialist--Entry-Level--Hybrid--Summer-2027-_R2603180) | 2026-09-22 |
@@ -570,7 +571,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Project Engineer I | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148313332) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Co Or Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Site Civil Engineer - 2027 Graduate | Tampa, FL, United States | [Apply](https://careers-vhb.icims.com/jobs/6301/entry-level-site-civil-engineer---2027-graduate/job) | 2026-09-09 |
-| Vanasse Hangen Brustlin (VHB) | Entry Level Transportation Designer - 2027 Graduate | Winooski, VT, United States | [Apply](https://careers-vhb.icims.com/jobs/6303/entry-level-transportation-designer---2027-graduate/job) | 2026-09-09 |
 | Verkada | Technical Support Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3023 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/832fa425-7a17-456f-ac27-c5354cbe66b9) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3024 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/67ff8eaf-b0ba-4df2-a322-5fdf649b2995) | 2026-09-09 |
