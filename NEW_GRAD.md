@@ -7,6 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Civil OSP Design Specialist - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151438599) | 2026-09-24 |
+| AECOM | Entry-Level Environmental Scientists - Hiring Event with AECOM - Philadelphia, PA | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151492789) | 2026-09-24 |
+| AECOM | Entry-Level Geologist - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151519249) | 2026-09-24 |
+| AECOM | Entry-Level Graduate Opportunities - University of South Florida Career Fair 2026 | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151479730) | 2026-09-24 |
 | Anduril | 2027 Early Career Firmware Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | 2026-09-24 |
 | Anduril | 2027 Early Career Flight Test Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) | 2026-09-24 |
 | Apex Companies | Survey Technician (Entry-Level to Crew Chief) | Somerset, PA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5421315008) | 2026-09-24 |
@@ -27,6 +31,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CSA Group | Product Safety Engineer (New Graduates) | Cleveland, OH | [Apply](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Product-Safety-Engineer--New-Graduates-_R005002) | 2026-09-24 |
 | Cummins | 2027 Early Career - Electronics Engineering Technician - Level III | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431814) | 2026-09-24 |
 | Cummins | Parts Associate - Entry Level | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438986) | 2026-09-24 |
+| Eurofins | Entry Level Biochemist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000151453229) | 2026-09-24 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner (2026 and 2027) | California | [Apply](https://jobs.lever.co/fehrandpeers/63b63da7-15da-4f79-999f-50fa428382f7) | 2026-09-24 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner (2027) | California | [Apply](https://jobs.lever.co/fehrandpeers/1de5281e-e479-4d18-8d43-cf477894767b) | 2026-09-24 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner (2027) | Colorado | [Apply](https://jobs.lever.co/fehrandpeers/a8492b20-1551-4a68-9e9d-3425758a3db9) | 2026-09-24 |
@@ -57,6 +62,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Peraton | Jr./Entry-Level Integration & Test Systems Engineer - Space Programs | Wallops Island, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/171156/jr.-entry-level-integration-%26-test-systems-engineer---space-programs/job) | 2026-09-24 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Northwest Dallas / Denton / Grapevine / Lewisville, TX | Dallas Office / Denton / Grapevine | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/DALLAS-OFFICE/Field-Service-Technician--Entry-Level----Northwest-Dallas---Denton---Grapevine---Lewisville--TX_R000159736) | 2026-09-24 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Port St. Lucie, FL | Port St. Lucie | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Port-St-Lucie/Field-Service-Technician--Entry-Level----Port-St-Lucie--FL_R000159791) | 2026-09-24 |
+| Red Bull | Red Bull Graduate Program - Trade Marketing (Organized Trade) | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000151583418) | 2026-09-24 |
 | RELX | Tech Accelarate Graduate Program | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1) | 2026-09-24 |
 | S&P Global | CREDit Graduate Program Analyst | New York, NY | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/CREDit-Graduate-Program-Analyst_331830-1) | 2026-09-24 |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | 2026-09-24 |
@@ -239,9 +245,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Substation Assistant Electrical Engineer | Austin, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95106) | 2026-09-19 |
 | Advocate Health Care | New Grad Cohort - Surgical Tech - Ambulatory Surgery Center | Advocate Lutheran General Hospital 1775 Dempster St | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Advocate-Lutheran-General-Hospital---1775-Dempster-St/New-Grad-Cohort---Surgical-Tech---Ambulatory-Surgery-Center_R270316) | 2026-09-18 |
 | AECOM | Entry-Level Deputy Project Managers - Hiring Event with AECOM - Boston | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150216610) | 2026-09-18 |
-| AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150233379) | 2026-09-18 |
-| AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150231086) | 2026-09-18 |
-| AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Philadelphia, PA | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150231190) | 2026-09-18 |
 | AECOM | Entry-Level Environmental Engineers - Networking Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150397509) | 2026-09-18 |
 | AECOM | Entry-Level Environmental Scientist - Networking Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150396525) | 2026-09-18 |
 | AECOM | Entry-Level Sustainability Opportunities - New York City - Hiring Event with AECOM | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150380639) | 2026-09-18 |
@@ -383,7 +386,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officer | Ravenna, OH, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174889) | 2026-09-15 |
 | Sentara Health | Registered Nurse (RN) - New Grad AHRT Float | Suffolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Suffolk-VA/Registered-Nurse--RN----New-Grad-AHRT-Float_JR-106261) | 2026-09-15 |
 | Sentara Health | Registered Nurse - New Grad | Woodbridge, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Woodbridge-VA/Registered-Nurse---New-Grad_JR-106248-1) | 2026-09-15 |
-| Société Générale de Surveillance (SGS) | Laboratory Technician – Entry Level – Agriculture (6-month contract) | Saskatoon, SK, Canada | [Apply](https://jobs.smartrecruiters.com/SGS/744000149616533) | 2026-09-15 |
 | The Aerospace Corporation | 2027 Entry Level DSP & SDR Engineer | Chantilly, VA | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Entry-Level-DSP---SDR-Engineer_R016560) | 2026-09-15 |
 | The Boeing Company | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750-1) | 2026-09-15 |
 | The Boeing Company - external_subsidiary | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750) | 2026-09-15 |
@@ -1696,7 +1698,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry-Level Wastewater Process Mechanical Engineer | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job) | 2026-06-17 |
 | Celonis | Associate Deployment Engineer - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003) | 2026-06-17 |
 | Cleveland Clinic | New Grad RN – Acute Care Cardiology and Cardiothoracic Surgery 7p-7:30a | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Acute-Care-Cardiology-and-Cardiothoracic-Surgery-7p-7-30a_335974-1) | 2026-06-17 |
-| Egis Group | Civil Engineer Graduate Program (Feb 2027) \| Perth | Perth, WA | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000132562799) | 2026-06-17 |
 | ERM | Consulting Associate- Contaminated Land and Remediation (Entry Level) | London, United Kingdom / Bristol, United Kingdom | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/London-United-Kingdom/Consulting-Associate--Contaminated-Land-and-Remediation--Entry-Level-_R00030731-1) | 2026-06-17 |
 | ERM | Consulting Associate- Contaminated Land and Remediation (Entry Level) | Edinburgh, United Kingdom / Glasgow, United Kingdom | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Edinburgh-United-Kingdom/Consulting-Associate--Contaminated-Land-and-Remediation--Entry-Level-_R00030708-1) | 2026-06-17 |
 | ERM | Graduate Consultant  環境デューデリジェンス　(Entry Level) | Japan | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Yokohama-Japan/Graduate-Consultant----Entry-Level-_R00029670-1) | 2026-06-17 |
