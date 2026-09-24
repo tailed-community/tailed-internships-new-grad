@@ -167,6 +167,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Civil & Environmental Consultants | Ecological Intern - Summer 2027 | Monroeville, PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6581/ecological-intern---summer-2027/job) | 2026-09-24 |
 | Civil & Environmental Consultants | Geotechnical Engineering Intern - Summer 2027 | Pittsburgh (moon Township), PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6584/geotechnical-engineering-intern---summer-2027/job) | 2026-09-24 |
 | Clarios | Optima Marketing & Product Development Intern (Summer 2027) | Milwaukee, United States | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Optima-Marketing---Product-Development-Intern--Summer-2027-_WD50480) | 2026-09-24 |
+| Cloud SynApps | Technical Recruiter Intern | India | [Apply](https://ats.rippling.com/cloud-synapps-inc/jobs/9b6ed77c-38bc-43bd-80bc-c1dabde2c766) | 2026-09-24 |
 | Consor | Transportation Intern | Rancho Cordova, United States | [Apply](https://careers-consoreng.icims.com/jobs/6819/transportation-intern/job) | 2026-09-24 |
 | Constellation Energy | 2027 Summer Digital Marketing Intern (Baltimore, MD) | Maryland | [Apply](https://jobs.constellationenergy.com/jobs/139405?lang=en-us&icims=1) | 2026-09-24 |
 | Constellation Energy | 2027 Summer External Affairs & Growth Intern (Washington, DC) | Washington, DC | [Apply](https://jobs.constellationenergy.com/jobs/139292?lang=en-us&icims=1) | 2026-09-24 |
@@ -2230,9 +2231,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | STAGE - Référent(e) RH Campus - Janvier 2027 | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/STAGE---Rfrent-e--RH-Campus---Janvier-2027_JR133548-1) | 2026-09-22 |
 | Richemont | Stage Ingénieur Achats | Le Sentier | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/LE-SENTIER/Stage-Ingnieur-Achats_JR134072) | 2026-09-22 |
 | Rippling | Data Science Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | 2026-09-22 |
-| Rippling | Full Stack Software Engineer Intern - Summer 2027 | Seattle, WA / San Francisco, Canada / New York, NY | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
+| Rippling | Full Stack Software Engineer Intern - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
 | Rippling | Machine Learning Software Engineer Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | 2026-09-22 |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | San Francisco, Canada / Seattle, WA / New York, NY | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
 | Rite Hite | Engineering Internship (Dubuque) | USA-Ia-Dubuque Headquarters | [Apply](https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-IA-Dubuque-Headquarters/Engineering-Internship--Dubuque-_JR102571) | 2026-09-22 |
 | Robert Bosch Venture Capital | [Internship] Transportation Management Control Support | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150844648) | 2026-09-22 |
 | Robert Bosch Venture Capital | Extracurricular Internship: Eletronics Reliability Testing (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150981509) | 2026-09-22 |
@@ -2431,7 +2432,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zurn Elkay Water Solutions | Mechanical Engineering Intern (Summer 2027) | Paso Robles, Canada | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111) | 2026-09-22 |
 | 3M | Internship - 2027 MBA IT Enterprise Application Intern | Maplewood, United States | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) | 2026-09-21 |
 | 4AG Robotics | AI Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-21 |
-| 4AG Robotics | Mechanical Designer Co-op Student (Fall 2026) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/92fd2acf-9f9b-4d64-a1ba-bbbe61ad277b) | 2026-09-21 |
 | 4AG Robotics | Robotics Software Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24) | 2026-09-21 |
 | ABB | Working student (m/f/d) - Mechanical Engineering | Germany | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Berlin-Berlin-Germany/Working-student--m-f-d----Mechanical-Engineering_JR00041989) | 2026-09-21 |
 | AbbVie | Manufacturing Operator III, UD Fill - A1 Shift | Waco, TX, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015522026) | 2026-09-21 |
@@ -20204,7 +20204,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ASML | Internship - IT Intern (one-year contract) - Hsinchu | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hsinchu-Taiwan/Internship---IT-Intern--one-year-contract----Hsinchu_J-00349395) | 2026-08-13 |
 | Blue Origin | 2026 Intern Conversion - Fluid Systems Engineer I | Greater Seattle Area / Van Horn, TX / Denver, CO / Huntsville, AL / Space Coast, FL / Arlington, VA / Los Angeles, Canada / Longmont, CO / Reston, VA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Fluid-Systems-Engineer-I_R70376) | 2026-08-13 |
 | Brooks Automation | Intern | Malaysia Johor | [Apply](https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Malaysia---Johor/Intern_R1152) | 2026-08-13 |
-| Camlin | Graphic & Animation Designer (Junior or Intern/fixed term) | Serbia | [Apply](https://ats.rippling.com/camlin-careers/jobs/9bd675fe-e593-401e-8d1f-cfb6c37a7266) | 2026-08-13 |
 | Celonis | Business Development Representative Sales Intern (Part-Time) | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7667306003?gh_jid=7667306003) | 2026-08-13 |
 | ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/D1C67258C0/) | 2026-08-13 |
 | Continental | Internship Student (Supply Chain APAC) - นักศึกษาฝึกงาน | Thailand | [Apply](https://jobs.smartrecruiters.com/Continental/744000143203767) | 2026-08-13 |
