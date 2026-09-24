@@ -94,6 +94,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aptiv | Supply Chain Intern | Poland | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Supply-Chain-Intern_J000703110) | 2026-09-24 |
 | Arconic | Software Developer Intern | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | 2026-09-24 |
 | Arista Networks | Hardware Intern | Nashua, NH, United States | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) | 2026-09-24 |
+| Ascendis Pharma | Student Assistant for Group Accounting and Reporting | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/3AB8AD8AA3/) | 2026-09-24 |
 | ASM Global | Student Assistant - Hurricane Club | University Of Miami | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/University-of-Miami/Student-Assistant---Hurricane-Club_R100125671-1) | 2026-09-24 |
 | ASML | Electrical Engineering \| Physics internship: Radiated Emissions Research (Master thesis) | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Electrical-Engineering---Physics-internship--Radiated-Emissions-Research--Master-thesis-_J-00351786) | 2026-09-24 |
 | ASML | Finance Internship: Support the Treasury Department | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Finance-Internship--Support-the-Treasury-Department_J-00352661) | 2026-09-24 |
