@@ -203,6 +203,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | Stage – Net Zero Data Analyst  – CHANEL Europe – Janvier 2027 – H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Net-Zero-Data-Analyst----CHANEL-Europe---Janvier-2027---H-F-X_JOBREQ00117406) | 2026-09-25 |
 | Chase | 2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Amsterdam | Netherlands | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210794964) | 2026-09-25 |
 | Chase | Drive the Future Internship Program - Middle Office | Colombia | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210793477) | 2026-09-25 |
+| Chess | Engineering Internship | Remote | [Apply](https://ats.rippling.com/chess/jobs/a3454ffa-c244-4d38-9357-45d895718899) | 2026-09-25 |
 | Chewie Labs | Electrical Engineering Intern, Summer 2027 | California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737766005) | 2026-09-25 |
 | Chewie Labs | Product Design Engineering Intern, Summer 2027 | California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4737767005) | 2026-09-25 |
 | CIBC - search | Financial Services Representative - Intern | Sherbrooke, QC | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Sherbrooke-QC/Reprsentant-e--en-services-financiers---Stagiaire_2619458) | 2026-09-25 |
