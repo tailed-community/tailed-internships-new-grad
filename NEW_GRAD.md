@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AbbVie | 2027 Procurement Early Career | North Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015692206) | 2026-09-26 |
 | Advocate Health Care | Registered Nurse (RN) - New Graduate - Oncology | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Registered-Nurse--RN----New-Graduate---Oncology_R272448) | 2026-09-26 |
 | Advocate Health Care | Registered Nurse (RN)- New Graduate- Burn Unit | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Registered-Nurse--RN---New-Graduate--Burn-Unit_R272957) | 2026-09-26 |
 | Avis Budget Group | Entry Level HR Specialist- T1 | Tulsa | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/4500-S-129th-E-Ave-Tulsa-74134/Entry-Level-HR-Specialist--T1_R0191041) | 2026-09-26 |
@@ -15,6 +16,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Charter Manufacturing | Entry Level Maintenance Technician | Charter Aarrowcast Shawano, WI | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Entry-Level-Maintenance-Technician_R08147) | 2026-09-26 |
 | Ciena | IT Leadership Program - New Grads | Baltimore | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/IT-Leadership-Program---New-Grads_R031776) | 2026-09-26 |
 | ERM | Consultant - Industrial Permitting (Entry Level) | Manchester, United Kingdom / London, United Kingdom / Cardiff, United Kingdom | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Manchester-United-Kingdom/Consultant---Industrial-Permitting--Entry-Level-_R00031925-1) | 2026-09-26 |
+| Eurofins | Entry Level Chemist (2nd Shift) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000151938149) | 2026-09-26 |
 | Fresenius Medical Care | New Graduate Nurse | Newport News, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Newport-News-VA/New-Graduate-Nurse_R0271553) | 2026-09-26 |
 | Fresenius Medical Care | New Graduate Nurse | Hampton, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Hampton-VA/New-Graduate-Nurse_R0271552) | 2026-09-26 |
 | Intermountain Healthcare | New Grad RN Medical and Surgical | Intermountain Health American Fork Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/New-Grad-RN-Medical-and-Surgical_R184926) | 2026-09-26 |
