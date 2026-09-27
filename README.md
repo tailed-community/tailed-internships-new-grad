@@ -25,6 +25,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Analog Devices | FY27 Engineering Internship United Kingdom | Edinburgh, SC, United Kingdom / Hayes, United Kingdom / Glasgow, United Kingdom / Newbury, United Kingdom | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707) | 2026-09-27 |
 | Cadence Design Systems - Univ_Careers | Intern Digital Implementation | Meylan 01 | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MEYLAN-01/Intern-Digital-Implementation_R55239) | 2026-09-27 |
 | Circle K | Préposé(e) service clientèle STAGE -ACT | Store 6000877 Trois-Rivières QC | [Apply](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Store-6000877-Trois-Rivires-QC/Prpos-e--service-clientle-STAGE--ACT_R623694) | 2026-09-27 |
+| Clera | Generalist Intern | Netherlands | [Apply](https://jobs.ashbyhq.com/clera/afb3c929-67ee-480d-8055-0022a9fcc04b) | 2026-09-27 |
 | Field AI | Robotics Research Internship, Humanoid Manipulation (Spring 2027) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba) | 2026-09-27 |
 | Field AI | Robotics Research Internship, Humanoid Manipulation (Summer 2027) \| PhD Internship | Boston, MA | [Apply](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820) | 2026-09-27 |
 | General Dynamics Information Technology - gdit_earlytalent | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA La Bossier City | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) | 2026-09-27 |
@@ -3574,9 +3575,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Civil & Environmental Consultants | Survey Technician Intern - Summer 2027 | Pittsburgh (moon Township), PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6540/survey-technician-intern---summer-2027/job) | 2026-09-21 |
 | Civil & Environmental Consultants | Water Resources Intern - Summer 2027 | Knoxville, TN, United States | [Apply](https://careers-cecinc.icims.com/jobs/6594/water-resources-intern---summer-2027/job) | 2026-09-21 |
 | Clarios | Intern - OEX | Celaya | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Mexico-Guanajuato-Celaya/Intern---OEX_WD50314) | 2026-09-21 |
-| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/b5c70477-d0ff-4053-a4d4-17aa1d159522) | 2026-09-21 |
 | Clera | Sales - Internship | Germany | [Apply](https://jobs.ashbyhq.com/clera/e96ac81e-b1dd-4912-a159-2d632cc098ba) | 2026-09-21 |
-| Clera | Sales Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/e4e96bb4-dfa6-48ad-89f4-e0339167a96b) | 2026-09-21 |
 | Cogna | Software Engineer Intern (2027 Cohort) | England, United Kingdom | [Apply](https://apply.workable.com/cogna/j/45A6283F88/) | 2026-09-21 |
 | Cole Engineering Services | AI Intern | Orlando, FL, United States | [Apply](https://jobs-cesi.icims.com/jobs/11367/ai-intern/job) | 2026-09-21 |
 | Collinear AI | MTS - Research Scientist Internship | United States / San Francisco, Canada / India | [Apply](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b) | 2026-09-21 |
@@ -10748,7 +10747,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Saronic | Enterprise Technology Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1) | 2026-09-10 |
 | Saronic | Forward Deployed Engineer Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce) | 2026-09-10 |
 | Saronic | Information Technology Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/0fa1ca8f-0dca-43cc-a5fa-59c40840986f) | 2026-09-10 |
-| Saronic | Manufacturing Engineer Intern (Summer 2027) | Louisiana, United States | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | 2026-09-10 |
+| Saronic | Manufacturing Engineer Intern (Summer 2027) | Louisiana, United States / Austin, TX | [Apply](https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97) | 2026-09-10 |
 | Saronic | Mechanical Engineer Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088) | 2026-09-10 |
 | Saronic | Naval Architect Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/fc6124a1-85a2-4c3f-82f5-4534ae443411) | 2026-09-10 |
 | Saronic | Software Engineer Intern (Summer 2027) | Texas, United States | [Apply](https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2) | 2026-09-10 |
