@@ -681,7 +681,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fidelity Investments | Intern, Investor Center - Dayton, OH | Beavercreek, OH | [Apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Beavercreek-OH/Intern--Investor-Center---Dayton--OH_2136201) | 2026-09-25 |
 | Fidelity Investments - targeted | Intern, Investor Center - Philadelphia, PA | Philadelphia, PA | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Philadelphia-PA/Intern--Investor-Center---Philadelphia--PA_2135578-1) | 2026-09-25 |
 | First Citizens BancShares | 2027 IT Summer Intern  - Business Systems Analyst (Raleigh, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/35708?lang=en-us&icims=1) | 2026-09-25 |
-| First Citizens BancShares | 2027 IT Summer Intern - Software Developer (Raleigh, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/35709?lang=en-us&icims=1) | 2026-09-25 |
 | First Citizens BancShares | 2027 IT Summer Intern - Systems Engineer (Raleigh, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/35710?lang=en-us&icims=1) | 2026-09-25 |
 | Flagship Pioneering - fspco-op012325 | Pioneering Medicines: Biologic Formulations Technical Operations Co-Op | Ma USA | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8842350002) | 2026-09-25 |
 | Flextronics International | Student | Guadalajara | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/Mexico-Guadalajara/Student_WD228428) | 2026-09-25 |
@@ -4267,7 +4266,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wabash Valley Power Alliance | Power Supply & Energy Services Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149889459) | 2026-09-21 |
 | Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759) | 2026-09-21 |
 | Waters Corporation | Accounting Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) | 2026-09-21 |
-| Waters Corporation | Financial Planning and Analysis Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27741/2026-27741/job) | 2026-09-21 |
+| Waters Corporation | Financial Planning and Analysis Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27741/financial-planning-and-analysis-intern/job) | 2026-09-21 |
 | Waters Corporation | Investor Relations & Treasury Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27742/2026-27742/job) | 2026-09-21 |
 | Watts Water | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535) | 2026-09-21 |
 | Watts Water | B2C E-Commerce Analytics & Website Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | 2026-09-21 |
@@ -10300,7 +10299,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crest Industries | Developer Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd) | 2026-09-10 |
 | Crest Industries | Enterprise Technology Operations Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/79751f7f-fd05-4b5a-8154-f8f2819cf900) | 2026-09-10 |
 | Crest Industries | Security Intern | Louisiana | [Apply](https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd) | 2026-09-10 |
-| Cummings Electrical | Pharmacy Internship - Huntsman Mental Health | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/85933/pharmacy-internship---huntsman-mental-health/job) | 2026-09-10 |
+| Cummings Electrical | Pharmacy Internship - Huntsman Mental Health | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/85933/pharmacy-internship/job) | 2026-09-10 |
 | Curtiss-Wright Corporation | Design Engineering Intern | US-Ny-East Farmingdale (tr) | [Apply](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-TR/Design-Engineering-Intern_JR13583-2) | 2026-09-10 |
 | CVS Health | Retail Store Management Internship Summer 2027 - Central, GA | Ga Macon / Ga Columbus / Ga Warner Robins | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Macon/Retail-Store-Management-Internship-Summer-2027---Central--GA_R1038233) | 2026-09-10 |
 | CVS Health | Retail Store Management Internship Summer 2027 - Columbia, SC | Sc Columbia | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Columbia/Retail-Store-Management-Internship-Summer-2027---Columbia--SC_R1038251) | 2026-09-10 |
@@ -22076,7 +22075,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Contoro | Robotics Engineer Intern - Test & Validation (Fall 2026) | Texas, United States | [Apply](https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5) | 2026-07-21 |
 | CTC | Quant Trading Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 2026-07-21 |
 | CTC | Software Engineering Internship - Summer 2027 | Illinois, United States | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 2026-07-21 |
-| Cummings Electrical | Pharmacy Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/84715/pharmacy-internship-/job) | 2026-07-21 |
+| Cummings Electrical | Pharmacy Internship | Not Specified | [Apply](https://careers-uuhc.icims.com/jobs/84715/pharmacy-internship/job) | 2026-07-21 |
 | Dentsu | Assistant Chef de Projet SEO-GEO H/F (Stage 6 mois) | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Chef-de-Projet-SEO-GEO-H-F_R1128180) | 2026-07-21 |
 | Enterprise Mobility | Fall 2026 Management Trainee Intern- Central NJ | Central Nj (redbank / Asbury) | [Apply](https://us-erac.icims.com/jobs/559530/fall-2026-management-trainee-intern--central-nj/job) | 2026-07-21 |
 | Evonik | Intern - Innovation and Special Project | Shanghai Xinzhuang | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Shanghai-Xinzhuang/Intern---Innovation-and-Special-Project_R49730) | 2026-07-21 |
