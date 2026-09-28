@@ -3980,7 +3980,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rippling | Data Science Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | 2026-09-22 |
 | Rippling | Full Stack Software Engineer Intern - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
 | Rippling | Machine Learning Software Engineer Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | 2026-09-22 |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | Seattle, WA / New York, NY / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
 | Rite Hite | Engineering Internship (Dubuque) | USA-Ia-Dubuque Headquarters | [Apply](https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-IA-Dubuque-Headquarters/Engineering-Internship--Dubuque-_JR102571) | 2026-09-22 |
 | Robert Bosch Venture Capital | [Internship] Transportation Management Control Support | Vietnam | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150844648) | 2026-09-22 |
 | Robert Bosch Venture Capital | Extracurricular Internship: Eletronics Reliability Testing (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150981509) | 2026-09-22 |
@@ -8515,7 +8515,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CoStar Group | Technology Intern - Nashville, TN (Summer 2027) | US-Tn Nashville | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670) | 2026-09-14 |
 | CoStar Group | Technology Intern - Richmond, VA (Summer 2027) | US-Va Richmond Costar Tower | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665) | 2026-09-14 |
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
-| Cozey | Data Science Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/1e50d436-06c1-447c-b676-5e487b19433c) | 2026-09-14 |
 | Cozey | Finance & Accounting Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/fba77820-6f39-4474-9718-ae1501f197b9) | 2026-09-14 |
 | Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
 | Cozey | Product Management Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) | 2026-09-14 |
@@ -21546,7 +21545,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Western Digital | Intern - Manufacturing Engineer | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141402859) | 2026-08-04 |
 | Yai | Speech Language Pathologist Intern | Queens | [Apply](https://yai.wd5.myworkdayjobs.com/careers/job/Queens/Speech-Language-Pathologist-Intern_R025350) | 2026-08-04 |
 | ASML | Internship - D&E Global Support Center Intern - Linkou | Taiwan | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Linkou-Taiwan/Internship---D-E-Global-Support-Center-Intern---Linkou_J-00348860) | 2026-08-03 |
-| Brio Water Technology | AI Automation & Business Analytics Intern (Rotational Program) | Glendale, Canada | [Apply](https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb) | 2026-08-03 |
 | Brown Brothers Harriman | Technology Internship - Quality Assurance/Test Automation | Krakow | [Apply](https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Krakow/Technology-Internship---Quality-Assurance-Test-Automation_72289) | 2026-08-03 |
 | Chanel | Internship – CRM Campaign Project Management– CHANEL Europe – January 2027 – M/F/D | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---CRM-Campaign-Project-Management--CHANEL-Europe---January-2027---M-F-D_JOBREQ00115628) | 2026-08-03 |
 | Chanel | Internship – Store Planning – CHANEL Europe – September 2026 – M/F/D | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---Store-Planning---CHANEL-Europe---September-2026---M-F-D_JOBREQ00115627) | 2026-08-03 |
