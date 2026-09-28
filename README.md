@@ -163,6 +163,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ardian | Fund Finance Intern - November 2026 \| London | London | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Fund-Finance-Intern---November-2026---London_JR1002251) | 2026-09-28 |
 | Ardian | Sales Intern - 4 Jan 2027 I Singapore (M/F) | Singapore | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Singapore/Sales-Intern---4-Jan-2027-I-Singapore--M-F-_JR1002250) | 2026-09-28 |
 | Argonne National Laboratory - EDU_PUB | Health Physics Intern | Il USA / ON-Site | [Apply](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Radiological-Protection-Intern_411552) | 2026-09-28 |
+| Ascendis Pharma | Student Assistant - Master Data & Digital Solutions | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/A6CFF0BFAE/) | 2026-09-28 |
 | ASML | Finance \| Business Administration internship: financial insights and reporting | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Finance---Business-Administration-internship--financial-insights-and-reporting_J-00352990) | 2026-09-28 |
 | AstraZeneca | Marketing Intern | Romania Bucharest | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Romania---Bucharest/Marketing-Intern_R-260694) | 2026-09-28 |
 | Augsburg University | Student: Public Safety Dispatcher, Academic Year 2026-27 | Minneapolis, MN, United States | [Apply](https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000152259870) | 2026-09-28 |
