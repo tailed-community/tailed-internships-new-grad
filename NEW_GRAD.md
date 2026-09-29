@@ -713,6 +713,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
 | Veolia | Graduate Program Ingenieros/as | Barcelona, CT | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148766494) | 2026-09-10 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3040 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/b0084dcc-892e-4d64-854c-8a84dac48a39) | 2026-09-10 |
+| WallStreetQuants | New Grad Full-Time Quantitative Researcher | England, United Kingdom | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/) | 2026-09-10 |
+| WallStreetQuants | New Grad Full-Time Quantitative Trader | New York, United States | [Apply](https://apply.workable.com/wallstreetquants/j/C611D9282B/) | 2026-09-10 |
 | WSP | Early Career - Building Technology Systems | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94957) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94694) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94860) | 2026-09-10 |
