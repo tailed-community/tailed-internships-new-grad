@@ -189,6 +189,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Daimler Truck - dtna_affiliate | Mechanical Engineer Intern | Mi US | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Mechanical-Engineer-Intern_DT-19910) | 2026-09-29 |
 | Dark Wolf Solutions | Creighton University College Fair - Internship | Omaha, NE | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8007372003) | 2026-09-29 |
 | Dell Technologies | Undergraduate Intern | Singapore | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R273268) | 2026-09-29 |
+| Democratic National Committee | Spring 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/82425705-86cd-4211-863c-cef022329b0f) | 2026-09-29 |
+| Democratic National Committee | Spring 2027 DNC Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/4806dd61-2e46-4814-a2cd-b00b9e50bb18) | 2026-09-29 |
+| Democratic National Committee | Summer 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/152213e1-54d9-4b2c-9511-96eb02f38241) | 2026-09-29 |
+| Democratic National Committee | Summer 2027 DNC Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/05aee341-a46e-4a53-8bb0-ee4a45187219) | 2026-09-29 |
 | DigiKey | Supplier Marketing Intern | Thief River Falls, MN | [Apply](https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Supplier-Marketing-Intern_R5910) | 2026-09-29 |
 | Disney | Marketplace & Portfolio Insights Intern, Spring 2027 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498) | 2026-09-29 |
 | Disney | Marvel and Lucasfilm Product Design (Hardlines) Intern, Spring 2027 | Glendale, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Marvel-and-Lucasfilm-Product-Design--Hardlines--Intern--Spring-2027_10160439) | 2026-09-29 |
@@ -9010,7 +9014,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CoStar Group | Technology Intern - Nashville, TN (Summer 2027) | US-Tn Nashville | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670) | 2026-09-14 |
 | CoStar Group | Technology Intern - Richmond, VA (Summer 2027) | US-Va Richmond Costar Tower | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665) | 2026-09-14 |
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
-| Cozey | Finance & Accounting Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/fba77820-6f39-4474-9718-ae1501f197b9) | 2026-09-14 |
 | Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
 | Cozey | Product Management Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) | 2026-09-14 |
 | Cozey | Retail Construction Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/0388fb31-0777-4c2c-9106-32a9dd6cfa27) | 2026-09-14 |
