@@ -9515,9 +9515,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CoStar Group | Technology Intern - Richmond, VA (Summer 2027) | US-Va Richmond Costar Tower | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665) | 2026-09-14 |
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
 | Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
-| Cozey | Product Management Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/b1f3e185-e5d7-4baf-b67f-10f8703b130a) | 2026-09-14 |
 | Cozey | Retail Construction Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/0388fb31-0777-4c2c-9106-32a9dd6cfa27) | 2026-09-14 |
-| Cozey | Retail Training Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/839cb52f-7a0b-4c43-b0f6-f6a7e2a187c5) | 2026-09-14 |
+| Cozey | Training & Development Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/839cb52f-7a0b-4c43-b0f6-f6a7e2a187c5) | 2026-09-14 |
 | Crane Co. | Engineering Co-op | Ohio | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Engineering-Co-op_JR102436) | 2026-09-14 |
 | Criteo | Account Strategist France Intern | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-France-Intern_r21128) | 2026-09-14 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Mo North Kansas City | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---North-Kansas-City/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1043783) | 2026-09-14 |
@@ -10862,7 +10861,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AllianceBernstein | Software Development Summer Intern | Tennessee | [Apply](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771) | 2026-09-11 |
 | AltaGas | AltaGas - 2027 Finance Intern | Calgary, AB | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Finance-Intern_R7243) | 2026-09-11 |
 | American Century Investments | Personal Financial Solutions Intern | Missouri | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Personal-Financial-Solutions-Intern_R0005719) | 2026-09-11 |
-| American Rare Earths | Engineering Intern (Summer 2027) | Stillwater, OK | [Apply](https://ats.rippling.com/usare/jobs/1a62e20c-2b6e-40bd-8e1b-652ac5c37d1e) | 2026-09-11 |
 | AMERICAN SYSTEMS | SkillBridge Industrial/Personnel Security Intern (Transitioning Military) | Not Specified | [Apply](https://careers-americansystems.icims.com/jobs/4932/skillbridge-industrial-personnel-security-intern-%28transitioning-military%29/job) | 2026-09-11 |
 | American University | Administrative Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Administrative-Assistant--Student-_R4886) | 2026-09-11 |
 | American University | Athletics Marketing and Ticket Sales (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Athletics-Marketing-and-Ticket-Sales--Student---FWS-_R4888) | 2026-09-11 |
@@ -12041,7 +12039,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nationwide | Summer 2027 Personal Lines Sales & Distribution Direct Sales Intern | Not Specified | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales---Distribution-Direct-Sales-Intern_100198) | 2026-09-10 |
 | Nationwide | Summer 2027 Personal Lines Sales Relationships Intern | Not Specified | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-PL-Sales-Relationships-Intern_100033) | 2026-09-10 |
 | Navy Federal | Summer Associate Internship (Digital Payments Strategist) | Pensacola, FL, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32459) | 2026-09-10 |
-| NERv Technology Inc. D.B.A. FluidAI Medical | Research and Development Engineering Associate (Co-op 8+ Months Preferred) | Kitchener, Canada | [Apply](https://ats.rippling.com/fluidai-medical-careers/jobs/927c80cf-cf2f-4092-9c33-e1bb3c387d25) | 2026-09-10 |
 | NielsenIQ | Employee Experience Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000148659739) | 2026-09-10 |
 | NJM Insurance Group | General Claims Legal Intern | Njm Trenton | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/General-Claims-Legal-Intern_R2008162) | 2026-09-10 |
 | Nokia | IP Routing App Engineer Co-op/Intern | Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39165) | 2026-09-10 |
@@ -22358,8 +22355,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Healthcare | Research Intern - AI | Ind19-01-Bengaluru-Epip 122 (phase Ii) | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) | 2026-07-27 |
 | GenMD | AI Research Scientist Intern | California, United States | [Apply](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13) | 2026-07-27 |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) | 2026-07-27 |
-| Gitar, Inc. | Software Engineer Intern | San Mateo, Canada | [Apply](https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda) | 2026-07-27 |
-| Gitar, Inc. | Software Engineer Intern (Ph.D.) | San Mateo, Canada | [Apply](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) | 2026-07-27 |
 | Gritt Robotics Inc | ML & Cloud Infrastructure Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | 2026-07-27 |
 | Gritt Robotics Inc | Robot Learning Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd) | 2026-07-27 |
 | Gritt Robotics Inc | Robotics Perception Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) | 2026-07-27 |
