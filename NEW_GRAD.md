@@ -715,8 +715,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
 | Veolia | Graduate Program Ingenieros/as | Barcelona, CT | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148766494) | 2026-09-10 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3040 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/b0084dcc-892e-4d64-854c-8a84dac48a39) | 2026-09-10 |
-| WallStreetQuants | New Grad Full-Time Quantitative Researcher | England, United Kingdom | [Apply](https://apply.workable.com/wallstreetquants/j/62537809CA/) | 2026-09-10 |
-| WallStreetQuants | New Grad Full-Time Quantitative Trader | New York, United States | [Apply](https://apply.workable.com/wallstreetquants/j/C611D9282B/) | 2026-09-10 |
 | WSP | Early Career - Building Technology Systems | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94957) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Arlington, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94694) | 2026-09-10 |
 | WSP | Early Career Mechanical Engineering- Summer 2027 | Columbia, MD, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94860) | 2026-09-10 |
@@ -1247,6 +1245,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Lonza | Entry-Level Pharmaceutical Manufacturing Technician | US Bend, OR | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Bend-OR/Entry-Level-Pharmaceutical-Manufacturing-Technician_R78280-1) | 2026-08-19 |
 | LPL Financial Holdings - university | New Grad 2027 - Business Development Associate | Fort Mill / Charlotte / Austin Tx / Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Business-Development-Associate_R-053108) | 2026-08-19 |
 | LPL Financial Holdings - university | New Grad 2027 - Transition Support Partner | Fort Mill / Charlotte / Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Transition-Support-Partner_R-052496) | 2026-08-19 |
+| OceanComm | Entry-Level Electronics Technician | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/A96B95A022/) | 2026-08-19 |
 | Peraton | Entry Level Environmental Engineer | Clearfield, UT, United States | [Apply](https://careers-peraton.icims.com/jobs/169741/entry-level-environmental-engineer/job) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Electrical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) | 2026-08-19 |
