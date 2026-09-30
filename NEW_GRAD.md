@@ -476,7 +476,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Post Surgical Unit | Marymount Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Post-Surgical-Unit_354957) | 2026-09-16 |
 | Cleveland Clinic | New Grad RN Resident – Med Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Med-Surg_337783) | 2026-09-16 |
 | Cox | Entry Level Mobile Trailer Mechanic | Rochester Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Rochester-NY/Entry-Level-Mobile-Trailer-Mechanic_R202682620-1) | 2026-09-16 |
-| Daniels Health | Early Career Machine Operator - 2nd Shift Blow Mold | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/93c1a3e7-9990-442b-a19a-c55fa70ba72e) | 2026-09-16 |
 | Eurofins | Entry Level Chemist- Package Testing | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149686059) | 2026-09-16 |
 | Eurofins | Entry Level Chemist- TASC | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149897039) | 2026-09-16 |
 | Eurofins | Sample Admin Specialist- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000149715659) | 2026-09-16 |
