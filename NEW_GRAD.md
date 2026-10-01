@@ -1275,7 +1275,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Lonza | Entry-Level Pharmaceutical Manufacturing Technician | US Bend, OR | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Bend-OR/Entry-Level-Pharmaceutical-Manufacturing-Technician_R78280-1) | 2026-08-19 |
 | LPL Financial Holdings - university | New Grad 2027 - Business Development Associate | Fort Mill / Charlotte / Austin Tx / Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Business-Development-Associate_R-053108) | 2026-08-19 |
 | LPL Financial Holdings - university | New Grad 2027 - Transition Support Partner | Fort Mill / Charlotte / Tempe | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Transition-Support-Partner_R-052496) | 2026-08-19 |
-| OceanComm | Entry-Level Electronics Technician | Illinois, United States | [Apply](https://apply.workable.com/oceancomm/j/A96B95A022/) | 2026-08-19 |
 | Peraton | Entry Level Environmental Engineer | Clearfield, UT, United States | [Apply](https://careers-peraton.icims.com/jobs/169741/entry-level-environmental-engineer/job) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Electrical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) | 2026-08-19 |
