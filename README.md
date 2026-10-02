@@ -10476,7 +10476,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
 | Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
 | Cozey | Retail Construction Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/0388fb31-0777-4c2c-9106-32a9dd6cfa27) | 2026-09-14 |
-| Cozey | Training & Development Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/839cb52f-7a0b-4c43-b0f6-f6a7e2a187c5) | 2026-09-14 |
 | Crane Co. | Engineering Co-op | Ohio | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Engineering-Co-op_JR102436) | 2026-09-14 |
 | Criteo | Account Strategist France Intern | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-France-Intern_r21128) | 2026-09-14 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Mo North Kansas City | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---North-Kansas-City/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1043783) | 2026-09-14 |
