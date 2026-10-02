@@ -417,6 +417,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Procter & Gamble (P&G) | Stagiaire Qualité & Logistique (Quality Assurance) (F/H/X) | Amiens Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/AMIENS-PLANT/Stagiaire-Qualit---Logistique--Quality-Assurance---F-H-X-_R000159353) | 2026-10-02 |
 | Procter & Gamble (P&G) | Working Student IT (m/f/d) | Schwalbach Am Taunus / Kronberg | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Working-Student-IT--m-f-d-_R000159368) | 2026-10-02 |
 | Prysmian Cables & Systems | Livorno Indirect Purchasing - Intern | Tuscany | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Livorno-Tuscany/Livorno-Indirect-Purchasing---Intern_R-36369) | 2026-10-02 |
+| Quantinuum | Developer Intern - 1053 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/72ed2fcf-5236-4632-baac-1b001df7e84f) | 2026-10-02 |
 | Radiance Technologies | Reverse Engineer Intern | Huntsville, AL | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Reverse-Engineer-Intern_HR102461-1) | 2026-10-02 |
 | RBC | Banking Advisor Intern | Cornwall, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CORNWALL-Ontario-Canada/Banking-Advisor-Intern_R-0000189490-1) | 2026-10-02 |
 | RBC | Banking Advisor Intern - Squamish Branch | Squamish, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SQUAMISH-British-Columbia-Canada/Banking-Advisor-Intern---Squamish-Branch_R-0000189198) | 2026-10-02 |
@@ -505,6 +506,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sonoco | Treasury Analyst Trainee (Internship) | Nld Kouti Bv Treasury D311 | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/NLD---Kouti-BV---Treasury---D311/Treasury-Analyst-Trainee--Amsterdam-_JR-159343) | 2026-10-02 |
 | Southwest Airlines | Summer 2027 Revenue Management Planning & Initiatives Internship | Tx-Dallas | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Revenue-Management-Planning---Initiatives-Internship_R-2026-73264) | 2026-10-02 |
 | SpartanNash | IS Internship - Planning & Strategy Office | Michigan | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---Planning---Strategy-Office_R90066-1) | 2026-10-02 |
+| Stand Together | KIP Spring 2027 - Analytics Intern - Illinois Policy Institute | Illinois | [Apply](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b) | 2026-10-02 |
+| Stand Together | KIP Spring 2027 - Free Speech America Intern - Media Research Center | Virginia | [Apply](https://jobs.lever.co/standtogether/c306f91b-b2d8-4201-aa06-a9a590fcbfc1) | 2026-10-02 |
+| Stand Together | KIP Spring 2027 - Government Affairs Intern - Media Research Center | Virginia | [Apply](https://jobs.lever.co/standtogether/8ba9238e-96bc-4ff2-be2c-b95dff46e930) | 2026-10-02 |
 | State of Wisconsin Investment Board | Hedge Fund Strategies Intern | Madison Wisconsin | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Hedge-Fund-Strategies-Intern_R-001336) | 2026-10-02 |
 | State of Wisconsin Investment Board | Private Debt and Equity Intern | Madison Wisconsin | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Private-Debt-and-Equity-Intern_R-001333) | 2026-10-02 |
 | State of Wisconsin Investment Board | Small Cap Equities Intern | Madison Wisconsin | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Small-Cap-Equities-Intern_R-001334) | 2026-10-02 |
@@ -581,6 +585,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vanguard - vanguard_external | College to Corporate IT Internship-Risk & Security Engineer (PA) | Malvern, PA | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Risk---Security-Engineer--PA-_182784) | 2026-10-02 |
 | Vanguard - vanguard_external | College to Corporate IT Internship-Risk & Security-Engineer (NC) | Charlotte, NC | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Risk---Security-Engineer--NC-_182785) | 2026-10-02 |
 | Wash U | General Manager Student Life - Student Success | Washington University Danforth Campus | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/General-Manager-Student-Life---Student-Success_JR97871) | 2026-10-02 |
+| Woodard Curran | 2027 Summer Internship - Drinking Water Engineering (Andover, MA) | Andover, MA | [Apply](https://jobs.lever.co/woodardcurran/988ab002-f799-4f18-8b5f-fc85208aa356) | 2026-10-02 |
 | Workday | Technical Support Delivery Intern | Costa Rica | [Apply](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1) | 2026-10-02 |
 | Workday Early Careers | Technical Support Delivery Intern | Costa Rica | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629) | 2026-10-02 |
 | WVUMedicine | Pharmacy Intern - Inpatient | Weirton Medical Center (wmch) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Weirton-Medical-Center-WMCH/Pharmacy-Intern---Inpatient_JR26-46618) | 2026-10-02 |
@@ -954,7 +959,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | EisnerAmper | National Office Intern | Fort Lauderdale | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Fort-Lauderdale/National-Office-Intern_Req-9468) | 2026-10-01 |
 | Epic Games | Technical Product Management Intern | North Carolina, United States | [Apply](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | 2026-10-01 |
 | Epicor | Finance Operations Intern | Monterrey | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/Mexico-Monterrey/Finance-Operations-Intern_JR105629) | 2026-10-01 |
-| EQ Bank | Workplace Design Intern - Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/e72936d3-b60f-4af0-9d0a-c7a56086925d) | 2026-10-01 |
 | EQT Corporation | Production Services Intern | Remote | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424754008) | 2026-10-01 |
 | Euronext | Business Development Analyst Intern | Paris | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Paris/Business-Development-Analyst-Intern_R29073) | 2026-10-01 |
 | Euronext | Euronext Clearing - Credit Risk Internship | Milan | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Euronext-Clearing---Credit-Risk-Internship_R29081) | 2026-10-01 |
@@ -4818,7 +4822,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Intern, APAC Data Analytics (Subscriber Analytics), Disney+ - Jan to Jun 2027 | Singapore | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--APAC-Data-Analytics--Subscriber-Analytics---Disney----Jan-to-Jun-2027_10161268) | 2026-09-24 |
 | DXC Technology | Technical Intern | Chn Dalian | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---DALIAN/Technical-Intern_51589631) | 2026-09-24 |
 | Egis Group | Stage BAC+3/BAC+4/BAC+5 - Ingénieur écoconception / innovation / technique transport - H/F | Idf, France | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000151559949) | 2026-09-24 |
-| Ekimetrics | [HKU Career Fair] Business Scientist Internship (6-month full-time) - Hong Kong - January 2027 | Hong Kong | [Apply](https://jobs.lever.co/ekimetrics/e86a3be0-9fdc-4fd1-ad3e-eb8df126ca79) | 2026-09-24 |
 | Ekimetrics | Stage 2027  Business Data Scientist - Marketing effectivness | Paris | [Apply](https://jobs.lever.co/ekimetrics/8f0d6bb4-903a-4deb-8689-2f72e8b3e171) | 2026-09-24 |
 | Ekimetrics | Stage 2027 - AI/ML Engineer - 50% Client 50% R&D | Paris | [Apply](https://jobs.lever.co/ekimetrics/e9065c12-7d2d-4753-bee0-0a80f933f28e) | 2026-09-24 |
 | Ekimetrics | Stage Finance - Contrôle de Gestion Groupe | Paris | [Apply](https://jobs.lever.co/ekimetrics/5bc0c075-8403-4d03-8d01-28429f6f2e47) | 2026-09-24 |
@@ -7301,7 +7304,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dentsu | Programmatic Intern | København K | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Kbenhavn-K/Programmatic-Intern_R1131741) | 2026-09-19 |
 | Disney | FX Design & VFX Intern, Spring 2027 | Burbank, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Design---VFX-Intern--Spring-2027_10160082) | 2026-09-19 |
 | DPR Family of Companies | Construction Intern | Orlando, FL | [Apply](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Orlando-FL/Construction-Intern_JR-16627) | 2026-09-19 |
-| E-Space | Technical Intern: Equipment Commissioning Support (Korean/English) | Arlington, TX | [Apply](https://jobs.lever.co/espace/a9147805-46e7-4b43-bbea-738a1fa1c88c) | 2026-09-19 |
 | Enterprise Mobility | Management Trainee Internship - Spring 2027 | Albuquerque | [Apply](https://us-erac.icims.com/jobs/567275/management-trainee-internship---spring-2027/job) | 2026-09-19 |
 | Enterprise Mobility | Sales Management Trainee Intern- Spring | Athens | [Apply](https://us-erac.icims.com/jobs/567173/sales-management-trainee-intern--spring/job) | 2026-09-19 |
 | Enterprise Mobility | Sales Management Trainee Intern- Spring | Chamblee | [Apply](https://us-erac.icims.com/jobs/567167/sales-management-trainee-intern--spring/job) | 2026-09-19 |
@@ -10131,7 +10133,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Acron Aviation | Avionics Certification Engineering Intern - Phoenix Site | Phoenix, AZ | [Apply](https://jobs.lever.co/acronaviation/ad4a75ee-4247-4f71-afe5-174f16832edf) | 2026-09-14 |
 | Acron Aviation | Electrical Engineer Intern (EE, RF, FPGA disciplines) - Phoenix Site | Phoenix, AZ | [Apply](https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329) | 2026-09-14 |
 | Acron Aviation | Electrical Engineer Intern - St. Pete Site | St Petersburg, FL | [Apply](https://jobs.lever.co/acronaviation/0cd327f1-0f91-41d0-8b88-093a084fb082) | 2026-09-14 |
-| Acron Aviation | Software Engineer Intern - Phoenix Site | Phoenix, AZ | [Apply](https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e) | 2026-09-14 |
 | AECOM | Civil Engineering Stormwater Intern | Grand Rapids, MI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149248149) | 2026-09-14 |
 | AECOM | Construction Intern – AECOM Hunt | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149400449) | 2026-09-14 |
 | AECOM | Quality Intern - Hiring Event with AECOM - Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149397987) | 2026-09-14 |
@@ -11474,7 +11475,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | QTS | Summer 2027 Internship: Photo and Video Marketing Production | Overland Park, KS | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Photo-and-Video-Marketing-Production_R2026-2015) | 2026-09-12 |
 | QTS | Summer 2027 Internship: Technology Optimization Project Management | Phoenix, AZ | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Phoenix-AZ/Summer-2027-Internship--Technology-Optimization-Project-Management_R2026-2023) | 2026-09-12 |
 | Quantinuum | Electrical Engineering Intern - 997 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb) | 2026-09-12 |
-| Quantinuum | Facilities Engineering Intern - 1000 | US Brooklyn Park, MN | [Apply](https://jobs.eu.lever.co/quantinuum/f186df57-b777-4efe-b82e-6315ec3caa59) | 2026-09-12 |
 | Quantinuum | Facilities Mechanical Engineer Intern - 999 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/94cbc678-1cc2-47d2-a20a-88966ca17e6b) | 2026-09-12 |
 | Quantinuum | Facilities Project Engineer Intern - 1001 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/68de3fa7-021a-4eae-89fe-646ad1ed2c53) | 2026-09-12 |
 | Quantinuum | IT Applications Intern - 984 | US Broomfield, CO | [Apply](https://jobs.eu.lever.co/quantinuum/aa305a45-955d-42df-9e11-a4babb28041b) | 2026-09-12 |
@@ -22842,7 +22842,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HNTB - hntb_university_careers | Returning New Grad Engineer I - Winter/ Spring 2027 (Southeast Division) (For Current/Previous HNTB Interns ONLY) | Atlanta, GA | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Atlanta-GA/Returning-New-Grad-Engineer-I---Winter--Spring-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30860) | 2026-07-23 |
 | Johnson Electric | Intern / Student | Vandalia, United States | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/United-States-Vandalia/Intern---Student_R00030313) | 2026-07-23 |
 | Kairos Power | Chemical and Materials Engineering Internship - Summer 2027 | Nm Or Oak Ridge, TN, Canada | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6122803004) | 2026-07-23 |
-| Kepler Communications | FPGA Digital Design Engineering Intern (May 2027) (4-16 months) | Toronto, ON | [Apply](https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03) | 2026-07-23 |
 | Later | Software Development Co-op (Later Influence) | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002) | 2026-07-23 |
 | Loblaw Companies | Student, Franchise Part Time Day | Casselman, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/726-Principale-St-Rr-3-Casselman-ON/Student--Franchise-Part-Time-Day_R2000686703) | 2026-07-23 |
 | Medical University of South Carolina | Pharmacy Intern | Columbia | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Columbia/Pharmacy-Intern_R-0000064958) | 2026-07-23 |
