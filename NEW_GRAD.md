@@ -348,10 +348,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CSA Group | Product Safety Engineer (New Graduates) | Cleveland, OH | [Apply](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Product-Safety-Engineer--New-Graduates-_R005002) | 2026-09-24 |
 | Cummins | Parts Associate - Entry Level | Duluth, MN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438986) | 2026-09-24 |
 | Eurofins | Entry Level Biochemist | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000151453229) | 2026-09-24 |
-| Fehr & Peers | Entry-level Transportation Engineer/Planner (2026 and 2027) | California | [Apply](https://jobs.lever.co/fehrandpeers/63b63da7-15da-4f79-999f-50fa428382f7) | 2026-09-24 |
-| Fehr & Peers | Entry-level Transportation Engineer/Planner (2027) | California | [Apply](https://jobs.lever.co/fehrandpeers/1de5281e-e479-4d18-8d43-cf477894767b) | 2026-09-24 |
-| Fehr & Peers | Entry-level Transportation Engineer/Planner (2027) | Colorado | [Apply](https://jobs.lever.co/fehrandpeers/a8492b20-1551-4a68-9e9d-3425758a3db9) | 2026-09-24 |
-| Fehr & Peers | Entry-level Transportation Engineer/Planner (2027) | Washington | [Apply](https://jobs.lever.co/fehrandpeers/fc8753ff-49ae-4ed8-b3aa-49d8a732902d) | 2026-09-24 |
+| Fehr & Peers | Entry-level Transportation Engineer/Planner | California | [Apply](https://jobs.lever.co/fehrandpeers/1de5281e-e479-4d18-8d43-cf477894767b) | 2026-09-24 |
+| Fehr & Peers | Entry-level Transportation Engineer/Planner | Colorado | [Apply](https://jobs.lever.co/fehrandpeers/a8492b20-1551-4a68-9e9d-3425758a3db9) | 2026-09-24 |
+| Fehr & Peers | Entry-level Transportation Engineer/Planner | Washington | [Apply](https://jobs.lever.co/fehrandpeers/fc8753ff-49ae-4ed8-b3aa-49d8a732902d) | 2026-09-24 |
 | Freeform | Manufacturing Engineer, CNC Machining (New Grad December 2026) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004026003) | 2026-09-24 |
 | Freeform | Manufacturing Engineer, CNC Machining (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004100003) | 2026-09-24 |
 | Highmark Health | RN T9 PCU/Tele (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-T9-PCU-Tele--New-Grad---West-Penn-Hospital_J280288) | 2026-09-24 |
