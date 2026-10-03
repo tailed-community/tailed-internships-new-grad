@@ -102,6 +102,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Disney | Product Design - Licensed Toys Intern, Spring 2027 | Glendale, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Design---Licensed-Toys-Intern--Spring-2027_10160441) | 2026-10-03 |
 | Disney | WABC-TV (ABC7) 7 On Your Side Intern, Spring 2027 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/WABC-TV--ABC7--7-On-Your-Side-Intern--Spring-2027_10158776-1) | 2026-10-03 |
 | DPR Family of Companies | Construction Intern | Phoenix, AZ | [Apply](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Phoenix-AZ/Construction-Intern_JR-16975) | 2026-10-03 |
+| Dryft | Founder’s Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/dryft/1774b309-48a8-4fd0-a2bb-9f2b1c5d558d) | 2026-10-03 |
 | Duke Energy | RRE Engineering Internship & Co-op Program - Summer 2027 | Topton, NC | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Topton-NC/RRE-Engineering-Internship---Co-op-Program---Summer-2027_R41857) | 2026-10-03 |
 | Duke Energy | UX Design Internship – Summer 2027 | Charlotte, NC | [Apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850) | 2026-10-03 |
 | Elanco | Beef Veterinarian Intern - US Farm Animal (Summer 2027) | US Territory Field Based | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Beef-Veterinarian-Intern---US-Farm-Animal--Summer-2027-_R0027425) | 2026-10-03 |
@@ -140,6 +141,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Gordon Food Service - usprivate-gfs | Divisional Sales Internship - Central Florida | Florida | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Plant-City-Florida/Divisional-Sales-Internship--Central-Florida_R-58228) | 2026-10-03 |
 | Gordon Food Service - usprivate-gfs | Divisional Sales Internship - Central Florida | Not Specified | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Divisional-Sales-Internship--Central-Florida_R-58225) | 2026-10-03 |
 | Gordon Food Service - usprivate-gfs | Southeast Divisional Internship | Georgia | [Apply](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Lithia-Springs-Georgia/Southeast-Divisional-Internship_R-58230) | 2026-10-03 |
+| GovSignals | ENGINEERING INTERN | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9) | 2026-10-03 |
 | Great American Insurance Company | Property & Inland Marine Intern - Year-Round | Ny (usa) | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Syracuse-NY-USA/Property---Inland-Marine-Intern---Year-Round_R9652) | 2026-10-03 |
 | Greenheck Group | Finance Intern | Schofield, WI | [Apply](https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Finance-Intern_JR104736) | 2026-10-03 |
 | Greystar Worldwide | Service Technician - Accolade on Chestnut (Student Living) | Philadelphia, PA | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/The-Accolade-on-Chestnut-Philadelphia-PA/Service-Technician---Accolade-on-Chestnut--Student-Living-_R0202884) | 2026-10-03 |
@@ -234,6 +236,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sezzle | Product Operations Intern, Rewards | Peru | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012085003) | 2026-10-03 |
 | Sezzle | Risk & Disputes Intern | Remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8012016003) | 2026-10-03 |
 | Simon | Intern, Marketing | Wrentham, MA | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Wrentham-MA/Intern--Marketing_R14076) | 2026-10-03 |
+| Solink | Software Engineer Co-op, Agents | Ottawa, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e) | 2026-10-03 |
 | Southwest Airlines | Summer 2027 Culture & Engagement Internship | Tx-Dallas | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Culture---Engagement-Internship_R-2026-73039) | 2026-10-03 |
 | SpartanNash | IS Internship - IT Ecommerce & Marketing Developer | Michigan | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110) | 2026-10-03 |
 | SpartanNash | IS Internship - Retail Technology Services | Michigan | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---Retail-Technology-Services_R90111-1) | 2026-10-03 |
@@ -2148,8 +2151,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern | Tx Abilene | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Abilene/Pharmacy-Intern_R1060224) | 2026-09-30 |
 | CVS Health | Pharmacy Intern - Grad | CA Clovis | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Clovis/Pharmacy-Intern---Grad_R1051980) | 2026-09-30 |
 | CVS Health - Private_Postings_Intern_Conversion_ONLY | General Management Corporate Internship - Summer 2027 (Undergraduate) | Ct Hartford / Tx Dallas / Ri Woonsocket | [Apply](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/General-Management-Corporate-Internship---Summer-2027--Undergraduate-_R1025480) | 2026-09-30 |
-| Dandy | Summer 2027 Internship - PhD Research Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31) | 2026-09-30 |
-| Dandy | Summer 2027 Internship - Software Engineering Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099) | 2026-09-30 |
 | Dayton Freight Lines | Human Resources Intern – Part-Time, Year-Round | Dayton | [Apply](https://careers-daytonfreight.icims.com/jobs/18271/human-resources-intern-%e2%80%93-part-time%2c-year-round/job) | 2026-09-30 |
 | Dayton Freight Lines | Management Internship | Arcola | [Apply](https://careers-daytonfreight.icims.com/jobs/18270/management-internship/job) | 2026-09-30 |
 | Dentsu | Account Intern | Shanghai Haisu Plaza | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Shanghai---Haisu-Plaza/Account-Intern_R1131590) | 2026-09-30 |
@@ -6586,7 +6587,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ONE Finance | Marketing Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/oneapp/ddad1427-27c3-4db5-ae4f-bb2487d72c1d) | 2026-09-22 |
 | ONE Finance | Partnerships Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/oneapp/a6db6bbb-bc8d-43d2-9dd6-1047a9d5aec5) | 2026-09-22 |
 | ONE Finance | Product Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8) | 2026-09-22 |
-| OpenGov | Product Intern | Massachusetts, United States | [Apply](https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6) | 2026-09-22 |
 | Optiver | High Performance Computing (HPC) Intern (Summer 2027 - Chicago) | Illinois, United States | [Apply](https://job-boards.greenhouse.io/optiverprivate/jobs/8828011002) | 2026-09-22 |
 | Parsons | Construction Engineering Intern - Summer 2027 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Construction-Engineering-Intern---Summer-2027_R185972) | 2026-09-22 |
 | Parsons | Roadway Engineering Intern | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Roadway-Engineering-Intern_R186268) | 2026-09-22 |
@@ -6695,7 +6695,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stryker | Summer 2027 Internship - Project Management - California | California | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Project-Management---California_R572838) | 2026-09-22 |
 | Stryker | Summer 2027 Internship - Sales Systems Engineer - Michigan | Michigan | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850) | 2026-09-22 |
 | Stryker | Summer 2027 Internship - Supply Chain - Florida | Florida | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Supply-Chain---Florida_R572738) | 2026-09-22 |
-| Super | People & Culture Intern (10 months) | Canada / Toronto / Canada Remote | [Apply](https://jobs.ashbyhq.com/super.com/0b6e20ac-4854-4adc-950b-81d662d6fa70) | 2026-09-22 |
 | Syngenta Group | Seed Conditioning Process Engineering Intern | Iowa, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000150779958) | 2026-09-22 |
 | Tanium | Cloud Security Intern | Nc (hybrid) | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176398) | 2026-09-22 |
 | TC Energy | Intern, Communications | Calgary, AB | [Apply](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Communications_JR-10848) | 2026-09-22 |
