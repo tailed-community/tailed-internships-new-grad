@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/0fe56373-a3d1-48ee-ba8a-f4faeffa37f7) | 2026-10-04 |
 | Advocate Health Care | New Graduate Registered Nurse - Med/Surg | Monroe, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Union---600-Hospital-Dr-Monroe-NC/New-Graduate-Registered-Nurse---Med-Surg_R274851) | 2026-10-03 |
 | Allstate Insurance Company | Early Career Trial Attorney - Dallas, TX (Hybrid) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/Trial-Attorney---Dallas--TX--Remote-_R35207-1) | 2026-10-03 |
 | AutoNation | Entry Level Technician | Autonation Acura Stevens Creek | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Acura-Stevens-Creek/Entry-Level-Technician_JR2026150022) | 2026-10-03 |

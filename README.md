@@ -22,6 +22,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Beth Israel Lahey Health | Pharmacy Student - Outpatient Pharmacy | Bilh Pharmacy | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/BILH-Pharmacy/Pharmacy-Student---Outpatient-Pharmacy_JR104373) | 2026-10-04 |
+| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/782a8d91-001d-475f-9e91-79ad00657bd2) | 2026-10-04 |
 | Disney | Finance & Data Intern, Spring 2027 | Anaheim, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1) | 2026-10-04 |
 | Flowserve | CoOp/Intern Operations | Spain | [Apply](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pozuelo-de-Alarcn-Spain/CoOp-Intern-Operations_R-21034) | 2026-10-04 |
 | Intel | Haifa Lab technician - Student | Haifa | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0287787) | 2026-10-04 |
@@ -41,6 +42,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Marvell | Research Intern (PhD), Storage Systems for AI | Hyderabad | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 2026-10-04 |
 | Meijer | Pharmacy Intern | Stow, OH | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Stow-OH/Pharmacy-Intern_R000706626-1) | 2026-10-04 |
 | Northern Trust | Data & Analytics Office Intern | Chicago, IL | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | 2026-10-04 |
+| Proxima | Compound Management Intern | Boston | [Apply](https://jobs.ashbyhq.com/proxima/29aae84a-588c-48d2-821c-30d91efb9889) | 2026-10-04 |
 | RTX (en-US) | Avionics Test Engineering -Systems Engineer Intern (Onsite) | US-Ia-Cedar Rapids-112 ~ 400 Collins Rd Ne ~ Bldg 112 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) | 2026-10-04 |
 | RTX (en-US) | Co-Op - AI DSP Applied Research | US-Ia-Cedar Rapids-108 ~ 400 Collins Rd Ne ~ Bldg 108 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016) | 2026-10-04 |
 | Thermo Fisher Scientific | Intern - IT | India | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Intern---IT_R-01368644) | 2026-10-04 |
@@ -3616,7 +3618,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 – CAO department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20396) | 2026-09-28 |
 | Citi | Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only) | Warsaw Poland | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Risk---Full-Time-Analyst--Warsaw--2027_26995429) | 2026-09-28 |
 | Civil & Environmental Consultants | Air Quality Intern - Summer 2027 | Pittsburgh (moon Township), PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6482/air-quality-intern---summer-2027/job) | 2026-09-28 |
-| Clera | Founder's Associate Intern / Working Student | Germany | [Apply](https://jobs.ashbyhq.com/clera/4ae1dd02-cb56-41cc-b031-686e868027e5) | 2026-09-28 |
 | Constellation Energy | 2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD) | Maryland | [Apply](https://jobs.constellationenergy.com/jobs/139494?lang=en-us&icims=1) | 2026-09-28 |
 | Corewell Health | Pharmacy Technician Student Grand Rapids Hospitals | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Pharmacy-Technician-Student-Grand-Rapids-Hospitals_R228683) | 2026-09-28 |
 | Corteva | Business Intelligence Intern | Indiana, United States | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Business-Intelligence-Intern_248318W) | 2026-09-28 |
