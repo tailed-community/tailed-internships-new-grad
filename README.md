@@ -21,6 +21,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Roadway Engineering Intern - Networking Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153336639) | 2026-10-04 |
 | Beth Israel Lahey Health | Pharmacy Student - Outpatient Pharmacy | Bilh Pharmacy | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/BILH-Pharmacy/Pharmacy-Student---Outpatient-Pharmacy_JR104373) | 2026-10-04 |
 | Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/782a8d91-001d-475f-9e91-79ad00657bd2) | 2026-10-04 |
 | Disney | Finance & Data Intern, Spring 2027 | Anaheim, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1) | 2026-10-04 |
@@ -43,6 +44,55 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Marvell | Research Intern (PhD), FPGA & Silicon Prototyping | Hyderabad | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD----FPGA---Silicon-Prototyping_2604254) | 2026-10-04 |
 | Marvell | Research Intern (PhD), Storage Systems for AI | Hyderabad | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hyderabad/Research-Intern--PhD---Storage-Systems-for-AI_2604256) | 2026-10-04 |
 | Meijer | Pharmacy Intern | Stow, OH | [Apply](https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Stow-OH/Pharmacy-Intern_R000706626-1) | 2026-10-04 |
+| NBCUniversal | Acquired Content Distribution Strategy Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373085) | 2026-10-04 |
+| NBCUniversal | Audience Insights & Analytics Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639) | 2026-10-04 |
+| NBCUniversal | Brand Partnerships Intern (Consumer Products) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371189) | 2026-10-04 |
+| NBCUniversal | Business Data (Film IT) Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373649) | 2026-10-04 |
+| NBCUniversal | Business Licensing Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372029) | 2026-10-04 |
+| NBCUniversal | Business Solutions Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372989) | 2026-10-04 |
+| NBCUniversal | Business Strategy Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371429) | 2026-10-04 |
+| NBCUniversal | Commercial Intern (Ad & Affiliate Sales) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373659) | 2026-10-04 |
+| NBCUniversal | Commercial Strategy & Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373719) | 2026-10-04 |
+| NBCUniversal | Communications Intern (Universal Destinations & Experiences) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371419) | 2026-10-04 |
+| NBCUniversal | Communications Intern (Universal Global Television) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371409) | 2026-10-04 |
+| NBCUniversal | Consumer Products Creative Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373079) | 2026-10-04 |
+| NBCUniversal | Content Planning & Acquisitions Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372139) | 2026-10-04 |
+| NBCUniversal | Content Strategy and Distribution Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372719) | 2026-10-04 |
+| NBCUniversal | Corporate Communications Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371179) | 2026-10-04 |
+| NBCUniversal | Creative Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372634) | 2026-10-04 |
+| NBCUniversal | Creative Production Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373799) | 2026-10-04 |
+| NBCUniversal | Creative Services Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373859) | 2026-10-04 |
+| NBCUniversal | Data Analytics Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465) | 2026-10-04 |
+| NBCUniversal | Distribution Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373889) | 2026-10-04 |
+| NBCUniversal | Employment and Labour Law Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372629) | 2026-10-04 |
+| NBCUniversal | Facilities & Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371669) | 2026-10-04 |
+| NBCUniversal | Film Services Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372679) | 2026-10-04 |
+| NBCUniversal | Film Strategy Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373909) | 2026-10-04 |
+| NBCUniversal | Finance Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371819) | 2026-10-04 |
+| NBCUniversal | Franchise Marketing Intern (Consumer Products) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371829) | 2026-10-04 |
+| NBCUniversal | Government & Regulatory Affairs Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372509) | 2026-10-04 |
+| NBCUniversal | HR Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373879) | 2026-10-04 |
+| NBCUniversal | IT Workplace Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371839) | 2026-10-04 |
+| NBCUniversal | Key Account Management Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371979) | 2026-10-04 |
+| NBCUniversal | Legal Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153377129) | 2026-10-04 |
+| NBCUniversal | Marketing Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371859) | 2026-10-04 |
+| NBCUniversal | Marketing, Promotions & Creative Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371880) | 2026-10-04 |
+| NBCUniversal | Media Product Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389) | 2026-10-04 |
+| NBCUniversal | Operations & Production Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371509) | 2026-10-04 |
+| NBCUniversal | Post Production Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373299) | 2026-10-04 |
+| NBCUniversal | PR & Communications Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372269) | 2026-10-04 |
+| NBCUniversal | Product Intern (Hayu) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229) | 2026-10-04 |
+| NBCUniversal | Production & Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372219) | 2026-10-04 |
+| NBCUniversal | Production Finance & Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372319) | 2026-10-04 |
+| NBCUniversal | Projects & Delivery Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373129) | 2026-10-04 |
+| NBCUniversal | Publicity Intern (Film) | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153374329) | 2026-10-04 |
+| NBCUniversal | Sales Intern (TV Distribution) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372329) | 2026-10-04 |
+| NBCUniversal | Sales Intern (UK, Universal Pictures) | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371749) | 2026-10-04 |
+| NBCUniversal | Sales Strategy & Development Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372284) | 2026-10-04 |
+| NBCUniversal | Scripted Development Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372699) | 2026-10-04 |
+| NBCUniversal | Social Video Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372059) | 2026-10-04 |
+| NBCUniversal | Trade Marketing Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372110) | 2026-10-04 |
+| NBCUniversal | TV Format Sales & Production Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371849) | 2026-10-04 |
 | Northern Trust | Data & Analytics Office Intern | Chicago, IL | [Apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1) | 2026-10-04 |
 | Proxima | Compound Management Intern | Boston | [Apply](https://jobs.ashbyhq.com/proxima/29aae84a-588c-48d2-821c-30d91efb9889) | 2026-10-04 |
 | RTX (en-US) | Avionics Test Engineering -Systems Engineer Intern (Onsite) | US-Ia-Cedar Rapids-112 ~ 400 Collins Rd Ne ~ Bldg 112 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) | 2026-10-04 |
@@ -6566,7 +6616,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | National Life | Strategic Operations Analyst Intern - Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) | 2026-09-22 |
 | Navy Federal | Intern - Year Round (IT Reporting & Analytics) | Vienna, VA, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32668) | 2026-09-22 |
 | NBCUniversal | Creative Services Intern - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150936659) | 2026-09-22 |
-| NBCUniversal | Finance Trainee | Spain | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150960935) | 2026-09-22 |
 | Newrez | 2027 Summer Internship – Graphic Design | TX | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Graphic-Design_R10460) | 2026-09-22 |
 | Nexstar | Unpaid Intern | TX | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/TX-Amarillo/Unpaid-Intern_REQ-43078) | 2026-09-22 |
 | Nokia | Remote Delivery Engineering, IP NSP – Working Student | Poland | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40289) | 2026-09-22 |
@@ -7268,26 +7317,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | National Life | Market Research Intern – Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | 2026-09-21 |
 | National Life | Treasury Intern – Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4390742009) | 2026-09-21 |
 | National Life | Web Production Intern – Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403671009) | 2026-09-21 |
-| NBCUniversal | Digital Account Management Intern - Universal Pictures Home Entertainment | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150583919) | 2026-09-21 |
-| NBCUniversal | Facilities Intern - Universal Operations and Technology | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150584129) | 2026-09-21 |
 | NBCUniversal | Film Finance Intern - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150584219) | 2026-09-21 |
-| NBCUniversal | Finance Intern - Universal Products and Experiences | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150582513) | 2026-09-21 |
 | NBCUniversal | Franchise Retail Marketing Intern, ANZ - Universal Products and Experiences | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585269) | 2026-09-21 |
 | NBCUniversal | Franchise Retail Marketing Intern, SEAI - Universal Products and Experiences | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585429) | 2026-09-21 |
 | NBCUniversal | IT Intern - Universal Operations and Technology | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150583214) | 2026-09-21 |
-| NBCUniversal | Legal Intern - Universal Networks | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150641300) | 2026-09-21 |
-| NBCUniversal | Marketing & Finance Intern - Universal Pictures | New Zealand | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150586049) | 2026-09-21 |
-| NBCUniversal | Marketing Intern - Universal Pictures Home Entertainment | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150584909) | 2026-09-21 |
-| NBCUniversal | National Publicity Intern - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585579) | 2026-09-21 |
-| NBCUniversal | Partnerships Intern - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585969) | 2026-09-21 |
-| NBCUniversal | Public Relations and Communications Intern - Universal Networks | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585809) | 2026-09-21 |
 | NBCUniversal | Publicity & Creative Services Intern - Universal Pictures | New Zealand | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150586189) | 2026-09-21 |
-| NBCUniversal | Publicity Intern, NSW - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585589) | 2026-09-21 |
-| NBCUniversal | Publicity Intern, Victoria - Universal Pictures | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150585679) | 2026-09-21 |
-| NBCUniversal | Research and Audience Analysis Intern - Universal Global Distribution | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150583779) | 2026-09-21 |
-| NBCUniversal | Sales and Marketing Intern - Universal Networks | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150579732) | 2026-09-21 |
 | NBCUniversal | TV Distribution Sales Intern - Universal Global Distribution | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150583859) | 2026-09-21 |
-| NBCUniversal | TV Programming Intern - Universal Networks | Australia | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150583377) | 2026-09-21 |
 | NCR Atleos | Business Analyst Intern | Atlanta, GA, United States / Frisco, TX, United States | [Apply](https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Business-Analyst-Intern_R1154685) | 2026-09-21 |
 | NCR Atleos | Customer Experience Center Intern | Atlanta, GA, United States | [Apply](https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Customer-Experience-Center-Intern_R1154687) | 2026-09-21 |
 | NCR Atleos | Data Science Intern | Atlanta, GA, United States / Frisco, TX, United States | [Apply](https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686) | 2026-09-21 |
@@ -8122,7 +8157,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | National Indemnity Company | 2027 Summer Internships | Omaha, NE | [Apply](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/XMLNAME-2027-Summer-Internships_R14954-1) | 2026-09-18 |
 | Navy Federal | Intern - Year Round (Maintenance Services) | Pensacola, FL, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32234) | 2026-09-18 |
 | Navy Federal | Intern - Year Round (Workplace Infrastructure & Analytics - Data Analyst) | Vienna, VA, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32376) | 2026-09-18 |
-| NBCUniversal | Stage - Assistant Category Manager Mode, Beauté et Food - Janvier 2027 | Paris, France | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000150338879) | 2026-09-18 |
 | Netsmart | Client Experience- Program Coordinator Intern(Summer 2027 Internship) | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Client-Experience--Program-Coordinator-Intern-Summer-2027-Internship-_R015755) | 2026-09-18 |
 | Netsmart | Marketing Program Coordinator Intern (Summer 2027 Internship | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Marketing-Program-Coordinator-Intern--Summer-2027-Internship_R015756) | 2026-09-18 |
 | Netsmart | Revenue Cycle Management (RCM) Operations Analyst Intern(Summer 2027 Internship) | Overland Park, KS | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757) | 2026-09-18 |
@@ -8670,7 +8704,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Motorola Solutions | Marketing - 2027 Summer Internship | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Marketing---2027-Summer-Internship_R68908) | 2026-09-17 |
 | Nationwide | Summer 2027 Office of Compliance & Ethics Internship | Not Specified | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Office-of-Compliance---Ethics-Internship_100391) | 2026-09-17 |
 | Nationwide Children's Hospital | HNHF Intern- High School Career Academy | Columbus, OH | [Apply](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/HNHF-Intern--High-School-Career-Academy_R-28046-1) | 2026-09-17 |
-| NBCUniversal | KTDO News Intern | Texas, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000149951409) | 2026-09-17 |
 | NewsBreak | Business Development Intern (MBA), Home Services | California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4714034006) | 2026-09-17 |
 | Nexstar | Intern News - Unpaid | SC | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/SC-Myrtle-Beach/Intern-News---Unpaid_REQ-43058) | 2026-09-17 |
 | North American Construction Group | Co-op, Project Coordinator (Suncor Base Plant) | Not Specified | [Apply](https://careers-nacg.icims.com/jobs/17210/co-op%2c-project-coordinator-%28suncor-base-plant%29/job) | 2026-09-17 |
