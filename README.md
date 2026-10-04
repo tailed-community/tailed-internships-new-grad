@@ -24,6 +24,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Beth Israel Lahey Health | Pharmacy Student - Outpatient Pharmacy | Bilh Pharmacy | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/BILH-Pharmacy/Pharmacy-Student---Outpatient-Pharmacy_JR104373) | 2026-10-04 |
 | Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/782a8d91-001d-475f-9e91-79ad00657bd2) | 2026-10-04 |
 | Disney | Finance & Data Intern, Spring 2027 | Anaheim, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance---Data-Intern--Spring-2027_10160502-1) | 2026-10-04 |
+| Enterprise Mobility | Spring 2027 Management Trainee Internship- Cincinnati | Cincinnati – North Hamilton Area | [Apply](https://us-erac.icims.com/jobs/568281/spring-2027-management-trainee-internship--cincinnati/job) | 2026-10-04 |
+| Enterprise Mobility | Spring 2027 Management Trainee Internship- Dayton | Vandalia) | [Apply](https://us-erac.icims.com/jobs/568282/spring-2027-management-trainee-internship--dayton/job) | 2026-10-04 |
 | Flowserve | CoOp/Intern Operations | Spain | [Apply](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pozuelo-de-Alarcn-Spain/CoOp-Intern-Operations_R-21034) | 2026-10-04 |
 | Intel | Haifa Lab technician - Student | Haifa | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0287787) | 2026-10-04 |
 | Loblaw Companies | Pharmacy Intern | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/825-Don-Mills-Rd-Toronto-ON/Pharmacy-Intern_R2000715652) | 2026-10-04 |
@@ -539,7 +541,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Emerson Electric | Material Planning and Inventory Intern Spring 2027 | Knoxville, TN, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010041) | 2026-10-02 |
 | Enterprise Mobility | Fall/Winter - Sales Management Trainee Intern | Auburn | [Apply](https://us-erac.icims.com/jobs/568799/fall-winter---sales-management-trainee-intern/job) | 2026-10-02 |
 | Enterprise Mobility | Fall/Winter - Sales Management Trainee Intern | Columbus | [Apply](https://us-erac.icims.com/jobs/568796/fall-winter---sales-management-trainee-intern/job) | 2026-10-02 |
-| Enterprise Mobility | Fall/Winter - Sales Management Trainee Intern | Dothan | [Apply](https://us-erac.icims.com/jobs/568802/fall-winter---sales-management-trainee-intern/job) | 2026-10-02 |
 | Enterprise Mobility | Summer 2027 Accounting Internship | Columbia Metro • Lexington • Irmo • West Columbia • Blythewood • Lugoff | [Apply](https://us-erac.icims.com/jobs/568822/summer-2027-accounting-internship/job) | 2026-10-02 |
 | Essity | Internal Student | Ecuador | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Quito--Ecuador/Internal-Student_Essity264381) | 2026-10-02 |
 | Essity | Master Data Intern (f/m/d) | Portugal | [Apply](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lisbon-Portugal/Master-Data-Intern--f-m-d-_Essity265700) | 2026-10-02 |
@@ -3612,7 +3613,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cenovus Energy | Student, AI and Software Engineering, Calgary (May 2027) | CA-AB-Calgary | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--AI-and-Software-Engineering--Calgary--May-2027-_R-411154) | 2026-09-28 |
 | Cerity Partners | Summer 2027 Outsourced CIO Internship | New York City, NY | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943) | 2026-09-28 |
 | Chanel | Stage - Département Direction Immobilier et ESG (H/F/X) – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Dpartement-Direction-Immobilier-et-ESG--H-F-X----Janvier-2027_JOBREQ00117468) | 2026-09-28 |
-| Charles Schwab | 2027 International Client Services Intern - Austin Only | Austin, TX, United States | [Apply](https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---austin-only/job) | 2026-09-28 |
 | CIBC | Background Screening Analyst- Winter 2027 Co-op | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Background-Screening-Analyst-Co-op_2619866) | 2026-09-28 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - MOS Department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20395) | 2026-09-28 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 – CAO department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20396) | 2026-09-28 |
@@ -7486,7 +7486,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wabash Valley Power Alliance | Power Supply & Energy Services Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149889459) | 2026-09-21 |
 | Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759) | 2026-09-21 |
 | Waters Corporation | Accounting Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) | 2026-09-21 |
-| Waters Corporation | Financial Planning and Analysis Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27741/2026-27741/job) | 2026-09-21 |
+| Waters Corporation | Financial Planning and Analysis Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27741/financial-planning-and-analysis-intern/job) | 2026-09-21 |
 | Waters Corporation | Investor Relations & Treasury Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27742/2026-27742/job) | 2026-09-21 |
 | Watts Water | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535) | 2026-09-21 |
 | Watts Water | E-Commerce Analytics & Web Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | 2026-09-21 |
@@ -8480,7 +8480,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ensign-Bickford Aerospace & Defense Company | Marketing Intern | Simsbury, CT | [Apply](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Marketing-Intern_REQ107691) | 2026-09-17 |
 | Enterprise Mobility | Summer 2027 Management Trainee Sales Internship - Bellingham | Bellingham | [Apply](https://us-erac.icims.com/jobs/564605/summer-2027-management-trainee-sales-internship---bellingham/job) | 2026-09-17 |
 | Enterprise Mobility | Summer 2027 Management Trainee Sales Internship - Burien | Burien Des Moines | [Apply](https://us-erac.icims.com/jobs/564602/summer-2027-management-trainee-sales-internship---burien/job) | 2026-09-17 |
-| Enterprise Mobility | Summer 2027 Management Trainee Sales Internship - Downtown Seattle | Downtown Seattle | [Apply](https://us-erac.icims.com/jobs/564606/summer-2027-management-trainee-sales-internship---downtown-seattle/job) | 2026-09-17 |
 | EQT Corporation | Data Engineering Intern | Canonsburg, PA | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008) | 2026-09-17 |
 | Etched | People Operations Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/dc036272-19b8-464f-a22d-2505c14b5270) | 2026-09-17 |
 | Everest | 2027 Technology Summer Internship Program | Warren, NJ | [Apply](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2027-Technology-Internship-Program_R7404) | 2026-09-17 |
@@ -20773,8 +20772,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Highmark Health | Summer 2027 Actuarial Science Graduate Intern | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-301-5th-Ave/Summer-2027-Actuarial-Science-Graduate-Intern_J284859-1) | 2026-08-17 |
 | Highmark Health | Summer 2027 Actuarial Science Undergraduate Intern | Fap | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Actuarial-Science-Undergraduate-Intern_J284858) | 2026-08-17 |
 | Inbulks | Junior Front End Development Analyst/Intern - 4DS Corp | United States Remote | [Apply](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753) | 2026-08-17 |
-| KPMG | Vernon Office – CPA Opportunities in Audit – 4-month Co-op – Summer 2027 Start | Vernon, Canada | [Apply](https://careers.kpmg.ca/jobs/33293?lang=en-us&icims=1) | 2026-08-17 |
-| KPMG | Vernon Office – CPA Opportunities in Audit – 4-month Co-op – Winter 2027 Start | Vernon, Canada | [Apply](https://careers.kpmg.ca/jobs/33295?lang=en-us&icims=1) | 2026-08-17 |
 | Mapjects | Business Analyst , Functional Analyst | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675607) | 2026-08-17 |
 | Mapjects | Oracle DBA       (Database Developer Admin   ) | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/79183345) | 2026-08-17 |
 | Mapjects | oracle EBS financials | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675634) | 2026-08-17 |
