@@ -29,6 +29,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Enterprise Mobility | Spring 2027 Management Trainee Internship- Dayton | Vandalia) | [Apply](https://us-erac.icims.com/jobs/568282/spring-2027-management-trainee-internship--dayton/job) | 2026-10-04 |
 | Flowserve | CoOp/Intern Operations | Spain | [Apply](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pozuelo-de-Alarcn-Spain/CoOp-Intern-Operations_R-21034) | 2026-10-04 |
 | Intel | Haifa Lab technician - Student | Haifa | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Israel-Haifa/Haifa-Lab-technician---Student_JR0287787) | 2026-10-04 |
+| iSono Health | Manufacturing Technician Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/isonohealth/jobs/92fdb70a-033a-4bf7-8eb2-6a1b111de686) | 2026-10-04 |
 | Loblaw Companies | Pharmacy Intern | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/825-Don-Mills-Rd-Toronto-ON/Pharmacy-Intern_R2000715652) | 2026-10-04 |
 | Loblaw Companies | Student, Franchise Part Time Day | St Catharines, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/581-Lake-St-St-Catharines-ON/Student--Franchise-Part-Time-Day_R2000716004) | 2026-10-04 |
 | Loblaw Companies | Student, Franchise Part Time Day Greenlight Requisition | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/42-Hanna-Ave-Toronto-ON/Student--Franchise-Part-Time-Day-Greenlight-Requisition_R2000716204) | 2026-10-04 |
