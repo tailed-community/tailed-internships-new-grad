@@ -9,6 +9,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | ABB | ABB Discovery Graduate Program | Sweden | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaesteras-Vastmanland-County-Sweden/ABB-Discovery-Graduate-Program_JR00038890) | 2026-10-05 |
 | Advocate Health Care | Registered Nurse (RN) - New Graduate - Ortho Trauma | Winston Salem, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Registered-Nurse--RN----New-Graduate---Ortho-Trauma_R278679) | 2026-10-05 |
+| AECOM | Civil Engineer (Entry-Level) | San Juan, PR, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153531763) | 2026-10-05 |
 | Amentum | Entry Level Software Engineer | US-Va-Fredericksburg | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148) | 2026-10-05 |
 | AutoNation | Entry Level Technician | Autonation Chevrolet Greenacres | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Greenacres/Entry-Level-Technician_JR2026150328) | 2026-10-05 |
 | Banner Health | Registered Nurse RN New Grad Transplant PCU | Bumc Phoenix (1111 E Mcdowell Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Registered-Nurse-RN-New-Grad-Transplant-PCU_R4456557) | 2026-10-05 |
@@ -34,6 +35,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Mobile Trailer Mechanic Tue - Sat 2 pm - 10 pm | Danvers Ma | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Danvers-MA/Entry-Level-Mobile-Trailer-Mechanic-Tue---Sat-2-pm---10-pm_R202683421) | 2026-10-05 |
 | Cox | Entry Level Mobile Trailer Mechanic Tue - Sat 2 pm - 10 pm | Windsor Ct | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Windsor-CT/Entry-Level-Mobile-Trailer-Mechanic-Tue---Sat-2-pm---10-pm_R202683420) | 2026-10-05 |
 | Energy Northwest | Engineer - New Grad | Richland, WA | [Apply](https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineer---New-Grad_REQ26_350) | 2026-10-05 |
+| Eurofins | Entry Level Associate Scientist - Biochemistry | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153586439) | 2026-10-05 |
 | General Matter | Financial Analyst (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5439284008) | 2026-10-05 |
 | GITAI | Electrical Engineer, Early Career | California, United States | [Apply](https://job-boards.greenhouse.io/gitai/jobs/5404365008) | 2026-10-05 |
 | Globus Medical | Entry Level Associate Neurophysiologist - Regional Traveler Mid-Atlantic | Virginia | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Virginia/Entry-Level-Associate-Neurophysiologist---Regional-Traveler-Mid-Atlantic_JR107969-1) | 2026-10-05 |
@@ -72,6 +74,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medical University of South Carolina | Registered Nurse I - (new graduate) - Neuro ICU | Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/Registered-Nurse-I----new-graduate----Neuro-ICU_R-0000065467) | 2026-10-05 |
 | Nationwide | Engineer, Software Engineer (Post Issue Optimization) - Java, Angular, and AWS - Entry Level | Not Specified | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567) | 2026-10-05 |
 | Sedgwick Claims Management Services | Claims Assistant - Workers Compensation (Entry Level) | Glendale, Canada | [Apply](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Glendale-CA/Claims-Assistant---Workers-Compensation--On-Site-Glendale--CA-_R77980) | 2026-10-05 |
+| Smiths Detection Group | Customer Reliability Engineer or Technical Specialist (Entry Level) | Port Arthur, TX, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000153562458) | 2026-10-05 |
 | The Boeing Company | Entry Level Equipment Engineer | USA Heath, OH | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696-1) | 2026-10-05 |
 | The Boeing Company | Entry Level Test & Evaluation Engineer | USA Heath, OH | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1) | 2026-10-05 |
 | The Boeing Company - external_subsidiary | Entry Level Equipment Engineer | USA Heath, OH | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696) | 2026-10-05 |
@@ -91,7 +94,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Conagra Brands | 3rd Shift Entry Level Mechanic | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-3rd-Shift-Entry-Level-Mechanic_Req-040521) | 2026-10-03 |
 | Erickson Senior Living | Entry Level Bartender Server | Ashburn, VA | [Apply](https://erickson.wd108.myworkdayjobs.com/external/job/Ashburn-VA/Entry-Level-Bartender-Server_R0104996) | 2026-10-03 |
 | ERM | Graduate Landscape Visual Impact Assessment (LVIA) Consultant (Entry Level) | Edinburgh, United Kingdom / London, United Kingdom / Manchester, United Kingdom / Cardiff, United Kingdom | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Edinburgh-United-Kingdom/Graduate-Landscape-Visual-Impact-Assessment--LVIA--Consultant--Entry-Level-_R00031921-1) | 2026-10-03 |
-| Eurofins | Entry Level Associate Scientist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153264229) | 2026-10-03 |
 | Harvey | Software Engineer, New Grad (2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | 2026-10-03 |
 | Harvey | Software Engineer, New Grad (2027) | New York, United States | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | 2026-10-03 |
 | Intermountain Healthcare | New Graduate RN Cardiac Telemetry | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Graduate-RN-Cardiac-Telemetry_R185718) | 2026-10-03 |
@@ -149,7 +151,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152770984) | 2026-10-01 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Coral Gables, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771289) | 2026-10-01 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771209) | 2026-10-01 |
-| AECOM | Entry-Level Civil Engineer - Drainage/Stormwater Transportation | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153001694) | 2026-10-01 |
 | AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763569) | 2026-10-01 |
 | AECOM | Entry-Level Data Scientist - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763988) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Engineer – Remediation - Networking Event with AECOM – Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763439) | 2026-10-01 |
@@ -521,7 +522,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BDO | New Grad - Business Analysis & Quality Assurance (January 2027) | Ottawa Kent St | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096) | 2026-09-19 |
 | Blue Origin | New Graduate - Business Rotation Program – (Spring / Summer / Fall 2027 Start Date) | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Graduate---Business-Rotation-Program----Spring---Summer---Fall-2027-Start-Date-_R72538) | 2026-09-19 |
 | Cleveland Clinic | New Grad RN Resident – ENT/Nephrology/Dermatology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---ENT-Nephrology-Dermatology_353827-1) | 2026-09-19 |
-| Eurofins | Technician- Entry Level | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000150439965) | 2026-09-19 |
 | GE Aerospace | Entry Level Assembler 1st Shift Tues-Fri (4x10) | Loves Park | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Loves-Park/Entry-Level-Assembler-1st-Shift-Tues-Fri--4x10-_R5040441-2) | 2026-09-19 |
 | GE Aerospace | Oiler/Entry-Level Machinist 1st shift (Tues.-Fri.) | Loves Park | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Loves-Park/Oiler-Entry-Level-Machinist-1st-shift--Tues-Fri-_R5040444-1) | 2026-09-19 |
 | HNTB | New Grad Civil Engineer I | Tx (fannin) | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Houston-TX-Fannin/New-Grad-Civil-Engineer-I_R-31662-1) | 2026-09-19 |
@@ -553,7 +553,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Caleb Brett - Entry-Level Petroleum Inspector | Catlettsburg, KY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15887) | 2026-09-18 |
 | Intertek | Entry Level Field Testing Technician | Windham, NH, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15909) | 2026-09-18 |
 | Louis Dreyfus Company | Master Data Analyst - entry level | Bulgaria | [Apply](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000150303969) | 2026-09-18 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Tampa, FL - Diablo Tools - DAT | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150364243) | 2026-09-18 |
 | RoviSys | Entry Level Engineer/Developer | Indianapolis, IN, United States | [Apply](https://careers-rovisys.icims.com/jobs/2167/entry-level-engineer-developer/job) | 2026-09-18 |
 | SingleStore | Software Engineer-Helios-New Grad 2027 | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8205389) | 2026-09-18 |
 | State Street | Early Career Cyber Defense Centre Analyst, Officer | Singapore | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Singapore-Singapore/Early-Career-Cyber-Defense-Centre-Analyst--Officer-1_R-798098-1) | 2026-09-18 |
@@ -808,7 +807,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | QuinStreet | Entry Level Sales Representative | Florida | [Apply](https://www.quinstreet.com/careers/?gh_jid=8177281) | 2026-09-09 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Chicago - Diablo Tools - DAT | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148329168) | 2026-09-09 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Columbus, OH - Diablo Tools - DAT | Columbus, OH, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148328409) | 2026-09-09 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Denver, CO - Diablo Tools - DAT | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148329459) | 2026-09-09 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - DMV Area - Diablo Tools - DAT | Washington, DC, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148327015) | 2026-09-09 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Minneapolis, MN - Diablo Tools - DAT | Minneapolis, MN, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148325787) | 2026-09-09 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Portland, OR - Diablo Tools - DAT | Portland, OR, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148328729) | 2026-09-09 |
@@ -963,7 +961,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Rochester Regional Health | New Graduate - Medical Technologist | Riedman Campus | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/New-Graduate---Medical-Technologist_REQ_242004-1) | 2026-09-03 |
 | Rochester Regional Health | New Graduate - Physical Therapist | Riedman Campus | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/New-Graduate---Physical-Therapist_REQ_242000-1) | 2026-09-03 |
 | Securitas | Entry-Level Security Officer: Auburn | Worcester, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174179) | 2026-09-03 |
-| Smiths Detection Group | Customer Reliability Engineer or Technical Specialist (Entry Level) | Port Arthur, TX, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000147125622) | 2026-09-03 |
 | Stantec | Entry Level Designer/Mechanical EIT | Los Angeles, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007541) | 2026-09-03 |
 | Stripe | Software Engineer, New Grad | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 2026-09-03 |
 | Texas Instruments | Entry Level Process Technician (Lehi, UT) | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011715) | 2026-09-03 |
@@ -1234,7 +1231,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Michelin | Graduate Program Manufacturing F/H | Clermont-Ferrand | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Graduate-Program-Manufacturing-F-H_R-2026029093) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506365) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506362) | 2026-08-21 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools - DAT | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626899) | 2026-08-21 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Miami, FL - Diablo Tools - DAT | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144627759) | 2026-08-21 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New Jersey - Diablo Tools - DAT | Newark, NJ, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626820) | 2026-08-21 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New York City - Diablo Tools - DAT | Queens, NY, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626539) | 2026-08-21 |
