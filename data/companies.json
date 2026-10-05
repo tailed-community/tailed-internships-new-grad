@@ -56,6 +56,13 @@
     "enabled": true
   },
   {
+    "company": "21Shares",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/21shares",
+    "slug": "21shares",
+    "enabled": true
+  },
+  {
     "company": "2nd Order Solutions",
     "source": "lever",
     "url": "https://jobs.lever.co/2os",
@@ -2380,6 +2387,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "AMCA",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/amca",
+    "slug": "amca",
+    "enabled": true
   },
   {
     "company": "Amcor",
@@ -7586,6 +7600,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/bloxd",
     "slug": "bloxd",
+    "enabled": true
+  },
+  {
+    "company": "blp",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/blp-digital",
+    "slug": "blp-digital",
     "enabled": true
   },
   {
@@ -13491,6 +13512,25 @@
     ]
   },
   {
+    "company": "Corgan",
+    "source": "icims",
+    "url": "https://campus-us-corgan.icims.com/jobs/search",
+    "host": "campus-us-corgan.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Cornerstone Building Brands",
     "source": "smartrecruiters",
     "url": "https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers",
@@ -13995,6 +14035,25 @@
       "new graduate",
       "early career",
       "entry level"
+    ]
+  },
+  {
+    "company": "CRG Defense",
+    "source": "workable",
+    "url": "https://apply.workable.com/cornerstone-research-group-inc",
+    "slug": "cornerstone-research-group-inc",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
     ]
   },
   {
@@ -14689,6 +14748,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "DailyPay",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/dailypay",
+    "slug": "dailypay",
+    "enabled": true
   },
   {
     "company": "Daimler Truck",
@@ -15919,6 +15985,25 @@
     ]
   },
   {
+    "company": "DISA Technologies",
+    "source": "workable",
+    "url": "https://apply.workable.com/disa-technologies",
+    "slug": "disa-technologies",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Disco",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/disco",
@@ -16051,6 +16136,14 @@
     "source": "lever",
     "url": "https://jobs.lever.co/diversified-automation",
     "slug": "diversified-automation",
+    "enabled": true
+  },
+  {
+    "company": "Diversified Energy",
+    "source": "icims",
+    "url": "https://careers.div.energy?icims=1",
+    "host": "careers.div.energy",
+    "mode": "jibe",
     "enabled": true
   },
   {
@@ -16340,6 +16433,25 @@
       "new graduate",
       "early career",
       "entry level"
+    ]
+  },
+  {
+    "company": "DPD UK",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/DPDGroupUK1",
+    "slug": "DPDGroupUK1",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
     ]
   },
   {
@@ -22456,6 +22568,13 @@
     "enabled": true
   },
   {
+    "company": "GITAI",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/gitai",
+    "slug": "gitai",
+    "enabled": true
+  },
+  {
     "company": "Gitar, Inc.",
     "source": "rippling",
     "url": "https://ats.rippling.com/gitar-careers/jobs",
@@ -23633,6 +23752,25 @@
     "enabled": true
   },
   {
+    "company": "H&R Block",
+    "source": "icims",
+    "url": "https://careers-hrblock.icims.com/jobs/search",
+    "host": "careers-hrblock.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "H.B. Fuller",
     "source": "workday",
     "url": "https://hbfuller.wd1.myworkdayjobs.com/Careers",
@@ -24163,6 +24301,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/helainainc",
     "slug": "helainainc",
+    "enabled": true
+  },
+  {
+    "company": "Helion Energy",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/helion",
+    "slug": "helion",
     "enabled": true
   },
   {
@@ -25202,6 +25347,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/humane",
     "slug": "humane",
+    "enabled": true
+  },
+  {
+    "company": "Humanoid",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/humanoid",
+    "slug": "humanoid",
     "enabled": true
   },
   {
@@ -27535,6 +27687,26 @@
       "new graduate",
       "early career",
       "entry level",
+      "graduate"
+    ]
+  },
+  {
+    "company": "JCDecaux",
+    "source": "workday",
+    "url": "https://jcdecaux.wd3.myworkdayjobs.com/ExternalSiteJCDUK",
+    "tenant": "jcdecaux",
+    "site": "ExternalSiteJCDUK",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
       "graduate"
     ]
   },
@@ -30028,6 +30200,26 @@
     "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff",
     "tenant": "liberty",
     "site": "lu_job_board_staff",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Life Fitness",
+    "source": "workday",
+    "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN",
+    "tenant": "lifefitness",
+    "site": "searchLFN",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -33110,6 +33302,25 @@
     "enabled": true
   },
   {
+    "company": "Mindex",
+    "source": "workable",
+    "url": "https://apply.workable.com/mindex",
+    "slug": "mindex",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Minitab",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/minitab",
@@ -33525,6 +33736,25 @@
       "new graduate",
       "early career",
       "entry level"
+    ]
+  },
+  {
+    "company": "Montreal Institute for Learning Algorithms",
+    "source": "workable",
+    "url": "https://apply.workable.com/mila-2",
+    "slug": "mila-2",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
     ]
   },
   {
@@ -34179,6 +34409,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/Nash",
     "slug": "Nash",
+    "enabled": true
+  },
+  {
+    "company": "Natera",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/natera",
+    "slug": "natera",
     "enabled": true
   },
   {
@@ -35937,6 +36174,25 @@
     ]
   },
   {
+    "company": "Novelis",
+    "source": "icims",
+    "url": "https://careers-novelis.icims.com/jobs/search",
+    "host": "careers-novelis.icims.com",
+    "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
     "company": "Novogradac",
     "source": "workday",
     "url": "https://novoco.wd108.myworkdayjobs.com/Novogradac",
@@ -37585,6 +37841,25 @@
     ]
   },
   {
+    "company": "Palomar Holdings",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/plmrcareers/jobs",
+    "slug": "plmrcareers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "PanAgora",
     "source": "workday",
     "url": "https://empower.wd12.myworkdayjobs.com/PanAgora",
@@ -37636,6 +37911,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/pangaea",
     "slug": "pangaea",
+    "enabled": true
+  },
+  {
+    "company": "Pangram Labs",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/pangramlabs",
+    "slug": "pangramlabs",
     "enabled": true
   },
   {
@@ -37785,6 +38067,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/partiful",
     "slug": "partiful",
+    "enabled": true
+  },
+  {
+    "company": "Patch My PC",
+    "source": "lever",
+    "url": "https://jobs.lever.co/patchmypc",
+    "slug": "patchmypc",
     "enabled": true
   },
   {
@@ -38898,6 +39187,13 @@
     ]
   },
   {
+    "company": "Plot Technologies",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/plot",
+    "slug": "plot",
+    "enabled": true
+  },
+  {
     "company": "Plotly",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/plotly",
@@ -39519,6 +39815,26 @@
       "new graduate",
       "early career",
       "entry level",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Primient",
+    "source": "workday",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers",
+    "tenant": "primient",
+    "site": "External_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
       "graduate"
     ]
   },
@@ -40751,6 +41067,13 @@
     "enabled": true
   },
   {
+    "company": "Range",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/range",
+    "slug": "range",
+    "enabled": true
+  },
+  {
     "company": "RapDev",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/rapdev",
@@ -41176,6 +41499,26 @@
       "new graduate",
       "early career",
       "entry level",
+      "graduate"
+    ]
+  },
+  {
+    "company": "Regeneron Pharmaceuticals",
+    "source": "workday",
+    "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers",
+    "tenant": "regeneron",
+    "site": "Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
       "graduate"
     ]
   },
@@ -43999,6 +44342,25 @@
     "enabled": true
   },
   {
+    "company": "Scout Clean Energy",
+    "source": "workable",
+    "url": "https://apply.workable.com/scout-clean-energy",
+    "slug": "scout-clean-energy",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Scout Motors",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/scoutmotors",
@@ -44777,6 +45139,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/shieldai",
     "slug": "shieldai",
+    "enabled": true
+  },
+  {
+    "company": "ShopBack",
+    "source": "lever",
+    "url": "https://jobs.lever.co/shopback-2",
+    "slug": "shopback-2",
     "enabled": true
   },
   {
@@ -45810,6 +46179,26 @@
     "enabled": true
   },
   {
+    "company": "Solventum",
+    "source": "workday",
+    "url": "https://healthcare.wd1.myworkdayjobs.com/private",
+    "tenant": "healthcare",
+    "site": "private",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Somerce",
     "source": "workable",
     "url": "https://apply.workable.com/somerce",
@@ -46133,6 +46522,26 @@
       "new graduate",
       "early career",
       "entry level"
+    ]
+  },
+  {
+    "company": "SouthState Bank",
+    "source": "workday",
+    "url": "https://southstatebank.wd5.myworkdayjobs.com/external",
+    "tenant": "southstatebank",
+    "site": "external",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
     ]
   },
   {
@@ -54694,6 +55103,13 @@
     ]
   },
   {
+    "company": "WEP Clinical",
+    "source": "lever",
+    "url": "https://jobs.lever.co/wepclinical",
+    "slug": "wepclinical",
+    "enabled": true
+  },
+  {
     "company": "Werfen",
     "source": "icims",
     "url": "https://careers-werfen.icims.com/jobs/search",
@@ -55824,6 +56240,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "xAI",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/xai",
+    "slug": "xai",
+    "enabled": true
   },
   {
     "company": "Xaira Therapeutics",
