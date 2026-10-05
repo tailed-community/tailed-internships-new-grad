@@ -800,6 +800,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Oshkosh | Controls Engineering Intern | Pennsylvania, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Controls-Engineering-Intern_R49476) | 2026-10-05 |
 | Oshkosh | Student Welder | Pennsylvania, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Student-Welder_R50856) | 2026-10-05 |
 | Oshkosh | Supplier Quality Engineer Intern | Wisconsin, United States | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855) | 2026-10-05 |
+| Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) | 2026-10-05 |
+| Palomar Holdings | 2027 Summer Internship (General) | Edina, MN / La Jolla, Canada / Chicago, IL | [Apply](https://ats.rippling.com/plmrcareers/jobs/6c082adc-d117-4b18-9911-cb3d9b90c4be) | 2026-10-05 |
+| Palomar Holdings | 2027 Summer Internship (Technical) | Chicago, IL / Edina, MN / La Jolla, Canada | [Apply](https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7) | 2026-10-05 |
 | Pangram Labs | AI Research Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b) | 2026-10-05 |
 | Pella Corporation | Product Marketing Graphic Design Intern - Summer 2027 | Pella, IA, United States | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253573) | 2026-10-05 |
 | Pfizer | Intern – Manufacturing Investigations | Australia Victoria Mulgrave | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Australia---Victoria---Mulgrave/Intern---Manufacturing-Investigations_4965345) | 2026-10-05 |
@@ -11194,7 +11197,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Coretek Services | AI & Automation Development Intern | Michigan, United States | [Apply](https://apply.workable.com/coretek-services/j/8D69C6C871/) | 2026-09-14 |
 | CoStar Group | Security Engineer Intern - Richmond, VA | US-Va Richmond | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726) | 2026-09-14 |
 | Cox | Internal Audit Intern | Atlanta Ga | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Internal-Audit-Intern_R202682430-1) | 2026-09-14 |
-| Cozey | Operations & Automation Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/80a80d83-91a9-4040-a2a6-b7ee4ce5ed2e) | 2026-09-14 |
 | Cozey | Retail Construction Intern | Mont-Royal, Canada | [Apply](https://ats.rippling.com/cozey-internships/jobs/0388fb31-0777-4c2c-9106-32a9dd6cfa27) | 2026-09-14 |
 | Crane Co. | Engineering Co-op | Ohio | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Engineering-Co-op_JR102436) | 2026-09-14 |
 | Criteo | Account Strategist France Intern | Barcelona | [Apply](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Account-Strategist-France-Intern_r21128) | 2026-09-14 |
