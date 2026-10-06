@@ -142,6 +142,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CAE | Stagiaire - Développeur Full Stack | Montreal (st. Laurent) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 |
 | CAE | Stagiaire - Spécialiste de données | Montreal (st. Laurent) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | 2026-10-06 |
 | CAE | Student / Intern - Network Services | Montreal (st. Laurent) | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Student---Intern---Network-Services_123912) | 2026-10-06 |
+| Capula | 2027 Trading and Research Summer Internship (Tokyo) | Japan | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/41570BAEFB/) | 2026-10-06 |
 | Carollo Engineers | Infrastructure Engineering Intern - Civil / Mechanical | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4645/infrastructure-engineering-intern---civil---mechanical/job) | 2026-10-06 |
 | Carollo Engineers | Infrastructure Engineering Intern - Civil/Environmental | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4644/infrastructure-engineering-intern---civil-environmental/job) | 2026-10-06 |
 | Carpenter Technology | Maintenance Intern - Electrical | Reading, PA | [Apply](https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Electrical_26884) | 2026-10-06 |
@@ -1048,7 +1049,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CVS Health | Pharmacy Intern - Grad | Pa Springfield | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Springfield/Pharmacy-Intern---Grad_R1065771) | 2026-10-05 |
 | CVS Health | Pharmacy Intern - Grad | Pa Newtown Square | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Newtown-Square/Pharmacy-Intern---Grad_R1065651-1) | 2026-10-05 |
 | Dayton Freight Lines | Business Intelligence Internship | Dayton | [Apply](https://careers-daytonfreight.icims.com/jobs/18278/business-intelligence-internship/job) | 2026-10-05 |
-| DISA Technologies | Data Engineering & ML Intern | Wyoming, United States | [Apply](https://apply.workable.com/disa-technologies/j/73E7609B99/) | 2026-10-05 |
 | Disney | Disneyland® Resort Public Affairs Intern, Spring 2027 | Anaheim, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland--Resort-Public-Affairs-Intern--Spring-2027_10159605) | 2026-10-05 |
 | Disney | ESPN Marketing Internships, New York City, Spring 2027 | New York, NY, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ESPN-Marketing-Internships--New-York-City--Spring-2027_10160506) | 2026-10-05 |
 | Disney | ESPN Programming Intern, Bristol, Spring 2027 | Bristol, CT, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Programming-Intern--Bristol--Spring-2027_10160482-1) | 2026-10-05 |
@@ -1621,7 +1621,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sanofi | Supply Chain Intern – Customer Fulfillment & Demand Planning | Reading | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Reading/Supply-Chain-Intern---Customer-Fulfillment---Demand-Planning_R2873331-1) | 2026-10-05 |
 | SC Johnson | 2027 TOPS Summer Internship Opportunity | USA Wi Racine | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/XMLNAME-2027-TOPS-Summer-Internship-Opportunity_34169) | 2026-10-05 |
 | SC Johnson | Sales Intern | Portugal Caxias | [Apply](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Portugal---Caxias/Sales-Intern_34136) | 2026-10-05 |
-| Scout Clean Energy | Operations Engineering Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/) | 2026-10-05 |
 | Semtech | AI Workflow & Operations Intern | Can Richmond, BC | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/AI-Workflow---Operations-Intern_REQ3640) | 2026-10-05 |
 | Semtech | Software Developer – Web/Cloud Application, Co-op | Can Richmond, BC | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) | 2026-10-05 |
 | ServiceNow | Intern – Business Development Representative (German, Spanish, Italian, French, Dutch, Arabic OR Nordic Languages) | Ireland | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153476180) | 2026-10-05 |
@@ -4485,7 +4484,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Equinox | Personal Trainer Internship, Wisconsin Avenue | Washington, DC, United States | [Apply](https://jobs.smartrecruiters.com/Equinox/744000152425221) | 2026-09-29 |
 | Eversource Energy | 2027 Co-op: Substation Design Engineering | Westwood, MA | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Co-op--Substation-Design-Engineering_R-031701) | 2026-09-29 |
 | Experian | AI Developer Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000152493589) | 2026-09-29 |
-| Fasanara | Quant Trading Intern | England, United Kingdom | [Apply](https://apply.workable.com/fasanara/j/FC82BCC5C5/) | 2026-09-29 |
 | Fidelity Investments - targeted | Intern, Investor Center -   Washington, DC | Washington, DC | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Washington-DC/Intern--Investor-Center-----Washington--DC_2135596-1) | 2026-09-29 |
 | Fidelity Investments - targeted | Intern, Investor Center - Ashburn, VA | Ashburn Va | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/20465-Exchange-Street-Ashburn-VA/Intern--Investor-Center---Ashburn--VA_2135915-1) | 2026-09-29 |
 | Fidelity Investments - targeted | Intern, Investor Center - Reston, VA | Reston, VA | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Reston-VA/Intern--Investor-Center---Reston--VA_2135831-1) | 2026-09-29 |
@@ -12742,7 +12740,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Regal Rexnord | Commercial Excellence, Training and Enablement Summer Intern | Wisconsin, United States | [Apply](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Commercial-Excellence--Training-and-Enablement-Summer-Intern_R26_04758-1) | 2026-09-12 |
 | Rockwell Automation - External_Rockwell_Automation | Intern, Project Administrator | Brazil | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Sao-Paulo-Brazil/Intern--Project-Administrator_R26-6342) | 2026-09-12 |
 | RSM | State and Local Tax - Sales and Use Intern - Summer 2027 | Phoenix | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Phoenix/State-and-Local-Tax---Sales-and-Use-Intern---Summer-2027_JR121257) | 2026-09-12 |
-| Rystad Energy | Management Consultant Intern - Summer 2027 | England, United Kingdom | [Apply](https://apply.workable.com/rystad-energy/j/DA44E64A41/) | 2026-09-12 |
 | Salesforce | AI Builder Intern [Brazil] | Brazil Sao Paulo | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | 2026-09-12 |
 | Salesforce | AI Builder Intern [Mexico] | Mexico Mexico City | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) | 2026-09-12 |
 | Salesforce - Futureforce_Internships | AI Builder Intern [Brazil] | Brazil Sao Paulo | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969-2) | 2026-09-12 |
@@ -21723,7 +21720,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Interstates | Engineering intern | Sioux Center, IA | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4368619009&gh_jid=4368619009) | 2026-08-14 |
 | JINGDONG | JD Young Human Resources Internship | USA-Georgia-Atlanta | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/USA-Georgia-Atlanta/JD-Young-Human-Resources-Internship_JR103101) | 2026-08-14 |
 | Johnson Electric | Engineering Intern | Beijing | [Apply](https://johnsonelectric.wd3.myworkdayjobs.com/Career_JE/job/China-Beijing/Engineering-Intern_R00030520) | 2026-08-14 |
-| Keywords Studios | HR Intern | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/CEA5BDBC11/) | 2026-08-14 |
 | Kroll | Intern, Valuation Services | Netherlands | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014733) | 2026-08-14 |
 | Michelin | 2027 Summer Intern | Midland City, AL | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Midland-City-AL/XMLNAME-2027-Summer-Intern_R-2026030998) | 2026-08-14 |
 | Micron Technology | DOW SkillsBridge Intern – Semiconductor Equipment Technician | Boise / Manassas | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935) | 2026-08-14 |
@@ -24003,9 +23999,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hendrick Motorsports | Racing Performance Engineer - Fall 2026 Internship | Hendrick Motorsports | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564) | 2026-06-26 |
 | Hewlett Packard (HP) | Data Analyst Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248) | 2026-06-26 |
 | HP | Data Analyst Intern | Spain | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248-1) | 2026-06-26 |
-| Keywords Studios | Accounts Payable Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/A2DF93B2D3/) | 2026-06-26 |
-| Keywords Studios | SSC Payment Intern | Italy | [Apply](https://apply.workable.com/keywords-intl1/j/4265B34738/) | 2026-06-26 |
-| Keywords Studios | Talent Acquisition Intern for Player Engagement 2026 | Philippines | [Apply](https://apply.workable.com/keywords-intl1/j/1D8536672D/) | 2026-06-26 |
 | Medtronic | Intern Junior Business Support Benelux | Netherlands | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695) | 2026-06-26 |
 | Medtronic - MedtronicCareers | Intern Junior Business Support Benelux | Netherlands | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1) | 2026-06-26 |
 | Prime | Operations Intern | Springfield, MO, United States | [Apply](https://careers-primeinc.icims.com/jobs/5151/operations-intern/job) | 2026-06-26 |
@@ -24565,8 +24558,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brevian | UX Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/brevian-careers/jobs/d2edb4e6-e22f-4ac4-98db-4be851b35e7a) | 2026-06-15 |
 | Cerence | Student worker Speech AI QA Ulm | Ulm | [Apply](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Ulm/Student-worker-Speech-AI-QA-Ulm_R0005935) | 2026-06-15 |
 | Elekta | Service Operations Intern | Istanbul | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) | 2026-06-15 |
-| Falcomm | ML Software Engineer Intern - AI/CAD Integration | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/B5EB495F31/) | 2026-06-15 |
-| Falcomm | Operations Intern | Georgia, United States | [Apply](https://apply.workable.com/falcomm/j/156AD9A12B/) | 2026-06-15 |
 | Fred Hutchinson Cancer Center | Unpaid Research Intern - School Credit Only - Temporary | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job) | 2026-06-15 |
 | International Rescue Committee (IRC) | NYSA Photography Teaching Assistant Intern (Unpaid) | Ny Rai USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York-NY-RAI-USA/NYSA-Photography-Teaching-Assistant-Intern--Unpaid-_JR00003704-1) | 2026-06-15 |
 | Larian Studios | Level Design Internship | Gent | [Apply](https://jobs.lever.co/larian/27fc755d-40b6-43b9-b58a-3ca3ebb01fc7) | 2026-06-15 |
