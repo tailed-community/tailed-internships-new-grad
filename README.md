@@ -115,6 +115,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arconic | Manufacturing Engineering Intern | Cranberry Township, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114271) | 2026-10-07 |
 | Arconic | Quality Control Engineering Intern | Cranberry Township, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114270) | 2026-10-07 |
 | Arizona State University - ASUEP | Student Web Developer & Content Specialist | Asu Enterprise Partners Outreach Hub | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Design---Content-Specialist_R1535) | 2026-10-07 |
+| Ascendis Pharma | Student Assistant for HR Operations Europe | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/C5486B1D7D/) | 2026-10-07 |
 | ASML | Computer Science \| Software Engineering internship: Wafer map verification | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359) | 2026-10-07 |
 | ASML | Strategic Sourcing & Procurement AI Intern (6 months) | Singapore | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706) | 2026-10-07 |
 | AT&T | Sales Development Program - Internship | Texas | [Apply](https://att.wd1.myworkdayjobs.com/ATTCollege/job/Dallas-Texas/Sales-Development-Program---Internship_R-120996) | 2026-10-07 |
@@ -6932,7 +6933,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aptiv | Supply Chain Intern | Poland | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Krakow-Poland/Supply-Chain-Intern_J000703110) | 2026-09-24 |
 | Arconic | Software Developer Intern | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) | 2026-09-24 |
 | Arista Networks | Hardware Intern | Nashua, NH, United States | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) | 2026-09-24 |
-| Ascendis Pharma | Student Assistant for Group Accounting and Reporting | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/3AB8AD8AA3/) | 2026-09-24 |
 | ASM Global | Student Assistant - Hurricane Club | University Of Miami | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/University-of-Miami/Student-Assistant---Hurricane-Club_R100125671-1) | 2026-09-24 |
 | ASML | Electrical Engineering \| Physics internship: Radiated Emissions Research (Master thesis) | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Electrical-Engineering---Physics-internship--Radiated-Emissions-Research--Master-thesis-_J-00351786) | 2026-09-24 |
 | ASML | Finance Internship: Support the Treasury Department | Netherlands | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Veldhoven-Netherlands/Finance-Internship--Support-the-Treasury-Department_J-00352661) | 2026-09-24 |
