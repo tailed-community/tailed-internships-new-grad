@@ -21,6 +21,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| 4AG Robotics | Mechatronics - Control Systems Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/e42f7a66-f5aa-4f1d-9d5e-a9178e84add2) | 2026-10-08 |
 | ABB | E Next - Internship | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/E-Next---Internship_JR00048782) | 2026-10-08 |
 | ABB | Finance Operations Intern – Summer 2027 | TN, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Portland/Finance-Operations-Intern---Summer-2027_JR00048201) | 2026-10-08 |
 | ABB | Systems Engineering Intern Houston - Summer 2027 | Texas, United States / TX, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Houston-Texas-United-States-of-America/Systems-Engineering-Intern-Houston---Summer-2027_JR00048684) | 2026-10-08 |
@@ -707,6 +708,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stryker | Discover Internship Program | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Program_R575478) | 2026-10-08 |
 | Stryker | Discover Internship Programme - Invoice to Cash | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Programme---Invoice-to-Cash_R575123) | 2026-10-08 |
 | Stryten | Temporary Season Help | Wisconsin | [Apply](https://jobs.stryten.com/jobs/5925?lang=en-us&icims=1) | 2026-10-08 |
+| StudyFetch | IT & Security Operations Intern | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892) | 2026-10-08 |
+| StudyFetch | Robotics Intern, Learning Kits & Curriculum | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5) | 2026-10-08 |
 | Sun Life | Student - FRM Consultant Operation Change & Execution (6 month) | Sun Life Waterloo King / Sun Life Toronto One York | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Waterloo-King/Student---FRM-Consultant-Operation-Change---Execution--6-month-_JR00128573) | 2026-10-08 |
 | Sundt | CA Building Group - Intern Engineer | San Diego, United States | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11485) | 2026-10-08 |
 | SWBC - swbccareers | Investment Services Intern | San Antonio, TX | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Investment-Services-Intern_R0015648) | 2026-10-08 |
@@ -763,6 +766,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertex Pharmaceuticals | Spring 2027 Co-op, People Research and Analytics, Human Resources | Boston, MA | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) | 2026-10-08 |
 | Vertex Pharmaceuticals | Spring 2027 Co-op, R&D and DTE Sourcing | 5005 Vertex US San Diego | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/5005---Vertex-US---San-Diego/Spring-2027-Co-op--R-D-and-DTE-Sourcing_REQ-31102-1) | 2026-10-08 |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, CASGEVY Change Management | Boston, MA | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op_REQ-31110-1) | 2026-10-08 |
+| Veryable | Data Analytics Intern | Dallas, TX | [Apply](https://ats.rippling.com/veryable-careers/jobs/7511b52a-9b0e-421d-af9b-1b6b01003732) | 2026-10-08 |
 | Visa | Marketing Intern | Guatemala | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GT---Guatemala-City-Guatemala/Marketing-Intern_REF086155W) | 2026-10-08 |
 | Visa | Risk Intern | Panama | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/PA---Panama-City-Panama/Risk-Intern_REF086150W) | 2026-10-08 |
 | Vistra | OG Instrumentation Internship/CO-OP | Texas | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Franklin-Texas/OG-Instrumentation-Internship-CO-OP_40016748) | 2026-10-08 |
@@ -23474,7 +23478,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CDPQ | Intern | Sydney | [Apply](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Sydney/Intern_R03971) | 2026-07-27 |
 | Chanel | Stage - Assistant(e) Chargé(e) de Production Image H/F/X - Mode – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Charg-e--de-Production-Image---Mode---Janvier-2027---H-F-X_JOBREQ00115311) | 2026-07-27 |
 | Chanel | Stage – Assistant(e) Chef de Projet RSE – Horlogerie Joaillerie – Novembre 2026 – H/F/X | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Chef-de-Projet-RSE---Horlogerie-Joaillerie---Septembre-2026---H-F-X_JOBREQ00115271-3) | 2026-07-27 |
-| Denari | Summer '26 Product & Software Internship | Madison, WI | [Apply](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282) | 2026-07-27 |
 | Dexmate | Research Intern, PhD (AI, Robotics) | California, United States | [Apply](https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc) | 2026-07-27 |
 | Dexmate | Robot Learning Intern | Singapore | [Apply](https://jobs.ashbyhq.com/dexmate/2ba5c98b-721d-43db-9b11-aac5aa175df4) | 2026-07-27 |
 | Eragon | Applied AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e) | 2026-07-27 |
