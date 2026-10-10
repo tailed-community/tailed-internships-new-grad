@@ -67,6 +67,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cisco | Communications Specialist I (Intern) - United States | California, United States / Texas, United States / North Carolina, United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Communications-Specialist-I--Intern----United-States_2027922) | 2026-10-10 |
 | Cisco | FLEX- Rising Leaders II (Intern) United States | Illinois, United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern--United-States_2027808) | 2026-10-10 |
 | Citi | Client – Credit, Internship, São Paulo - Brazil, 2026 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Client---Credit--Internship--So-Paulo---Brazil--2026_26999554) | 2026-10-10 |
+| Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/f211c31e-d92a-468e-9da1-3f8f27f0e05b) | 2026-10-10 |
+| Clera | Founders Associate (Intern) | Germany | [Apply](https://jobs.ashbyhq.com/clera/d40e82fe-ef1e-4cc5-a434-f99c5d87385c) | 2026-10-10 |
+| Clera | Working Student GTM (m/w/d) | Germany | [Apply](https://jobs.ashbyhq.com/clera/b30b3659-f3f3-41e9-a48a-e0c8e5ce0a60) | 2026-10-10 |
 | Cleveland Clinic | Research Student II Post Baccalaureate - Fawzi Lab | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Student-II-Post-Baccalaureate---Fawzi-Lab_354498) | 2026-10-10 |
 | Cleveland-Cliffs | Civil Engineering Intern | Cliffs Technology Center | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Cliffs-Technology-Center/Civil-Engineering-Intern_R13496) | 2026-10-10 |
 | Commerce Bank | Intern - Retail Lending & Credit Cards (Summer 2027) | Flr 12 | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/811-Main-Flr-12/Intern---Retail-Lending---Credit-Cards--Summer-2027-_38579) | 2026-10-10 |
@@ -9964,7 +9967,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stantec | Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027) | South Burlington, VT, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007876) | 2026-09-21 |
 | Star Dental Partners | Respiratory Therapy Student, Marshall Medical Centers, North, PRN, Shift Varies | Guntersville, AL, United States | [Apply](https://careers-hhsys.icims.com/jobs/75717/respiratory-therapy-student%2c-marshall-medical-centers%2c-north%2c-prn%2c-shift-varies/job) | 2026-09-21 |
 | State of Nebraska | Student Intern – Strategic Planning, Technical Writing & Performance Management | Ndot Central Complex 1400 Lincoln | [Apply](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/NDOT-Central-Complex-1400---Lincoln/Student-Intern---Strategic-Planning--Technical-Writing---Performance-Management_JR2026-00029415) | 2026-09-21 |
-| Superhuman | Software Engineering Intern - Summer 2027 | California, United States / Hub New York / Hub Seattle / United States Remote | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0) | 2026-09-21 |
 | Superhuman | Software Engineering Intern - Summer 2027 | Toronto, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c) | 2026-09-21 |
 | Syngenta Group | Internship Research Chemistry (m/f/d) | Switzerland | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000150685489) | 2026-09-21 |
 | Thales | STAGE - UX/UI Designer - F/H | La Ciotat | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/La-Ciotat/STAGE---UX-UI-Designer---F-H_R0340655-2) | 2026-09-21 |
@@ -13348,11 +13350,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Standard Aero | Intern, Facilities & Maintenance | Springfield, IL, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10174) | 2026-09-14 |
 | Staples | Merchandising Intern - June 2027 | Framingham, MA, United States | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/74629) | 2026-09-14 |
 | Sun Life | Strategic Vendor Management - Co-op | Massachusetts | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Strategic-Vendor-Management---Co-op_JR00127632) | 2026-09-14 |
-| Swarm Aero | Aircraft Engineering Intern (Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/swarmaero/debacfa4-dcfd-42ae-99c0-56af6977c864) | 2026-09-14 |
-| Swarm Aero | Avionics Engineer Intern (Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/swarmaero/4e005f46-28db-4591-b1d4-393a9c0f0b36) | 2026-09-14 |
 | Swarm Aero | Composite Engineering (M&P) Intern (Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/swarmaero/31565a0a-c55e-4d70-832d-8a4b5e5528ad) | 2026-09-14 |
-| Swarm Aero | Embedded Software Intern (Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52) | 2026-09-14 |
-| Swarm Aero | Software Engineer Intern (Summer 2027) | Remote | [Apply](https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6) | 2026-09-14 |
 | Syngenta Group | Crop Protection Sales Intern | United States Remote | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000149404267) | 2026-09-14 |
 | Tanium | Customer Success Intern | Tx (hybrid) | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176331) | 2026-09-14 |
 | Tanium | Revenue Operations Intern | CA (hybrid) | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8176481) | 2026-09-14 |
