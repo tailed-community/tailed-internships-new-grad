@@ -14,6 +14,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/9312fdb3-de7d-4dd3-8266-6aeccf156f82) | 2026-10-10 |
 | Cleveland Clinic | New Grad RN Resident - Surgical ICU (SICU) | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Surgical-ICU--SICU-_355355) | 2026-10-10 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Post-Op-Surgery_352977) | 2026-10-10 |
+| Eurofins | Analytical Scientist (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154772919) | 2026-10-10 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Mexico | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/226786) | 2026-10-10 |
 | Intermountain Healthcare | Registered Nurse New Graduate Inpatient Rehabilitation | Intermountain Health Mckay-Dee Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Registered-Nurse-New-Graduate-Inpatient-Rehabilitation_R186371-1) | 2026-10-10 |
 | IQVIA | Clinical Files Specialist (CTA BackUp - Entrylevel position) | Argentina | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Buenos-Aires-Argentina/Clinical-Files-Specialist--CTA-BackUp---Entrylevel-position-_R1573525-1) | 2026-10-10 |
@@ -414,7 +415,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cox | Entry Level Mobile Diesel Mechanic | Buffalo Ny | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Buffalo-NY/Entry-Level-Mobile-Diesel-Mechanic_R202683135) | 2026-09-30 |
 | Cox | Entry Level Trailer Mechanic | Indianapolis In | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Indianapolis-IN/Entry-Level-Trailer-Mechanic_R202683177) | 2026-09-30 |
 | Eurofins | Entry Level Materials Sample Prep Chemist, GDMS Chemistry - EAG Laboratories | Syracuse, NY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000152525559) | 2026-09-30 |
-| Eurofins | Scientist - Entry Level - Training Provided! - 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000152517280) | 2026-09-30 |
 | Fresenius Medical Care | New Graduate RN | Missoula, MT, United States / Butte, MT, United States / Great Falls, MT, United States / Bozeman, MT, United States / Polson, MT, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Missoula-MT-USA/New-Graduate-RN_R0257216-1) | 2026-09-30 |
 | Gannet Fleming | Entry Level Civil Designer | Tampa, FL, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14848/entry-level-civil-designer/job) | 2026-09-30 |
 | GE Healthcare | Early Career Trainee,  Commercial Operations | Rus06-01-Moscow-Naberezhnaya Tower | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/RUS06-01-Moscow-Naberezhnaya-Tower/Early-Career-Trainee---Commercial-Operations_R4046625-1) | 2026-09-30 |
@@ -554,7 +554,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer (Mission Critical/Data Center) | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96184) | 2026-09-25 |
 | WSP | Early Career Process Water/Plumbing Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187) | 2026-09-25 |
 | ZipRecruiter | Software Engineer - New Grad | Santa Monica, Canada | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) | 2026-09-25 |
-| AECOM | Entry-Level Civil OSP Design Specialist - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151438599) | 2026-09-24 |
+| AECOM | Entry-Level Civil OSP Design Specialist - Hiring Event with AECOM - Philadelphia | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151438599) | 2026-09-24 |
 | AECOM | Entry-Level Geologist - Hiring Event with AECOM - New York City | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151519249) | 2026-09-24 |
 | AECOM | Entry-Level Graduate Opportunities - University of South Florida Career Fair 2026 | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151479730) | 2026-09-24 |
 | Anduril | 2027 Early Career Firmware Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | 2026-09-24 |
@@ -704,7 +704,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Stripe | Software Engineer, Early Career — Immediate Start | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | 2026-09-18 |
 | Valmont | Welder Entry Level | Valley Ne | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Welder-Entry-Level_R28912) | 2026-09-18 |
 | WSP | Early Career Structural Engineer (Buildings) | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95694) | 2026-09-18 |
-| AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149952909) | 2026-09-17 |
 | Air Products | Graduate Program - Mantenimiento Eléctrico de Campo | Spain | [Apply](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Tarragona-Spain/Graduate-Program---Mantenimiento-Elctrico-de-Campo_JR-2026-22242-2) | 2026-09-17 |
 | AMT Engineering | Entry Level Structural / Bridge Engineer - May 2027 | Pennsylvania | [Apply](https://jobs.lever.co/amtengineering/3ca844dc-29c5-4f91-a2b1-3603a1719f5c) | 2026-09-17 |
 | AMT Engineering | Entry Level Structural / Bridge Engineer - May 2027 | Charleston, SC | [Apply](https://jobs.lever.co/amtengineering/a3951717-386d-451f-9a19-f8588a7b3ee8) | 2026-09-17 |
@@ -953,7 +952,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Civil Project Engineer I | Prince George, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148226290) | 2026-09-08 |
 | Timmons Group | New Graduate Civil Project Engineer I | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148224789) | 2026-09-08 |
 | City of Vancouver | Entry Level Police Officer | Not Specified | [Apply](https://cityofvancouver.wd5.myworkdayjobs.com/COV/job/Entry-Level-Police-Officer_24-0029) | 2026-09-07 |
-| Eurofins | Laboratory Technician/Assistant – Entry Level (Graduates Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147701839) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse | Saginaw, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Saginaw-MI/New-Grad-Registered-Nurse_JB100773) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse (RN) - Inpatient Acute Care | Grand Rapids, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/New-Grad-Registered-Nurse--RN----Inpatient-Acute-Care_JB103015) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse (RN) Pediatrics | Grand Rapids, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/New-Grad-Registered-Nurse--RN--Pediatrics_JB102893) | 2026-09-07 |
@@ -1129,7 +1127,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | 2027 Early Career - Finance Development Program Financial Analyst | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435042) | 2026-08-31 |
 | Elk Valley Resources | Entry Level Labour | Elkford, BC / Sparwood, BC | [Apply](https://jobs.lever.co/evr/5d6da0a4-aec4-497e-b21e-5674d2f12db6) | 2026-08-31 |
 | Equinix | Facility Engineer (Entry Level) | Sg6 Singapore | [Apply](https://equinix.wd1.myworkdayjobs.com/External/job/SG6-Singapore/Facility-Engineer--Entry-Level-_JR-162907) | 2026-08-31 |
-| Expeditors | Logistics Support Agents (Entry Level) - On Site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000146467529) | 2026-08-31 |
 | LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January) | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617) | 2026-08-31 |
 | LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June) | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1) | 2026-08-31 |
 | LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June) | Boca Raton, FL | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2) | 2026-08-31 |
