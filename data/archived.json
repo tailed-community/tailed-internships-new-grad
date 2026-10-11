@@ -734970,5 +734970,47 @@
     "date_added": "2026-08-26",
     "active": false,
     "date_archived": "2026-10-11"
+  },
+  {
+    "id": "smartrecruiters-ramboll-744000153168264",
+    "company": "Ramboll",
+    "title": "We are looking for Constructing Architect interns (Bygningskonstruktør Praktikant) to join our office in Copenhagen in January 2027",
+    "location": "Denmark",
+    "type": "internship",
+    "season": "2027",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000153168264",
+    "date_posted": "2026-10-02",
+    "date_added": "2026-10-02",
+    "active": false,
+    "date_archived": "2026-10-11"
+  },
+  {
+    "id": "smartrecruiters-red-bull-744000150965708",
+    "company": "Red Bull",
+    "title": "Red Bull Graduate Program - Brand Marketing",
+    "location": "Egypt",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000150965708",
+    "date_posted": "2026-09-22",
+    "date_added": "2026-09-22",
+    "active": false,
+    "date_archived": "2026-10-11"
+  },
+  {
+    "id": "smartrecruiters-renesas-electronics-744000154490303",
+    "company": "Renesas Electronics",
+    "title": "Memory Server System Testing Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154490303",
+    "date_posted": "2026-10-08",
+    "date_added": "2026-10-08",
+    "active": false,
+    "date_archived": "2026-10-11"
   }
 ]

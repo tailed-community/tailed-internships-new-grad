@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | AECOM 2027 Hong Kong Graduate Program | Hong Kong | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154878969) | 2026-10-11 |
 | Clera | Business Development Representative, Early Career | Germany | [Apply](https://jobs.ashbyhq.com/clera/d0480e78-5b7f-4e25-93bf-f34aad2dd260) | 2026-10-11 |
 | incident.io | Entry-Level Business Development Representative (BDR) | California, United States | [Apply](https://jobs.ashbyhq.com/incident/86264b1b-88b2-436c-af63-72a1560dd308) | 2026-10-11 |
 | Banner Health | Registered Nurse New Grad Cardiac PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-New-Grad-Cardiac-PCU_R4457410) | 2026-10-10 |
@@ -634,7 +635,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Field Geologist | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5431255008) | 2026-09-22 |
 | onsemi | Suzhou Entry Level Talent (ATNPI) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506718) | 2026-09-22 |
 | Plante Moran | 2027 Family Office - Estate Planning Advisor Entry Level | East Lansing | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/East-Lansing/XMLNAME-2027-Family-Office---Estate-Planning-Advisor-Entry-Level_JR-03373) | 2026-09-22 |
-| Red Bull | Red Bull Graduate Program - Brand Marketing | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000150965708) | 2026-09-22 |
 | Red Bull | Red Bull Graduate Program - Supply & Demand Planning | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000150972929) | 2026-09-22 |
 | Sentara Health | RN new grad Fast-track Application/ Nurse Residency Program-All Sentara locations | Sentara Norfolk General Hospital / Hampton, VA / Virginia Beach, VA / Charlottesville, VA / South Boston, VA / Norfolk, VA / Elizabeth City, NC / Harrisonburg, VA / Suffolk, VA / Woodbridge, VA / Williamsburg, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Norfolk-General-Hospital/RN-new-grad-Fast-track-Application--Nurse-Residency-Program-All-Sentara-location_JR-105628) | 2026-09-22 |
 | SingleStore | MIT-Software Engineer-New Grad \|Helios\| | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882) | 2026-09-22 |
