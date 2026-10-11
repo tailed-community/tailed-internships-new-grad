@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Business Development Representative, Early Career | Germany | [Apply](https://jobs.ashbyhq.com/clera/d0480e78-5b7f-4e25-93bf-f34aad2dd260) | 2026-10-11 |
+| incident.io | Entry-Level Business Development Representative (BDR) | California, United States | [Apply](https://jobs.ashbyhq.com/incident/86264b1b-88b2-436c-af63-72a1560dd308) | 2026-10-11 |
 | Banner Health | Registered Nurse New Grad Cardiac PCU | Banner Thunderbird Med Ctr (5555 W Thunderbird Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Thunderbird-Med-Ctr-5555-W-Thunderbird-Rd/Registered-Nurse-New-Grad-Cardiac-PCU_R4457410) | 2026-10-10 |
 | CLEAResult | Entry-Level: Field Representative | Remote | [Apply](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Gettysburg-Energy-Efficiency-Specialist_R0017975) | 2026-10-10 |
 | Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/9312fdb3-de7d-4dd3-8266-6aeccf156f82) | 2026-10-10 |

@@ -24,6 +24,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | HR, IT & Finance Intern (UAE Nationals Only) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/HR--IT---Finance-Intern--UAE-Nationals-Only-_R00362240) | 2026-10-11 |
 | Accenture | IT, Finance & HR Intern (UAE Nationals Only) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dubai-One-Zaabeel-Tower/IT--Finance---HR-Intern--UAE-Nationals-Only-_R00362259) | 2026-10-11 |
 | Allegion | Industrial Design Spring Co-op | Carmel, IN | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Spring-Co-op_JR37686-1) | 2026-10-11 |
+| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/e1f19be4-dd5d-40ac-b31b-29c1d8338a8f) | 2026-10-11 |
 | Covestro | Lab Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Lab-Intern_JR-2026-02301) | 2026-10-11 |
 | CVS Health | Pharmacy Intern | Ma East Boston | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---East-Boston/Pharmacy-Intern_R1072146) | 2026-10-11 |
 | CVS Health | Pharmacy Intern | Fl Tallahassee | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Tallahassee/Pharmacy-Intern_R1028499) | 2026-10-11 |
@@ -3007,7 +3008,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cirrus Logic | 2027 Internship - Validation Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027) | 2026-10-05 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - CoSec Department (Corporate Team) | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20551) | 2026-10-05 |
 | Citco | IT.Intern | Philippines | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17732) | 2026-10-05 |
-| Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/9519167d-5e76-4f15-8798-b7624398001e) | 2026-10-05 |
 | Cleveland Clinic | Pharmacy Intern - Inpatient, PRN | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/Pharmacy-Intern---Inpatient--PRN_351656) | 2026-10-05 |
 | CME Group | eDiscovery - Internship - Year Round | Belfast Millennium House | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/eDiscovery---Internship---Year-Round_34867) | 2026-10-05 |
 | CME Group | Information Governance - Internship | Belfast Millennium House | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/Information-Governance---Internship_34866) | 2026-10-05 |
@@ -25092,7 +25092,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Etched | Inference Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | 2026-06-08 |
 | Etched | Mechanical / Thermal Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | 2026-06-08 |
 | Etched | PD Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | 2026-06-08 |
-| Etched | RTL Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | 2026-06-08 |
 | Etched | Supercomputing Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | 2026-06-08 |
 | Faculty AI | UK Defence Veterans - Civilian Work Attachment | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/faculty/b0001741-61ad-49c6-b3e1-91922f7d4026) | 2026-06-08 |
 | Fundwell | AI Innovation Internship | New York, United States | [Apply](https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982) | 2026-06-08 |

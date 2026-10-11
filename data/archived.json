@@ -734858,5 +734858,33 @@
     "date_added": "2026-09-14",
     "active": false,
     "date_archived": "2026-10-11"
+  },
+  {
+    "id": "ashby-clera-9519167d-5e76-4f15-8798-b7624398001e",
+    "company": "Clera",
+    "title": "Founder Associate Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/9519167d-5e76-4f15-8798-b7624398001e",
+    "date_posted": "2026-10-05",
+    "date_added": "2026-10-05",
+    "active": false,
+    "date_archived": "2026-10-11"
+  },
+  {
+    "id": "ashby-etched-157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
+    "company": "Etched",
+    "title": "RTL Intern",
+    "location": "San Jose, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
+    "date_posted": "2026-09-18",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-10-11"
   }
 ]
