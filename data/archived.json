@@ -734886,5 +734886,19 @@
     "date_added": "2026-06-08",
     "active": false,
     "date_archived": "2026-10-11"
+  },
+  {
+    "id": "icims-university-of-st-thomas-9552",
+    "company": "University of St. Thomas",
+    "title": "Student Assistant",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://studentemployment-stthomas.icims.com/jobs/9552/student-assistant/job",
+    "date_posted": "2026-09-10",
+    "date_added": "2026-08-24",
+    "active": false,
+    "date_archived": "2026-10-11"
   }
 ]
