@@ -734816,5 +734816,47 @@
     "date_added": "2026-09-08",
     "active": false,
     "date_archived": "2026-10-11"
+  },
+  {
+    "id": "greenhouse-amperesand-4164330009",
+    "company": "Amperesand",
+    "title": "Power Electronics Control Intern",
+    "location": "Nevada, United States / California, United States / Singapore",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4164330009",
+    "date_posted": "2026-03-03",
+    "date_added": "2026-09-20",
+    "active": false,
+    "date_archived": "2026-10-11"
+  },
+  {
+    "id": "greenhouse-amperesand-4425221009",
+    "company": "Amperesand",
+    "title": "Power Electronics Design Intern",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4425221009",
+    "date_posted": "2026-09-29",
+    "date_added": "2026-09-30",
+    "active": false,
+    "date_archived": "2026-10-11"
+  },
+  {
+    "id": "greenhouse-interstates-4056077009",
+    "company": "Interstates",
+    "title": "Data Analyst Intern - (Spring 2027)",
+    "location": "Sioux Center, IA",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "greenhouse",
+    "url": "https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009",
+    "date_posted": "2025-11-05",
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-11"
   }
 ]
