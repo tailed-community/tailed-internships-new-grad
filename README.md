@@ -14225,7 +14225,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | National Information Solutions Cooperative (NISC) - testnisc | Intern - Technical (IT) Services | Mandan, ND | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8192034) | 2026-09-11 |
 | National Information Solutions Cooperative (NISC) - testnisc | Intern - Technical (IT) Services | Cedar Rapids, IA | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8192097) | 2026-09-11 |
 | Niagara Bottling | Manufacturing Internship - Plainfield | Plainfield Plainfield, IN | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553) | 2026-09-11 |
-| Nokia | AI Software Engineer – Intern | Italy | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40280) | 2026-09-11 |
 | Nordson | Process Engineering Intern | USA Connecticut Norwich | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Connecticut---Norwich/Process-Engineering-Intern_REQ52855) | 2026-09-11 |
 | Nordson | Quality Engineering Intern | USA Connecticut Norwich | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Connecticut---Norwich/Quality-Engineering-Intern_REQ52854) | 2026-09-11 |
 | nVent | Mechanical Engineering Co-Op (June - Dec 2027) | Solon, OH, United States | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539) | 2026-09-11 |
@@ -15765,10 +15764,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Water Engineering Intern / Co-Op | Rochester, NY, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44049) | 2026-09-08 |
 | Arcadis | Water Resources Engineering Intern | Chicago, IL, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959) | 2026-09-08 |
 | Arconic | Electrical Engineer Intern- Davenport Works | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114162) | 2026-09-08 |
-| Arconic | Electrical Engineering Intern | Lancaster, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114135) | 2026-09-08 |
 | Arconic | Industrial Engineer Intern- Davenport Works | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114166) | 2026-09-08 |
 | Arconic | Mechanical Engineer Intern- Davenport Works | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114164) | 2026-09-08 |
-| Arconic | Mechanical Engineering Intern | Lancaster, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114136) | 2026-09-08 |
 | Arconic | Metallurgical Engineer Intern- Davenport Works | Davenport, IA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114165) | 2026-09-08 |
 | Ardian | Fund Finance Secondaries & Primaries Intern -  starting now - Frankfurt (M/F) | Frankfurt | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Frankfurt/Fund-Finance-Secondaries---Primaries-Intern----starting-now---Frankfurt--M-F-_JR1002232) | 2026-09-08 |
 | Ardian | Fund Finance Secondaries & Primaries Stage - Janvier 2027 \| Paris (M/F) | Paris | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Paris/Fund-Finance-Secondaries---Primaries-Stage---Janvier-2027---Paris--M-F-_JR1002110) | 2026-09-08 |
@@ -17547,7 +17544,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GHD | Civil Engineering Intern | Boston, MA, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28141) | 2026-09-03 |
 | GHD | Environmental Engineering Intern | Harrisburg, PA, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28188) | 2026-09-03 |
 | GHD | Environmental Engineering Intern | Buford, GA, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28129) | 2026-09-03 |
-| GHD | Environmental Science Intern | Decatur, AL, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28130) | 2026-09-03 |
 | GlobalFoundries | Machine Learning & Generative AI Intern (Jan-Jun 2027) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Machine-Learning---Generative-AI-Intern--Jan-Jun-2027-_JR-2604518) | 2026-09-03 |
 | GlobalFoundries | Semiconductor IP Analytics & Automation Intern (Jan-Jun 2027) | Sgp Woodlands | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/IP-Program-Management---Quality-Intern--Jan-Jun-2027-_JR-2604350) | 2026-09-03 |
 | Greystar Worldwide | Service Technician- Nordheim Court (Student Living) | Seattle, WA | [Apply](https://greystar.wd1.myworkdayjobs.com/External/job/Nordheim-Court-Seattle-WA/Service-Technician--Nordheim-Court--Student-Living-_R0199987) | 2026-09-03 |
@@ -20464,7 +20460,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | DC Power Product Management MBA Intern (Summer 2027) | Delaware, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) | 2026-08-26 |
 | Vertiv | Logistics Internship (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278662) | 2026-08-26 |
 | Vertiv | Service Operations Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280006) | 2026-08-26 |
-| Vertiv | Services Strategy MBA Intern -Summer 2027 | Columbus, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278690) | 2026-08-26 |
 | Vertiv | Thermal Site Based Services Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279142) | 2026-08-26 |
 | Wabtec | Junior Sourcing Specialist – Intern | Katy Wroclawskie, DS | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990014833136) | 2026-08-26 |
 | WTW | Early Careers: Pension Outsourcing Internship - (Winter, Summer or Fall 2027) – Toronto | Toronto, ON, Canada | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605486) | 2026-08-26 |
