@@ -749656,5 +749656,33 @@
     "date_added": "2026-10-08",
     "active": false,
     "date_archived": "2026-10-12"
+  },
+  {
+    "id": "rippling-american-rare-earths-b6210346-8f69-4d89-9900-d450a0a62c44",
+    "company": "American Rare Earths",
+    "title": "R&D Process Engineering Intern (Summer 2027)",
+    "location": "Wheat Ridge, CO",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/usare/jobs/b6210346-8f69-4d89-9900-d450a0a62c44",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-12"
+  },
+  {
+    "id": "rippling-veryable-7511b52a-9b0e-421d-af9b-1b6b01003732",
+    "company": "Veryable",
+    "title": "Data Analytics Intern",
+    "location": "Dallas, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/veryable-careers/jobs/7511b52a-9b0e-421d-af9b-1b6b01003732",
+    "date_posted": null,
+    "date_added": "2026-10-08",
+    "active": false,
+    "date_archived": "2026-10-12"
   }
 ]

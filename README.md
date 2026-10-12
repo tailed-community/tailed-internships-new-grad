@@ -180,6 +180,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BNY | 2027 BNY Summer Internship Program – Credit & Lending (London) | London, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83005) | 2026-10-12 |
 | BNY | 2027 BNY Summer Internship Program – Trade Execution (London) | London, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83002) | 2026-10-12 |
 | Bobyard | Computer Vision Research Engineer - Intern | California, United States | [Apply](https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f) | 2026-10-12 |
+| Bonsai Robotics | Field Operations Intern | Davis, Canada | [Apply](https://ats.rippling.com/bonsairoboticsmain/jobs/7d874946-6dae-422f-a6de-bfab6e1b2323) | 2026-10-12 |
 | BorgWarner | Industrial Sales and Marketing Intern (Year-Round) | Auburn Hills Michigan USA | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Industrial-Sales-and-Marketing-Intern--Year-Round-_R2026-4045) | 2026-10-12 |
 | Bose | Automotive Demand Planning Co-Op | Ma Framingham, United States / Mi Troy, United States | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Automotive-Demand-Planning-Co-Op_R29197) | 2026-10-12 |
 | BP | Kerja Praktek Internship - Wells and HSE&C - Indonesia | Indonesia Jakarta | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Indonesia---Jakarta/Kerja-Praktek-Internship---Wells-and-HSE-C---Indonesia_RQ116673) | 2026-10-12 |
@@ -223,6 +224,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Working Student - Digital Communication & Learning for Manufacturing Operations (m/f/d) - REF99897J | Germany | [Apply](https://jobs.smartrecruiters.com/Continental/744000155000049) | 2026-10-12 |
 | Corewell Health | Clinical Student Worker | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Clinical-Student-Worker_R229500) | 2026-10-12 |
 | Corewell Health | Pharmacy Intern I | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Dearborn-MI/Pharmacy-Intern-I_R221663) | 2026-10-12 |
+| Create Music Group | A&R Discovery Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/93350021-a388-43ff-839d-3395bc1b4eff) | 2026-10-12 |
+| Create Music Group | Copyright Specialist Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/67cbd61a-866e-4354-a735-0d549411a72c) | 2026-10-12 |
+| Create Music Group | Digital Rights Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/93abb259-0358-4ca7-9ec4-00e6c034f1c0) | 2026-10-12 |
+| Create Music Group | Music Marketing & Operations Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/44b6f41c-96c7-4909-a005-0914505aeba0) | 2026-10-12 |
+| Create Music Group | Social Media & Fan Engagement Intern | United States Remote | [Apply](https://ats.rippling.com/createmusicgroup/jobs/4f004f27-09b7-4c84-af3a-bea0ea7ed1cd) | 2026-10-12 |
 | Cummins | Placement Student - Development Engineer | Gwent, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439913) | 2026-10-12 |
 | CVS Health | Account Management & Sales Strategy Intern 2027 | Ct Hartford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Account-Management---Sales-Strategy-Intern-2027_R1060296) | 2026-10-12 |
 | CVS Health | Commercial Strategy & Operations Corporate Internship – Summer 2027 (Undergraduate) | Ct Hartford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Commercial-Strategy---Operations-Corporate-Internship---Summer-2027--Undergraduate-_R1066634) | 2026-10-12 |
@@ -2496,7 +2502,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertex Pharmaceuticals | Spring 2027 Co-op, People Research and Analytics, Human Resources | Boston, MA | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-op--People-Research-and-Analytics--Human-Resources_REQ-31103-1) | 2026-10-08 |
 | Vertex Pharmaceuticals | Spring 2027 Co-op, R&D and DTE Sourcing | 5005 Vertex US San Diego | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/5005---Vertex-US---San-Diego/Spring-2027-Co-op--R-D-and-DTE-Sourcing_REQ-31102-1) | 2026-10-08 |
 | Vertex Pharmaceuticals | Spring Co-Op 2027, CASGEVY Change Management | Boston, MA | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op_REQ-31110-1) | 2026-10-08 |
-| Veryable | Data Analytics Intern | Dallas, TX | [Apply](https://ats.rippling.com/veryable-careers/jobs/7511b52a-9b0e-421d-af9b-1b6b01003732) | 2026-10-08 |
 | Visa | Marketing Intern | Guatemala | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GT---Guatemala-City-Guatemala/Marketing-Intern_REF086155W) | 2026-10-08 |
 | Visa | Risk Intern | Panama | [Apply](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/PA---Panama-City-Panama/Risk-Intern_REF086150W) | 2026-10-08 |
 | Vistra | OG Instrumentation Internship/CO-OP | Texas | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Franklin-Texas/OG-Instrumentation-Internship-CO-OP_40016748) | 2026-10-08 |
@@ -12863,7 +12868,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Express | Campus - Internship Programme - Undergraduate - Staff Auditor - 2027 (UK - London) | London, United Kingdom | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013195) | 2026-09-14 |
 | American Rare Earths | Geology Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443) | 2026-09-14 |
 | American Rare Earths | Mining Engineering Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/05f28dd6-bfd8-414a-b35c-c7ff94b8e614) | 2026-09-14 |
-| American Rare Earths | R&D Process Engineering Intern (Summer 2027) | Wheat Ridge, CO | [Apply](https://ats.rippling.com/usare/jobs/b6210346-8f69-4d89-9900-d450a0a62c44) | 2026-09-14 |
 | American University | ISSS Student Advisor (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/ISSS-Student-Advisor--Student-_R4961) | 2026-09-14 |
 | American University | RecFit Ambassador (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/RecFit-Ambassador--Student-_R4962) | 2026-09-14 |
 | Ameriprise Financial | Communications Intern | Minnesota | [Apply](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Communications-Intern_R26_3644) | 2026-09-14 |
