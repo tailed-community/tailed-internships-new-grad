@@ -746912,5 +746912,61 @@
     "date_added": "2026-10-06",
     "active": false,
     "date_archived": "2026-10-12"
+  },
+  {
+    "id": "lever-csc-generation-3a04b45f-a2eb-438a-a8ac-b07324223813",
+    "company": "CSC Generation",
+    "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
+    "location": "Houston, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813",
+    "date_posted": "2026-09-14",
+    "date_added": "2026-09-28",
+    "active": false,
+    "date_archived": "2026-10-12"
+  },
+  {
+    "id": "lever-larian-studios-27fc755d-40b6-43b9-b58a-3ca3ebb01fc7",
+    "company": "Larian Studios",
+    "title": "Level Design Internship",
+    "location": "Gent",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/larian/27fc755d-40b6-43b9-b58a-3ca3ebb01fc7",
+    "date_posted": "2025-11-19",
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-10-12"
+  },
+  {
+    "id": "lever-reinventing-geospatial-44b4672c-f4f1-483b-ac2c-e4c07499786f",
+    "company": "Reinventing Geospatial",
+    "title": "Talent Sourcing Intern",
+    "location": "Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/rgi/44b4672c-f4f1-483b-ac2c-e4c07499786f",
+    "date_posted": "2024-07-09",
+    "date_added": "2026-10-07",
+    "active": false,
+    "date_archived": "2026-10-12"
+  },
+  {
+    "id": "lever-veeva-systems-561872bd-8a76-43b6-bf20-a1d05caa4223",
+    "company": "Veeva Systems",
+    "title": "Intern Business Consulting",
+    "location": "China  Shanghai",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/veeva/561872bd-8a76-43b6-bf20-a1d05caa4223",
+    "date_posted": "2025-05-08",
+    "date_added": "2026-05-22",
+    "active": false,
+    "date_archived": "2026-10-12"
   }
 ]

@@ -41,6 +41,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Renault Group | Graduate Program Management & Industrie 4.0 (H/F) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Clon/Graduate-Program-Management---Industrie-40--H-F-_JOBREQ_50283383) | 2026-10-12 |
 | The Boeing Company | Entry-Level Software Engineer–Test & Verification | USA Tinker Afb, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081) | 2026-10-12 |
 | The Boeing Company - external_subsidiary | Entry-Level Software Engineer–Test & Verification | USA Tinker Afb, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2) | 2026-10-12 |
+| Wade Trim | Entry Level Civil/Environmental Engineer - #3071 | Asheville, NC | [Apply](https://jobs.lever.co/wadetrim/cffa7a9e-9d19-49b9-8835-7a7fcea54023) | 2026-10-12 |
 | AECOM | AECOM 2027 Hong Kong Graduate Program | Hong Kong | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154878969) | 2026-10-11 |
 | Clera | Business Development Representative, Early Career | Germany | [Apply](https://jobs.ashbyhq.com/clera/d0480e78-5b7f-4e25-93bf-f34aad2dd260) | 2026-10-11 |
 | incident.io | Entry-Level Business Development Representative (BDR) | California, United States | [Apply](https://jobs.ashbyhq.com/incident/86264b1b-88b2-436c-af63-72a1560dd308) | 2026-10-11 |
