@@ -759022,5 +759022,61 @@
     "date_added": "2026-10-07",
     "active": false,
     "date_archived": "2026-10-13"
+  },
+  {
+    "id": "rippling-collier-aerospace-e132478d-3a1c-4bb6-9f57-002df2853f0c",
+    "company": "Collier Aerospace",
+    "title": "NCSG Aerospace Structural Engineering Intern (Summer 2027)",
+    "location": "Raleigh, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/e132478d-3a1c-4bb6-9f57-002df2853f0c",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-13"
+  },
+  {
+    "id": "rippling-collier-aerospace-67c85d52-9d22-454b-a6e3-b03c473e63d0",
+    "company": "Collier Aerospace",
+    "title": "NCSG Application Engineering Intern (Summer 2027)",
+    "location": "Raleigh, NC / Huntersville, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/67c85d52-9d22-454b-a6e3-b03c473e63d0",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-13"
+  },
+  {
+    "id": "rippling-collier-aerospace-c1fcbdc3-fe19-4209-b080-15a5db8c75e1",
+    "company": "Collier Aerospace",
+    "title": "NCSG Aerospace Methods & Automations Intern (Summer 2027)",
+    "location": "Raleigh, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/c1fcbdc3-fe19-4209-b080-15a5db8c75e1",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-13"
+  },
+  {
+    "id": "rippling-collier-aerospace-5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
+    "company": "Collier Aerospace",
+    "title": "NCSG AI Feature Development Internship (Summer 2027)",
+    "location": "Raleigh, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
+    "date_posted": null,
+    "date_added": "2026-09-16",
+    "active": false,
+    "date_archived": "2026-10-13"
   }
 ]
