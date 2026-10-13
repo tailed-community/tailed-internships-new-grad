@@ -8,6 +8,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) – Neurosurgical ICU | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/New-Graduate-Registered-Nurse--RN----Neurosurgical-ICU_R249878-1) | 2026-10-13 |
+| AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155155079) | 2026-10-13 |
+| AECOM | Entry-Level Civil Engineer - Roadway Designer -  Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155268930) | 2026-10-13 |
+| AECOM | Entry-Level Environmental Engineer | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155258344) | 2026-10-13 |
+| AECOM | Entry-Level Environmental Scientist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155259240) | 2026-10-13 |
+| AECOM | Entry-Level Geologist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155260819) | 2026-10-13 |
+| AECOM | Entry-Level Geologist - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155324241) | 2026-10-13 |
 | Banner Health | Registered Nurse RN New Grad Progressive Care Unit PCU Nights | Banner North Colorado Medical Center (1801 16th St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Registered-Nurse-RN-New-Grad-Progressive-Care-Unit-PCU-Nights_R4455839) | 2026-10-13 |
 | Belvedere Trading | Quantitative Researcher - Entry Level 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) | 2026-10-13 |
 | Clarivate | Financial Analyst (Entry-level) | R155-Belgrade | [Apply](https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/R155-Belgrade/Financial-Analyst--Entry-level-_JREQ136838-1) | 2026-10-13 |
@@ -28,6 +34,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry Level ASIC/FPGA Design Verification Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-1) | 2026-10-13 |
 | The Boeing Company - external_subsidiary | Entry Level Design and Analysis Engineer (Support Equipt Design - Elect) | USA Saint Charles, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227) | 2026-10-13 |
 | The Boeing Company - external_subsidiary | Entry-Level Software Engineer–Developer | USA Richardson, TX | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382) | 2026-10-13 |
+| Western Digital | Engineer, Product Design Engineering (New Graduate / 0-2 Years Experience) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000155166490) | 2026-10-13 |
 | WSP | Early Career P&C Field Services Technician | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97442) | 2026-10-13 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Progressive Care | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-University-City---8800-N-Tryon-St-Charlotte-NC/New-Graduate-Registered-Nurse--RN----Progressive-Care_R244106) | 2026-10-12 |
 | AECOM | Entry-Level Deputy Project Managers - Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155053389) | 2026-10-12 |
@@ -90,7 +97,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/9312fdb3-de7d-4dd3-8266-6aeccf156f82) | 2026-10-10 |
 | Cleveland Clinic | New Grad RN Resident - Surgical ICU (SICU) | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Surgical-ICU--SICU-_355355) | 2026-10-10 |
 | Cleveland Clinic | New Grad RN Resident – Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Post-Op-Surgery_352977) | 2026-10-10 |
-| Eurofins | Analytical Scientist (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154772919) | 2026-10-10 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Mexico | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/226786) | 2026-10-10 |
 | IQVIA | Clinical Files Specialist (CTA BackUp - Entrylevel position) | Argentina | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Buenos-Aires-Argentina/Clinical-Files-Specialist--CTA-BackUp---Entrylevel-position-_R1573525-1) | 2026-10-10 |
 | SpaceX | New Graduate Engineer, Automation - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002) | 2026-10-10 |
@@ -179,7 +185,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Power Systems Studies Engineer - Data Centers | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5446995008) | 2026-10-08 |
 | Plante Moran | 2027 Healthcare Revenue Cycle Entry Level Consultant | Chicago Riverside Plaza | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Chicago-Riverside-Plaza/XMLNAME-2027-Healthcare-Revenue-Cycle-Entry-Level-Consultant_JR-03384) | 2026-10-08 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Orlando, FL | Orlando Sales Office | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/ORLANDO-SALES-OFFICE/Field-Service-Technician--Entry-Level----Orlando--FL_R000160564) | 2026-10-08 |
-| RR Donnelley | Maintenance Mechanic - Entry Level | Auburn, WA, United States | [Apply](https://jobs.smartrecruiters.com/RRDonnelley/744000154180694) | 2026-10-08 |
 | Salesforce | Commercial Graduate Program - Sales Path - Hebrew Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Hebrew-Market_JR363315-2) | 2026-10-08 |
 | Salesforce - futureforce_newgradroles | Commercial Graduate Program - Sales Path - Hebrew Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Hebrew-Market_JR363315-1) | 2026-10-08 |
 | Securitas | Entry Level Security Officer | Cheyenne, WY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/175631) | 2026-10-08 |
@@ -394,7 +399,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152770984) | 2026-10-01 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Coral Gables, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771289) | 2026-10-01 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771209) | 2026-10-01 |
-| AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763569) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Engineer – Remediation - Networking Event with AECOM – Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763439) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152764379) | 2026-10-01 |
@@ -690,7 +694,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Superhuman | Software Engineer, Early Career | California, United States / Hub Seattle / United States Remote | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0) | 2026-09-21 |
 | Advocate Health Care | New Grad Registered Nurse (RN - Post Surgical | Aurora St Lukes Medical Center 2900 W Oklahoma Ave | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-St-Lukes-Medical-Center---2900-W-Oklahoma-Ave/New-Grad-Registered-Nurse--RN---Post-Surgical_R274947) | 2026-09-19 |
 | Advocate Health Care | New Grad Registered Nurse (RN) - Med Surg Tele | Aurora St Lukes Medical Center 2900 W Oklahoma Ave | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-St-Lukes-Medical-Center---2900-W-Oklahoma-Ave/New-Grad-Registered-Nurse--RN----Med-Surg-Tele_R274941) | 2026-09-19 |
-| AECOM | Entry-Level Environmental Scientist – Remediation - Networking Event with AECOM – Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150467719) | 2026-09-19 |
 | Banner Health | Registered Nurse RN New Grad Progressive Care PCU | Bumc Tucson (1625 N Campbell Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Registered-Nurse-RN-New-Grad-Progressive-Care-PCU_R4454919) | 2026-09-19 |
 | Blue Origin | New Graduate - Business Rotation Program – (Spring / Summer / Fall 2027 Start Date) | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Graduate---Business-Rotation-Program----Spring---Summer---Fall-2027-Start-Date-_R72538) | 2026-09-19 |
 | Cleveland Clinic | New Grad RN Resident – ENT/Nephrology/Dermatology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---ENT-Nephrology-Dermatology_353827-1) | 2026-09-19 |
@@ -1296,8 +1299,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Facility Solutions Group | Entry Level Data Technician / Helper | Not Specified | [Apply](https://careers-fsg.icims.com/jobs/2545/entry-level-data-technician---helper/job) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506365) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506362) | 2026-08-21 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Miami, FL - Diablo Tools - DAT | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144627759) | 2026-08-21 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - New York City - Diablo Tools - DAT | Queens, NY, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000144626539) | 2026-08-21 |
 | Barclays | Banking Associate Graduate Program 2027 San Francisco | Four Embarcadero Center | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Associate-Graduate-Program-2027-San-Francisco_JR-0000123462-1) | 2026-08-20 |
 | Freeform | Electrical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) | 2026-08-20 |
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003) | 2026-08-20 |
@@ -1684,8 +1685,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) | 2026-06-13 |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) | 2026-06-13 |
 | Atria Group | Entry Level ASP.NET programmer | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211) | 2026-06-13 |
-| Atria Group | User Interface Designer (Entry level) | Dallas, TX, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/599787) | 2026-06-13 |
-| Atria Group | Web Tester (Entry level) | Dallas, TX, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/599803) | 2026-06-13 |
 | BCforward | Entry Level Buyer | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/93825141) | 2026-06-13 |
 | BCforward | Entry Level Buyer Supply | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/98285218) | 2026-06-13 |
 | BCforward | Entry Level Buyer/Supply Chain | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/93126350) | 2026-06-13 |
