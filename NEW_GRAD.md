@@ -1258,7 +1258,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | True Anomaly | Software Engineer I, Perception (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) | 2026-08-26 |
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Co Or Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) | 2026-08-26 |
 | Vanguard - vanguard_external | Entry Level Application Engineer - Dallas - 2027 Start Date | Dallas / Ft. Worth, TX | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/Entry-Level-Application-Engineer---Dallas---2027-Start-Date_181853) | 2026-08-26 |
-| Zip | Software Engineer, New Grad (2027 Start) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792) | 2026-08-26 |
 | Applied Intuition | Build & Release Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
 | Applied Intuition | UX Test Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
