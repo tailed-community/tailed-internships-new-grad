@@ -14,6 +14,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DH Pace | Purchasing Admin - Entry Level | Dallas Tx | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5451117008) | 2026-10-13 |
 | Jabil | Facilities Maintenance Technician (Entry Level) | USA Claremont Colonel Ashley Lane | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/USA---Claremont---Colonel-Ashley-Lane/Facilities-Maintenance-Technician_J2461311) | 2026-10-13 |
 | Louisiana State University (LSU) | Accounting Analyst 1 (Entry Level) | 0204 Thomas D. Boyd Hall | [Apply](https://lsu.wd1.myworkdayjobs.com/LSU/job/0204-Thomas-D-Boyd-Hall/Accounting-Analyst-1--Entry-Level-_R00121453) | 2026-10-13 |
+| RoviSys | Entry Level Engineer/Developer - 2027 | Dublin, OH, United States | [Apply](https://careers-rovisys.icims.com/jobs/2187/entry-level-engineer-developer---2027/job) | 2026-10-13 |
 | Solar Turbines | Entry Level Buyer | Baja California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/Tijuana-Baja-California/Entry-Level-Buyer_R0000398134) | 2026-10-13 |
 | The Boeing Company | Entry Level ASIC/FPGA Design Verification Engineer | USA El Segundo, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-2) | 2026-10-13 |
 | The Boeing Company | Entry Level Design and Analysis Engineer (Support Equipt Design - Elect) | USA Saint Charles, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Entry-Level-Design-and-Analysis-Engineer--Support-Equipt-Design---Elect-_JR2026518227-1) | 2026-10-13 |
@@ -934,7 +935,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Civil Project Engineer I | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148306780) | 2026-09-09 |
 | Timmons Group | New Graduate Project Engineer I | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148313332) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
-| Vanasse Hangen Brustlin (VHB) | Entry Level Site Civil Engineer - 2027 Graduate | Tampa, FL, United States | [Apply](https://careers-vhb.icims.com/jobs/6301/entry-level-site-civil-engineer---2027-graduate/job) | 2026-09-09 |
 | Verkada | Technical Support Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3023 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/832fa425-7a17-456f-ac27-c5354cbe66b9) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3024 | Taylor, MI | [Apply](https://jobs.lever.co/wadetrim/67ff8eaf-b0ba-4df2-a322-5fdf649b2995) | 2026-09-09 |
