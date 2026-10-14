@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Adobe | 2027 University Graduate - Enterprise Architecture Analyst | Austin | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2027-University-Graduate---Enterprise-Architecture-Analyst_R172328) | 2026-10-14 |
+| AECOM | Electrical, Instrumentation & Controls New Grad/EIT | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155357159) | 2026-10-14 |
 | Anduril | 2027 Early Career Associate Product Designer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | 2026-10-14 |
 | AutoNation | Entry Level Technician - Honda Valencia | Autonation Honda Valencia | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Honda-Valencia/Entry-Level-Technician---Honda-Valencia_JR2026150753) | 2026-10-14 |
 | Beyond New Horizons | Early Career Technology Development Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25285/early-career-technology-development-engineer/job) | 2026-10-14 |
@@ -24,10 +25,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eight Sleep | New Grad General Application (Milan) | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/e444f9db-008e-4a10-8a6a-ca911fa4e72b) | 2026-10-14 |
 | Eight Sleep | People Operations, (New Grad) Milan | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/f4e3002d-cbb5-41ad-994c-cbe3daa8b346) | 2026-10-14 |
 | Eight Sleep | Product Designer, (New Grad) Milan | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/60b67d27-7399-4860-9dcf-9f0b7e4b93f7) | 2026-10-14 |
+| Eurofins | Entry Level Laboratory Data Review | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000155365544) | 2026-10-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate  Surgical Transplant | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate--Surgical-Transplant_R186648) | 2026-10-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate Infusion/Oncology | Intermountain Health Riverton Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Nurse-New-Graduate-Infusion-Oncology_R186697) | 2026-10-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate Medical Endocrine | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Medical-Endocrine_R186641-1) | 2026-10-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate Medical Oncology | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Medical-Oncology_R186696) | 2026-10-14 |
+| Jobs for Humanity | Communications Assistant – Entry Level | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000155343986) | 2026-10-14 |
 | LabCorp | Clinical Lab Technician - Entry level, will train! | Calabasas Hills CA | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Calabasas-Hills-CA/Clinical-Lab-Technician---Entry-level--will-train-_2634320) | 2026-10-14 |
 | Palo Alto Networks | Software Engineer – Graduate Program (Bootcamp) | Office Israel Petach Tikva | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Petach-Tikva/Software-Engineer---Graduate-Program--Bootcamp-_JR-023624) | 2026-10-14 |
 | PDI Technologies | Product Owner I (Entry-Level) | Alpharetta, GA / United States Remote | [Apply](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04) | 2026-10-14 |
@@ -682,7 +685,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wells Fargo | Commercial Real Estate Early Career Program | City Of London | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CITY-OF-LONDON/Commercial-Real-Estate-Early-Career-Program_R-577361) | 2026-09-23 |
 | WSP | Early Career Substation Electrical Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95491) | 2026-09-23 |
 | WSP | Entry Level Substation Engineer | Syracuse, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96029) | 2026-09-23 |
-| AECOM | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150784950) | 2026-09-22 |
 | AECOM | Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA | Chelmsford, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151062739) | 2026-09-22 |
 | Air Products | Graduate Program - Supply Chain Analyst | Belgium | [Apply](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Brussels-Belgium/Graduate-Program---Supply-Chain-Analyst_JR-2026-22166) | 2026-09-22 |
 | AutoNation | Automotive Entry Level Technician 10am -7pm | Autonation Ford Lincoln Orange Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Lincoln-Orange-Park/Automotive-Senior-Technician_JR2026147269) | 2026-09-22 |
@@ -702,7 +704,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Thermo Fisher Scientific | Entry Level Chemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Chemist_R-01369116) | 2026-09-22 |
 | Wade Trim | Entry Level 3D Drafter - #3059 | Buford, GA / Atlanta, GA | [Apply](https://jobs.lever.co/wadetrim/d7551f38-de8d-4d55-89e9-bc54d17cd435) | 2026-09-22 |
 | Weatherford | Field Engineer - NextGen Graduate Program | Italy | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104665) | 2026-09-22 |
-| AECOM | Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150759509) | 2026-09-21 |
 | Arcadis | Entry Level Water Engineer | Middletown, CT, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44559) | 2026-09-21 |
 | Arcadis | Entry Level Water Engineer | East Greenwich, RI, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44561) | 2026-09-21 |
 | Ciena | Mixed Signal IP Integration Engineer – New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688) | 2026-09-21 |
@@ -1052,7 +1053,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, Canada / New York, NY / San Francisco, Canada / Sunnyvale, Canada / Seattle, WA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 2026-09-04 |
 | DXC Technology | IT Engineer (Japanese Speaker) - Entry level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/IT-Engineer--Japanese-Speaker----Entry-level_51588497) | 2026-09-04 |
 | Egis Group | Entry Level Engineer | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000147539499) | 2026-09-04 |
-| Eurofins | Entry Level Lab Accessioner | Fairfield, OH, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147545309) | 2026-09-04 |
 | Fresenius Medical Care | New Graduate Nurse- RN | Lima, OH, United States / Kenwood, OH, United States / Cincinnati, OH, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lima-OH-USA/New-Graduate-Burse--RN_R0268740) | 2026-09-04 |
 | Fresenius Medical Care | New Graduate Nurse- RN | Elk Grove Village, IL / Blue Island, IL, United States / Aurora, IL, United States / East Chicago, IN, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Elk-Grove-Village-IL/New-Graduate-Nurse--RN_R0268733) | 2026-09-04 |
 | Intertek | Entry Level Field Testing Technician | Brentwood, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15740) | 2026-09-04 |
