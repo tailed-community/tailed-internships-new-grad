@@ -22,6 +22,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | Registered Nurse New Graduate Medical Oncology | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Medical-Oncology_R186696) | 2026-10-14 |
 | LabCorp | Clinical Lab Technician - Entry level, will train! | Calabasas Hills CA | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Calabasas-Hills-CA/Clinical-Lab-Technician---Entry-level--will-train-_2634320) | 2026-10-14 |
 | Palo Alto Networks | Software Engineer – Graduate Program (Bootcamp) | Office Israel Petach Tikva | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Israel---Petach-Tikva/Software-Engineer---Graduate-Program--Bootcamp-_JR-023624) | 2026-10-14 |
+| PDI Technologies | Product Owner I (Entry-Level) | Alpharetta, GA / United States Remote | [Apply](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04) | 2026-10-14 |
 | RTX (en-US) | Program Cost Controls Analyst (Entry level) *HYBRID* | US-CA-El Segundo-E04 ~ 2006 E El Segundo Blvd ~ Bldg E04 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Program-Cost-Controls-Analyst--Entry-level---HYBRID-_01881763-1) | 2026-10-14 |
 | Salesforce | Commercial Graduate Program - Sales Path - Danish Speaking Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Danish-Market_JR362645-1) | 2026-10-14 |
 | Salesforce | Commercial Graduate Program - Sales Path - Dutch Speaking Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---BNL-Dutch-Speaking-Market_JR363186-1) | 2026-10-14 |
@@ -632,6 +633,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mastercard - CorporateCareers | Associate Consultant (Marketing), Launch Graduate Program 2027 – Athens, Greece | Greece | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1) | 2026-09-24 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5433174008) | 2026-09-24 |
 | Open Farm Pet | Financial Analyst – New Graduate | Toronto, ON | [Apply](https://job-boards.greenhouse.io/openfarminc/jobs/5433068008) | 2026-09-24 |
+| Palantir | Software Engineer, New Grad | Singapore | [Apply](https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e) | 2026-09-24 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Port St. Lucie, FL | Port St. Lucie | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Port-St-Lucie/Field-Service-Technician--Entry-Level----Port-St-Lucie--FL_R000159791) | 2026-09-24 |
 | Red Bull | Red Bull Graduate Program - Trade Marketing (Organized Trade) | Egypt | [Apply](https://jobs.smartrecruiters.com/RedBull/744000151583418) | 2026-09-24 |
 | RELX | Tech Accelarate Graduate Program | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1) | 2026-09-24 |
@@ -1165,6 +1167,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Multnomah County | Corrections Deputy - Entry Level and Lateral | Portland, OR | [Apply](https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/Corrections-Deputy---Entry-Level-and-Lateral_R-20073) | 2026-08-31 |
 | NXP Semiconductors | Entry Level NVM Reliability Lab Engineer | Office) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302) | 2026-08-31 |
 | Olsson | Entry-Level Bridge CAD Technician | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5410766008) | 2026-08-31 |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6) | 2026-08-31 |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Honolulu, HI | [Apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) | 2026-08-31 |
 | Peraton | Entry-Level Systems Engineer | Fort Meade, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/170126/entry-level-systems-engineer/job) | 2026-08-31 |
 | Realm | Software Engineer - New Grad | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | 2026-08-31 |
 | RELX | Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January) | Alpharetta, GA | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1) | 2026-08-31 |
@@ -1323,7 +1327,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Software (Application Software) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | 2026-08-20 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000144319119) | 2026-08-20 |
 | Triumph | Business Development Associate - Entry Level Position | Dallas, TX | [Apply](https://tbkbank.wd1.myworkdayjobs.com/tfin/job/Dallas-TX/Business-Development-Associate---Entry-Level-Position_REQ-5057) | 2026-08-20 |
-| Woodard Curran | Entry-level Wastewater Engineer | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/b7c0b062-141c-4c17-9fc7-b70387a195a6) | 2026-08-20 |
 | Applied Intuition | Hardware Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c) | 2026-08-19 |
 | BGE | Raleigh - Land/Site Development, New Grad | Raleigh | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5393908008) | 2026-08-19 |
 | BGE - bgeinc | Raleigh - Land/Site Development, New Grad | Raleigh | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5393907008) | 2026-08-19 |
@@ -1423,6 +1426,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LPL Financial Holdings - university | New Grad 2027 - Project Management and Business Analyst | Fort Mill, SC / Austin, TX | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-Mill-SC/New-Grad---2027---Business-Analyst-and-Project-Management_R-052835) | 2026-08-11 |
 | LPL Financial Holdings - university | New Grad 2027 - Software Engineer | Fort Mill / Charlotte / Austin, TX | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475) | 2026-08-11 |
 | Marsh | Insurance Agency Associate - Early Career Program | Chesterfield Maryville / Overland Park College | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chesterfield---Maryville/Insurance-Agency-Associate---Early-Career-Program_R_359204) | 2026-08-11 |
+| Palantir | Deployment Strategist, New Grad - Commercial | South Korea | [Apply](https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8) | 2026-08-11 |
+| Palantir | Forward Deployed Software Engineer, New Grad - Commercial | South Korea | [Apply](https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253) | 2026-08-11 |
 | Solar Turbines | 2027 Entry Level Industrial Engineer | Georgia | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/Fairburn-Georgia/XMLNAME-2027-Entry-Level-Industrial-Engineer_R0000378997) | 2026-08-11 |
 | Atoms | Software Engineer - New Grad | Multiple Locations Available | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002) | 2026-08-10 |
 | Cleveland Clinic | New Grad RN Resident - Stepdown | Union Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Union-Hospital/New-Grad-RN-Resident---Stepdown_347771) | 2026-08-10 |
@@ -1476,6 +1481,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BMO (External) | Software Developer ( Early Career )-15 | Irving, TX, United States | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450) | 2026-08-01 |
 | Fresenius Medical Care | New Graduate Nurse | Fitchburg, WI, United States / Milwaukee, WI, United States / Neenah, WI, United States / Appleton, WI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Fitchburg-WI-USA/New-Graduate-Nurse_R0264474) | 2026-08-01 |
 | NewsBreak | Software Engineer, ML Infra (Junior & New Grad) | California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) | 2026-08-01 |
+| Palantir | Product Designer, New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | 2026-08-01 |
+| Palantir | Product Designer, New Grad | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7) | 2026-08-01 |
+| Palantir | Product Designer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65) | 2026-08-01 |
+| Palantir | Product Designer, New Grad - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb) | 2026-08-01 |
+| Palantir | Product Designer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | 2026-08-01 |
 | Pennsylvania State University | Graduate Program Support Coordinator | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Program-Support-Coordinator_REQ_0000080035-2) | 2026-08-01 |
 | Stantec | Civil / Environmental EIT (Entry Level) | Richmond, VA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007018) | 2026-08-01 |
 | Allstate Insurance Company | Early Career Trial Attorney (Hybrid - Bronx, Westchester & Putnam County, New York) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---NY-Remote/Early-Career-Trial-Attorney--Hybrid---Bronx--Westchester---Putnam-County--New-York-_R33289) | 2026-07-31 |
@@ -1486,6 +1496,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | LPL Financial Holdings - university | New Grad Summer 2027 - Financial Service Professional (Fort Mill) | Fort Mill / Charlotte | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-Summer-2027---Financial-Service-Professional--Fort-Mill-_R-052598) | 2026-07-31 |
 | Manhattan Associates | Software Engineer - Early Career | Atlanta, GA | [Apply](https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977) | 2026-07-31 |
 | Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | Chicago, IL, United States | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) | 2026-07-31 |
+| Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | 2026-07-31 |
+| Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | 2026-07-31 |
+| Palantir | Software Engineer, New Grad | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e) | 2026-07-31 |
+| Palantir | Software Engineer, New Grad - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b) | 2026-07-31 |
 | RoviSys | Entry Level Engineer/Developer | Pr-San Juan | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job) | 2026-07-31 |
 | SCS Engineers | Entry-level Civil or Environmental Engineer - Solid Waste | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3878/entry-level-civil-or-environmental-engineer---solid-waste/job) | 2026-07-31 |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
@@ -1511,6 +1525,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Rochester Regional Health | New Graduate Primary Therapist | Outpatient Mental Health Rmhc / Outpatient Mental Health Genesee Mental Health Center / Outpatient Mental Health Evelyn Brandon Health Center / Outpatient Mental Health Pinewild | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Outpatient-Mental-Health---RMHC/New-Graduate-Primary-Therapist_REQ_238727) | 2026-07-27 |
 | Becton Dickinson | Electrical Service Engineer (Entry Level) Cedar Rapids IA | USA Iowa Cedar Rapids | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Iowa---Cedar-Rapids/Medical-Device-Field-Service-Technician---Entry-Level--Cedar-Rapids-IA_R-551149-1) | 2026-07-25 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Norwalk, CT) | Connecticut | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Connecticut/Neurophysiologist---Norwalk--CT_JR106290-1) | 2026-07-25 |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 2026-07-25 |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) | 2026-07-25 |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | 2026-07-25 |
 | Salesforce | Business Development Associate, Early Career | Illinois Chicago | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Development-Associate_JR347430-1) | 2026-07-25 |
 | Salesforce - futureforce_newgradroles | Business Development Associate, Early Career | Illinois Chicago | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/Illinois---Chicago/Business-Development-Associate_JR347430) | 2026-07-25 |
 | Beyond New Horizons | Early Career Mechanical Systems Engineer (Multiple Openings) | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/24504/early-career-mechanical-systems-engineer-%28multiple-openings%29/job) | 2026-07-24 |
@@ -1603,11 +1620,24 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Northrop Grumman | 2026 Entry Level Engineering Opportunities | United States-Virginia-Falls Church | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Entry-Level-Engineering-Opportunities_R10238148) | 2026-06-30 |
 | DXC Technology | Accounts Payable Specialist (Mandarin Speaker) - Entry Level | Mys Petaling Jaya | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Accounts-Payable-Specialist--Mandarin-Speaker-_51583004) | 2026-06-29 |
 | Medical University of South Carolina | Registered Nurse I (Fall 2026 New Grad Blitz) - Orangeburg | Orangeburg | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Orangeburg/Registered-Nurse-I--Fall-2026-New-Grad-Blitz----Orangeburg_R-0000064075) | 2026-06-29 |
+| Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 2026-06-29 |
+| Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad | Denver, CO | [Apply](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Defense | New York, NY | [Apply](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Defense | D.c. | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Defense | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, Canada | [Apply](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Production Infrastructure | D.c. | [Apply](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | [Apply](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) | 2026-06-29 |
+| Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY | [Apply](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | 2026-06-29 |
 | Applied Materials | Applied Early Career - Installation Team Field Service Engineer | Boise, ID / Chandler, AZ / Phoenix, AZ | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Applied-Early-Career---Installation-Team-Field-Service-Engineer_R2622705) | 2026-06-27 |
 | Barr | Mechanical CADD Technician – Entry Level – 2+ Years (Hybrid) | Bismarck, ND | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Bismarck-ND/Mechanical-CADD-Technician---Entry-Level---2--Years--Hybrid-_R-102178) | 2026-06-27 |
 | Critical Mass | Project Coordinator (Entry level - Digital) | Costa Rica | [Apply](https://job-boards.greenhouse.io/criticalmass/jobs/8003895) | 2026-06-27 |
 | Highmark Health | RN E9 Inpatient Post-Surgery (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-E9-Inpatient-Post-Surgery--New-Grad---West-Penn-Hospital_J281683-1) | 2026-06-27 |
 | Highmark Health | RN Inpatient Rehab (New Grad), West Penn Hospital | Pittsburgh Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15224-West-Penn-4800-Friendship-Ave/RN-Inpatient-Rehab--New-Grad---West-Penn-Hospital_J281693) | 2026-06-27 |
+| Palantir | Privacy & Civil Liberties Engineer - New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | 2026-06-27 |
 | AIG | Early Career Trade Credit | Mexico City | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Mexico-City/Early-Career-Trade-Credit_JR26EC327) | 2026-06-26 |
 | Anduril | Mission Engineer, Air Dominance & Strike, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) | 2026-06-26 |
 | KCI Technologies | Entry Level SUE Technician | Syracuse, NY, United States | [Apply](https://careers-kci.icims.com/jobs/7889/entry-level-sue-technician/job) | 2026-06-26 |
@@ -1681,7 +1711,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning | Washington, United States | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | 2026-06-17 |
 | Texas Instruments | Early Career: IT Infrastructure - Storage Engineer | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011067) | 2026-06-17 |
 | The Children's Mercy Hospital | Respiratory Therapist - New Graduate Residency Program - Night Shift | Not Specified | [Apply](https://jobs-childrensmercykc.icims.com/jobs/32417/respiratory-therapist/job) | 2026-06-17 |
-| TSMG | Entry-Level Browser Tester | Kraków | [Apply](https://jobs.lever.co/tsmg/ac29e7f3-834b-4ac5-a7f5-5f57bde663e9) | 2026-06-17 |
 | US Tech Solutions | Administrative Assistant/Entry Level Business Analyst | Berkeley Heights, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/86114043) | 2026-06-17 |
 | US Tech Solutions | Fund Accountant (Entry Level) | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747679) | 2026-06-17 |
 | US Tech Solutions | Operations Specialist (Entry Level) | Jersey City, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747718) | 2026-06-17 |
@@ -1692,6 +1721,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hitachi | Field Service Engineer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Field-Service-Engineer--2027-new-graduate-hiring-_R0125579) | 2026-06-15 |
 | Hitachi | Marketing & Sales (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Marketing---Sales_R0125588) | 2026-06-15 |
 | Hitachi | Product Engineer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Product-Engineer_R0125578) | 2026-06-15 |
+| Palantir | Deployment Strategist, New Grad - Intel, US Government | D.c. | [Apply](https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299) | 2026-06-15 |
+| Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | D.c. | [Apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) | 2026-06-15 |
+| Palantir | Forward Deployed Software Engineer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) | 2026-06-15 |
+| Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-06-15 |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) | 2026-06-13 |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) | 2026-06-13 |
 | Atria Group | Entry Level ASP.NET programmer | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211) | 2026-06-13 |
