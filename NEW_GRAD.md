@@ -8,9 +8,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | Registered Nurse - New graduate - Med/Surg Ortho | Aurora Medical Center Grafton 975 Port Washington Rd | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Grafton---975-Port-Washington-Rd/Registered-Nurse---New-graduate---Med-Surg-Ortho_R281109) | 2026-10-15 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155769859) | 2026-10-15 |
+| AECOM | Entry-Level Civil/Highway Engineer | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155789697) | 2026-10-15 |
+| AECOM | Entry-Level Civil/Highway Engineer | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155790360) | 2026-10-15 |
 | Amentum | Structural Analyst, Early Career (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Structural-Analyst--Early-Career--ES2-_R0173076) | 2026-10-15 |
 | AstraZeneca | Asia AZpire Graduate Program - Thailand (Test) | Thailand Bangkok | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Thailand---Bangkok/Asia-AZpire-Graduate-Program---Thailand--Test-_R-261907) | 2026-10-15 |
 | AutoNation | Entry Level Technician-AutoNation CDJR North Richland Hills-$17.00 | Autonation Cdjr North Richland Hills | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-CDJR-North-Richland-Hills/Entry-Level-Technician-AutoNation-CDJR-North-Richland-Hills--1700_JR2026150750) | 2026-10-15 |
+| Avery Dennison | Sales Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000155608659) | 2026-10-15 |
 | Banner Health | Registered Nurse RN New Graduate Neuro Trauma PCU | Bumc Phoenix (1111 E Mcdowell Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Registered-Nurse-RN-New-Graduate-Neuro-Trauma-PCU_R4457685) | 2026-10-15 |
 | Barr | Archaeologist – Entry Level (Hybrid) | Durango, CO / Farmington, NM | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Durango-CO/Archaeologist---Entry-Level--Hybrid-_R-102369) | 2026-10-15 |
 | CAI | Entry Level Toll Equipment Technician | Fl-Client-State | [Apply](https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Entry-Level-Toll-Equipment-Technician_R8769) | 2026-10-15 |
@@ -672,12 +676,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Stryker | R&D Software Engineering Graduate Program - September 2027 | Ireland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/R-D-Software-Engineering-Graduate-Program---September-2027_R573070) | 2026-09-24 |
 | USAA | Life, Annuity, and Service Specialist - Entry Level | Phoenix Campus (main) | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Phoenix-Campus-Main/Life--Annuity--and-Service-Specialist---Entry-Level_R0121226) | 2026-09-24 |
 | Viavi Solutions | Rotational Early Career Account Executive | Az USA | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Rotational-Early-Career-Account-Executive_260005155) | 2026-09-24 |
-| AECOM | Entry Level Environmental Scientists - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151115920) | 2026-09-23 |
-| AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151151559) | 2026-09-23 |
-| AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151151499) | 2026-09-23 |
-| AECOM | Entry-Level Environmental Engineers - Networking Event with AECOM – Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151105059) | 2026-09-23 |
-| AECOM | Entry-Level Environmental Scientist - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151115602) | 2026-09-23 |
-| AECOM | Entry-Level Estimators - Networking Event with AECOM – New York | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151352059) | 2026-09-23 |
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Entry-Level-Phlebotomist_RC91495) | 2026-09-23 |
 | AutoNation | Automotive Entry Level Technician | Autonation Toyota Pinellas Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Pinellas-Park/Automotive-Entry-Level-Technician_JR2026148881) | 2026-09-23 |
 | AutoNation | Entry Level Technician | Autonation Subaru Hilton Head | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Subaru-Hilton-Head/Entry-Level-Technician_JR2026149323) | 2026-09-23 |
@@ -698,7 +696,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wells Fargo | Commercial Real Estate Early Career Program | City Of London | [Apply](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CITY-OF-LONDON/Commercial-Real-Estate-Early-Career-Program_R-577361) | 2026-09-23 |
 | WSP | Early Career Substation Electrical Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95491) | 2026-09-23 |
 | WSP | Entry Level Substation Engineer | Syracuse, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96029) | 2026-09-23 |
-| AECOM | Entry-Level Water Resources Engineer – Remediation - Networking Event with AECOM – Boston, MA | Chelmsford, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151062739) | 2026-09-22 |
 | Air Products | Graduate Program - Supply Chain Analyst | Belgium | [Apply](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Brussels-Belgium/Graduate-Program---Supply-Chain-Analyst_JR-2026-22166) | 2026-09-22 |
 | AutoNation | Automotive Entry Level Technician 10am -7pm | Autonation Ford Lincoln Orange Park | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Lincoln-Orange-Park/Automotive-Senior-Technician_JR2026147269) | 2026-09-22 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg_343543) | 2026-09-22 |
