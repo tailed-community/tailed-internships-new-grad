@@ -760452,48 +760452,6 @@
     "date_archived": "2026-10-14"
   },
   {
-    "id": "lever-extreme-networks-c3017f47-8150-44ae-8522-71fd28657e25",
-    "company": "Extreme Networks",
-    "title": "Intern - Lab/TAC  Network Engineer",
-    "location": "North Carolina, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25",
-    "date_posted": "2026-04-07",
-    "date_added": "2026-06-02",
-    "active": false,
-    "date_archived": "2026-10-14"
-  },
-  {
-    "id": "lever-extreme-networks-5cb8361e-6415-4fcd-a51c-73c73c7049db",
-    "company": "Extreme Networks",
-    "title": "Multimedia Project Management - Intern",
-    "location": "Thornhill, Canada",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/extremenetworks/5cb8361e-6415-4fcd-a51c-73c73c7049db",
-    "date_posted": "2026-09-28",
-    "date_added": "2026-09-28",
-    "active": false,
-    "date_archived": "2026-10-14"
-  },
-  {
-    "id": "lever-tsmg-ac29e7f3-834b-4ac5-a7f5-5f57bde663e9",
-    "company": "TSMG",
-    "title": "Entry-Level Browser Tester",
-    "location": "Kraków",
-    "type": "new_grad",
-    "season": "Not specified",
-    "source": "lever",
-    "url": "https://jobs.lever.co/tsmg/ac29e7f3-834b-4ac5-a7f5-5f57bde663e9",
-    "date_posted": "2025-03-13",
-    "date_added": "2026-06-17",
-    "active": false,
-    "date_archived": "2026-10-14"
-  },
-  {
     "id": "lever-woodard-curran-b7c0b062-141c-4c17-9fc7-b70387a195a6",
     "company": "Woodard Curran",
     "title": "Entry-level Wastewater Engineer",
@@ -771592,6 +771550,20 @@
     "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-or-Working-Student-in-3D-Computer-Graphics--f-m-x-_JR_1021055",
     "date_posted": "Posted 30+ Days Ago",
     "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-10-15"
+  },
+  {
+    "id": "lever-spawglass-fa7b574c-35b8-44ad-b184-a60cfe540337",
+    "company": "SpawGlass",
+    "title": "Accounting Intern",
+    "location": "Selma, TX",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/spawglass/fa7b574c-35b8-44ad-b184-a60cfe540337",
+    "date_posted": "2025-03-17",
+    "date_added": "2026-09-14",
     "active": false,
     "date_archived": "2026-10-15"
   }

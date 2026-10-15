@@ -34,6 +34,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry Level Software Engineer–Developer (Development) | USA Tinker Afb, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577) | 2026-10-15 |
 | The Boeing Company - external_subsidiary | Entry-Level Flight Simulation Software Engineer | USA Berkeley, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155) | 2026-10-15 |
 | Tutor Perini Corporation | Entry-Level Field Engineer - Heavy Civil Construction | Not Specified | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/White-Plains-New-York/Entry-Level-Field-Engineer---Heavy-Civil-Construction_JR103221-1) | 2026-10-15 |
+| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Netherlands Amsterdam | [Apply](https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679) | 2026-10-15 |
+| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Italy Milan | [Apply](https://jobs.lever.co/veeva/d2af3300-1eb4-47ab-a198-5031e6f366ba) | 2026-10-15 |
 | Adobe | 2027 University Graduate - Enterprise Architecture Analyst | Austin | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2027-University-Graduate---Enterprise-Architecture-Analyst_R172328) | 2026-10-14 |
 | AECOM | Electrical, Instrumentation & Controls New Grad/EIT | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155357159) | 2026-10-14 |
 | Anduril | 2027 Early Career Associate Product Designer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | 2026-10-14 |
@@ -1713,11 +1715,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sentara Health | Registered Nurse - New Grads | Elizabeth City, NC | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Elizabeth-City-NC/Registered-Nurse---New-Grads_JR-98101) | 2026-06-17 |
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning | Washington, United States | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | 2026-06-17 |
 | The Children's Mercy Hospital | Respiratory Therapist - New Graduate Residency Program - Night Shift | Not Specified | [Apply](https://jobs-childrensmercykc.icims.com/jobs/32417/respiratory-therapist/job) | 2026-06-17 |
+| TSMG | Entry-Level Browser Tester | Kraków | [Apply](https://jobs.lever.co/tsmg/ac29e7f3-834b-4ac5-a7f5-5f57bde663e9) | 2026-06-17 |
 | US Tech Solutions | Administrative Assistant/Entry Level Business Analyst | Berkeley Heights, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/86114043) | 2026-06-17 |
 | US Tech Solutions | Fund Accountant (Entry Level) | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747679) | 2026-06-17 |
 | US Tech Solutions | Operations Specialist (Entry Level) | Jersey City, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747718) | 2026-06-17 |
 | Weld County | Detention Deputy - Entry Level | Greeley, CO | [Apply](https://weldgov.wd5.myworkdayjobs.com/WeldCountyCareers/job/Greeley-CO/Detention-Deputy---Entry-Level_JR100596) | 2026-06-17 |
-| Woodard Curran | Entry-level Health & Safety Coordinator (Relocation Assistance) | Butte, MT | [Apply](https://jobs.lever.co/woodardcurran/1fbd57ad-148c-4ade-ade2-72fe9512e4d2) | 2026-06-17 |
+| Woodard Curran | Entry-level Health & Safety Coordinator | Butte, MT | [Apply](https://jobs.lever.co/woodardcurran/1fbd57ad-148c-4ade-ade2-72fe9512e4d2) | 2026-06-17 |
 | WeRide | New Grads 2026 - Algorithm Software Engineer (Beijing/Guangzhou/Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/d31d6d11-be09-4469-a361-2f31de92eafa) | 2026-06-16 |
 | WeRide | New Grads 2026 - General Software Engineer (Beijing/Guangzhou/Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/012d6448-fa8c-4a68-8767-d99f4d1b9bea) | 2026-06-16 |
 | Hitachi | Field Service Engineer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Field-Service-Engineer--2027-new-graduate-hiring-_R0125579) | 2026-06-15 |
