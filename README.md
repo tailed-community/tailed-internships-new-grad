@@ -2839,7 +2839,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Corewell Health | Pharmacy Intern I | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Dearborn-MI/Pharmacy-Intern-I_R221663) | 2026-10-12 |
 | Create Music Group | A&R Discovery Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/93350021-a388-43ff-839d-3395bc1b4eff) | 2026-10-12 |
 | Create Music Group | Copyright Specialist Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/67cbd61a-866e-4354-a735-0d549411a72c) | 2026-10-12 |
-| Create Music Group | Digital Rights Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/93abb259-0358-4ca7-9ec4-00e6c034f1c0) | 2026-10-12 |
 | Create Music Group | Music Marketing & Operations Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/44b6f41c-96c7-4909-a005-0914505aeba0) | 2026-10-12 |
 | Create Music Group | Social Media & Fan Engagement Intern | United States Remote | [Apply](https://ats.rippling.com/createmusicgroup/jobs/4f004f27-09b7-4c84-af3a-bea0ea7ed1cd) | 2026-10-12 |
 | Cummins | Placement Student - Development Engineer | Gwent, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439913) | 2026-10-12 |

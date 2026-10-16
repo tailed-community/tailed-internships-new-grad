@@ -790662,5 +790662,19 @@
     "date_added": "2026-10-13",
     "active": false,
     "date_archived": "2026-10-16"
+  },
+  {
+    "id": "rippling-create-music-group-93abb259-0358-4ca7-9ec4-00e6c034f1c0",
+    "company": "Create Music Group",
+    "title": "Digital Rights Intern",
+    "location": "Los Angeles, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/createmusicgroup/jobs/93abb259-0358-4ca7-9ec4-00e6c034f1c0",
+    "date_posted": null,
+    "date_added": "2026-10-12",
+    "active": false,
+    "date_archived": "2026-10-16"
   }
 ]
