@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Barrios | Space Operations Computing - Software Engineer (New Grad) | Houston, TX, United States | [Apply](https://careers-barrios.icims.com/jobs/2923/space-operations-computing---software-engineer-%28new-grad%29/job) | 2026-10-16 |
 | CACI | Document Management Technician (Entry Level Legal Support) | Washington, DC, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Document-Management-Technician--Entry-Level-Legal-Support-_333652) | 2026-10-16 |
 | CACI | Entry Level Background Investigator (Onsite) | Tampa, FL, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Entry-Level-Background-Investigator--Onsite-_333608) | 2026-10-16 |
 | Cenovus Energy | New Grad, Power Engineering, Lloydminster (June 2027) | CA-AB-Lloydminster | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Lloydminster/New-Grad--Power-Engineering--Lloydminster--June-2027-_R-411218) | 2026-10-16 |
@@ -21,6 +22,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fresenius Medical Care | New Graduate Nurse | Suffolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Suffolk-VA/New-Graduate-Nurse_R0270269) | 2026-10-16 |
 | GE Vernova | Firmware Engineer - Early Career | Roanoke US Va 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-1) | 2026-10-16 |
 | GE Vernova - vernova_externalsite | Firmware Engineer - Early Career | Roanoke US Va 3 | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-2) | 2026-10-16 |
+| General Dynamics | Electrical Engineer - Facilities (Entry Level) | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/20707/electrical-engineer---facilities-%28entry-level%29/job) | 2026-10-16 |
+| General Dynamics | Inside Machinist - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21117/inside-machinist---entry-level-%26-semi-skilled/job) | 2026-10-16 |
 | Guidehouse | Admissions Coordinator \| UAB St. Vincent's Chilton \| Part-time, Onsite, Entry Level, Various shifts | Clanton | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Clanton/Admissions-Coordinator---UAB-St-Vincent-s-Chilton---Part-time--Onsite--Entry-Level--Various-shifts_45572) | 2026-10-16 |
 | Hewlett Packard Enterprise | Graduate Program - Sales | Turkey | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Istanbul-stanbul-Turkey/Graduate-Program---Sales_1215156) | 2026-10-16 |
 | HNTB | New Grad Civil Engineer I | 2 Locations | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Miami-FL/New-Grad-Civil-Engineer-I_R-32058-1) | 2026-10-16 |
@@ -38,6 +41,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Infrastructure | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) | 2026-10-16 |
 | The Boeing Company | Entry-Level General Maintenance Specialist | USA Hertford, NC | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hertford-NC/Entry-Level-General-Maintenance-Specialist_JR2026521340) | 2026-10-16 |
 | The Boeing Company - external_subsidiary | Entry-Level General Maintenance Specialist | USA Hertford, NC | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hertford-NC/Entry-Level-General-Maintenance-Specialist_JR2026521340-2) | 2026-10-16 |
+| Tighe & Bond | Entry Level Landscape Designer | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1905/entry-level-landscape-designer/job) | 2026-10-16 |
 | Together AI | Hardware Security Engineer, New Grad (2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | 2026-10-16 |
 | University of Texas - Austin | Graduate Program Coordinator II | Ut Main Campus | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Graduate-Program-Coordinator-II_R_00049429) | 2026-10-16 |
 | WVUMedicine | New Grad RN FT PACU | Wheeling Hospital (whh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Wheeling-Hospital-WHH/RN-FT-PACU_JR26-41474) | 2026-10-16 |
