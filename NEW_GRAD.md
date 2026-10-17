@@ -50,7 +50,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155892100) | 2026-10-16 |
 | AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155827109) | 2026-10-16 |
 | Barrios | Space Operations Computing - Software Engineer (New Grad) | Houston, TX, United States | [Apply](https://careers-barrios.icims.com/jobs/2923/space-operations-computing---software-engineer-%28new-grad%29/job) | 2026-10-16 |
-| BCforward | Entry Level Buyer/Supply Chain | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/90635577) | 2026-10-16 |
 | CACI | Document Management Technician (Entry Level Legal Support) | Washington, DC, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Document-Management-Technician--Entry-Level-Legal-Support-_333652) | 2026-10-16 |
 | CACI | Entry Level Background Investigator (Onsite) | Tampa, FL, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Entry-Level-Background-Investigator--Onsite-_333608) | 2026-10-16 |
 | Cenovus Energy | New Grad, Power Engineering, Lloydminster (June 2027) | CA-AB-Lloydminster | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Lloydminster/New-Grad--Power-Engineering--Lloydminster--June-2027-_R-411218) | 2026-10-16 |
@@ -188,7 +187,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career P&C Field Services Technician | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97442) | 2026-10-13 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Progressive Care | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-University-City---8800-N-Tryon-St-Charlotte-NC/New-Graduate-Registered-Nurse--RN----Progressive-Care_R244106) | 2026-10-12 |
 | AECOM | Entry-Level Deputy Project Managers - Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155053389) | 2026-10-12 |
-| AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155049105) | 2026-10-12 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155020469) | 2026-10-12 |
 | American Red Cross | Entry Level Donor Recruitment Associate: Sales | Manchester, NH | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Manchester-NH/Donor-Recruitment-Associate_RC89456) | 2026-10-12 |
 | Arondite | Deployed Software Engineer (New Grad) | England, United Kingdom | [Apply](https://apply.workable.com/arondite/j/5C5C551ADA/) | 2026-10-12 |
@@ -1736,10 +1734,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Software Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | 2026-06-15 |
 | Ask IT Consulting | Entry Level Project Manger(PMP certified) | Little Rock, AR, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/111759999) | 2026-06-13 |
 | Ask IT Consulting | Entry level Service Desk Technician | Denver, CO, United States | [Apply](https://jobs.smartrecruiters.com/AskITConsulting/77218991) | 2026-06-13 |
-| BCforward | Entry Level Buyer | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/93825141) | 2026-06-13 |
 | BCforward | Entry Level Buyer Supply | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/98285218) | 2026-06-13 |
+| BCforward | Entry Level Buyer/Supply Chain | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/93126350) | 2026-06-13 |
 | BCforward | Entry level Supply Chain Buyer | San Antonio, TX, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/98240420) | 2026-06-13 |
-| BCforward | Entry Level Warehouse Worker | Pittsburgh, PA, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/87305811) | 2026-06-13 |
 | BCforward | Summer Program -for entry level | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/BCforward3/91825727) | 2026-06-13 |
 | BGIS | BAS Technician - New Grads Welcome to Apply | Thunder Bay, ON, Canada | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/221834) | 2026-06-13 |
 | Comtech | Recruiter (Entry Level/Freshers) | Reston, VA, United States | [Apply](https://jobs.smartrecruiters.com/ComtechLLC2/110097018) | 2026-06-13 |
@@ -1749,8 +1746,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Integrated Resources | Entry Level - Production Technician | West Sacramento, United States | [Apply](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999658975658) | 2026-06-13 |
 | Integrated Resources | Entry Level Technician | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/IntegratedResourcesINC/743999659301499) | 2026-06-13 |
 | Jobs for Humanity | Tamheer Eligible Recent Graduate CDE Specialist | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000097830651) | 2026-06-13 |
-| RESPEC | Early Career Water Resources Engineer | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000103073456) | 2026-06-13 |
-| RESPEC | Early Career Water Resources Engineer | Sarasota, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000102682055) | 2026-06-13 |
 | SA Technologies | Junior System Administrator  (Entry Level) | Bronxville, NY, United States | [Apply](https://jobs.smartrecruiters.com/SATechnologiesInc4/92451086) | 2026-06-13 |
 | Securitas | Entry Level Security Officer | West Grove, PA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/165152) | 2026-06-13 |
 | Securitas | Entry Level Security Officer ($18.00-$22.00/hour) | Boston, MA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171258) | 2026-06-13 |
