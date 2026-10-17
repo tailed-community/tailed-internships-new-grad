@@ -43,6 +43,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/4d69a90b-fff2-419c-9ae0-938226dca26c) | 2026-10-17 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | 2026-10-17 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | 2026-10-17 |
+| WSP | Early Career Federal Planner/Landscape Designer | Pittsburgh, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97819) | 2026-10-17 |
+| WSP | Entry-Level Substation Drafter | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97740) | 2026-10-17 |
 | AECOM | AECOM 2027 Hong Kong Graduate Program | Hong Kong | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155926180) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155899839) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155892100) | 2026-10-16 |
@@ -417,7 +419,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sentara Health | Registered Nurse New Graduate Fast-Track Application/Nurse Residency Program – Sentara Williamsburg Regional Medical Center | Williamsburg, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Williamsburg-VA/Registered-Nurse-New-Graduate-Fast-Track-Application-Nurse-Residency-Program---Sentara-Williamsburg-Regional-Medical-Center_JR-107501) | 2026-10-06 |
 | Steel Dynamics | Entry-Level Production | Butler, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8248/entry-level-production/job) | 2026-10-06 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000153838754) | 2026-10-06 |
-| WSP | Early Career Distribution Design Technician in Training Design Support | Orlando, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96972) | 2026-10-06 |
 | WSP | Early Career Mechanical Engineer - Buildings | Kansas City, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96960) | 2026-10-06 |
 | WSP | Early Career Structural Engineer | Tempe, AZ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97015) | 2026-10-06 |
 | WSP | On-call Entry Level Survey Technician | Columbus, OH, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97024) | 2026-10-06 |
@@ -513,7 +514,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152764379) | 2026-10-01 |
 | Amentum | Early Career Structural Designer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Early-Career-Structural-Designer_R0170890) | 2026-10-01 |
-| ATCO | Customer Service Advisor, Entry Level | Whitehorse, YT, Canada | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20735) | 2026-10-01 |
 | AutoNation | Entry Level Technician | Autonation Toyota Thornton Road | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Thornton-Road/Entry-Level-Technician_JR2026149830) | 2026-10-01 |
 | AutoNation | Entry Level Technician | Autonation Ford Sanford | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Sanford/Entry-Level-Technician_JR2026150202) | 2026-10-01 |
 | Banner Health | Registered Nurse RN New Grad Oncology PCU | Bumc Tucson (1625 N Campbell Ave) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Registered-Nurse-RN-New-Grad-Oncology-PCU_R4455227) | 2026-10-01 |
@@ -754,6 +754,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SingleStore | MIT-Software Engineer-New Grad \|Helios\| | United States | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8220882) | 2026-09-22 |
 | Thermo Fisher Scientific | Entry Level Chemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Chemist_R-01369116) | 2026-09-22 |
 | Wade Trim | Entry Level 3D Drafter - #3059 | Buford, GA / Atlanta, GA | [Apply](https://jobs.lever.co/wadetrim/d7551f38-de8d-4d55-89e9-bc54d17cd435) | 2026-09-22 |
+| Weatherford | Field Engineer - NextGen Graduate Program | Italy | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/104665) | 2026-09-22 |
 | Arcadis | Entry Level Water Engineer | Middletown, CT, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44559) | 2026-09-21 |
 | Arcadis | Entry Level Water Engineer | East Greenwich, RI, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44561) | 2026-09-21 |
 | Ciena | Mixed Signal IP Integration Engineer – New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688) | 2026-09-21 |
@@ -1102,7 +1103,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Arcadis | Entry-Level Electrical Engineer (Power) | Columbus, OH, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43843) | 2026-09-03 |
 | BDO | New Grad: Junior Accountant, Assurance - Brandon (May 2027) | Brandon | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Brandon/New-Grad--Junior-Accountant--Assurance---Brandon--May-2027-_JR6999) | 2026-09-03 |
 | Ciena | SVT/PV Engineer 1 - New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622) | 2026-09-03 |
-| Cummins | 2027 Early Career - Apprentice | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436099) | 2026-09-03 |
 | Cummins | 2027 Early Career - Chemical Systems Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434546) | 2026-09-03 |
 | Cummins | 2027 Early Career - Combustion and Emissions Systems Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435671) | 2026-09-03 |
 | Cummins | 2027 Early Career - Customer Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436104) | 2026-09-03 |
@@ -1518,7 +1518,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | RoviSys | Entry Level Engineer/Developer | Pr-San Juan | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job) | 2026-07-31 |
 | SCS Engineers | Entry-level Civil or Environmental Engineer - Solid Waste | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/3878/entry-level-civil-or-environmental-engineer---solid-waste/job) | 2026-07-31 |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
-| WTW | Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting & Technology - Gurugram | India | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904) | 2026-07-31 |
 | Capital One | Associate, Process Management- New Grad 2027 | Toronto, ON | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Process-Management--New-Grad-2027_R247470) | 2026-07-30 |
 | Cleveland Clinic | New Grad RN Resident - Cardiovascular Medicine Stepdown | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Medicine-Stepdown_339435) | 2026-07-30 |
 | Evonik | Evonik Rotation Program - Early Career Engineers | Richmond, VA / Lafayette, IN / Birmingham, AL / Little Rock, AR / Chester, PA / Mobile, AL / Pasadena, TX / Allentown, PA / Mapleton, IL / Reserve, LA | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Richmond-VA/Evonik-Rotation-Program---Early-Career-Engineers_R48939) | 2026-07-30 |
