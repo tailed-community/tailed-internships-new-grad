@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156187499) | 2026-10-18 |
+| AECOM | Entry-Level Electrical Engineer | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156173519) | 2026-10-18 |
 | Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/db2507c5-7fc5-43e5-a28d-547175e8f979) | 2026-10-18 |
 | Advocate Health Care | Registered Nurse (RN) New Graduate - Medical/Surgical | Aurora Medical Center Summit 36500 Aurora Dr | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Summit---36500-Aurora-Dr/Registered-Nurse--RN----Medical-Surgical_R274175) | 2026-10-17 |
 | Anduril | 2027 Early Career Division Operations | Virginia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007) | 2026-10-17 |
@@ -94,7 +96,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Geotechnical Engineer | Louisville, KY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97717) | 2026-10-16 |
 | WVUMedicine | New Grad RN FT PACU | Wheeling Hospital (whh) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Wheeling-Hospital-WHH/RN-FT-PACU_JR26-41474) | 2026-10-16 |
 | Advocate Health Care | Registered Nurse - New graduate - Med/Surg Ortho | Aurora Medical Center Grafton 975 Port Washington Rd | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Grafton---975-Port-Washington-Rd/Registered-Nurse---New-graduate---Med-Surg-Ortho_R281109) | 2026-10-15 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155769859) | 2026-10-15 |
 | AECOM | Entry-Level Civil/Highway Engineer | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155789697) | 2026-10-15 |
 | AECOM | Entry-Level Civil/Highway Engineer | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155790360) | 2026-10-15 |
 | Amentum | Structural Analyst, Early Career (ES2) | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Structural-Analyst--Early-Career--ES2-_R0173076) | 2026-10-15 |

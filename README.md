@@ -21,6 +21,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Traffic Engineering Intern - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156187459) | 2026-10-18 |
 | Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0) | 2026-10-18 |
 | Clera | Founders Associate (Intern) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ce486e0c-0728-49b8-899d-b9e9bd430329) | 2026-10-18 |
 | East Penn Manufacturing Company | Sales Internship - (Summer 2027) | Not Specified | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31306/sales-internship---%28summer-2027%29/job) | 2026-10-18 |
@@ -2202,7 +2203,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | IoT Engineer Intern (Batam) | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155438229) | 2026-10-14 |
 | Robert Bosch Venture Capital | IoT Engineer Intern (Jakarta) | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155438299) | 2026-10-14 |
 | Robert Bosch Venture Capital | IT Operations and Support Intern | Serbia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155427793) | 2026-10-14 |
-| Robert Bosch Venture Capital | IT Support Intern | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155433589) | 2026-10-14 |
 | Robert Bosch Venture Capital | Logistic Foreign Trade Admin Intern | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155436620) | 2026-10-14 |
 | Robert Bosch Venture Capital | Logistics Outbound Intern | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155437292) | 2026-10-14 |
 | Robert Bosch Venture Capital | Marketing Automotive Aftermarket Intern | Indonesia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155437992) | 2026-10-14 |
@@ -2369,7 +2369,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Advocate Health Care | Imaging Patient Assistant - Student Tech FSED | Charlotte | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---13640-Steelecroft-Pkwy/Imaging-Patient-Assistant---Student-Tech-FSED_R279388) | 2026-10-13 |
 | AECOM | Civil Engineering Intern - Roadway Design - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155312519) | 2026-10-13 |
 | AECOM | Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155155259) | 2026-10-13 |
-| AECOM | Traffic Engineering Intern - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155269360) | 2026-10-13 |
 | Air Liquide | Stage - Analyste Venture Capital H/F | Paris, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/75-quai-dOrsay-75321-Paris-France/Stage---Analyste-Venture-Capital-H-F_R10102753) | 2026-10-13 |
 | Airbus | ACOLS11-INTERN | Tianjin Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS11-INTERN_JR10449842) | 2026-10-13 |
 | Airbus | Aerolens Intern - Integration Test & Analysis | Bangalore Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Aerolens-Intern---Integration-Test---Analysis_JR10449126) | 2026-10-13 |
@@ -4795,6 +4794,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Prysmian Cables & Systems | AI Software Developer Intern | Pozzuoli | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Pozzuoli/AI-Software-Developer-Intern_R-37133) | 2026-10-08 |
 | PSP Investments | Intern, Natural Resources Investments, Latin America (January – April 2027) | Montreal | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--Natural-Resources-Investments--Latin-America--January---April-2027-_R5004) | 2026-10-08 |
 | Ramboll | Intern, Air Quality | California, United States | [Apply](https://jobs.smartrecruiters.com/Ramboll3/744000154192369) | 2026-10-08 |
+| Ramboll | Intern, Air Quality | Arizona, United States | [Apply](https://jobs.smartrecruiters.com/Ramboll3/744000154191490) | 2026-10-08 |
 | Razer | Reinforcement Learning Intern | Singapore Razer Ai Center | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Reinforcement-Learning-Intern_JR2026007733) | 2026-10-08 |
 | Red Bull | Student Marketeer - Lisboa | Portugal | [Apply](https://jobs.smartrecruiters.com/RedBull/744000154369389) | 2026-10-08 |
 | Red Bull | Student Marketeer - Portland State University | Portland, OR, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000154207049) | 2026-10-08 |
@@ -4883,7 +4883,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Standard Aero | Student/Intern - Engineering (Repair Development) | Winnipeg, MB, Canada | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10358) | 2026-10-08 |
 | Stantec | Civil/Transportation Engineering Intern - Infrastructure (Summer 2027) | Charleston, SC, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008210) | 2026-10-08 |
 | Stantec | Electrical Engineering Intern (EIT) - Industrial Electrical | Montreal, QC, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008157) | 2026-10-08 |
-| STCU | Human Resources Intern | Liberty Lake, WA, United States | [Apply](https://jobs.smartrecruiters.com/STCU1/744000154184176) | 2026-10-08 |
 | Stryker | Discover Internship Program | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Program_R575478) | 2026-10-08 |
 | Stryker | Discover Internship Programme - Invoice to Cash | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Discover-Internship-Programme---Invoice-to-Cash_R575123) | 2026-10-08 |
 | Stryten | Temporary Season Help | Wisconsin | [Apply](https://jobs.stryten.com/jobs/5925?lang=en-us&icims=1) | 2026-10-08 |

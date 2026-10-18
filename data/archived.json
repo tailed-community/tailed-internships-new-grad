@@ -787864,20 +787864,6 @@
     "date_archived": "2026-10-16"
   },
   {
-    "id": "smartrecruiters-ramboll-744000154191490",
-    "company": "Ramboll",
-    "title": "Intern, Air Quality",
-    "location": "Arizona, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "smartrecruiters",
-    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000154191490",
-    "date_posted": "2026-10-07",
-    "date_added": "2026-10-08",
-    "active": false,
-    "date_archived": "2026-10-16"
-  },
-  {
     "id": "smartrecruiters-ramboll-744000154181163",
     "company": "Ramboll",
     "title": "Intern, Civil/Environmental Engineer",
@@ -799298,6 +799284,62 @@
     "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605611",
     "date_posted": "2026-09-25",
     "date_added": "2026-09-03",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "smartrecruiters-aecom-744000155769859",
+    "company": "AECOM",
+    "title": "Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC",
+    "location": "Greenville, SC, United States",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000155769859",
+    "date_posted": "2026-10-15",
+    "date_added": "2026-10-15",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "smartrecruiters-aecom-744000155269360",
+    "company": "AECOM",
+    "title": "Traffic Engineering Intern - Hiring Event with AECOM - Raleigh",
+    "location": "Raleigh, NC, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000155269360",
+    "date_posted": "2026-10-13",
+    "date_added": "2026-10-13",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000155433589",
+    "company": "Robert Bosch Venture Capital",
+    "title": "IT Support Intern",
+    "location": "Indonesia",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155433589",
+    "date_posted": "2026-10-14",
+    "date_added": "2026-10-14",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "smartrecruiters-stcu-744000154184176",
+    "company": "STCU",
+    "title": "Human Resources Intern",
+    "location": "Liberty Lake, WA, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/STCU1/744000154184176",
+    "date_posted": "2026-10-07",
+    "date_added": "2026-10-08",
     "active": false,
     "date_archived": "2026-10-18"
   }
