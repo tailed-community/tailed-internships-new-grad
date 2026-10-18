@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/db2507c5-7fc5-43e5-a28d-547175e8f979) | 2026-10-18 |
 | Advocate Health Care | Registered Nurse (RN) New Graduate - Medical/Surgical | Aurora Medical Center Summit 36500 Aurora Dr | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Summit---36500-Aurora-Dr/Registered-Nurse--RN----Medical-Surgical_R274175) | 2026-10-17 |
 | Anduril | 2027 Early Career Division Operations | Virginia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007) | 2026-10-17 |
 | Banner Health | Registered Nurse RN New Graduate Progressive Care Unit PCU | Banner Desert Med Ctr (1400 S Dobson Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Desert-Med-Ctr-1400-S-Dobson-Rd/Registered-Nurse-RN-New-Graduate-Progressive-Care-Unit-PCU_R4458044-1) | 2026-10-17 |

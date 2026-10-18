@@ -21,6 +21,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 <!-- INTERNSHIPS_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0) | 2026-10-18 |
+| Clera | Founders Associate (Intern) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ce486e0c-0728-49b8-899d-b9e9bd430329) | 2026-10-18 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-18 |
 | HCSC | Early Careers - Accounting Intern | Il Chicago / Tx Richardson | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Accounting-Intern_R0059481) | 2026-10-18 |
 | HCSC | Early Careers - Finance Application Developer Intern | Il Chicago / Tx Richardson | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) | 2026-10-18 |
@@ -3667,7 +3669,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship in Computer Vision / Calibration Pipelines (f/m/x) | Karlsruhe | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916) | 2026-10-12 |
 | Zeiss | Internship in Next-Generation System Interaction with Contextual Voice Command Activation (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-in-Next-Generation-System-Interaction-with-Contextual-Voice-Command-Activation--f-m-x-_JR_1053956) | 2026-10-12 |
 | Allegion | Industrial Design Spring Co-op | Carmel, IN | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Spring-Co-op_JR37686-1) | 2026-10-11 |
-| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/e1f19be4-dd5d-40ac-b31b-29c1d8338a8f) | 2026-10-11 |
 | Covestro | Lab Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Lab-Intern_JR-2026-02301) | 2026-10-11 |
 | KLA - Search | Technical Intern (R&D) | Singapore | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Technical-Intern--R-D-_2636416) | 2026-10-11 |
 | Loblaw Companies | Student Service Part Time Day | Oakville, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/173-Lakeshore-Rd-W-Oakville-ON/Student-Service-Part-Time-Day_R2000719472) | 2026-10-11 |
