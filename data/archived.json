@@ -796600,20 +796600,6 @@
     "date_archived": "2026-10-17"
   },
   {
-    "id": "icims-general-dynamics-18461",
-    "company": "General Dynamics",
-    "title": "Shipfitter Entry Level & Semi-Skilled",
-    "location": "Groton, CT, United States",
-    "type": "new_grad",
-    "season": "Not specified",
-    "source": "icims",
-    "url": "https://careers-gdeb.icims.com/jobs/18461/shipfitter-entry-level-%26-semi-skilled/job",
-    "date_posted": null,
-    "date_added": "2026-06-10",
-    "active": false,
-    "date_archived": "2026-10-17"
-  },
-  {
     "id": "icims-general-dynamics-mission-systems-74773",
     "company": "General Dynamics Mission Systems",
     "title": "Systems Engineer - Intern",
@@ -799200,6 +799186,34 @@
     "url": "https://jobs.ashbyhq.com/clera/e1f19be4-dd5d-40ac-b31b-29c1d8338a8f",
     "date_posted": "2026-10-10",
     "date_added": "2026-10-11",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "icims-charles-schwab-126258",
+    "company": "Charles Schwab",
+    "title": "2027 International Client Services Intern - Westlake Only",
+    "location": "Westlake, TX, United States",
+    "type": "internship",
+    "season": "2027",
+    "source": "icims",
+    "url": "https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job",
+    "date_posted": null,
+    "date_added": "2026-09-28",
+    "active": false,
+    "date_archived": "2026-10-18"
+  },
+  {
+    "id": "icims-tighe-bond-1894",
+    "company": "Tighe & Bond",
+    "title": "Mechanical HVAC Design Internship - Summer 2027",
+    "location": "Not specified",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "icims",
+    "url": "https://careers-tighebond.icims.com/jobs/1894/mechanical-hvac-design-internship---summer-2027/job",
+    "date_posted": null,
+    "date_added": "2026-09-21",
     "active": false,
     "date_archived": "2026-10-18"
   }

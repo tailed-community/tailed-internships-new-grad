@@ -23,7 +23,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0) | 2026-10-18 |
 | Clera | Founders Associate (Intern) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ce486e0c-0728-49b8-899d-b9e9bd430329) | 2026-10-18 |
+| East Penn Manufacturing Company | Sales Internship - (Summer 2027) | Not Specified | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31306/sales-internship---%28summer-2027%29/job) | 2026-10-18 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-18 |
+| First Citizens BancShares | 2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/35828?lang=en-us&icims=1) | 2026-10-18 |
 | HCSC | Early Careers - Accounting Intern | Il Chicago / Tx Richardson | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Accounting-Intern_R0059481) | 2026-10-18 |
 | HCSC | Early Careers - Finance Application Developer Intern | Il Chicago / Tx Richardson | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) | 2026-10-18 |
 | HCSC | Early Careers - Finance Data & Analytics Developer Intern | Il Chicago / Tx Richardson | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) | 2026-10-18 |
@@ -9059,7 +9061,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cencora | Intern, Business Services | Conshohocken, PA | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Intern--Business-Services_R2612304) | 2026-09-28 |
 | Cerity Partners | Summer 2027 Outsourced CIO Internship | New York City, NY | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Summer-2027-Outsourced-CIO-Internship_R943) | 2026-09-28 |
 | Chanel | Stage - Département Direction Immobilier et ESG (H/F/X) – Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Dpartement-Direction-Immobilier-et-ESG--H-F-X----Janvier-2027_JOBREQ00117468) | 2026-09-28 |
-| Charles Schwab | 2027 International Client Services Intern - Westlake Only | Westlake, TX, United States | [Apply](https://career-schwab.icims.com/jobs/126258/2027-international-client-services-intern---westlake-only/job) | 2026-09-28 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - MOS Department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20395) | 2026-09-28 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 – CAO department | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20396) | 2026-09-28 |
 | Citi | Risk - Full-Time Analyst, Warsaw, 2027 - (Applicable for 2026 Citi Summer interns only) | Warsaw Poland | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Risk---Full-Time-Analyst--Warsaw--2027_26995429) | 2026-09-28 |
@@ -11836,7 +11837,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thrivent | Mutual Fund Accountant Intern - Summer 2027 | Wi Appleton | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/WI---Appleton/Mutual-Fund-Accountant-Intern---Summer-2027_REQ-48462) | 2026-09-21 |
 | Tighe & Bond | Civil Engineering Internship - Site Design - Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1844/civil-engineering-internship---site-design---summer-2027/job) | 2026-09-21 |
 | Tighe & Bond | Civil Engineering Internship / Co-op - Site Design - Spring/Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1845/civil-engineering-internship---co-op---site-design---spring-summer-2027/job) | 2026-09-21 |
-| Tighe & Bond | Mechanical HVAC Design Internship - Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1894/mechanical-hvac-design-internship---summer-2027/job) | 2026-09-21 |
 | Tighe & Bond | Structural Bridge Design Internship - Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1886/structural-bridge-design-internship---summer-2027/job) | 2026-09-21 |
 | Tighe & Bond | Traffic / Transportation Engineering Internship - Roadway - Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1888/traffic---transportation-engineering-internship---roadway---summer-2027/job) | 2026-09-21 |
 | Tighe & Bond | Transportation/ Traffic Engineering Co-op Spring/Summer 2027 | Not Specified | [Apply](https://careers-tighebond.icims.com/jobs/1887/transportation--traffic-engineering-co-op-spring-summer-2027/job) | 2026-09-21 |
@@ -11868,9 +11868,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wabash Valley Power Alliance | Associate System Operator Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149876279) | 2026-09-21 |
 | Wabash Valley Power Alliance | Energy Efficiency & Demand Response Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) | 2026-09-21 |
 | Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759) | 2026-09-21 |
-| Waters Corporation | Accounting Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27743/accounting-intern/job) | 2026-09-21 |
+| Waters Corporation | Accounting Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27743/2026-27743/job) | 2026-09-21 |
 | Waters Corporation | Financial Planning and Analysis Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27741/financial-planning-and-analysis-intern/job) | 2026-09-21 |
-| Waters Corporation | Investor Relations & Treasury Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27742/2026-27742/job) | 2026-09-21 |
+| Waters Corporation | Investor Relations & Treasury Intern | Milford, MA, United States / New Castle, DE, United States | [Apply](https://uscareers-waters.icims.com/jobs/27742/investor-relations-%26-treasury-intern/job) | 2026-09-21 |
 | Watts Water | Amazon & E-Commerce Marketplace Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Amazon---E-Commerce-Marketplace-Intern--Summer-2027_10017535) | 2026-09-21 |
 | Watts Water | E-Commerce Analytics & Web Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/B2C-E-Commerce-Analytics---Website-Intern--Summer-2027_10017536) | 2026-09-21 |
 | Wellmark | Software Engineer Internship - Technology Healthcare Innovation | Des Moines, IA, United States | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) | 2026-09-21 |
@@ -15446,7 +15446,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | IT Oracle CPQ Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279229) | 2026-09-11 |
 | Vishay Intertechnology | R&D Engineering Intern | Yankton, SD | [Apply](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-20288) | 2026-09-11 |
 | Voya Financial | Summer 2027 Finance Intern | United States Remote | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Finance-Intern_JR0033183) | 2026-09-11 |
-| Waters Corporation | Electrical Technician Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/25894/2026-25894/job) | 2026-09-11 |
+| Waters Corporation | Electrical Technician Co-op | Milford, MA, United States | [Apply](https://uscareers-waters.icims.com/jobs/25894/electrical-technician-co-op/job) | 2026-09-11 |
 | Wellmark | Actuarial Internship | Des Moines, IA, United States | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148916390) | 2026-09-11 |
 | Wellmark | Audit Services Internship | Des Moines, IA, United States | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148917818) | 2026-09-11 |
 | Wellmark | Corporate Communications Internship (Spring and Summer 2027) | Des Moines, IA, United States | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000148916388) | 2026-09-11 |
