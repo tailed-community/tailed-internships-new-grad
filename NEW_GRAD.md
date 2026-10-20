@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Anduril | 2027 Early Career Warhead Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) | 2026-10-20 |
+| Arcadis | Entry Level Water Engineer | Plantation, FL, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45305) | 2026-10-20 |
 | AutoNation | Entry Level Auto Technician \| AutoNation Acura Colorado Springs | Autonation Acura Colorado Springs | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Acura-Colorado-Springs/Entry-Level-Auto-Technician---AutoNation-Acura-Colorado-Springs_JR2026150027) | 2026-10-20 |
 | AutoNation | Entry Level Technician | Autonation Chevrolet Cadillac South Corpus Christi | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Cadillac-South-Corpus-Christi/Entry-Level-Technician_JR2026149554) | 2026-10-20 |
 | AutoNation | Entry Level Tire Technician-Mercedes-Benz of Chicago-$20/HR | Mercedes-Benz Of Chicago | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Mercedes-Benz-of-Chicago/Entry-Level-Tire-Technician-Mercedes-Benz-of-Chicago--20-HR_JR2026150860) | 2026-10-20 |
@@ -26,6 +27,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ENSCO | Entry Level Cyber Engineer | Ohio, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5456926008) | 2026-10-20 |
 | ERM | Geologist Consulting Associate SI&R (Entry Level) | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Geologist-Consulting-Associate-SI-R--Entry-Level-_R00032104) | 2026-10-20 |
 | ERM | Sustainability Consultant (Entry level) - Temporary 6 - 12 months | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Sustainability-Consultant--Senior-level-_R00032393-1) | 2026-10-20 |
+| Ford Motor Company | Supply Chain Program Management & AI Tool Creation - Early Career Program, Advanced EV | Long Beach, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72880) | 2026-10-20 |
 | General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job) | 2026-10-20 |
 | General Matter | Process Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5434674008) | 2026-10-20 |
 | Lonza | Entry-Level Pharmaceutical Manufacturing Technician | US Bend, OR | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Bend-OR/Entry-Level-Pharmaceutical-Manufacturing-Technician_R80213) | 2026-10-20 |
@@ -38,10 +40,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Software Engineer, New Grad - Query Engines | New York, NY | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | 2026-10-20 |
 | Procter & Gamble (P&G) | Field Service Technician (Entry Level) - Oklahoma City / Edmond / Guthrie, OK | Oklahoma City / Edmond | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Oklahoma-City/Field-Service-Technician--Entry-Level----Oklahoma-City---Edmond---Guthrie--OK_R000161220) | 2026-10-20 |
 | RTX (en-US) | Operador Técnico Entry Level (Ensamble) - 2ndo turno - En sitio - Aeroestructuras | Desarrollo Industrial Colorado | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Operador-Tcnico-Entry-Level--Ensamble----2ndo-turno---En-sitio---Aeroestructuras_01882017) | 2026-10-20 |
+| Securitas | Entry Level Security Officer | Detroit, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176111) | 2026-10-20 |
 | Smithfield Foods | General Laborer - 2nd Shift - Entry Level - $500 (Sign-On Bonus!) | St James, MN | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/St-James-MN/General-Laborer---2nd-Shift--Sign-On-Bonus--_R-2026-12588-1) | 2026-10-20 |
 | SpaceX | New Graduate Engineer, Electrical (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) | 2026-10-20 |
 | Stryker | Entry Level Medical Devices | Australia | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Entry-Level-Medical-Devices_R576181) | 2026-10-20 |
 | Woodard Curran | Entry-level Environmental Scientist | Duluth, GA | [Apply](https://jobs.lever.co/woodardcurran/a7232c5a-ae03-4615-8dfc-ce1de46e030a) | 2026-10-20 |
+| Worthington Enterprises | Production Associate - Entry Level | Columbus, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43272) | 2026-10-20 |
 | Advocate Health Care | New Graduate Nurse (RN) - Cardiac Medical Telemetry | Aurora Sinai Medical Center 945 N 12th St | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/New-Graduate-Nurse--RN----Cardiac-Medical-Telemetry_R281790) | 2026-10-19 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156311439) | 2026-10-19 |
 | AECOM | Entry-level Project Information Specialist | Birmingham, AL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156357000) | 2026-10-19 |
@@ -368,7 +372,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Civil Engineering (Overhead Transmission Lines) | Birmingham, AL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97100) | 2026-10-08 |
 | WSP | Early Career Geologist | San Francisco, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96457) | 2026-10-08 |
 | WSP | Early Career Structural Engineer (Buildings) | Chicago, IL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97164) | 2026-10-08 |
-| WSP | Early Career Substation Assistant Electrical Engineer | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97180) | 2026-10-08 |
 | Advocate Health Care | New Graduate Nurse | Aurora St Lukes South Shore 5900 S Lake Dr | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-St-Lukes-South-Shore---5900-S-Lake-Dr/New-Graduate-Nurse_R279043) | 2026-10-07 |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060) | 2026-10-07 |
 | Affirm | Software Engineer, Early Career (NYC) | New York, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | 2026-10-07 |
@@ -1368,7 +1371,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002) | 2026-08-19 |
 | SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) | 2026-08-19 |
 | WSP | Early Career Electrical Engineer - Buildings | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) | 2026-08-19 |
-| WSP | Early Career Geotechnical Engineer | Las Cruces, NM, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92081) | 2026-08-19 |
 | CACI | Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer | Houston, TX, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677) | 2026-08-18 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Med-Surg---Post-Op-Surgery_341018-1) | 2026-08-18 |
 | Conagra Brands | Entry Level Mechanic - 3rd Shift | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Macon-Missouri/Entry-Level-Mechanic---3rd-Shift_Req-039761) | 2026-08-18 |
