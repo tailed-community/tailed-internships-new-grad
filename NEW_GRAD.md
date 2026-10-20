@@ -1387,7 +1387,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | 2026-08-15 |
 | Applied Intuition | Embedded Test Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c) | 2026-08-15 |
 | Applied Intuition | Research Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | 2026-08-15 |
-| Applied Intuition | Scenario Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | 2026-08-15 |
 | Applied Intuition | Software Engineer - New Grad (2027) | California, United States / Ann Arbor | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | 2026-08-15 |
 | Applied Intuition | Software Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
 | Barr | Civil Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Civil-Engineer---Entry-Level--Hybrid-_R-102245) | 2026-08-15 |
