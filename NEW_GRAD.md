@@ -26,6 +26,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | ENSCO | Entry Level Cyber Engineer | Ohio, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5456926008) | 2026-10-20 |
 | ERM | Geologist Consulting Associate SI&R (Entry Level) | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Geologist-Consulting-Associate-SI-R--Entry-Level-_R00032104) | 2026-10-20 |
 | ERM | Sustainability Consultant (Entry level) - Temporary 6 - 12 months | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Sustainability-Consultant--Senior-level-_R00032393-1) | 2026-10-20 |
+| General Dynamics | Entry Level Engineer- Systems - Hull Planning Yard | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21160/entry-level-engineer--systems---hull-planning-yard/job) | 2026-10-20 |
 | General Matter | Process Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5434674008) | 2026-10-20 |
 | Lonza | Entry-Level Pharmaceutical Manufacturing Technician | US Bend, OR | [Apply](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Bend-OR/Entry-Level-Pharmaceutical-Manufacturing-Technician_R80213) | 2026-10-20 |
 | Mass General Brigham | New Grad RN - Burns/Plastics - MGH | Boston-Ma | [Apply](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/New-Grad-RN---Burns-Plastics---MGH_RQ4082449) | 2026-10-20 |
