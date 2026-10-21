@@ -829204,5 +829204,33 @@
     "date_added": "2026-09-07",
     "active": false,
     "date_archived": "2026-10-21"
+  },
+  {
+    "id": "rippling-american-rare-earths-0175fd2a-3020-4197-9b67-8ac864cf4bd5",
+    "company": "American Rare Earths",
+    "title": "Supply Chain Intern (Summer 2027)",
+    "location": "Stillwater, OK",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/usare/jobs/0175fd2a-3020-4197-9b67-8ac864cf4bd5",
+    "date_posted": null,
+    "date_added": "2026-10-01",
+    "active": false,
+    "date_archived": "2026-10-21"
+  },
+  {
+    "id": "rippling-create-music-group-4f004f27-09b7-4c84-af3a-bea0ea7ed1cd",
+    "company": "Create Music Group",
+    "title": "Social Media & Fan Engagement Intern",
+    "location": "Remote, Remote (United States)",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/createmusicgroup/jobs/4f004f27-09b7-4c84-af3a-bea0ea7ed1cd",
+    "date_posted": null,
+    "date_added": "2026-10-12",
+    "active": false,
+    "date_archived": "2026-10-21"
   }
 ]

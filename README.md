@@ -4904,7 +4904,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Create Music Group | A&R Discovery Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/93350021-a388-43ff-839d-3395bc1b4eff) | 2026-10-12 |
 | Create Music Group | Copyright Specialist Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/67cbd61a-866e-4354-a735-0d549411a72c) | 2026-10-12 |
 | Create Music Group | Music Marketing & Operations Intern | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/44b6f41c-96c7-4909-a005-0914505aeba0) | 2026-10-12 |
-| Create Music Group | Social Media & Fan Engagement Intern | United States Remote | [Apply](https://ats.rippling.com/createmusicgroup/jobs/4f004f27-09b7-4c84-af3a-bea0ea7ed1cd) | 2026-10-12 |
 | Cummins | Placement Student - Development Engineer | Gwent, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439913) | 2026-10-12 |
 | CVS Health | Account Management & Sales Strategy Corporate Internship -- Summer 2027 (Undergraduate) | Ct Hartford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Account-Management---Sales-Strategy-Intern-2027_R1060296) | 2026-10-12 |
 | CVS Health | Commercial Strategy & Operations Corporate Internship – Summer 2027 (Undergraduate) | Ct Hartford | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Commercial-Strategy---Operations-Corporate-Internship---Summer-2027--Undergraduate-_R1066634) | 2026-10-12 |
@@ -8838,7 +8837,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Amentum | Structural Engineer Intern | US-Co-Englewood | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CO-Englewood/Structural-Engineer-Intern_R0171935) | 2026-10-01 |
 | Ameresco | DDC Controls Technician Intern | United States Ohio Worthington | [Apply](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Ohio---Worthington/DDC-Controls-Technician-Intern_R4046) | 2026-10-01 |
 | American Bankers Association | Intern, Cybersecurity Policy Analyst | US Dc Main Office | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611) | 2026-10-01 |
-| American Rare Earths | Supply Chain Intern (Summer 2027) | Stillwater, OK | [Apply](https://ats.rippling.com/usare/jobs/0175fd2a-3020-4197-9b67-8ac864cf4bd5) | 2026-10-01 |
 | American University | Graduate Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Assistant--Student-_R5052) | 2026-10-01 |
 | American University | UG Research and Teaching Assistant (Student) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/UG-Research-and-Teaching-Assistant--Student-_R5055) | 2026-10-01 |
 | American University | UG Research Assistant (Student) (FWS) | Dc) | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/UG-Research-Assistant--Student---FWS-_R5054) | 2026-10-01 |
