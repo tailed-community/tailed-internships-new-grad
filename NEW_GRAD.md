@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-level Civil Engineer | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156869019) | 2026-10-22 |
+| AECOM | Entry-level Civil Engineer | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156868819) | 2026-10-22 |
+| AECOM | Entry-Level Transportation Planner - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157128989) | 2026-10-22 |
 | Affirm | Analyst, Early Career (Full Stack) | New York, United States / California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | 2026-10-22 |
 | Amentum | Early Career Mechanical Process Engineer | US-Tn-Tullahoma / US-Mi-Detroit / US-Sc-Greenville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Early-Career-Mechanical-Process-Engineer_R0173621) | 2026-10-22 |
 | AMT Engineering | Entry Level Transportation Engineer - December 2026 | Maryland | [Apply](https://jobs.lever.co/amtengineering/e73e9177-1be1-4a33-b389-cc771aca28c1) | 2026-10-22 |
@@ -26,6 +29,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Pa Allentown | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Allentown/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R1082672-1) | 2026-10-22 |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred) | Pa Lancaster | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Lancaster/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship--Spanish-Preferred-_R1082669) | 2026-10-22 |
 | DH Pace | Project Administrator-Entry level | Springfield Mo | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5456964008) | 2026-10-22 |
+| Eurofins | Biochemist - Entry Level | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157125350) | 2026-10-22 |
+| Eurofins | Entry Level Lab Technician | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156881464) | 2026-10-22 |
+| Eurofins | Entry Level Microbiologist- Med Device (Various Shifts) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156880619) | 2026-10-22 |
 | Fresenius Medical Care | New Graduate Nurse | Madisonville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Madisonville-KY/New-Graduate-Nurse_R0274913) | 2026-10-22 |
 | Fresenius Medical Care | New Graduate Nurse | Georgetown, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Georgetown-SC/New-Graduate-Nurse_R0274908) | 2026-10-22 |
 | Fresenius Medical Care | New Graduate Nurse | Evansville, IN | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Evansville-IN/New-Graduate-Nurse_R0274914) | 2026-10-22 |
@@ -39,7 +45,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | New Grad- Surgical | St. Marys Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Grad--Surgical_R186706) | 2026-10-22 |
 | Intermountain Healthcare | Registered Nurse New Graduate Endoscopy | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Endoscopy_R187353-1) | 2026-10-22 |
 | Intermountain Healthcare | Registered Nurse New Graduate North Temple Urgent Care | North Temple Clinic | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/North-Temple-Clinic/Registered-Nurse-New-Graduate-North-Temple-Urgent-Care_R187433) | 2026-10-22 |
+| Jobs for Humanity | Entry Level Management Associate | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157080519) | 2026-10-22 |
 | KSM | Early Career Program Specialist | Indianapolis | [Apply](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Early-Career-Program-Specialist_R-100559) | 2026-10-22 |
+| NielsenIQ | NIQ Early Career Program: Werkstudent Store Research (m/w/d) | Remote | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000157121339) | 2026-10-22 |
 | Philips | Entry level Order Managment Analyst | Varginha | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Entry-level-Order-Managment-Analyst_593260-1) | 2026-10-22 |
 | Sentara Health | Registered Nurse (RN) Medical/Surgical Stroke Unit - New Grads Welcome! - | Sentara Careplex Hospital | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Careplex-Hospital/Registered-Nurse--RN--Medical-Surgical-Stroke-Unit---New-Grads-Welcome---_JR-104971-1) | 2026-10-22 |
 | Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts | [Apply](https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d) | 2026-10-22 |
@@ -99,7 +107,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156638809) | 2026-10-21 |
 | Eurofins | Entry Level Laboratory Data Review | Columbia, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156401491) | 2026-10-21 |
 | Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156587459) | 2026-10-21 |
-| Eurofins | Entry Level Microbiologist- Med Device (Various Shifts) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156645929) | 2026-10-21 |
 | Eurofins | Sample Admin Specialist- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000156643339) | 2026-10-21 |
 | Experian | Finance Graduate Program | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000156458029) | 2026-10-21 |
 | Fresenius Medical Care | New Graduate Registered Nurse - RN | Wichita, KS / Wichita, KS, United States / Salina, KS, United States / Westwood, KS, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wichita-KS/New-Graduate-Registered-Nurse---RN_R0273611) | 2026-10-21 |
@@ -169,8 +176,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Woodard Curran | Entry-level Environmental Scientist | Duluth, GA | [Apply](https://jobs.lever.co/woodardcurran/a7232c5a-ae03-4615-8dfc-ce1de46e030a) | 2026-10-20 |
 | Worthington Enterprises | Production Associate - Entry Level | Columbus, OH, United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43272) | 2026-10-20 |
 | Advocate Health Care | New Graduate Nurse (RN) - Cardiac Medical Telemetry | Aurora Sinai Medical Center 945 N 12th St | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Sinai-Medical-Center---945-N-12th-St/New-Graduate-Nurse--RN----Cardiac-Medical-Telemetry_R281790) | 2026-10-19 |
-| AECOM | Entry-level Project Information Specialist | Birmingham, AL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156357000) | 2026-10-19 |
-| AECOM | Entry-Level Traffic Engineer | Middleton, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156378581) | 2026-10-19 |
 | Anduril | 2027 Early Career Supply Chain Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007) | 2026-10-19 |
 | Ann & Robert H. Lurie Children’s Hospital of Chicago | New Graduate Respiratory Care Practitioner Residency | Chicago, IL | [Apply](https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/New-Graduate-Respiratory-Care-Practitioner-Residency_JR2026-2806) | 2026-10-19 |
 | Ann & Robert H. Lurie Children’s Hospital of Chicago | New Graduate RN Resident March 2027 Cohort | Chicago, IL | [Apply](https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/New-Graduate-RN-Resident-March-2027-Cohort_JR2026-2812) | 2026-10-19 |
@@ -304,7 +309,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eight Sleep | New Grad General Application (Milan) | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/e444f9db-008e-4a10-8a6a-ca911fa4e72b) | 2026-10-14 |
 | Eight Sleep | People Operations, (New Grad) Milan | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/f4e3002d-cbb5-41ad-994c-cbe3daa8b346) | 2026-10-14 |
 | Eight Sleep | Product Designer, (New Grad) Milan | Italy | [Apply](https://jobs.ashbyhq.com/eightsleep/60b67d27-7399-4860-9dcf-9f0b7e4b93f7) | 2026-10-14 |
-| Jobs for Humanity | Communications Assistant – Entry Level | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000155343986) | 2026-10-14 |
 | PDI Technologies | Product Owner I (Entry-Level) | Alpharetta, GA / United States Remote | [Apply](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04) | 2026-10-14 |
 | Salesforce | Commercial Graduate Program - Sales Path - Danish Speaking Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Danish-Market_JR362645-1) | 2026-10-14 |
 | Salesforce | Commercial Graduate Program - Sales Path - Dutch Speaking Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---BNL-Dutch-Speaking-Market_JR363186-1) | 2026-10-14 |
@@ -368,7 +372,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Howmet Aerospace | Manufacturing Engineer - Entry Level, Continuous Improvement | Whitehall, MI, United States | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119909) | 2026-10-12 |
 | incident.io | Entry-Level Business Development Representative (BDR) 2027 Cohort | California, United States | [Apply](https://jobs.ashbyhq.com/incident/0a008c9e-b6d1-4a21-9aee-8d82d547a28e) | 2026-10-12 |
 | ING | ING's Early Career Event | Cdr (amsterdam Cedar) | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/ING-s-Early-Career-Event_REQ-10123121) | 2026-10-12 |
-| Jobs for Humanity | Entry Level Management Associate | Canada Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000155066370) | 2026-10-12 |
 | Legrand | Entry Level Manufacturing Associate, 2nd shift | West Hartford, CT, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166) | 2026-10-12 |
 | Legrand | WMU Entry Level Associate | West Hartford, CT, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/728) | 2026-10-12 |
 | Mastercard | Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan | Taiwan | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569) | 2026-10-12 |
@@ -428,7 +431,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Adobe | 2027 University Graduate - Sales Development Representative | San Jose / Denver / San Francisco / Lehi / New York | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Sales-Development-Representative_R172082) | 2026-10-08 |
 | Advocate Health Care | New Grad Registered Nurse (RN) - Emergency Department | Aurora St Lukes Medical Center 2900 W Oklahoma Ave | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-St-Lukes-Medical-Center---2900-W-Oklahoma-Ave/New-Grad-Registered-Nurse--RN----Emergency-Department_R279639) | 2026-10-08 |
 | AECOM | Entry Level Bridge Inspector- Hiring Event with AECOM - Boston, MA | Providence, RI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154413631) | 2026-10-08 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - New York City | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154193731) | 2026-10-08 |
 | AECOM | Entry-Level Roadway Engineer - Networking Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154441987) | 2026-10-08 |
 | Amcor | Rotational Engineering Program- New Grads! | Af Oshkosh North Wi | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-North-WI/Rotational-Engineering-Program--New-Grads-_REQ_97274) | 2026-10-08 |
 | Amentum | Early Career Specialty Mechanical Engineer | US-Tn-Oak Ridge | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Oak-Ridge/Early-Career-Specialty-Mechanical-Engineer_R0172011) | 2026-10-08 |
@@ -487,7 +489,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Coherent | Machinist -  Entry level | Saxonburg, PA, United States | [Apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014568) | 2026-10-07 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Phoenix Commercial | Phoenix, AZ, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4120/project-specialist%2c-architecture-%7c-2026-new-grad---phoenix-commercial/job) | 2026-10-07 |
 | Eurofins | Laboratory Systems Specialist (Entry Level) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153853149) | 2026-10-07 |
-| Eurofins | Sample Receiving Technician (Entry-level/Non-degree) - Eurofins Environment Testing Northeast - North Kingstown, RI | North Kingstown, RI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154156339) | 2026-10-07 |
 | Fresenius Medical Care | New Graduate Nurse- RN | Kalamazoo, MI, United States / Lansing, MI, United States / Wyoming, MI, United States / East Lansing, MI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Kalamazoo-MI-USA/New-Graduate-Nurse--RN_R0273044) | 2026-10-07 |
 | Highmark Health | RN Ortho/Stroke/Trauma (New Grads Only), Forbes Hospital | Monroeville Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Monroeville-PA-15146-2570-Haymaker-Road/RN-Ortho-Stroke-Trauma--New-Grads-Only---Forbes-Hospital_J281288) | 2026-10-07 |
 | HNTB | New Grad Engineer I: Project Controls - Summer 2027 | Charlotte, NC | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Charlotte-NC/New-Grad-Engineer-I--Project-Controls---Summer-2027_R-31698-1) | 2026-10-07 |
@@ -1091,7 +1092,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Civil Project Engineer I | Plano, TX, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148245172) | 2026-09-08 |
 | Timmons Group | New Graduate Civil Project Engineer I | Ellicott City, MD, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148245429) | 2026-09-08 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148241169) | 2026-09-08 |
-| Timmons Group | New Graduate Civil Project Engineer I | Virginia Beach, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148238570) | 2026-09-08 |
 | Timmons Group | New Graduate Civil Project Engineer I | Prince George, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148226290) | 2026-09-08 |
 | City of Vancouver | Entry Level Police Officer | Not Specified | [Apply](https://cityofvancouver.wd5.myworkdayjobs.com/COV/job/Entry-Level-Police-Officer_24-0029) | 2026-09-07 |
 | Mary Free Bed Rehabilitation Hospital | New Grad Registered Nurse | Saginaw, MI | [Apply](https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Saginaw-MI/New-Grad-Registered-Nurse_JB100773) | 2026-09-07 |
