@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Amentum | Early Career Mechanical Process Engineer | US-Tn-Tullahoma / US-Mi-Detroit / US-Sc-Greenville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Early-Career-Mechanical-Process-Engineer_R0173621) | 2026-10-22 |
+| AMT Engineering | Entry Level Transportation Engineer - December 2026 | Maryland | [Apply](https://jobs.lever.co/amtengineering/e73e9177-1be1-4a33-b389-cc771aca28c1) | 2026-10-22 |
 | AutoNation | ENTRY LEVEL AUTOMOTIVE SERVICE TECHNICIAN | Porsche Fremont | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Porsche-Fremont/ENTRY-LEVEL-AUTOMOTIVE-SERVICE-TECHNICIAN_JR2026151109) | 2026-10-22 |
 | AutoNation | Entry level tech | Autonation Nissan Pembroke Pines | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Nissan-Pembroke-Pines/Entry-level-tech_JR2026151196) | 2026-10-22 |
 | AutoNation | Entry Level Technician | Autonation Hyundai Hilton Head | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Hyundai-Hilton-Head/Entry-Level-Technician_JR2026150743) | 2026-10-22 |
@@ -34,6 +35,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | KSM | Early Career Program Specialist | Indianapolis | [Apply](https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/Early-Career-Program-Specialist_R-100559) | 2026-10-22 |
 | Philips | Entry level Order Managment Analyst | Varginha | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Entry-level-Order-Managment-Analyst_593260-1) | 2026-10-22 |
 | Sentara Health | Registered Nurse (RN) Medical/Surgical Stroke Unit - New Grads Welcome! - | Sentara Careplex Hospital | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Careplex-Hospital/Registered-Nurse--RN--Medical-Surgical-Stroke-Unit---New-Grads-Welcome---_JR-104971-1) | 2026-10-22 |
+| Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts | [Apply](https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d) | 2026-10-22 |
+| Shield AI | Electrical Engineer I - New Grad (SD) | California | [Apply](https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89) | 2026-10-22 |
+| Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington | [Apply](https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b) | 2026-10-22 |
+| Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington | [Apply](https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a) | 2026-10-22 |
+| Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington / California | [Apply](https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a) | 2026-10-22 |
+| Shield AI | Engineer I, PCB - New Grad (R6065) | Washington | [Apply](https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f) | 2026-10-22 |
+| Shield AI | RF Engineer I - New Grad (R6108) | Washington | [Apply](https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416) | 2026-10-22 |
 | The Boeing Company | Manufacturing Engineer (Government Training Engineering) (Entry-Level or Associate) | USA Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191-1) | 2026-10-22 |
 | The Boeing Company - external_subsidiary | Entry-Level Fabrication Specialist | USA Mesa, AZ | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Fabrication-Specialist_JR2026527591-3) | 2026-10-22 |
 | The Boeing Company - external_subsidiary | Manufacturing Engineer (Government Training Engineering) (Entry-Level or Associate) | USA Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191) | 2026-10-22 |
