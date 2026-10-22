@@ -838878,5 +838878,19 @@
     "date_added": "2026-07-14",
     "active": false,
     "date_archived": "2026-10-22"
+  },
+  {
+    "id": "rippling-north-cloud-c63d1c64-35a9-4e5a-83d7-560c3c776627",
+    "company": "North Cloud",
+    "title": "Graphic Designer Intern",
+    "location": "Brooklyn, NY",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/north-cloud/jobs/c63d1c64-35a9-4e5a-83d7-560c3c776627",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-10-22"
   }
 ]

@@ -15664,7 +15664,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Netcompany | Student Assistant, Netcompany IT Security | Denmark | [Apply](https://jobs.smartrecruiters.com/Netcompany1/744000140217801) | 2026-09-14 |
 | Newrez | 2027 Summer Internship – Recapture Marketing | PA | [Apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/XMLNAME-2027-Summer-Internship---Recapture-Marketing_R10439) | 2026-09-14 |
 | NJM Insurance Group | Financial Reporting Intern | Njm Trenton | [Apply](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Financial-Reporting-Intern_R2008276) | 2026-09-14 |
-| North Cloud | Graphic Designer Intern | Brooklyn, NY | [Apply](https://ats.rippling.com/north-cloud/jobs/c63d1c64-35a9-4e5a-83d7-560c3c776627) | 2026-09-14 |
 | Novogradac | Junior Analyst Intern | Austin, TX | [Apply](https://novoco.wd108.myworkdayjobs.com/Novogradac/job/Austin-TX/Junior-Analyst-Intern_JR100656) | 2026-09-14 |
 | nVent | Electrical Engineering Co-Op (June - Dec 2027) | Solon, OH, United States | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Electrical-Engineering-Co-Op_R23593) | 2026-09-14 |
 | nVent | Finance Intern - Summer 2027 | St Louis Park, MN, United States | [Apply](https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/St-Louis-Park-MN-US/Finance-Intern---Summer-2027_R23569) | 2026-09-14 |
