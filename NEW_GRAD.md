@@ -9,6 +9,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) - MICU | Monroe, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Union---600-Hospital-Dr-Monroe-NC/Registered-Nurse--RN----MICU_R264907) | 2026-10-23 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) –Cardiac Telemetry | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Pineville---10628-Park-Rd-Charlotte-NC/New-Graduate-Registered-Nurse--RN---Cardiac-Telemetry-_R261841) | 2026-10-23 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157214070) | 2026-10-23 |
+| AECOM | Entry-Level Civil/Highway Engineer | Morgantown, WV, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157488094) | 2026-10-23 |
+| AECOM | Entry-Level Environmental Statistician | Grand Rapids, MI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157479969) | 2026-10-23 |
+| AECOM | Entry-Level Environmental Statistician | Novi, MI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157479574) | 2026-10-23 |
 | Amcor | Outreach Specialist- Entry Level | Acd Devens Ma | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Devens-MA/Outreach-Specialist--Entry-Level_REQ_97805) | 2026-10-23 |
 | Anduril | 2027 Early Career Electrical Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) | 2026-10-23 |
 | Anduril | 2027 Early Career Software Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007) | 2026-10-23 |
@@ -44,6 +48,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Daniels Health | Warehouse Associate \| Early Career \| 2nd Shift -7033 | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/7029fe24-da3f-4c63-8961-afb4b3c565cf) | 2026-10-23 |
 | Dell Technologies | Inside Sales Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301118) | 2026-10-23 |
 | DriveTime | Automotive Tech - Entry Level | Tn 38128 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/2177-Covington-Pike-Memphis-TN-38128/Automotive-Tech---Entry-Level_R16543) | 2026-10-23 |
+| Eurofins | Entry Level Chemist- TASC | Columbia, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157485076) | 2026-10-23 |
+| Eurofins | Entry Level Scientist- Viral Clearance | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157211229) | 2026-10-23 |
+| Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157464977) | 2026-10-23 |
+| Expeditors | Logistics Coordinator - entry level (Global Network Management Center)-on-site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000157490989) | 2026-10-23 |
 | Fresenius Medical Care | New Graduate Nurse | Louisville, KY | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Louisville-KY/New-Graduate-Nurse_R0275123) | 2026-10-23 |
 | Fresenius Medical Care | New Graduate Nurse | Lexington, SC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lexington-SC/New-Graduate-Nurse_R0274268) | 2026-10-23 |
 | Hewlett Packard Enterprise | Test Engineer, HPC & AI Systems - (Early Career) | Texas, United States | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3) | 2026-10-23 |
@@ -79,6 +87,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Stripe | Software Engineer, New Grad | Taiwan | [Apply](https://stripe.com/jobs/search?gh_jid=8202299) | 2026-10-23 |
 | The Boeing Company - external_subsidiary | Entry-Level Software Engineer | USA Maryland Heights, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321) | 2026-10-23 |
 | True Anomaly | Software Engineer I, QA (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007) | 2026-10-23 |
+| Veolia | Entry Level Wastewater Technician | Green Bay, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157199994) | 2026-10-23 |
+| Veolia | Entry Level Wastewater Technician | Marinette, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157199603) | 2026-10-23 |
+| Veolia | Entry Level Wastewater Technician | Oconto, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157201589) | 2026-10-23 |
+| Veolia | Entry Level Wastewater Technician | Lena, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157199434) | 2026-10-23 |
 | WSP | Early Career Civil/Structural Transmission Line Engineer | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98138) | 2026-10-23 |
 | WSP | Early Career Substation Drafter | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98139) | 2026-10-23 |
 | WVUMedicine | Emergency Department  New Graduate RN | Princeton Community Hospital (pch) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Emergency-Department--New-Graduate-RN_JR26-47664) | 2026-10-23 |
@@ -505,7 +517,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Urology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Urology_332341) | 2026-10-08 |
 | Conagra Brands | 2nd Shift Entry Level Line Service | Missouri | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Marshall-Missouri/XMLNAME-2nd-Shift-Entry-Level-Line-Service_Req-040497) | 2026-10-08 |
 | ERM | Early Career Consultant - Emissions and Climate | Australia | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Melbourne-Australia/Early-Career-Consultant---Emissions-and-Climate_R00032368-2) | 2026-10-08 |
-| Eurofins | Inside Sales Representative - Entry Level | Baltimore, MD, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000154184069) | 2026-10-08 |
 | Freeform | FPGA Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8016243003) | 2026-10-08 |
 | GE Healthcare | Early Career Trainee- Field Service Engineer (Scotland, Manchester, Leeds, Birmingham, London and Bristol) | Remote | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Early-Career-Trainee--Field-Service-Engineer_R4047058-2) | 2026-10-08 |
 | General Motors | Early Career Software Test Developer - Propulsion Thermal Management | Markham, ON, Canada | [Apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250) | 2026-10-08 |
@@ -550,7 +561,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Emergency Department (ED) | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Emergency-Department--ED-_354509) | 2026-10-07 |
 | Coherent | Machinist -  Entry level | Saxonburg, PA, United States | [Apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014568) | 2026-10-07 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Phoenix Commercial | Phoenix, AZ, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4120/project-specialist%2c-architecture-%7c-2026-new-grad---phoenix-commercial/job) | 2026-10-07 |
-| Eurofins | Laboratory Systems Specialist (Entry Level) | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153853149) | 2026-10-07 |
 | Fresenius Medical Care | New Graduate Nurse- RN | Kalamazoo, MI, United States / Lansing, MI, United States / Wyoming, MI, United States / East Lansing, MI, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Kalamazoo-MI-USA/New-Graduate-Nurse--RN_R0273044) | 2026-10-07 |
 | Highmark Health | RN Ortho/Stroke/Trauma (New Grads Only), Forbes Hospital | Monroeville Pa | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Monroeville-PA-15146-2570-Haymaker-Road/RN-Ortho-Stroke-Trauma--New-Grads-Only---Forbes-Hospital_J281288) | 2026-10-07 |
 | HNTB | New Grad Engineer I: Project Controls - Summer 2027 | Charlotte, NC | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Charlotte-NC/New-Grad-Engineer-I--Project-Controls---Summer-2027_R-31698-1) | 2026-10-07 |
@@ -835,7 +845,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer (Mission Critical/Data Center) | Milwaukee, WI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96184) | 2026-09-25 |
 | WSP | Early Career Process Water/Plumbing Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187) | 2026-09-25 |
 | ZipRecruiter | Software Engineer - New Grad | Santa Monica, Canada | [Apply](https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108) | 2026-09-25 |
-| AECOM | Entry-Level Graduate Opportunities - University of South Florida Career Fair 2026 | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151479730) | 2026-09-24 |
 | Anduril | 2027 Early Career Firmware Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | 2026-09-24 |
 | Anduril | 2027 Early Career Flight Test Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) | 2026-09-24 |
 | Apex Companies | Survey Technician (Entry-Level to Crew Chief) | Somerset, PA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5421315008) | 2026-09-24 |
@@ -1114,7 +1123,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | New Graduate Engineer, Software (Starship) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlottesville, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148324188) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148306780) | 2026-09-09 |
-| Timmons Group | New Graduate Project Engineer I | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148313332) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
 | Verkada | Technical Support Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3023 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/832fa425-7a17-456f-ac27-c5354cbe66b9) | 2026-09-09 |
