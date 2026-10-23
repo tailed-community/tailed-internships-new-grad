@@ -9047,7 +9047,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Beth Israel Lahey Health | Pharmacy Student - Outpatient Pharmacy | Bilh Pharmacy | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/BILH-Pharmacy/Pharmacy-Student---Outpatient-Pharmacy_JR104373) | 2026-10-04 |
 | Enterprise Mobility | Spring 2027 Management Trainee Internship- Cincinnati | Cincinnati – North Hamilton Area | [Apply](https://us-erac.icims.com/jobs/568281/spring-2027-management-trainee-internship--cincinnati/job) | 2026-10-04 |
 | Flowserve | CoOp/Intern Operations | Spain | [Apply](https://flowserve.wd1.myworkdayjobs.com/applied/job/Pozuelo-de-Alarcn-Spain/CoOp-Intern-Operations_R-21034) | 2026-10-04 |
-| iSono Health | Manufacturing Technician Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/isonohealth/jobs/92fdb70a-033a-4bf7-8eb2-6a1b111de686) | 2026-10-04 |
 | Manulife | Winter Co-op 2027 - HR Knowledge | Waterloo, ON | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2027---Knowledge-Analyst_JR26080227) | 2026-10-04 |
 | Marsh | Marsh People and Investments Health and Benefits Summer Internship- Atlanta GA- College Program 2027 | Atlanta Lenox | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Lenox/Health-and-Benefits-Summer-Intern--Atlanta--College-Program-2027_R_368391) | 2026-10-04 |
 | Marvell | Digital IC Design- Intern | Yokneam / Petah-Tikva / Il Petah Tikva | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Yokneam/Digital-IC-Design--Intern_2604489) | 2026-10-04 |
@@ -15067,7 +15066,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | APEX Analytix | Data Science Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | 2026-09-15 |
 | APEX Analytix | IT & Cloud Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a) | 2026-09-15 |
 | APEX Analytix | Learning and Development Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c65b88f8-9e36-4c70-9c02-fe49feab120b) | 2026-09-15 |
-| APEX Analytix | Marketing Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c597035d-7135-4fbe-b5ff-46be4e286868) | 2026-09-15 |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | 2026-09-15 |
 | AppLovin | Product Management Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713039006?gh_jid=4713039006) | 2026-09-15 |
 | Arcadis | Intern Architect | China | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44336) | 2026-09-15 |
@@ -16195,8 +16193,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BDO | Co-op or Intern, Assurance - Saskatoon (January 2027) | Saskatoon 2nd Avenue South | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Saskatoon---2nd-Avenue-South/Co-op-or-Intern--Assurance---Saskatoon--January-2027-_JR7037) | 2026-09-12 |
 | BDO | Co-op or Intern, Assurance - Saskatoon (Summer 2027) | Saskatoon 2nd Avenue South | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Saskatoon---2nd-Avenue-South/Co-op-or-Intern--Assurance---Saskatoon--Summer-2027-_JR7038) | 2026-09-12 |
 | Blue Origin | Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate | Space Coast, FL | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238) | 2026-09-12 |
-| Blue Robotics | Electronics Design Co-op (Jan 2027) | Victoria, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8) | 2026-09-12 |
-| Blue Robotics | Mechanical Design Co-op (Jan 2027) | Victoria, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/63bdab96-fa22-4158-83a4-08a9a9300149) | 2026-09-12 |
 | Booz Allen - bah_jobs | University - Summer 27, Contracts Intern | Mclean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | 2026-09-12 |
 | Booz Allen - bah_jobs | University - Summer 27, Procurement and Global Supply Chain Intern | Mclean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Procurement-and-Global-Supply-Chain-Intern_R0249251) | 2026-09-12 |
 | Bristol Myers Squibb | 2027 Summer Intern, 1Y MBA Finance Associates Program | Princeton Nj US | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/XMLNAME-2027-Summer-Intern--1Y-MBA-Finance-Associates-Program_R1606247) | 2026-09-12 |

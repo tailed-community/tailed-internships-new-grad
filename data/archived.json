@@ -848734,5 +848734,61 @@
     "date_added": "2026-09-14",
     "active": false,
     "date_archived": "2026-10-23"
+  },
+  {
+    "id": "rippling-apex-analytix-c597035d-7135-4fbe-b5ff-46be4e286868",
+    "company": "APEX Analytix",
+    "title": "Marketing Intern (Summer 2027)",
+    "location": "Greensboro, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/c597035d-7135-4fbe-b5ff-46be4e286868",
+    "date_posted": null,
+    "date_added": "2026-09-15",
+    "active": false,
+    "date_archived": "2026-10-23"
+  },
+  {
+    "id": "rippling-blue-robotics-25a883e5-3fa4-459e-9762-5f33a3512cd8",
+    "company": "Blue Robotics",
+    "title": "Electronics Design Co-op (Jan 2027)",
+    "location": "Victoria, Canada",
+    "type": "internship",
+    "season": "2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
+    "date_posted": null,
+    "date_added": "2026-09-12",
+    "active": false,
+    "date_archived": "2026-10-23"
+  },
+  {
+    "id": "rippling-blue-robotics-63bdab96-fa22-4158-83a4-08a9a9300149",
+    "company": "Blue Robotics",
+    "title": "Mechanical Design Co-op (Jan 2027)",
+    "location": "Victoria, Canada",
+    "type": "internship",
+    "season": "2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/blue-robotics/jobs/63bdab96-fa22-4158-83a4-08a9a9300149",
+    "date_posted": null,
+    "date_added": "2026-09-12",
+    "active": false,
+    "date_archived": "2026-10-23"
+  },
+  {
+    "id": "rippling-isono-health-92fdb70a-033a-4bf7-8eb2-6a1b111de686",
+    "company": "iSono Health",
+    "title": "Manufacturing Technician Intern",
+    "location": "Sunnyvale, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/isonohealth/jobs/92fdb70a-033a-4bf7-8eb2-6a1b111de686",
+    "date_posted": null,
+    "date_added": "2026-10-04",
+    "active": false,
+    "date_archived": "2026-10-23"
   }
 ]
