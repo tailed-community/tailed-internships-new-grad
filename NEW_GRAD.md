@@ -7,6 +7,15 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157606559) | 2026-10-24 |
+| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157603460) | 2026-10-24 |
+| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Coral Gables, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157605279) | 2026-10-24 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157554829) | 2026-10-24 |
+| AECOM | Entry-Level Deputy Project Managers - Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157575499) | 2026-10-24 |
+| AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157575689) | 2026-10-24 |
+| AECOM | Entry-Level Geologist - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157575349) | 2026-10-24 |
+| AECOM | Entry-Level Project Control Analyst - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157572839) | 2026-10-24 |
+| AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157554372) | 2026-10-24 |
 | Affirm | Software Engineer I (New Grad 2027) - Instruments team | United Kingdom Remote | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | 2026-10-24 |
 | Anduril | 2027 New Grad Low Observables Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) | 2026-10-24 |
 | BMO | BMO Capital Markets New Grad 2027 Corporate Banking Analyst, Montreal | Montreal, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Corporate-Banking-Analyst--Montreal_R260029806) | 2026-10-24 |
@@ -111,8 +120,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Substation Drafter | Maitland, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98139) | 2026-10-23 |
 | WVUMedicine | Emergency Department  New Graduate RN | Princeton Community Hospital (pch) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Emergency-Department--New-Graduate-RN_JR26-47664) | 2026-10-23 |
 | WVUMedicine | New Graduate RN Emergency Dept | Princeton Community Hospital (pch) | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/New-Graduate-RN-Emergency-Dept_JR26-47662) | 2026-10-23 |
-| AECOM | Entry-level Civil Engineer | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156869019) | 2026-10-22 |
-| AECOM | Entry-level Civil Engineer | Columbia, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156868819) | 2026-10-22 |
 | AECOM | Entry-Level Transportation Planner - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157128989) | 2026-10-22 |
 | Affirm | Analyst, Early Career (Full Stack) | New York, United States / California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | 2026-10-22 |
 | Amentum | Early Career Mechanical Process Engineer | US-Tn-Tullahoma / US-Mi-Detroit / US-Sc-Greenville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Early-Career-Mechanical-Process-Engineer_R0173621) | 2026-10-22 |
@@ -164,15 +171,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Architecture Designer - Networking Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156411735) | 2026-10-21 |
 | AECOM | Entry-Level Bridge Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156587483) | 2026-10-21 |
 | AECOM | Entry-Level Civil Engineer - Aviation | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156668167) | 2026-10-21 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156852772) | 2026-10-21 |
 | AECOM | Entry-Level Civil Engineer - Water - Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156659111) | 2026-10-21 |
 | AECOM | Entry-Level Civil Engineer – Remediation - Networking Event with AECOM | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156426429) | 2026-10-21 |
-| AECOM | Entry-Level Deputy Project Managers - Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156579084) | 2026-10-21 |
-| AECOM | Entry-Level Environmental Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156423614) | 2026-10-21 |
 | AECOM | Entry-Level Environmental Engineer – Remediation - Networking Event with AECOM | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156426519) | 2026-10-21 |
 | AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156451061) | 2026-10-21 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156412059) | 2026-10-21 |
-| AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156853919) | 2026-10-21 |
 | Airbus | Early Career - Embedded Software Engineer (m/f) | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088) | 2026-10-21 |
 | Anduril | 2027 Early Career Mechanical Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007) | 2026-10-21 |
 | Anduril | 2027 Early Career Software Development in Test | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007) | 2026-10-21 |
@@ -326,7 +329,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | AECOM 2027 Hong Kong Graduate Program | Hong Kong | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155926180) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155899839) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155892100) | 2026-10-16 |
-| AECOM | Entry-Level Structural Engineer - Bridge & Transportation Structures | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155827109) | 2026-10-16 |
 | Barrios | Space Operations Computing - Software Engineer (New Grad) | Houston, TX, United States | [Apply](https://careers-barrios.icims.com/jobs/2923/space-operations-computing---software-engineer-%28new-grad%29/job) | 2026-10-16 |
 | CACI | Document Management Technician (Entry Level Legal Support) | Washington, DC, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Document-Management-Technician--Entry-Level-Legal-Support-_333652) | 2026-10-16 |
 | CACI | Entry Level Background Investigator (Onsite) | Tampa, FL, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Entry-Level-Background-Investigator--Onsite-_333608) | 2026-10-16 |
@@ -416,7 +418,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Electrical Engineer (Substation) | Lake Oswego, OR, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97521) | 2026-10-14 |
 | AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155155079) | 2026-10-13 |
 | AECOM | Entry-Level Civil Engineer - Roadway Designer -  Networking Event with AECOM – Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155268930) | 2026-10-13 |
-| AECOM | Entry-Level Geologist - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155324241) | 2026-10-13 |
 | Banner Health | Registered Nurse RN New Grad Progressive Care Unit PCU Nights | Banner North Colorado Medical Center (1801 16th St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Registered-Nurse-RN-New-Grad-Progressive-Care-Unit-PCU-Nights_R4455839) | 2026-10-13 |
 | Belvedere Trading | Quantitative Researcher - Entry Level 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) | 2026-10-13 |
 | Clarivate | Financial Analyst (Entry-level) | R155-Belgrade | [Apply](https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/R155-Belgrade/Financial-Analyst--Entry-level-_JREQ136838-1) | 2026-10-13 |
@@ -687,9 +688,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | USAA | Insurance Sales & Service Representative Licensed and Entry-Level Opportunities Available \| Up to $2,000 Signing Bonus for Qualified Licensed Candidates | Tampa Campus / Tampa Crosstown | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Tampa-Campus/Insurance-Sales---Service-Representative-Licensed-and-Entry-Level-Opportunities-Available---Up-to--2-000-Signing-Bonus-for-Qualified-Licensed-Candidates_R0121383) | 2026-10-02 |
 | USAA | Insurance Sales & Service Representatives \| Licensed and Entry-Level Opportunities Available  \| Up to $2,000 Signing Bonus for Qualified Licensed Candidates | Colorado Springs Campus | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Colorado-Springs-Campus/Insurance-Sales---Service-Representatives---Licensed-and-Entry-Level-Opportunities-Available----Up-to--2-000-Signing-Bonus-for-Qualified-Licensed-Candidates_R0121456) | 2026-10-02 |
 | Woodard Curran | Entry-level Stormwater Engineer (Rye Brook, NY) | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/a751eebd-ca00-495a-aaf2-6d5c3fc33cb7) | 2026-10-02 |
-| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152770984) | 2026-10-01 |
-| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Coral Gables, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771289) | 2026-10-01 |
-| AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152771209) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Engineer – Remediation - Networking Event with AECOM – Boston, MA | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152763439) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM – Boston, MA | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152764379) | 2026-10-01 |
@@ -803,7 +801,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | U.S. Bank | Entry Level Accountant-Transfer Agency | Milwaukee, WI | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Entry-Level-Accountant-Transfer-Agency_2026-0029680-1) | 2026-09-26 |
 | Adobe | 2027 University Graduate - Machine Learning Engineer | San Jose / Waltham / San Francisco / Austin / Seattle / Lehi / New York | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) | 2026-09-25 |
 | Adobe | 2027 University Graduate - Software Engineer | San Jose / San Francisco / Austin / Seattle / Lehi / New York | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | 2026-09-25 |
-| AECOM | Entry-Level Opportunities - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151898199) | 2026-09-25 |
 | AMT Engineering | Entry Level Water Resources Engineer - May 2027 | Maryland | [Apply](https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52) | 2026-09-25 |
 | Barr | Geotechnical Engineer – Entry Level (Hybrid) | Minneapolis, MN / Duluth, MN / Hibbing, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Geotechnical-Engineer---Entry-Level--Hybrid-_R-102351) | 2026-09-25 |
 | CannonDesign | Mechanical - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8844837002) | 2026-09-25 |
