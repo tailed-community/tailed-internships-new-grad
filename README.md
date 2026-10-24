@@ -72,6 +72,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Becton Dickinson | Global Technician - Intern | USA Ne Columbus (east) | [Apply](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-East/Global-Technician---Intern_R-558288) | 2026-10-24 |
 | Biogen | Co-op, Cell & Molecular Neurology Research | Cambridge, MA | [Apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Cell---Molecular-Neurology-Research_REQ24420) | 2026-10-24 |
 | BMO (External) | BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597) | 2026-10-24 |
+| Boson Ai | Internship - MScAC 2027 | Toronto | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9) | 2026-10-24 |
 | Boston Medical Center | Student Nursing Assistant | Brockton, MA | [Apply](https://bmc.wd1.myworkdayjobs.com/BMC/job/Brockton-MA/Student-Nursing-Assistant_51790) | 2026-10-24 |
 | Canadian Tire | Integrated Planning & Communications Student (4 months) - Winter 2027 | Calgary, AB | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Integrated-Planning---Communications-Student--4-months----Winter-2027_JR165205-1) | 2026-10-24 |
 | Carrier Global | Software Engineering Intern - Summer | East Syracuse, NY | [Apply](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588) | 2026-10-24 |
@@ -223,6 +224,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | MSIG USA | Financial Planning & Analysis (FP&A) Analyst Intern | Nj-Warren | [Apply](https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Financial-Planning---Analysis--FP-A--Analyst-Intern_JR-001113) | 2026-10-24 |
 | MSIG USA | Risk Management Intern | Ny-Nyc (ave Of Americas) | [Apply](https://msigna.wd5.myworkdayjobs.com/gbl/job/NY-NYC-Ave-of-Americas/Risk-Management-Intern_JR-001112) | 2026-10-24 |
 | MSIG USA | Underwriting Internship (Political Risk & Credit) | Va-Alexandria | [Apply](https://msigna.wd5.myworkdayjobs.com/gbl/job/VA-Alexandria/Underwriting-Internship--Political-Risk---Credit-_JR-001115) | 2026-10-24 |
+| Multiply Labs | Robotics Software Intern | San Francisco | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | 2026-10-24 |
+| Multiply Labs | Software Intern | San Francisco | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) | 2026-10-24 |
 | NASA Jet Propulsion Laboratory | Financial Strategy, Planning & Analysis Intern | Jpl Campus | [Apply](https://citjpl.wd5.myworkdayjobs.com/Jobs/job/JPL-Campus/Financial-Strategy--Planning---Analysis-Intern_R6194) | 2026-10-24 |
 | Nasdaq | Business Development Intern - 2027 Summer Internship | USA Boston Massachusetts | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Boston---Massachusetts/Business-Development-Intern---2027-Summer-Internship_R0027154) | 2026-10-24 |
 | Nike | Converse AI Enablement Graduate Internship | Massachusetts | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256) | 2026-10-24 |
@@ -259,6 +262,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Schweitzer Engineering Laboratories | Technician Intern | Idaho Lewiston | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Technician-Intern_2026-23254) | 2026-10-24 |
 | Sensata | Marcom Intern - Summer 2027 | Massachusetts | [Apply](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Marcom-Intern---Summer-2027_IRC98670) | 2026-10-24 |
 | Shaw Industries Group | Spring 2027 Enterprise Excellence Intern | Dalton | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-72-900-VD-Parrot-Parkway-Dalton-GA-30721-USA/Spring-2027-Enterprise-Excellence-Intern_R-158398-1) | 2026-10-24 |
+| Shield AI | June 2027 Co-op - Reliability Engineering #5953 | Washington / California / Massachusetts | [Apply](https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3) | 2026-10-24 |
 | Smithfield Foods | Production Research Intern - NC | Warsaw, NC | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Warsaw-NC/Production-Research-Intern---NC_R-2026-15015) | 2026-10-24 |
 | Solar Turbines | Engineering Student Internship (Tijuana, MX) | Baja California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/Tijuana-Baja-California/Engineering-Student-Internship--Tijuana--MX-_R0000397243) | 2026-10-24 |
 | Solenis | Retail Account Representative - Intern | United States Remote | [Apply](https://solenis.wd1.myworkdayjobs.com/en-US/Solenis/job/United-States-of-America-Florida-Remote/Retail-Account-Representative---Intern_R0034145) | 2026-10-24 |
@@ -5904,7 +5908,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Republic Airways | Corporate Culture and Engagement Intern - Summer 2027 | Carmel Headquarters | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Corporate-Culture-and-Engagement-Intern---Summer-2027_JR-007431) | 2026-10-13 |
 | Republic Airways | Safety Intern - Summer 2027 | Carmel Headquarters | [Apply](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Safety-Intern---Summer-2027_JR-007801) | 2026-10-13 |
 | Revvity | Intern/Student | Taicang (suzhou) | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Taicang-Suzhou/Intern-Student_JR-045593) | 2026-10-13 |
-| Rhombus | Software Engineering Intern - Summer 2027 | Sacramento, Canada | [Apply](https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380) | 2026-10-13 |
 | Richemont | Events Intern - 6 months internship | Meyrin | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Events-Intern---6-months-internship_JR134778-1) | 2026-10-13 |
 | Richemont | Retail Performance Intern - 6 months internship | Meyrin | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Retail-Performance-Intern---6-months-internship_JR134779) | 2026-10-13 |
 | Richemont | Stage - Winter@Richemont (H/F) | Marne La Vallee | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MARNE-LA-VALLEE/Stage---Winter-Richemont--H-F-_JR133336-1) | 2026-10-13 |
@@ -8615,8 +8618,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cirrus Logic | 2027 Internship - Analog Design Engineer | Texas / Arizona / North Carolina | [Apply](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec) | 2026-10-05 |
 | Cirrus Logic | 2027 Internship - Design Verification Engineer | Texas / Arizona / North Carolina | [Apply](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e) | 2026-10-05 |
 | Cirrus Logic | 2027 Internship - Digital Design Engineer | Texas / Arizona / North Carolina | [Apply](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e) | 2026-10-05 |
-| Cirrus Logic | 2027 Internship - Embedded Firmware Engineer | Arizona / Texas | [Apply](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8) | 2026-10-05 |
-| Cirrus Logic | 2027 Internship - Embedded Software Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec) | 2026-10-05 |
 | Cirrus Logic | 2027 Internship - Embedded Software Test Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175) | 2026-10-05 |
 | Cirrus Logic | 2027 Internship - Mixed Signal Products Applications Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2) | 2026-10-05 |
 | Cirrus Logic | 2027 Internship - Product Test Engineer | Texas | [Apply](https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e) | 2026-10-05 |
@@ -23271,7 +23272,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Axon - axontalentcommunity | 2027 US Electrical Engineering Internship | Arizona, United States | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003) | 2026-08-08 |
 | Belvedere Trading | Quantitative Trading Intern - Summer 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | 2026-08-08 |
 | Belvedere Trading | Quantitative Trading Intern - Winter Quarter 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) | 2026-08-08 |
-| Belvedere Trading | Software Engineer Intern - Summer 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | 2026-08-08 |
 | Delta Dental | Internship - Application Development | Okemos, MI | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) | 2026-08-08 |
 | Enterprise Mobility | Spring 2027 Management Trainee Internship | Augusta • North Augusta • Aiken • Evans • Grovetown | [Apply](https://us-erac.icims.com/jobs/561635/spring-2027-management-trainee-internship/job) | 2026-08-08 |
 | Enterprise Mobility | Spring 2027 Management Trainee Internship | Bluffton • Hilton Head Island • Hardeeville • Okatie | [Apply](https://us-erac.icims.com/jobs/561639/spring-2027-management-trainee-internship/job) | 2026-08-08 |

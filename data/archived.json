@@ -853172,5 +853172,61 @@
     "date_added": "2026-09-10",
     "active": false,
     "date_archived": "2026-10-24"
+  },
+  {
+    "id": "lever-belvedere-trading-10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+    "company": "Belvedere Trading",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Illinois",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+    "date_posted": "2026-08-04",
+    "date_added": "2026-08-08",
+    "active": false,
+    "date_archived": "2026-10-24"
+  },
+  {
+    "id": "lever-cirrus-logic-0af920c1-6ecb-447f-9b22-3eda6b8d4ed8",
+    "company": "Cirrus Logic",
+    "title": "2027 Internship - Embedded Firmware Engineer",
+    "location": "Arizona / Texas",
+    "type": "internship",
+    "season": "2027",
+    "source": "lever",
+    "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8",
+    "date_posted": "2026-09-11",
+    "date_added": "2026-10-05",
+    "active": false,
+    "date_archived": "2026-10-24"
+  },
+  {
+    "id": "lever-cirrus-logic-f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec",
+    "company": "Cirrus Logic",
+    "title": "2027 Internship - Embedded Software Engineer",
+    "location": "Texas",
+    "type": "internship",
+    "season": "2027",
+    "source": "lever",
+    "url": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec",
+    "date_posted": "2026-09-11",
+    "date_added": "2026-10-05",
+    "active": false,
+    "date_archived": "2026-10-24"
+  },
+  {
+    "id": "lever-rhombus-59e7a5f3-b457-491d-af08-b629ad35e380",
+    "company": "Rhombus",
+    "title": "Software Engineering Intern - Summer 2027",
+    "location": "Sacramento, CA",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380",
+    "date_posted": "2026-10-13",
+    "date_added": "2026-10-13",
+    "active": false,
+    "date_archived": "2026-10-24"
   }
 ]
