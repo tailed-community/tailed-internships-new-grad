@@ -287,7 +287,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Surveyor | Holdrege, NE / Kearney, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5456726008) | 2026-10-19 |
 | RELX | Elsevier Netherlands Graduate Program 2027 | Amsterdam | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Amsterdam/Elsevier-Netherlands-Graduate-Program-2027_R118878-2) | 2026-10-19 |
 | State Street | Operations Early Career Entry Program | India / Osl / Pun-Cwtop456-9 / Chennai / Mumbai | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807) | 2026-10-19 |
-| Clera | Entry-Level Robot Learning Engineer | Germany | [Apply](https://jobs.ashbyhq.com/clera/db2507c5-7fc5-43e5-a28d-547175e8f979) | 2026-10-18 |
 | Advocate Health Care | Registered Nurse (RN) New Graduate - Medical/Surgical | Aurora Medical Center Summit 36500 Aurora Dr | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Aurora-Medical-Center-Summit---36500-Aurora-Dr/Registered-Nurse--RN----Medical-Surgical_R274175) | 2026-10-17 |
 | Anduril | 2027 Early Career Division Operations | Virginia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007) | 2026-10-17 |
 | Bass Pro Shops | Transportation Coordinator - Entry Level | Mo (big Cedar Lodge) | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Ridgedale-MO-Big-Cedar-Lodge/Transportation-Coordinator---Entry-Level_R270721) | 2026-10-17 |
