@@ -8,6 +8,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Fresenius Medical Care | New Graduate Nurse | Franklin, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Franklin-VA/New-Graduate-Nurse_R0275314) | 2026-10-25 |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT BHU | Bengaluru | [Apply](https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002) | 2026-10-25 |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Hyderabad | Bengaluru | [Apply](https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002) | 2026-10-25 |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Kanpur | Bengaluru | [Apply](https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002) | 2026-10-25 |
+| Point72 | 2027 Software Engineer - Campus Graduate Program - IIT Madras | Bengaluru | [Apply](https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002) | 2026-10-25 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157606559) | 2026-10-24 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157603460) | 2026-10-24 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Coral Gables, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157605279) | 2026-10-24 |
@@ -1037,8 +1041,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intermountain Healthcare | RN New Graduate Spring 2027 Cohort St Vincent Hospital | Intermountain Health St Vincent Regional Hospital | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/RN-New-Graduate-Spring-2027-Cohort-St-Vincent-Hospital_R183642) | 2026-09-12 |
 | Sentara Health | Registered Nurse (RN) - Burn Trauma Intermediate Care - Med/Surg (New Grads) | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Registered-Nurse--RN----Burn-Trauma-Intermediate-Care---Med-Surg_JR-105915-1) | 2026-09-12 |
 | SpaceX | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) | 2026-09-12 |
-| SpaceX | New Graduate Engineer, Security Software (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | 2026-09-12 |
 | SpaceX | New Graduate Engineer, Security Software (Starshield) | Washington, DC | [Apply](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | 2026-09-12 |
 | Accenture | Entry Level Supply Chain and Engineering - Joshua Tree Group Process Excellence Summer Analyst - Houston - NAELFY27 | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Houston-1301-Fannin-Corp/Entry-Level-Supply-Chain-and-Engineering---Joshua-Tree-Group-Process-Excellence-Summer-Analyst---Houston---NAELFY27_R00356105) | 2026-09-11 |
 | Applied Materials | Manufacturing Engineer (Entry-level) | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Manufacturing-Engineer--Entry-level-_R2628209) | 2026-09-11 |
 | Barr | Substation Structural Engineer – Entry Level (Hybrid) | Ann Arbor, MI / Duluth, MN / Minneapolis, MN / Fort Collins, CO / Wheat Ridge, CO | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Substation-Structural-Engineer---Entry-Level--Hybrid-_R-102334) | 2026-09-11 |
@@ -1474,15 +1478,15 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shaw Industries Group | Entry Level Manufacturing \| 12-Hrs Rotating Nights | Chickamauga | [Apply](https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-SI-309-Lafayette-Road-Chickamauga-GA-30707-USA/Entry-Level-Manufacturing---12-Hrs-Rotating-Nights_R-156017) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software  - '26/'27  (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 2026-08-15 |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 2026-08-15 |
 | WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, Canada | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) | 2026-08-15 |
 | WeRide | New Grads 2027 - Software Engineer, Algorithm | San Jose, Canada | [Apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b) | 2026-08-15 |

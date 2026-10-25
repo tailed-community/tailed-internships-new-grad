@@ -842842,20 +842842,6 @@
     "date_archived": "2026-10-23"
   },
   {
-    "id": "greenhouse-wpp-media-5178841008",
-    "company": "WPP Media",
-    "title": "Stage Consultant Data & Tech F/H",
-    "location": "Paris, France",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5178841008",
-    "date_posted": "2026-04-07",
-    "date_added": "2026-06-02",
-    "active": false,
-    "date_archived": "2026-10-23"
-  },
-  {
     "id": "ashby-abridge-aab11857-7ed3-4fc5-aab3-35256601117e",
     "company": "Abridge",
     "title": "Member of Technical Staff, Intern",
@@ -852740,20 +852726,6 @@
     "date_archived": "2026-10-24"
   },
   {
-    "id": "greenhouse-wpp-media-5293581008",
-    "company": "WPP Media",
-    "title": "Stage Consultant Média International F/H",
-    "location": "Paris, France",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "greenhouse",
-    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5293581008",
-    "date_posted": "2026-07-06",
-    "date_added": "2026-07-09",
-    "active": false,
-    "date_archived": "2026-10-24"
-  },
-  {
     "id": "ashby-ai-intern-to-the-ceo-3590960d-4d02-48bb-a335-cb82e121a01e",
     "company": "AI Intern to the CEO",
     "title": "Hardware Engineering Intern (Co-Op Spring/Intern Summer 2027)",
@@ -856992,6 +856964,48 @@
     "url": "https://jobs.lever.co/allegiantair/dce29752-293e-4ee7-ada4-b99f52bf6d56",
     "date_posted": "2026-10-06",
     "date_added": "2026-10-17",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "greenhouse-celonis-7989895003",
+    "company": "Celonis",
+    "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
+    "location": "Spain",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
+    "date_posted": "2026-09-28",
+    "date_added": "2026-09-28",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "greenhouse-wpp-media-5365283008",
+    "company": "WPP Media",
+    "title": "Stage Consultant Data & Tech F/H",
+    "location": "Paris, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5365283008",
+    "date_posted": "2026-07-21",
+    "date_added": "2026-07-21",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "greenhouse-wpp-media-5269245008",
+    "company": "WPP Media",
+    "title": "Stage Consultant Média International F/H",
+    "location": "Paris, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "greenhouse",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5269245008",
+    "date_posted": "2026-06-24",
+    "date_added": "2026-06-25",
     "active": false,
     "date_archived": "2026-10-25"
   }
