@@ -28,6 +28,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/clera/66403296-1183-409d-9901-b3fee2321508) | 2026-10-25 |
 | Clera | Working Student, Go-to-Market (m/w/d) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ef33b329-9496-4626-9408-77fbbb1553b6) | 2026-10-25 |
 | CVS Health | Pharmacy Intern - Grad | Sc Lyman | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Lyman/Pharmacy-Intern---Grad_R1025001) | 2026-10-25 |
+| Dell Technologies | Services Analytics Graduate Intern | TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) | 2026-10-25 |
+| Dell Technologies | Services Data Science Graduate Intern | TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | 2026-10-25 |
 | GE Healthcare | V&V Intern | Haifa Healthcare Ha Il 2 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2) | 2026-10-25 |
 | International Rescue Committee (IRC) | Intern-HR Documentation Assistant (Tripoli- Benghazi) | Libya | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Tripoli-Libya/Intern-HR-Documentation-Assistant--Tripoli--Benghazi-_JR00005663-1) | 2026-10-25 |
 | International Rescue Committee (IRC) | Internship – Various Departments | Not Specified | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Internship---Various-Departments_JR00005659-1) | 2026-10-25 |
@@ -41,6 +43,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PricewaterhouseCoopers (PwC) | Intern - Assurance (February 2027 Intake) | Kuala Lumpur | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Intern---Assurance--February-2027-Intake-_769882WD) | 2026-10-25 |
 | RTX - Private_Posting_No_TMP | Stage - Hiver 2027 - Ingénieur client et Nouveau programme moteur / Internship - Winter 2027 - Customer Engineering & New Engine Program | CA-QC-Longueuil-J01 ~ 1000 Blvd Marie-Victorin ~ J01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnieur-client-et-Nouveau-programme-moteur---Internship---Winter-2027---Customer-Engineering---New-Engine-Program_01871696-1) | 2026-10-25 |
 | Sanofi | Communications-intern-Beijing | Beijing | [Apply](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Beijing/Communications-intern-Beijing_R2876243) | 2026-10-25 |
+| Stantec | Mechanical Engineering Student - Buildings (Winter 2027) – 4-8 Month Term | Vancouver, BC, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008493) | 2026-10-25 |
+| Stantec | Structural Co-op Student - Buildings (Winter 2027) 4 - 8 Month Term | Victoria, BC, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008492) | 2026-10-25 |
 | ABB | Engineering Sales Intern - Summer 2027 | MA, United States | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-MA-Quincy/Engineering-Sales-Intern---Summer-2027_JR00051359) | 2026-10-24 |
 | AbbVie | 2027 1L Summer Associate | North Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016378826) | 2026-10-24 |
 | Accenture | Consultant Secure AI en stage - F/H Paris | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Paris/Consultant-Secure-AI-en-stage---F-H-Paris_R00365263) | 2026-10-24 |
@@ -9251,7 +9255,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arc | Electrical Hardware Engineering Intern | Torrance, Canada | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008) | 2026-10-03 |
 | Arc | Software Engineering Intern | Torrance, Canada | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | 2026-10-03 |
 | Arch Capital Group | Middle Market Commercial Underwriting Intern | Ga United States Of America | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Alpharetta-GA-United-States-of-America/Middle-Market-Commercial-Underwriting-Intern_R26_1047) | 2026-10-03 |
-| ATCO | January 2027 Supply Chain Co-op - Category Management and Sourcing | Edmonton, AB, Canada | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20765) | 2026-10-03 |
 | Axos Bank | Accounting Intern | Hq San Diego, Canada | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Accounting-Intern_JR5607) | 2026-10-03 |
 | Axos Bank | Audit Analyst Intern | Hq San Diego, Canada | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Audit-Analyst-Intern_JR5569) | 2026-10-03 |
 | Axos Bank | Business Analyst Intern | Hq San Diego, Canada | [Apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Business-Analyst-Intern_JR5593) | 2026-10-03 |
@@ -12087,7 +12090,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stantec | Civil/Environmental Engineering Intern/Co-op – Water (Summer 2027) | South Burlington, VT, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008011) | 2026-09-25 |
 | Stantec | Civil/Geotechnical Engineering Intern - Water (Summer 2027) | Lexington, KY, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007964) | 2026-09-25 |
 | Stantec | Renewable Energy Civil Intern (Summer 2027) | Chicago, IL, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008000) | 2026-09-25 |
-| Stantec | Renewable Energy Civil Intern (Summer 2027) | Minneapolis, MN, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008002) | 2026-09-25 |
 | State of Wisconsin Investment Board | UI/UX Intern | Madison Wisconsin | [Apply](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/UI-UX-Intern_R-001326) | 2026-09-25 |
 | Stripe | Financial Data Analyst Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) | 2026-09-25 |
 | Stryker | Sourcing Intern | Poland | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Skawina-Poland/Sourcing-Intern_R573432) | 2026-09-25 |
@@ -13446,7 +13448,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kraft Heinz - KraftHeinz_Careers | HR & TA Intern | Amsterdam | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/HR---TA-Intern_R-106846) | 2026-09-21 |
 | Kraft Heinz - KraftHeinz_Careers | HR (Communications) Intern | Amsterdam | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/HR--Communications--Intern_R-106850) | 2026-09-21 |
 | Kraft Heinz - KraftHeinz_Careers | Law Intern | Amsterdam | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Amsterdam/Law-Intern_R-106857) | 2026-09-21 |
-| Lazard | 2027 - M&A Internship Brussels | Belgium | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6525) | 2026-09-21 |
 | Lazard | 2027 Data Engineer Summer Internship | New York, United States | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) | 2026-09-21 |
 | Lazard | 2027 Emerging Markets Equity Research Summer Internship | New York, United States | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6611) | 2026-09-21 |
 | Lazard | 2027 Institutional Client Group Summer Internship | New York, United States | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6608) | 2026-09-21 |
@@ -13468,6 +13469,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lazard | Stage H/F - Assistant Juridique en Asset Management – Juillet 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6347) | 2026-09-21 |
 | Lazard | Stage H/F - Chargé de Projets - Intelligence Artificielle – Mars 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6340) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Gestion Privée (Lyon) – Janvier 2027 | Lyon, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6322) | 2026-09-21 |
+| Lazard | Stage H/F - Développement Gestion Privée – Bruxelles - Janvier 2027 | Belgium | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6324) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Gestion Privée – Luxembourg – Mars 2027 | Luxembourg | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6343) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Gestion Privée – Paris – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6321) | 2026-09-21 |
 | Lazard | Stage H/F - Private Equity – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6317) | 2026-09-21 |
@@ -21499,7 +21501,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | Logistics Internship (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278662) | 2026-08-26 |
 | Vertiv | Service Operations Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280006) | 2026-08-26 |
 | Wabtec | Junior Sourcing Specialist – Intern | Katy Wroclawskie, DS | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990014833136) | 2026-08-26 |
-| WTW | Early Careers: Pension Outsourcing Internship - (Winter, Summer or Fall 2027) – Toronto | Toronto, ON, Canada | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605486) | 2026-08-26 |
 | Advanced Space | 2027 DevOps Summer Internship | Westminster, CO | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009) | 2026-08-25 |
 | Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) | 2026-08-25 |
 | Advanced Space | 2027 Mission Design Summer Internship | Westminster, CO | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009) | 2026-08-25 |
