@@ -857008,5 +857008,61 @@
     "date_added": "2026-06-25",
     "active": false,
     "date_archived": "2026-10-25"
+  },
+  {
+    "id": "ashby-clera-4e2e6bab-3085-4ae4-95ee-ddeefb59fc52",
+    "company": "Clera",
+    "title": "Founder's Associate Intern (GTM)",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/4e2e6bab-3085-4ae4-95ee-ddeefb59fc52",
+    "date_posted": "2026-10-18",
+    "date_added": "2026-10-19",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "ashby-clera-d5e8d923-bf76-413d-b46a-5ad2da90dad4",
+    "company": "Clera",
+    "title": "Operations Intern",
+    "location": "Utah, United States / United States Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/d5e8d923-bf76-413d-b46a-5ad2da90dad4",
+    "date_posted": "2026-10-24",
+    "date_added": "2026-10-24",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "ashby-clera-a61f6fda-bb2f-4a26-8aaa-46515fcff0fe",
+    "company": "Clera",
+    "title": "Sales Development Representative, Early Career",
+    "location": "Utah, United States / United States Remote",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/a61f6fda-bb2f-4a26-8aaa-46515fcff0fe",
+    "date_posted": "2026-10-19",
+    "date_added": "2026-10-19",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "ashby-clera-ce486e0c-0728-49b8-899d-b9e9bd430329",
+    "company": "Clera",
+    "title": "Founders Associate (Intern)",
+    "location": "Germany, Germany",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clera/ce486e0c-0728-49b8-899d-b9e9bd430329",
+    "date_posted": "2026-10-17",
+    "date_added": "2026-10-18",
+    "active": false,
+    "date_archived": "2026-10-25"
   }
 ]

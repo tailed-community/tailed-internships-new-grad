@@ -23,6 +23,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | ABB | Assistant Test Engineer (Intern) | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251) | 2026-10-25 |
 | Accenture | Práctica Adm. RRHH -ChangeMakers Internship Program | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Adm-RRHH--ChangeMakers-Internship-Program_R00365388) | 2026-10-25 |
+| Clera | Operations Intern | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/clera/5d56a61d-5a01-4ca4-a814-c23888b06e10) | 2026-10-25 |
+| Clera | Strategic Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/a8c434b5-0e1e-4864-9af2-5d3439f10c28) | 2026-10-25 |
+| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/clera/66403296-1183-409d-9901-b3fee2321508) | 2026-10-25 |
+| Clera | Working Student, Go-to-Market (m/w/d) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ef33b329-9496-4626-9408-77fbbb1553b6) | 2026-10-25 |
 | CVS Health | Pharmacy Intern - Grad | Sc Lyman | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Lyman/Pharmacy-Intern---Grad_R1025001) | 2026-10-25 |
 | GE Healthcare | V&V Intern | Haifa Healthcare Ha Il 2 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2) | 2026-10-25 |
 | International Rescue Committee (IRC) | Intern-HR Documentation Assistant (Tripoli- Benghazi) | Libya | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Tripoli-Libya/Intern-HR-Documentation-Assistant--Tripoli--Benghazi-_JR00005663-1) | 2026-10-25 |
@@ -123,7 +127,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Banking  – Commercial Banking, Internship, São Paulo – Brazil, 2027 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking----Commercial-Banking--Internship--So-Paulo---Brazil--2027_261003922) | 2026-10-24 |
 | Clarios | Finance Intern - Tampa, FL (Summer 2027) | Tampa, United States | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Florida-Tampa/Finance-Intern---Tampa--FL--Summer-2027-_WD50756-1) | 2026-10-24 |
 | Clera | Founders Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/329fafff-88a9-4990-bc29-4624c61cc535) | 2026-10-24 |
-| Clera | Operations Intern | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/clera/d5e8d923-bf76-413d-b46a-5ad2da90dad4) | 2026-10-24 |
 | Cleveland Clinic | Pharmacy Intern - Summer 2027 Internship | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern---Summer-2027-Internship_344656) | 2026-10-24 |
 | Constellation Energy | 2027 Outage Services Engineering Intern - Pasadena, TX | Texas | [Apply](https://jobs.constellationenergy.com/jobs/140397?lang=en-us&icims=1) | 2026-10-24 |
 | Copart | Software Engineering Intern | Tx Headquarters | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689) | 2026-10-24 |
@@ -3314,7 +3317,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Citi | Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027 | Taguig Philippines | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885) | 2026-10-19 |
 | Citi | Technology- Cyber Security, Summer Analyst (Internship), Philippines 2027 | Taguig Philippines | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901) | 2026-10-19 |
 | Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/d4fb0923-efb7-4284-958b-d6dfa5d884ff) | 2026-10-19 |
-| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/4e2e6bab-3085-4ae4-95ee-ddeefb59fc52) | 2026-10-19 |
 | Cook Group | Manufacturing Engineering - Summer 2027 Intern - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19846/manufacturing-engineering---summer-2027-intern---bloomington%2c-in/job) | 2026-10-19 |
 | Cook Group | Manufacturing Engineering Co-op - Fall 2027 - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19847/manufacturing-engineering-co-op---fall-2027---bloomington%2c-in/job) | 2026-10-19 |
 | Cook Group | Manufacturing Engineering Co-op - Spring 2027 - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19568/manufacturing-engineering-co-op---spring-2027---bloomington%2c-in/job) | 2026-10-19 |
@@ -3794,7 +3796,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ZOLL Medical Corporation | Mechanical Engineering Student | Il Caesarea | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/Mechanical-Engineering-Student_R20601) | 2026-10-19 |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | 2026-10-19 |
 | Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0) | 2026-10-18 |
-| Clera | Founders Associate (Intern) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ce486e0c-0728-49b8-899d-b9e9bd430329) | 2026-10-18 |
 | East Penn Manufacturing Company | Sales Internship - (Summer 2027) | Not Specified | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/31306/sales-internship---%28summer-2027%29/job) | 2026-10-18 |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4722871006) | 2026-10-18 |
 | First Citizens BancShares | 2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/35828?lang=en-us&icims=1) | 2026-10-18 |
