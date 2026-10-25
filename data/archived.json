@@ -857134,5 +857134,47 @@
     "date_added": "2026-08-26",
     "active": false,
     "date_archived": "2026-10-25"
+  },
+  {
+    "id": "smartrecruiters-ramboll-744000153503474",
+    "company": "Ramboll",
+    "title": "Intern for Ramboll Management Consulting, Sustainability Consulting and ESG",
+    "location": "Denmark",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000153503474",
+    "date_posted": "2026-10-05",
+    "date_added": "2026-10-05",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000156542079",
+    "company": "Robert Bosch Venture Capital",
+    "title": "IT Compliance Intern in Regulatory Excellence (f/m)",
+    "location": "Poland",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156542079",
+    "date_posted": "2026-10-20",
+    "date_added": "2026-10-21",
+    "active": false,
+    "date_archived": "2026-10-25"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000147157559",
+    "company": "Robert Bosch Venture Capital",
+    "title": "[BD] OutSystems Developer Intern",
+    "location": "Vietnam",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147157559",
+    "date_posted": "2026-09-03",
+    "date_added": "2026-09-03",
+    "active": false,
+    "date_archived": "2026-10-25"
   }
 ]
