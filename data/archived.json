@@ -625730,20 +625730,6 @@
     "date_archived": "2026-09-30"
   },
   {
-    "id": "workable-responsiveads-5496041",
-    "company": "ResponsiveAds",
-    "title": "ResponsiveAds Full-Stack Developer (2026 Summer and Fall Internship)",
-    "location": "Vancouver, British Columbia, Canada",
-    "type": "internship",
-    "season": "Summer 2026",
-    "source": "workable",
-    "url": "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/",
-    "date_posted": "2026-01-29",
-    "date_added": "2026-09-03",
-    "active": false,
-    "date_archived": "2026-09-30"
-  },
-  {
     "id": "workable-scitec-6099546",
     "company": "SciTec",
     "title": "SciTec Internship - Princeton 2027",
@@ -751814,20 +751800,6 @@
     "date_archived": "2026-10-14"
   },
   {
-    "id": "workable-luminance-4921513",
-    "company": "Luminance",
-    "title": "AI Engineering Intern",
-    "location": "Cambridge, England, United Kingdom",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/luminance-1/j/E045EF5A7A/",
-    "date_posted": "2025-06-06",
-    "date_added": "2026-08-17",
-    "active": false,
-    "date_archived": "2026-10-14"
-  },
-  {
     "id": "workable-oceancomm-5643517",
     "company": "OceanComm",
     "title": "Electronics Technician Intern",
@@ -751866,20 +751838,6 @@
     "url": "https://apply.workable.com/oceancomm/j/A96B95A022/",
     "date_posted": "2026-03-05",
     "date_added": "2026-08-19",
-    "active": false,
-    "date_archived": "2026-10-14"
-  },
-  {
-    "id": "workable-rave-aerospace-6102464",
-    "company": "RAVE Aerospace",
-    "title": "Intern - Software Engineering (Summer 2027)",
-    "location": "Laramie, Wyoming, United States",
-    "type": "internship",
-    "season": "Summer 2027",
-    "source": "workable",
-    "url": "https://apply.workable.com/raveaerospace/j/739753C003/",
-    "date_posted": "2026-09-15",
-    "date_added": "2026-10-13",
     "active": false,
     "date_archived": "2026-10-14"
   },
@@ -808076,20 +808034,6 @@
     "url": "https://apply.workable.com/keywords-intl1/j/4265B34738/",
     "date_posted": "2026-04-30",
     "date_added": "2026-06-26",
-    "active": false,
-    "date_archived": "2026-10-20"
-  },
-  {
-    "id": "workable-mindex-6100928",
-    "company": "Mindex",
-    "title": "Software Engineer Co-Op - On-site",
-    "location": "Rochester, New York, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/mindex/j/84B10DB922/",
-    "date_posted": "2026-10-01",
-    "date_added": "2026-10-13",
     "active": false,
     "date_archived": "2026-10-20"
   },
@@ -867674,6 +867618,20 @@
     "url": "https://jobs.smartrecruiters.com/Wise/744000156265544",
     "date_posted": "2026-10-19",
     "date_added": "2026-10-19",
+    "active": false,
+    "date_archived": "2026-10-26"
+  },
+  {
+    "id": "workable-connectprep-6028054",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Remote, Washington, District of Columbia, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
+    "date_posted": "2026-08-13",
+    "date_added": "2026-08-13",
     "active": false,
     "date_archived": "2026-10-26"
   }
