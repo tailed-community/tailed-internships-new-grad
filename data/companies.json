@@ -1041,6 +1041,26 @@
     "enabled": true
   },
   {
+    "company": "Aegon Asset Management",
+    "source": "workday",
+    "url": "https://transamerica.wd5.myworkdayjobs.com/AUK_JobSite",
+    "tenant": "transamerica",
+    "site": "AUK_JobSite",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Aerospike",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/aerospike",
@@ -2301,6 +2321,26 @@
     ]
   },
   {
+    "company": "AMA",
+    "source": "workday",
+    "url": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama",
+    "tenant": "albertamotorassociation",
+    "site": "ama",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "AMAROK Security",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/amarok",
@@ -2433,6 +2473,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "AMEND Consulting",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/amendconsulting",
+    "slug": "amendconsulting",
+    "enabled": true
   },
   {
     "company": "Amentum",
@@ -3046,6 +3093,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/ampleinc",
     "slug": "ampleinc",
+    "enabled": true
+  },
+  {
+    "company": "Amplify",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/amplify",
+    "slug": "amplify",
     "enabled": true
   },
   {
@@ -7027,6 +7081,25 @@
     ]
   },
   {
+    "company": "Bertelsmann",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs",
+    "slug": "Bertelsmann-Jobs",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "Bertram Capital Management",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/bertramcapitalmanagement",
@@ -9038,6 +9111,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Brunswick Group",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/brunswickgroup",
+    "slug": "brunswickgroup",
+    "enabled": true
   },
   {
     "company": "BTI360",
@@ -12025,6 +12105,13 @@
     "enabled": true
   },
   {
+    "company": "ClickHouse",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/clickhouse",
+    "slug": "clickhouse",
+    "enabled": true
+  },
+  {
     "company": "ClickTime",
     "source": "lever",
     "url": "https://jobs.lever.co/clicktime",
@@ -12844,6 +12931,25 @@
       "summer student",
       "new grad",
       "new graduate",
+      "graduate"
+    ]
+  },
+  {
+    "company": "CommonAI C.I.C.",
+    "source": "workable",
+    "url": "https://apply.workable.com/commonai",
+    "slug": "commonai",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
       "graduate"
     ]
   },
@@ -17256,6 +17362,25 @@
     ]
   },
   {
+    "company": "EDF Energy",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/EDF-UK",
+    "slug": "EDF-UK",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
+  },
+  {
     "company": "edmentum",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/edmentum",
@@ -19813,6 +19938,26 @@
     ]
   },
   {
+    "company": "FedEx Freight",
+    "source": "workday",
+    "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site",
+    "tenant": "freight",
+    "site": "FXF_External_Career_Site",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Fehr & Peers",
     "source": "lever",
     "url": "https://jobs.lever.co/fehrandpeers",
@@ -21414,6 +21559,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Freestone Capital Management",
+    "source": "greenhouse",
+    "url": "https://boards.greenhouse.io/freestonecapitalmanagement",
+    "slug": "freestonecapitalmanagement",
+    "enabled": true
   },
   {
     "company": "Fresenius Kabi",
@@ -25613,6 +25765,13 @@
     "enabled": true
   },
   {
+    "company": "Humble Robotics",
+    "source": "lever",
+    "url": "https://jobs.lever.co/humble-robotics",
+    "slug": "humble-robotics",
+    "enabled": true
+  },
+  {
     "company": "Hunt Oil Company",
     "source": "oracle_hcm",
     "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
@@ -28841,6 +29000,14 @@
     "enabled": true
   },
   {
+    "company": "Kentro",
+    "source": "icims",
+    "url": "https://careers.kentro.us?icims=1",
+    "host": "careers.kentro.us",
+    "mode": "jibe",
+    "enabled": true
+  },
+  {
     "company": "Kenvue",
     "source": "workday",
     "url": "https://kenvue.wd5.myworkdayjobs.com/kenvue",
@@ -30775,6 +30942,13 @@
       "entry level",
       "graduate"
     ]
+  },
+  {
+    "company": "Linkup",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/linkup",
+    "slug": "linkup",
+    "enabled": true
   },
   {
     "company": "LINQ",
@@ -33340,6 +33514,13 @@
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/metalenz",
     "slug": "metalenz",
+    "enabled": true
+  },
+  {
+    "company": "Metamorphic",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/metamorphic",
+    "slug": "metamorphic",
     "enabled": true
   },
   {
@@ -36741,6 +36922,13 @@
     "enabled": true
   },
   {
+    "company": "Nubank",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/nubank",
+    "slug": "nubank",
+    "enabled": true
+  },
+  {
     "company": "Nuclear Promise X",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/NPX",
@@ -36774,6 +36962,25 @@
     "url": "https://boards.greenhouse.io/nuna",
     "slug": "nuna",
     "enabled": true
+  },
+  {
+    "company": "Nuovo Photography",
+    "source": "workable",
+    "url": "https://apply.workable.com/nuovophotography",
+    "slug": "nuovophotography",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level",
+      "graduate"
+    ]
   },
   {
     "company": "NV5 Global",
@@ -37611,6 +37818,13 @@
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/openai",
     "slug": "openai",
+    "enabled": true
+  },
+  {
+    "company": "OpenArt AI",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/openart",
+    "slug": "openart",
     "enabled": true
   },
   {
@@ -41844,6 +42058,13 @@
     "enabled": true
   },
   {
+    "company": "Redgate",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/red-gate",
+    "slug": "red-gate",
+    "enabled": true
+  },
+  {
     "company": "Redhorse",
     "source": "lever",
     "url": "https://jobs.lever.co/redhorsecorp",
@@ -43184,6 +43405,26 @@
     ]
   },
   {
+    "company": "Rogue Fitness",
+    "source": "workday",
+    "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers",
+    "tenant": "roguefitness",
+    "site": "RogueFitness_External_Careers",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "co op",
+      "student",
+      "summer student",
+      "new grad",
+      "new graduate",
+      "graduate"
+    ]
+  },
+  {
     "company": "Rokt",
     "source": "workable",
     "url": "https://apply.workable.com/rokt",
@@ -44281,6 +44522,13 @@
       "new graduate",
       "graduate"
     ]
+  },
+  {
+    "company": "Sardine",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/sardine",
+    "slug": "sardine",
+    "enabled": true
   },
   {
     "company": "Sarepta",
@@ -47041,6 +47289,13 @@
     "enabled": true
   },
   {
+    "company": "SpAItial",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/spaitial",
+    "slug": "spaitial",
+    "enabled": true
+  },
+  {
     "company": "Span",
     "source": "ashby",
     "url": "https://jobs.ashbyhq.com/span",
@@ -47923,6 +48178,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Steel",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/steel",
+    "slug": "steel",
+    "enabled": true
   },
   {
     "company": "Steel Dynamics",
@@ -51343,6 +51605,13 @@
     "enabled": true
   },
   {
+    "company": "Trace Labs",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/tracelabs",
+    "slug": "tracelabs",
+    "enabled": true
+  },
+  {
     "company": "Trace3",
     "source": "greenhouse",
     "url": "https://boards.greenhouse.io/trace3",
@@ -52204,6 +52473,26 @@
     "url": "https://university-uber.icims.com/jobs/search",
     "host": "university-uber.icims.com",
     "mode": "classic",
+    "enabled": true,
+    "search_terms": [
+      "intern",
+      "internship",
+      "co-op",
+      "coop",
+      "student",
+      "new grad",
+      "new graduate",
+      "early career",
+      "entry level"
+    ]
+  },
+  {
+    "company": "Uber",
+    "source": "oracle_hcm",
+    "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "host": "iaziqy.fa.ocs.oraclecloud.com",
+    "language": "en",
+    "site": "CX_1",
     "enabled": true,
     "search_terms": [
       "intern",
@@ -53231,6 +53520,13 @@
       "early career",
       "entry level"
     ]
+  },
+  {
+    "company": "Upscale AI",
+    "source": "lever",
+    "url": "https://jobs.lever.co/upscale-ai",
+    "slug": "upscale-ai",
+    "enabled": true
   },
   {
     "company": "Upstream USA",
@@ -56286,6 +56582,13 @@
     "source": "lever",
     "url": "https://jobs.lever.co/wisdomai",
     "slug": "wisdomai",
+    "enabled": true
+  },
+  {
+    "company": "WisdomTree",
+    "source": "lever",
+    "url": "https://jobs.lever.co/wisdomtree",
+    "slug": "wisdomtree",
     "enabled": true
   },
   {
