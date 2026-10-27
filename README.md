@@ -967,7 +967,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CloudKitchens | Sales Operations & Inbound SDR Intern | Fra | [Apply](https://job-boards.greenhouse.io/css/jobs/8911230002) | 2026-10-26 |
 | Cohere | Revenue Operations Intern (Winter, 2027) | Toronto, ON, Canada / New York / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a) | 2026-10-26 |
 | CommonAI C.I.C. | Software Engineer (Summer 2027 Internship) | England, United Kingdom | [Apply](https://apply.workable.com/commonai/j/021D3FCF3E/) | 2026-10-26 |
-| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/1AF4F8C65F/) | 2026-10-26 |
 | Cook Group | Manufacturing Engineering Co-op - Spring 2027 - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19984/manufacturing-engineering-co-op---spring-2027---bloomington%2c-in/job) | 2026-10-26 |
 | Cook Group | Manufacturing Supplier Engineering Co-op - Spring 2026 - Bloomington, Indiana | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19554/manufacturing-supplier-engineering-co-op---spring-2026---bloomington%2c-indiana/job) | 2026-10-26 |
 | Copeland | Lean Manufacturing Co-Op | Mexico | [Apply](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Reynosa-Mexico/Lean-Manufacturing-Co-Op_JR119083) | 2026-10-26 |
@@ -6826,7 +6825,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Merck | Medical Affairs Data & Digital Projects Intern | Are Dubai Falak Building | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/ARE---Dubai---Falak-Building/Medical-Affairs-Data---Digital-Projects-Intern_R421700) | 2026-10-13 |
 | Merck | Travel Meeting Car and Fleet Intern | Are Dubai Falak Building | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/ARE---Dubai---Falak-Building/Travel-Meeting-Car-and-Fleet-Intern_R422144) | 2026-10-13 |
 | Michael Baker International | Intern - Bridge Inspection | Rocky Hill, CT, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310020) | 2026-10-13 |
-| Mindex | Software Engineer Co-Op - On-site | New York, United States | [Apply](https://apply.workable.com/mindex/j/84B10DB922/) | 2026-10-13 |
 | Motorola Solutions | Electrical Engineer / PCB Designer Intern - Summer 2027 | Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) | 2026-10-13 |
 | Motorola Solutions | Mechanical Engineering Intern - Summer 2027 | Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030) | 2026-10-13 |
 | Muon Space | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256288007) | 2026-10-13 |
@@ -6876,7 +6874,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Prologis | Real Estate Operations Intern | Illinois | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Chicago-Illinois/Real-Estate-Operations-Intern_R6841) | 2026-10-13 |
 | Prologis | Real Estate Operations Intern | Maryland | [Apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Columbia-Maryland/Real-Estate-Operations-Intern_R6844) | 2026-10-13 |
 | Prysmian Cables & Systems | Working Student Purchasing Germany | Berlin / Schwerin / Wuppertal, DE / Nuernberg Factory / Coburg | [Apply](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Berlin/Working-Student-Purchasing-Germany_R-36877) | 2026-10-13 |
-| RAVE Aerospace | Intern - Software Engineering (Summer 2027) | Wyoming, United States | [Apply](https://apply.workable.com/raveaerospace/j/739753C003/) | 2026-10-13 |
 | Realty Income | Accounting & Finance Intern - Multiple Opportunities | California | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Accounting---Finance-Intern---Multiple-Opportunities_R-100332) | 2026-10-13 |
 | Realty Income | Commercial Real Estate Intern - Multiple Opportunities | California | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Commercial-Real-Estate-Intern---Multiple-Opportunities_R-100330) | 2026-10-13 |
 | Realty Income | Technology Intern - Multiple Opportunities | California | [Apply](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339) | 2026-10-13 |
@@ -19629,7 +19626,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Renault Group | CS27 Bac+5  Stage automatisation gestion des calibrations multimédia SDV H/F | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Guyancourt/CS27-Bac-5--Stage-automatisation-gestion-des-calibrations-multimdia-SDV-H-F_JOBREQ_50275190) | 2026-09-03 |
 | Renault Group | CS27 Bac+5 Stage chargé de communication - pôle ingénierie H/F | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Aubevoye/CS27-Bac-5-Stage-charg-de-communication---ple-ingnierie-H-F_JOBREQ_50273080) | 2026-09-03 |
 | Renault Group | CS27 – BAC+5 – Stage ingénieur digitalisation métier synthèse prestation véhicules H/F | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Aubevoye/CS27---BAC-5---Stage-ingnieur-digitalisation-mtier-synthse-prestation-vhicules-H-F_JOBREQ_50273077) | 2026-09-03 |
-| ResponsiveAds | ResponsiveAds Full-Stack Developer (2026 Summer and Fall Internship) | Vancouver, BC, Canada | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/) | 2026-09-03 |
 | Richemont | Marketing and Merchandising Intern | Singapore | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Marketing-and-Merchandising-Intern_JR133279-1) | 2026-09-03 |
 | Richemont | Media & PR Intern (Jan - Jun 2027) | Singapore | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Media---PR-Intern--Jan---Jun-2027-_JR133277-1) | 2026-09-03 |
 | Richemont | Stage - Assistant(e) Retail Merchandising (H/F) | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Stage---Assistant-e--Retail-Merchandising--H-F-_JR133285) | 2026-09-03 |
@@ -22827,7 +22823,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GE Vernova - vernova_externalsite | DevSecOps Intern (Energy Transition): Nov/Dec 2026 intake | Perth / Remote / Melbourne Aus | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Perth/DevSecOps-Intern--Energy-Transition---Nov-Dec-2026-intake_R5050097-2) | 2026-08-17 |
 | Inbulks | Junior Front End Development Analyst/Intern - 4DS Corp | United States Remote | [Apply](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753) | 2026-08-17 |
 | IQVIA | CRC Intern-Avacare | China | [Apply](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Beijing-China/CRC-Intern-_R1554392) | 2026-08-17 |
-| Luminance | AI Engineering Intern | England, United Kingdom | [Apply](https://apply.workable.com/luminance-1/j/E045EF5A7A/) | 2026-08-17 |
 | Mapjects | Business Analyst , Functional Analyst | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675607) | 2026-08-17 |
 | Mapjects | Oracle DBA       (Database Developer Admin   ) | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/79183345) | 2026-08-17 |
 | Mapjects | oracle EBS financials | New Orleans, LA, United States | [Apply](https://jobs.smartrecruiters.com/Mapjectscom/78675634) | 2026-08-17 |
