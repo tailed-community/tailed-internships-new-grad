@@ -27,6 +27,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medical University of South Carolina | Registered Nurse I (Fall 2026 New Grad Blitz) - MSICU | Charleston | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/Registered-Nurse-I--Fall-2026-New-Grad-Blitz----MSICU_R-0000066285) | 2026-10-27 |
 | PricewaterhouseCoopers (PwC) | Tax Audit Graduate program | Athens | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Athens/Tax-Audit-Graduate-program_770298WD) | 2026-10-27 |
 | Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8325054?gh_jid=8325054) | 2026-10-27 |
+| Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Solar Turbines | Entry Level Mechanical Design Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Mechanical-Design-Engineer_R0000401680) | 2026-10-27 |
 | The Boeing Company | Entry Level Procurement Agent | USA Ridley Park, PA | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Entry-Level-Procurement-Agent_JR2026526361-1) | 2026-10-27 |
 | The Boeing Company - external_subsidiary | Entry Level Procurement Agent | USA Ridley Park, PA | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Ridley-Park-PA/Entry-Level-Procurement-Agent_JR2026526361) | 2026-10-27 |
@@ -789,7 +790,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Qumulo | Software Development Engineer (New Grad / Entry Level) | Seattle, WA, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc) | 2026-09-28 |
 | RoviSys | Entry Level Engineer/Developer | Portage, MI, United States | [Apply](https://careers-rovisys.icims.com/jobs/2155/entry-level-engineer-developer/job) | 2026-09-28 |
 | Solar Turbines | 2027 Entry Level Field Tooling Engineer | Texas | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/Desoto-Texas/XMLNAME-2027-Entry-Level-Field-Tooling-Engineer_R0000396152) | 2026-09-28 |
-| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) | Remote | [Apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | 2026-09-28 |
+| Swarm Aero | Software Engineer, Real-Time Systems (Early Career) | San Francisco | [Apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | 2026-09-28 |
 | Tutor Perini Corporation | Project Engineer Entry-Level | Not Specified | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/Rosemount-MN-/Project-Engineer-Entry-Level_JR103139) | 2026-09-28 |
 | Waste Connections | Entry Level Diesel Mechanic | 6210-Clifton Park Main Yard | [Apply](https://wasteconnections.wd1.myworkdayjobs.com/careers/job/6210-Clifton-Park-Main-Yard/Entry-Level-Diesel-Mechanic_R-104017) | 2026-09-28 |
 | Bird Construction | VDC Coordinator (New Grad) - Industrial West | Edmonton, AB | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Edmonton-AB/VDC-Coordinator_JR-9488) | 2026-09-27 |
