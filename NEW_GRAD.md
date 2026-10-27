@@ -189,8 +189,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NielsenIQ | NIQ Early Career Program: Werkstudent Store Research (m/w/d) | Remote | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000157121339) | 2026-10-22 |
 | Philips | Entry level Order Managment Analyst | Varginha | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Entry-level-Order-Managment-Analyst_593260-1) | 2026-10-22 |
 | Sentara Health | Registered Nurse (RN) Medical/Surgical Stroke Unit - New Grads Welcome! - | Sentara Careplex Hospital | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Careplex-Hospital/Registered-Nurse--RN--Medical-Surgical-Stroke-Unit---New-Grads-Welcome---_JR-104971-1) | 2026-10-22 |
+| Shield AI | Electrical Engineer I - New Grad | Texas | [Apply](https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89) | 2026-10-22 |
 | Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts | [Apply](https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d) | 2026-10-22 |
-| Shield AI | Electrical Engineer I - New Grad (SD) | California | [Apply](https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89) | 2026-10-22 |
 | Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington | [Apply](https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b) | 2026-10-22 |
 | Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington | [Apply](https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a) | 2026-10-22 |
 | Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington / California | [Apply](https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a) | 2026-10-22 |
