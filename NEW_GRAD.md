@@ -79,7 +79,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176389) | 2026-10-28 |
 | Shield AI | Engineer I, Flight Test (R6219) - New Grad | California | [Apply](https://jobs.lever.co/shieldai/0cdcb67f-0550-4f14-987f-82cc6d17ea6e) | 2026-10-28 |
 | Shield AI | Engineer I, Software Integration (R6214) - New Grad | D.c. / California | [Apply](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69) | 2026-10-28 |
-| Shield AI | Engineer I, Software Test and Automation (R6216) - New Grad | D.c. / California / Texas | [Apply](https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7) | 2026-10-28 |
 | Shield AI | Engineer II, Flight Test (R6222) - New Grad | California | [Apply](https://jobs.lever.co/shieldai/c28e98ff-88ce-4e56-ada5-4cee7d417885) | 2026-10-28 |
 | Shield AI | Engineer II, Integration (R6202) - New Grad | D.c. | [Apply](https://jobs.lever.co/shieldai/de13deec-afa6-4d78-b920-aeb5571be9d3) | 2026-10-28 |
 | Shield AI | Engineer II, Software - Factory (R6217) - New Grad | D.c. / California | [Apply](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5) | 2026-10-28 |
@@ -203,6 +202,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Colliers | New Grad Broker | Tennessee, United States | [Apply](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Nashville-Tennessee-United-States-of-America/New-Grad-Broker_JR18756) | 2026-10-23 |
 | Colliers | New Grad Broker | Massachusetts, United States | [Apply](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Boston-Massachusetts-United-States-of-America/New-Grad-Broker_JR18759) | 2026-10-23 |
 | Cone Health | Open to New Graduates \| Nurse Practitioner or Certified Nurse Midwife \| Women’s & Children’s Center \| Nights and Weekends | Women's & Children's Center At Moses Cone Hospital | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Womens--Childrens-Center-at-Moses-Cone-Hospital/Open-to-New-Graduates---Nurse-Practitioner-or-Certified-Nurse-Midwife---Women-s---Children-s-Center---Nights-and-Weekends_JR154742) | 2026-10-23 |
+| Daniels Health | Early Career Machine Operator \| 1st Shift - 7081 | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/441d4316-a7a8-419d-8f1f-4addcd6d8e32) | 2026-10-23 |
+| Daniels Health | Warehouse Associate \| Early Career \| 2nd Shift -7033 | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/7029fe24-da3f-4c63-8961-afb4b3c565cf) | 2026-10-23 |
 | Dell Technologies | Inside Sales Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301118) | 2026-10-23 |
 | DriveTime | Automotive Tech - Entry Level | Tn 38128 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/2177-Covington-Pike-Memphis-TN-38128/Automotive-Tech---Entry-Level_R16543) | 2026-10-23 |
 | Eurofins | Entry Level Scientist- Viral Clearance | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157211229) | 2026-10-23 |
@@ -405,11 +406,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medical University of South Carolina | New Graduate RN- Medical Surgical & ED Nurse Residency - Downtown & Northeast | Columbia / Lexington | [Apply](https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Columbia/New-Graduate-RN--Medical-Surgical---ED-Nurse-Residency---Downtown---Northeast_R-0000069915) | 2026-10-17 |
 | Rochester Regional Health | New Graduate Sterile Processing Tech | Riedman Campus | [Apply](https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/New-Graduate-Sterile-Processing-Tech_REQ_244279-1) | 2026-10-17 |
 | SpaceX | Entry Level Production Technician (Starlink Aviation) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8895973002?gh_jid=8895973002) | 2026-10-17 |
-| Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | United Kingdom London | [Apply](https://jobs.lever.co/veeva/2f54dda8-9a78-4bfe-89b5-a93a9500db1c) | 2026-10-17 |
-| Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Wisconsin Madison | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | 2026-10-17 |
-| Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/4d69a90b-fff2-419c-9ae0-938226dca26c) | 2026-10-17 |
-| Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | 2026-10-17 |
-| Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | 2026-10-17 |
 | WSP | Entry-Level Substation Drafter | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97740) | 2026-10-17 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155899839) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155892100) | 2026-10-16 |
@@ -454,8 +450,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Philips | Early Career Talent Partner | Varginha | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Early-Career-Talent-Partner_592837) | 2026-10-15 |
 | Rockwell Automation - External_Rockwell_Automation | Early Career - Talent Consultant | Poland | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Katowice-Poland/Early-Career---Talent-Consultant_R26-6182) | 2026-10-15 |
 | Tutor Perini Corporation | Entry-Level Field Engineer - Heavy Civil Construction | Not Specified | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/White-Plains-New-York/Entry-Level-Field-Engineer---Heavy-Civil-Construction_JR103221-1) | 2026-10-15 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Netherlands Amsterdam | [Apply](https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679) | 2026-10-15 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Italy Milan | [Apply](https://jobs.lever.co/veeva/d2af3300-1eb4-47ab-a198-5031e6f366ba) | 2026-10-15 |
 | WSP | Early Career Civil Engineer | Tampa, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97630) | 2026-10-15 |
 | WSP | Early Career Substation Assistant Electrical Engineer | New Albany, OH, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96722) | 2026-10-15 |
 | Anduril | 2027 Early Career Associate Product Designer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | 2026-10-14 |
@@ -1194,7 +1188,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Simon | Entry-Level Lease Analyst Openings (May 2027 grads) | Indianapolis, IN | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Entry-Level-Lease-Analyst-Openings--May-2027-grads-_R13952) | 2026-09-04 |
 | Simon | Entry-Level Utility Billing Specialist Position - May 2027 Grads | Indianapolis, IN | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Entry-Level-Utility-Billing-Specialist-Position---May-2027-Grads_R13969) | 2026-09-04 |
 | SpaceX | New Graduate Engineer, Starship Components | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) | 2026-09-04 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Wroclaw | [Apply](https://jobs.lever.co/veeva/5bfdcc48-ca36-4a7f-b99d-c14dd1453c0a) | 2026-09-04 |
 | Advocate Health Care | New Graduate Registered Nurse (RN) - Med/Surg 2CGHJ | Concord, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Cabarrus---920-Church-St-N-Concord-NC/New-Graduate-Registered-Nurse--RN----Med-Surg-4GHJ_R268475) | 2026-09-03 |
 | Allstate Insurance Company | Early Career Trial Attorney - Fairfax, VA (Hybrid) | United States Remote | [Apply](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---VA-Remote/Early-Career-Trial-Attorney---Fairfax--VA--Hybrid-_R34322-1) | 2026-09-03 |
 | Anduril | 2027 Early Career Flight Software Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 2026-09-03 |
@@ -1247,7 +1240,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shell | Shell Graduate Program 2027 - Malaysia | Miri / Kuala Lumpur Menara Shell / Bintulu | [Apply](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Miri/Shell-Graduate-Program-2027---Malaysia_R205046) | 2026-09-02 |
 | United Wholesale Mortgage | Entry Level Mortgage Call Center | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15877/entry-level-mortgage-call-center/job) | 2026-09-02 |
 | United Wholesale Mortgage | Entry Level Phone Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15878/entry-level-phone-support-specialist/job) | 2026-09-02 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Cracow | [Apply](https://jobs.lever.co/veeva/4ea9851b-cc73-4bea-a1ce-ae0f83f088b9) | 2026-09-02 |
 | Arkansas Children's | RN I New Graduate Resident | Not Specified | [Apply](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/RN-I-New-Graduate-Resident_R0024368) | 2026-09-01 |
 | Barclays | Banking Associate Graduate Program 2027 New York City – Real Estate, Gaming and Lodging | New York | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Associate-Graduate-Program-2027-New-York-City_JR-0000123461-1) | 2026-09-01 |
 | Barry-Wehmiller - BWConfidential | Entry Level Validation Engineer | Indianapolis, IN / Raleigh, NC / Philadelphia, PA / Nanuet, NY / Dallas, TX / Boston, MA | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Indianapolis-IN/Entry-Level-Validation-Engineer_R022662) | 2026-09-01 |
@@ -1329,17 +1321,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Security Officer - Entry Level | Greenfield, IN, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174288) | 2026-08-28 |
 | SpaceX | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002) | 2026-08-28 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010989) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Germany Berlin | [Apply](https://jobs.lever.co/veeva/2355b29e-65d6-4dd8-be93-f5289960e05c) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/2b122666-a441-45fa-a94a-f31dd28d5661) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Wisconsin Madison | [Apply](https://jobs.lever.co/veeva/3ddb0cdf-2efb-4dd5-aeb1-c6bbea7fd5a1) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Hungary Budapest | [Apply](https://jobs.lever.co/veeva/5a999af8-b490-4378-bfc8-bd4479f76e39) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | United Kingdom London | [Apply](https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/61e2aebb-d3d5-45f0-ba95-1cc37a3f330c) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Germany Frankfurt | [Apply](https://jobs.lever.co/veeva/909610da-99da-4e58-89a8-e3a0e998e6b7) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/f792925e-aefc-418c-8bf8-a1bdb6250a25) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Remote) | Poland Wroclaw | [Apply](https://jobs.lever.co/veeva/69d4d6bc-966c-45d6-a6da-a4d4caa58398) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Remote) | Poland Warsaw | [Apply](https://jobs.lever.co/veeva/7829ee3c-c1fd-4c5d-a14d-f21954c24343) | 2026-08-28 |
-| Veeva Systems | Associate Consultant - Entry-Level Technology Consulting (Remote) | Poland Cracow | [Apply](https://jobs.lever.co/veeva/a0794f9d-e751-45ac-b59d-660681ecb9f8) | 2026-08-28 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3007.36 | Dallas, TX | [Apply](https://jobs.lever.co/wadetrim/98c1e508-84d9-4b8b-9e1e-f004738b8846) | 2026-08-28 |
 | Barr | Environmental Engineer – Entry Level (Hybrid) | Salt Lake City, UT | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Environmental-Engineer---Entry-Level--Hybrid-_R-102279) | 2026-08-27 |
 | Barr | Environmental Field Technician – Entry Level (Hybrid) | Salt Lake City, UT | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Salt-Lake-City-UT/Environmental-Field-Technician---Entry-Level--Hybrid-_R-102280) | 2026-08-27 |
@@ -1781,7 +1762,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | US Tech Solutions | Fund Accountant (Entry Level) | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747679) | 2026-06-17 |
 | US Tech Solutions | Operations Specialist (Entry Level) | Jersey City, NJ, United States | [Apply](https://jobs.smartrecruiters.com/USTechSolutions2/94747718) | 2026-06-17 |
 | Weld County | Detention Deputy - Entry Level | Greeley, CO | [Apply](https://weldgov.wd5.myworkdayjobs.com/WeldCountyCareers/job/Greeley-CO/Detention-Deputy---Entry-Level_JR100596) | 2026-06-17 |
-| Woodard Curran | Health & Safety Coordinator (Entry-level) | Montana | [Apply](https://jobs.lever.co/woodardcurran/1fbd57ad-148c-4ade-ade2-72fe9512e4d2) | 2026-06-17 |
 | WeRide | New Grads 2026 - Algorithm Software Engineer (Beijing/Guangzhou/Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/d31d6d11-be09-4469-a361-2f31de92eafa) | 2026-06-16 |
 | WeRide | New Grads 2026 - General Software Engineer (Beijing/Guangzhou/Shanghai, China) | China | [Apply](https://jobs.lever.co/weride/012d6448-fa8c-4a68-8767-d99f4d1b9bea) | 2026-06-16 |
 | Hitachi | Field Service Engineer (2027 new graduate hiring) | Japan | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Field-Service-Engineer--2027-new-graduate-hiring-_R0125579) | 2026-06-15 |
@@ -1998,15 +1978,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hitachi | Early Career Start at Hitachi Energy Zaragoza | Spain | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Zaragoza-Zaragoza-Spain/Early-Career-Start-at-Hitachi-Energy-Zaragoza_R0085458) | 2026-05-25 |
 | Stripe | Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7544547) | 2026-05-23 |
 | Stripe | Tech Operations Associate, New Grad (Mexico) | Mexico | [Apply](https://stripe.com/jobs/search?gh_jid=7718947) | 2026-05-23 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Warsaw | [Apply](https://jobs.lever.co/veeva/6ff937b5-3d27-4401-8019-951d2ceaced6) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Wisconsin Madison | [Apply](https://jobs.lever.co/veeva/7accd619-65f9-45c2-9ee3-e258081e1ee9) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Germany Frankfurt | [Apply](https://jobs.lever.co/veeva/7af7a2cf-707c-4791-bb3d-9b7e6ff81903) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Hungary Budapest | [Apply](https://jobs.lever.co/veeva/8246954a-2959-4eaa-9c71-ca2b4411d94e) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/d5fce9c2-7e36-47bb-aee1-93038979de93) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Germany Berlin | [Apply](https://jobs.lever.co/veeva/e9ce0011-8df8-4d86-aeaf-658ba48122be) | 2026-05-22 |
-| Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | United Kingdom London | [Apply](https://jobs.lever.co/veeva/eed4b1a3-13ae-4cf4-9bd9-5bc6a0d214a6) | 2026-05-22 |
 | HPE | Customer Service - Recent Graduate | Mexico | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tlaquepaque-Jalisco-Mexico/Customer-Delivery-Specialist_1203418) | 2026-05-21 |
 | HPE | FY26 New Graduate Pre-sales | Japan | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/FY26-New-Graduate-Pre-sales_1178596-2) | 2026-05-21 |
 | HPE | FY26 New Graduate Sales | Japan | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Tokyo-Tokyo-Japan/FY26-New-Graduate-Sales_1178597) | 2026-05-21 |
