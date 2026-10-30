@@ -16,6 +16,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Citi | KYC Operations Analyst 1 (Entry Level) | Heredia Costa Rica | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/KYC-Operations-Analyst-1--Entry-Level-_26995564) | 2026-10-30 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Orthopaedics | Avon Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/New-Grad-RN-Resident---Med-Surg---Orthopaedics_350966) | 2026-10-30 |
 | Cone Health | Open to New Graduates \| Nurse Practitioner or Physician Assistant \| Cone Health Urology Reidsville | Ch Urology Reidsville | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/CH-Urology---Reidsville/Open-to-New-Graduates---Nurse-Practitioner-or-Physician-Assistant---Cone-Health-Urology-Reidsville_JR156917) | 2026-10-30 |
+| E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6375/transmission-line-engineer-%28entry-level%29/job) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Design Engineer | California | [Apply](https://jobs.lever.co/fehrandpeers/09044abc-cc40-4a0f-8624-67d1b913790c) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | District Of Columbia | [Apply](https://jobs.lever.co/fehrandpeers/283dc026-3eaa-4b9a-a791-3a41d20c4dc9) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | California | [Apply](https://jobs.lever.co/fehrandpeers/4ca91de4-b7a8-45a1-8925-051a3d04d695) | 2026-10-30 |
@@ -336,7 +337,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Uline | Entry Level Finance Opportunities | Pleasant Prairie, WI / Milwaukee, WI / Waukegan, IL / Glenview, IL / Kenosha, WI | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Entry-Level-Finance-Opportunities_R268440) | 2026-10-21 |
 | United Wholesale Mortgage | Entry Level Call Directory (11am-8pm) | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16212/entry-level-call-directory-%2811am-8pm%29/job) | 2026-10-21 |
 | United Wholesale Mortgage | Entry Level Inbound Call Associate (11am-8pm) | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16213/entry-level-inbound-call-associate-%2811am-8pm%29/job) | 2026-10-21 |
-| United Wholesale Mortgage | Entry Level Legal Assistant | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16211/entry-level-legal-assistant/job) | 2026-10-21 |
 | Anduril | 2027 Early Career Warhead Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) | 2026-10-20 |
 | Arcadis | Entry Level Water Engineer | Plantation, FL, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45305) | 2026-10-20 |
 | AutoNation | Entry Level Tire Technician-Mercedes-Benz of Chicago-$20/HR | Mercedes-Benz Of Chicago | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Mercedes-Benz-of-Chicago/Entry-Level-Tire-Technician-Mercedes-Benz-of-Chicago--20-HR_JR2026150860) | 2026-10-20 |
@@ -420,7 +420,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Coherent | Machinist-entry level | Saxonburg, PA, United States | [Apply](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015361) | 2026-10-16 |
 | Fresenius Medical Care | New Graduate Nurse | Norfolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norfolk-VA/New-Graduate-Nurse_R0274109) | 2026-10-16 |
 | Fresenius Medical Care | New Graduate Nurse | Suffolk, VA | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Suffolk-VA/New-Graduate-Nurse_R0270269) | 2026-10-16 |
-| General Dynamics | Electrical Engineer - Facilities (Entry Level) | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/20707/electrical-engineer---facilities-%28entry-level%29/job) | 2026-10-16 |
 | General Dynamics | Inside Machinist - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21117/inside-machinist---entry-level-%26-semi-skilled/job) | 2026-10-16 |
 | Guidehouse | Admissions Coordinator \| UAB St. Vincent's Chilton \| Part-time, Onsite, Entry Level, Various shifts | Clanton | [Apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Clanton/Admissions-Coordinator---UAB-St-Vincent-s-Chilton---Part-time--Onsite--Entry-Level--Various-shifts_45572) | 2026-10-16 |
 | HNTB | New Grad Civil Engineer I | 2 Locations | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Miami-FL/New-Grad-Civil-Engineer-I_R-32058-1) | 2026-10-16 |
@@ -921,7 +920,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AMT Engineering | Entry Level Transportation Engineer - May 2027 | Columbus, OH | [Apply](https://jobs.lever.co/amtengineering/694244fd-26d0-48d6-9cef-07f0f55f2024) | 2026-09-16 |
 | AMT Engineering | Entry Level Transportation Engineer - May 2027 | Maryland | [Apply](https://jobs.lever.co/amtengineering/69be69f5-785b-4a97-ab16-7be3ae8e971c) | 2026-09-16 |
 | Barr | Geotechnical Engineer – Entry Level (Hybrid) | Duluth, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Duluth-MN/Geotechnical-Engineer---Entry-Level--Hybrid-_R-102341) | 2026-09-16 |
-| Beyond New Horizons | Early Career ID&C Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25028/early-career-id%26c-engineer/job) | 2026-09-16 |
 | Beyond New Horizons | Early Career Power Systems Engineer—Low Voltage | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25027/early-career-power-systems-engineer%e2%80%94low-voltage/job) | 2026-09-16 |
 | Cleveland Clinic | New Grad RN Resident – Med Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Med-Surg_337783) | 2026-09-16 |
 | Freudenberg Group | Tool Shop Operator (Entry Level) - 2nd Shift | Northfield, NH | [Apply](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Northfield-NH/Tool-Shop-Operator--Entry-Level----2nd-Shift_R_00107207) | 2026-09-16 |
@@ -1545,7 +1543,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Salesforce | Business Development Associate, Early Career | Illinois Chicago | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Development-Associate_JR347430-1) | 2026-07-25 |
 | Salesforce - futureforce_newgradroles | Business Development Associate, Early Career | Illinois Chicago | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/Illinois---Chicago/Business-Development-Associate_JR347430) | 2026-07-25 |
 | Beyond New Horizons | Early Career Mechanical Systems Engineer (Multiple Openings) | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/24504/early-career-mechanical-systems-engineer-%28multiple-openings%29/job) | 2026-07-24 |
-| E2 Consulting Engineers | Transmission Line Engineer (Entry-level) | Pasadena, United States | [Apply](https://careers-e2.icims.com/jobs/6222/transmission-line-engineer-%28entry-level%29/job) | 2026-07-24 |
 | SpaceX | Starlink Production Technician - Entry Level | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8647897002?gh_jid=8647897002) | 2026-07-24 |
 | BGIS | Jr. Building Condition Assessor (Future New Grad Opportunity!) | Markham, ON, Canada | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232063) | 2026-07-23 |
 | Fortinet | Network Support (New Grads 2026) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) | 2026-07-23 |
@@ -1643,7 +1640,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Procter & Gamble (P&G) | Data Scientist (Entry-Level) | Panama Business Center | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist--Entry-Level-_R000154177) | 2026-06-26 |
 | Rogers Behavioral Health | Registered Nurse - 2026 New Grads! | Brown Deer, WI | [Apply](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Brown-Deer-Main-Campus-Brown-Deer-WI/Registered-Nurse---2026-New-Grads-_R7838) | 2026-06-26 |
 | Stantec | Entry Level Designer/Mechanical EIT - San Francisco, CA | San Francisco, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006452) | 2026-06-26 |
-| General Dynamics | Entry Level Nuclear Engineer | New London, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18585/entry-level-nuclear-engineer/job) | 2026-06-25 |
 | United Wholesale Mortgage | Entry Level Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15611/entry-level-support-specialist/job) | 2026-06-25 |
 | Olsson | Entry-Level Civil Engineer - Data Center | Des Moines, IA / Lincoln, NE / Omaha, NE / Phoenix, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5275707008) | 2026-06-23 |
 | Olsson | Entry-Level Surveyor | South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5275832008) | 2026-06-23 |
