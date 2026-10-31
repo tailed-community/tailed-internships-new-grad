@@ -921842,5 +921842,47 @@
     "date_added": "2026-07-13",
     "active": false,
     "date_archived": "2026-10-31"
+  },
+  {
+    "id": "rippling-brevian-0c7d22e5-4522-47e6-8f98-69a64c9ab484",
+    "company": "Brevian",
+    "title": "Software Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484",
+    "date_posted": null,
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-10-31"
+  },
+  {
+    "id": "rippling-brevian-d2edb4e6-e22f-4ac4-98db-4be851b35e7a",
+    "company": "Brevian",
+    "title": "UX Intern",
+    "location": "Sunnyvale, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/brevian-careers/jobs/d2edb4e6-e22f-4ac4-98db-4be851b35e7a",
+    "date_posted": null,
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-10-31"
+  },
+  {
+    "id": "rippling-omnis-71327ac7-2d08-46ef-9d83-2f9995800dce",
+    "company": "Omnis",
+    "title": "Fall 2026 - Engineering Internship/Co-Op",
+    "location": "Venice, CA",
+    "type": "internship",
+    "season": "Fall 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/omnis-corporation/jobs/71327ac7-2d08-46ef-9d83-2f9995800dce",
+    "date_posted": null,
+    "date_added": "2026-07-10",
+    "active": false,
+    "date_archived": "2026-10-31"
   }
 ]

@@ -185,6 +185,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Northrop Grumman | 2027 Intern Product Support – Logistics Planner | United States-California-San Diego | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Logistics-Planner_R10258681) | 2026-10-31 |
 | Northrop Grumman | 2027 mechanical Engineer Intern- Redondo Beach CA | United States-California-Redondo Beach | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669) | 2026-10-31 |
 | OLG | Front End Developer Student | Sault Ste. Marie, ON, Canada / Toronto, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) | 2026-10-31 |
+| Omnis | Electrical Engineering Intern (Spring and Summer 2027) | Canada Remote | [Apply](https://ats.rippling.com/omnis-corporation/jobs/3834b774-a185-4106-a04a-969bd42af220) | 2026-10-31 |
+| Omnis | GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027) | Canada Remote | [Apply](https://ats.rippling.com/omnis-corporation/jobs/b03c6d08-5a09-4d4d-b34c-c5a1aa2214b5) | 2026-10-31 |
+| Omnis | Mechanical Engineering Intern (Spring and Summer 2027) | Canada Remote | [Apply](https://ats.rippling.com/omnis-corporation/jobs/c6a2ae56-59aa-4493-bc4b-5d555b21b9c9) | 2026-10-31 |
+| Omnis | Wireless Systems Intern, MAC and PHY (Spring and Summer 2027) | Los Angeles, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/c534b2ba-a409-4c26-bb92-704e48fccb63) | 2026-10-31 |
 | Pfizer | Communications Intern | Argentina Buenos Aires | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Argentina---Buenos-Aires/Communications-Intern_4966615) | 2026-10-31 |
 | Philips | Intern - Systems Engineer – New Kensington, PA – Summer 2027 | Pennsylvania, United States | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850) | 2026-10-31 |
 | Procter & Gamble (P&G) | Human Resources Internship | San José | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/San-Jos/Human-Resources-Internship_R000162109) | 2026-10-31 |
@@ -24092,7 +24096,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Nexstar | News Internship | AL | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/AL-Dothan/News-Internship_REQ-42218) | 2026-07-10 |
 | Nexstar | Unpaid Intern | WV | [Apply](https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/WV-Charleston/Unpaid-Intern_REQ-40869-1) | 2026-07-10 |
 | NXP Semiconductors | 2027 Intern - Finance COE Accountant | Tianjin (weiwu) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Weiwu/XMLNAME-2027-Intern---Finance-COE-Accountant_R-10063681) | 2026-07-10 |
-| Omnis | Fall 2026 - Engineering Internship/Co-Op | Venice, Canada | [Apply](https://ats.rippling.com/omnis-corporation/jobs/71327ac7-2d08-46ef-9d83-2f9995800dce) | 2026-07-10 |
 | Pennsylvania State University | Systems Administrator Intern | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Systems-Administrator-Intern_REQ_0000080162-1) | 2026-07-10 |
 | PricewaterhouseCoopers (PwC) | Internship - Assurance (PwC Acceleration Center Kuala Lumpur) - November 2026 Intake | Kuala Lumpur | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Kuala-Lumpur/Internship---Assurance--PwC-Acceleration-Center-Kuala-Lumpur----November-2026-Intake_743812WD-1) | 2026-07-10 |
 | Sika | NAPS Electrician | Jhagadia, GJ | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000137080694) | 2026-07-10 |
@@ -24866,8 +24869,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |
-| Brevian | Software Engineering Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484) | 2026-06-15 |
-| Brevian | UX Intern | Sunnyvale, Canada | [Apply](https://ats.rippling.com/brevian-careers/jobs/d2edb4e6-e22f-4ac4-98db-4be851b35e7a) | 2026-06-15 |
 | Elekta | Service Operations Intern | Istanbul | [Apply](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Istanbul/Service-Operations-Intern_R2026-0924) | 2026-06-15 |
 | International Rescue Committee (IRC) | NYSA Photography Teaching Assistant Intern (Unpaid) | Ny Rai USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York-NY-RAI-USA/NYSA-Photography-Teaching-Assistant-Intern--Unpaid-_JR00003704-1) | 2026-06-15 |
 | Lawrence Livermore National Laboratory (LLNL) | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) | 2026-06-15 |
