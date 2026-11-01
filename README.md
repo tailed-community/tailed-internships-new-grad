@@ -33,6 +33,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Applied Materials | 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) | Gloucester, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317) | 2026-11-01 |
 | Applied Materials | Intern | Sgp | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Intern_R2626566) | 2026-11-01 |
 | Chanel | STAGE - IDENTIFICATION ET VALIDATION DE NOUVEAUX ÉQUIPEMENTS DE LABORATOIRE ROUGES À LÈVRES | Pantin | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---IDENTIFICATION-ET-VALIDATION-DE-NOUVEAUX-QUIPEMENTS-DE-LABORATOIRE-ROUGES--LVRES_JOBREQ00118462) | 2026-11-01 |
+| Clera | Founders Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/41248971-00e4-4d69-9be7-46d382fba02e) | 2026-11-01 |
+| Clera | Strategic Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/87228ec1-05b1-498f-9010-4df91e0d8f47) | 2026-11-01 |
+| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/clera/d393193b-048f-44c5-93d9-1452994c1a03) | 2026-11-01 |
+| Clera | Working Student, GTM | Germany | [Apply](https://jobs.ashbyhq.com/clera/948323a1-b4e9-4938-bcbc-8b1a2ad65d43) | 2026-11-01 |
 | Ecolab | Plant Engineer Intern - Tamheer | Sau Al Mintaqah Ash Sharqiyah Dammam | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Plant-Engineer-Intern---Tamheer_R00302662) | 2026-11-01 |
 | FactSet | Client Solutions Internship - Frankfurt, February 2027 | Deu | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Frankfurt-DEU/Client-Solutions-Internship---Frankfurt--February-2027_R33497) | 2026-11-01 |
 | Hewlett Packard (HP) | College Intern - Data Analytics in Supply Chain | Singapore | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Analytics-in-Supply-Chain_UNI4031) | 2026-11-01 |
@@ -60,6 +64,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PatientPoint | Client Sales Intern | New York City, NY | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4747076005) | 2026-11-01 |
 | Thales | Stage – Monitoring innovant de modèles d’IA – F/H | La Ciotat | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/La-Ciotat/Stage---Monitoring-innovant-de-modles-d-IA---F-H_R0345217-1) | 2026-11-01 |
 | TRUMPF | Working Student (w/m/d) - Agile Manager (SS27) | Ditzingen | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Working-Student--w-m-d----Agile-Manager--SS27-_R00043449) | 2026-11-01 |
+| Zuru | Design Internship | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/2f821dda-da06-40a5-8f35-c8e40021e8f0) | 2026-11-01 |
+| Zuru | Strategy Intern | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/3ffb5da5-8d27-4125-a1c1-1527fda9a61f) | 2026-11-01 |
+| Zuru | UX/UI Design Intern | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d) | 2026-11-01 |
 | Accenture | Practica Consultoría procesos Marketing - ChangeMakers Internship Program | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Practica-Consultora-procesos-Marketing---ChangeMakers-Internship-Program_R00368478) | 2026-10-31 |
 | AccuWeather | Editorial Intern (Spring 2027) | State College, PA / Wichita, KS / New York, NY / Remote | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8337176) | 2026-10-31 |
 | AECOM | Aviation Planning Intern | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158841084) | 2026-10-31 |
@@ -3114,7 +3121,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chanel | STAGE - DATA SCIENCE ET IA APPLIQUÉES À LA R&D H/F | Pantin | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---DATA-SCIENCE-ET-IA-APPLIQUES--LA-R-D-H-F_JOBREQ00118079) | 2026-10-26 |
 | Chanel | STAGE – Assistant.e Chef de Projet Expérience Client F/H - Mode - Marché France - Janvier 2027 | Paris | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---Assistante-Chef-de-Projet-Exprience-Client-F-H---Mode---March-France---Janvier-2027_JOBREQ00118371-3) | 2026-10-26 |
 | Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/clera/47006b74-3b87-48cb-8d21-92b2702f506d) | 2026-10-26 |
-| Clera | Founders Associate Intern | Germany | [Apply](https://jobs.ashbyhq.com/clera/c0f9c665-2677-472e-b424-5950c8cea592) | 2026-10-26 |
 | Cleveland Clinic | Surgical Technology Intern | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/Surgical-Technology-Intern_351628) | 2026-10-26 |
 | ClickHouse | Research Intern, ClickHouse Labs | San Francisco, United States / Germany / The Netherlands / United States Remote | [Apply](https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b) | 2026-10-26 |
 | CloudKitchens | Sales Operations & Inbound SDR Intern | Fra | [Apply](https://job-boards.greenhouse.io/css/jobs/8911230002) | 2026-10-26 |
@@ -3520,10 +3526,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Mechanical Engineering Intern - Summer 2027 | Boise, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98213) | 2026-10-26 |
 | ABB | Assistant Test Engineer (Intern) | China | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Assistant-Test-Engineer--Intern-_JR00051251) | 2026-10-25 |
 | Accenture | Práctica Adm. RRHH -ChangeMakers Internship Program | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Prctica-Adm-RRHH--ChangeMakers-Internship-Program_R00365388) | 2026-10-25 |
-| Clera | Operations Intern | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/clera/5d56a61d-5a01-4ca4-a814-c23888b06e10) | 2026-10-25 |
-| Clera | Strategic Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/a8c434b5-0e1e-4864-9af2-5d3439f10c28) | 2026-10-25 |
-| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/clera/66403296-1183-409d-9901-b3fee2321508) | 2026-10-25 |
-| Clera | Working Student, Go-to-Market (m/w/d) | Germany | [Apply](https://jobs.ashbyhq.com/clera/ef33b329-9496-4626-9408-77fbbb1553b6) | 2026-10-25 |
 | Dell Technologies | Services Analytics Graduate Intern | TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) | 2026-10-25 |
 | Dell Technologies | Services Data Science Graduate Intern | TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | 2026-10-25 |
 | GE Healthcare | V&V Intern | Haifa Healthcare Ha Il 2 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2) | 2026-10-25 |
