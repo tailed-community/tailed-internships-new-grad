@@ -24763,6 +24763,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Stage Ingénieur Informatique  au sein du service Test & Validation Electronique | Angers | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454) | 2026-06-16 |
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Digital Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
+| Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |
