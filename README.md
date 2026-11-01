@@ -55,6 +55,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Invesco - IVZ | Early Career Intern - Marketing (Email Team) | Georgia | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Marketing--Email-Team-_R-15875-1) | 2026-11-01 |
 | Invesco - IVZ | Early Career Intern - Marketing (ETF) | New York | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Marketing--ETF-_R-15874-1) | 2026-11-01 |
 | Invesco - IVZ | Early Career Intern - Operations (Fund Reporting) | Texas | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Early-Career-Intern---Operations_R-15838-1) | 2026-11-01 |
+| Jobs for Humanity | Bilingual Marketing and Public Relations Intern | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000158976589) | 2026-11-01 |
 | KLA - Search | Data Analyst - Student Position | Israel | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Data-Analyst---Student-Position_2641211-1) | 2026-11-01 |
 | Loblaw Companies | Student, Franchise Part Time Afternoon | Prescott, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/150-Prescott-Centre-Dr-Prescott-ON/Student--Franchise-Part-Time-Afternoon_R2000728259) | 2026-11-01 |
 | Loblaw Companies | Student, Franchise Part Time Day Greenlight Requisition | Angus, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/285-Mill-St-RR-1-Angus-ON/Student--Franchise-Part-Time-Day-Greenlight-Requisition_R2000728326) | 2026-11-01 |
@@ -69,6 +70,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NVIDIA | Manufacturing Automation Solution Intern - 2027 | Shenzhen | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280) | 2026-11-01 |
 | Palantir | Finance Operator Intern | New York, NY | [Apply](https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69) | 2026-11-01 |
 | PatientPoint | Client Sales Intern | New York City, NY | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4747076005) | 2026-11-01 |
+| Société Générale de Surveillance (SGS) | Internship - Admin / HR | Malaysia | [Apply](https://jobs.smartrecruiters.com/SGS/744000158968089) | 2026-11-01 |
 | Thales | Stage – Monitoring innovant de modèles d’IA – F/H | La Ciotat | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/La-Ciotat/Stage---Monitoring-innovant-de-modles-d-IA---F-H_R0345217-1) | 2026-11-01 |
 | TRUMPF | Working Student (w/m/d) - Agile Manager (SS27) | Ditzingen | [Apply](https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Working-Student--w-m-d----Agile-Manager--SS27-_R00043449) | 2026-11-01 |
 | Zuru | Design Internship | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/2f821dda-da06-40a5-8f35-c8e40021e8f0) | 2026-11-01 |
@@ -945,8 +947,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tria Federal | Summer Internship Program - VA Community Care Analyst | Arlington, VA | [Apply](https://triafed.com/jobs/?gh_jid=5468425008) | 2026-10-30 |
 | TripAdvisor | Sales Account Manager - Stage | Paris | [Apply](https://job-boards.greenhouse.io/tripadvisor/jobs/8336463) | 2026-10-30 |
 | Ubisoft | Data Governance Project Manager Assistant - Stage (6 mois) Mars 2026 (F/H/NB) | Idf, France | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158726174) | 2026-10-30 |
-| Ubisoft | Develop at Ubisoft Mentorship - Programming 2026-2027 | Berlin, BE | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158698126) | 2026-10-30 |
-| Ubisoft | Develop Mentorship at Ubisoft - Cybersecurity 2026-2027 | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158748024) | 2026-10-30 |
 | Uhaul | Real Estate Spring Internship | Arizona | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-West-Arizona/Real-Estate-Spring-Internship_R258529) | 2026-10-30 |
 | UNHCR | PSP Digital and Comms Intern | Malaysia | [Apply](https://unhcr.wd3.myworkdayjobs.com/External/job/Kuala-Lumpur-Malaysia/PSP-Digital-and-Comms-Intern_JR2669013-1) | 2026-10-30 |
 | United Wholesale Mortgage | **Spring 2027 Grads** Internal Audit Summer Internship Program | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16277/**spring-2027-grads**-internal-audit-summer-internship-program/job) | 2026-10-30 |
@@ -1509,7 +1509,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Turner & Townsend | Business Generation & Marketing Internship | Italy | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000158491619) | 2026-10-29 |
 | Two Six Technologies | Systems Software Engineering Intern | Virginia | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) | 2026-10-29 |
 | U.S. Bank | 2027 Payment Sales Intern | Minneapolis, MN / Chicago, IL | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Payment-Sales-Intern_2026-0033867) | 2026-10-29 |
-| Ubisoft | Develop at Ubisoft Mentorship - Audio 2026-2027 | Berlin, BE | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158551909) | 2026-10-29 |
 | Ubisoft | Marketing & Data Analytics Assistant – Internship (6-month) March 2026 (W/M/NB) | Idf, France | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158509899) | 2026-10-29 |
 | Uhaul | Sustainability Intern | Arizona | [Apply](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Sustainability-Intern_R258483) | 2026-10-29 |
 | Uline | French Translation Internship - Summer 2027 | Pleasant Prairie, WI / Milwaukee, WI / Waukegan, IL / Glenview, IL / Kenosha, WI | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/French-Translation-Internship---Summer-2027_R268776) | 2026-10-29 |
@@ -2962,7 +2961,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Uber | 2027 Account Management Intern, Madrid, Spain | Spain | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303104) | 2026-10-27 |
 | Uber | 2027 Sales Intern, Johannesburg | South Africa | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303756) | 2026-10-27 |
 | Uber | 2027 Sales Intern, Lisbon | Portugal | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303457) | 2026-10-27 |
-| Ubisoft | Develop at Ubisoft - Game Design Mentorship 2026-2027 | Berlin, BE | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158065309) | 2026-10-27 |
 | Ubisoft | Stage Level Designer - 6 mois (F/H/NB) | Occitanie, France | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000157790349) | 2026-10-27 |
 | United Parcel Service (UPS) | MHR Summer 2027 Intern - Data Analytics (HR Systems) | US Ups Corporate Offices (gacor) | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546) | 2026-10-27 |
 | University Health Network | Research Analyst I | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000158069589) | 2026-10-27 |
@@ -17820,7 +17818,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Silicon Laboratories | Summer 2027 Internships | Austin | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Summer-2027-Internships_21056-1) | 2026-09-10 |
 | Silicon Laboratories | Summer 2027 Internships -  Design Engineering | Austin | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Summer-2027-Internships----Design-Engineering_21049-1) | 2026-09-10 |
 | Simmons Bank | Investment Services Intern - Spring '27 | Columbia, MO | [Apply](https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Columbia-MO/Investment-Services-Intern_R115475) | 2026-09-10 |
-| Skyward | Customer Success Technical Specialist - Intern | Stevens Point, WI, United States | [Apply](https://jobs.smartrecruiters.com/Skyward1/744000148606879) | 2026-09-10 |
 | Southern New Hampshire University | Student - Jayme's Fund for Social Justice Development and Communications Assistant (Work-Study Only) | ON-Site (new Hampshire) | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/Student---Jayme-s-Fund-for-Social-Justice-Development-and-Communications-Assistant--Work-Study-Only-_R0014777) | 2026-09-10 |
 | Stand Together | KIP Spring 2027 - Federal Tax Policy Intern - Tax Foundation | Washington, DC | [Apply](https://jobs.lever.co/standtogether/c87ec9fd-f427-40d1-848d-13cea614dffa) | 2026-09-10 |
 | Stand Together | KIP Spring 2027 - Program Intern - Law & Economics Center | Virginia | [Apply](https://jobs.lever.co/standtogether/60a77524-6aa9-4eae-a35f-ea52e8616862) | 2026-09-10 |
