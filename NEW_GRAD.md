@@ -939,7 +939,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Scale AI | Software Engineer - New Grad | Qatar | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730851005) | 2026-09-14 |
 | Scale AI | Software Engineer - New Grad | London, United Kingdom | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | 2026-09-14 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3042 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/c28b77ff-c888-43ee-9f0d-a5bc69e9ad33) | 2026-09-14 |
-| Wade Trim | Entry Level Civil/Environmental Engineer - #3044 | Flint, MI | [Apply](https://jobs.lever.co/wadetrim/512dc8a8-d3a2-4ecd-8667-3e6f5518f40d) | 2026-09-14 |
+| Wade Trim | Entry Level Civil/Environmental Engineer - #3044 | Flint, MI / Grand Rapids, MI | [Apply](https://jobs.lever.co/wadetrim/512dc8a8-d3a2-4ecd-8667-3e6f5518f40d) | 2026-09-14 |
 | Wade Trim | Entry Level Civil/Mechanical Engineer - #3043 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/31517226-8d05-4221-a6db-43b6f75b8503) | 2026-09-14 |
 | Wade Trim | Entry Level Substation Electrical Engineer - #3041 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/fc699822-162f-4d0c-9f35-1590cf7f06fa) | 2026-09-14 |
 | SiFive | System Validation Engineer (New Grads) | Taiwan / India | [Apply](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Hsinchu-Taiwan/System-Validation-Engineer--New-Grads-_R-101316) | 2026-09-13 |
