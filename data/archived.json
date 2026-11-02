@@ -800436,34 +800436,6 @@
     "date_archived": "2026-10-20"
   },
   {
-    "id": "workable-javelin-global-commodities-6103488",
-    "company": "Javelin Global Commodities",
-    "title": "Summer Intern: Commodities Trading",
-    "location": "London, England, United Kingdom",
-    "type": "internship",
-    "season": "Summer",
-    "source": "workable",
-    "url": "https://apply.workable.com/javelin-global-commodities/j/22AE8F15CE/",
-    "date_posted": "2026-09-16",
-    "date_added": "2026-09-29",
-    "active": false,
-    "date_archived": "2026-10-20"
-  },
-  {
-    "id": "workable-javelin-global-commodities-6103534",
-    "company": "Javelin Global Commodities",
-    "title": "Summer Intern: Commodities Operations",
-    "location": "London, England, United Kingdom",
-    "type": "internship",
-    "season": "Summer",
-    "source": "workable",
-    "url": "https://apply.workable.com/javelin-global-commodities/j/5284144991/",
-    "date_posted": "2026-09-16",
-    "date_added": "2026-09-29",
-    "active": false,
-    "date_archived": "2026-10-20"
-  },
-  {
     "id": "workable-javelin-global-commodities-6103518",
     "company": "Javelin Global Commodities",
     "title": "Summer Intern: Software Engineering",
@@ -951072,6 +951044,34 @@
     "url": "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f",
     "date_posted": null,
     "date_added": "2026-09-17",
+    "active": false,
+    "date_archived": "2026-11-02"
+  },
+  {
+    "id": "workable-belmond-5260024",
+    "company": "Belmond",
+    "title": "Executive Assistant Intern to the Deputy General Manager",
+    "location": "Venice, Metropolitan City of Venice, Italy",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/",
+    "date_posted": "2026-04-23",
+    "date_added": "2026-06-15",
+    "active": false,
+    "date_archived": "2026-11-02"
+  },
+  {
+    "id": "workable-commonai-c-i-c-6194650",
+    "company": "CommonAI C.I.C.",
+    "title": "Software Engineer (Summer 2027 Internship)",
+    "location": "Cambridge, England, United Kingdom",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "workable",
+    "url": "https://apply.workable.com/commonai/j/021D3FCF3E/",
+    "date_posted": "2026-10-20",
+    "date_added": "2026-10-26",
     "active": false,
     "date_archived": "2026-11-02"
   }
