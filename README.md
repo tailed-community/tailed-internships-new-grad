@@ -529,6 +529,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GeoComply | Forward Deployed Engineer Intern (FDE) | Vancouver, BC | [Apply](https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765) | 2026-11-02 |
 | Geosyntec Consultants | Intern / Co-Op – Civil / Environmental Engineering | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4955/intern---co-op-%e2%80%93-civil---environmental-engineering/job) | 2026-11-02 |
 | Global Infrastructure | Intern Engineering Designer, Roads and Highways | US \| Il \| Chicago 200 South Wacker Drive | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Roads-and-Highways_6687) | 2026-11-02 |
+| Golden Analytics | Software Engineer Intern | Bellevue, WA | [Apply](https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5) | 2026-11-02 |
 | Golden Hippo | Visual Design Intern - Spring 2027 | Remote | [Apply](https://www.golden-careers.com/jobs/4748701005?gh_jid=4748701005) | 2026-11-02 |
 | Gordon Food Service | Sales Internship | Pennsylvania | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Imperial-Pennsylvania/Sales-Internship_R-58192-1) | 2026-11-02 |
 | Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) | 2026-11-02 |
@@ -720,6 +721,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Michelin | Stage - Dévoppement embarqué (F/H) | Clermont-Ferrand | [Apply](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Stage---Dvoppement-embarqu--F-H-_R-2026040269) | 2026-11-02 |
 | Micron Technology | Intern - YE-Electrical Failure Analysis Engineer | Boise | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) | 2026-11-02 |
 | Micron Technology | Intern- YE Physical Failure Analysis Engineer | Boise | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537) | 2026-11-02 |
+| Mikata Health | AI Project Implementation Intern | Calgary, Canada | [Apply](https://ats.rippling.com/mikata/jobs/3ade7ca1-a149-47fe-8303-902694d8456b) | 2026-11-02 |
 | MillerKnoll | Intern Design | Dk Copenhagen | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952) | 2026-11-02 |
 | Mitsubishi UFG | 6-month Internship – Risk Solutions Group EU (RSG), Global Markets – Dec 2026/Jan 2027 | Paris | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Paris/XMLNAME-6-month-Internship---Risk-Solutions-Group-EU--RSG---Global-Markets---Dec-2026-Jan-2027_10080498-WD) | 2026-11-02 |
 | Mizuho Securities USA | Summer 2027 Treasury Internship | New York / 6th Ave) | [Apply](https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Summer-2027-Treasury-Internship_R7520) | 2026-11-02 |
@@ -764,6 +766,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | OneEthos | Product Management Intern (Fall 2026/Spring- Summer 2027) | United States Remote | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | 2026-11-02 |
 | OneEthos | R&D Intern (Fall 2026/Spring-Summer 2027) | United States Remote | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | 2026-11-02 |
 | OpenMind | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/openmind/7367a37a-37d9-42d8-91d4-f4d3e42f3e29) | 2026-11-02 |
+| Overland AI | Internship - Software Engineering | Seattle, WA | [Apply](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) | 2026-11-02 |
 | ParetoHealth | Analytics Summer Intern | Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006) | 2026-11-02 |
 | ParetoHealth | Cost Containment Summer Intern | Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725323006) | 2026-11-02 |
 | ParetoHealth | Customer Management Summer Intern | Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725328006) | 2026-11-02 |
@@ -15521,7 +15524,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Insulet Corporation | Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite) | Massachusetts | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1) | 2026-09-17 |
 | Insulet Corporation | Intern, Internal Controls: June- August (Hybrid) | Massachusetts | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Internal-Controls--January-June-2027--Hybrid-_REQ-2026-18005) | 2026-09-17 |
 | Insulet Corporation | Intern, Treasury: June - August 2027 (Hybrid) | Massachusetts | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--Treasury--June---August-2027--Hybrid-_REQ-2026-18143) | 2026-09-17 |
-| Intelliguard | Part-Time-Engineering Intern – R&D | Columbus, OH | [Apply](https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f) | 2026-09-17 |
 | ITT | 2027 Engineering Co-op | Not Specified | [Apply](https://careersenus-itt-inc.icims.com/jobs/17721/2027-engineering-co-op/job) | 2026-09-17 |
 | ITT | 2027 Supply Chain Summer Intern | Not Specified | [Apply](https://careersenus-itt-inc.icims.com/jobs/17722/2027-supply-chain-summer-intern/job) | 2026-09-17 |
 | ITT | Hardware & Indirect Sourcing Co-op (Spring/Summer 2027) | Not Specified | [Apply](https://careersenus-itt-inc.icims.com/jobs/17707/hardware-%26-indirect-sourcing-co-op-%28spring-summer-2027%29/job) | 2026-09-17 |
@@ -16550,8 +16552,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chase | 2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore | Singapore | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784366) | 2026-09-14 |
 | Chase | 2027 Markets Quantitative Trading & Research Associate Program – Off-Cycle Internship - Hong Kong | Hong Kong | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784369) | 2026-09-14 |
 | Chase | 2027 Markets Quantitative Trading & Research Associate Program – Off-Cycle Internship - Singapore | Singapore | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210784061) | 2026-09-14 |
-| Collier Aerospace | Software Engineering Intern (Summer 2027) | Newport News, VA | [Apply](https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51) | 2026-09-14 |
-| Collier Aerospace | Software Engineering Intern - Web Applications (Summer 2027) | Newport News, VA | [Apply](https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77) | 2026-09-14 |
 | Cone Health | Pharmacy Student Intern | Cone Health Community Pharmacy / Grand Oaks | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Cone-Health-Community-Pharmacy/Pharmacy-Student-Intern_JR149659) | 2026-09-14 |
 | Cone Health | Student Ultrasound Assistant | Alamance Regional Medical Center | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Alamance-Regional-Medical-Center/Student-Ultrasound-Assistant_JR154693) | 2026-09-14 |
 | Constellation Energy | 2027 Summer Accounting Intern (Baltimore, MD) | Maryland | [Apply](https://jobs.constellationenergy.com/jobs/139066?lang=en-us&icims=1) | 2026-09-14 |

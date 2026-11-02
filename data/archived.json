@@ -951018,5 +951018,61 @@
     "date_added": "2026-10-21",
     "active": false,
     "date_archived": "2026-11-02"
+  },
+  {
+    "id": "rippling-collier-aerospace-b666dbfe-34e5-422f-8879-4d53c0ae1f51",
+    "company": "Collier Aerospace",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "Newport News, VA",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-11-02"
+  },
+  {
+    "id": "rippling-collier-aerospace-4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
+    "company": "Collier Aerospace",
+    "title": "Software Engineering Intern - Web Applications (Summer 2027)",
+    "location": "Newport News, VA",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-11-02"
+  },
+  {
+    "id": "rippling-collier-aerospace-a3ae57de-5925-4f55-a106-812b5069cd19",
+    "company": "Collier Aerospace",
+    "title": "Software Engineer (Entry Level)",
+    "location": "Raleigh, NC / Newport News, VA",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/a3ae57de-5925-4f55-a106-812b5069cd19",
+    "date_posted": null,
+    "date_added": "2026-10-22",
+    "active": false,
+    "date_archived": "2026-11-02"
+  },
+  {
+    "id": "rippling-intelliguard-f7754742-8ec6-4803-b2fc-1a50c682030f",
+    "company": "Intelliguard",
+    "title": "Part-Time-Engineering Intern – R&D",
+    "location": "Columbus, OH",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f",
+    "date_posted": null,
+    "date_added": "2026-09-17",
+    "active": false,
+    "date_archived": "2026-11-02"
   }
 ]
