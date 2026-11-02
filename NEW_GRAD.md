@@ -745,7 +745,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Blue Origin | Finance & Accounting Rotation Program (Early Career) | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Finance---Accounting-Rotation-Program--Early-Career-_R73220) | 2026-09-29 |
 | CannonDesign | Mechanical - Entry Level | Buffalo, NY | [Apply](http://www.cannondesign.com/careers/?gh_jid=8856503002) | 2026-09-29 |
 | General Dynamics | Pipefitter - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/20995/pipefitter---entry-level-and-skilled/job) | 2026-09-29 |
-| Geosyntec Consultants | Early Career Process Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4911/early-career-process-engineer/job) | 2026-09-29 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Ogden, UT) | Utah | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Utah/Entry-Level-Associate-Neurophysiologist--Ogden--UT-_JR107672-1) | 2026-09-29 |
 | Intertek | Acoustical Technician - Entry level | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15990) | 2026-09-29 |
 | Monolithic Power Systems | Digital Verification Engineer (New Grad) | Taipei Taiwan | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Taipei---Taiwan/Digital-Verification-Engineer_R-2018) | 2026-09-29 |
@@ -1308,7 +1307,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area / Hutto, TX / Cupertino, Canada | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802) | 2026-08-21 |
 | Corewell Health | Medical Assistant New Grad Float Pool | Not Specified | [Apply](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Medical-Assistant-New-Grad-Float-Pool_R224504) | 2026-08-21 |
 | Cox | Entry Level Diesel Mechanic | Oakland CA | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Oakland-CA/Entry-Level-Diesel-Mechanic_R202681579) | 2026-08-21 |
-| Facility Solutions Group | Entry Level Data Technician / Helper | Not Specified | [Apply](https://careers-fsg.icims.com/jobs/2545/entry-level-data-technician---helper/job) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506365) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506362) | 2026-08-21 |
 | Barclays | Banking Associate Graduate Program 2027 San Francisco | Four Embarcadero Center | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Associate-Graduate-Program-2027-San-Francisco_JR-0000123462-1) | 2026-08-20 |
