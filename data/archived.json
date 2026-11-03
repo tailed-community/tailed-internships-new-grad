@@ -527366,20 +527366,6 @@
     "date_archived": "2026-09-17"
   },
   {
-    "id": "rippling-zuckerman-investment-group-923b73b8-91a9-430c-9f84-b87014b8bbb3",
-    "company": "Zuckerman Investment Group",
-    "title": "Investment Analyst – MBA Internship",
-    "location": "Chicago, IL",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "rippling",
-    "url": "https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3",
-    "date_posted": null,
-    "date_added": "2026-08-24",
-    "active": false,
-    "date_archived": "2026-09-17"
-  },
-  {
     "id": "workable-belmond-5933726",
     "company": "Belmond",
     "title": "F&B Service Internship",
@@ -951702,6 +951688,20 @@
     "url": "https://jobs.smartrecruiters.com/Winsupply1/3743990015014131",
     "date_posted": "2026-09-02",
     "date_added": "2026-09-07",
+    "active": false,
+    "date_archived": "2026-11-03"
+  },
+  {
+    "id": "rippling-tive-c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
+    "company": "Tive",
+    "title": "Software Engineer Co-op",
+    "location": "Boston, MA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
+    "date_posted": null,
+    "date_added": "2026-09-14",
     "active": false,
     "date_archived": "2026-11-03"
   }

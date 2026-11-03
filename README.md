@@ -677,6 +677,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zebra | 2027 Summer Internship (US) - Social Media | Illinois | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Social-Media_JR103617) | 2026-11-03 |
 | Zebra | 2027 Summer Internship (US) - Software Engineer | New York | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) | 2026-11-03 |
 | Zeiss | Working Student Maintenance (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent-Maintenance--m-w-x-_JR_1053767) | 2026-11-03 |
+| Zuckerman Investment Group | Wealth Manager - MBA Intern | Chicago, IL | [Apply](https://ats.rippling.com/zuckerman-investment-group/jobs/1a985c49-4fa7-4dfc-8544-52ed47e4654a) | 2026-11-03 |
 | 42dot | [MS/PhD Intern] AI Engineer (정규직 전환형) | South Korea / Remote | [Apply](https://jobs.ashbyhq.com/42dot/c4af7536-c24f-4754-9fe9-d92d237403f3) | 2026-11-02 |
 | 42dot | Internship, Foundation Models | Califonia, United States | [Apply](https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b) | 2026-11-02 |
 | ABB | Student Internship in HR Services with Italian | Poland | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Student-Internship-in-HR-Services-with-Italian_JR00052275) | 2026-11-02 |
@@ -14956,7 +14957,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rippling | Data Science Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | 2026-09-22 |
 | Rippling | Full Stack Software Engineer Intern - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
 | Rippling | Machine Learning Software Engineer Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | 2026-09-22 |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | Seattle, WA / New York, NY / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | New York, NY / San Francisco, Canada / Seattle, WA | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
 | Rite Hite | Engineering Internship (Dubuque) | USA-Ia-Dubuque Headquarters | [Apply](https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-IA-Dubuque-Headquarters/Engineering-Internship--Dubuque-_JR102571) | 2026-09-22 |
 | Robert Bosch Venture Capital | Working Student - Industrial Engineering | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150958359) | 2026-09-22 |
 | Rolls-Royce | Working Student - Parts Availability (f/m/d) | Dahlewitz | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Dahlewitz/Working-Student---Parts-Availability--f-m-d-_JR6160488) | 2026-09-22 |
@@ -17340,7 +17341,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Toro Company | Advanced Quality Engineering Intern - The Toro Company | Bloomington, MN | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Advanced-Quality-Engineering-Intern---The-Toro-Company_JR17231) | 2026-09-14 |
 | The Walt Disney Company | Intern, Lifecycle & Retention Marketing, Disney+ - Jan to Jun 2027 | Thailand | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Bangkok-Thailand/Intern--Lifecycle---Retention-Marketing--Disney----Jan-to-Jun-2027_10160622-1) | 2026-09-14 |
 | The Walt Disney Company | Intern, Marketing Strategy and Media & Social, Disney Cruise Line - Jan to Jun 2027 | Singapore | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Singapore-Singapore/Intern--Marketing-Strategy-and-Media---Social--Disney-Cruise-Line---Jan-to-Jun-2027_10160638-1) | 2026-09-14 |
-| Tive | Software Engineer Co-op | Boston, MA | [Apply](https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0) | 2026-09-14 |
 | TTP | 6-Month PhD Student Placement - Physics Consultant - 2027 | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149301520) | 2026-09-14 |
 | TTP | Summer Internship - Electronic Engineering Consultant - 2027 | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149038070) | 2026-09-14 |
 | TTP | Summer Internship - Software Engineering Consultant - 2027 | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/TTP1/744000149038758) | 2026-09-14 |
@@ -22168,6 +22168,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of St. Thomas | Student Food Service Worker - T's and Scooter's | Not Specified | [Apply](https://studentemployment-stthomas.icims.com/jobs/9499/student-food-service-worker---t%27s-and-scooter%27s/job) | 2026-08-24 |
 | Western Digital | Intern - AI Information Technology (Studying Master's and Bachelor Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000145156358) | 2026-08-24 |
 | Zoomifier | Software Development Intern | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/CustomShow/75886593) | 2026-08-24 |
+| Zuckerman Investment Group | Investment Analyst – MBA Internship | Chicago, IL | [Apply](https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3) | 2026-08-24 |
 | Expeditors | Sales internship | Scottsdale, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000144890329) | 2026-08-23 |
 | Aerotek | Sales Internship - Ann Arbor, MI | Ann Arbor, MI, United States | [Apply](https://careers-aerotek.icims.com/jobs/13744/sales-internship---ann-arbor%2c-mi/job) | 2026-08-22 |
 | Aerotek | Sales Internship - Grand Rapids, MI | Grand Rapids, MI, United States | [Apply](https://careers-aerotek.icims.com/jobs/13743/sales-internship---grand-rapids%2c-mi/job) | 2026-08-22 |
