@@ -1227,7 +1227,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ivy Tech Community College | Student Work - Study: Habitat For Humanity | Kokomo, IN | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Kokomo-IN/Student-Work---Study--Habitat-For-Humanity_JR0000110038) | 2026-11-02 |
 | Ixian Robotics | Hardware Intern | California, United States | [Apply](https://jobs.ashbyhq.com/ixianrobotics/f974d07a-0186-4cc9-8c63-ef962dd06f0b) | 2026-11-02 |
 | Ixian Robotics | Software Intern | California, United States | [Apply](https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233) | 2026-11-02 |
-| Javelin Global Commodities | Summer Intern: Software Engineering | England, United Kingdom | [Apply](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/) | 2026-11-02 |
 | Jefferson Health | OT Student Therapy Aide Per Diem- Jefferson Moss-Magee- Elkins Park | Montgomery County, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/OT-Student-Therapy-Aide-Per-Diem--Jefferson-Moss-Magee--Elkins-Park_REQ-0034075-2) | 2026-11-02 |
 | JINGDONG | JD Young Business Development Internship | Nld-South Holland-Rotterdam | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/NLD-South-Holland-Rotterdam/JD-Young-Business-Development-Internship_JR104510) | 2026-11-02 |
 | JINGDONG | JD Young Business Development Internship | Fra-Seine-Saint-Denis-Dugny | [Apply](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/FRA-Seine-Saint-Denis-Dugny/JD-Young-Business-Development-Internship_JR104511) | 2026-11-02 |
@@ -13152,8 +13151,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ingredion | Marketing Communications Intern | Westchester, IL | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Marketing-Communications-Intern_Req-40296-1) | 2026-09-29 |
 | Itron | Intern - Data Engineering | Liberty Lake, United States | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | 2026-09-29 |
 | Itron - Itron | Intern - Data Engineering | Liberty Lake, United States | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | 2026-09-29 |
-| Javelin Global Commodities | Summer Intern: Commodities Operations | England, United Kingdom | [Apply](https://apply.workable.com/javelin-global-commodities/j/5284144991/) | 2026-09-29 |
-| Javelin Global Commodities | Summer Intern: Commodities Trading | England, United Kingdom | [Apply](https://apply.workable.com/javelin-global-commodities/j/22AE8F15CE/) | 2026-09-29 |
 | Johnson & Johnson | Intern, Pharm Process Modeling | China | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Intern--Pharm-Process-Modeling_R-101429) | 2026-09-29 |
 | Johnson & Johnson | Key Account Sales - Student Placement | Berkshire, United Kingdom | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Wokingham-Berkshire-United-Kingdom/Key-Account-Sales---Student-Placement_R-100740) | 2026-09-29 |
 | K2 Space | Supply Chain Internship - Summer 2027 | Los Angeles | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5436468008) | 2026-09-29 |
@@ -24940,6 +24937,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Stage Ingénieur Informatique  au sein du service Test & Validation Electronique | Angers | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454) | 2026-06-16 |
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Digital Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
+| Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |

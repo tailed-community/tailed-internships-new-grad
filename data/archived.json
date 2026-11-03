@@ -935970,20 +935970,6 @@
     "date_archived": "2026-11-02"
   },
   {
-    "id": "workable-belmond-5260024",
-    "company": "Belmond",
-    "title": "Executive Assistant Intern to the Deputy General Manager",
-    "location": "Venice, Metropolitan City of Venice, Italy",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/",
-    "date_posted": "2026-04-23",
-    "date_added": "2026-06-15",
-    "active": false,
-    "date_archived": "2026-11-02"
-  },
-  {
     "id": "workable-commonai-c-i-c-6194650",
     "company": "CommonAI C.I.C.",
     "title": "Software Engineer (Summer 2027 Internship)",
@@ -951702,6 +951688,62 @@
     "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
     "date_posted": null,
     "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-11-03"
+  },
+  {
+    "id": "workable-capula-6233762",
+    "company": "Capula",
+    "title": "2027 Technology Graduate Program",
+    "location": "London, England, United Kingdom",
+    "type": "new_grad",
+    "season": "2027",
+    "source": "workable",
+    "url": "https://apply.workable.com/capula-investment-management-ltd/j/F315E7E4CB/",
+    "date_posted": "2026-11-02",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-03"
+  },
+  {
+    "id": "workable-javelin-global-commodities-6103488",
+    "company": "Javelin Global Commodities",
+    "title": "Summer Intern: Commodities Trading",
+    "location": "London, England, United Kingdom",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/javelin-global-commodities/j/22AE8F15CE/",
+    "date_posted": "2026-09-16",
+    "date_added": "2026-09-29",
+    "active": false,
+    "date_archived": "2026-11-03"
+  },
+  {
+    "id": "workable-javelin-global-commodities-6103534",
+    "company": "Javelin Global Commodities",
+    "title": "Summer Intern: Commodities Operations",
+    "location": "London, England, United Kingdom",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/javelin-global-commodities/j/5284144991/",
+    "date_posted": "2026-10-29",
+    "date_added": "2026-09-29",
+    "active": false,
+    "date_archived": "2026-11-03"
+  },
+  {
+    "id": "workable-javelin-global-commodities-6231207",
+    "company": "Javelin Global Commodities",
+    "title": "Summer Intern: Software Engineering",
+    "location": "London, England, United Kingdom",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/",
+    "date_posted": "2026-10-28",
+    "date_added": "2026-11-02",
     "active": false,
     "date_archived": "2026-11-03"
   }
