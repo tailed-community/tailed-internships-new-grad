@@ -976442,5 +976442,19 @@
     "date_added": "2026-09-07",
     "active": false,
     "date_archived": "2026-11-04"
+  },
+  {
+    "id": "workable-cogna-6111391",
+    "company": "Cogna",
+    "title": "Software Engineer Intern (2027 Cohort)",
+    "location": "London, England, United Kingdom",
+    "type": "internship",
+    "season": "2027",
+    "source": "workable",
+    "url": "https://apply.workable.com/cogna/j/45A6283F88/",
+    "date_posted": "2026-09-18",
+    "date_added": "2026-09-21",
+    "active": false,
+    "date_archived": "2026-11-04"
   }
 ]
