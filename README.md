@@ -83,6 +83,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AstraZeneca | Epidemiology Intern | US Boston Ma | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Epidemiology-Intern_R-263378-1) | 2026-11-04 |
 | AstraZeneca | US Medical Affairs, Hematology-Lymphoma Intern | US Gaithersburg Md | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Hematology-Lymphoma-Intern_R-263555) | 2026-11-04 |
 | AstraZeneca | US Medical Affairs, Process & Operations Intern | US Gaithersburg Md | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Process---Operations-Intern_R-263334) | 2026-11-04 |
+| Aurora Innovation | Lidar Systems Intern | California, United States | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1) | 2026-11-04 |
 | Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | Tx-Houston | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) | 2026-11-04 |
 | Baker Tilly | FY27 Winter Tax Internship - Nashville | USA Tn Nashville | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TN-Nashville/FY27-Winter-Tax-Internship---Nashville_JR108889) | 2026-11-04 |
 | Barry-Wehmiller - BWConfidential | Intern - Manufacturing-1 | Serbia | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/aak-Serbia/Intern---Manufacturing-1_R023244) | 2026-11-04 |
@@ -121,6 +122,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ciena | Stagiaire en développement logiciel - Software developer Intern/Co-op | QC / Canada Remote | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | 2026-11-04 |
 | Cisco | Hardware Engineer PhD Co-op - United States | California, United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378) | 2026-11-04 |
 | Citi | Services – Treasury and Trade Solutions, Internship, São Paulo – Brazil – 2027 | Sao Paulo Sao Paulo Brazil | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Services---Treasury-and-Trade-Solutions--Internship--So-Paulo---Brazil---2027_261005690) | 2026-11-04 |
+| Clera | Founder Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/46bd2aaa-00c6-40ad-9031-5a39af1d06d2) | 2026-11-04 |
 | Cleveland-Cliffs | Civil Engineering Intern | Northshore Mining Silver Bay | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/Northshore-Mining----Silver-Bay/Civil-Engineering-Intern_R13496) | 2026-11-04 |
 | Cleveland-Cliffs | Civil Engineering Intern | United Taconite Forbes | [Apply](https://aksteel.wd1.myworkdayjobs.com/careers/job/United-Taconite---Forbes/Civil-Engineering-Intern_R13969) | 2026-11-04 |
 | Colliers | Summer Intern 2027 | Georgia, United States | [Apply](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Atlanta-Georgia-United-States-of-America/Summer-Intern-2027_JR18746-1) | 2026-11-04 |
@@ -203,6 +205,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Dedalus | HR Diversity & Inclusion Internship | Ita Milan Trinita | [Apply](https://dedalus.wd3.myworkdayjobs.com/External/job/ITA---Milan---Trinita/HR-Diversity---Inclusion-Internship_JR108579) | 2026-11-04 |
 | Dentsu | STAGE - Assistant Chef de Projet eRetail Média H/F | Paris 67 Avenue Wagram | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Paris---67-avenue-Wagram/STAGE---Assistant-Chef-de-Projet-eRetail-Mdia-H-F_R1136917) | 2026-11-04 |
 | Elanco | Stage BAC +5 - Excellence opérationnelle | Fr Huningue | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/FR---Huningue/Stage-BAC--5---Excellence-oprationnelle_R0027615-2) | 2026-11-04 |
+| Etched | IA Research Engineer (Kernels) Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440) | 2026-11-04 |
 | Euronext | Accounts Payables, intern | Athens | [Apply](https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Accounts-Payables--intern_R29421) | 2026-11-04 |
 | Eversource Energy | 2027 Summer Intern, Environmental Licensing & Permitting | Berlin, CT | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Berlin-CT/XMLNAME-2027-Environmental-Licensing---Permitting-Co-op_R-032292) | 2026-11-04 |
 | Eversource Energy | 2027 Telecommunications Engineering Intern | Manchester, NH | [Apply](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906) | 2026-11-04 |
@@ -385,6 +388,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | PTC | Training Content Creator Intern (Summer 2027) | Boston, MA, United States | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Training-Content-Creator-Intern_JR112942-1) | 2026-11-04 |
 | RBC | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | 2026-11-04 |
 | RBC | Group Advantage Relationship Manager Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Group-Advantage-Relationship-Manager-Intern_R-0000191899) | 2026-11-04 |
+| REGENT | Commercial Business Development, Data Intern | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/regent/c32af35c-d7bc-4124-834b-7d35cf51dc7b) | 2026-11-04 |
+| REGENT | Human Factors (Winter Co-Op) | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/regent/cad11fc1-5129-4b2a-8bb3-3880193802f3) | 2026-11-04 |
+| REGENT | Mechanical Engineering Co-Op | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/regent/6d1fc228-f66c-4780-b358-7be3f6f64ed9) | 2026-11-04 |
 | Renault Group | [Internship] AI & Software Automation for Automotive Engineering (F/M) | Not Specified | [Apply](https://alliancewd.wd3.myworkdayjobs.com/en/renault-group-careers/job/Bucuresti/XMLNAME--Internship--AI---Software-Automation-for-Automotive-Engineering--F-M-_JOBREQ_50285647) | 2026-11-04 |
 | Resmed | Intern, Manufacturing Digital Transformation | Singapore | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Digital-Transformation_JR_054269) | 2026-11-04 |
 | Resmed | Intern, Manufacturing Engineering | Singapore | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Engineering_JR_053879-1) | 2026-11-04 |
@@ -460,6 +466,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | STV | Water/Wastewater Engineering Intern - Summer 2027 | New York | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Water-Wastewater-Engineering-Intern---Summer-2027_JR6168) | 2026-11-04 |
 | Sun Life | Business Operations Software Engineer - 2027 Co-op | Wisconsin / Massachusetts / Ct Office / Portland, ME / Mo Office | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1) | 2026-11-04 |
 | Sun Life | Business Operations Software Engineer 2027 Co-op | Sun Life Wellesley / Ct Office / Dq Milwaukee Bayshore / Portland, ME / Mo Office | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863) | 2026-11-04 |
+| Sycamore | Marketing Intern | Bay Area / New York | [Apply](https://jobs.ashbyhq.com/sycamore/deace9db-12eb-40d5-9b5e-d74fa32d38eb) | 2026-11-04 |
+| Sycamore | Strategy & Operations Intern | Bay Area | [Apply](https://jobs.ashbyhq.com/sycamore/25ec4fb8-f8a7-4bd0-bdf9-02699bd26ae5) | 2026-11-04 |
 | T-Mobile | Summer 2027 Business Development, Physical & Edge AI Internship | Washington | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Development--Physical---Edge-AI-Internship_REQ380654) | 2026-11-04 |
 | T-Mobile | Summer 2027 Instructional Design Internship | Texas / Kansas / Georgia | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Instructional-Design-Internship_REQ380591) | 2026-11-04 |
 | T-Mobile | Summer 2027 Quality Engineering Internship | Pennsylvania | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Quality-Engineering-Internship_REQ381210) | 2026-11-04 |
@@ -470,6 +478,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Teledyne | Hardware Design Test Coop | Canada Waterloo, ON | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Hardware-Design-Test-Coop_REQ36840-1) | 2026-11-04 |
 | Tencent - Tencent_Careers | Media Services Solution Architect Intern — Korea | S.korea-Seoul | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/SKorea-Seoul/Media-Services-Solution-Architect-Intern---Korea_R108333) | 2026-11-04 |
 | Terex | Intern | US-Mi Charlotte L02 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-MI-Charlotte-L02/Intern_REQ-15056) | 2026-11-04 |
+| Terranova | AI Intern | California, United States | [Apply](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942) | 2026-11-04 |
 | Thales | STAGE DE FIN D'ETUDES - Marketing Stratégique et Développement Commercial - F/H | Meudon | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Meudon/STAGE---Marketing-Stratgique-et-Dveloppement-Commercial---F-H_R0346026-1) | 2026-11-04 |
 | Thales | Stage – Ingénieur – Optimisation de l’architecture thermique des satellites par intégration partielle de caloducs dans les panneaux NIDA –  (H/F) | Cannes | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cannes/Stage---Ingnieur---Optimisation-de-l-architecture-thermique-des-satellites-par-intgration-partielle-de-caloducs-dans-les-panneaux-NIDA-----H-F-_R0344658-1) | 2026-11-04 |
 | The Boeing Company | Mandatory Internship - Future Flight Operations Research m/f/d | Germany | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026527825-1) | 2026-11-04 |
@@ -2045,7 +2054,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Shield AI | Senior Staff BD Account Executive - Autonomy Specialist (R5001) | Abu Dhabi | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f289a066-07be-4bb5-92f3-32e638e5b6a5) | 2026-11-02 |
 | Shield AI | Senior Staff BD Account Executive - Autonomy Specialist, India (R6015) | New Delhi | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/27528fd5-ba23-4fd4-8c46-f7bedfd90b98) | 2026-11-02 |
 | Shield AI | Senior Staff Engineer, Autonomy (R5837) | Melbourne | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/03edf029-ca14-4648-86b5-29b4e4121d98) | 2026-11-02 |
-| Shield AI | Senior Staff Engineer, Autonomy and Motion Planning (R5538) | London | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2019081b-b7fc-4188-8c8b-d6663b9724e3) | 2026-11-02 |
 | Shield AI | Senior Staff Engineer, Autonomy Software Integration & Test (R5539) | London | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a605bddb-2ab5-4ebf-af52-04f27a619fd8) | 2026-11-02 |
 | Shield AI | Senior Staff Engineer, Software Autonomy (R5125) | New Delhi | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2d6c7884-8830-43c1-9c1a-9bc0563f50de) | 2026-11-02 |
 | Shield AI | Senior Staff Technical Program Manager (R5595) | Melbourne | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/8cb6f1a3-1569-464c-b950-231bcd79adf9) | 2026-11-02 |
@@ -2963,7 +2971,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Signify | Product Management Intern, Cooper Lighting Solutions - Spring 2027 | Peachtree City | [Apply](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) | 2026-10-30 |
 | Skechers | Intern Trainee | Colombia | [Apply](https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Bogota-Colombia/Intern-Trainee_JR133929) | 2026-10-30 |
 | Smiths Detection Group | Data Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000158614699) | 2026-10-30 |
-| Snowflake | Product Management Intern (Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | 2026-10-30 |
 | Snowflake | Product Marketing- Agentic Analytics Intern (Spring 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9) | 2026-10-30 |
 | SOTI - SOTI-Next-Gen | QA Intern (May 2027, 12 months) | Canada – Meadowvale Office (hq) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/QA-Intern--May-2027--12-months-_R10610) | 2026-10-30 |
 | SOTI - SOTI-Next-Gen | Software Developer Intern - SOTI XSight (May 2027 12 Months) | Canada – Meadowvale Office (hq) | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) | 2026-10-30 |
@@ -3186,7 +3193,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CIBC - search | QA Analyst co-op | Toronto, ON | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/QA-Analyst-co-op_2622340-1) | 2026-10-29 |
 | Cisco | Strategy and Planning Manager MBA (Intern) - United States | California, United States / Texas, United States / North Carolina, United States / Georgia, United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Strategy-and-Planning-Manager-MBA--Intern----United-States_2024804) | 2026-10-29 |
 | Citco | Investor Relations Intern | Ireland | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18939) | 2026-10-29 |
-| Clera | Computer Vision & Robotics Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/add0d66a-62ce-43e6-a666-4ee20b2d3bcb) | 2026-10-29 |
 | Clera | GTM Intern | California, United States | [Apply](https://jobs.ashbyhq.com/clera/b1b74bbc-50bb-4f5d-ad70-738cfd1fbf50) | 2026-10-29 |
 | Cleveland Clinic | Student Nurse PRN Nursing Support - Hillcrest Hospital | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/Student-Nurse-PRN-Nursing-Support---Hillcrest-Hospital_358413-1) | 2026-10-29 |
 | Cloudflare | Product Manager Intern (2027) - Austin, TX | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) | 2026-10-29 |
@@ -7388,6 +7394,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Michael Baker International | Intern, Water Resources -Summer 2027 | Moon Township, PA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310079) | 2026-10-19 |
 | Monolithic Power Systems | Functional Safety Intern | Munich Germany | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Munich---Germany/Functional-Safety-Intern_R-1972) | 2026-10-19 |
 | Motorola Solutions | Software Developer Intern | Malaysia | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694) | 2026-10-19 |
+| MUBI | Social Media Intern, BR | Brazil / Remote | [Apply](https://jobs.ashbyhq.com/MUBI/f2091b6b-9ba7-42c2-bb29-f16e84d0970c) | 2026-10-19 |
 | National Information Solutions Cooperative (NISC) | Intern - Application Analyst (Financials Software) | Mandan, ND | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8301304) | 2026-10-19 |
 | Navy Federal | Intern - Year Round (AI Engineering) | Vienna, VA, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/32645) | 2026-10-19 |
 | Nissan Global | Applied AI & Business Innovation Intern - Summer 2027 - Franklin, TN | Tennessee United States Of America | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225) | 2026-10-19 |
@@ -14573,7 +14580,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Antares Nuclear | Quality Engineering Intern - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f) | 2026-09-21 |
 | Antares Nuclear | Reactor Software Engineering Intern - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3) | 2026-09-21 |
 | Antares Nuclear | Space Mechanical Design Engineering Intern - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81) | 2026-09-21 |
-| Antares Nuclear | Thermofluids Analysis Intern - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/Antares/fbf5e422-fb4c-46fb-9ba0-9046df88f44f) | 2026-09-21 |
 | Arcadis | Water Engineer Intern | Guaynabo, PR, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44563) | 2026-09-21 |
 | ATC | Intern - Civil Engineering Summer 2027 | Pewaukee, WI / De Pere, WI / Cottage Grove, WI | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Engineering-Summer-2027_R0003304) | 2026-09-21 |
 | ATC | Intern - Energy Management System (EMS) Summer 2027 | Pewaukee, WI / Cottage Grove, WI | [Apply](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Energy-Management-System--EMS--Summer-2027_R0003306) | 2026-09-21 |
@@ -16059,10 +16065,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Baird | Internship – Software Developer (Year-Round) | Wi-Milwaukee / Wi-Madison | [Apply](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1) | 2026-09-15 |
 | Baker Tilly | Summer 2027 Public Sector Finance Intern (Capital & Infrastructure - Debt Issuance) | USA In Indianapolis / USA Mn Minneapolis | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-IN-Indianapolis/Summer-2027-Public-Sector-Finance-Intern--Capital---Infrastructure---Debt-Issuance-_JR107991) | 2026-09-15 |
 | Base Power | Business Operations Intern, Commercial Partnerships | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/db6bb778-21d3-47d1-8f97-a42543f88b8f) | 2026-09-15 |
-| Base Power | Business Operations, MBA Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/35b85c17-d6bc-4645-83f0-782049febce7) | 2026-09-15 |
 | Base Power | Deployments Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935) | 2026-09-15 |
 | Base Power | Deployments Operations Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2) | 2026-09-15 |
 | Base Power | Design Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd) | 2026-09-15 |
+| Base Power | Finance & Business Operations, MBA Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/35b85c17-d6bc-4645-83f0-782049febce7) | 2026-09-15 |
 | Base Power | Material Planning Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/8546526d-e545-48b4-8537-0bc85e986f93) | 2026-09-15 |
 | Bass Pro Shops | CAD Technician Co-Op | Mo (tracker Marine Base Camp) | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/CAD-Technician-Co-Op_R267058-1) | 2026-09-15 |
 | Bass Pro Shops | Electrical Engineering Co-Op | Mo (tracker Marine Base Camp) | [Apply](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Electrical-Engineering-Co-Op_R267059) | 2026-09-15 |
@@ -18602,7 +18608,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | POET | Merchandising Intern - Summer 2027 | Sioux Falls, SD | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Merchandising-Intern---Summer-2027_R101700) | 2026-09-07 |
 | POET | Plant Engineering Intern - Summer 2027 | Shelbyville, IN | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Shelbyville-IN/Plant-Engineering-Intern---Summer-2027_R101670) | 2026-09-07 |
 | POET | Plant Engineering Intern - Summer 2027 | Caro, MI | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Caro-MI/Plant-Engineering-Intern---Summer-2027_R101676) | 2026-09-07 |
-| Primer | Spring/Summer 2027 Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0) | 2026-09-07 |
 | Procter & Gamble (P&G) | Process Engineer Intern - Product Supply Management Intern (6 months) | Singapore Pioneer Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-PIONEER-PLANT/Process-Engineer-Intern---Product-Supply-Management-Intern--6-months-_R000158599) | 2026-09-07 |
 | Procter & Gamble (P&G) | Product Supply Management Intern (6 months) | Singapore Pioneer Plant | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-PIONEER-PLANT/Product-Supply-Management-Intern--6-months-_R000158598) | 2026-09-07 |
 | Ramiel Capital | Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ramielcapital/8c57222a-e723-49a6-b9f1-b4628c1da76f) | 2026-09-07 |
@@ -19157,7 +19162,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stryker | Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern | Tennessee | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | 2026-09-04 |
 | Symphony | Intern, Development Operations DevOps | Sophia Antipolis | [Apply](https://symphony.com/company/apply?gh_jid=8121110) | 2026-09-04 |
 | Symphony | Intern, Software Developer | Sophia Antipolis | [Apply](https://symphony.com/company/apply?gh_jid=8121111) | 2026-09-04 |
-| Taara | Coherent Optical Systems Internship | Sunnyvale, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb) | 2026-09-04 |
+| Taara | Optical PLL Research Intern | Sunnyvale, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb) | 2026-09-04 |
 | Tencent - Tencent_Careers | Data Science Intern (Analytics), 6-month internship | Singapore-Capitasky | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974) | 2026-09-04 |
 | Thales | Software Development and Integration Engineer (Intern) | Singapore | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158) | 2026-09-04 |
 | The Exploration Company | Spring 2027 Internship (Engineering) | Houston, United States | [Apply](https://jobs.ashbyhq.com/the-exploration-company/3f4e976b-0d0c-4440-a943-6b4b0b2f6ddf) | 2026-09-04 |
@@ -22977,6 +22982,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zuru | Brand Partnerships Summer Internship 2026/2027 | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/83a028d0-6593-4612-9a6a-883364c36329) | 2026-07-27 |
 | Zuru | Commercial Summer Internship 2026/2027 | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/4f3eaec4-7273-48bb-ac74-a1dcf5b49364) | 2026-07-27 |
 | Zuru | Data Analyst Intern | California, United States | [Apply](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0) | 2026-07-27 |
+| Zuru | Marketing Summer Internship 2026/2027 | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/18b0f2f0-dc64-4d0a-a925-0e19a38023ee) | 2026-07-27 |
 | Loblaw Companies | Student, Franchise Part Time Day | Barrie, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/165-Wellington-St-W-Barrie-ON/Student--Franchise-Part-Time-Day_R2000687738) | 2026-07-26 |
 | Heron Power | Intern, Business Development Associate, Fall 2026/Winter 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/823aab95-be9b-485e-a8fc-4024440a91cd) | 2026-07-25 |
 | Magna International | Intern - Systems Engineering | Michigan, United States | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437) | 2026-07-25 |
@@ -24344,7 +24350,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cluely | Engineering Intern | California, United States | [Apply](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108) | 2026-06-08 |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada / Europe / United States / United Kingdom / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | 2026-06-08 |
 | Cohere | Research Internship (Winter 2027) | Canada / San Francisco / Europe / London / United States / United Kingdom / Toronto / Montreal / Canada Remote | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 2026-06-08 |
-| Context | Summer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8) | 2026-06-08 |
 | Creatify Lab | Product Manager Intern | California, United States | [Apply](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2) | 2026-06-08 |
 | Creatify Lab | Software Engineer Intern | California, United States | [Apply](https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f) | 2026-06-08 |
 | Ellipsis Labs | Software Engineer - 2027 Interns | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) | 2026-06-08 |
