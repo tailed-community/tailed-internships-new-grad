@@ -8,6 +8,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advocate Health Care | New Graduate Registered Nurse (RN) - 3 Palmetto Med/Surg/Cardiac | Charlotte, NC | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Pineville---10628-Park-Rd-Charlotte-NC/New-Graduate-Registered-Nurse--RN----3-Palmetto-Med-Surg-Cardiac_R284760) | 2026-11-04 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159539789) | 2026-11-04 |
+| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159539729) | 2026-11-04 |
 | Amcor | Entry Level Manufacturing - Film Tech 3 pm to 11 pm | Acd Mankato Mn | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Mankato-MN/Entry-Level-Manufacturing---Film-Tech-3-pm-to-11-pm_REQ_98148) | 2026-11-04 |
 | Amentum | Software Tools Developer, Entry Level | US-Al-Huntsville | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727) | 2026-11-04 |
 | AutoNation | Entry Level Service Technician-AutoNation Ford Frisco-$18 | Autonation Ford Frisco | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Ford-Frisco/Entry-Level-Service-Technician-AutoNation-Ford-Frisco--18_JR2026151830) | 2026-11-04 |
@@ -26,6 +28,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | EaglePicher Technologies | Financial Analyst - Entry Level | Joplin C Street, MO, United States | [Apply](https://careers-eaglepicher.icims.com/jobs/3234/financial-analyst---entry-level/job) | 2026-11-04 |
 | ERM | Asistente administrativo (Entry Level) | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Asistente-administrativo--Entry-Level-_R00032700-1) | 2026-11-04 |
 | ERM | Sustainability Consultant (Entry level) - Temporary 6 - 12 months | Argentina | [Apply](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Buenos-Aires-Argentina/Sustainability-Consultant--Entry-level----Temporary-6---12-months_R00032698) | 2026-11-04 |
+| Eurofins | Entry Level Analytical Chemist | Groton, CT, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159538419) | 2026-11-04 |
 | Ford Motor Company | Thermal Firmware Integration Engineer - Early Career Program, Advanced EV | Palo Alto, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527) | 2026-11-04 |
 | Ford Motor Company | Thermal Test Engineer - Early Career Program, Advanced EV | Long Beach, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73529) | 2026-11-04 |
 | General Dynamics | Mechanic - Machinist Entry Level & Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21518/mechanic---machinist--entry-level-%26-skilled/job) | 2026-11-04 |
@@ -50,6 +53,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MaineGeneral Health | 2 West - Medical Surgical Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---Medical-Surgical-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R17683-1) | 2026-11-04 |
 | Medline | Part Time Entry Level: Field Services Representative | Minnesota | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Minneapolis-Minnesota/Part-Time-Entry-Level--Field-Services-Representative_R2622046) | 2026-11-04 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
+| Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159558619) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
@@ -117,7 +121,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Thermo Fisher Scientific | Assistant Scientist - Entry Level Opportunity | Virginia, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Assistant-Scientist---Entry-Level-Opportunity_R-01374688) | 2026-11-03 |
 | Thermo Fisher Scientific | Entry Level Scientist - Cell Gene Therapy | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Scientist_R-01374866) | 2026-11-03 |
 | AECOM | Entry Level Transit Engineer | Dallas, TX, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159229400) | 2026-11-02 |
-| AECOM | Entry-Level Digital Solutions Business Analyst | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159214369) | 2026-11-02 |
 | Amcor | Entry Level Manufacturing | Af Pauls Valley Ok | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Pauls-Valley-OK/Entry-Level-Manufacturing_REQ_98182) | 2026-11-02 |
 | AstraZeneca | Asia AZpire Graduate Program - Malaysia | Malaysia Petaling Jaya | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Malaysia---Petaling-Jaya/Asia-AZpire-Graduate-Program---Malaysia_R-262927-1) | 2026-11-02 |
 | AstraZeneca | Asia AZpire Graduate Program - Singapore | Singapore | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/Asia-AZpire-Graduate-Program---Singapore_R-262929-1) | 2026-11-02 |
@@ -367,7 +370,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Daniels Health | Warehouse Associate \| Early Career \| 2nd Shift -7033 | Racine, WI | [Apply](https://jobs.lever.co/daniels-sharpsmart/7029fe24-da3f-4c63-8961-afb4b3c565cf) | 2026-10-23 |
 | Dell Technologies | Inside Sales Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301118) | 2026-10-23 |
 | DriveTime | Automotive Tech - Entry Level | Tn 38128 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/2177-Covington-Pike-Memphis-TN-38128/Automotive-Tech---Entry-Level_R16543) | 2026-10-23 |
-| Eurofins | Entry Level Scientist- Viral Clearance | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157211229) | 2026-10-23 |
 | Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157464977) | 2026-10-23 |
 | Expeditors | Logistics Coordinator - entry level (Global Network Management Center)-on-site | Romania | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000157490989) | 2026-10-23 |
 | Hewlett Packard Enterprise | Test Engineer, HPC & AI Systems - (Early Career) | Texas, United States | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3) | 2026-10-23 |
@@ -413,7 +415,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shield AI | RF Engineer I - New Grad (R6108) | Washington | [Apply](https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416) | 2026-10-22 |
 | True Anomaly | Propulsion Engineer I (New Grad) | Denver, CO | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007) | 2026-10-22 |
 | AECOM | Entry-Level Bridge Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156587483) | 2026-10-21 |
-| AECOM | Entry-Level Civil Engineer - Aviation | Rocky Hill, CT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156668167) | 2026-10-21 |
 | AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156451061) | 2026-10-21 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156412059) | 2026-10-21 |
 | Airbus | Early Career - Embedded Software Engineer (m/f) | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088) | 2026-10-21 |
@@ -499,7 +500,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | New York New York City | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | 2026-10-17 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | 2026-10-17 |
 | WSP | Entry-Level Substation Drafter | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97740) | 2026-10-17 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155899839) | 2026-10-16 |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000155892100) | 2026-10-16 |
 | CACI | Entry Level Background Investigator (Onsite) | Tampa, FL, United States | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Entry-Level-Background-Investigator--Onsite-_333608) | 2026-10-16 |
 | Ciena | Analog and Mixed-Signal Modelling Architect (Masters or PhD New Grad) | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915) | 2026-10-16 |
@@ -737,7 +737,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Mastercard | Associate Consultant, Launch Graduate Program – 2027, Johannesburg, South Africa | South Africa | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Johannesburg-South-Africa/Associate-Consultant--Launch-Graduate-Program---2027--Johannesburg--South-Africa_R-287587-1) | 2026-10-01 |
 | Mastercard - CorporateCareers | Associate Consultant, Launch Graduate Program – 2027, Istanbul, Türkiye | Istanbul Turkey | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2) | 2026-10-01 |
 | Mastercard - CorporateCareers | Associate Consultant, Launch Graduate Program – 2027, Johannesburg, South Africa | South Africa | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Johannesburg-South-Africa/Associate-Consultant--Launch-Graduate-Program---2027--Johannesburg--South-Africa_R-287587-2) | 2026-10-01 |
-| Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000152865299) | 2026-10-01 |
 | The Boeing Company | AH-64 Product Repair Modification (Entry Level, Associate, or Mid level) Technician | USA Mesa, AZ | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/AH-64-Product-Repair-Modification--Entry-Level--Associate--or-Mid-level--Technician_JR2026523631-1) | 2026-10-01 |
 | WSP | Early Career Civil Engineer | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96709) | 2026-10-01 |
 | WSP | Early Career Geological Engineer | Saint Louis, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96603) | 2026-10-01 |
@@ -1014,8 +1013,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Keysight Technologies | Solutions Engineer (Recent Graduate) | Illinois | [Apply](https://jobs.keysight.com/jobs/53913?lang=en-us&icims=1) | 2026-09-09 |
 | McWane | McWane Ductile Ohio - Production Entry Level | Coshocton, OH, United States | [Apply](https://jobs.smartrecruiters.com/McWaneInc/3743990015121495) | 2026-09-09 |
 | NXP Semiconductors | Technical Sales & Applications Program (TSAP) – Field Application Engineer, Entry Level | Office) / Novi / San Jose (holger Way) | [Apply](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Technical-Sales---Applications-Program--TSAP----Field-Application-Engineer--Entry-Level_R-10066745) | 2026-09-09 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Portland, OR - Diablo Tools - DAT | Portland, OR, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148328729) | 2026-09-09 |
-| Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Salt Lake City, UT - Diablo Tools - DAT | Salt Lake City, UT, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148328959) | 2026-09-09 |
 | SpaceX | New Graduate Engineer, Software (Starship) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148306780) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
