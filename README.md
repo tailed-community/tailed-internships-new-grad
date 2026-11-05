@@ -133,6 +133,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Baker Hughes | Intern - Manufacturing - 2027 (M/F/D) | It-Vv-Vibo Valentia-Via Le Marinate | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-VV-VIBO-VALENTIA-VIA-LE-MARINATE/Intern---Manufacturing---2027--M-F-D-_R171707) | 2026-11-05 |
 | Baker Hughes | Intern – Product Management – 2027 | It-Fi-Florence-Via Felice Matteucci 2 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Intern---Product-Management---2027_R170509) | 2026-11-05 |
 | Baker Hughes | Quality Intern - Summer 2027 Opportunities | Gy-Demerara-Georgetown-Tract X Land Of Canaan ON The Eastern Bank Of The Demerara Riv | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GY-Demerara-Georgetown-Tract-X-Land-of-Canaan-on-the-Eastern-Bank-of-the-Demerara-Riv/Quality-Intern---Summer-2027-Opportunities_R168916) | 2026-11-05 |
+| Ballotpedia | Editorial or Communications Spring 2027 Internship Program (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/DF762B8021/) | 2026-11-05 |
+| Ballotpedia | GIS Analyst Spring 2027 Internship (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/4AF879CDEA/) | 2026-11-05 |
+| Belmond | Finance Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/B61BC347D5/) | 2026-11-05 |
+| Belmond | Human Resources Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A1E17B02FB/) | 2026-11-05 |
 | Bertelsmann | Praktikant:in (w/m/d) Streaming | Germany | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159936719) | 2026-11-05 |
 | Bertelsmann | SAP Trainee– Consulting & Development | Birmingham, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159905789) | 2026-11-05 |
 | Beth Israel Lahey Health | Medical Assistant Co-op | Beth Israel Lahey Health Primary Care | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Lahey-Health-Primary-Care/Medical-Assistant-Co-op_JR106680) | 2026-11-05 |
@@ -1914,8 +1918,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AltaLink | Summer Student - Environment | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/0BF04A3809/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection & Control Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/33683C43CF/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
-| AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | AltaLink | Summer Student - Substation Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/126ECBB327/) | 2026-11-02 |
+| AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | American Express | Campus Undergraduate Winter Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON, Canada | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015817) | 2026-11-02 |
 | Amgen | Grad Intern – Amgen Library (Summer 2027) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) | 2026-11-02 |
 | Amgen | Undergrad Intern – Amgen Foundation (Summer 2027) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402) | 2026-11-02 |
@@ -23584,7 +23588,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Stage Ingénieur Informatique  au sein du service Test & Validation Electronique | Angers | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Angers/Stage-Ingnieur-Informatique--au-sein-du-service-Test---Validation-Electronique_REQ2026076454) | 2026-06-16 |
 | Zeiss | Internship Optics/Electronics (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4) | 2026-06-16 |
 | Accenture | Digital Engineering Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) | 2026-06-15 |
-| Belmond | Executive Assistant Intern to the Deputy General Manager | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A58A5C2577/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - F&B (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/9BA49C81CD/) | 2026-06-15 |
 | Belmond | Internship for Train Operations - Kitchen (Malaysian Students Only) | Malaysia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1C1729A307/) | 2026-06-15 |
 | Belmond | Internship in Accounting & Finance | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/6244BD2381/) | 2026-06-15 |
