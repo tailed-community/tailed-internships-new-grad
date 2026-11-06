@@ -22,6 +22,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident - Med/Surg | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/New-Grad-RN-Resident---Med-Surg_356673) | 2026-11-06 |
 | Cleveland Clinic | New Grad RN Resident – Neonatal ICU | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Neonatal-ICU_356130) | 2026-11-06 |
 | Cleveland Clinic | New Grad RN Resident– Labor & Delivery | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Labor---Delivery_350752) | 2026-11-06 |
+| Coram AI | Sales Athlete (Entry-Level Tech Sales) | California, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/f9be6289-893c-481e-8e36-9a7d666b3d2c) | 2026-11-06 |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship | In Indianapolis | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IN---Indianapolis/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship_R1097073) | 2026-11-06 |
 | DriveTime | Automotive Technician - Entry Level | CA 92335 | [Apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/9121-Cherry-Ave-Fontana-CA-92335/Automotive-Technician---Entry-Level_R16624-1) | 2026-11-06 |
 | Fresenius Medical Care | New Grad Nurse- RN | Chicago, IL, United States / Merrionette Park, IL, United States / Crestwood, IL, United States | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Chicago-IL-USA/New-Grad-Nurse--RN_R0276876) | 2026-11-06 |
@@ -136,12 +137,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medline | Part Time Entry Level: Field Services Representative | Minnesota | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Minneapolis-Minnesota/Part-Time-Entry-Level--Field-Services-Representative_R2622046) | 2026-11-04 |
 | Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159558619) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
-| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
-| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
+| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
 | Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | 2026-11-04 |
-| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
+| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
 | Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California / D.c. | [Apply](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62) | 2026-11-04 |
+| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
 | SpaceX | Starlink Aviation Production Technician (Entry Level, Temporary) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002) | 2026-11-04 |
 | Tencent - Tencent_Careers | Media Services Solution Architect (New Graduate) — Japan | Japan-Tokyo-Business Tower | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Media-Services-Solution-Architect--New-Graduate----Japan_R108334) | 2026-11-04 |
 | The Boeing Company | Entry Level Supply Chain Specialist (Supply Chain Management) | USA Forest Park, GA | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Forest-Park-GA/Entry-Level-Supply-Chain-Specialist--Supply-Chain-Management-_JR2026524285-2) | 2026-11-04 |
@@ -228,9 +229,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Quantiq | Hardware Developer- New Graduate | Chicago, IL | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280673009) | 2026-11-02 |
 | Quantiq | Software Developer- New Graduate | Austin, TX | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009) | 2026-11-02 |
 | ReBuild Manufacturing | Entry Level Mechanical Engineer | Wilmington, MA | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748455005) | 2026-11-02 |
-| Relling | Controls Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/relling/44ce58c4-d5a1-436e-8687-870c8f9d778a) | 2026-11-02 |
-| Relling | Mechatronics Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/relling/5f0c9337-ea45-45e2-9608-c53530d4d422) | 2026-11-02 |
-| Relling | Robotics Software Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | 2026-11-02 |
+| Relling | Controls Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/44ce58c4-d5a1-436e-8687-870c8f9d778a) | 2026-11-02 |
+| Relling | Mechatronics Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/5f0c9337-ea45-45e2-9608-c53530d4d422) | 2026-11-02 |
+| Relling | Robotics Software Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | 2026-11-02 |
 | Rendezvous Robotics | Avionics Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464258009) | 2026-11-02 |
 | Rendezvous Robotics | Flight Software Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) | 2026-11-02 |
 | Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/35306be5-82af-4251-8e6a-36d686d09ae8) | 2026-11-02 |
@@ -305,7 +306,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Johnson & Johnson | Key Account Specialist Immunology / Early Career | Czechia | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Prague-Czechia/Key-Account-Specialist-Immunology---Early-Career_R-107757) | 2026-10-29 |
 | NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | 2026-10-29 |
 | NielsenIQ | NIQ Early Career Program: Werkstudent Store Research (m/w/d) | Remote | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158473949) | 2026-10-29 |
-| Northwood Space | Software Engineer- Early Career (Platform) | California, United States | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) | 2026-10-29 |
+| Northwood Space | Software Engineer- Early Career (Platform) | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) | 2026-10-29 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Denver, CO / Fayetteville, AR / La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5466862008) | 2026-10-29 |
 | Olsson | Entry-Level Telecom Permit Technician | Dallas, TX / Fort Worth, TX / Remote / Lincoln, NE / North Kansas City, MO / Omaha, NE / Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5439829008) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Green Bay, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158385434) | 2026-10-29 |
