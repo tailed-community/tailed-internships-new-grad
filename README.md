@@ -25,6 +25,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | 7-Eleven | Intern - Area Leader | Not Specified | [Apply](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/New-Brunswick-NJ/Intern---Area-Leader_R26_6416) | 2026-11-07 |
 | AARP | Advocacy, Outreach, and Volunteer Engagement Intern | Maryland | [Apply](https://careers.aarp.org/jobs/7963?lang=en-us&icims=1) | 2026-11-07 |
 | ABB | HSE Internship | Mexico | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/HSE-Internship_JR00052481) | 2026-11-07 |
+| AbbVie | Engineering Internship Program (Chemical, Electromechanical, Data science, AI) | Costa Rica | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016703746) | 2026-11-07 |
 | Adobe | 2027 Intern — Employee Communications | San Jose / San Francisco | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Employee-Communications_R173412) | 2026-11-07 |
 | Aerotek | Sales Internship - Bowling Green, KY | Bowling Green, KY, United States | [Apply](https://careers-aerotek.icims.com/jobs/14157/sales-internship---bowling-green%2c-ky/job) | 2026-11-07 |
 | Aerotek | Sales Internship - Florence, KY | Florence, KY, United States | [Apply](https://careers-aerotek.icims.com/jobs/14155/sales-internship---florence%2c-ky/job) | 2026-11-07 |
@@ -42,6 +43,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Astranis | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) | 2026-11-07 |
 | Atlantic Health System | Administrative Intern (Atlantic Health Morristown Medical Center) | Morristown, NJ, United States | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34187) | 2026-11-07 |
 | Atlantic Health System | Construction/Facilities Intern | Morristown, NJ, United States | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34191) | 2026-11-07 |
+| Augsburg University | Student: Kinesiology Assistant | Minneapolis, MN, United States | [Apply](https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000160307817) | 2026-11-07 |
 | Beth Israel Lahey Health | Radiology Tech Intern - Per Diem | Exeter Hospital | [Apply](https://bilh.wd1.myworkdayjobs.com/External/job/Exeter-Hospital/Radiology-Tech-Intern---Per-Diem_JR105997) | 2026-11-07 |
 | Blue Origin | New Glenn Stage 2 Materials & Process Engineer II | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Stage-2-Materials---Process-Engineer-II_R75327) | 2026-11-07 |
 | Blue Origin | New Glenn Stage 2 Structural Analyst III | Greater Seattle Area | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Stage-2-Structural-Analyst-III_R75321) | 2026-11-07 |
@@ -137,6 +139,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HUB | Student Health Coordinator | Pittsburgh Pa 2730 Sidney Street Suite 330 | [Apply](https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Pittsburgh---PA---2730-Sidney-Street---Suite-330/Student-Health-Coordinator_R0039425) | 2026-11-07 |
 | Hy-Vee | Compensation Intern - Summer 2027 | West Des Moines, IA | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Compensation-Intern---Summer-2027_R260884) | 2026-11-07 |
 | ICF International | 2027 Summer Intern, AI Engineer (Reston, VA) | Reston, VA | [Apply](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521) | 2026-11-07 |
+| Intuitive Surgical | Marketing Events Intern | Sunnyvale, United States | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160306349) | 2026-11-07 |
 | Invesco | Early Career Intern - Real Estate (Data Science) | Texas | [Apply](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) | 2026-11-07 |
 | Invesco - IVZ | Early Career Intern - Real Estate (Data Science) | Texas | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) | 2026-11-07 |
 | Jefferson Health | Biomedical Tech Intern | Montgomery County, PA / Philadelphia, PA | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Montgomery-County-PA/Biomedical-Tech-Intern_REQ-0039702-1) | 2026-11-07 |
@@ -203,11 +206,13 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pennsylvania State University | Autonomous Processing Research & Development Internship | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Autonomous-Processing-Research---Development-Internship_REQ_0000084114-1) | 2026-11-07 |
 | Pennsylvania State University | Part-Time Student Project Coordinator | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Project-Coordinator_REQ_0000069199-1) | 2026-11-07 |
 | Pennsylvania State University | Part-Time Student Project- Lead | Penn State University Park | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Student-Project--Lead_REQ_0000069203-1) | 2026-11-07 |
+| Pilot Company | Program Intern, Logistics | Knoxville, TN, United States | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000160309204) | 2026-11-07 |
 | PricewaterhouseCoopers (PwC) | Stage Auditeur des systèmes d'information - F/H | Neuilly-Sur-Seine | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Stage-Auditeur-des-systmes-d-information---F-H_772950WD-1) | 2026-11-07 |
 | Procter & Gamble (P&G) | Commercial Sales Intern | San José | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/San-Jos/Sales-Internship_R000162512) | 2026-11-07 |
 | PSP Investments | Intern, Business and Technology Governance (January - April 2027) | Montreal | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--Business-and-Technology-Governance--January---April-2027-_R5043) | 2026-11-07 |
 | QTS | Summer 2027 Internship: Interior Design Projects | Duluth, GA | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2027-Internship--Interior-Design-Projects_R2026-2431) | 2026-11-07 |
 | Rambus | Security Engineering Intern | NL-Vught | [Apply](https://careers-rambus.icims.com/jobs/23123/security-engineering-intern/job) | 2026-11-07 |
+| Red Bull | Brand Intern | Colombia | [Apply](https://jobs.smartrecruiters.com/RedBull/744000160317790) | 2026-11-07 |
 | Riverside Research | Software Applications Intern | Not Specified | [Apply](https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job) | 2026-11-07 |
 | Rolls-Royce | Accounting & Tax - Summer Intern | Novi | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Novi/Accounting---Tax---Summer-Intern_JR6162946) | 2026-11-07 |
 | RTX (en-US) | Manufacturing Engineering Ops Co-Op (Spring/Summer 2027) | US-Fl-Melbourne-308 ~ 1100 W Hibiscus Blvd ~ Bldg 308 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-308--1100-W-Hibiscus-Blvd--BLDG-308/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886463) | 2026-11-07 |
@@ -891,10 +896,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Advocate Health Care | Enterprise Internship, Supply Chain | Two Rivers | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Two-Rivers-WI---5300-Memorial-Dr/Enterprise-Internship--Supply-Chain_R286099) | 2026-11-05 |
 | Advocate Health Care | Enterprise Internship, Wauwatosa Health Care Administration & Operations Undergraduate | Wauwatosa | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Wauwatosa-WI---2999-N-Mayfair-Rd/Enterprise-Internship--Wauwatosa-Health-Care-Administration---Operations-Undergraduate_R286118) | 2026-11-05 |
 | Advocate Health Care | Enterprise Internship, Westmont & Downers Grove Health Care Administration & Operations Undergraduate | Westmont / Advocate Good Samaritan Hospital 3815 Highland Ave | [Apply](https://aah.wd5.myworkdayjobs.com/External/job/Westmont-IL---1-E-Ogden-Ave/Enterprise-Internship--Westmont-IL-Health-Care-Administration---Operations-Undergraduate_R286117) | 2026-11-05 |
-| AECOM | Civil Engineering Intern | Piscataway, NJ, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159721767) | 2026-11-05 |
 | AECOM | Construction Intern - AECOM Hunt | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159940439) | 2026-11-05 |
-| AECOM | Structural Engineering Intern | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159722317) | 2026-11-05 |
-| AECOM | Structural Engineering Intern | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159722189) | 2026-11-05 |
 | AECOM | Water/Wastewater Engineering Intern | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159925579) | 2026-11-05 |
 | Agilent Technologies | Content Design Student Worker | Denmark-Glostrup | [Apply](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Denmark-Glostrup/Content-Design-Student-Worker_4040257) | 2026-11-05 |
 | Air Liquide | Data Analyst - Stage (H/F) | Bagneux, France | [Apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Stage--H-F-_R10104524) | 2026-11-05 |
@@ -3982,7 +3984,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Transportation Planning Intern - Summer 2027 | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98518) | 2026-10-31 |
 | ABB | AUMA Sales Support Intern | Argentina | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Buenos-Aires-Capital-Federal-Argentina/AUMA-Sales-Support-Intern_JR00051244) | 2026-10-30 |
 | Abbott | Internship IT | Ireland Longford | [Apply](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Longford/Internship-IT_31166440) | 2026-10-30 |
-| AbbVie | Engineering Internship Program (Chemical, Electromechanical, Data science, AI) | Costa Rica | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016519226) | 2026-10-30 |
 | ACI Worldwide | Intern Technical Consultant | Colombia | [Apply](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073) | 2026-10-30 |
 | ACLU Kentucky | Spring 2027 Graduate Intern, Affiliate Support and Nationwide Initiatives - Organizational Management, Equity & Inclusion | Remote | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8923942002) | 2026-10-30 |
 | ACLU Kentucky | Spring 2027 Legal Intern, National Political Advocacy Department- Policy & Government Affairs | Hybrid Washington D.c. | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8924671002) | 2026-10-30 |
@@ -11735,7 +11736,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vanderlande Industries | Internship:  Hiring Desk | Veghel | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Veghel/Internship---Hiring-Desk_JR38336) | 2026-10-08 |
 | Veolia | Field Engineering Co-op | Edmonton, AB, Canada | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154204624) | 2026-10-08 |
 | Veolia | Field Engineering Intern | Houston, TX, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154362614) | 2026-10-08 |
-| Veolia | Field Engineering Intern | Beaumont, TX, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154361219) | 2026-10-08 |
 | Veolia | Field Engineering Intern | Decatur, IL, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154209925) | 2026-10-08 |
 | Veolia | Field Engineering Intern | Marcus Hook, PA, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154208989) | 2026-10-08 |
 | Veolia | Field Engineering Intern | Mount Vernon, IN, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154207919) | 2026-10-08 |
@@ -15009,7 +15009,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Chargé(e) de missions RH opérationnelles (Alternance/Stage) | Paris | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Paris/HR-Trainee-Apprentice-VIE_REQ2026078423) | 2026-09-25 |
 | Valeo | Stagiaire Ingénieur Système R&D H/F | Bobigny | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bobigny/Stagiaire-Ingnieur-Systme-R-D-H-F_REQ2026081087) | 2026-09-25 |
 | Valmont | Mechanical Engineering Intern | Omaha Ne / Valley Ne | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Mechanical-Engineering-Intern_R28952) | 2026-09-25 |
-| Veolia | Field Area Manager - Water Technologies | Norco, LA, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151709559) | 2026-09-25 |
 | W.R. Berkley | Intern Product Management Analyst | Not Specified | [Apply](https://careers-berkley.icims.com/jobs/14461/intern-product-management-analyst/job) | 2026-09-25 |
 | Watts Water | Financial Analyst Intern, Summer 2027 | North Andover, MA | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Financial-Analyst-Intern--Summer-2027_10017565) | 2026-09-25 |
 | Watts Water | Product Specialist Intern, Summer 2027 | Fort Myers, FL | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Product-Specialist-Intern-2027_10017586) | 2026-09-25 |
@@ -19884,7 +19883,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Syngenta Group | Seeds Communications Intern | Illinois, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000146751240) | 2026-09-07 |
 | Syngenta Group | Seeds Production Research Parent Characterization Intern | Nebraska, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000146963221) | 2026-09-07 |
 | Syngenta Group | Seeds Sales Intern | United States Remote | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000146798969) | 2026-09-07 |
-| Syngenta Group | Trialing and Product Placement Intern | California, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000146814069) | 2026-09-07 |
 | Syngenta Group | Vegetable Seed Development Intern-Melon | California, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000146786645) | 2026-09-07 |
 | Tarrant Regional Water District | Summer 2027 Energy Intern (T047) | Fort Worth, TX | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217) | 2026-09-07 |
 | Tarrant Regional Water District | Summer 2027 Infrastructure Engineering Intern (T036) | Fort Worth, TX | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218) | 2026-09-07 |
@@ -21673,7 +21671,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Northwood Space | Supply Chain Operations Intern (2027 Summer Internship) | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549) | 2026-08-29 |
 | ABB | Technical Internship - Expression of Interest | Singapore | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Technical-Interest---Expression-of-Interest_JR00044259) | 2026-08-28 |
 | AbbVie | 2027 Commercial Leader Program Intern - Aesthetics (MBA) | Irvine, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014930726) | 2026-08-28 |
-| AbbVie | 2027 Commercial Leader Program Intern - Therapeutics (MBA) | Mettawa, IL, United States | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014917516) | 2026-08-28 |
 | Agropur | Student Shipper | Can Ontario Etobicoke | [Apply](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Ontario-Etobicoke/Student-Shipper_JR33933) | 2026-08-28 |
 | Ameren | Crisis Management Meteorology Intern | Peoria, IL / Maryville, IL / Champaign, IL / Virden, IL | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Meteorology-Intern_033896-2) | 2026-08-28 |
 | American Electric Power | Engineering Intern – Columbus, OH and nearby areas | Columbus, OH / New Albany, OH | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Engineering-Intern---Columbus--OH-and-nearby-areas_R18719) | 2026-08-28 |
@@ -25260,7 +25257,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Eurofins | CS Admin Internship (Tan Phu, HCM) | Vietnam | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000108406225) | 2026-06-13 |
 | Eurofins | Customer Service Internship | Spain | [Apply](https://jobs.smartrecruiters.com/Eurofins/743999708302550) | 2026-06-13 |
 | Eurofins | Digital Marketing Internship | Nouvelle-Aquitaine, France | [Apply](https://jobs.smartrecruiters.com/Eurofins/743999837827248) | 2026-06-13 |
-| Eurofins | Human Resources Intern | Faridabad, HR | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000056630815) | 2026-06-13 |
 | Eurofins | Internship - Laboratory Assistant | Malaysia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000126222229) | 2026-06-13 |
 | Eurofins | Internship Programme | Singapore | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000107245785) | 2026-06-13 |
 | Eurofins | Lab Typist Internship (Tan Phu, HCM) | Vietnam | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000108689415) | 2026-06-13 |
