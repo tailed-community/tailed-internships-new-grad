@@ -994082,5 +994082,33 @@
     "date_added": "2026-11-04",
     "active": false,
     "date_archived": "2026-11-07"
+  },
+  {
+    "id": "lever-atom-computing-f17f16bc-d448-4a24-8449-281d660fdbfc",
+    "company": "Atom Computing",
+    "title": "Research Intern",
+    "location": "Berkeley, CA / Cambridge, MA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "lever",
+    "url": "https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc",
+    "date_posted": "2026-10-14",
+    "date_added": "2026-10-19",
+    "active": false,
+    "date_archived": "2026-11-07"
+  },
+  {
+    "id": "lever-eq-bank-138a3759-3f62-4e02-bfec-67eb06d92523",
+    "company": "EQ Bank",
+    "title": "Intern - Credit Risk, Winter 2027",
+    "location": "Toronto",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/eqbank/138a3759-3f62-4e02-bfec-67eb06d92523",
+    "date_posted": "2026-09-11",
+    "date_added": "2026-09-12",
+    "active": false,
+    "date_archived": "2026-11-07"
   }
 ]

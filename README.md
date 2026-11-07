@@ -77,6 +77,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | DataRobot | Software Design Engineer Intern | Massachusetts, United States / Washington, United States / Canada Remote / California, United States | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | 2026-11-07 |
 | Ecolab | Stagiaire Technicien Traitement de l’Eau | Fra Rhone-Alpes Bernin | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/FRA---Rhone-Alpes---Bernin/Stagiaire-Technicien-Traitement-de-l-Eau_R00309601) | 2026-11-07 |
 | Entegris | NPI Engineering Co-Op | Colorado Springs, CO | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/NPI-Engineering-Co-Op_REQ-14487) | 2026-11-07 |
+| EQ Bank | Intern - Credit Risk, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/a1340690-3adc-4aae-9b91-26e474fe1958) | 2026-11-07 |
 | FactSet | Client Solution Internship - Toronto, Summer 2027 | Toronto, Canada | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Canada-Toronto-161-Bay-Street-Toronto/Client-Solution-Internship---Toronto--Summer-2027_R33517) | 2026-11-07 |
 | FactSet | Client Solutions Internship - Boston, Summer 2027 | One Beacon Street, United States | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/United-States-Boston-One-Beacon-Street/Client-Solutions-Internship---Boston--Summer-2027_R33519) | 2026-11-07 |
 | FactSet | Client Solutions Internship - Chicago, Summer 2027 | Chicago, IL, United States | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Chicago-IL-USA/Client-Solutions-Internship---Chicago--Summer-2027_R32677) | 2026-11-07 |
@@ -162,6 +163,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Schweitzer Engineering Laboratories | Project Coordinator Intern | Pennsylvania King Of Prussia | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Project-Coordinator-Intern_2026-24618) | 2026-11-07 |
 | Sentara Health | OR Radiology Technologist Student Extern | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/OR-Radiology-Technologist-Student-Extern_JR-109229) | 2026-11-07 |
 | Sentara Health | Radiology Technologist Student Extern | Norfolk, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Norfolk-VA/Radiology-Technologist-Student-Extern_JR-109163) | 2026-11-07 |
+| Shield AI | 2027 Summer Intern - Supplier Development Engineer - 6463 | Texas | [Apply](https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753) | 2026-11-07 |
+| Shield AI | 2027 Summer Intern - Supply Chain Materials Planner - 6434 | Washington | [Apply](https://jobs.lever.co/shieldai/a33572c0-d03e-4be9-812a-673bb66e3a6e) | 2026-11-07 |
 | Sierra Nevada Corporation | Liaison Engineer Intern - Summer 2027 | Vandalia, OH | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178) | 2026-11-07 |
 | Silicon Laboratories | Validation Engineering Summer Internship 2027 | Oslo | [Apply](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Oslo/Validation-Engineering-Summer-Internship-2027_21192) | 2026-11-07 |
 | SpartanNash | Accounting Intern - Summer 2027 | Michigan | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/Accounting-Intern---Summer-2027_R90488) | 2026-11-07 |
@@ -180,6 +183,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Valeo | Project Management Intern (Year-Round) | Auburn Hills, MI | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Auburn-Hills-MI/Project-Management-Intern--Year-Round-_REQ2026077255) | 2026-11-07 |
 | Voya Financial | Summer Student - Legal | Scottsdale, AZ | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Scottsdale-AZ/Summer-Student---Legal_JR0033385) | 2026-11-07 |
 | Voya Financial | Summer Student - Real Estate | Atlanta, GA | [Apply](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Real-Estate_JR0033366) | 2026-11-07 |
+| Zoox | AI Workflows & Safety Decision Making Intern [2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) | 2026-11-07 |
+| Zoox | Data Science Intern [Summer 2027] | Foster City, Canada / Boston, MA | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) | 2026-11-07 |
+| Zoox | Process Improvement Intern [2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) | 2026-11-07 |
+| Zoox | Program Manager, Infrastructure Operations Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) | 2026-11-07 |
+| Zoox | Safety Reporting & Benchmarking Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) | 2026-11-07 |
 | AARP | Communications and Outreach Intern | Hawaii | [Apply](https://careers.aarp.org/jobs/7958?lang=en-us&icims=1) | 2026-11-06 |
 | AARP | Financial Planning and Analysis Intern (Summer 2027) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7959?lang=en-us&icims=1) | 2026-11-06 |
 | ABB | Admin Support Intern (Robotics Workshop, Hi-Tech Park Q9, HCM) | Viet Nam | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ho-Chi-Minh-City-Viet-Nam/Admin-Support-Intern--Robotics-Workshop--Hi-Tech-Park-Q9--HCM-_JR00052232) | 2026-11-06 |
@@ -1320,8 +1328,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SharkNinja | Spring 2027: Product Integrity Co-op (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726437006) | 2026-11-05 |
 | SharkNinja | Spring 2027: Quality Engineering Co-op, Shark (January through June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006) | 2026-11-05 |
 | SharkNinja | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006) | 2026-11-05 |
-| Shield AI | June 2027 Co-Op - Software Engineer Intern | Texas / D.c. / Washington / California | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) | 2026-11-05 |
 | Shield AI | June 2027 Co-Op - Software Engineer Intern | Texas | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2) | 2026-11-05 |
+| Shield AI | June 2027 Co-Op - Software Engineer Intern | Texas / D.c. / Washington / California | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) | 2026-11-05 |
 | Shield AI | Senior Manager, Autonomy (R5683) | Taipei | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/ba4eb88b-6cfb-46d2-9ea3-725e7fb016df) | 2026-11-05 |
 | Sierra Nevada Corporation | Firmware Engineer Intern (Summer 2027) | Sparks, NV | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | 2026-11-05 |
 | Sierra Nevada Corporation | Systems Engineer Intern (For SNC Summer 2026 Interns Only) | Sparks, NV / Lone Tree, CO | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Systems-Engineer-Intern--For-SNC-Summer-2026-Interns-Only-_R0031220) | 2026-11-05 |
@@ -8405,7 +8413,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Intern Wegontwerp | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45101) | 2026-10-19 |
 | Ascendis Pharma | Student Assistant for Treasury | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/DC4F0A975F/) | 2026-10-19 |
 | ASML | Internship - System Operations | China | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wuxi-China/Internship---System-Operations_J-00354277) | 2026-10-19 |
-| Atom Computing | Research Intern | Berkeley, Canada / Cambridge, MA | [Apply](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc) | 2026-10-19 |
 | Azul Systems | IT Intern, AI and Operations | Sunnyvale, Canada / United States Remote | [Apply](https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db) | 2026-10-19 |
 | Baxter International | Chef de Produit Nutrition - STAGE 6 mois | Guyancourt | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Guyancourt/Chef-de-Produit-Nutrition---STAGE-6-mois_JR-211564-1) | 2026-10-19 |
 | Berkshire Hathaway Energy | 2027 Accounting Intern | Des Moines, IA, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005925) | 2026-10-19 |
@@ -17532,7 +17539,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Emerson Electric | Systems Integration Intern | Round Rock, TX, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010800) | 2026-09-12 |
 | Emerson Electric | Test Engineering Intern | Austin, TX, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010099) | 2026-09-12 |
 | Entegris | Technical Training Co-Op | Chaska, MN | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Technical-Training-Co-Op_REQ-14459) | 2026-09-12 |
-| EQ Bank | Intern - Credit Risk, Winter 2027 | Toronto | [Apply](https://jobs.lever.co/eqbank/138a3759-3f62-4e02-bfec-67eb06d92523) | 2026-09-12 |
 | EQT Corporation | Operations Accounting Intern | Remote | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5420577008) | 2026-09-12 |
 | Faith Technologies - fti | Construction Management Intern- Arizona Summer 2027 | Az Phoenix / Az Glendale / Az Mesa / Az Goodyear / Az Peonia / Az Chandler | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/AZ---Phoenix/Construction-Management-Internship--Arizona-Summer-2027_R12064-1) | 2026-09-12 |
 | Faith Technologies - fti | Digital Platforms Intern- Summer 2027 | Wi Menasha | [Apply](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Digital-Platforms-Intern--Summer-2027_R12068-1) | 2026-09-12 |
@@ -20499,7 +20505,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sherwin-Williams | 2027 Management and Sales Intern (Chicago Metro - West Suburbs) | Schaumburg, IL, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621847) | 2026-09-01 |
 | Sherwin-Williams | Management and Sales Summer Internship 2027 (Cleveland) | Cleveland, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620625) | 2026-09-01 |
 | Sherwin-Williams | Management and Sales Summer Internship 2027 (Columbus) | Columbus, OH, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620632) | 2026-09-01 |
-| Shield AI | Summer 2027 - Electrical Engineering Co-op (June 2027) | Texas / California / Massachusetts / Washington | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) | 2026-09-01 |
+| Shield AI | June 2027 Co-0p - Electrical Engineering Intern | Texas / California / Massachusetts / Washington | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) | 2026-09-01 |
 | Shield AI | Summer 2027 - Electrical Engineering Intern | Texas / Washington / California / Massachusetts | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) | 2026-09-01 |
 | Sierra | Software Engineer Intern, Agent (Summer 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e) | 2026-09-01 |
 | Sonoco | Engineering - Internship | West Chicago, IL, United States | [Apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/West-Chicago-IL-USA/Engineering---Internship_JR-159862) | 2026-09-01 |
