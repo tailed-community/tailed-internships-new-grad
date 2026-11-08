@@ -180,12 +180,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
 | Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159558619) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
-| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
-| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
+| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
 | Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | 2026-11-04 |
-| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
+| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
 | Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California / D.c. | [Apply](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62) | 2026-11-04 |
+| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
 | SpaceX | Starlink Aviation Production Technician (Entry Level, Temporary) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002) | 2026-11-04 |
 | Tencent - Tencent_Careers | Media Services Solution Architect (New Graduate) — Japan | Japan-Tokyo-Business Tower | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Media-Services-Solution-Architect--New-Graduate----Japan_R108334) | 2026-11-04 |
 | Thermo Fisher Scientific | Entry Level Biochemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Scientist_R-01374709) | 2026-11-04 |
