@@ -307,6 +307,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MaineGeneral Health | Float Pool Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/Float-Pool-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R17173) | 2026-10-31 |
 | Marsh | Graduate Program – Sales Talent Program (m/w/d) | Stuttgart Calwer | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Stuttgart---Calwer/Graduate-Program---Sales-Talent-Program--m-w-d-_R_364857) | 2026-10-31 |
 | Michael Baker International | Aviation Civil Associate (Entry-level Engineer) | Peachtree Corners, GA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310122) | 2026-10-31 |
+| Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8325360?gh_jid=8325360) | 2026-10-31 |
 | State Street | Cyber Security Early Career Entry Program 2027 | Ireland | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620) | 2026-10-31 |
 | The Wonderful Company | ENTRY LEVEL: Farming Rotational Program (Edinburg, TX) | College Station, TX, United States | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000158843689) | 2026-10-31 |
 | AstraZeneca | Asia AZpire Graduate Program - Vietnam | Vietnam Ho Chi Minh City | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Vietnam---Ho-Chi-Minh-City/Asia-AZpire-Graduate-Program---Vietnam_R-263142-2) | 2026-10-30 |
@@ -379,7 +380,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SambaNova Systems | Physical Design Engineer, New Grad | California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004) | 2026-10-28 |
 | SambaNova Systems | Post-Silicon Validation Engineer, New Grad | California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004) | 2026-10-28 |
 | SambaNova Systems | Runtime Engineer - New Grad | Texas, United States / California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | 2026-10-28 |
-| Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8325055?gh_jid=8325055) | 2026-10-28 |
 | Samsara | (New Grad) Account Development Representative II - Phoenix | Remote | [Apply](https://www.samsara.com/company/careers/roles/8325356?gh_jid=8325356) | 2026-10-28 |
 | SCS Engineers | Entry-Level Civil or Environmental Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4110/entry-level-civil-or-environmental-engineer/job) | 2026-10-28 |
 | Securitas | Entry Level Security Officer - Part Time | Waynesboro, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176399) | 2026-10-28 |
@@ -410,6 +410,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Entry-Level Component Engineer – Switchboard & Relay Programs | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21219/entry-level-component-engineer-%e2%80%93-switchboard-%26-relay-programs/job) | 2026-10-27 |
 | General Matter | Integrated Safety Analysis Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5430858008) | 2026-10-27 |
 | PricewaterhouseCoopers (PwC) | Tax Audit Graduate program | Athens | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Athens/Tax-Audit-Graduate-program_770298WD) | 2026-10-27 |
+| Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8325054?gh_jid=8325054) | 2026-10-27 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Solar Turbines | Entry Level Mechanical Design Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Mechanical-Design-Engineer_R0000401680) | 2026-10-27 |
 | Stantec | Entry Level Designer/Structural EIT | Las Cruces, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008529) | 2026-10-27 |
@@ -975,8 +976,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Barr | Geologist/Environmental Engineer – Entry Level (Hybrid) | Seattle, WA | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Geologist-Environmental-Engineer---Entry-Level--Hybrid-_R-102340) | 2026-09-23 |
 | Belvedere Trading | Early Career Talent Partner - Technology & Platform | Illinois | [Apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) | 2026-09-23 |
 | Belvedere Trading | Early Career Talent Partner - Trading | Illinois | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) | 2026-09-23 |
-| CannonDesign | Technology - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832624002) | 2026-09-23 |
 | CannonDesign | Technology - Entry Level | Buffalo, NY / Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832873002) | 2026-09-23 |
+| CannonDesign | Technology - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832624002) | 2026-09-23 |
 | Cleveland Clinic | New Grad RN Resident – Gastroenterology/Hepatology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Gastroenterology-Hepatology_331876) | 2026-09-23 |
 | Cone Health | 20k Signing Bonus \| Open to New Graduates \| Acute Care Nurse Practitioner or Physician Assistant \| Neurosurgery | Wendover Medical Center / Medcenter Mebane | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Wendover-Medical-Center/XMLNAME-10k-Signing-Bonus---Acute-Care-Nurse-Practitioner-or-Physician-Assistant---Cone-Health-Neurosurgery-at-Greensboro_JR150526-1) | 2026-09-23 |
 | Figma | Early Career, Product Designer (2027) | CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) | 2026-09-23 |
@@ -1146,7 +1147,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Keysight Technologies | New Product Introduction Process Engineer, Recent Graduate | Colorado | [Apply](https://jobs.keysight.com/jobs/54250?lang=en-us&icims=1) | 2026-09-09 |
 | Keysight Technologies | Solutions Engineer (Recent Graduate) | Illinois | [Apply](https://jobs.keysight.com/jobs/53913?lang=en-us&icims=1) | 2026-09-09 |
 | McWane | McWane Ductile Ohio - Production Entry Level | Coshocton, OH, United States | [Apply](https://jobs.smartrecruiters.com/McWaneInc/3743990015121495) | 2026-09-09 |
-| QuinStreet | Entry Level Sales Representative | Florida | [Apply](https://www.quinstreet.com/careers/?gh_jid=8177281) | 2026-09-09 |
 | SpaceX | New Graduate Engineer, Software (Starship) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 2026-09-09 |
 | Timmons Group | New Graduate Civil Project Engineer I | Charlotte, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148306780) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
@@ -1228,6 +1228,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Entry Level Field Testing Technician | Brentwood, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15740) | 2026-09-04 |
 | Maersk | Pathways Of The Future Graduate Program | Prague | [Apply](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Czech-Republic-Prague-186-00/Pathways-Of-The-Future-Graduate-Program_R195894) | 2026-09-04 |
 | Olsson | Entry-Level Rail Water Resources Engineer | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4674853008) | 2026-09-04 |
+| QuinStreet | Entry Level Sales Representative | Florida | [Apply](https://www.quinstreet.com/careers/?gh_jid=8177280) | 2026-09-04 |
 | Simon | Entry-Level Lease Analyst Openings (May 2027 grads) | Indianapolis, IN | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Entry-Level-Lease-Analyst-Openings--May-2027-grads-_R13952) | 2026-09-04 |
 | Simon | Entry-Level Utility Billing Specialist Position - May 2027 Grads | Indianapolis, IN | [Apply](https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Entry-Level-Utility-Billing-Specialist-Position---May-2027-Grads_R13969) | 2026-09-04 |
 | SpaceX | New Graduate Engineer, Starship Components | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) | 2026-09-04 |
@@ -1296,11 +1297,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 | RTX (en-US) | Technologue - Programme de rotation de nouveaux gradues 2027 / Technologist – New Graduate Rotation Program 2027 | CA-QC-Longueuil-J01 ~ 1000 Blvd Marie-Victorin ~ J01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Technologue---Programme-de-rotation-de-nouveaux-gradues-2027---Technologist---New-Graduate-Rotation-Program-2027_01870988-1) | 2026-09-01 |
 | Sierra | APX (New Grad 2027) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015) | 2026-09-01 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8157838) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8128744) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8157838) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad - Frontend | Barcelona | [Apply](https://stripe.com/jobs/search?gh_jid=8130927) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Dallas/Richardson, TX) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017480) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Lehi, UT) | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017481) | 2026-09-01 |
@@ -1402,6 +1403,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Matter | Electrical & Controls Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375939008) | 2026-08-24 |
 | General Matter | Electrical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375934008) | 2026-08-24 |
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
+| General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
 | General Matter | Test Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375985008) | 2026-08-24 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Panama | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/209705) | 2026-08-24 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Sao Paulo, SP | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/217477) | 2026-08-24 |
@@ -1411,7 +1413,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Globus Medical | Entry Level Associate Neurophysiologist (Medford, OR) | Oregon | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Oregon/Entry-Level-Associate-Neurophysiologist--Medford--OR-_JR107359) | 2026-08-22 |
 | Integration Innovation (i3) | Entry Level Software Engineer | Huntsville, AL, United States | [Apply](https://careers-i3-corps.icims.com/jobs/5218/entry-level-software-engineer/job) | 2026-08-22 |
 | Olsson | Entry Level Civil Engineer (Rail Track) | Loveland, CO / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5398029008) | 2026-08-22 |
-| Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371) | 2026-08-22 |
 | Barr | Environmental Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Environmental-Engineer---Entry-Level--Hybrid-_R-102267) | 2026-08-21 |
 | Barr | Environmental Engineer – Entry Level (Hybrid) | Duluth, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Duluth-MN/Environmental-Engineer---Entry-Level--Hybrid-_R-102268) | 2026-08-21 |
 | Barr | Geologist – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Geologist---Entry-Level--Hybrid-_R-102269) | 2026-08-21 |
