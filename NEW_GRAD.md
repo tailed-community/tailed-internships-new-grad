@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Cleveland Clinic | New Grad RN Resident – Med/Surg Post-Operative Unit | South Pointe Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/South-Pointe-Hospital/New-Grad-RN-Resident---Med-Surg-Post-Operative-Unit_347609) | 2026-11-08 |
+| General Dynamics | Embedded Engineer - COLUMBIA Missile Compartment Project Engineering Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21194/embedded-engineer---columbia-missile-compartment-project-engineering-entry-level/job) | 2026-11-08 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | D.c. | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | 2026-11-08 |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | United States | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | 2026-11-08 |
 | AutoNation | Entry Level Technician-AutoNation Chevrolet Cadillac W Amarillo-$17.00/HR | Autonation Chevrolet Cadillac W Amarillo | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Chevrolet-Cadillac-W-Amarillo/Entry-Level-Technician-AutoNation-Chevrolet-Cadillac-W-Amarillo--1700-HR_JR2026152073) | 2026-11-07 |

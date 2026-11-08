@@ -984856,5 +984856,47 @@
     "date_added": "2026-10-14",
     "active": false,
     "date_archived": "2026-11-08"
+  },
+  {
+    "id": "icims-iridium-communications-5136",
+    "company": "Iridium Communications",
+    "title": "Iridium Software Engineering Internship – Summer 2027",
+    "location": "Mclean, VA, United States / Tempe, AZ, United States / Leesburg, VA, United States / Chandler, AZ, United States",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "icims",
+    "url": "https://careers-iridium.icims.com/jobs/5136/iridium-software-engineering-internship-%e2%80%93-summer-2027/job",
+    "date_posted": null,
+    "date_added": "2026-09-30",
+    "active": false,
+    "date_archived": "2026-11-08"
+  },
+  {
+    "id": "icims-mackenzie-investments-6145",
+    "company": "Mackenzie Investments",
+    "title": "Summer Intern 2027 - Asset Management Operations Technology)",
+    "location": "Greater Toronto Area, ON, Canada",
+    "type": "internship",
+    "season": "Summer",
+    "source": "icims",
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/6145/summer-intern-2027---asset-management-operations-technology%29/job",
+    "date_posted": "2026-10-29",
+    "date_added": "2026-10-30",
+    "active": false,
+    "date_archived": "2026-11-08"
+  },
+  {
+    "id": "icims-ulta-beauty-407331",
+    "company": "Ulta Beauty",
+    "title": "Fresno, Ca. DC Internship",
+    "location": "California",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "icims",
+    "url": "https://careers.ulta.com/jobs/407331?lang=en-us&icims=1",
+    "date_posted": "2026-09-23",
+    "date_added": "2026-09-24",
+    "active": false,
+    "date_archived": "2026-11-08"
   }
 ]
