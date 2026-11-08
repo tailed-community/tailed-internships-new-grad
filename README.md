@@ -2658,8 +2658,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AltaLink | Summer Student - Environment | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/0BF04A3809/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection & Control Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/33683C43CF/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
-| AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | AltaLink | Summer Student - Substation Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/126ECBB327/) | 2026-11-02 |
+| AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | American Express | Campus Undergraduate Winter Internship Program 2027 – International Card Services & Global Merchant Network Services – Toronto, Canada | Toronto, ON, Canada | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015817) | 2026-11-02 |
 | Amgen | Grad Intern – Amgen Library (Summer 2027) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871) | 2026-11-02 |
 | Amgen | Undergrad Intern – Amgen Foundation (Summer 2027) | United States Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402) | 2026-11-02 |
