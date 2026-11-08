@@ -1295,7 +1295,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Publicis Groupe | Influencer Marketing – Intern | South Africa | [Apply](https://careers.publicisgroupe.com/jobs/181163?lang=en-us&icims=1) | 2026-11-05 |
 | Publicis Groupe | Learning & Development Internship - 12 Months | South Africa | [Apply](https://careers.publicisgroupe.com/jobs/180815?lang=en-us&icims=1) | 2026-11-05 |
 | QTS | Summer 2027 Internship: Accounts Payable | Overland Park, KS | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Overland-Park-KS/Summer-2027-Internship--Accounts-Payable_R2026-2016) | 2026-11-05 |
-| Ramboll | Intern, Air Quality | California, United States | [Apply](https://jobs.smartrecruiters.com/Ramboll3/744000159949759) | 2026-11-05 |
 | RBC | Assistant Branch Manager Intern | Pointe-Claire, QC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/POINTE-CLAIRE-Quebec-Canada/Assistant-Branch-Manager_R-0000191932-2) | 2026-11-05 |
 | RBC | Assistant Branch Manager Intern, Bloor & Yonge Branch | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Assistant-Branch-Manager-Intern--Bloor---Yonge-Branch_R-0000191329) | 2026-11-05 |
 | RBC | Banking Advisor Intern | Oakville, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000192048) | 2026-11-05 |
@@ -2452,7 +2451,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Publicis Groupe | Social Copywriter Intern | South Africa | [Apply](https://careers.publicisgroupe.com/jobs/180842?lang=en-us&icims=1) | 2026-11-03 |
 | Publicis Groupe | Traffic Intern | South Africa | [Apply](https://careers.publicisgroupe.com/jobs/180801?lang=en-us&icims=1) | 2026-11-03 |
 | RBC | Client Advisor Intern | Norfolk County, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORFOLK-COUNTY-Ontario-Canada/Client-Advisor-Intern_R-0000191812) | 2026-11-03 |
-| Red Bull | Culture Marketing Intern | Italy | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159378959) | 2026-11-03 |
 | Red Bull | Internship Fashion Marketing AlphaTauri | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159423209) | 2026-11-03 |
 | Red Bull | Internship Portfolio Management | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159408089) | 2026-11-03 |
 | Red Bull | Internship Video Editor - Team Rottensteiner | Austria | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159425709) | 2026-11-03 |
@@ -4906,7 +4904,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Universal Health Services | Hospital Administration Internship - Summer 2027 | Arizona | [Apply](https://jobs.uhsinc.com/jobs/379616?lang=en-us&icims=1) | 2026-10-29 |
 | Universal Health Services | UNPAID INTERN - SOCIAL WORK (MSW) | Mississippi | [Apply](https://jobs.uhsinc.com/jobs/379598?lang=en-us&icims=1) | 2026-10-29 |
 | University Corporation for Atmospheric Research | Data Science Student Assistant III | Boulder, CO | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1) | 2026-10-29 |
-| University Health Network | Flow Cytometry Operator | Toronto, ON, Canada | [Apply](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000158555461) | 2026-10-29 |
 | University of Arkansas | ASMSA Student Life Transportation | Hot Springs | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Hot-Springs/ASMSA-Student-Life-Transportation_R0093279) | 2026-10-29 |
 | University of Arkansas | Student Financials & Business Invoice Collections Analyst | Fayetteville, AR | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville-AR/Student-Financials---Business-Invoice-Collections-Analyst_R0093065-1) | 2026-10-29 |
 | University of Arkansas - UAF_External_Career_Site | Student Financials & Business Invoice Collections Analyst | Fayetteville, AR | [Apply](https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville-AR/Student-Financials---Business-Invoice-Collections-Analyst_R0093065) | 2026-10-29 |

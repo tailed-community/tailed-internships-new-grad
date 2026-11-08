@@ -984982,5 +984982,47 @@
     "date_added": "2026-10-07",
     "active": false,
     "date_archived": "2026-11-08"
+  },
+  {
+    "id": "smartrecruiters-ramboll-744000159949759",
+    "company": "Ramboll",
+    "title": "Intern, Air Quality",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/Ramboll3/744000159949759",
+    "date_posted": "2026-11-05",
+    "date_added": "2026-11-05",
+    "active": false,
+    "date_archived": "2026-11-08"
+  },
+  {
+    "id": "smartrecruiters-red-bull-744000159378959",
+    "company": "Red Bull",
+    "title": "Culture Marketing Intern",
+    "location": "Italy",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000159378959",
+    "date_posted": "2026-11-03",
+    "date_added": "2026-11-03",
+    "active": false,
+    "date_archived": "2026-11-08"
+  },
+  {
+    "id": "smartrecruiters-university-health-network-744000158555461",
+    "company": "University Health Network",
+    "title": "Flow Cytometry Operator",
+    "location": "Toronto, ON, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000158555461",
+    "date_posted": "2026-10-29",
+    "date_added": "2026-10-29",
+    "active": false,
+    "date_archived": "2026-11-08"
   }
 ]
