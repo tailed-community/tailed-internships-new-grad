@@ -998926,5 +998926,33 @@
     "date_added": "2026-09-07",
     "active": false,
     "date_archived": "2026-11-09"
+  },
+  {
+    "id": "rippling-ampliwork-inc-69f4b401-d69b-473a-973c-f324fe329131",
+    "company": "Ampliwork, Inc",
+    "title": "Operations & Strategy Intern",
+    "location": "Montréal, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/ampliwork-inc/jobs/69f4b401-d69b-473a-973c-f324fe329131",
+    "date_posted": null,
+    "date_added": "2026-07-27",
+    "active": false,
+    "date_archived": "2026-11-09"
+  },
+  {
+    "id": "rippling-golden-analytics-2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
+    "company": "Golden Analytics",
+    "title": "Software Engineer Intern",
+    "location": "Bellevue, WA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5",
+    "date_posted": null,
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-09"
   }
 ]

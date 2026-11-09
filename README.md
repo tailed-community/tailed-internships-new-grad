@@ -3795,7 +3795,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Genius AI | Engineering Intern (Summer 2027) | New York, United States / San Francisco / United States Remote | [Apply](https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4) | 2026-11-02 |
 | Genius AI | Software Engineer Intern Winter 2026-2027 | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27) | 2026-11-02 |
 | Global Infrastructure | Intern Engineering Designer, Roads and Highways | US \| Il \| Chicago 200 South Wacker Drive | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Engineering-Designer--Roads-and-Highways_6687) | 2026-11-02 |
-| Golden Analytics | Software Engineer Intern | Bellevue, WA | [Apply](https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5) | 2026-11-02 |
 | Golden Hippo | Visual Design Intern - Spring 2027 | Remote | [Apply](https://www.golden-careers.com/jobs/4748701005?gh_jid=4748701005) | 2026-11-02 |
 | Gordon Food Service | Sales Internship | Pennsylvania | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Imperial-Pennsylvania/Sales-Internship_R-58192-1) | 2026-11-02 |
 | Grant Thornton | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239) | 2026-11-02 |
@@ -23934,7 +23933,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Workato | Intern, Business Technology | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8644024002#open-roles) | 2026-07-28 |
 | Zuru | Social & Content Creative Summer Internship 2026/2027 | New Zealand | [Apply](https://jobs.ashbyhq.com/zuru/af933f23-1ed3-4666-b51d-bfff2284fd82) | 2026-07-28 |
 | Accenture | Werkstudent – Technology, Strategy and Transformation Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Portfolio-Management-Working-Internship---Technology--Strategy-and-Transformation_R00346801) | 2026-07-27 |
-| Ampliwork, Inc | Operations & Strategy Intern | Montréal, Canada | [Apply](https://ats.rippling.com/ampliwork-inc/jobs/69f4b401-d69b-473a-973c-f324fe329131) | 2026-07-27 |
 | Anthelion Capital | Quant Developer / Quant Research Intern - 2026/2027 | New York, United States | [Apply](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) | 2026-07-27 |
 | Aptura | Ex-IB MBA Intern | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/aptura/046cb4de-4ffa-4e8a-b7ce-9642957016ad) | 2026-07-27 |
 | Architect Labs | Member of Technical Staff - Research Intern | California, United States | [Apply](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1) | 2026-07-27 |
