@@ -74606,20 +74606,6 @@
     "date_archived": "2026-06-16"
   },
   {
-    "id": "ashby-mubi-670bc538-0c29-4f04-a5dd-ad8f5f53ba0e",
-    "company": "MUBI",
-    "title": "Social Media Intern, AR",
-    "location": "Argentina, Argentina / Remote",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/MUBI/670bc538-0c29-4f04-a5dd-ad8f5f53ba0e",
-    "date_posted": "2026-06-11",
-    "date_added": "2026-06-11",
-    "active": false,
-    "date_archived": "2026-06-16"
-  },
-  {
     "id": "icims-cook-group-18649",
     "company": "Cook Group",
     "title": "Administrative Intern",
@@ -451472,20 +451458,6 @@
     "date_archived": "2026-09-04"
   },
   {
-    "id": "ashby-adaptive-security-65a632db-db1a-47ae-9d10-1057c5640c24",
-    "company": "Adaptive Security",
-    "title": "GTM Intern (Fall)",
-    "location": "California, United States",
-    "type": "internship",
-    "season": "Fall",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/adaptivesecurity/65a632db-db1a-47ae-9d10-1057c5640c24",
-    "date_posted": "2026-08-10",
-    "date_added": "2026-08-11",
-    "active": false,
-    "date_archived": "2026-09-04"
-  },
-  {
     "id": "ashby-clera-9396467b-5e52-4d41-b9e5-9dfbc30fa5af",
     "company": "Clera",
     "title": "Generalist Intern",
@@ -794444,20 +794416,6 @@
     "date_archived": "2026-10-20"
   },
   {
-    "id": "ashby-harvey-d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
-    "company": "Harvey",
-    "title": "Software Engineering Intern (Winter 2027)",
-    "location": "Canada / Canada Remote",
-    "type": "internship",
-    "season": "Winter 2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
-    "date_posted": "2026-10-02",
-    "date_added": "2026-10-02",
-    "active": false,
-    "date_archived": "2026-10-20"
-  },
-  {
     "id": "ashby-helion-energy-b73602bd-b644-4a46-9188-fded4b2db606",
     "company": "Helion Energy",
     "title": "Mechanical Engineering Summer 2027 Intern",
@@ -858434,34 +858392,6 @@
     "url": "https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40",
     "date_posted": "2026-08-21",
     "date_added": "2026-08-22",
-    "active": false,
-    "date_archived": "2026-10-27"
-  },
-  {
-    "id": "ashby-harvey-06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
-    "company": "Harvey",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "New York, United States / United States Remote",
-    "type": "internship",
-    "season": "Summer 2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
-    "date_posted": "2026-10-02",
-    "date_added": "2026-10-02",
-    "active": false,
-    "date_archived": "2026-10-27"
-  },
-  {
-    "id": "ashby-harvey-3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
-    "company": "Harvey",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "California, United States / United States Remote",
-    "type": "internship",
-    "season": "Summer 2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
-    "date_posted": "2026-10-02",
-    "date_added": "2026-10-02",
     "active": false,
     "date_archived": "2026-10-27"
   },
@@ -935130,34 +935060,6 @@
     "date_archived": "2026-11-03"
   },
   {
-    "id": "ashby-harvey-b0996df6-6b6e-42be-a4f9-0084536068f5",
-    "company": "Harvey",
-    "title": "Software Engineer, New Grad (2027)",
-    "location": "California, United States / United States Remote",
-    "type": "new_grad",
-    "season": "2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
-    "date_posted": "2026-10-02",
-    "date_added": "2026-10-03",
-    "active": false,
-    "date_archived": "2026-11-03"
-  },
-  {
-    "id": "ashby-harvey-4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
-    "company": "Harvey",
-    "title": "Software Engineer, New Grad (2027)",
-    "location": "New York, United States",
-    "type": "new_grad",
-    "season": "2027",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
-    "date_posted": "2026-10-02",
-    "date_added": "2026-10-03",
-    "active": false,
-    "date_archived": "2026-11-03"
-  },
-  {
     "id": "ashby-incident-io-0a008c9e-b6d1-4a21-9aee-8d82d547a28e",
     "company": "incident.io",
     "title": "Entry-Level Business Development Representative (BDR) 2027 Cohort",
@@ -982926,20 +982828,6 @@
     "date_archived": "2026-11-08"
   },
   {
-    "id": "ashby-harvey-a194c24f-38ee-4c7e-908b-060a16dfaa9d",
-    "company": "Harvey",
-    "title": "Law School Student Ambassador",
-    "location": "United States / Milan / London / Stockholm / Germany / Paris / Madrid / Dublin / United States Remote",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "ashby",
-    "url": "https://jobs.ashbyhq.com/harvey/a194c24f-38ee-4c7e-908b-060a16dfaa9d",
-    "date_posted": "2026-06-25",
-    "date_added": "2026-06-26",
-    "active": false,
-    "date_archived": "2026-11-08"
-  },
-  {
     "id": "ashby-pebl-49d8b355-620b-4dde-be4b-5489abf4c9cf",
     "company": "Pebl",
     "title": "Software Engineering, Intern",
@@ -995802,6 +995690,48 @@
     "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5365283008",
     "date_posted": "2026-07-21",
     "date_added": "2026-07-21",
+    "active": false,
+    "date_archived": "2026-11-09"
+  },
+  {
+    "id": "ashby-skyband-systems-5ff35a40-2ded-45b2-9211-004025902fc6",
+    "company": "Skyband Systems",
+    "title": "Spring 2027 Internship: Mechanical Engineering",
+    "location": "Washington, United States",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/Skyband%20Systems/5ff35a40-2ded-45b2-9211-004025902fc6",
+    "date_posted": "2026-10-01",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-09"
+  },
+  {
+    "id": "ashby-upvest-ce3bdfe5-ec15-47f3-92dd-5454d74c2415",
+    "company": "Upvest",
+    "title": "Working Student / Intern Accounting (f/m/d)",
+    "location": "Germany, Germany / Remote",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/upvest/ce3bdfe5-ec15-47f3-92dd-5454d74c2415",
+    "date_posted": "2026-05-11",
+    "date_added": "2026-06-08",
+    "active": false,
+    "date_archived": "2026-11-09"
+  },
+  {
+    "id": "ashby-zuru-18b0f2f0-dc64-4d0a-a925-0e19a38023ee",
+    "company": "Zuru",
+    "title": "Marketing Summer Internship 2026/2027",
+    "location": "New Zealand, New Zealand",
+    "type": "internship",
+    "season": "Summer",
+    "source": "ashby",
+    "url": "https://jobs.ashbyhq.com/zuru/18b0f2f0-dc64-4d0a-a925-0e19a38023ee",
+    "date_posted": "2026-11-04",
+    "date_added": "2026-07-27",
     "active": false,
     "date_archived": "2026-11-09"
   }
