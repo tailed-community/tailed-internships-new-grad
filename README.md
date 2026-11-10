@@ -11536,7 +11536,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day Greenlight Requisition | Tillsonburg, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/671-Broadway-St-Tillsonburg-ON/Student--Franchise-Part-Time-Day-Greenlight-Requisition_R2000719430) | 2026-10-11 |
 | Thales | STAGE - Mise en place d'une GMAO F/H | Orléans | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlans/STAGE---Mise-en-place-d-une-GMAO-F-H_R0341668-1) | 2026-10-11 |
 | University of Virginia | Conference Supervisor, Summer 2027 (Student Wage) | Charlottesville, VA | [Apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Conference-Supervisor--Summer-2027--Student-Wage-_R0087926) | 2026-10-11 |
-| 4AG Robotics | Supply Chain Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/52ac25d1-c68e-4b6e-a5f5-36e312c03878) | 2026-10-10 |
 | Advanced Space | 2026-2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009) | 2026-10-10 |
 | Affirm | IT Engineer Intern (Early Careers Summer 2027) | California, United States | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | 2026-10-10 |
 | American Bankers Association | Intern, Policy & Advocacy Operations | US Dc Main Office | [Apply](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Policy---Advocacy-Operations_R616) | 2026-10-10 |

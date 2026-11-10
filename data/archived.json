@@ -1010154,5 +1010154,33 @@
     "date_added": "2026-09-07",
     "active": false,
     "date_archived": "2026-11-10"
+  },
+  {
+    "id": "rippling-4ag-robotics-52ac25d1-c68e-4b6e-a5f5-36e312c03878",
+    "company": "4AG Robotics",
+    "title": "Supply Chain Co-op Student (Winter 2027)",
+    "location": "Salmon Arm, Canada",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/4ag/jobs/52ac25d1-c68e-4b6e-a5f5-36e312c03878",
+    "date_posted": null,
+    "date_added": "2026-10-10",
+    "active": false,
+    "date_archived": "2026-11-10"
+  },
+  {
+    "id": "rippling-boom-supersonic-4305b927-6d4a-4093-9c78-e91e5567d57f",
+    "company": "Boom Supersonic",
+    "title": "Materials & Manufacturing Process Engineer (Early Career, Exceptional Talent)",
+    "location": "Centennial, CO",
+    "type": "new_grad",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/boom-supersonic/jobs/4305b927-6d4a-4093-9c78-e91e5567d57f",
+    "date_posted": null,
+    "date_added": "2026-08-17",
+    "active": false,
+    "date_archived": "2026-11-10"
   }
 ]
