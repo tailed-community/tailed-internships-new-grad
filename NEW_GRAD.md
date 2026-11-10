@@ -8,11 +8,16 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Advanced Technology Services (ATS) | Entry-level Maintenance Engineer | Somerset | [Apply](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4724640006) | 2026-11-10 |
+| AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160946779) | 2026-11-10 |
+| AECOM | Entry-Level Archaeological Technician | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160953926) | 2026-11-10 |
+| AECOM | Entry-Level Field Geologist | United States Remote | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160871865) | 2026-11-10 |
+| AECOM | Entry-Level GIS Specialist | Honolulu, HI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160900745) | 2026-11-10 |
 | Airbus | Embedded Software Development Engineer – Entry-level Software developer (m/f) | Toulouse Area | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Embedded-Software-Development-Engineer---Entry-level-Software-developer--m-f-_JR10453443-1) | 2026-11-10 |
 | Amcor | Entry Level Manufacturing | Af Oshkosh South Wi / Af Oshkosh Converter Films Wi / Af Oshkosh North Wi / Af Oshkosh Specialty Films Wi | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-South-WI/Entry-Level-Manufacturing_REQ_98375) | 2026-11-10 |
 | Amentum | Entry Level Electrical Engineer | US-In-Crane | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Entry-Level-Electrical-Engineer_R0175136) | 2026-11-10 |
 | AppLovin | Analyst, Business Development - French Speaking (New Grad/Junior) | Berlin | [Apply](https://boards.greenhouse.io/applovin/jobs/4717246006?gh_jid=4717246006) | 2026-11-10 |
 | AppLovin | Analyst, Business Development – Russian Speaking (New Grad/Junior) | Berlin | [Apply](https://boards.greenhouse.io/applovin/jobs/4728532006?gh_jid=4728532006) | 2026-11-10 |
+| Avery Dennison | Graduate Program - Operations / Manufacturing | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160884551) | 2026-11-10 |
 | Banner Health | Registered Nurse RN New Grad Resource Team | Bumc Phoenix (1111 E Mcdowell Rd) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Registered-Nurse-RN-New-Grad-Resource-Team_R4460494) | 2026-11-10 |
 | BMO (Campus) | BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal | Montreal, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-2) | 2026-11-10 |
 | BMO (External) | BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal | Montreal, QC | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-1) | 2026-11-10 |
@@ -41,7 +46,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Boeing Company - external_subsidiary | Entry Level Procurement Agent | USA Seattle, WA | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Entry-Level-Procurement-Agent_JR2026529120) | 2026-11-10 |
 | WSP | Early Career Civil Engineer | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99097) | 2026-11-10 |
 | Adobe | 2027 University Graduate - Data Engineer | San Jose | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | 2026-11-09 |
-| AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000160722789) | 2026-11-09 |
 | AutoNation | Entry Level Technician | Autonation Hyundai Savannah | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Hyundai-Savannah/Entry-Level-Technician_JR2026151649) | 2026-11-09 |
 | AutoNation | Entry Level Technician | Autonation Toyota Mall Of Georgia | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Toyota-Mall-of-Georgia/Entry-Level-Technician_JR2026151962) | 2026-11-09 |
 | AutoNation | Entry Level Technician-2 | Autonation Hyundai Savannah | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Hyundai-Savannah/Entry-Level-Technician-2_JR2026151650) | 2026-11-09 |
@@ -64,7 +68,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Marsh | Graduate Program – Sales Talent Program (m/w/d) | Ulm Neue | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Ulm---Neue/Graduate_R_364875) | 2026-11-09 |
 | Nooks | Software Engineer, New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | 2026-11-09 |
 | Oregon State Government | Correctional Counselor, Entry Level Option (Wilsonville) | Wilsonville \| Odoc \| Coffee Creek Correctional Facility | [Apply](https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Wilsonville--ODOC--Coffee-Creek-Correctional-Facility/Correctional-Counselor--Entry-Level-Option--Wilsonville-_REQ-209493) | 2026-11-09 |
-| PA Consulting | Early Career \| Growth Strategy Analyst (2027) | Chicago, United States | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000160735969) | 2026-11-09 |
 | PETRONAS Canada | Accounting Analyst, Master Data New Grad | Calgary | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Accounting-Analyst--Master-Data-New-Grad_R0001854) | 2026-11-09 |
 | Sentara Health | Registered Nurse (RN) New Grad - Emergency Department | Sentara Virginia Beach General Hospital | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Virginia-Beach-General-Hospital/Registered-Nurse--RN--New-Grad---Emergency-Department_JR-109264) | 2026-11-09 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 | D.c. | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | 2026-11-09 |
@@ -236,7 +239,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MaineGeneral Health | 2 West - Medical Surgical Registered Nurse (RN) - NEW GRADUATES WELCOME! | Augusta, ME | [Apply](https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/XMLNAME-2-West---Medical-Surgical-Registered-Nurse--RN----NEW-GRADUATES-WELCOME-_R17683-1) | 2026-11-04 |
 | Medline | Part Time Entry Level: Field Services Representative | Minnesota | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Minneapolis-Minnesota/Part-Time-Entry-Level--Field-Services-Representative_R2622046) | 2026-11-04 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
-| Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159558619) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
@@ -383,7 +385,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cone Health | Open to New Graduates \| Nurse Practitioner or Physician Assistant \| Triad Internal Medicine Associates | Triad Internal Medicine Associates | [Apply](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Triad-Internal-Medicine-Associates/Open-to-New-Graduates---Nurse-Practitioner-or-Physician-Assistant---Triad-Internal-Medicine-Associates_JR148174) | 2026-10-29 |
 | Desjardins | Personal Finance Advisor, University Graduate | Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre--Finances-personnelles--Relve-universitaire_R2612055-2) | 2026-10-29 |
 | Eurofins | Operational Support Specialist I (On-Site/Entry Level) | River Falls, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000158585949) | 2026-10-29 |
-| Eurofins | Scientist - Entry Level - Training Provided! - 2nd Shift | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000158511329) | 2026-10-29 |
 | General Dynamics | Sheetmetal - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21414/sheetmetal---entry-level-and-skilled/job) | 2026-10-29 |
 | Johnson & Johnson | Key Account Specialist Immunology / Early Career | Czechia | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Prague-Czechia/Key-Account-Specialist-Immunology---Early-Career_R-107757) | 2026-10-29 |
 | NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | 2026-10-29 |
@@ -540,7 +541,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shield AI | RF Engineer I - New Grad (R6108) | Washington | [Apply](https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416) | 2026-10-22 |
 | True Anomaly | Propulsion Engineer I (New Grad) | Denver, CO | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007) | 2026-10-22 |
 | AECOM | Entry-Level Bridge Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156587483) | 2026-10-21 |
-| AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156451061) | 2026-10-21 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156412059) | 2026-10-21 |
 | AutoNation | Entry Level Technician | Not Specified | [Apply](https://autonation.wd5.myworkdayjobs.com/Careers/job/Entry-Level-Technician_JR2026151132) | 2026-10-21 |
 | Brain Co. | AI Platform Engineer, 2027 New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15) | 2026-10-21 |
