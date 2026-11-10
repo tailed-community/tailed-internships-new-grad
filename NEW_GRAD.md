@@ -231,12 +231,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
 | Red Bull | Media Network Trainee (Graduate Program) | Munich, BY | [Apply](https://jobs.smartrecruiters.com/RedBull/744000159558619) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
-| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
-| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | 2026-11-04 |
+| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
 | Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
-| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California / D.c. | [Apply](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62) | 2026-11-04 |
+| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | 2026-11-04 |
 | Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
+| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California / D.c. | [Apply](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62) | 2026-11-04 |
 | SpaceX | Starlink Aviation Production Technician (Entry Level, Temporary) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002) | 2026-11-04 |
 | Tencent - Tencent_Careers | Media Services Solution Architect (New Graduate) — Japan | Japan-Tokyo-Business Tower | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Media-Services-Solution-Architect--New-Graduate----Japan_R108334) | 2026-11-04 |
 | Thermo Fisher Scientific | Entry Level Biochemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Scientist_R-01374709) | 2026-11-04 |
@@ -971,8 +971,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | American Red Cross | Entry Level Phlebotomist | Portland, ME | [Apply](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Portland-ME/Entry-Level-Phlebotomist_RC91495) | 2026-09-23 |
 | AtkinsRéalis | Engineering New Graduate | Ca.on.mississauga.2251 Speakman Drive / Ca.on.pickering.1340 Pickering Parkway | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Engineering-New-Graduate_R-165132-1) | 2026-09-23 |
 | Barr | Geologist/Environmental Engineer – Entry Level (Hybrid) | Seattle, WA | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Geologist-Environmental-Engineer---Entry-Level--Hybrid-_R-102340) | 2026-09-23 |
-| Belvedere Trading | Early Career Talent Partner - Technology & Platform | Illinois | [Apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) | 2026-09-23 |
-| Belvedere Trading | Early Career Talent Partner - Trading | Illinois | [Apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) | 2026-09-23 |
 | CannonDesign | Technology - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832624002) | 2026-09-23 |
 | CannonDesign | Technology - Entry Level | Buffalo, NY / Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832873002) | 2026-09-23 |
 | Cleveland Clinic | New Grad RN Resident – Gastroenterology/Hepatology | Cleveland Clinic Main Campus | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Gastroenterology-Hepatology_331876) | 2026-09-23 |
@@ -988,7 +986,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Plante Moran | 2027 Family Office - Estate Planning Advisor Entry Level | East Lansing | [Apply](https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/East-Lansing/XMLNAME-2027-Family-Office---Estate-Planning-Advisor-Entry-Level_JR-03373) | 2026-09-22 |
 | Sentara Health | RN new grad Fast-track Application/ Nurse Residency Program-All Sentara locations | Sentara Norfolk General Hospital / Hampton, VA / Virginia Beach, VA / Charlottesville, VA / South Boston, VA / Norfolk, VA / Elizabeth City, NC / Harrisonburg, VA / Suffolk, VA / Woodbridge, VA / Williamsburg, VA | [Apply](https://sentara.wd1.myworkdayjobs.com/SCS/job/Sentara-Norfolk-General-Hospital/RN-new-grad-Fast-track-Application--Nurse-Residency-Program-All-Sentara-location_JR-105628) | 2026-09-22 |
 | Thermo Fisher Scientific | Entry Level Chemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Chemist_R-01369116) | 2026-09-22 |
-| Wade Trim | Entry Level 3D Drafter - #3059 | Buford, GA / Atlanta, GA | [Apply](https://jobs.lever.co/wadetrim/d7551f38-de8d-4d55-89e9-bc54d17cd435) | 2026-09-22 |
 | Arcadis | Entry Level Water Engineer | Middletown, CT, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44559) | 2026-09-21 |
 | Arcadis | Entry Level Water Engineer | East Greenwich, RI, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44561) | 2026-09-21 |
 | DecisionPoint | Software Developer (Entry-level) | US, United States | [Apply](https://careers-decisionpointcorp.icims.com/jobs/3766/software-developer-%28entry-level%29/job) | 2026-09-21 |
