@@ -267,11 +267,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Medline | Part Time Entry Level: Field Services Representative | Minnesota | [Apply](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Minneapolis-Minnesota/Part-Time-Entry-Level--Field-Services-Representative_R2622046) | 2026-11-04 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
 | Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e) | 2026-11-04 |
-| Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba) | 2026-11-04 |
 | Shield AI | Engineer I, Simulation Framework - New Grad - 6203 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3) | 2026-11-04 |
-| Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | 2026-11-04 |
 | Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9) | 2026-11-04 |
-| Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California / D.c. | [Apply](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62) | 2026-11-04 |
 | Shield AI | Engineer II, Simulation Framework - New Grad - 6204 | California | [Apply](https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d) | 2026-11-04 |
 | Tencent - Tencent_Careers | Media Services Solution Architect (New Graduate) — Japan | Japan-Tokyo-Business Tower | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Media-Services-Solution-Architect--New-Graduate----Japan_R108334) | 2026-11-04 |
 | Thermo Fisher Scientific | Entry Level Biochemist | Wisconsin, United States | [Apply](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Scientist_R-01374709) | 2026-11-04 |
@@ -449,12 +446,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8325055?gh_jid=8325055) | 2026-10-28 |
 | Samsara | (New Grad) Account Development Representative II - Phoenix | Remote | [Apply](https://www.samsara.com/company/careers/roles/8325356?gh_jid=8325356) | 2026-10-28 |
 | SCS Engineers | Entry-Level Civil or Environmental Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4110/entry-level-civil-or-environmental-engineer/job) | 2026-10-28 |
-| Shield AI | Engineer I, Flight Test - New Grad - 6219 | California | [Apply](https://jobs.lever.co/shieldai/0cdcb67f-0550-4f14-987f-82cc6d17ea6e) | 2026-10-28 |
-| Shield AI | Engineer I, Software Integration - New Grad - 6214 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69) | 2026-10-28 |
-| Shield AI | Engineer II, Flight Test - New Grad - 6222 | California | [Apply](https://jobs.lever.co/shieldai/c28e98ff-88ce-4e56-ada5-4cee7d417885) | 2026-10-28 |
-| Shield AI | Engineer II, Integration - New Grad - 6202 | D.c. | [Apply](https://jobs.lever.co/shieldai/de13deec-afa6-4d78-b920-aeb5571be9d3) | 2026-10-28 |
-| Shield AI | Engineer II, Software - Factory - New Grad - 6217 | D.c. / California | [Apply](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5) | 2026-10-28 |
-| Shield AI | Engineer II, Software Test and Automation - New Grad - 6221 | D.c. | [Apply](https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab) | 2026-10-28 |
 | Solar Turbines | 2027 Entry Level Lean Facilitator | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Lean-Facilitator_R0000381655) | 2026-10-28 |
 | State of North Carolina | Assistant District Attorney - Entry Level | Rowan County, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Rowan-County-NC/Assistant-District-Attorney---Entry-Level_JR-127410) | 2026-10-28 |
 | Stripe | Software Engineer, New Grad | Bangalore | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) | 2026-10-28 |
@@ -527,7 +518,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Keysight Technologies | Inside Sales Representative, Recent Graduate | California | [Apply](https://jobs.keysight.com/jobs/54836?lang=en-us&icims=1) | 2026-10-23 |
 | Marsh | Oliver Wyman - Entry-level Consultant (March 2028) - Tokyo | Tokyo Akasaka | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Tokyo---Akasaka/Oliver-Wyman---Entry-level-Consultant--March-2028----Tokyo_R_370298) | 2026-10-23 |
 | Motorola Solutions | Entry Level Control Hardware Development Engineer | Schaumburg, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-Control-Hardware-Development-Engineer_R67706) | 2026-10-23 |
-| Palantir | Deployment Strategist, New Grad - Warp Speed | New York, NY | [Apply](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | 2026-10-23 |
 | Palantir | Forward Deployed Software Engineer, New Grad - Warp Speed | New York, NY | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | 2026-10-23 |
 | RTX (en-US) | Młodsza Konstruktorka / Młodszy Konstruktor - Analizy Wytrzymałościowe – NEW GRAD PROGRAM | Pl-18-Rzeszow-120 F62 ~ Ul Hetmanska 120 ~ Bldg F62 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-18-RZESZOW-120-F62--Ul-Hetmanska-120--BLDG-F62/Modsza-Konstruktorka---Modszy-Konstruktor---Analizy-Wytrzymaociowe---NEW-GRAD-PROGRAM_01877446) | 2026-10-23 |
 | RTX (en-US) | Młodsza Konstruktorka / Młodszy Konstruktor - Wsparcie Produkcji i Eksploatacji (NEW GRAD Program) | Pl-18-Rzeszow-120 B05 ~ Ul Hetmanska 120 ~ Bldg B05 | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-18-RZESZOW-120-B05--Ul-Hetmanska-120--BLDG-B05/Modsza-Konstruktorka---Modszy-Konstruktor---Wsparcie-Produkcji-i-Eksploatacji--NEW-GRAD-Program-_01877429) | 2026-10-23 |
