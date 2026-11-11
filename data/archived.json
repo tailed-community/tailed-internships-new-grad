@@ -1018344,5 +1018344,19 @@
     "date_added": "2026-07-10",
     "active": false,
     "date_archived": "2026-11-11"
+  },
+  {
+    "id": "rippling-apex-analytix-c65b88f8-9e36-4c70-9c02-fe49feab120b",
+    "company": "APEX Analytix",
+    "title": "Learning and Development Intern (Summer 2027)",
+    "location": "Greensboro, NC",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/c65b88f8-9e36-4c70-9c02-fe49feab120b",
+    "date_posted": null,
+    "date_added": "2026-09-15",
+    "active": false,
+    "date_archived": "2026-11-11"
   }
 ]

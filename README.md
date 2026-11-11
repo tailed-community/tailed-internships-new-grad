@@ -42,6 +42,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Structurepoint | Utility Infrastructure Internship - Akron, OH | Akron, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3188/utility-infrastructure-internship---akron%2c-oh/job) | 2026-11-11 |
 | Analog Devices | Mechatronics Engineering Intern | OR, United States | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831) | 2026-11-11 |
 | Anduril | 2027 Optical Payload Engineer Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) | 2026-11-11 |
+| APEX Analytix | Product Management Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | 2026-11-11 |
 | Applied Materials | 2027 Spring Software Engineer Co-op (Billerica, MA) | Billerica, MA | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Software-Engineer-Co-op--Billerica--MA-_R2631540) | 2026-11-11 |
 | Arcesium | Technology Operations Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) | 2026-11-11 |
 | Arista Networks | Data Analytics Intern | United States Remote | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000160961018) | 2026-11-11 |
@@ -124,6 +125,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Internship Purchasing (4 hours) - Tires | Timișoara, TM | [Apply](https://jobs.smartrecruiters.com/Continental/744000161099555) | 2026-11-11 |
 | Covestro | Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Jinshan-District-Shanghai-China/Intern_JR-2026-02385) | 2026-11-11 |
 | Crane Co. | CNC Machinist Intern | California | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Auburn-California/CNC-Machinist-Intern_JR102829) | 2026-11-11 |
+| Create Music Group | A&R Research Intern - Spring 2027 | Los Angeles, Canada | [Apply](https://ats.rippling.com/createmusicgroup/jobs/e7a14897-62d3-488d-a8d1-728a5091c735) | 2026-11-11 |
+| Create Music Group | M&A Legal Intern - Spring 2027 | United States Remote | [Apply](https://ats.rippling.com/createmusicgroup/jobs/afd4db07-0bec-48b2-9b50-661542e5bc54) | 2026-11-11 |
 | Cummins | Information Technology Co-op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442195) | 2026-11-11 |
 | Cummins | Placement Student–ESG (Environmental, Social, and Governance) Regulatory Compliance | Buckinghamshire, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441343) | 2026-11-11 |
 | CVS Health | Foreign Pharmacy Grad - International Pharmacy Intern | Oh Hinckley | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Hinckley/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1101694) | 2026-11-11 |
@@ -17441,7 +17444,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | APEX Analytix | Data Engineering Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) | 2026-09-15 |
 | APEX Analytix | Data Science Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | 2026-09-15 |
 | APEX Analytix | IT & Cloud Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a) | 2026-09-15 |
-| APEX Analytix | Learning and Development Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c65b88f8-9e36-4c70-9c02-fe49feab120b) | 2026-09-15 |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | 2026-09-15 |
 | AppLovin | Product Management Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713039006?gh_jid=4713039006) | 2026-09-15 |
 | Arcadis | Intern Architect | China | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44336) | 2026-09-15 |
