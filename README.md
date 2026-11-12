@@ -338,6 +338,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lightmatter | Photonics Engineer Intern - Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479605008?gh_jid=5479605008) | 2026-11-12 |
 | Lightmatter | Photonics Layout Intern - Summer 2027 | Boston, MA | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479611008?gh_jid=5479611008) | 2026-11-12 |
 | Lightmatter | Supply Chain Internship - Summer 2027 | Mountain View, Canada | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5475089008?gh_jid=5475089008) | 2026-11-12 |
+| Linea Energy | Renewable Energy Undergraduate Intern - Project Development | Austin, TX | [Apply](https://ats.rippling.com/linea-energy/jobs/bc6f3480-e024-441a-9bec-180f5acc3364) | 2026-11-12 |
 | LinkedIn | Intern, Sales Operations (Estágio) | São Paulo, SP | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000161279418) | 2026-11-12 |
 | Little Caesars Enterprises | Brand Marketing Intern | Detroit, MI | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Brand-Marketing-Intern_R9722-1) | 2026-11-12 |
 | Little Caesars Enterprises | Intern, IT | Detroit, MI | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--IT_R9719) | 2026-11-12 |
