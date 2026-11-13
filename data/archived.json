@@ -1045112,5 +1045112,19 @@
     "date_added": "2026-11-03",
     "active": false,
     "date_archived": "2026-11-13"
+  },
+  {
+    "id": "rippling-create-music-group-44b6f41c-96c7-4909-a005-0914505aeba0",
+    "company": "Create Music Group",
+    "title": "Music Marketing & Operations Intern",
+    "location": "Los Angeles, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/createmusicgroup/jobs/44b6f41c-96c7-4909-a005-0914505aeba0",
+    "date_posted": null,
+    "date_added": "2026-10-12",
+    "active": false,
+    "date_archived": "2026-11-13"
   }
 ]
