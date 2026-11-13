@@ -31,6 +31,22 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Monolithic Power Systems | Design Engineer (New Grad) | Taipei Taiwan | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Taipei---Taiwan/Design-Engineer--New-Grad-_R-2104) | 2026-11-13 |
 | Procter & Gamble (P&G) | Gerente Regional de Vendas Jr (Entry Level)\| Belém - PA | Belém | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/Belm/Gerente-Regional-de-Vendas-Jr--Entry-Level---Belm---PA_R000161430) | 2026-11-13 |
 | ReBuild Manufacturing | Entry Level Composite Technician | Rock Hill, SC | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4753751005) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad | California | [Apply](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts | [Apply](https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington | [Apply](https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0) | 2026-11-13 |
+| Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6) | 2026-11-13 |
+| Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington | [Apply](https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2) | 2026-11-13 |
+| Shield AI | Engineer I, PCB - New Grad (R6065) | Washington | [Apply](https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | United States | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
+| Shield AI | Engineer I, Software - New Grad - 6531 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Perception - New Grad - 6135 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | United States | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | United States | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
+| Shield AI | EWIS Harness Design - Engineer I - New Grad | Washington | [Apply](https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411) | 2026-11-13 |
+| Shield AI | RF Engineer I - New Grad (R6108) | Washington | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
 | The Boeing Company | C-17 Design and Analysis Engineer (Entry Level or Associate) | USA Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-2) | 2026-11-13 |
 | The Boeing Company | Entry Level Methods Process Analyst | USA North Charleston, SC | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Methods-Process-Analyst_JR2026528633) | 2026-11-13 |
 | The Boeing Company | Entry-Level Estimator | USA Hazelwood, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Estimator_JR2026529307-1) | 2026-11-13 |
