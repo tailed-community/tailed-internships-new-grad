@@ -5021,7 +5021,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Alice L. Walton School of Medicine | 2027 Art Management Summer Intern | Bentonville, AR | [Apply](https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2027-Art-Management-Summer-Intern_JR2609) | 2026-11-02 |
 | AltaLink | Co-Op Student - Project Support (DA) | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/) | 2026-11-02 |
 | AltaLink | Co-Op Student - SIS Performance and Analytics | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/A571C1BA16/) | 2026-11-02 |
-| AltaLink | COOP Student - General Accounting | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/6640F5A71B/) | 2026-11-02 |
 | AltaLink | Summer Student - Capital Project Performance | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/D04E243B1D/) | 2026-11-02 |
 | AltaLink | Summer Student - CRU Project Support | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/) | 2026-11-02 |
 | AltaLink | Summer Student - Customer Service | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/5FC0FE663C/) | 2026-11-02 |
@@ -11732,6 +11731,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zeiss | Internship in Computer Vision / Calibration Pipelines (f/m/x) | Karlsruhe | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-Computer-Vision---Calibration-Pipelines--f-m-x-_JR_1053916) | 2026-10-12 |
 | Zeiss | Internship in Next-Generation System Interaction with Contextual Voice Command Activation (f/m/x) | Oberkochen | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-in-Next-Generation-System-Interaction-with-Contextual-Voice-Command-Activation--f-m-x-_JR_1053956) | 2026-10-12 |
 | Covestro | Lab Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Lab-Intern_JR-2026-02301) | 2026-10-11 |
+| HyperLight | R&D Operations & Automation Engineer Intern | Massachusetts, United States | [Apply](https://apply.workable.com/hyperlight/j/4660E1BB17/) | 2026-10-11 |
 | KLA - Search | Technical Intern (R&D) | Singapore | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Singapore-Singapore/Technical-Intern--R-D-_2636416) | 2026-10-11 |
 | Loblaw Companies | Student Service Part Time Day | Oakville, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/173-Lakeshore-Rd-W-Oakville-ON/Student-Service-Part-Time-Day_R2000719472) | 2026-10-11 |
 | Loblaw Companies | Student, Franchise Part Time Day Greenlight Requisition | Tillsonburg, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/671-Broadway-St-Tillsonburg-ON/Student--Franchise-Part-Time-Day-Greenlight-Requisition_R2000719430) | 2026-10-11 |

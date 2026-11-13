@@ -880348,20 +880348,6 @@
     "date_archived": "2026-10-29"
   },
   {
-    "id": "workable-hyperlight-6158948",
-    "company": "HyperLight",
-    "title": "R&D Operations & Automation Engineer Intern",
-    "location": "Cambridge, Massachusetts, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/hyperlight/j/4660E1BB17/",
-    "date_posted": "2026-09-28",
-    "date_added": "2026-10-11",
-    "active": false,
-    "date_archived": "2026-10-29"
-  },
-  {
     "id": "workable-luminance-4921513",
     "company": "Luminance",
     "title": "AI Engineering Intern",
@@ -1045124,6 +1045110,20 @@
     "url": "https://ats.rippling.com/createmusicgroup/jobs/44b6f41c-96c7-4909-a005-0914505aeba0",
     "date_posted": null,
     "date_added": "2026-10-12",
+    "active": false,
+    "date_archived": "2026-11-13"
+  },
+  {
+    "id": "workable-altalink-6131359",
+    "company": "AltaLink",
+    "title": "COOP Student - General Accounting",
+    "location": "Calgary, Alberta, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/altalink/j/6640F5A71B/",
+    "date_posted": "2026-10-26",
+    "date_added": "2026-11-02",
     "active": false,
     "date_archived": "2026-11-13"
   }
