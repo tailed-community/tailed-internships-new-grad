@@ -12,6 +12,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fresenius Medical Care | New Graduate RN | Oxnard, United States / Ventura, United States / Ca129 Norwalk East CA Clinic / Ca288 Fmcna East Olympic La Rai Clinic | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Oxnard-CA-USA/New-Graduate-RN_R0277140) | 2026-11-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate Thoracic Intensive Care Unit | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Thoracic-Intensive-Care-Unit_R189738) | 2026-11-14 |
 | Ocean Optics | Business Development Specialist - Global Energy & Emerging Markets (Early Career) | Scottsdale / Georgia | [Apply](https://halma.wd3.myworkdayjobs.com/halma/job/Scottsdale/Business-Development-Specialist---Global-Energy---Emerging-Markets--Early-Career-_JR26_001286) | 2026-11-14 |
+| Shield AI | Software Engineer I - Internal Tools (New Grad) - R6052 | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | 2026-11-14 |
 | AECOM | Entry-Level Environmental Scientist -  Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161512490) | 2026-11-13 |
 | Banner Health | RN New Graduate Cardiac Progressive Care Unit | Wyoming Medical Center Central (1233 E Second St) | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/RN-New-Graduate-Cardiac-Progressive-Care-Unit_R4460877) | 2026-11-13 |
 | Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428) | 2026-11-13 |
@@ -48,22 +49,22 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Seattle, WA - Diablo Tools - DAT | Seattle, WA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377959) | 2026-11-13 |
 | Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177128) | 2026-11-13 |
 | Securitas | Security Officer - Entry Level | Battle Creek, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177126) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad | California | [Apply](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts | [Apply](https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington | [Apply](https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0) | 2026-11-13 |
-| Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington | [Apply](https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6) | 2026-11-13 |
-| Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington | [Apply](https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2) | 2026-11-13 |
-| Shield AI | Engineer I, PCB - New Grad (R6065) | Washington | [Apply](https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | United States | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
-| Shield AI | Engineer I, Software - New Grad - 6531 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Perception - New Grad - 6135 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | United States | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | D.c. | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | United States | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
-| Shield AI | EWIS Harness Design - Engineer I - New Grad | Washington | [Apply](https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411) | 2026-11-13 |
-| Shield AI | RF Engineer I - New Grad (R6108) | Washington | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts, United States | [Apply](https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a) | 2026-11-13 |
+| Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0) | 2026-11-13 |
+| Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6) | 2026-11-13 |
+| Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2) | 2026-11-13 |
+| Shield AI | Engineer I, PCB - New Grad (R6065) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Remote | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
+| Shield AI | Engineer I, Software - New Grad - 6531 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Perception - New Grad - 6135 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Remote | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Remote | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
+| Shield AI | EWIS Harness Design - Engineer I - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411) | 2026-11-13 |
+| Shield AI | RF Engineer I - New Grad (R6108) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
 | WSP | Early Career Geologist | Redmond, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99423) | 2026-11-13 |
 | Adobe | 2027 University Graduate - Data Scientist | San Jose | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | 2026-11-12 |
@@ -373,8 +374,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Relling | Robotics Software Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | 2026-11-02 |
 | Rendezvous Robotics | Avionics Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464258009) | 2026-11-02 |
 | Rendezvous Robotics | Flight Software Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) | 2026-11-02 |
-| Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington | [Apply](https://jobs.ashbyhq.com/shield/35306be5-82af-4251-8e6a-36d686d09ae8) | 2026-11-02 |
-| Shield AI | Software Development Engineer - New Graduate | California | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606) | 2026-11-02 |
+| Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/35306be5-82af-4251-8e6a-36d686d09ae8) | 2026-11-02 |
+| Shield AI | Software Development Engineer - New Graduate | California, United States | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606) | 2026-11-02 |
 | State of North Carolina | Assistant District Attorney - Entry Level | New Hanover County, NC | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/New-Hanover-County-NC/Assistant-District-Attorney---Entry-Level_JR-127780) | 2026-11-02 |
 | Unity | U-Accelerate : Développeur(euse) de logiciels, nouveau(elle) diplômé(e) // U-Accelerate: Software Developer, New Grad | Montreal, Canada | [Apply](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768) | 2026-11-02 |
 | Verkada | Backend Software Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | 2026-11-02 |
