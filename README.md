@@ -40,6 +40,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Loblaw Companies | Student, Franchise Part Time Day | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/42-Hanna-Ave-Toronto-ON/Student--Franchise-Part-Time-Day_R2000733680) | 2026-11-15 |
 | Loblaw Companies | Student, Franchise Part Time Day Greenlight Requisition | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/372-Pacific-Ave-Toronto-ON/Student--Franchise-Part-Time-Day-Greenlight-Requisition_R2000733783) | 2026-11-15 |
 | Marvell | Software/Firmware Engineering Intern | Petah-Tikva | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/Software-Firmware-Engineering_2604496) | 2026-11-15 |
+| Northwell Health | Emerging Technology & AI Internship | Nassau, United States | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746) | 2026-11-15 |
 | NVIDIA | Software Engineering Intern, Test Development - 2027 | Shanghai | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2027707) | 2026-11-15 |
 | Parsons | Bridge Engineering Intern - Summer 2027 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Bridge-Engineering-Intern---Summer-2027_R187033-1) | 2026-11-15 |
 | Parsons | Roadway Engineering Intern - Summer 2027 | Not Specified | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Roadway-Engineering-Intern---Summer-2027_R187080) | 2026-11-15 |
@@ -755,7 +756,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Graco | Engineering Technician Intern | Minnesota, United States | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Engineering-Technician-Intern_R0024145) | 2026-11-12 |
 | GreatAmerica | Sales Professional Intern - OEG | Cedar Rapids, IA | [Apply](https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Sales-Professional-Intern---OEG_JR1260) | 2026-11-12 |
 | Guidepoint | Talent Acquisition Intern | Japan | [Apply](https://job-boards.greenhouse.io/guidepoint/jobs/8938678002) | 2026-11-12 |
-| GuideWell Mutual | 26-27 Actuarial Intern III | FL, United States | [Apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42315) | 2026-11-12 |
 | Hewlett Packard Enterprise | Data Services Business Support - Part Time Internship | Spain | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Las-Rozas-Madrid-Spain/Data-Services-Business-Support---Part-Time-Internship_1217184) | 2026-11-12 |
 | Hewlett Packard Enterprise | Ph D/Research Intern - AI Research Lab | India | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/Research-PhD_1191423-1) | 2026-11-12 |
 | Highmark Health | Summer 2027 BluePrint & Estimation Architect enGen Undergraduate Intern | 51 Locations | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-BluePrint---Estimation-Architect-enGen-Undergraduate-Intern_J291551) | 2026-11-12 |
@@ -6567,6 +6567,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cummins | 2027 Undergraduate Engineering Internship | Australia | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440779) | 2026-10-22 |
 | Cummins | Manufacturing Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439835) | 2026-10-22 |
 | Cummins | Manufacturing Summer Internship Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927) | 2026-10-22 |
+| Cummins | Placement Student - Test Engineering | Gwent, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439846) | 2026-10-22 |
 | Cummins | Purchasing Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439926) | 2026-10-22 |
 | David Yurman | 3D Design Intern | New York, NY | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/XMLNAME-3D-Design-Intern_R-101152-1) | 2026-10-22 |
 | David Yurman | Costing Intern | New York, NY | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Costing-Intern_R-101151) | 2026-10-22 |
@@ -8423,7 +8424,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Continental | Project- Automation Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/Continental/744000155320932) | 2026-10-13 |
 | DNV | Account Receivable - Intern | Singapore | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7766) | 2026-10-13 |
 | EisnerAmper | 2027 Assurance Winter Intern - Affordable Housing | Atlanta | [Apply](https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Atlanta/XMLNAME-2027-Assurance-Winter-Intern---Affordable-Housing_Req-7097) | 2026-10-13 |
-| Emerson Electric | Shipping Support Intern | Italy | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012036) | 2026-10-13 |
 | EXP | Structural Intern - Bridges | Chicago, IL, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113292) | 2026-10-13 |
 | Ferrovial | Webber - Field Engineer Intern - Heavy Civil | Pensacola, FL | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Pensacola-FL/Webber---Field-Engineer-Intern---Heavy-Civil_JR19772) | 2026-10-13 |
 | Figma | PhD Intern, Software Engineer - Graphics (2027) | CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | 2026-10-13 |
@@ -9065,7 +9065,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Watts Water | Heat Pump Product Engineering Intern, Summer 2027 | Fort Worth, TX | [Apply](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Heat-Pump-Product-Support-Summer-Intern-2027_10017704) | 2026-10-09 |
 | White Cap Supply Holdings | Corporate Intern - Product Strategy/Category Management | Atlanta_30360 | [Apply](https://whitecap.wd1.myworkdayjobs.com/careers/job/Atlanta_30360/Corporate-Intern---Product-Strategy-Category-Management_WCJR-036680) | 2026-10-09 |
 | WSP | Traffic Engineering Co-op - Spring/Summer 2027 | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97206) | 2026-10-09 |
-| WTW | 2027 ICT Technology Software Engineering Intern – Reigate | Surrey, United Kingdom | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435) | 2026-10-09 |
 | Zebra | 2026 Summer Intern (Penang) IT  - 6 months duration | Malaysia | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Penang-Malaysia/Intern--Support-II_JR103577) | 2026-10-09 |
 | Zeiss | Internship / Working Student – Physics Simulation for Medical Soft-Body Modeling (f/m/x) | Karlsruhe | [Apply](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship---Working-Student---Physics-Simulation-for-Medical-Soft-Body-Modeling--f-m-x-_JR_1053846-2) | 2026-10-09 |
 | Zoetis | Laboratory Animal Behavior Intern | Lincoln | [Apply](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Animal-Behavior-Intern_JR00021718-2) | 2026-10-09 |

@@ -512,7 +512,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Netherlands Amsterdam | [Apply](https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679) | 2026-10-15 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Italy Milan | [Apply](https://jobs.lever.co/veeva/d2af3300-1eb4-47ab-a198-5031e6f366ba) | 2026-10-15 |
 | Anduril | 2027 Early Career Associate Product Designer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | 2026-10-14 |
-| Dell Technologies | Finance Graduate Program - Future (2027) and Fresh (2026) Graduates | Slovakia | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300694) | 2026-10-14 |
 | Edwards Lifesciences | Clinical Graduate Program | Germany-Field | [Apply](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Germany-Field/Clinical-Graduate-Program_Req-51322) | 2026-10-14 |
 | Intermountain Healthcare | Registered Nurse New Graduate Medical Endocrine | Intermountain Health Intermountain Medical Center | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-New-Graduate-Medical-Endocrine_R186641-1) | 2026-10-14 |
 | Salesforce | Commercial Graduate Program - Sales Path - Danish Speaking Market | Ireland Dublin | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Danish-Market_JR362645-1) | 2026-10-14 |
@@ -1028,7 +1027,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
 | General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
 | General Matter | Test Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375985008) | 2026-08-24 |
-| Hilton Worldwide | Cook III/Prep/Entry Level Cook | Panama | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/209705) | 2026-08-24 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Medford, OR) | Oregon | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Oregon/Entry-Level-Associate-Neurophysiologist--Medford--OR-_JR107359) | 2026-08-22 |
 | Olsson | Entry Level Civil Engineer (Rail Track) | Loveland, CO / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5398029008) | 2026-08-22 |
 | Barr | Environmental Engineer – Entry Level (Hybrid) | Minneapolis, MN | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Environmental-Engineer---Entry-Level--Hybrid-_R-102267) | 2026-08-21 |
