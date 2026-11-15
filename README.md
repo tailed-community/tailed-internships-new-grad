@@ -35,6 +35,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Generac | EHS Intern | Wi USA | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Whitewater-WI---USA/EHS-Intern_JR18055) | 2026-11-15 |
 | Hy-Vee | Retail Pharmacy Intern | Cedar Rapids, IA | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Cedar-Rapids-Drugstore-5-Blairs-Ferry-Rd-Cedar-Rapids-IA/Retail-Pharmacy-Intern_R261719) | 2026-11-15 |
 | International Rescue Committee (IRC) | Immigration Legal Services Intern (Spring 2027) | Md USA | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Baltimore-MD-USA/Immigration-Legal-Services-Intern--Spring-2027-_JR00005566) | 2026-11-15 |
+| Jobs for Humanity | Marketing and sales student | Saudi Arabia | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000161673519) | 2026-11-15 |
 | Loblaw Companies | Personal Shopper Student Part Time Day Greenlight Requisition | Vaughan, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/2911-Major-MacKenzie-Drive-Vaughan-ON/Personal-Shopper-Student-Part-Time-Day-Greenlight-Requisition_R2000733664) | 2026-11-15 |
 | Loblaw Companies | Student Part Time Day Greenlight Requisition | Vaughan, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/8585-Highway-27-RR-3-Vaughan-ON/Student-Part-Time-Day-Greenlight-Requisition_R2000733746) | 2026-11-15 |
 | Loblaw Companies | Student, Franchise Part Time Day | Toronto, ON | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/42-Hanna-Ave-Toronto-ON/Student--Franchise-Part-Time-Day_R2000733680) | 2026-11-15 |
@@ -1331,7 +1332,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Accenture | [IT One] SAP FI (Internship) | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-Tipco-Tower/XMLNAME--IT-One--SAP-FI--Internship-_14642539) | 2026-11-10 |
 | Accenture | Payroll Internship | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Payroll-Internship_14811479) | 2026-11-10 |
 | Accenture | Talent & Organization Analyst - Intern | Not Specified | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Talent---Organization-Analyst---Intern_R00370248) | 2026-11-10 |
-| Accor | Alternance – Chargé(e) de Communication Interne & Digitale (H/F) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000160906612) | 2026-11-10 |
 | Accor | B2B Events Coordinator (F/H/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000160840459) | 2026-11-10 |
 | Accor | Internship - CONSUMER & MARKET INSIGHTS ACCOR PM&E (F/M/X) | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000160889779) | 2026-11-10 |
 | Acushnet Holdings | Summer 2027 MBA Corporate Finance Intern | Massachusetts, United States | [Apply](https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Fairhaven-Massachusetts-United-States-of-America/Summer-2027-MBA-Corporate-Finance-Intern_Req102030-1) | 2026-11-10 |
@@ -4311,7 +4311,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | STAGE - Assistant(e) Chef de Projet Commercial Excellence - Janvier 2027 | Paris | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/STAGE---Assistant-e--Chef-de-Projet-Commercial-Excellence---Janvier-2027_JR135240-1) | 2026-11-02 |
 | Richemont | Stage - Chargé(e) HSE | Chateauneuf-Sur-Isere | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/CHATEAUNEUF-SUR-ISERE/Stage---Charg-e--HSE_JR135450-2) | 2026-11-02 |
 | Richemont | Stage- Assistant(e) Matériaux Innovation (H/F) | Lyon | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/LYON/Stage--Assistant-e--Matriaux-Innovation--H-F-_JR135482-1) | 2026-11-02 |
-| Robert Bosch Venture Capital | HR Graduate | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159196329) | 2026-11-02 |
 | Robert Bosch Venture Capital | Intern, HR (Employer Branding & Talent Engagement) | Singapore | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159108155) | 2026-11-02 |
 | Robert Bosch Venture Capital | Working Student IT Support | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159096995) | 2026-11-02 |
 | Roche | Intern- [Site Services/Admin assistant/ Event Management] | Costa Rica | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Intern---Site-Services-Admin-assistant--Event-Management-_202610-126493) | 2026-11-02 |
@@ -8533,7 +8532,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Richemont | Events Intern - 6 months internship | Meyrin | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MEYRIN/Events-Intern---6-months-internship_JR134778-1) | 2026-10-13 |
 | Richemont | Stage - Winter@Richemont (H/F) | Marne La Vallee | [Apply](https://richemont.wd3.myworkdayjobs.com/richemont/job/MARNE-LA-VALLEE/Stage---Winter-Richemont--H-F-_JR133336-1) | 2026-10-13 |
 | Robert Bosch Venture Capital | Business Operations Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155178609) | 2026-10-13 |
-| Robert Bosch Venture Capital | HR L&D Training Administrator Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155311419) | 2026-10-13 |
 | Robert Bosch Venture Capital | Information Security and Privacy Intern | Farmington Hills, MI, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155120934) | 2026-10-13 |
 | Robert Bosch Venture Capital | Sales Account Management Intern | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155183389) | 2026-10-13 |
 | Roche | Talent Acquisition Intern | Petaling Jaya | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Petaling-Jaya/Talent-Acquisition-Intern_202610-125780) | 2026-10-13 |
@@ -11465,7 +11463,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sezzle | Graphic Design Intern | Colombia | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8003784003) | 2026-09-24 |
 | Sezzle | Product Intern | Colombia | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7695762003) | 2026-09-24 |
 | Sierra Nevada Corporation | Quality Engineer II (For Summer 2026 SNC Interns Only) | Hagerstown, MD | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583) | 2026-09-24 |
-| Smiths Detection Group | O&R Shipping & Receiving Clerk | New Hampshire, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000151626250) | 2026-09-24 |
 | Stand Together | KIP Spring 2027 - Programs & Events Intern - America's Future | Washington, DC | [Apply](https://jobs.lever.co/standtogether/2880654f-d555-44e6-91fe-aee484184917) | 2026-09-24 |
 | Stantec | Civil Engineering Co-op Student - Community Development (Summer 2027) – 16 Month Term | Calgary, AB, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007907) | 2026-09-24 |
 | Stantec | Civil Engineering Intern/Co-op - Infrastructure (Summer 2027) | New York, NY, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956) | 2026-09-24 |

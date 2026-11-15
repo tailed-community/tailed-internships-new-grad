@@ -1154578,5 +1154578,61 @@
     "date_added": "2026-10-09",
     "active": false,
     "date_archived": "2026-11-15"
+  },
+  {
+    "id": "smartrecruiters-accor-744000160906612",
+    "company": "Accor",
+    "title": "Alternance – Chargé(e) de Communication Interne & Digitale (H/F)",
+    "location": "Idf, France",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000160906612",
+    "date_posted": "2026-11-10",
+    "date_added": "2026-11-10",
+    "active": false,
+    "date_archived": "2026-11-15"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000159196329",
+    "company": "Robert Bosch Venture Capital",
+    "title": "HR Graduate",
+    "location": "England, United Kingdom",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159196329",
+    "date_posted": "2026-11-02",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-15"
+  },
+  {
+    "id": "smartrecruiters-robert-bosch-venture-capital-744000155311419",
+    "company": "Robert Bosch Venture Capital",
+    "title": "HR L&D Training Administrator Intern",
+    "location": "England, United Kingdom",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419",
+    "date_posted": "2026-10-13",
+    "date_added": "2026-10-13",
+    "active": false,
+    "date_archived": "2026-11-15"
+  },
+  {
+    "id": "smartrecruiters-smiths-detection-group-744000151626250",
+    "company": "Smiths Detection Group",
+    "title": "O&R Shipping & Receiving Clerk",
+    "location": "New Hampshire, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000151626250",
+    "date_posted": "2026-09-24",
+    "date_added": "2026-09-24",
+    "active": false,
+    "date_archived": "2026-11-15"
   }
 ]
