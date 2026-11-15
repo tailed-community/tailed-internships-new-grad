@@ -25,7 +25,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Allstate Insurance Company - sourcing_event | Commercial Real Estate Investment Intern | Chicago River Point | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Chicago-River-Point/Commercial-Real-Estate-Investment-Intern_R37003) | 2026-11-15 |
 | AT&T | Labs Internship – Advanced Degrees | New Jersey | [Apply](https://att.wd1.myworkdayjobs.com/ATTCollege/job/Bedminster-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-127067) | 2026-11-15 |
 | CareBridge | Legal, Public Affairs and Compliance (LPAC) Intern – Summer 2027 | 7 Locations | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Legal--Public-Affairs-and-Compliance--LPAC--Intern---Summer-2027-_JR212773) | 2026-11-15 |
+| Clera | Founders Associate Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/43eb93b4-4263-40e6-beb6-4b2e2f41cc55) | 2026-11-15 |
+| Clera | Strategic Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/ea11d22a-20a8-435d-8de2-5fea5d4dc60c) | 2026-11-15 |
+| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/43345a4e-7087-4a35-aa3b-a27bf26feb85) | 2026-11-15 |
+| Clera | Working Student, GTM | Germany | [Apply](https://jobs.ashbyhq.com/Clera/d5113651-fd3a-458b-9c54-ca9ea5af8571) | 2026-11-15 |
 | Covestro | Intern | China | [Apply](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Intern_JR-2026-02497-1) | 2026-11-15 |
+| Eight Sleep | Field Service Engineer (Contract or Intern) | California, United States / Los Angeles / New York City | [Apply](https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f) | 2026-11-15 |
 | Fidelity Investments - targeted | Summer 2027 Undergraduate Internship - Operations | Westlake, TX / Boston, MA / Covington, KY / Durham, NC / Jersey City, NJ / Merrimack, NH / Smithfield, RI | [Apply](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Summer-2027-Undergraduate-Internship---Operations_2135425) | 2026-11-15 |
 | Generac | EHS Intern | Wi USA | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Whitewater-WI---USA/EHS-Intern_JR18055) | 2026-11-15 |
 | Hy-Vee | Retail Pharmacy Intern | Cedar Rapids, IA | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Cedar-Rapids-Drugstore-5-Blairs-Ferry-Rd-Cedar-Rapids-IA/Retail-Pharmacy-Intern_R261719) | 2026-11-15 |
@@ -1933,8 +1938,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Civil & Environmental Consultants | Survey Technician Intern - Summer 2027 | Athens, PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6676/survey-technician-intern---summer-2027/job) | 2026-11-09 |
 | Clean Harbors | Compliance Specialist Intern - Summer 2027 | Dugway, UT, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168515) | 2026-11-09 |
 | Clean Harbors | Field Compliance Intern - Summer 2027 | Norwell, MA, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168516) | 2026-11-09 |
-| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/Clera/0c336c0a-2c5b-4758-89c6-8a7631ea6121) | 2026-11-09 |
-| Clera | Founders Associate Intern | Germany | [Apply](https://jobs.ashbyhq.com/Clera/b0ff80ee-39b4-4471-bd9b-96d664111b70) | 2026-11-09 |
 | Continental | HR Automate Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/Continental/744000160706540) | 2026-11-09 |
 | Continental | Legal Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/Continental/744000160688909) | 2026-11-09 |
 | CSA Group | Intern (Technician) | Bangalore | [Apply](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Bangalore/Intern--Technician-_R005092) | 2026-11-09 |
@@ -4288,7 +4291,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hex Technologies | Product Engineer Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30) | 2026-11-02 |
 | Highgate | Intern - Finance (Summer 2027) | New Orleans, LA, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/84929/intern---finance-%28summer-2027%29/job) | 2026-11-02 |
 | Hiya | Engineering Intern (London, Summer 2027) | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947) | 2026-11-02 |
-| Hiya | HR Trainee | Hungary / Remote | [Apply](https://jobs.ashbyhq.com/hiya/adffd637-d0b9-43a7-9782-a32bb52dcc86) | 2026-11-02 |
 | Honeywell | Finance Intern - Controlling & Accounting (m/f/d) | Slovakia | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159047) | 2026-11-02 |
 | Honeywell | Intern Sr Collections Administrator | Czech Republic | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159374) | 2026-11-02 |
 | Honeywell - CX_1 | Finance Intern - Controlling & Accounting (m/f/d) | Slovakia | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159047) | 2026-11-02 |
@@ -8618,9 +8620,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Graco | Communications and Events Intern | USA (french Lake) | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Communications-and-Events-Intern_R0023532) | 2026-10-15 |
 | Granite Construction | Plant Engineer Intern | 6 Locations | [Apply](https://granite.wd1.myworkdayjobs.com/careers/job/Everett-Washington/Plant-Engineer-Intern_R0000008332) | 2026-10-15 |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Remote | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004) | 2026-10-15 |
-| Hawk-Eye Innovations | Student Placement: Cricket (iHawk) Systems Operator | London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/ef200d88-420a-46cb-9078-9e8bc1b1c50c) | 2026-10-15 |
-| Hawk-Eye Innovations | Student Placement: Cricket Systems Operator 27/28 | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/a6cd69b1-253e-4353-a817-eb694ee3e62c) | 2026-10-15 |
-| Hawk-Eye Innovations | Student Placement: Growth Sports Systems Operator 27/28 | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/61128392-cf43-42cb-aa49-aab451b81371) | 2026-10-15 |
 | Hawk-Eye Innovations | Student Placement: Rugby Systems Operator 27/28 | Basingstoke, United Kingdom | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/82240044-3319-4741-8bb3-86d6620aba98) | 2026-10-15 |
 | Hawk-Eye Innovations | Student Placement: Tennis Systems Operator 27/28 | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/hawkeyeinnovations/be7c01bf-a20f-47aa-9e64-ae7e954294db) | 2026-10-15 |
 | Hines | Intern - Asset Management | It-Milan | [Apply](https://careers-hines.icims.com/jobs/14654/intern---asset-management/job) | 2026-10-15 |
