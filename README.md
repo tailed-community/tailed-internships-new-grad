@@ -5771,6 +5771,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Aerospace Corporation | 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate Intern | El Segundo, Canada | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Undergraduate-Intern_R017009) | 2026-10-28 |
 | The Boeing Company | Intern - Student Engineer (Systems Eng) | Gbr Bristol, United Kingdom / Gbr Yeovil, United Kingdom / Gbr Fleet, United Kingdom | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Intern---Student-Engineer--Systems-Eng-_JR2026525683) | 2026-10-28 |
 | The Travelers Companies | Legal Intern | CA Glendale | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CA---Glendale/Legal-Intern_R-52961) | 2026-10-28 |
+| Thea Energy | IT Intern | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/2c19d768-3a56-4227-8e54-379c96a00272) | 2026-10-28 |
 | Trace3 | Cloud FinOps Consulting Intern | Remote | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8329225) | 2026-10-28 |
 | Ubisoft | Intern IT Technician (6-months contract) | Ukraine | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000157801488) | 2026-10-28 |
 | Ubisoft | Localization Assistant – Stage (6 mois) Avril 2027 (F/H/NB) | Idf, France | [Apply](https://jobs.smartrecruiters.com/Ubisoft2/744000158352549) | 2026-10-28 |
@@ -9512,6 +9513,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Travelers Companies | Claim Professional Development Program Intern | Mn St. Paul | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Claim-Professional-Development-Program-Intern_R-53125) | 2026-10-10 |
 | The Travelers Companies | Claim Professional Development Program Intern | Ks Overland Park | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/KS---Overland-Park/Claim-Professional-Development-Program-Intern_R-53127) | 2026-10-10 |
 | The Walt Disney Company | WDI Project Management Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, United States | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Project-Management-Intern--Orlando--Spring-2027_10162766-1) | 2026-10-10 |
+| Thea Energy | Manufacturing Engineering Intern - Spring 2027 | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/9571cb70-2c19-4739-ba46-8e6b43b9c219) | 2026-10-10 |
 | Tyson Foods | Brand Marketing - Year Round Intern | Arkansas | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Brand-Marketing---Year-Round-Intern_R0488261-3) | 2026-10-10 |
 | Universal Health Services | MSW Intern | Wisconsin | [Apply](https://jobs.uhsinc.com/jobs/374280?lang=en-us&icims=1) | 2026-10-10 |
 | Universal Health Services | Therapy / Social Work Intern - Spring 2027 (unpaid) | Texas | [Apply](https://jobs.uhsinc.com/jobs/374540?lang=en-us&icims=1) | 2026-10-10 |
@@ -16671,6 +16673,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | The Andersons | Customer Service Intern (Spring 2027) | Maumee, OH | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Customer-Service-Intern--Spring-2027-_R12463) | 2026-08-31 |
 | The Andersons | eCommerce Content Creator Intern (Spring 2027) | Maumee, OH | [Apply](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/eCommerce-Content-Creator-Intern--Spring-2027-_R12452) | 2026-08-31 |
 | The New School | UC Sewing Student Assistant | U 63 Fifth Avenue | [Apply](https://newschool.wd1.myworkdayjobs.com/external/job/U---63-Fifth-Avenue/UC-Sewing-Student-Assistant_JR109318) | 2026-08-31 |
+| Thea Energy | Physics Intern - Spring/Summer 2027 | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5) | 2026-08-31 |
+| Thea Energy | Test Engineering Intern - Spring 2027 | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad) | 2026-08-31 |
 | Valeo | Stage Administratif dans le domaine de la finance H/F | Châtellerault | [Apply](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chtellerault/Stage-Administratif-dans-le-domaine-de-la-finance-H-F_REQ2025066289) | 2026-08-31 |
 | Varian | Operations Leadership Development Program Intern | Nde G / Wap C / Eki M | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/NDE-G/Operations-Leadership-Development-Program-Intern_R-30337) | 2026-08-31 |
 | Vermeer | Design Engineer Intern - Summer 2027 | USA The Center | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Design-Engineer-Intern---Summer-2027_REQ-22139) | 2026-08-31 |
