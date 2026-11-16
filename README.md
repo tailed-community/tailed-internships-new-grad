@@ -35,6 +35,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | American Bureau of Shipping | Intern / Estagiário | Rio De Janeiro, RJ | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4994) | 2026-11-16 |
 | Anduril | 2027 Industrial Equipment Maintenance Intern | Ohio, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) | 2026-11-16 |
 | Anduril | 2027 Product Marketing Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) | 2026-11-16 |
+| APEX Analytix | QA Automation Intern | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/ebafabc3-be09-477d-94a9-0ba244f52319) | 2026-11-16 |
 | Arcadis | Climate Adaptation Intern | New York, NY, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45656) | 2026-11-16 |
 | Atalanta | Forward Deployed Engineer Intern | District Of Columbia, United States | [Apply](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8) | 2026-11-16 |
 | Atalanta | Software Engineer Intern | District Of Columbia, United States | [Apply](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335) | 2026-11-16 |
@@ -229,6 +230,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fanatics | Summer 2027 Internship - Strategic Finance Intern | New York, NY, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507812009) | 2026-11-16 |
 | Fanatics | Summer 2027 MBA Internship - Licensing Intern | Los Angeles, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507489009) | 2026-11-16 |
 | Fanatics | Summer 2027 MBA Internship - Strategy Intern | Los Angeles, United States | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507770009) | 2026-11-16 |
+| FieldPulse | AI Internship | Dallas, TX | [Apply](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) | 2026-11-16 |
+| FieldPulse | Product Intern | Dallas, TX | [Apply](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | 2026-11-16 |
 | Fonds de solidarité FTQ | Stagiaire en intelligence d’affaires et solutions M365 | Fonds De Solidarité Ftq Siège Social Montréal, Canada | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | 2026-11-16 |
 | Formulary Financial | Software Engineering Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04) | 2026-11-16 |
 | FourKites | Intern - Community & Documentation | Chennai | [Apply](https://job-boards.greenhouse.io/fourkites/jobs/8370603) | 2026-11-16 |
@@ -272,6 +275,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Illinois Tool Works | Summer 2027 Technical Writing Intern | Mts Headquarters | [Apply](https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Technical-Writing-Intern_JR10355) | 2026-11-16 |
 | Illinois Tool Works | Technical Writing Intern | Appleton-1635 W Spencer | [Apply](https://itw.wd5.myworkdayjobs.com/external/job/Appleton-1635-W-Spencer/Technical-Writing-Intern_JR10123) | 2026-11-16 |
 | Illinois Tool Works | Welding Engineering Intern | Appleton-1635 W Spencer | [Apply](https://itw.wd5.myworkdayjobs.com/external/job/Appleton-1635-W-Spencer/Welding-Engineering-Intern_JR10125) | 2026-11-16 |
+| InsCipher | Accountant Intern | Pleasant Grove, UT | [Apply](https://ats.rippling.com/inscipher-careers/jobs/5a5a7aff-aac5-4bdf-b9dd-37a49e11cc52) | 2026-11-16 |
+| InsCipher | AI Product Intern | Pleasant Grove, UT | [Apply](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | 2026-11-16 |
 | Integration Innovation (i3) | Embedded Systems Reverse Engineer Intern | D.c. | [Apply](https://careers-i3-corps.icims.com/jobs/5588/embedded-systems-reverse-engineer-intern/job) | 2026-11-16 |
 | International | AI/ML Intern | Illinois | [Apply](https://careers.international.com/jobs/60456?lang=en-us&icims=1) | 2026-11-16 |
 | International | Digital & AI Intern for Service Solutions | Illinois | [Apply](https://careers.international.com/jobs/60706?lang=en-us&icims=1) | 2026-11-16 |
@@ -5376,7 +5381,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Constellation Energy | Summer 2027 Technical Maintenance Internship - Middletown, PA (ASSOCIATE'S DEGREE ONLY) | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/138598?lang=en-us&icims=1) | 2026-09-29 |
 | Dark Wolf Solutions | Creighton University College Fair - Internship | Omaha, NE | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8007372003) | 2026-09-29 |
 | Democratic National Committee | Spring 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/82425705-86cd-4211-863c-cef022329b0f) | 2026-09-29 |
-| Democratic National Committee | Spring 2027 DNC Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/4806dd61-2e46-4814-a2cd-b00b9e50bb18) | 2026-09-29 |
 | Democratic National Committee | Summer 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/152213e1-54d9-4b2c-9511-96eb02f38241) | 2026-09-29 |
 | Democratic National Committee | Summer 2027 DNC Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/05aee341-a46e-4a53-8bb0-ee4a45187219) | 2026-09-29 |
 | DNV | Internship Customer & Process Data Quality | Italy | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7650) | 2026-09-29 |
@@ -5983,7 +5987,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WTW | Early Careers: Integrated and Global Solutions Internship- Fall 2027 | New York, NY, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606119) | 2026-09-22 |
 | Xcimer Energy | Summer 2027 Internship - Controls Systems Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) | 2026-09-22 |
 | 4AG Robotics | AI Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-21 |
-| 4AG Robotics | Robotics Software Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - Construction, Civil & Environmental Engineering Career Fair | Columbus, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692494) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - MSU Civil & Environmental Engineering Career Fair 2026 | Detroit, MI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692859) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - Pigman Civil Engineering Career Expo | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692589) | 2026-09-21 |

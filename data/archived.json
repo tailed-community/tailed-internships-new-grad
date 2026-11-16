@@ -1292478,5 +1292478,33 @@
     "date_added": "2026-09-07",
     "active": false,
     "date_archived": "2026-11-16"
+  },
+  {
+    "id": "rippling-4ag-robotics-71d97d10-87f2-4f53-88b7-97f27f392d24",
+    "company": "4AG Robotics",
+    "title": "Robotics Software Co-op Student (Winter 2027)",
+    "location": "Salmon Arm, Canada",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
+    "date_posted": null,
+    "date_added": "2026-09-21",
+    "active": false,
+    "date_archived": "2026-11-16"
+  },
+  {
+    "id": "rippling-democratic-national-committee-4806dd61-2e46-4814-a2cd-b00b9e50bb18",
+    "company": "Democratic National Committee",
+    "title": "Spring 2027 DNC Legal Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/4806dd61-2e46-4814-a2cd-b00b9e50bb18",
+    "date_posted": null,
+    "date_added": "2026-09-29",
+    "active": false,
+    "date_archived": "2026-11-16"
   }
 ]
