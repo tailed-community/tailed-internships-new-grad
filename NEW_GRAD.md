@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
+| Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161817101) | 2026-11-16 |
+| Avery Dennison | Ingénieur Production / Opérations – Graduate Program (H/F) | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161780376) | 2026-11-16 |
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/85b040e5-139a-48bb-9dee-474eb8b376f9) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | Ebensburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15131/entry-level-electrical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | State College, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15130/entry-level-electrical-engineer/job) | 2026-11-16 |
@@ -24,12 +27,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Geotechnical Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99546) | 2026-11-16 |
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Atlantic Region | 3 Locations | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Halifax-NS/Associate--Commercial-Banking-Associate-Program---New-Grad---Atlantic-Region_2623442-1) | 2026-11-14 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161580839) | 2026-11-14 |
-| Eurofins | Upstream Process Development Engineer (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161585519) | 2026-11-14 |
 | Shield AI | Software Engineer I - Internal Tools (New Grad) - R6052 | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | 2026-11-14 |
 | AECOM | Entry-Level Environmental Scientist -  Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161512490) | 2026-11-13 |
 | Barclays | S&T- Delta One Trading Analyst Graduate Program 2027 New York | New York | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428) | 2026-11-13 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | India | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003) | 2026-11-13 |
-| Eurofins | Entry Level Business Application Specialist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161537929) | 2026-11-13 |
 | Harvard University | Graduate Program Coordinator | Cambridge, MA, United States | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016835366) | 2026-11-13 |
 | Kyndryl | Early Career Program - Cloud Operations | Hungary | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Budapest-Hungary/Early-Career-Program---Cloud-Operations_R-71931-2) | 2026-11-13 |
 | Kyndryl | Early Career Program - Mainframe Systems Administration | Szekesfehervar (huszealb) Alba Mall | [Apply](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Szekesfehervar-HUSZEALB-Alba-Mall/Early-Career-Program---Mainframe-Systems-Administration_R-71926-2) | 2026-11-13 |
@@ -63,7 +64,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
 | WSP | Early Career Geologist | Redmond, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99423) | 2026-11-13 |
 | AECOM | Entry-Level Electrical Engineer | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161349180) | 2026-11-12 |
-| Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161253882) | 2026-11-12 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003) | 2026-11-12 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | North Carolina, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003) | 2026-11-12 |
 | City of Greeley | Facilities Service Worker - Seasonal - Entry Level | Greeley, CO, United States | [Apply](https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2826) | 2026-11-12 |
@@ -275,7 +275,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | CannonDesign | Interior Designer - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8906456002) | 2026-10-22 |
 | DH Pace | Project Administrator-Entry level | Springfield Mo | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5456964008) | 2026-10-22 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook PT | Oklahoma City, OK, United States | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228326) | 2026-10-22 |
-| Jobs for Humanity | Entry Level Management Associate | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157080519) | 2026-10-22 |
 | True Anomaly | Propulsion Engineer I (New Grad) | Denver, CO | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007) | 2026-10-22 |
 | AECOM | Entry-Level Bridge Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156587483) | 2026-10-21 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156412059) | 2026-10-21 |
