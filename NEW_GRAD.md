@@ -440,7 +440,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | 2027 UR Early Career Program-IA HTS UR Tech Supp Professional | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157454) | 2026-09-10 |
 | Securitas | Entry Level Security Officer | Saginaw, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174674) | 2026-09-10 |
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
-| Wade Trim | Entry Level Civil/Environmental Engineer - #3040 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/b0084dcc-892e-4d64-854c-8a84dac48a39) | 2026-09-10 |
 | Dexterra Group | Construction Laborer – Entry Level (contract) | Edmonton, AB, Canada | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000148325920) | 2026-09-09 |
 | Honeywell | 2027 UR Early Career Program-Application/Sys Sales Eng I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157448) | 2026-09-09 |
 | Honeywell | 2027 UR Early Career Program-Software Engr I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157279) | 2026-09-09 |
