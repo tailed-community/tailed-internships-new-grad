@@ -18,6 +18,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Gannet Fleming | Entry Level Structural Engineer | Chicago, IL, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14954/entry-level-structural-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14756/entry-level-substation-engineer/job) | 2026-11-16 |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5483154008) | 2026-11-16 |
+| Weatherford | Field Engineer - NextGen Graduate Program | Australia | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/108486) | 2026-11-16 |
+| WSP | Early Career Bridge Inspection Engineer | Troy, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99532) | 2026-11-16 |
+| WSP | Early Career Civil Engineer | Buffalo, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99527) | 2026-11-16 |
+| WSP | Early Career Geotechnical Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99546) | 2026-11-16 |
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Atlantic Region | 3 Locations | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Halifax-NS/Associate--Commercial-Banking-Associate-Program---New-Grad---Atlantic-Region_2623442-1) | 2026-11-14 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161580839) | 2026-11-14 |
 | Eurofins | Upstream Process Development Engineer (Entry Level) | West Point, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161585519) | 2026-11-14 |
@@ -121,7 +125,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5368712008) | 2026-11-06 |
 | Cummins | 2027 Early Career - Product Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437228) | 2026-11-06 |
 | Hunt Oil Company | Entry Level Sales Representative for Telecommunications Company | Dallas, TX, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1088) | 2026-11-06 |
-| WSP | Early Career Traffic Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99017) | 2026-11-06 |
 | Advanced Technology Services (ATS) | Entry Level Industrial Electronics Repair Technician | Illinois | [Apply](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4726443006) | 2026-11-05 |
 | BGE | NASHVILLE - Land/Site Development, New Grad | Tennessee, United States | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5474192008) | 2026-11-05 |
 | BGE - bgeinc | NASHVILLE - Land/Site Development, New Grad | Tennessee, United States | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5474191008) | 2026-11-05 |
@@ -222,7 +225,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veolia | Entry Level Wastewater Technician | Marinette, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387865) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Oconto, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158386790) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Lena, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387519) | 2026-10-29 |
-| WSP | Early Career Civil/Structural Engineer - Renewables | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96745) | 2026-10-29 |
 | WSP | Early Career Electrical Engineer - Renewables | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96744) | 2026-10-29 |
 | AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158335424) | 2026-10-28 |
 | Avery Dennison | Procurement Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000157865740) | 2026-10-28 |
@@ -247,7 +249,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Matter | Integrated Safety Analysis Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5430858008) | 2026-10-27 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Stantec | Entry Level Designer/Structural EIT | Las Cruces, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008529) | 2026-10-27 |
-| WSP | Early Career Civil Engineer | Raleigh, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98268) | 2026-10-27 |
 | Jobs for Humanity | Entry Level Client Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157674579) | 2026-10-26 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Tampa, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157606559) | 2026-10-24 |
 | AECOM | Entry-Level Biologist – Hiring Event with AECOM – Coral Gables, FL | Orlando, FL, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000157603460) | 2026-10-24 |
@@ -653,6 +654,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
 | General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
 | General Matter | Test Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375985008) | 2026-08-24 |
+| Hilton Worldwide | Cook III/Prep/Entry Level Cook | Panama | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/209705) | 2026-08-24 |
 | Integration Innovation (i3) | Entry Level Software Engineer | Huntsville, AL, United States | [Apply](https://careers-i3-corps.icims.com/jobs/5218/entry-level-software-engineer/job) | 2026-08-22 |
 | Olsson | Entry Level Civil Engineer (Rail Track) | Loveland, CO / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5398029008) | 2026-08-22 |
 | Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) | 2026-08-22 |
@@ -744,7 +746,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SpaceX | Entry-Level Production Technician, PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
 | WTW | Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting & Technology - Gurugram | India | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904) | 2026-07-31 |
 | Evonik | Process Engineer - 2026/2027 University Graduate (ETAD program) | Mobile, AL | [Apply](https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Mobile-AL/Process-Engineer---2026-2027-University-Graduate--ETAD-program-_R50603) | 2026-07-30 |
-| WSP | Early Career Substation Mechanical Engineer | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91999) | 2026-07-29 |
 | Bot Auto | Algorithm Engineer, Deep Learning & Vision (New Grad) | Houston, TX | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5371947008) | 2026-07-28 |
 | CannonDesign | Designer - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8652909002) | 2026-07-28 |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4700278006) | 2026-07-28 |
