@@ -32,6 +32,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Engineering Intern | Cleveland, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161861399) | 2026-11-16 |
 | Aerotek | Sales Internship | Daniel Island, SC, United States | [Apply](https://careers-aerotek.icims.com/jobs/14191/sales-internship/job) | 2026-11-16 |
 | AIMCo | Student, Workplace Experience | Edmonton | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Workplace-Experience_JR100953) | 2026-11-16 |
+| AMAX | R&D Engineering Intern | California, United States | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/) | 2026-11-16 |
 | American Bureau of Shipping | Intern / Estagiário | Rio De Janeiro, RJ | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4994) | 2026-11-16 |
 | Anduril | 2027 Industrial Equipment Maintenance Intern | Ohio, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) | 2026-11-16 |
 | Anduril | 2027 Product Marketing Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) | 2026-11-16 |
@@ -130,6 +131,25 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Avery Dennison | HR Intern (Bangalore) | India | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161769499) | 2026-11-16 |
 | Avery Dennison | HR Intern (Bangalore) Paid - 6 Months | India | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161768650) | 2026-11-16 |
 | AXA | Praktikum Social Media/Employer Branding (m/w/d) | Germany | [Apply](https://careers.axa.com/jobs/30681?lang=en-us&icims=1) | 2026-11-16 |
+| Bask Health | AI Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/F0E122E877/) | 2026-11-16 |
+| Bask Health | AI Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9D7E69054E/) | 2026-11-16 |
+| Bask Health | Creative Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/24DD93E3BA/) | 2026-11-16 |
+| Bask Health | Customer Success Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/F97DED6047/) | 2026-11-16 |
+| Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
+| Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
+| Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
+| Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
+| Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
+| Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
+| Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
+| Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
+| Bask Health | Product Operations Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/) | 2026-11-16 |
+| Bask Health | Software Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/) | 2026-11-16 |
+| Bask Health | Technical Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/63058F60EC/) | 2026-11-16 |
+| Bask Health | Technical Support Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/0F7C20F77C/) | 2026-11-16 |
+| Bask Health | UX Research Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1F58DD2D0A/) | 2026-11-16 |
+| Bask Health | UX Writing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E35FFA0BD1/) | 2026-11-16 |
+| Belmond | Spa Receptionist and Quality Intern - La Residencia, a Belmond Hotel (Mallorca) | Spain | [Apply](https://apply.workable.com/belmond-uk-ltd/j/E396F4FF33/) | 2026-11-16 |
 | Bertelsmann | Events and public relations internship – 6 months (m/f/d) | Neuilly Sur Seine, France | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000161762560) | 2026-11-16 |
 | Bertelsmann | Intern Video Editing (w/m/d) | Germany | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000161738594) | 2026-11-16 |
 | BGE | KATY - GIS Intern | Katy | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5483695008) | 2026-11-16 |
@@ -1730,7 +1750,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AXA | Internship - Data & Actuary CAT NAT | Paris, France | [Apply](https://careers.axa.com/jobs/30272?lang=en-us&icims=1) | 2026-11-05 |
 | AXA | Internship - Flood Nat Cat Analyst - March 2027 | Paris, France | [Apply](https://careers.axa.com/jobs/30274?lang=en-us&icims=1) | 2026-11-05 |
 | AXA | Werkstudent Prozessautomatisierung & Microsoft 365 (m/w/d) | Germany | [Apply](https://careers.axa.com/jobs/30278?lang=en-us&icims=1) | 2026-11-05 |
-| Ballotpedia | Editorial or Communications Spring 2027 Internship Program (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/DF762B8021/) | 2026-11-05 |
+| Ballotpedia | Editorial Spring 2027 Internship Program (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/DF762B8021/) | 2026-11-05 |
 | Ballotpedia | GIS Analyst Spring 2027 Internship (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/4AF879CDEA/) | 2026-11-05 |
 | Belmond | Finance Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/B61BC347D5/) | 2026-11-05 |
 | Belmond | Human Resources Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A1E17B02FB/) | 2026-11-05 |
@@ -2139,10 +2159,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AltaLink | Summer Student - CRU Project Support | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/) | 2026-11-02 |
 | AltaLink | Summer Student - Customer Service | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/5FC0FE663C/) | 2026-11-02 |
 | AltaLink | Summer Student - Environment | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/0BF04A3809/) | 2026-11-02 |
-| AltaLink | Summer Student - Protection & Control Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/33683C43CF/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
 | AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
-| AltaLink | Summer Student - Substation Technologist | Acheson, AB, Canada | [Apply](https://apply.workable.com/altalink/j/126ECBB327/) | 2026-11-02 |
 | Astronics | Supply Chain Internship - Summer 2027 | Washington, United States | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) | 2026-11-02 |
 | AtriCure | Digital Marketing Intern- Spring 2027 | Minnetonka, MN | [Apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4425828009) | 2026-11-02 |
 | AtriCure | Engineering Co-op Spring 2027 | Mason, OH | [Apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4397632009) | 2026-11-02 |
@@ -4443,7 +4461,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CapTech Consulting | Consulting Internship: Business Systems Analyst (Summer 2027) | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155060459) | 2026-10-12 |
 | CapTech Consulting | Consulting Internship: Data Analysis/Data Engineering  (Summer 2027) | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) | 2026-10-12 |
 | CapTech Consulting | Consulting Internship: Software Engineering (Summer 2027) | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115) | 2026-10-12 |
-| Capula | 2027 Technology Internship | England, United Kingdom | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/96EBCF5617/) | 2026-10-12 |
 | Carollo Engineers | Civil/Environmental Engineering Intern - Summer 2027 | Dallas, TX, United States | [Apply](https://careers-carollo.icims.com/jobs/4656/civil-environmental-engineering-intern---summer-2027/job) | 2026-10-12 |
 | Cboe | Software Engineer Intern (C++) | Kansas City, MO | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726) | 2026-10-12 |
 | Clēnera | Asset Management Intern (Summer 2027) | Idaho, United States | [Apply](https://job-boards.greenhouse.io/clenera/jobs/5259476007) | 2026-10-12 |
@@ -4773,7 +4790,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bedrock Robotics | 2027 Internship Test Operations Engineer | Texas, United States | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a) | 2026-10-06 |
 | Blue Cross Blue Shield of Michigan | 2027 Summer Intern - Facilities Management | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14649) | 2026-10-06 |
 | BNY | 2027 BNY Summer Internship Program - Marketing (London) | London, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82859) | 2026-10-06 |
-| Capula | 2027 Trading and Research Summer Internship (Tokyo) | Japan | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/41570BAEFB/) | 2026-10-06 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - CoSec Department (Onboarding Team) | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20596) | 2026-10-06 |
 | Cloudflare | Software Engineer Intern (2027) - London, UK | In-Office | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | 2026-10-06 |
 | Continental | Estágio eCommerce e Transformação Digital | Jundiaí, SP | [Apply](https://jobs.smartrecruiters.com/Continental/744000153791821) | 2026-10-06 |
@@ -9184,7 +9200,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brookfield - brookfieldprivate | Intern | Toronto, ON | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern_R2047947) | 2026-06-17 |
 | Brookfield - brookfieldprivate | Intern, AI Value Creation Office | Toronto, ON | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern--AI-Value-Creation-Office_R2048790) | 2026-06-17 |
 | Brookfield - brookfieldprivate | Intern, Valuations & FP&A | Toronto, ON | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern_R2046748) | 2026-06-17 |
-| Capula | 2027 Trading and Research Summer Internship | England, United Kingdom / New York, United States / Singapore / Hong Kong | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/) | 2026-06-17 |
 | Chainguard | Submitting for a General Internship Application | United States Remote | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4410540006) | 2026-06-17 |
 | Chewie Labs | Product Design Engineering Intern, Fall/Winter 2026 | California | [Apply](https://job-boards.greenhouse.io/mill/jobs/4674154005) | 2026-06-17 |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) | 2026-06-17 |

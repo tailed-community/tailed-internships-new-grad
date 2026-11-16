@@ -10,6 +10,14 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
 | Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161817101) | 2026-11-16 |
 | Avery Dennison | Ingénieur Production / Opérations – Graduate Program (H/F) | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161780376) | 2026-11-16 |
+| Bask Health | Associate Product Designer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3D7A081280/) | 2026-11-16 |
+| Bask Health | Backend Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/472CF47F60/) | 2026-11-16 |
+| Bask Health | Customer Success Associate, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/6A64D7BE28/) | 2026-11-16 |
+| Bask Health | Frontend Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/95FB1074E4/) | 2026-11-16 |
+| Bask Health | Merchant Support Associate, Entry Level | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/792F401DA5/) | 2026-11-16 |
+| Bask Health | Product Builder, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/854A2D27D1/) | 2026-11-16 |
+| Bask Health | Product Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E7E44CA0FC/) | 2026-11-16 |
+| Bask Health | Software Engineer, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3AC4353728/) | 2026-11-16 |
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/85b040e5-139a-48bb-9dee-474eb8b376f9) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | Ebensburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15131/entry-level-electrical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | State College, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15130/entry-level-electrical-engineer/job) | 2026-11-16 |
