@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/85b040e5-139a-48bb-9dee-474eb8b376f9) | 2026-11-16 |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5483154008) | 2026-11-16 |
 | CIBC | Associate, Commercial Banking Associate Program – New Grad - Atlantic Region | 3 Locations | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Halifax-NS/Associate--Commercial-Banking-Associate-Program---New-Grad---Atlantic-Region_2623442-1) | 2026-11-14 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161580839) | 2026-11-14 |
@@ -37,13 +38,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2) | 2026-11-13 |
 | Shield AI | Engineer I, PCB - New Grad (R6065) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7) | 2026-11-13 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Remote | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
 | Shield AI | Engineer I, Software - New Grad - 6531 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527) | 2026-11-13 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | 2026-11-13 |
 | Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Remote | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
 | Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Remote | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
+| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
 | Shield AI | EWIS Harness Design - Engineer I - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411) | 2026-11-13 |
 | Shield AI | RF Engineer I - New Grad (R6108) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
@@ -468,7 +469,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Civil Project Engineer I | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148241169) | 2026-09-08 |
 | Timmons Group | New Graduate Civil Project Engineer I | Prince George, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000148226290) | 2026-09-08 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 2026-09-07 |
-| Valon | Software Engineer New Grad | New York, United States / San Francisco | [Apply](https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324) | 2026-09-07 |
 | Avery Dennison | Operations Early Career Program (OECP)  Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000147600549) | 2026-09-05 |
 | BGE | AUSTIN - Electrical Engineer-Power Systems, New Grad | Austin | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416970008) | 2026-09-05 |
 | BGE | FRISCO - Electrical Engineer-Power Systems, New Grad | Frisco | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416949008) | 2026-09-05 |
@@ -666,7 +666,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | mthree | Entry-Level Analyst – Product & Accounting Control | Montréal, QC, Canada | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4697218006) | 2026-07-16 |
 | Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8) | 2026-07-16 |
 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) | 2026-07-16 |
-| Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f) | 2026-07-16 |
 | GHD | GHD Graduate Program 2026/27 - Darwin - Civil Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688) | 2026-07-15 |
 | The Health Management Academy | Business Development Associate (Entry Level Sales) | Arlington, VA | [Apply](https://job-boards.greenhouse.io/thehealthmanagementacademy/jobs/5343024008) | 2026-07-14 |
 | Pylon | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | 2026-07-13 |
