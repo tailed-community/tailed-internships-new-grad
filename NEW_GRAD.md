@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | General Matter | Mechanical Process Engineer (New Grad) | Los Angeles | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) | 2026-11-17 |
+| Mercor | Early Career & University Recruiter | New York, United States | [Apply](https://jobs.ashbyhq.com/mercor/a9e61c01-b8d3-454f-b0fc-1f5fa0f6ddce) | 2026-11-17 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460) | 2026-11-17 |
 | Woodard Curran | Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/ac512037-39b9-4cf8-835f-15248f5dfa51) | 2026-11-17 |
 | AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
@@ -122,7 +123,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Beyond New Horizons | Early Career Computational Fluid Dynamics Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25485/early-career-computational-fluid-dynamics-engineer/job) | 2026-11-07 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Rio De Janeiro, RJ | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/230224) | 2026-11-07 |
 | MPOWERHealth | Entry Level Associate Technician- Tampa, FL | Tampa, FL, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3077/entry-level-associate-technician--tampa%2c-fl/job) | 2026-11-07 |
-| Northwood Space | Electrical Engineer (Portal) - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d) | 2026-11-07 |
 | SpaceX | New Graduate Engineer, Mechanical | Mcgregor, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002) | 2026-11-07 |
 | United Wholesale Mortgage | Entry Level Support Specialists | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16343/entry-level-support-specialists/job) | 2026-11-07 |
 | BGE | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5368711008) | 2026-11-06 |
@@ -168,7 +168,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Carollo Engineers | Entry Level Planning Engineer | Walnut Creek, United States | [Apply](https://careers-carollo.icims.com/jobs/4692/entry-level-planning-engineer/job) | 2026-11-03 |
 | Duolingo | QA Specialist I, Recent Graduate | New York, NY / Pittsburgh, PA | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928682002) | 2026-11-03 |
 | Duolingo - duolingo | QA Specialist I, Recent Graduate | New York, NY / Pittsburgh, PA | [Apply](https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002) | 2026-11-03 |
-| Mercor | Early Career & University Recruiter | California, United States / New York City | [Apply](https://jobs.ashbyhq.com/mercor/54d73070-12c7-4c3a-be53-1ef6b0652a7a) | 2026-11-03 |
+| Mercor | Early Career & University Recruiter | California, United States | [Apply](https://jobs.ashbyhq.com/mercor/54d73070-12c7-4c3a-be53-1ef6b0652a7a) | 2026-11-03 |
 | MPOWERHealth | Entry Level Associate Technician- Fairfax, VA | Fairfax, VA, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3072/entry-level-associate-technician--fairfax%2c-va/job) | 2026-11-03 |
 | MPOWERHealth | Entry Level Associate Technician-Richmond, VA | Richmond, VA, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3071/entry-level-associate-technician-richmond%2c-va/job) | 2026-11-03 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Louisville, KY | Louisville, KY, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3073/entry-level-iom-associate-technician--louisville%2c-ky/job) | 2026-11-03 |
@@ -383,8 +383,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Corgan | Project Specialist, Interior Design\| 2027 New Grad | Dallas, TX, United States / Atlanta, GA, United States / Chicago, IL, United States / Los Angeles, United States / New York, NY, United States / Orlando, FL, United States / Phoenix, AZ, United States / San Francisco, United States / Bellevue, WA, United States / Houston, TX, United States / ... | [Apply](https://campus-us-corgan.icims.com/jobs/4078/project-specialist%2c-interior-design%7c-2027-new-grad/job) | 2026-10-05 |
 | Intertek | Entry-Level Field Testing Technicians | Waukesha, WI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16023) | 2026-10-05 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3068.08 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/bc096290-b74b-487a-8d3d-0e3369fd8ab2) | 2026-10-05 |
-| Harvey | Software Engineer, New Grad (2027) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | 2026-10-03 |
-| Harvey | Software Engineer, New Grad (2027) | New York, United States | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | 2026-10-03 |
 | Olsson | Entry Level Civil Engineer (Rail Terminal/Intermodal) | Loveland, CO / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5442585008) | 2026-10-03 |
 | Securitas | Entry Level Security Officer | Grayling, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/175543) | 2026-10-03 |
 | Avery Dennison | European Graduate Program - Operations / Manufacturing | Netherlands | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000153195775) | 2026-10-02 |
