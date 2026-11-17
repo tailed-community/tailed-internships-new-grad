@@ -34,6 +34,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Auburn University | Lab Student Engineer | Auburn University, AL | [Apply](https://jobs.auburn.edu/jobs/11622?lang=en-us&icims=1) | 2026-11-17 |
 | Basis Research Institute | Electronics & Sensing Engineer (Intern or Contractor) | New York, United States | [Apply](https://jobs.ashbyhq.com/basis-research/d3a40705-2e66-4ed0-8bf1-f5fe4bb6dfc3) | 2026-11-17 |
 | Basis Research Institute | Research Intern, Summer 2027 | New York, United States / Cambridge Office | [Apply](https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c) | 2026-11-17 |
+| Bask Health | Billing Operations Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/515BFB1D98/) | 2026-11-17 |
+| Bask Health | Revenue Operations Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/C41BB4AC35/) | 2026-11-17 |
+| Bask Health | Sales Development Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/7D52D03235/) | 2026-11-17 |
+| Bask Health | Solutions Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/F2B03DEBF2/) | 2026-11-17 |
 | BCI | Private Debt Off-Cycle Internship (Winter & Summer 2027) | UK London | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/UK-London/Private-Debt-Off-Cycle-Internship--Winter---Summer-2027-_JR101658) | 2026-11-17 |
 | Berkshire Hathaway Energy | Intern - Engineering | Omaha, NE, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006017) | 2026-11-17 |
 | BioMed Realty | Internship - Finance (Graduate) | San Diego, Canada | [Apply](https://job-boards.greenhouse.io/biomedrealty/jobs/4729939006) | 2026-11-17 |
@@ -126,6 +130,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NielsenIQ | Intern | Philippines | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000161993520) | 2026-11-17 |
 | Olsson | Student Internship - Construction Materials Testing | La Vista, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5473405008) | 2026-11-17 |
 | Olsson | Student Internship - Construction Materials Testing | Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5473398008) | 2026-11-17 |
+| Palona AI | PhD Research Intern - Robotics & Physical AI | California, United States | [Apply](https://apply.workable.com/palona/j/7B3B722546/) | 2026-11-17 |
 | Point72 | 2027 Asia Summer Internship - Investment Services | Hong Kong | [Apply](https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002) | 2026-11-17 |
 | Publicis Groupe | FERIA MEET - ESIC  - The Future of One | Spain | [Apply](https://careers.publicisgroupe.com/jobs/183360?lang=en-us&icims=1) | 2026-11-17 |
 | Ralliant | Hardware Verification Engineer Co-Op (Spring 2027) | Solon, OH, United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10490) | 2026-11-17 |
@@ -208,6 +213,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Geotechnical  Engineering Intern – Winter/Spring 2027 | Birmingham, AL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99544) | 2026-11-17 |
 | WTW | Customer Service Insurance & Health Intern | Italy | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607198) | 2026-11-17 |
 | WTW | Early Careers: Corporate Risk and Broking (CRB)- Internship - Facultative Reinsurance Placement - New York - 2027 | New York, NY, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607348) | 2026-11-17 |
+| Zaber Technologies | UX/UI Designer (Co-op) | Vancouver, BC, Canada | [Apply](https://apply.workable.com/zaber/j/FFCE5DA027/) | 2026-11-17 |
 | Zoox | UX Designer Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) | 2026-11-17 |
 | AbbVie | Motion Designer Intern | Idf, France | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016867416) | 2026-11-16 |
 | AbbVie | Stagiaire - Chargé(e) de Contenu Marketing | Idf, France | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016867666) | 2026-11-16 |
@@ -323,10 +329,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
 | Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
-| Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
 | Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
-| Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
 | Bask Health | Product Operations Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/) | 2026-11-16 |
 | Bask Health | Software Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/) | 2026-11-16 |
@@ -2233,11 +2237,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) | 2026-11-02 |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) | 2026-11-02 |
 | AltaLink | Co-Op Student - Project Support (DA) | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/) | 2026-11-02 |
-| AltaLink | Co-Op Student - SIS Performance and Analytics | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/A571C1BA16/) | 2026-11-02 |
-| AltaLink | Summer Student - Capital Project Performance | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/D04E243B1D/) | 2026-11-02 |
-| AltaLink | Summer Student - CRU Project Support | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/) | 2026-11-02 |
 | AltaLink | Summer Student - Customer Service | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/5FC0FE663C/) | 2026-11-02 |
-| AltaLink | Summer Student - Environment | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/0BF04A3809/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
 | AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | Astronics | Supply Chain Internship - Summer 2027 | Washington, United States | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) | 2026-11-02 |
@@ -2914,6 +2914,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rocket Lab USA | Quality Engineering Intern Spring 2027 | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042031003) | 2026-10-29 |
 | Samsara | Account Development Representative Intern - Phoenix | Remote | [Apply](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | 2026-10-29 |
 | SCOR | Actuarial Internship – Reserving, Modelling and Data Analytics | Morocco | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5540) | 2026-10-29 |
+| Scout Clean Energy | East Region Development Intern - Spring 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/A8E47900DA/) | 2026-10-29 |
+| Scout Clean Energy | Resource Assessment Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/) | 2026-10-29 |
 | SharkNinja | Spring 2027: Consumer Insights Co-op, Shark (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006) | 2026-10-29 |
 | SharkNinja | Spring 2027: Mechanical Engineering Co-op, Ninja (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006) | 2026-10-29 |
 | SharkNinja | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006) | 2026-10-29 |
@@ -2948,6 +2950,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Geologist/Hydrogeologist Intern - Summer 2027 | Richmond, VA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98480) | 2026-10-29 |
 | WSP | Transportation Planning Intern - Summer 2027 | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98361) | 2026-10-29 |
 | WSP | Water Resources Engineering Intern - Summer 2027 | Brentwood, TN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98392) | 2026-10-29 |
+| Zaber Technologies | Zaberians Wanted (Co-op) | Vancouver, BC, Canada | [Apply](https://apply.workable.com/zaber/j/6B2ACC0B13/) | 2026-10-29 |
 | AccuWeather | Human Resources Intern | State College, PA | [Apply](https://job-boards.greenhouse.io/accuweather/jobs/8331085) | 2026-10-28 |
 | ACLU Kentucky | Spring 2027 Graduate Intern, Equity, Inclusion, Diversity & Belonging -Executive Office | Hybrid New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8917885002) | 2026-10-28 |
 | ACLU Kentucky | Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department | Remote / Hybrid New York City | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8919915002) | 2026-10-28 |
@@ -3988,6 +3991,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Working Student in Manufacturing Engineering Support | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156335389) | 2026-10-19 |
 | Rothesay | 2027 Summer Internship Programme - Software Engineering | London | [Apply](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002) | 2026-10-19 |
 | Schroders | Internship: Compliance - 6 months (Jan/Feb 2027 start) | Luxembourg | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1977) | 2026-10-19 |
+| Scout Clean Energy | Accounting Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/DFBEEB7A59/) | 2026-10-19 |
+| Scout Clean Energy | East Region Development Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/E75C2C93CB/) | 2026-10-19 |
+| Scout Clean Energy | Geospatial Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/56C8F2E503/) | 2026-10-19 |
+| Scout Clean Energy | Real Estate Systems Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/EC27E34D20/) | 2026-10-19 |
 | Sinclair | News Intern | Asheville, NC, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17471) | 2026-10-19 |
 | Syngenta Group | Customer Experience Specialist Intern - East USA | United States Remote | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000156336351) | 2026-10-19 |
 | Syngenta Group | Digital Phenomics Intern | United States Remote | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000156333908) | 2026-10-19 |
@@ -4927,6 +4934,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Range | Software Engineering Intern | Virginia, United States | [Apply](https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718) | 2026-10-05 |
 | Robert Bosch Venture Capital | 2027 Spring Quality Engineering Co-op / QMM6 - 1st Shift | Charleston, SC, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153601138) | 2026-10-05 |
 | S&C Electric Company | Technical Sales Associate (Co-op) | Toronto, ON, Canada | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107360) | 2026-10-05 |
+| Scout Clean Energy | Operations Engineering Intern - Summer 2027 | Colorado, United States | [Apply](https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/) | 2026-10-05 |
 | ShopBack | Business & Strategy Analyst Intern (Regional Payments) | Singapore | [Apply](https://jobs.lever.co/shopback-2/431888d3-d08a-43d8-b6fd-f95c3a5ff076) | 2026-10-05 |
 | ShopBack | Data Analyst (Internship) (H1 2027) | Singapore | [Apply](https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1) | 2026-10-05 |
 | ShopBack | Marketing Intern (Campaigns) | Singapore | [Apply](https://jobs.lever.co/shopback-2/5755073a-6ab4-446b-b11a-92032db8ef8b) | 2026-10-05 |
@@ -5917,9 +5925,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AutoZone | AutoZone 2027 Summer Internship – Store Development | Memphis, TN, United States | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155433) | 2026-09-21 |
 | AutoZone | AutoZone 2027 Summer Internship – Store Operations | Memphis, TN, United States | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155441) | 2026-09-21 |
 | AutoZone | Student Trainee-Commercial SF | Mexico | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147441) | 2026-09-21 |
-| Belmond | Internship - Back Office | Indonesia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/E910965B85/) | 2026-09-21 |
-| Belmond | Internship - F&B Product | Indonesia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/16FD981B81/) | 2026-09-21 |
-| Belmond | Internship - F&B Service | Indonesia | [Apply](https://apply.workable.com/belmond-uk-ltd/j/C5865D4968/) | 2026-09-21 |
 | CDM Smith | Bachelors - Civil Engineering Intern (Summer 2027) | Wisconsin | [Apply](https://careers.cdmsmith.com/jobs/4544?lang=en-us&icims=1) | 2026-09-21 |
 | Charta Health | Software Engineer (FDE / Platform) - Intern | California, United States / New York City | [Apply](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf) | 2026-09-21 |
 | Civil & Environmental Consultants | Survey Technician Intern - Summer 2027 | Pittsburgh (moon Township), PA, United States | [Apply](https://careers-cecinc.icims.com/jobs/6540/survey-technician-intern---summer-2027/job) | 2026-09-21 |

@@ -9,6 +9,11 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | AECOM | Entry-Level Civil Engineer | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161916755) | 2026-11-17 |
 | AECOM | Entry-Level Civil Engineer | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161917599) | 2026-11-17 |
+| Bask Health | Associate Solutions Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AC6A87E0C2/) | 2026-11-17 |
+| Bask Health | Business Development Representative, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/A9930609B4/) | 2026-11-17 |
+| Bask Health | Commercial Operations Associate, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9E7F7A8A91/) | 2026-11-17 |
+| Bask Health | Pricing Analyst, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1AC4AEEA15/) | 2026-11-17 |
+| Bask Health | Sales Development Representative, Entry Level | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9118C03198/) | 2026-11-17 |
 | Dell Technologies | Inside Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716) | 2026-11-17 |
 | Eurofins | Pro-Insulin Biochemist - Entry-Level | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161919979) | 2026-11-17 |
 | General Matter | Mechanical Process Engineer (New Grad) | Los Angeles | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) | 2026-11-17 |
