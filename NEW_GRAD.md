@@ -7,7 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Civil Engineer | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161916755) | 2026-11-17 |
+| AECOM | Entry-Level Civil Engineer | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161917599) | 2026-11-17 |
 | Dell Technologies | Inside Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716) | 2026-11-17 |
+| Eurofins | Pro-Insulin Biochemist - Entry-Level | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161919979) | 2026-11-17 |
 | General Matter | Mechanical Process Engineer (New Grad) | Los Angeles | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) | 2026-11-17 |
 | Intertek | Entry-Level Field Technician - Construction Materials Testing | Kennesaw, GA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16311) | 2026-11-17 |
 | Mercor | Early Career & University Recruiter | New York, United States | [Apply](https://jobs.ashbyhq.com/mercor/a9e61c01-b8d3-454f-b0fc-1f5fa0f6ddce) | 2026-11-17 |
@@ -76,7 +79,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shield AI | RF Engineer I - New Grad (R6108) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
 | WSP | Early Career Geologist | Redmond, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99423) | 2026-11-13 |
-| AECOM | Entry-Level Electrical Engineer | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161349180) | 2026-11-12 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | North Carolina, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003) | 2026-11-12 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | New York, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003) | 2026-11-12 |
 | City of Greeley | Facilities Service Worker - Seasonal - Entry Level | Greeley, CO, United States | [Apply](https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2826) | 2026-11-12 |
@@ -137,9 +139,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | NASHVILLE - Land/Site Development, New Grad | Tennessee, United States | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5474191008) | 2026-11-05 |
 | Coram AI | Business Development Representative (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/c316ccb3-b80f-4783-bba7-d9fe6315a823) | 2026-11-05 |
 | Coram AI | Sales Athlete (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/ba86f0ef-81e1-4dd6-ae8c-b8bf6a1e9fc6) | 2026-11-05 |
-| Eurofins | Analytical Chemist, Entry Level | Easton, MD, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159947240) | 2026-11-05 |
 | Eurofins | Entry Level Production Technician (No College Degree required) | Carrollton, TX, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159744200) | 2026-11-05 |
-| Eurofins | Pro-Insulin Biochemist - Entry-Level | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159864405) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931507002?gh_jid=8931507002) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Mechanical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002) | 2026-11-05 |
