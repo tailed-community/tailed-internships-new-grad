@@ -9,6 +9,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 |---|---|---|---|---|
 | General Matter | Mechanical Process Engineer (New Grad) | Los Angeles | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) | 2026-11-17 |
 | Mercor | Early Career & University Recruiter | New York, United States | [Apply](https://jobs.ashbyhq.com/mercor/a9e61c01-b8d3-454f-b0fc-1f5fa0f6ddce) | 2026-11-17 |
+| Peraton | Entry-level Software Engineer - TS/SCI w Poly | Fort Meade, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/173645/entry-level-software-engineer---ts-sci-w-poly/job) | 2026-11-17 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460) | 2026-11-17 |
 | Woodard Curran | Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/ac512037-39b9-4cf8-835f-15248f5dfa51) | 2026-11-17 |
 | AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
@@ -25,12 +26,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/85b040e5-139a-48bb-9dee-474eb8b376f9) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | Ebensburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15131/entry-level-electrical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | State College, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15130/entry-level-electrical-engineer/job) | 2026-11-16 |
-| Gannet Fleming | Entry Level Geologist | Roseville, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15018/entry-level-geologist/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | East Brunswick, NJ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15159/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job) | 2026-11-16 |
-| Gannet Fleming | Entry Level Geotechnical Engineer | New York, NY, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14900/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15190/entry-level-structural-engineer/job) | 2026-11-16 |
-| Gannet Fleming | Entry Level Structural Engineer | Chicago, IL, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14954/entry-level-structural-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14756/entry-level-substation-engineer/job) | 2026-11-16 |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5483154008) | 2026-11-16 |
 | Weatherford | Field Engineer - NextGen Graduate Program | Australia | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/108486) | 2026-11-16 |
@@ -120,7 +118,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Nooks | Software Engineer, New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | 2026-11-09 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000160693699) | 2026-11-09 |
 | WSP | Early Career Environmental Scientist | Gainesville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98991) | 2026-11-08 |
-| Beyond New Horizons | Early Career Computational Fluid Dynamics Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25485/early-career-computational-fluid-dynamics-engineer/job) | 2026-11-07 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Rio De Janeiro, RJ | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/230224) | 2026-11-07 |
 | MPOWERHealth | Entry Level Associate Technician- Tampa, FL | Tampa, FL, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3077/entry-level-associate-technician--tampa%2c-fl/job) | 2026-11-07 |
 | SpaceX | New Graduate Engineer, Mechanical | Mcgregor, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002) | 2026-11-07 |
@@ -338,6 +335,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3071 | Asheville, NC | [Apply](https://jobs.lever.co/wadetrim/cffa7a9e-9d19-49b9-8835-7a7fcea54023) | 2026-10-12 |
 | WSP | Early Career P&C Field Services Technician | Vancouver, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97448) | 2026-10-12 |
 | Ford Motor Company | Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV | Palo Alto, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607) | 2026-10-09 |
+| Geosyntec Consultants | Early Career Environmental Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4966/early-career-environmental-engineer/job) | 2026-10-09 |
 | GHD | Recent Graduate Quality Assurance Inspector - Transportation | Waterloo, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28727) | 2026-10-09 |
 | Olsson | Entry-Level Geotechnical Driller | Oklahoma City, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5448695008) | 2026-10-09 |
 | WSP | Early Career Electrical Engineer (Generation) | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97308) | 2026-10-09 |
@@ -388,7 +386,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | European Graduate Program - Operations / Manufacturing | Netherlands | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000153195775) | 2026-10-02 |
 | Bot Auto | Planning & Control Engineer, Early Career | Houston, TX | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5441694008) | 2026-10-02 |
 | Coram AI | Sales Development Associate (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/81730a43-4842-4ce2-9d60-4b398b565558) | 2026-10-02 |
-| United Wholesale Mortgage | Entry Level Security Officer | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16062/entry-level-security-officer/job) | 2026-10-02 |
 | Woodard Curran | Entry-level Stormwater Engineer (Rye Brook, NY) | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/a751eebd-ca00-495a-aaf2-6d5c3fc33cb7) | 2026-10-02 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | CannonDesign | Plumbing/Fire Protection - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8856530002) | 2026-09-30 |
