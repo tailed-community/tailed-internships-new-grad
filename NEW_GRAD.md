@@ -7,6 +7,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460) | 2026-11-17 |
+| Woodard Curran | Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/ac512037-39b9-4cf8-835f-15248f5dfa51) | 2026-11-17 |
 | AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
 | Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161817101) | 2026-11-16 |
 | Avery Dennison | Ingénieur Production / Opérations – Graduate Program (H/F) | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161780376) | 2026-11-16 |
@@ -883,7 +885,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Submarine Mechanic / Machinist - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18254/submarine-mechanic---machinist---entry-level/job) | 2026-06-10 |
 | Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) | 2026-06-10 |
 | SpaceX | New Graduate Engineer, Launch & Test (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) | 2026-06-10 |
-| Wade Trim | Entry Level Planner - #2970 | Flint, MI / Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17) | 2026-06-10 |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Parallel Web Systems | Early Career Research Engineer | California, United States / New York / Palo Alto | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd) | 2026-06-08 |
