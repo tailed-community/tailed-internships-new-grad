@@ -83,6 +83,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ferrovial | Summer 2027 Interns - South Carolina | Hardeeville | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Hardeeville/Summer-2027-Interns---South-Carolina_JR19104) | 2026-11-17 |
 | Ferrovial | Summer 2027 Interns - Tennessee | Mount Juliet | [Apply](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Mount-Juliet/Summer-2027-Interns---Tennessee_JR19105) | 2026-11-17 |
 | First Citizens BancShares | 2027 Summer Intern - Middle Market Banking Credit Underwriting/Portfolio Management (Charlotte, NC) | North Carolina | [Apply](https://firstcitizens.jibeapply.com/jobs/36653?lang=en-us&icims=1) | 2026-11-17 |
+| Forterra | 2027 Intern - Electrical Engineer | Clarksburg, MD | [Apply](https://ats.rippling.com/forterra/jobs/bb7de11c-a4ea-4a91-ab98-8b4a36a37311) | 2026-11-17 |
+| Forterra | 2027 Intern - Mechanical Engineer | Clarksburg, MD | [Apply](https://ats.rippling.com/forterra/jobs/74bf4d28-aea6-4323-aee2-c5bded201e9d) | 2026-11-17 |
+| Forterra | 2027 Intern - Software | Durham, NC / Winter Park, FL / East Palo Alto, Canada / Clarksburg, MD / Arlington, VA | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) | 2026-11-17 |
 | Fortive | Service Intern | Netherlands | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10813) | 2026-11-17 |
 | Four Hands | Marketing Intern | Austin, TX | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4509551009) | 2026-11-17 |
 | Gannet Fleming | Intern - Architecture | Chicago, IL, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15257/intern---architecture/job) | 2026-11-17 |
@@ -182,6 +185,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stantec | Electrical Engineering Student – Water (Summer 2027) | Burnaby, BC, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008921) | 2026-11-17 |
 | Steel Dynamics | Mechanical Engineering Internship | Roanoke, VA, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8618/mechanical-engineering-internship/job) | 2026-11-17 |
 | Steel Dynamics | Metallurgy Internship | Roanoke, VA, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8619/metallurgy-internship/job) | 2026-11-17 |
+| StudyFetch | SALES INTERN (HONEN FELLOWSHIP PROGRAM) | Beverly Hills, Canada | [Apply](https://ats.rippling.com/studyfetch/jobs/7253c227-d81c-4312-b368-8d76658987ca) | 2026-11-17 |
 | Swift | B2B Customer Support Internship | Malaysia | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/B2B-Customer-Support-Internship_2026-16592) | 2026-11-17 |
 | Texas Instruments | Analog IC Design (AI/ML) Engineering Intern | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319) | 2026-11-17 |
 | Texas Instruments | Test Engineering intern - PhD | United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019537) | 2026-11-17 |
@@ -4537,7 +4541,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Viget | Software Developer Intern (2027) | Boulder, CO | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) | 2026-10-09 |
 | Werfen | R&D Systems Hardware Engineering Co-Op | Bedford, MA, United States | [Apply](https://careers-werfen.icims.com/jobs/11153/r%26d-systems-hardware-engineering-co-op/job) | 2026-10-09 |
 | WSP | Traffic Engineering Co-op - Spring/Summer 2027 | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97206) | 2026-10-09 |
-| 4AG Robotics | Mechatronics - Control Systems Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/e42f7a66-f5aa-4f1d-9d5e-a9178e84add2) | 2026-10-08 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - 2026 ASCE Career Fair (American Society of Civil Engineers) | Minneapolis, MN, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154492489) | 2026-10-08 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - 2026 Cesac Civil and Construction Engineering | Indianapolis, IN, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154492369) | 2026-10-08 |
 | AECOM | Mechanical Engineering Intern – Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154178117) | 2026-10-08 |
@@ -4915,7 +4918,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Novelis | Safety Engineer Intern | Davenport, IA, United States | [Apply](https://careers-novelis.icims.com/jobs/53142/safety-engineer-intern/job) | 2026-10-05 |
 | Novelis | Surfaces Engineering Co-Op | Kennesaw, GA, United States | [Apply](https://careers-novelis.icims.com/jobs/53312/surfaces-engineering-co-op/job) | 2026-10-05 |
 | Novelis | Tribochemistry Co-Op | Kennesaw, GA, United States | [Apply](https://careers-novelis.icims.com/jobs/53313/tribochemistry-co-op/job) | 2026-10-05 |
-| Palomar Holdings | 2027 Summer Internship (Actuarial) | Edina, MN | [Apply](https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a) | 2026-10-05 |
 | Palomar Holdings | 2027 Summer Internship (General) | La Jolla, Canada | [Apply](https://ats.rippling.com/plmrcareers/jobs/6c082adc-d117-4b18-9911-cb3d9b90c4be) | 2026-10-05 |
 | Palomar Holdings | 2027 Summer Internship (Technical) | Edina, MN / La Jolla, Canada / Chicago, IL | [Apply](https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7) | 2026-10-05 |
 | Pangram Labs | AI Research Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b) | 2026-10-05 |
@@ -6386,12 +6388,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Summer Placement Student - Ground Engineering - Leeds (FY27) | England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000149605379) | 2026-09-15 |
 | Alliance Laundry Systems | Innovation Engineer Co-op - Fall Term | Ripon, WI, United States | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13126/innovation-engineer-co-op---fall-term/job) | 2026-09-15 |
 | Alliance Laundry Systems | Technical Writer Intern | Manitowoc, WI, United States | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13163/technical-writer-intern/job) | 2026-09-15 |
-| APEX Analytix | Automation Developer Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7) | 2026-09-15 |
 | APEX Analytix | Customer Success Internship (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/f4344854-7887-4316-a53c-fc7ac72c475c) | 2026-09-15 |
 | APEX Analytix | Data Analyst Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef) | 2026-09-15 |
 | APEX Analytix | Data Engineering Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9) | 2026-09-15 |
 | APEX Analytix | Data Science Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | 2026-09-15 |
 | APEX Analytix | IT & Cloud Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/c2519ae5-9e05-4182-a4ea-7c4cfae6840a) | 2026-09-15 |
+| APEX Analytix | Robotic Process Automation Developer Intern (Summer 2027) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7) | 2026-09-15 |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) | 2026-09-15 |
 | AppLovin | Product Management Intern (2027 Summer Internship) | Singapore | [Apply](https://boards.greenhouse.io/applovin/jobs/4713039006?gh_jid=4713039006) | 2026-09-15 |
 | Augsburg University | Student: Writing Center Tutor, 2026-27 | Minneapolis, MN, United States | [Apply](https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000149420399) | 2026-09-15 |
@@ -8555,7 +8557,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vertiv | Procurement Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278523) | 2026-08-11 |
 | Cummins | Process Quality Engineer Intern - 6-month Internship (stage) | Italy | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433288) | 2026-08-10 |
 | Cummins | Supplier Quality Engineer Intern - 6-month internship (stage) | Italy | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433278) | 2026-08-10 |
-| Eridu AI | Lab Intern | Saratoga, Canada | [Apply](https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1) | 2026-08-10 |
 | Garrett Motion | International Internship Czech Republic 2027- INTERNSHIP IN REFRIGERATION COMPRESSOR TESTING | Czech Republic | [Apply](https://ehth.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14866) | 2026-08-10 |
 | Prophet | Design Intern | London | [Apply](https://job-boards.greenhouse.io/prophet/jobs/4297897005) | 2026-08-10 |
 | Prophet | Talent Acquisition Intern | New York | [Apply](https://job-boards.greenhouse.io/prophet/jobs/4702324005) | 2026-08-10 |

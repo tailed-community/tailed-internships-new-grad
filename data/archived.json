@@ -1299856,5 +1299856,47 @@
     "date_added": "2026-11-04",
     "active": false,
     "date_archived": "2026-11-17"
+  },
+  {
+    "id": "rippling-4ag-robotics-e42f7a66-f5aa-4f1d-9d5e-a9178e84add2",
+    "company": "4AG Robotics",
+    "title": "Mechatronics - Control Systems Co-op Student (Winter 2027)",
+    "location": "Salmon Arm, Canada",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/4ag/jobs/e42f7a66-f5aa-4f1d-9d5e-a9178e84add2",
+    "date_posted": null,
+    "date_added": "2026-10-08",
+    "active": false,
+    "date_archived": "2026-11-17"
+  },
+  {
+    "id": "rippling-eridu-ai-7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
+    "company": "Eridu AI",
+    "title": "Lab Intern",
+    "location": "Saratoga, CA",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
+    "date_posted": null,
+    "date_added": "2026-08-10",
+    "active": false,
+    "date_archived": "2026-11-17"
+  },
+  {
+    "id": "rippling-palomar-holdings-d6bd58c7-5127-4a17-b70d-2d377aa9fa8a",
+    "company": "Palomar Holdings",
+    "title": "2027 Summer Internship (Actuarial)",
+    "location": "Edina, MN",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/plmrcareers/jobs/d6bd58c7-5127-4a17-b70d-2d377aa9fa8a",
+    "date_posted": null,
+    "date_added": "2026-10-05",
+    "active": false,
+    "date_archived": "2026-11-17"
   }
 ]
