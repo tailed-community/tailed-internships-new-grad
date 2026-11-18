@@ -1086776,5 +1086776,19 @@
     "date_added": "2026-09-11",
     "active": false,
     "date_archived": "2026-11-18"
+  },
+  {
+    "id": "rippling-mytra-ce0c1a3b-21b5-42df-a710-1def7071dfd8",
+    "company": "Mytra",
+    "title": "Robotics Intern - Winter 2026",
+    "location": "Brisbane, CA",
+    "type": "internship",
+    "season": "Winter 2026",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/mytra/jobs/ce0c1a3b-21b5-42df-a710-1def7071dfd8",
+    "date_posted": null,
+    "date_added": "2026-09-18",
+    "active": false,
+    "date_archived": "2026-11-18"
   }
 ]
