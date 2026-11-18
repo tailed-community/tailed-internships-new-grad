@@ -1247,7 +1247,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3011.37 | Atlanta, GA / Buford, GA | [Apply](https://jobs.lever.co/wadetrim/521b38f4-d542-4122-a4ef-3b8a20900f02) | 2026-09-03 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3012.17 | Omaha, NE | [Apply](https://jobs.lever.co/wadetrim/ad5f698d-9a9f-4988-bfb1-b4787dab4b58) | 2026-09-03 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3013 | Detroit, MI / Flint, MI | [Apply](https://jobs.lever.co/wadetrim/21b83959-3b67-4f31-a988-7ce4cf9e5529) | 2026-09-03 |
-| Wade Trim | Entry Level Civil/Environmental Engineer - #3015.34 | Columbus, OH | [Apply](https://jobs.lever.co/wadetrim/ab7a3340-1b43-4e71-a935-c0fdbc9faab0) | 2026-09-03 |
+| Wade Trim | Entry Level Civil/Environmental Engineer - #3015.34 | Columbus, OH / Cleveland, OH / Cincinnati, OH | [Apply](https://jobs.lever.co/wadetrim/ab7a3340-1b43-4e71-a935-c0fdbc9faab0) | 2026-09-03 |
 | BGE | CHARLOTTE - Land/Site Development, New Grad | ​charlotte | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5372445008) | 2026-09-02 |
 | BGE - bgeinc | CHARLOTTE - Land/Site Development, New Grad | ​charlotte | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5372444008) | 2026-09-02 |
 | CannonDesign | Structural - Entry Level | San Diego, Canada | [Apply](http://www.cannondesign.com/careers/?gh_jid=8770323002) | 2026-09-02 |
