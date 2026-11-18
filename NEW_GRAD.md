@@ -41,7 +41,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Draper | Early Career Engineer, Draper Capstone Cohort (2026-2027) | Cambridge, MA | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2026-2027-_JR003157) | 2026-11-18 |
 | Eight Sleep | New Grad - Business Functions | Italy / San Francisco / New York City / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
 | Eight Sleep | New Grad - Engineering | Italy / San Francisco / New York City / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | 2026-11-18 |
+| Framatome | Early Career NDE Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2873/early-career-nde-technician/job) | 2026-11-18 |
 | Fresenius Medical Care | New Graduate Nurse | Rocky Mount, NC | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Rocky-Mount-NC/New-Graduate-Nurse_R0278458) | 2026-11-18 |
+| Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15288/entry-level-substation-engineer/job) | 2026-11-18 |
 | GE Vernova | Early Career Training ship- Services | Riyadh | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Riyadh/Early-Career-Training-ship--Services_R5059361-1) | 2026-11-18 |
 | GE Vernova - vernova_externalsite | Early Career Training ship- Services | Riyadh | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Riyadh/Early-Career-Training-ship--Services_R5059361-2) | 2026-11-18 |
 | General Matter | Automation & Controls Engineer, New Grads | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5476939008) | 2026-11-18 |
@@ -138,7 +140,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Gannet Fleming | Entry Level Geotechnical Engineer | East Brunswick, NJ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15159/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15190/entry-level-structural-engineer/job) | 2026-11-16 |
-| Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14756/entry-level-substation-engineer/job) | 2026-11-16 |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5483154008) | 2026-11-16 |
 | Weatherford | Field Engineer - NextGen Graduate Program | Australia | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/108486) | 2026-11-16 |
 | WSP | Early Career Bridge Inspection Engineer | Troy, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99532) | 2026-11-16 |
@@ -602,7 +603,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Affirm | Software Engineer I, Early Career (London) | London | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | 2026-10-24 |
 | Ciena | Hardware Engineer - New Grad | Ottawa | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914) | 2026-10-24 |
 | CVS Health | Oak Street Health New Graduate Nurse Practitioner Fellowship | Mi Lansing | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Lansing/Oak-Street-Health-New-Graduate-Nurse-Practitioner-Fellowship_R1084374) | 2026-10-24 |
-| General Dynamics | Electric Boat Hiring Interest - Engineer, Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21347/electric-boat-hiring-interest---engineer%2c-entry-level/job) | 2026-10-24 |
 | Honeywell | Field Service Technician I - Fire Alarms Systems (Entry Level) | Miami, FL, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160836) | 2026-10-24 |
 | Honeywell - CX_1 | Field Service Technician I - Fire Alarms Systems (Entry Level) | Miami, FL, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160836) | 2026-10-24 |
 | Amcor | Outreach Specialist- Entry Level | Acd Devens Ma | [Apply](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Devens-MA/Outreach-Specialist--Entry-Level_REQ_97805) | 2026-10-23 |
