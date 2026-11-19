@@ -15,6 +15,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Kira | Software Engineer (Entry Level) | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7) | 2026-11-19 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Oklahoma City, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5487572008) | 2026-11-19 |
 | Relativity Space | New Grad 2027 - Materials & Processes Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002) | 2026-11-19 |
+| Sargent & Lundy | Early Career Talent Recruiter | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/29894/early-career-talent-recruiter/job) | 2026-11-19 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (St. Charles, MO) | St. Charles, MO | [Apply](https://jobs.lever.co/woodardcurran/31e5954e-76c5-4021-af09-af45b26fdc61) | 2026-11-19 |
 | AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162387449) | 2026-11-18 |
 | AECOM | Entry Level Highway Civil Engineer | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162176094) | 2026-11-18 |
@@ -143,7 +144,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | MPOWERHealth | Entry Level IOM Associate Technician -Cherry Hill, NJ | US-Cherry Hill | [Apply](https://careers-mpowerpractice.icims.com/jobs/3085/entry-level-iom-associate-technician--cherry-hill%2c-nj/job) | 2026-11-11 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Long Island, NY | Long Island, NY, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3086/entry-level-iom-associate-technician--long-island%2c-ny/job) | 2026-11-11 |
 | Northwood Space | Lifecycle Electrical Engineer (Prism) - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0) | 2026-11-11 |
-| SCS Engineers | Entry-level Civil, Environmental, or Geotechnical Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4161/entry-level-civil%2c-environmental%2c-or-geotechnical-engineer/job) | 2026-11-11 |
 | SharkNinja | Forward Deployed Engineer - Entry Level | Needham, MA, United States | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006) | 2026-11-11 |
 | Advanced Technology Services (ATS) | Entry-level Maintenance Engineer | Somerset | [Apply](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4724640006) | 2026-11-10 |
 | Avery Dennison | Graduate Program - Operations / Manufacturing | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160884551) | 2026-11-10 |
@@ -258,7 +258,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | 2026-10-29 |
 | Northwood Space | Software Engineer- Early Career (Platform) | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) | 2026-10-29 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Denver, CO / Fayetteville, AR / La Vista, NE / Lincoln, NE / Olathe, KS / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5466862008) | 2026-10-29 |
-| Sargent & Lundy | Early Career Talent Recruiter | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/28411/early-career-talent-recruiter/job) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Green Bay, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158385434) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Marinette, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387865) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Oconto, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158386790) | 2026-10-29 |
@@ -409,7 +408,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Egis Group | UAE National Pre-Graduate Program | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000153774943) | 2026-10-06 |
 | NielsenIQ | NIQ Early Career Program: Werkstudent Sales Support (w/m/d) | Germany | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000153721859) | 2026-10-06 |
 | Olsson | Entry-Level Civil Engineer - Water Resources | Overland Park, KS | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5445167008) | 2026-10-06 |
-| Steel Dynamics | Entry-Level Production | Butler, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8248/entry-level-production/job) | 2026-10-06 |
 | WSP | Early Career Mechanical Engineer - Buildings | Kansas City, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96960) | 2026-10-06 |
 | Beyond New Horizons | Early Career Electrical Systems Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25200/early-career-electrical-systems-engineer/job) | 2026-10-05 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Abilene Data Centers | Abilene, TX, United States | [Apply](https://campus-us-corgan.icims.com/jobs/3667/project-specialist%2c-architecture-%7c-2026--new-grad---abilene-data-centers/job) | 2026-10-05 |
@@ -640,7 +638,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Realm | Software Engineer - New Grad | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | 2026-08-31 |
 | American Structurepoint | Construction Inspection (Entry Level) - Cincinnati, OH | Cincinnati, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3165/construction-inspection-%28entry-level%29---cincinnati%2c-oh/job) | 2026-08-28 |
 | BDO | New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) - Fall 2028 | 2 Locations | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/New-Grad--Junior-Accountant--Assurance--Greater-Toronto-Area-Offices----Fall-2028_JR6964) | 2026-08-28 |
-| Keysight Technologies | Solutions Engineer (Recent Graduate) | California | [Apply](https://jobs.keysight.com/jobs/53914?lang=en-us&icims=1) | 2026-08-28 |
 | SpaceX | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002) | 2026-08-28 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010989) | 2026-08-28 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Germany Berlin | [Apply](https://jobs.lever.co/veeva/2355b29e-65d6-4dd8-be93-f5289960e05c) | 2026-08-28 |
