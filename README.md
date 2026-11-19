@@ -25,6 +25,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AIMCo | Co-op, Client Investment Strategy Advisory (8-months) | Edmonton | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Client-Investment-Strategy-Advisory--8-months-_JR100959) | 2026-11-19 |
 | AIMCo | Co-op, Risk Modelling (Winter 2027) | Edmonton / Calgary | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Risk-Modelling--Winter-2027-_JR100957) | 2026-11-19 |
 | AIMCo | Intern, Test Automation (12-month term) | Edmonton | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Intern--Test-Automation--12-month-term-_JR100958) | 2026-11-19 |
+| Akamai Technologies | Communications Intern | Brazil | [Apply](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4431) | 2026-11-19 |
 | Anduril | 2027 Business Systems Engineer Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | 2026-11-19 |
 | Anduril | 2027 Deployment Operations Intern | Massachusetts, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) | 2026-11-19 |
 | Anduril | 2027 Engineering Systems Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) | 2026-11-19 |
@@ -32,15 +33,28 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Anduril | 2027 Mission Operations Engineer Intern | Hawaii, United States / District Of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) | 2026-11-19 |
 | Anduril | 2027 Product Data Quality Co-op | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) | 2026-11-19 |
 | Arc | Service Engineering Intern | Torrance, Canada | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5477182008) | 2026-11-19 |
+| Atlantic Health System | Pharmacy (Data Analytics) Intern | Morristown, NJ, United States | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) | 2026-11-19 |
 | AXA | Legal Internship | Spain | [Apply](https://careers.axa.com/jobs/26996?lang=en-us&icims=1) | 2026-11-19 |
+| Berkshire Hathaway Energy | Student Intern, Fin Acct & Lgl | Reno, NV, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006097) | 2026-11-19 |
+| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Sales Grand Rapids | Grand Rapids, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15034) | 2026-11-19 |
+| BNY | Internship Program - 2027 - (Paris, France) | Ile-De-France, France | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82922) | 2026-11-19 |
 | Centric Brands | Digital Marketing Intern | Los Angeles, United States | [Apply](https://careers-centricbrands.icims.com/jobs/23972/digital-marketing-intern/job) | 2026-11-19 |
 | Civil & Environmental Consultants | Survey Intern - Summer 2027 | Indianapolis, IN, United States | [Apply](https://careers-cecinc.icims.com/jobs/6854/survey-intern---summer-2027/job) | 2026-11-19 |
+| Computershare | Meeting Service Intern | China | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12781) | 2026-11-19 |
 | Crum & Forster Insurance | Intern | Morristown, NJ, United States | [Apply](https://careers-cfins.icims.com/jobs/5649/intern/job) | 2026-11-19 |
 | Crusoe | AI Applied Research PhD Intern, Summer 2027 | California, United States / CA US | [Apply](https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b) | 2026-11-19 |
 | Crusoe | Legal Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Crusoe/eb8c16c7-b21a-4c59-a24a-78e93788ca88) | 2026-11-19 |
 | Crusoe | Legal Intern | Colorado, United States | [Apply](https://jobs.ashbyhq.com/Crusoe/ffe60cf3-0ddc-4227-9f51-72794e36f4e6) | 2026-11-19 |
+| Cummins | 2027 Undergraduate Channel Capability Internship | Australia | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441968) | 2026-11-19 |
+| Definity Financial | Technology Strategy - Winter 2027 Co-op/Intern | Ont, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9342) | 2026-11-19 |
+| Dell Technologies | Undergraduate Intern | Panama | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302200) | 2026-11-19 |
+| DNV | Master's Thesis Student - Maritime | Germany | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8100) | 2026-11-19 |
+| DNV | Stage Sales and Market Intelligence Analyst | Italy | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8103) | 2026-11-19 |
+| Emerson Electric | Demo Engineer Intern | Hungary | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013688) | 2026-11-19 |
+| Emerson Electric | Intern or Co op | India | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014151) | 2026-11-19 |
 | ENSCO | SkillBridge Plumber Intern | Colorado, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5486959008) | 2026-11-19 |
 | Etched | Production Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) | 2026-11-19 |
+| EXP | Lighting Design Intern | Atlanta, GA, United States | [Apply](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113582) | 2026-11-19 |
 | FGS Global | Intern, Research & Insights | District Of Columbia, United States | [Apply](https://job-boards.greenhouse.io/fgsglobal/jobs/5302039007) | 2026-11-19 |
 | General Dynamics Mission Systems | Mechanical Engineering Co-Op - (May 2027-December 2027) | Mcleansville, NC, United States | [Apply](https://careers-gdms.icims.com/jobs/78217/mechanical-engineering-co-op---%28may-2027-december-2027%29/job) | 2026-11-19 |
 | Georgian Partners Growth | Physical AI & Robotics Intern (2027) | Toronto, ON, Canada / Canada Remote | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228) | 2026-11-19 |
@@ -49,6 +63,18 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | HERE Technologies | Software Engineer Intern | Chicago, IL, United States | [Apply](https://careers-here.icims.com/jobs/83731/software-engineer-intern/job) | 2026-11-19 |
 | Highgate | Intern- Operations (Summer 2027) | Key West, FL, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/86624/intern/job) | 2026-11-19 |
 | Highgate | Intern- Sales & Marketing (Summer 2027) | Miami Beach, FL, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/86658/intern/job) | 2026-11-19 |
+| Hilton Worldwide | Intern | United Arab Emirates | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/232103) | 2026-11-19 |
+| Honeywell | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162255) | 2026-11-19 |
+| Honeywell | Intern (Master's)-Business Dev (m/f/d) | Ireland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162562) | 2026-11-19 |
+| Honeywell | Intern Bachelors Eng Supp | Barueri, SP | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162127) | 2026-11-19 |
+| Honeywell | Intern Bachelors Software Eng | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161637) | 2026-11-19 |
+| Honeywell | Manufacturing Engineering Intern (m/f/d) | Essex, United Kingdom | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158935) | 2026-11-19 |
+| Honeywell - CX_1 | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162255) | 2026-11-19 |
+| Honeywell - CX_1 | Intern (Master's)-Business Dev (m/f/d) | Ireland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162562) | 2026-11-19 |
+| Honeywell - CX_1 | Intern Bachelors Eng Supp | Barueri, SP | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162127) | 2026-11-19 |
+| Honeywell - CX_1 | Intern Bachelors Software Eng | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637) | 2026-11-19 |
+| Honeywell - CX_1 | Manufacturing Engineering Intern (m/f/d) | Essex, United Kingdom | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158935) | 2026-11-19 |
+| Hunt Oil Company | HR Intern | Tuscaloosa, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1111) | 2026-11-19 |
 | iCapital Network | Brand and Communications - Summer 2027 Intern | New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) | 2026-11-19 |
 | iCapital Network | Data Solutions - Summer 2027 Intern | Connecticut, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) | 2026-11-19 |
 | iCapital Network | iCapital Marketplace - Summer 2027 Intern | New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8950295002) | 2026-11-19 |
@@ -56,6 +82,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Kabam | Accounting Co-Op | Vancouver | [Apply](https://jobs.lever.co/kabam/7bbe12bc-6df4-4a29-b1f9-ce0ef67519a4) | 2026-11-19 |
 | Keysight Technologies | PCB Design Intern | Malaysia | [Apply](https://jobs.keysight.com/jobs/57011?lang=en-us&icims=1) | 2026-11-19 |
 | Kira | Software Engineering Intern (Winter '27) | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe) | 2026-11-19 |
+| Legrand | Stagiaire Laboratoire Essais - Bornes IRVE | Normandie, France | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1949) | 2026-11-19 |
 | Lightmatter | Analog Engineering Intern - Summer 2027 | Mountain View, Canada | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473774008?gh_jid=5473774008) | 2026-11-19 |
 | Lightmatter | Analog Engineering Intern - Summer 2027 | Boston, MA / Mountain View, Canada | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5475081008?gh_jid=5475081008) | 2026-11-19 |
 | Lightmatter | Chip Architecture Intern – Summer 2027 | Boston, MA / Mountain View, Canada | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5468924008?gh_jid=5468924008) | 2026-11-19 |
@@ -67,6 +94,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lightmatter | Systems Engineering, Intern Summer 2027 | Mountain View, Canada | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008) | 2026-11-19 |
 | Lucid | Product Management Internship - Summer 2027 | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | 2026-11-19 |
 | Lucid | Product Management Internship - Summer 2027 | Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | 2026-11-19 |
+| Macy's | Macy's 2027 Summer Internship, Human Resources - Compensation | New York, NY, United States | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92295) | 2026-11-19 |
 | Nasdaq | India Intern Req [TEST] - External | Bangalore | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4514274009) | 2026-11-19 |
 | Nasdaq | Intern Global Job Template - Technical - Americas, Asia & Middle East - External Posting | Argentina / Brazil / Chile / China / Colombia / Hong Kong / Israel / Japan / Saudi Arabia / Singapore / South Korea / United Arab Emirates | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4513622009) | 2026-11-19 |
 | Neptune Medical | Robotics Product Development Engineering Co-op | California, United States | [Apply](https://job-boards.greenhouse.io/neptunemedical/jobs/4756286005) | 2026-11-19 |
@@ -74,6 +102,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Pivotal Software | Internship, Autonomy - Path Planning (Summer 2027) | Palo Alto, Canada | [Apply](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067) | 2026-11-19 |
 | Pivotal Software | Internship, GNC Engineering (Summer 2027) | Palo Alto, Canada | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) | 2026-11-19 |
 | Pivotal Software | Internship, Quality (Summer 2027) | Palo Alto, Canada | [Apply](https://jobs.lever.co/pivotal/b834685e-f5b7-4d70-a25a-b7c7510f530b) | 2026-11-19 |
+| Ralliant | Process Engineer Intern (Summer 2027) | Beaverton, OR, United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11292) | 2026-11-19 |
+| Ralliant | Software Engineering Intern (Summer 2027) | Beaverton, OR, United States | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | 2026-11-19 |
 | REGENT | Manufacturing Engineering Intern | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7) | 2026-11-19 |
 | Samsung | Intern, Architecture Research Engineer (Agentic AI Workload Characterization) | California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003) | 2026-11-19 |
 | Samsung | Intern, Architecture Research Engineer (Resilient Collective Communications) | California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003) | 2026-11-19 |
@@ -82,6 +112,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Samsung | Intern, SSD Firmware Engineer | California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | 2026-11-19 |
 | Schonfeld | 2027 Equity Middle Office Intern | Hong Kong | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8346895) | 2026-11-19 |
 | Schonfeld | 2027 PhD Quantitative Research Intern | England, United Kingdom | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) | 2026-11-19 |
+| SCOR | Salesforce Proxy Product Owner Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5596) | 2026-11-19 |
 | Scout Space | Computer Vision (AI/ML) Engineering Intern | Remote | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008) | 2026-11-19 |
 | Scout Space | Embedded Firmware Engineering Intern | Remote | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | 2026-11-19 |
 | Scout Space | GNC and Astrodynamics Engineering Intern | Remote | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489233008) | 2026-11-19 |
@@ -97,12 +128,22 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sigma Computing | Product Design Graduate Intern (Summer 2027) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) | 2026-11-19 |
 | SSOE Group | Electrical Controls Engineering Co-Op - Spring 2027 | Toledo, OH, United States | [Apply](https://careers-ssoe.icims.com/jobs/4101/electrical-controls-engineering-co-op---spring-2027/job) | 2026-11-19 |
 | Star Dental Partners | Pharmacy Technician Student Class | Huntsville, AL, United States | [Apply](https://careers-hhsys.icims.com/jobs/77948/pharmacy-technician-student-class/job) | 2026-11-19 |
+| Texas Instruments | Field Applications Engineer Intern | Sweden | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014043) | 2026-11-19 |
+| Texas Instruments | Systems Engineering Intern (GaN) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020388) | 2026-11-19 |
 | Toyota Research Institute | Robotics Intern, Generalist Robot Learning (GRL) | Los Altos, Canada | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943) | 2026-11-19 |
 | Truveta | Winter Software Engineering Intern | Seattle, WA | [Apply](https://job-boards.greenhouse.io/truveta/jobs/6249810004) | 2026-11-19 |
+| Uber | 2027 Business Development Intern - U4B - Madrid | Spain | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/302557) | 2026-11-19 |
+| Uber | 2027 Operations & Logistics Intern Brazil | Sao Paulo, SP | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/305227) | 2026-11-19 |
+| UL Solutions | Summer 2027 Intern: R&D Engineering Intern | Northbrook, IL, United States | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11503) | 2026-11-19 |
 | Upvest | UK Strategy Intern (f/m/d) | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/upvest/5b81800f-c504-4fd7-ba16-c6a3fa42b4f5) | 2026-11-19 |
 | Utah State University | Director, Taggart Student Center | Logan, UT, United States | [Apply](https://careers-usu.icims.com/jobs/10958/director%2c-taggart-student-center/job) | 2026-11-19 |
+| Verisk | Business Support Intern - Year-Long Program 2027 | London, United Kingdom | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4621) | 2026-11-19 |
 | Walter P Moore | Electrical Intern – MEP | In-Pune | [Apply](https://careers-walterpmoore.icims.com/jobs/4698/electrical-intern-%e2%80%93-mep/job) | 2026-11-19 |
+| Weatherford | Engineering Rotational Winter Internship Program UAE 2027 | United Arab Emirates | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/108517) | 2026-11-19 |
+| Wells Enterprises | Internship - Customer Service - Summer 2027 | Le Mars, IA, United States | [Apply](https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2209799) | 2026-11-19 |
 | Workstream | Full Stack Engineer Intern | Vancouver | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 |
+| WSP | Environmental Engineering Intern - Summer 2027 | Mount Laurel, NJ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99732) | 2026-11-19 |
+| WSP | Industrial Hygienist Intern – Summer 2027 | Jacksonville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99756) | 2026-11-19 |
 | Zoox | Contract Student Worker - Data Scientist (20 hrs wk) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483) | 2026-11-19 |
 | Zoox | Process Improvement Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f) | 2026-11-19 |
 | AECOM | Civil Engineering Intern | Murray, UT, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162363429) | 2026-11-18 |
@@ -139,8 +180,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Crusoe | Content and Social Media Marketing Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Crusoe/c73e5d49-fcc0-4a27-97aa-020183b9002c) | 2026-11-18 |
 | Crusoe | Marketing Operations Intern | Seattle, WA, United States | [Apply](https://jobs.ashbyhq.com/Crusoe/5855c2d8-492e-44a0-88ba-6b67c08194ef) | 2026-11-18 |
 | Crusoe | Marketing Operations Intern | California, United States | [Apply](https://jobs.ashbyhq.com/Crusoe/5180783d-08fa-4da5-a967-baae5c26aada) | 2026-11-18 |
-| CSC | Intern | China | [Apply](https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/17005) | 2026-11-18 |
-| Cummins | Administrative Co-Op Student | South Africa | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442358) | 2026-11-18 |
 | Cummins | Chemical Systems Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437601) | 2026-11-18 |
 | Cummins | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079) | 2026-11-18 |
 | Cummins | EATON - Finance Internship (ECJV) | Galesburg, MI, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439865) | 2026-11-18 |
@@ -182,11 +221,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hilton Worldwide | IT Intern | Bahrain | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/231995) | 2026-11-18 |
 | Honeywell | Intern (Bachelors) - Marketing | Barueri, SP | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162340) | 2026-11-18 |
 | Honeywell | Intern Bachelors Cyber Sec | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162565) | 2026-11-18 |
-| Honeywell | Intern Bachelors Software Eng | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161636) | 2026-11-18 |
 | Honeywell | Intern Bachelos Adv Manufacturing | Mexico | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159965) | 2026-11-18 |
 | Honeywell - CX_1 | Intern (Bachelors) - Marketing | Barueri, SP | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162340) | 2026-11-18 |
 | Honeywell - CX_1 | Intern Bachelors Cyber Sec | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162565) | 2026-11-18 |
-| Honeywell - CX_1 | Intern Bachelors Software Eng | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636) | 2026-11-18 |
 | Honeywell - CX_1 | Intern Bachelos Adv Manufacturing | Mexico | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159965) | 2026-11-18 |
 | Hudson River Trading | Internship Program Manager | New York, NY, United States | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8268234) | 2026-11-18 |
 | iCapital Network | Corporate Finance - Summer 2027 Intern | New York, United States | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) | 2026-11-18 |
@@ -291,7 +328,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Toyota Research Institute | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA | [Apply](https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3) | 2026-11-18 |
 | Trace3 | Business Development Intern | Colorado Springs, CO | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8399428) | 2026-11-18 |
 | Uber | 2027 Business Development Intern - U4B - London | London, United Kingdom | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303139) | 2026-11-18 |
-| Uber | 2027 Operations & Logistics Intern Chile | Mexico | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/305139) | 2026-11-18 |
+| Uber | 2027 Operations & Logistics Intern Chile | Chile | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/305139) | 2026-11-18 |
 | Uber | 2027 Operations & Logistics Intern Mexico | Mexico | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/305137) | 2026-11-18 |
 | Uber Freight | Finance Intern-MTY | Mexico | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5473020008) | 2026-11-18 |
 | United Wholesale Mortgage - careers-wilson.icims.com | Digital AEO Intern | Chicago, IL, United States | [Apply](https://careers-wilson.icims.com/jobs/5237/digital-aeo-intern/job) | 2026-11-18 |
@@ -646,7 +683,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Conveo.ai | Engineering Internship | Belgium / London | [Apply](https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f) | 2026-11-16 |
 | Conveo.ai | GTM Associate - Internship | Belgium | [Apply](https://jobs.ashbyhq.com/conveo/8379837b-a7cf-4c5a-baf3-1f8866b98a0b) | 2026-11-16 |
 | Cummins | Placement Student- HSE, Training Support Specialist | Northamptonshire, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438320) | 2026-11-16 |
-| Dell Technologies | User Research Graduate Intern | Austin, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302688) | 2026-11-16 |
 | Egis Group | Pre Graduate Waste Management engineer (UAE national) | United Arab Emirates | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000161735699) | 2026-11-16 |
 | Emerson Electric | Project Assistant Intern | China | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013795) | 2026-11-16 |
 | Envoy Air | College Intern - Administrative Process Automation (LAX) | Los Angeles, United States | [Apply](https://us-envoyair.icims.com/jobs/13101/college-intern---administrative-process-automation-%28lax%29/job) | 2026-11-16 |
@@ -715,11 +751,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | GM financial | Intern - Software Development Engineer | Irving, TX, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261292) | 2026-11-16 |
 | Haskell | Spring 2027 Construction Intern | Utah | [Apply](https://careers.haskell.com/jobs/7446?lang=en-us&icims=1) | 2026-11-16 |
 | Honeywell | Intern (Bach) Data Engineering | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162258) | 2026-11-16 |
-| Honeywell | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162257) | 2026-11-16 |
 | Honeywell | Intern (Bachelor's)- HR | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162233) | 2026-11-16 |
 | Honeywell | Intern (Bachelor's)- Law | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162493) | 2026-11-16 |
 | Honeywell - CX_1 | Intern (Bach) Data Engineering | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162258) | 2026-11-16 |
-| Honeywell - CX_1 | Intern (Bachelor's) | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162257) | 2026-11-16 |
 | Honeywell - CX_1 | Intern (Bachelor's)- HR | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162233) | 2026-11-16 |
 | Honeywell - CX_1 | Intern (Bachelor's)- Law | India | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162493) | 2026-11-16 |
 | Hootsuite | Co-op/Intern, People Team & Operations - Winter 2027 | Vancouver, BC / Toronto, ON / Calgary, AB / Ottawa, ON / Edmonton, AB | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8392381) | 2026-11-16 |
@@ -757,7 +791,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Moss | Summer '27 Intern - Electrical Engineering | California, United States | [Apply](https://jobs.ashbyhq.com/mossrobotics/a5518c4a-9e9e-4bd7-9c4c-1875aa8813ff) | 2026-11-16 |
 | Moss | Summer '27 Intern - Mechanical Engineering | California, United States | [Apply](https://jobs.ashbyhq.com/mossrobotics/e334b018-a6b5-4e8c-9613-4435a730b501) | 2026-11-16 |
 | Nasdaq | Co-op 2026 - Back End Software Developer Intern | Toronto | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) | 2026-11-16 |
-| Navy Federal | Intern - Year Round (Strategy & Innovation) | Pensacola, FL, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34095) | 2026-11-16 |
 | NBCUniversal | Digital Transformation AR/VR Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161879279) | 2026-11-16 |
 | NBCUniversal | Film Production & Development Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161878602) | 2026-11-16 |
 | NBCUniversal | Focus Features Publicity & Marketing Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000161879639) | 2026-11-16 |
@@ -1030,7 +1063,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Working student Deep Learning & Data Science | Cluj-Napoca, CJ | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161437030) | 2026-11-13 |
 | Robert Bosch Venture Capital | Working Student Embedded ADAS Software | Cluj-Napoca, CJ | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161438539) | 2026-11-13 |
 | Samsung | Intern, Compiler Engineer | California, United States | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) | 2026-11-13 |
-| SCOR | Salesforce Proxy Product Owner Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5578) | 2026-11-13 |
 | Seaspan | Intern, Business Analysis & Project Coordination (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9149) | 2026-11-13 |
 | Seaspan | Intern, Data Engineering (4 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | 2026-11-13 |
 | ServiceNow | AI Security Engineer Intern | California, United States | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161548289) | 2026-11-13 |
@@ -1344,7 +1376,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Star Dental Partners | Imaging Tech Student, Marshall Medical Centers South, Diagnostic Imaging, PRN, Shift Varies | Boaz, AL, United States | [Apply](https://careers-hhsys.icims.com/jobs/77261/imaging-tech-student%2c-marshall-medical-centers-south%2c-diagnostic-imaging%2c-prn%2c-shift-varies/job) | 2026-11-11 |
 | Star Dental Partners | Student Nurse - 5NE Medical Unit - PRN - 1st Shift | Huntsville, AL, United States | [Apply](https://careers-hhsys.icims.com/jobs/76810/student-nurse---5ne-medical-unit---prn---1st-shift/job) | 2026-11-11 |
 | Sundt | Transportation Group Intern - Engineer | Austin, TX, United States | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11842) | 2026-11-11 |
-| Sundt | Transportation Group Intern - Engineer | Denton, TX, United States | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11845) | 2026-11-11 |
 | Sundt | Transportation Group Intern - Engineer | Fort Worth, TX, United States | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11844) | 2026-11-11 |
 | Texas Instruments | Applications Engineering Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018045) | 2026-11-11 |
 | The Exploration Company | ECLSS V&V Engineer Intern | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/ff522da9-87ba-4e4c-b6ee-7226c76583ba) | 2026-11-11 |
@@ -1829,7 +1860,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wells Enterprises | Internship - Transportation/Distribution - Summer 2027 | Le Mars, IA, United States | [Apply](https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2209770) | 2026-11-09 |
 | Worthington Enterprises | Inside Sales Intern- Trade & Specialty Solutions | United States | [Apply](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43457) | 2026-11-09 |
 | WSP | Civil Engineering Intern- Summer 2027 | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98920) | 2026-11-09 |
-| WSP | Civil/Structural Engineering (Substation) Intern - Spring 2027 | Duluth, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99071) | 2026-11-09 |
 | WSP | Marketing Intern - Spring 2027 | Raleigh, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98849) | 2026-11-09 |
 | WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | Houston, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600) | 2026-11-09 |
 | WSP | Structural Engineering Intern - Summer 2027 | Goshen, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98934) | 2026-11-09 |
@@ -1932,8 +1962,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Constellation Energy | Summer 2027 Nuclear Fuels Intern - Warrenville, IL | Illinois | [Apply](https://jobs.constellationenergy.com/jobs/138696?lang=en-us&icims=1) | 2026-11-06 |
 | Continental | 2027 Internship - Human Resources (Hoosier Racing Tire) | Plymouth, IN, United States | [Apply](https://jobs.smartrecruiters.com/Continental/744000160211959) | 2026-11-06 |
 | Cummins | Placement Student - Data Analytics | County Durham, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) | 2026-11-06 |
-| Cummins | Placement Student- Product Manager | Cambridgeshire, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495) | 2026-11-06 |
-| Cummins | Student - Mfg (Housing Fabrication Welding and Machining) | Fletcher, NC, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436761) | 2026-11-06 |
+| Cummins | Placement Student- Product Support | Cambridgeshire, United Kingdom | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495) | 2026-11-06 |
 | Cummins | Student - School to Work - Manufacturing (Gearing) | Fletcher, NC, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436219) | 2026-11-06 |
 | Dell Technologies | Supply Planning Undergraduate Intern | Singapore | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11260) | 2026-11-06 |
 | Emerson Electric | Administrative Intern | Malaysia | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012632) | 2026-11-06 |
@@ -2281,7 +2310,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SCOR | Actuarial Intern, P&C Reserving | New York, United States | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5559) | 2026-11-04 |
 | SCOR | Actuarial Internship – Pricing and Experience Analysis in L&H Reinsurance | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5564) | 2026-11-04 |
 | SCS Engineers | Engineering Intern - Summer 2027 | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4125/engineering-intern---summer-2027/job) | 2026-11-04 |
-| Seaspan | Intern, Project Coordinator (8 Months) | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9137) | 2026-11-04 |
 | Sezzle | Graphic Design Intern | Argentina | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195954003) | 2026-11-04 |
 | Sezzle | Graphic Design Intern | Mexico | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195952003) | 2026-11-04 |
 | Sezzle | Graphic Design Intern | Brazil | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/8195951003) | 2026-11-04 |
@@ -2358,13 +2386,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Highgate | Intern- Operations (Summer 2027) | Roseville, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/84961/intern/job) | 2026-11-03 |
 | Highgate | Intern- Operations (Summer 2027) | Buffalo, NY, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/84960/intern/job) | 2026-11-03 |
 | Hive Financial Systems | HFA Internship 2027 | Georgia | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007) | 2026-11-03 |
-| Hologic | Internship in Production CR | Costa Rica | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12684) | 2026-11-03 |
-| Honeywell | Customer Expert Specialist - Intern (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159042) | 2026-11-03 |
-| Honeywell | Intern Channel Excellence Analyst | Berkshire, United Kingdom | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160362) | 2026-11-03 |
-| Honeywell | Intern/Becario - Application Sales Engineer (m/f/d) | Spain | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161173) | 2026-11-03 |
-| Honeywell - CX_1 | Customer Expert Specialist - Intern (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159042) | 2026-11-03 |
-| Honeywell - CX_1 | Intern Channel Excellence Analyst | Berkshire, United Kingdom | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160362) | 2026-11-03 |
-| Honeywell - CX_1 | Intern/Becario - Application Sales Engineer (m/f/d) | Spain | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161173) | 2026-11-03 |
+| Honeywell | Customer Expert Specialist with French - Intern (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159042) | 2026-11-03 |
+| Honeywell - CX_1 | Customer Expert Specialist with French - Intern (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159042) | 2026-11-03 |
 | Interstates | Assistant Project Manager Intern (Summer 2027) - Tulsa, OK | Broken Arrow, OK | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4078699009&gh_jid=4078699009) | 2026-11-03 |
 | Keysight Technologies | DevSecOps, Intern | Colorado | [Apply](https://jobs.keysight.com/jobs/55072?lang=en-us&icims=1) | 2026-11-03 |
 | KnowBe4 | Security Awareness Content Specialist Summer Internship (Hybrid) | Florida | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8928056002) | 2026-11-03 |
@@ -3042,7 +3065,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Divergent Technologies | Summer 2027 Learning Architecture and Design Intern | California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393542008) | 2026-10-29 |
 | DNV | Student Assistant (Werkstudent) - Talent Acquisition & Employer Branding | Germany | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7932) | 2026-10-29 |
 | Emerson Electric | Quality & Customer Experience Intern | Round Rock, TX, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010989) | 2026-10-29 |
-| Emerson Electric | University Internship-Emerson Costa Rica | Costa Rica | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013188) | 2026-10-29 |
 | Eurofins | Student laboratory technician | Croatia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000158504029) | 2026-10-29 |
 | Exowatt | Buyer / Supply Chain & Logistics Spring Intern (Austin) | Austin, TX | [Apply](https://jobs.lever.co/exowatt/6f40abbb-f067-4621-bfee-1a561687f54d) | 2026-10-29 |
 | Exowatt | Global Supply Manager MBA Spring Intern (Austin) | Austin, TX | [Apply](https://jobs.lever.co/exowatt/67ec6647-9714-465f-9d47-7b40a31f5f77) | 2026-10-29 |
@@ -3054,8 +3076,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Genesis Molecular AI | Software Engineer Intern - 2027 | San Mateo, Canada / New York, NY | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99) | 2026-10-29 |
 | Golden Hippo | PR Intern - Spring 2027 | Remote | [Apply](https://www.golden-careers.com/jobs/4748685005?gh_jid=4748685005) | 2026-10-29 |
 | Greenwood Village South | Senior Living Management Intern | Port Charlotte, FL, United States | [Apply](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/41391) | 2026-10-29 |
-| Honeywell | Intern Bachelor's Customer Expert (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159040) | 2026-10-29 |
-| Honeywell - CX_1 | Intern Bachelor's Customer Expert (m/f/d) | Poland | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159040) | 2026-10-29 |
 | Interco | Paid Internship -- Software Development -- React | St. Louis, MO, United States | [Apply](https://jobs.smartrecruiters.com/Interco/744000158581114) | 2026-10-29 |
 | KCI Technologies | Structural Engineer Intern | Baltimore, MD, United States | [Apply](https://careers-kci.icims.com/jobs/8235/structural-engineer-intern/job) | 2026-10-29 |
 | Kensington | Intern - Luxury Events & Content Marketing | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270052007) | 2026-10-29 |
@@ -3091,7 +3111,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Standard Aero | Summer Intern – Supply Chain | San Antonio, TX, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10645) | 2026-10-29 |
 | Standard Aero | Summer Intern – Supply Chain (Procurement) | San Antonio, TX, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10646) | 2026-10-29 |
 | Stantec | Coastal Engineering Intern - Water (Summer 2027) | Austin, TX, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008550) | 2026-10-29 |
-| Stantec | Engineering Intern - Water (Spring/Summer 2027) | Las Vegas, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008527) | 2026-10-29 |
+| Stantec | Engineering Intern - Water (Spring/Summer 2027) | Las Vegas, NV, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008527) | 2026-10-29 |
 | Steel Dynamics | Metallurgy Internship | Sinton, TX, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8411/metallurgy-internship/job) | 2026-10-29 |
 | Texas Instruments | 2027 Intake Intern (Logistics & Supply Chain) (5-6 Months)  (KL) | Malaysia | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25012045) | 2026-10-29 |
 | The Nuclear Company | Spring 2027 Security Engineer Intern | Washington, DC | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008) | 2026-10-29 |
@@ -3475,7 +3495,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Trace Labs | Robotics Engineering Intern — Hardware & Software | New York | [Apply](https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525) | 2026-10-26 |
 | Tradeweb | Summer 2027 Human Resources Data & Analytics Internship | New York, NY, United States | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987) | 2026-10-26 |
 | Tradeweb | Summer 2027 Human Resources Internship | New York, NY, United States | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301986) | 2026-10-26 |
-| Uber | 2027 Sales Intern, Paris | Ile-De-France, France | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303758) | 2026-10-26 |
 | Uber | 2027 Sales Intern, Warsaw | Poland | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303458) | 2026-10-26 |
 | Uber | 2027 Sales Internship, Berlin | Germany | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303149) | 2026-10-26 |
 | UL Solutions | Administrative & Marketing Intern – Remote | Brazil | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11338) | 2026-10-26 |
@@ -3554,6 +3573,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Liberty Mutual | Northeast - Sales Internship NY-NJ-CT (Comparion) - Summer 2027 | Glastonbury, CT, United States / Trumbull, CT, United States / Middlebury, CT, United States / Salem, NH, United States / Hauppauge, NY, United States / Buffalo, NY, United States / Rochester, NY, United States / North Syracuse, NY, United States / Vestal, NY, United States / Clifton Park, NY, United States / Freehold..., NJ, United States | [Apply](https://campus-libertymutual.icims.com/jobs/262369/northeast---sales-internship-ny-nj-ct-%28comparion%29---summer-2027/job) | 2026-10-24 |
 | Multiply Labs | Robotics Software Intern | San Francisco | [Apply](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | 2026-10-24 |
 | Multiply Labs | Software Intern | San Francisco | [Apply](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) | 2026-10-24 |
+| Navy Federal | Intern - Year Round (Data Analytics) | Pensacola, FL, United States | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/33208) | 2026-10-24 |
 | NTT DATA AIVista | Postdoctoral AI Scientist | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ntt-data-aivista/f294a7f1-5525-49ce-92ad-43746c667d40) | 2026-10-24 |
 | PatientPoint | Client Success Intern | Ohio, United States | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4747074005) | 2026-10-24 |
 | PlayStation | Software Developer in Test Co-Op | Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/waterloocoop/jobs/6230308004) | 2026-10-24 |
@@ -3603,7 +3623,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Atoms | AI Research Intern (PhD) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8909115002) | 2026-10-23 |
 | BGE | FAYETTEVILLE - Transportation, Internship | Fayetteville | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5461893008) | 2026-10-23 |
 | BGE - bgeinc | FAYETTEVILLE - Transportation, Internship | Fayetteville | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5461892008) | 2026-10-23 |
-| Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - Depositary Services | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21173) | 2026-10-23 |
 | Civil & Environmental Consultants | Environmental Intern - Summer 2027 | Charlotte, NC, United States | [Apply](https://careers-cecinc.icims.com/jobs/6673/environmental-intern---summer-2027/job) | 2026-10-23 |
 | Civil & Environmental Consultants | Water Resources Intern - Fall 2027 | Franklin, TN, United States | [Apply](https://careers-cecinc.icims.com/jobs/6652/water-resources-intern---fall-2027/job) | 2026-10-23 |
 | Constellation Energy | 2027 Corrosion & Process Engineering Intern - Geysers | California | [Apply](https://jobs.constellationenergy.com/jobs/140391?lang=en-us&icims=1) | 2026-10-23 |
@@ -3722,7 +3741,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Constellation Energy | 2027 Data & Digital Transformation Intern - Geysers | California | [Apply](https://jobs.constellationenergy.com/jobs/140352?lang=en-us&icims=1) | 2026-10-22 |
 | Constellation Energy | 2027 Structuring & Portfolio Management Intern - San Diego, CA | California | [Apply](https://jobs.constellationenergy.com/jobs/140355?lang=en-us&icims=1) | 2026-10-22 |
 | Cook Group | Manufacturing Engineering- Fall 2027 Co-Op- Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19988/manufacturing-engineering--fall-2027-co-op--bloomington%2c-in/job) | 2026-10-22 |
-| Cummins | 2027 Undergraduate Engineering Internship | Australia | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440779) | 2026-10-22 |
 | Cummins | Manufacturing Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439835) | 2026-10-22 |
 | Cummins | Manufacturing Summer Internship Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439927) | 2026-10-22 |
 | Cummins | Purchasing Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439926) | 2026-10-22 |
@@ -3806,7 +3824,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Société Générale de Surveillance (SGS) | Internship - Human Resource (Pre-Onboarding) | Malaysia | [Apply](https://jobs.smartrecruiters.com/SGS/744000157056014) | 2026-10-22 |
 | Stantec | Geotechnical Summer Student - Summer 2027 | Winnipeg, MB, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008366) | 2026-10-22 |
 | Stantec | Information Communications Technology (ICT ) Intern - Buildings (Summer 2027) | Lynnwood, WA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008438) | 2026-10-22 |
-| Stantec | Structural Engineering Intern - Buildings (Summer 2027) | Austin, TX, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008420) | 2026-10-22 |
 | Star Dental Partners | Imaging Tech Student, PRN, Shift Varies | Decatur, AL, United States | [Apply](https://careers-hhsys.icims.com/jobs/76127/imaging-tech-student%2c-prn%2c-shift-varies/job) | 2026-10-22 |
 | Steel Dynamics | Environmental Engineering Intern | Columbus, MS, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8346/environmental-engineering-intern/job) | 2026-10-22 |
 | Steel Dynamics | Metallurgy Internship | Pittsboro, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8349/metallurgy-internship/job) | 2026-10-22 |
@@ -3985,7 +4002,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Anduril | 2027 Technical Program Manager Intern | California, United States / Hawaii, United States / Virginia, United States / Washington, United States / District Of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | 2026-10-20 |
 | Bernhard | Mechanical Engineering Intern | Fayetteville, AR, United States | [Apply](https://careers-enfra.icims.com/jobs/11362/mechanical-engineering-intern/job) | 2026-10-20 |
 | Bernhard - careers-bernhard.icims.com | Mechanical Engineering Intern | Fayetteville, AR, United States | [Apply](https://careers-enfra.icims.com/jobs/11362/mechanical-engineering-intern/job) | 2026-10-20 |
-| Blue Cross Blue Shield of Michigan | 2027 Summer Intern - Public Policy (Lansing) | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14981) | 2026-10-20 |
 | Braze | Intern, Software Engineering | New York City | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301086) | 2026-10-20 |
 | CDM Smith | Bachelors/Masters - HR Intern (Summer 2027) | Georgia | [Apply](https://careers.cdmsmith.com/jobs/4806?lang=en-us&icims=1) | 2026-10-20 |
 | Charles River Associates (CRA) | Praktikant/in, Life Sciences Strategieberatung/Life Sciences Intern (2027 Start) - m/w/d | Germany | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8300673) | 2026-10-20 |
@@ -4286,7 +4302,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bernhard - careers-bernhard.icims.com | Facilities Manager Intern-Hospital Setting | Winston Salem, NC, United States | [Apply](https://careers-enfra.icims.com/jobs/11543/facilities-manager-intern-hospital-setting/job) | 2026-10-15 |
 | Bernhard - careers-bernhard.icims.com | Facilities Manager Intern-Hospital Setting | Rochester, NY, United States | [Apply](https://careers-enfra.icims.com/jobs/11537/facilities-manager-intern-hospital-setting/job) | 2026-10-15 |
 | Bernhard - careers-bernhard.icims.com | Facilities Manager Intern-Hospital Setting | Midland, TX, United States | [Apply](https://careers-enfra.icims.com/jobs/11535/facilities-manager-intern-hospital-setting/job) | 2026-10-15 |
-| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Comm Mkts Segment Enablement | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14979) | 2026-10-15 |
 | Chase | 2027 AI Research Associate Program - Internship | London, United Kingdom | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210800615) | 2026-10-15 |
 | Citco | Citco Vilnius Internship Program Autumn/Winter 2026 - Administration Team | Lithuania | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14205) | 2026-10-15 |
 | Constellation Energy | Drexel Accounting Analyst Co-op (Spring/Summer 2027) - Philadelphia | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/140026?lang=en-us&icims=1) | 2026-10-15 |
@@ -4446,8 +4461,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Apex | Mission Integration Engineer Internship (Spring or Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e) | 2026-10-13 |
 | BGE | North Austin - Land/Site Development, Internship | Austin | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5450918008) | 2026-10-13 |
 | BGE - bgeinc | North Austin - Land/Site Development, Internship | Austin | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5450919008) | 2026-10-13 |
-| Blue Cross Blue Shield of Michigan | Summer 2027 Intern-Sales Learning & Enablement | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14938) | 2026-10-13 |
-| Citco | CMA Inter Internship | India | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18906) | 2026-10-13 |
 | Constellation Energy | Summer 2027 Nuclear Technical Internship - Pottstown, PA (ASSOCIATE'S DEGREES ONLY) | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/138604?lang=en-us&icims=1) | 2026-10-13 |
 | Constellation Energy | Summer 2027 Technical Engineering Internship - Cordova, IL (ASSOCIATE'S DEGREE ONLY) | Illinois | [Apply](https://jobs.constellationenergy.com/jobs/138839?lang=en-us&icims=1) | 2026-10-13 |
 | Continental | Project- Automation Intern | Mexico | [Apply](https://jobs.smartrecruiters.com/Continental/744000155320932) | 2026-10-13 |
@@ -4474,7 +4487,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Keysight Technologies | Supply Chain Analyst, Intern | California | [Apply](https://jobs.keysight.com/jobs/54808?lang=en-us&icims=1) | 2026-10-13 |
 | Lawrence Livermore National Laboratory (LLNL) | Extreme Light, Matter, and Fusion Graduate Intern - Summer 2027 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016087506) | 2026-10-13 |
 | Lawrence Livermore National Laboratory (LLNL) | Extreme Light, Matter, and Fusion Undergraduate Intern - Summer 2027 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016087626) | 2026-10-13 |
-| Legrand | STAGE - INGENIEUR AMELIORATION CONTINUE H/F | Nouvelle-Aquitaine, France | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1375) | 2026-10-13 |
 | Liberty Mutual | Northeast - Sales Internship MA-NH-RI-VT-ME (Comparion) - Summer 2027 | Springfield, MA, United States / Somerville, MA, United States / Marlborough, MA, United States / South Easton, MA, United States / Cranston, RI, United States / Burlington, MA, United States / Portsmouth, NH, United States / Concord, NH, United States / Londonderry, NH, United States / South Portland, ME, United States / ... | [Apply](https://campus-libertymutual.icims.com/jobs/261749/northeast---sales-internship-ma-nh-ri-vt-me-%28comparion%29---summer-2027/job) | 2026-10-13 |
 | Liberty Mutual | Southeast - Sales Internship GA/TN/KY (Comparion) - Summer 2027 | Kennesaw, GA, United States / Atlanta, GA, United States / Douglasville, GA, United States / Murfreesboro, TN, United States / Knoxville, TN, United States / Lexington, KY, United States / Florence, KY, United States | [Apply](https://campus-libertymutual.icims.com/jobs/261750/southeast---sales-internship-ga-tn-ky-%28comparion%29---summer-2027/job) | 2026-10-13 |
 | Macy's | Macy's 2027 Summer Internship – Digital: Site Merchandising | New York, NY, United States | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92298) | 2026-10-13 |
@@ -4775,7 +4787,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stand Together | KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education | Washington, DC | [Apply](https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6) | 2026-10-07 |
 | Stand Together | KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education | Georgia | [Apply](https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd) | 2026-10-07 |
 | Stantec | Water/Wastewater Student Intern - Summer 2027 | Winnipeg, MB, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008187) | 2026-10-07 |
-| Staples | Financial Analytics Intern | Framingham, MA, United States | [Apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/75887) | 2026-10-07 |
 | Tenstorrent | AI Software Intern (USA) | Texas, United States / California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007) | 2026-10-07 |
 | Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (USA) | Texas, United States / California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007) | 2026-10-07 |
 | Tenstorrent | Hardware Intern - Architecture, AI HW & SoC (USA) | Texas, United States / Massachusetts, United States / Colorado, United States / California, United States | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) | 2026-10-07 |
@@ -4893,7 +4904,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Mechanical Engineering Co-op - Spring/Summer 2027 | Philadelphia, PA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758) | 2026-10-06 |
 | WTW | Early Careers: Corporate Risk and Broking, Broking Placement internship - Canada - 2027 | Toronto, ON, Canada | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606475) | 2026-10-06 |
 | WTW | Early Careers: Health and Benefits Internship - Central - Summer 2027 | Houston, TX, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606455) | 2026-10-06 |
-| WTW | Early Careers: Health and Benefits Internship - West - Summer 2027 | San Francisco, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606454) | 2026-10-06 |
 | AMCA | Electrical Engineering Internship (Summer 2027) | El Segundo, Canada | [Apply](https://job-boards.greenhouse.io/amca/jobs/4396690009) | 2026-10-05 |
 | AMCA | Engineering Internship, Business Operations (Summer 2027) | El Segundo, Canada | [Apply](https://job-boards.greenhouse.io/amca/jobs/4253828009) | 2026-10-05 |
 | AMCA | Growth Internship (Summer 2027) | El Segundo, Canada | [Apply](https://job-boards.greenhouse.io/amca/jobs/4425052009) | 2026-10-05 |
@@ -5041,6 +5051,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Société Générale de Surveillance (SGS) | Administration Internship | Sandton, GP | [Apply](https://jobs.smartrecruiters.com/SGS/744000153506967) | 2026-10-05 |
 | Standard Aero | Articling Student | Winnipeg, MB, Canada | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10347) | 2026-10-05 |
 | Stantec | Civil Engineering Intern - Community Development (Summer 2027) | Portland, OR, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008051) | 2026-10-05 |
+| Stantec | Civil Engineering Internship - Infrastructure (Summer 2027) | Okemos, MI, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008180) | 2026-10-05 |
 | Stantec | Hydrogeology Intern - Energy & Resources (Summer 2027) | Denver, CO, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008074) | 2026-10-05 |
 | Syngenta Group | Soil Spectroscopy and Chemometrics Co-op | Iowa, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000153577623) | 2026-10-05 |
 | Syngenta Group | Vegetables Seed Production Intern | California, United States | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000153588236) | 2026-10-05 |
@@ -5145,7 +5156,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | RoboForce | Robotics Mechanical Engineering Intern (Fall/Winter 2026) | Milpitas, Canada | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5441463008) | 2026-10-02 |
 | Sargent & Lundy | Energy Consulting Intern - Strategic Advisory Services (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/27612/energy-consulting-intern---strategic-advisory-services-%28summer-2027%29/job) | 2026-10-02 |
 | Sargent & Lundy | Instrumentation & Controls Engineering Intern - Nuclear (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/27617/instrumentation-%26-controls-engineering-intern---nuclear-%28summer-2027%29/job) | 2026-10-02 |
-| Sherwin-Williams | 2027 Environmental Health and Safety Intern - Moline, IL | Moline, IL, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625221) | 2026-10-02 |
 | Sherwin-Williams | 2027 Environmental Health and Safety Intern - Pittsburgh, PA | Pittsburgh, PA, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625226) | 2026-10-02 |
 | Sherwin-Williams | 2027 Management & Sales Summer Intern - West Texas | Lubbock, TX, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625141) | 2026-10-02 |
 | Sherwin-Williams | 2027 Operations Intern - Birmingham, AL | Birmingham, AL, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625383) | 2026-10-02 |
@@ -5253,7 +5263,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Muon Space | Legal Intern (Summer 2027) | Remote | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253395007) | 2026-10-01 |
 | Muon Space | Thermal Engineering Intern (Summer 2027) | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253474007) | 2026-10-01 |
 | onsemi | Intern - SW Engineer | Slovakia | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506551) | 2026-10-01 |
-| onsemi | Spring 2027 - Manufacturing Engineer Intern | Nampa, ID, United States | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506813) | 2026-10-01 |
 | PPL | Nuclear Engineering Intern | Kentucky / Pennsylvania / Rhode Island | [Apply](https://careers.pplweb.com/jobs/15316?lang=en-us&icims=1) | 2026-10-01 |
 | PPL | Spring 2027 Engineering Intern - Research & Development | Kentucky / Pennsylvania / Rhode Island | [Apply](https://careers.pplweb.com/jobs/15309?lang=en-us&icims=1) | 2026-10-01 |
 | Publicis Groupe | Intern Customer Experience & Innovation Consulting | Paris, France | [Apply](https://careers.publicisgroupe.com/jobs/176411?lang=en-us&icims=1) | 2026-10-01 |
@@ -5302,7 +5311,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Charles River Associates (CRA) | Analyst Intern (Labor & Employment practice) - Winter/Spring 2027 | College Station, TX, United States / Tallahassee, FL, United States | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) | 2026-09-30 |
 | Chubb | Interns / “Praktikanter” - Chubb Underwriting Operations | Denmark | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36833) | 2026-09-30 |
 | Constellation Energy | Summer 2027 Engineering Intern - Marseilles, IL | Illinois | [Apply](https://jobs.constellationenergy.com/jobs/139412?lang=en-us&icims=1) | 2026-09-30 |
-| Cummins | Student - Mfg  (Housing Fabrication Welding and Machining) - 2nd Shift | Fletcher, NC, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2436762) | 2026-09-30 |
 | Dandy | Summer 2027 Internship - PhD Research Intern | New York, United States | [Apply](https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31) | 2026-09-30 |
 | Dayton Freight Lines | Management Internship | Arcola | [Apply](https://careers-daytonfreight.icims.com/jobs/18270/management-internship/job) | 2026-09-30 |
 | Dexterra Group | Social Media & Student Engagement Coordinator | Victoria, BC, Canada | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000152521649) | 2026-09-30 |
@@ -5362,7 +5370,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Wieland | Intern - Supply Chain | Montpelier, OH, United States | [Apply](https://careers-chasebrass.icims.com/jobs/4350/intern---supply-chain/job) | 2026-09-30 |
 | Wizards of the Coast | 2027 Summer Marketing Internships | Massachusetts, United States / Washington, United States | [Apply](https://job-boards.greenhouse.io/hasbro/jobs/4424981009) | 2026-09-30 |
 | WSP | Electrical Engineering (Substation) Intern - Summer 2027 | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95808) | 2026-09-30 |
-| WSP | Traffic Engineering Intern- Summer 2027 | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96595) | 2026-09-30 |
 | AECOM | BIM Intern - Hiring Event with AECOM - Philadelphia | Newark, DE, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000152268835) | 2026-09-29 |
 | Bedrock Robotics | 2027 Internship Simulation Engineer, Neural Rendering | California, United States | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/77759050-75f5-45ed-a3a8-35b665daaadc) | 2026-09-29 |
 | CannonDesign | Electrical Student Intern | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8852053002) | 2026-09-29 |
@@ -5396,7 +5403,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | General Dynamics Mission Systems | Supply Chain Management Rotational Intern | Pittsfield, MA, United States | [Apply](https://careers-gdms.icims.com/jobs/74643/supply-chain-management-rotational-intern/job) | 2026-09-29 |
 | General Dynamics Mission Systems | Systems Engineering Intern (SLCM - Manassas) | Manassas, VA, United States | [Apply](https://careers-gdms.icims.com/jobs/75139/systems-engineering-intern-%28slcm---manassas%29/job) | 2026-09-29 |
 | General Intuition &amp; Medal | Technical Interns and New Grads | New York City, NY, United States / London | [Apply](https://jobs.ashbyhq.com/generalintuition-medal/69448319-5261-4828-a5c2-af35dc8c42b0) | 2026-09-29 |
-| GM financial | Intern - Risk Consumer | Detroit, MI, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260832) | 2026-09-29 |
 | Hermeus | Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027 | Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) | 2026-09-29 |
 | Highgate | Intern - Human Resources (Summer 2027) | Key West, FL, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/83232/intern/job) | 2026-09-29 |
 | Highgate | Intern - Sales & Events (Summer 2027) | Key West, FL, United States | [Apply](https://externalhourly-highgate.icims.com/jobs/83231/intern/job) | 2026-09-29 |
@@ -5448,7 +5454,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Voyager Technologies | 2027 Software Engineering Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009) | 2026-09-29 |
 | Voyager Technologies | 2027 Systems Engineering Intern | Long Beach | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423335009) | 2026-09-29 |
 | Waters Corporation | Field Service Intern | MO, United States / TX, United States / OH, United States | [Apply](https://uscareers-waters.icims.com/jobs/27556/field-service-intern/job) | 2026-09-29 |
-| WSP | Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027 | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96451) | 2026-09-29 |
 | ACLU Kentucky | Summer 2027 Legal Intern, Capital Punishment Project | North Carolina | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8843536002) | 2026-09-28 |
 | ACLU Kentucky | Summer 2027 Legal Intern, Criminal Law Reform Project | Ny Or Washington, DC | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8842773002) | 2026-09-28 |
 | ACLU Kentucky | Summer 2027 Legal Intern, Disability Rights Program | Remote / Hybrid-Washington D.c. Or San Francisco CA | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8846199002) | 2026-09-28 |
@@ -5611,9 +5616,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rheem | Industrial Distribution Internship - Summer 2027 | NJ, United States | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4441) | 2026-09-26 |
 | Rivian and Volkswagen Group Technologies | Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027) | Illinois, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e) | 2026-09-26 |
 | Saronic | Supply Chain Intern (Summer 2027) | Texas, United States / Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/fe4b7026-42a9-4774-b223-fff882a39bc8) | 2026-09-26 |
+| Sherwin-Williams | 2027 Spring Engineering Co-Op - Fernley, NV | Fernley, NV, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624843) | 2026-09-26 |
+| Sherwin-Williams | 2027 Spring Engineering Co-Op - Greensboro, NC | Greensboro, NC, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624848) | 2026-09-26 |
 | Stand Together | KIP Spring 2027 - Campus Freedom Intern - The American Council of Trustees and Alumni | Washington, DC | [Apply](https://jobs.lever.co/standtogether/d42ab1de-8c17-4192-8a89-4acfe402aa55) | 2026-09-26 |
 | Stantec | Civil Engineering Intern - Water (Summer 2027) | Charleston, SC, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008016) | 2026-09-26 |
-| Stantec | Electrical Engineering Co-op Student - Winter 2027 | St. John's, NL, Canada | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007995) | 2026-09-26 |
 | Syngenta Group | Technical Field Intern | Saskatoon, SK, Canada | [Apply](https://jobs.smartrecruiters.com/SyngentaGroup/744000151900597) | 2026-09-26 |
 | Vanasse Hangen Brustlin (VHB) | Transportation Design Intern- Fall 2027 | Atlanta, GA, United States | [Apply](https://careers-vhb.icims.com/jobs/6374/transportation-design-intern--fall-2027/job) | 2026-09-26 |
 | Vanasse Hangen Brustlin (VHB) | Transportation Design Intern- Summer 2027 | Atlanta, GA, United States | [Apply](https://careers-vhb.icims.com/jobs/6373/transportation-design-intern--summer-2027/job) | 2026-09-26 |
@@ -5714,6 +5720,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Shawmut Design and Construction | Intern/Coop- Safety | Los Angeles, United States | [Apply](https://careers-shawmut.icims.com/jobs/7027/intern-coop--safety/job) | 2026-09-25 |
 | Shawmut Design and Construction | Intern/Coop- Safety | Miami, FL, United States | [Apply](https://careers-shawmut.icims.com/jobs/7026/intern-coop--safety/job) | 2026-09-25 |
 | Shawmut Design and Construction | Intern/Coop- Safety | Providence, RI, United States | [Apply](https://careers-shawmut.icims.com/jobs/7022/intern-coop--safety/job) | 2026-09-25 |
+| Sherwin-Williams | 2027 Spring Engineering Co-Op - Chicago, IL | Chicago, IL, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624784) | 2026-09-25 |
+| Sherwin-Williams | 2027 Spring Engineering Co-Op - Holland, MI | Holland, MI, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624788) | 2026-09-25 |
 | Smiths Detection Group | Industrial Engineering Intern (Paid Internship) | Malaysia | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000151755369) | 2026-09-25 |
 | Southern Star Central Gas Pipeline | Intern, Electrical Engineering | Owensboro, KY, United States | [Apply](https://careers-sscgp.icims.com/jobs/3053/intern%2c-electrical-engineering/job) | 2026-09-25 |
 | SRI International | University of Michigan Career Event-Intern Opportunities | Ann Arbor, MI, United States | [Apply](https://careers-sri.icims.com/jobs/6514/university-of-michigan-career-event-intern-opportunities/job) | 2026-09-25 |
@@ -6025,11 +6033,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | InterSystems | Sales Engineer Intern | Santiago | [Apply](https://job-boards.greenhouse.io/intersystems/jobs/7813050003) | 2026-09-21 |
 | Lazard | April 2027 - M&A Internship - Generalist team - Paris | France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6483) | 2026-09-21 |
 | Lazard | March 2027 - M&A internship – Healthcare team – Paris | France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6370) | 2026-09-21 |
-| Lazard | Stage H/F - Analyste Actions – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6313) | 2026-09-21 |
 | Lazard | Stage H/F - Analyste Contrôleur des Risques – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6337) | 2026-09-21 |
 | Lazard | Stage H/F - Analyste ESG (Direction ESG) – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6318) | 2026-09-21 |
 | Lazard | Stage H/F - Analyste ESG/ISR (Gestion Obligataire) – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6320) | 2026-09-21 |
-| Lazard | Stage H/F - Analyste Financier Gestion Privée – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6315) | 2026-09-21 |
 | Lazard | Stage H/F - Analyste Produits Structurés et Alternatifs – Mars 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6341) | 2026-09-21 |
 | Lazard | Stage H/F - Assistant Commercial & Administratif en Gestion Institutionnelle – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6331) | 2026-09-21 |
 | Lazard | Stage H/F - Assistant Commercial & Administratif en Gestion Institutionnelle – Septembre 2026 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6461) | 2026-09-21 |
@@ -6037,27 +6043,19 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Lazard | Stage H/F - Assistant de Gestion Privée – Bruxelles – Mars 2027 | Belgium | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6344) | 2026-09-21 |
 | Lazard | Stage H/F - Assistant Juridique en Asset Management – Juillet 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6347) | 2026-09-21 |
 | Lazard | Stage H/F - Assistant Sales Gestion Institutionnelle - Pôle Epargne Salariale et Retraite – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6329) | 2026-09-21 |
-| Lazard | Stage H/F - Chargé de Marketing Distribution – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6332) | 2026-09-21 |
-| Lazard | Stage H/F - Chargé de Marketing en Gestion Privée – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6334) | 2026-09-21 |
-| Lazard | Stage H/F - Compliance Officer Junior – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/4226) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Commercial Distribution – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6330) | 2026-09-21 |
-| Lazard | Stage H/F - Développement Gestion Privée (Lyon) – Janvier 2027 | Lyon, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6322) | 2026-09-21 |
-| Lazard | Stage H/F - Développement Gestion Privée – Bruxelles - Janvier 2027 | Belgium | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6324) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Gestion Privée – Luxembourg – Mars 2027 | Luxembourg | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6343) | 2026-09-21 |
 | Lazard | Stage H/F - Développement Gestion Privée – Paris – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6321) | 2026-09-21 |
 | Lazard | Stage H/F - Private Equity – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6317) | 2026-09-21 |
-| Lazard | Stage H/F - Risk Management – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6336) | 2026-09-21 |
 | Lazard | Stage H/F - Suport Sales en Gestion Institutionnelle – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6325) | 2026-09-21 |
 | Lazard | Stage H/F - Support au Business Development de la Gestion Privée – Mars 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6342) | 2026-09-21 |
 | Lazard | Stage H/F - Support commercial et appel d’offres – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6327) | 2026-09-21 |
 | Lazard | Stage H/F – Chargé de Marketing en Gestion d’Actifs – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6333) | 2026-09-21 |
 | Lazard | Stage H/F – Chargé d’Appels d’Offres (Gestion Institutionnelle) – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6326) | 2026-09-21 |
-| Lazard | Stage H/F – Cross Asset Sales - Pôle International – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6328) | 2026-09-21 |
 | Lazard | Stage H/F – Développement Gestion Privée (Nantes) – Janvier 2027 | Nantes, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6323) | 2026-09-21 |
 | Lazard | Stage H/F – IA Manager au sein de l’équipe Finance – Septembre 2026 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6452) | 2026-09-21 |
 | Lazard | Stage H/F – Ingénieur IA Multi-Équipes – Dès que possible ou janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6584) | 2026-09-21 |
 | Lazard | Stage H/F – Juriste Corporate - Juillet 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6348) | 2026-09-21 |
-| Lazard | Stage H/F – Middle Office en Gestion Privée – Janvier 2027 | Paris, France | [Apply](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6335) | 2026-09-21 |
 | National Life | Actuarial Intern  - Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4376293009) | 2026-09-21 |
 | National Life | Affiliated Distribution Strategy & Marketing Intern – Summer 2027 | Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4390937009) | 2026-09-21 |
 | National Life | Capital Management Intern – Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403719009) | 2026-09-21 |
@@ -6116,15 +6114,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Enterprise Mobility | Sales Management Trainee Intern- Spring | Chamblee | [Apply](https://us-erac.icims.com/jobs/567167/sales-management-trainee-intern--spring/job) | 2026-09-19 |
 | Enterprise Mobility | Summer 2027 Sales Management Trainee Intern - Allentown | Allentown | [Apply](https://us-erac.icims.com/jobs/566982/summer-2027-sales-management-trainee-intern---allentown/job) | 2026-09-19 |
 | Enterprise Mobility | Summer 2027 Sales Management Trainee Intern - Bloomsburg | Bloomsburg | [Apply](https://us-erac.icims.com/jobs/566984/summer-2027-sales-management-trainee-intern---bloomsburg/job) | 2026-09-19 |
-| Hilton Worldwide | Housekeeping Supervisor Intern | Portugal | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/224021) | 2026-09-19 |
 | Jensen Hughes | Intern, Fire Protection Engineering | Colorado, United States | [Apply](https://job-boards.greenhouse.io/jensenhughes/jobs/5396224008) | 2026-09-19 |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015408206) | 2026-09-19 |
 | Michael Baker International | Highway Design Intern | Dearborn, MI, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309914) | 2026-09-19 |
 | Newmark Group | Newmark Management Consulting Intern | TX, United States | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249950) | 2026-09-19 |
-| Oracle | Sales Development Rep Intern - Denver, CO- Summer 2027 | Denver, CO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689) | 2026-09-19 |
-| Oracle | Sales Development Rep Intern - Nashville, TN- Summer 2027 | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345687) | 2026-09-19 |
-| Oracle - jobsearch | Sales Development Rep Intern - Denver, CO- Summer 2027 | Denver, CO, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345689) | 2026-09-19 |
-| Oracle - jobsearch | Sales Development Rep Intern - Nashville, TN- Summer 2027 | Nashville, TN, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345687) | 2026-09-19 |
 | Point72 | 2027 Summer Internship - Investment Services | Connecticut, United States | [Apply](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | 2026-09-19 |
 | Prime | Operations Intern | Salt Lake City, UT, United States | [Apply](https://careers-primeinc.icims.com/jobs/5268/operations-intern/job) | 2026-09-19 |
 | Standard Aero | Engineering Intern (Winter or Summer 2027) | Winnipeg, MB, Canada | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10293) | 2026-09-19 |
@@ -6163,10 +6156,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | General Dynamics Mission Systems | Electrical Engineer – Intern | Salt Lake City, UT, United States | [Apply](https://careers-gdms.icims.com/jobs/75019/electrical-engineer-%e2%80%93-intern/job) | 2026-09-18 |
 | General Dynamics Mission Systems | Embedded Software Engineer – Intern | Boise, ID, United States | [Apply](https://careers-gdms.icims.com/jobs/75013/embedded-software-engineer-%e2%80%93-intern/job) | 2026-09-18 |
 | GM financial | Intern - Internal Audit | Fort Worth, TX, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260802) | 2026-09-18 |
-| GM financial | Intern - Oracle Application Developer | Irving, TX, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804) | 2026-09-18 |
 | GM financial | Intern - Process Excellence | Fort Worth, TX, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260842) | 2026-09-18 |
 | GM financial | Intern - Technology Innovation Lab | Arlington, TX, United States | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260826) | 2026-09-18 |
-| Hilton Worldwide | Kitchen Intern – Gusto by Heinz Beck | Portugal | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/224022) | 2026-09-18 |
 | Honeywell | Future Finance Leaders Program - Summer 2027 Intern | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157973) | 2026-09-18 |
 | Honeywell | Future IT Leaders - Summer 2027 Intern | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157978) | 2026-09-18 |
 | Honeywell | Software Engineer Co-Op - Spring/Summer 2027 | Pittsford, NY, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088) | 2026-09-18 |
@@ -6494,7 +6485,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | General Dynamics Mission Systems | Supply Chain Management Rotational Intern | Scottsdale, AZ, United States | [Apply](https://careers-gdms.icims.com/jobs/74894/supply-chain-management-rotational-intern/job) | 2026-09-15 |
 | Graham Capital Management | 2027 Graham Capital Summer Internship – CT / NYC | New York, United States / Connecticut, United States | [Apply](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4721074005?gh_jid=4721074005) | 2026-09-15 |
 | Graham Capital Management | 2027 Graham Capital Summer Internship – London | England, United Kingdom | [Apply](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005) | 2026-09-15 |
-| Greenwood Village South | Business Applications Intern | Des Moines, IA, United States | [Apply](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/39947) | 2026-09-15 |
 | Greenwood Village South | Corporate Communications Intern | Des Moines, IA, United States | [Apply](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/39949) | 2026-09-15 |
 | Hexagon AB | HR Talent Acquisition Intern | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3106/hr-talent-acquisition-intern/job) | 2026-09-15 |
 | ibotta | Data Engineering Intern | Colorado, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2) | 2026-09-15 |
@@ -6996,7 +6986,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rocket Lab USA | HITL Engineering Intern Summer 2027 | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990268003) | 2026-09-10 |
 | Rocket Lab USA | Systems Engineering Intern Summer 2027 | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) | 2026-09-10 |
 | Rocket Lab USA | Turbomachinery Intern Summer 2027 | Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987208003) | 2026-09-10 |
-| S&C Electric Company | MES Proposal Analyst (Co-op) | Toronto, ON, Canada | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107233) | 2026-09-10 |
 | S&C Electric Company | Strategic Sourcing Assistant (Co-op) | Toronto, ON, Canada | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107241) | 2026-09-10 |
 | Sargent & Lundy | Instrumentation & Controls Engineer Intern - Energy & Industrial Group (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26933/instrumentation-%26-controls-engineer-intern---energy-%26-industrial-group-%28summer-2027%29/job) | 2026-09-10 |
 | Saronic | EHS Intern (Summer 2027) | Texas, United States / Franklin, LA | [Apply](https://jobs.ashbyhq.com/saronic/45058422-8f60-426d-af8a-a5567d68deb7) | 2026-09-10 |
@@ -7017,6 +7006,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Steel Dynamics | Quality Internship | Sinton, TX, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/8038/quality-internship/job) | 2026-09-10 |
 | The Exploration Company | Internship - Radiation Testing of Electronic Components and Test Automation | Germany | [Apply](https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357) | 2026-09-10 |
 | Tradeweb | Summer 2027 Brokerage Sales Internship | Jersey City, NJ, United States | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301916) | 2026-09-10 |
+| UC Health | Student Helper II, Float Pool, Part Time | Cincinnati, OH, United States | [Apply](https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24378) | 2026-09-10 |
 | UL Solutions | Customer Services Internship | Italy | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10831) | 2026-09-10 |
 | Wade Trim | Engineer Summer Intern - #3026 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/7350e2ef-ad3f-4319-838b-923c977f0fbe) | 2026-09-10 |
 | Wade Trim | Engineer Summer Intern - #3027 | Flint, MI | [Apply](https://jobs.lever.co/wadetrim/17a7ff4f-46fd-4ab2-b988-9700648d2d7f) | 2026-09-10 |
@@ -7424,7 +7414,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cretex Medical | Manufacturing Engineer Intern - Summer 2027 - rms Company | Coon Rapids, MN, United States | [Apply](https://rms-cretex.icims.com/jobs/6515/manufacturing-engineer-intern---summer-2027---rms-company/job) | 2026-09-05 |
 | Cretex Medical | Quality Engineer Intern - Summer 2027 - rms Company | Coon Rapids, MN, United States | [Apply](https://rms-cretex.icims.com/jobs/6516/quality-engineer-intern---summer-2027---rms-company/job) | 2026-09-05 |
 | CSX | Mechanical Engineering Internship - Summer 2027 (Paid) | Jacksonville, FL, United States | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54844) | 2026-09-05 |
-| Emerson Electric | Sales Development Engineering Intern | Austin, TX, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009676) | 2026-09-05 |
 | Empirical | SCADA Programming Intern - Summer 2027 | Dakota Dunes, SD, United States | [Apply](https://careers-empiricalfoods.icims.com/jobs/4259/scada-programming-intern---summer-2027/job) | 2026-09-05 |
 | Enterprise Mobility | Spring 2027 Sales Management Trainee Intern - Allentown | Allentown | [Apply](https://us-erac.icims.com/jobs/564726/spring-2027-sales-management-trainee-intern---allentown/job) | 2026-09-05 |
 | Fairlife | Engineering Utilities Intern (Summer 2027) | Arizona, United States | [Apply](https://job-boards.greenhouse.io/fairlife/jobs/5231477007) | 2026-09-05 |
@@ -7554,6 +7543,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hunt Oil Company | Geoscience Intern - Summer 2027 | Dallas, TX, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1059) | 2026-09-04 |
 | Hunt Oil Company | Purchasing Intern | Tuscaloosa, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1056) | 2026-09-04 |
 | Keysight Technologies | Integrated Photonics Research Intern (PhD-level) | California | [Apply](https://jobs.keysight.com/jobs/54138?lang=en-us&icims=1) | 2026-09-04 |
+| Kroll | Intern, Transaction Opinions | Chicago, IL, United States | [Apply](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014743) | 2026-09-04 |
 | Michael Baker International | Bridge Intern | Detroit, MI, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309822) | 2026-09-04 |
 | NewsBreak | New Market Launch Intern (MBA), Nearby AI | Washington, United States / California, United States / New York, United States / Remote | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) | 2026-09-04 |
 | NielsenIQ | Intern - Finance | Colombia | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000147548319) | 2026-09-04 |
@@ -7882,6 +7872,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Thea Energy | Physics Intern - Spring/Summer 2027 | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/a2396f89-49c9-4ff4-adc5-37b91e227df5) | 2026-08-31 |
 | Thea Energy | Test Engineering Intern - Spring 2027 | Kearny, NJ | [Apply](https://jobs.lever.co/thea.energy/5912ba14-1003-4f4f-84f2-74f7155e49ad) | 2026-08-31 |
 | Vertiv | Engineering Intern - DC Power Systems (Summer 2027) | Lorain, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279202) | 2026-08-31 |
+| Vertiv | IT Quality Assurance Intern (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) | 2026-08-31 |
 | Vertiv | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Westerville, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279030) | 2026-08-31 |
 | WSP | Electrical Engineering (ESSP) Intern - Summer 2027 | Phoenix, AZ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94034) | 2026-08-31 |
 | Epic Games | Web Engineer Intern | England, United Kingdom | [Apply](https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004) | 2026-08-29 |
@@ -7991,7 +7982,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Chubb | Summer Placement (Bermuda) - Communications Intern | Bermuda | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36197) | 2026-08-26 |
 | Compeer Financial | Intern Engineering | Il-Bloomington / Wi-Sunprairie | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008) | 2026-08-26 |
 | Compeer Financial | Intern Engineering | Wi-Sun Prairie / Il-Bloomington | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008) | 2026-08-26 |
-| Computershare | Meeting Service Intern | China | [Apply](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12780) | 2026-08-26 |
 | DTCC | Application Developer Intern [2027 Intern Program] | Jersey City, NJ, United States | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459) | 2026-08-26 |
 | DTCC | Business Systems Intern [2027 Intern Program] | Jersey City, NJ, United States | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214472) | 2026-08-26 |
 | DTCC | Counterparty Credit Risk Intern [2027 Internship Program] | Jersey City, NJ, United States | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214369) | 2026-08-26 |
@@ -8077,7 +8067,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | BNY | 2027 BNY Summer Internship Program - Office of the CFO (Manchester) | Greater Manchester, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81302) | 2026-08-25 |
 | BNY | 2027 BNY Summer Internship Program - Office of the CFO - Finance & Strategy (Pittsburgh, PA) | Pittsburgh, PA, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81260) | 2026-08-25 |
 | BNY | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Lake Mary, FL) | Lake Mary, FL, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81250) | 2026-08-25 |
-| BNY | 2027 BNY Summer Internship Program - People, Engagement, and Impact (New York, NY) | New York, NY, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81243) | 2026-08-25 |
 | BNY | 2027 BNY Summer Internship Program - People, Engagement, and Impact (Pittsburgh, PA) | Pittsburgh, PA, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81246) | 2026-08-25 |
 | BNY | 2027 BNY Summer Internship Program - Risk and Compliance (Lake Mary, FL) | Lake Mary, FL, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81277) | 2026-08-25 |
 | BNY | 2027 BNY Summer Internship Program - Risk and Compliance (New York, NY) | New York, NY, United States | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81271) | 2026-08-25 |
@@ -8120,7 +8109,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Meridian Partners | Python Software Engineer Co-op | Seattle, WA | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003) | 2026-08-25 |
 | Meridian Partners | Python Software Engineer Graduate Co-op | Seattle, WA | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003) | 2026-08-25 |
 | Rheem | Operations Intern - Summer 2027 | Dayton, OH, United States | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4334) | 2026-08-25 |
-| Sinclair | Digital/Social Media Intern | Columbus, OH, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16897) | 2026-08-25 |
 | Springs Window Fashions | Software Engineering Internship - Summer 2027 | Long Island City, NY, United States | [Apply](https://careers-springswindowfashions.icims.com/jobs/12891/software-engineering-internship---summer-2027/job) | 2026-08-25 |
 | Steel Dynamics | Civil Engineering Internship | Fort Wayne, IN, United States | [Apply](https://careers-steeldynamics.icims.com/jobs/7935/civil-engineering-internship/job) | 2026-08-25 |
 | Western Digital | Intern - Process Engineer | Malaysia | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000145431699) | 2026-08-25 |
@@ -8210,8 +8198,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Freeform | Manufacturing Engineering Intern (Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003) | 2026-08-20 |
 | Freeform | Materials Engineering Intern (Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | 2026-08-20 |
 | Freeform | Process Engineering Intern (Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003) | 2026-08-20 |
-| Montenson | Equipment Solutions Intern - Denver | CO, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23474) | 2026-08-20 |
-| Montenson | Equipment Solutions Intern - Seattle | Kent, WA, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23475) | 2026-08-20 |
 | Sargent & Lundy | Substation Intern - Grid (Summer 2027) | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/26260/substation-intern---grid-%28summer-2027%29/job) | 2026-08-20 |
 | Scientech Research | Quantitative Researcher Intern-Daily | China | [Apply](https://jobs.ashbyhq.com/scientech-research/11c106c6-feed-4da8-a94a-c8d27d8832f7) | 2026-08-20 |
 | Sezzle | AI Engineering Intern | Peru | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) | 2026-08-20 |
@@ -8500,12 +8486,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Medpace, Inc. | Information Security Intern- Spring 2027 | Ohio | [Apply](https://careers.medpace.com/jobs/12926?lang=en-us&icims=1) | 2026-08-11 |
 | Medpace, Inc. | Software Development Co-Op - Spring 2027 | Ohio | [Apply](https://careers.medpace.com/jobs/12922?lang=en-us&icims=1) | 2026-08-11 |
 | Medpace, Inc. | Software QA Test Engineer Intern - Spring 2027 | Ohio | [Apply](https://careers.medpace.com/jobs/12923?lang=en-us&icims=1) | 2026-08-11 |
-| Montenson | Development Intern | MN, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23377) | 2026-08-11 |
 | Montenson | Electrical Engineering Intern – Spring 2027 | United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23241) | 2026-08-11 |
 | Montenson | Electrical Engineering Intern – Summer 2027 | United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23239) | 2026-08-11 |
 | Montenson | Field/Operations Intern - Spring 2027 (Engineering, Electrical, Estimating, Operations, Safety) | United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23315) | 2026-08-11 |
 | Montenson | Field/Operations Intern - Summer 2027 (Engineering, Operations, Estimating) | MN, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23240) | 2026-08-11 |
-| Montenson | Graphic Design Intern | MN, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23351) | 2026-08-11 |
 | Montenson | ITS Analyst Intern | MN, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23354) | 2026-08-11 |
 | Montenson | Marketing Intern - Phoenix | Tempe, AZ, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23370) | 2026-08-11 |
 | Montenson | Risk Management Intern | MN, United States | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23363) | 2026-08-11 |
@@ -8728,7 +8712,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Composio | Product  Ops Intern | India | [Apply](https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff) | 2026-07-20 |
 | Constellation Space | Software Engineering Intern (Winter/Spring) | Washington, United States | [Apply](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a) | 2026-07-20 |
 | CuspAI | MLFF Distillation & GCMC Integration -  Internship | London, United Kingdom / Cambridge, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04) | 2026-07-20 |
-| Duracell | Accounts Payable Intern (Temporary) | Spain | [Apply](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1328) | 2026-07-20 |
 | Odyssey | Research Internship | California, United States / London | [Apply](https://jobs.ashbyhq.com/odysseyml/85dc0f84-8a0a-45b2-ba70-30364750b5be) | 2026-07-20 |
 | Robert Bosch Venture Capital | HR Generalist – Student Position (Romanian speaker) | Hungary | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000138601301) | 2026-07-20 |
 | Sereact | Internship Teleoperation & Data Labeling | Germany | [Apply](https://jobs.ashbyhq.com/sereact/6cdac4ee-0bbb-44f5-a846-c0dbe1ce345a) | 2026-07-20 |
@@ -8785,7 +8768,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Heron Power | Intern, Power Electronics Controls Engineer (Spring /Summer 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862) | 2026-07-11 |
 | Impiricus | Impiricus Intern | Remote | [Apply](https://job-boards.greenhouse.io/impiricus/jobs/5324077008) | 2026-07-11 |
 | Pika | Research Intern (BS/MS/PhD) | California, United States | [Apply](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a) | 2026-07-11 |
-| Sinclair | Sports Intern | Pittsburgh, PA, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16815) | 2026-07-11 |
 | Cotiviti | Intern AI Engineer, Early-Career – LLM Context & Data Layer (Healthcare) | United States Remote | [Apply](https://careers-cotiviti.icims.com/jobs/19531/intern-ai-engineer%2c-early-career-%e2%80%93-llm-context-%26-data-layer-%28healthcare%29/job) | 2026-07-10 |
 | Faraday Future | Finance & AI Automation Intern | California, United States | [Apply](https://job-boards.greenhouse.io/faradayfuture/jobs/7799326003) | 2026-07-10 |
 | Sika | NAPS Electrician | Jhagadia, GJ | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000137080694) | 2026-07-10 |
@@ -8913,8 +8895,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mujin | Register for Future Internship Opportunities at Mujin | Japan (mjhq) | [Apply](https://jobs.lever.co/mujininc/183f0b44-9ff0-4be1-8392-e4b439d25ab5) | 2026-06-17 |
 | N1 | Software Engineer Intern (Backend, Rust) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | 2026-06-17 |
 | N1 | Software Engineer Intern (Fullstack) | New York, United States | [Apply](https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064) | 2026-06-17 |
-| Oracle - jobsearch | CEGIU Demo Data Strategy Intern - OVIP | Redwood City, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334396) | 2026-06-17 |
-| Oracle - jobsearch | M&D Customer Solutions Analyst Intern - OVIP | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334388) | 2026-06-17 |
 | Oracle - jobsearch | M&D Operations Analyst Intern - OVIP | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/334371) | 2026-06-17 |
 | Philadelphia Gas Works | Electrical Engineering Internship - Marketing Department | Not Specified | [Apply](https://careers-pgworks.icims.com/jobs/1962/electrical-engineering-internship---marketing-department/job) | 2026-06-17 |
 | Pigment | Business Development/Sales & Growth Marketing North America (6-month Internship) | Paris | [Apply](https://jobs.lever.co/pigment/d025a757-a3df-4ef7-8344-bcd0de83933f) | 2026-06-17 |
@@ -8959,7 +8939,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Texas Instruments | 2028 Field Applications Engineering Intern | Japan | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010389) | 2026-06-17 |
 | Texas Instruments | 2028 Technical Sales Engineering Intern | Japan | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010388) | 2026-06-17 |
 | Texas Instruments | Analog IC Design Engineering Intern | China | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/240001HW) | 2026-06-17 |
-| Texas Instruments | Product Marketing Engineering Intern | China | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25000455) | 2026-06-17 |
 | Texas Instruments | Product/Test Engineering Intern m/f/d | Germany | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25006174) | 2026-06-17 |
 | TransMarket Group | DevOps/SRE Intern | Illinois, United States | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) | 2026-06-17 |
 | TransMarket Group | Quantitative Trader Intern | Illinois, United States | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | 2026-06-17 |
@@ -9082,8 +9061,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | onsemi | INTERN - Test and Product Engineering Technician | Philippines | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504122) | 2026-06-13 |
 | onsemi | Intern, Manufacturing | Philippines | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504112) | 2026-06-13 |
 | onsemi | INTERN, TECHNICIAN | Philippines | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503961) | 2026-06-13 |
-| Oracle | CEGIU Demo Data Strategy Intern - OVIP | Redwood City, United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396) | 2026-06-13 |
-| Oracle | M&D Customer Solutions Analyst Intern - OVIP | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | 2026-06-13 |
 | Oracle | M&D Operations Analyst Intern - OVIP | United States | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334371) | 2026-06-13 |
 | RESPEC | Student Engineering Intern - Cavern Geomechanics | Rapid City, SD, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000107082695) | 2026-06-13 |
 | RESPEC | Student Engineering Intern - Civil | Fort Myers, FL, United States | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000113805397) | 2026-06-13 |
