@@ -12,6 +12,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Celonis | Associate AI and Data Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209081003?gh_jid=8209081003) | 2026-11-19 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209080003?gh_jid=8209080003) | 2026-11-19 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003) | 2026-11-19 |
+| Kira | Software Engineer (Entry Level) | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7) | 2026-11-19 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Oklahoma City, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5487572008) | 2026-11-19 |
 | Relativity Space | New Grad 2027 - Materials & Processes Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002) | 2026-11-19 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (St. Charles, MO) | St. Charles, MO | [Apply](https://jobs.lever.co/woodardcurran/31e5954e-76c5-4021-af09-af45b26fdc61) | 2026-11-19 |
@@ -24,8 +25,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Rail/Transit Engineer | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162382809) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (PhD) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) | 2026-11-18 |
-| Eight Sleep | New Grad - Business Functions | Italy / San Francisco / New York City / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
-| Eight Sleep | New Grad - Engineering | Italy / San Francisco / New York City / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | 2026-11-18 |
+| Eight Sleep | New Grad - Business Functions | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
+| Eight Sleep | New Grad - Engineering | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | 2026-11-18 |
 | Eurofins | Laboratory Technician (Sample Splitting Officer) - Graduate / Entry Level | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162214469) | 2026-11-18 |
 | Framatome | Early Career NDE Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2873/early-career-nde-technician/job) | 2026-11-18 |
 | Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15288/entry-level-substation-engineer/job) | 2026-11-18 |
@@ -382,7 +383,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Ford Motor Company | Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV | Palo Alto, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607) | 2026-10-09 |
 | Geosyntec Consultants | Early Career Environmental Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4966/early-career-environmental-engineer/job) | 2026-10-09 |
 | GHD | Recent Graduate Quality Assurance Inspector - Transportation | Waterloo, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28727) | 2026-10-09 |
-| Maxinsights | Entry-Level HR Associate | California, United States | [Apply](https://jobs.ashbyhq.com/maxinsights/38aaedcc-3bac-4b8a-af0d-54f51859ba19) | 2026-10-09 |
 | Olsson | Entry-Level Geotechnical Driller | Oklahoma City, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5448695008) | 2026-10-09 |
 | WSP | Early Career Electrical Engineer (Generation) | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97308) | 2026-10-09 |
 | AECOM | Entry Level Bridge Inspector- Hiring Event with AECOM - Boston, MA | Providence, RI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154413631) | 2026-10-08 |
