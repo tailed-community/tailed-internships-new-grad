@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (St. Charles, MO) | St. Charles, MO | [Apply](https://jobs.lever.co/woodardcurran/31e5954e-76c5-4021-af09-af45b26fdc61) | 2026-11-19 |
 | AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162387449) | 2026-11-18 |
 | AECOM | Entry Level Highway Civil Engineer | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162176094) | 2026-11-18 |
 | AECOM | Entry-Level Environmental Engineer | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162375129) | 2026-11-18 |
