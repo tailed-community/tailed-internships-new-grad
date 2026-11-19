@@ -64,6 +64,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Emerson Electric | Demo Engineer Intern | Hungary | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013688) | 2026-11-19 |
 | Emerson Electric | Intern or Co op | India | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014151) | 2026-11-19 |
 | ENSCO | SkillBridge Plumber Intern | Colorado, United States | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5486959008) | 2026-11-19 |
+| Eridu AI | ASIC Architecture Intern | Saratoga, Canada | [Apply](https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f) | 2026-11-19 |
 | Etched | Production Intern | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9) | 2026-11-19 |
 | Eurofins | 6-month internship - Finance Controller | Belgium | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162535684) | 2026-11-19 |
 | Eurofins | 6-month internship - IT Finance & Data Analyst | Belgium | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162539484) | 2026-11-19 |
@@ -5976,7 +5977,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ulta Beauty | DC Intern | Illinois | [Apply](https://careers.ulta.com/jobs/407333?lang=en-us&icims=1) | 2026-09-22 |
 | WTW | Early Careers: Integrated and Global Solutions Internship- Fall 2027 | New York, NY, United States | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606119) | 2026-09-22 |
 | Xcimer Energy | Summer 2027 Internship - Controls Systems Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) | 2026-09-22 |
-| 4AG Robotics | AI Co-op Student (Winter 2027) | Salmon Arm, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - Construction, Civil & Environmental Engineering Career Fair | Columbus, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692494) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - MSU Civil & Environmental Engineering Career Fair 2026 | Detroit, MI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692859) | 2026-09-21 |
 | AECOM | Internship and Entry-Level Graduate Opportunities - Pigman Civil Engineering Career Expo | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000150692589) | 2026-09-21 |

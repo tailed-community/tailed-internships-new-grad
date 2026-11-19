@@ -1333680,5 +1333680,19 @@
     "date_added": "2026-11-05",
     "active": false,
     "date_archived": "2026-11-19"
+  },
+  {
+    "id": "rippling-4ag-robotics-921801f5-ae83-4a49-a234-221a87d94fe7",
+    "company": "4AG Robotics",
+    "title": "AI Co-op Student (Winter 2027)",
+    "location": "Salmon Arm, Canada",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
+    "date_posted": null,
+    "date_added": "2026-09-21",
+    "active": false,
+    "date_archived": "2026-11-19"
   }
 ]
