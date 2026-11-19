@@ -590,7 +590,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AECOM | Engineering Intern | Cleveland, OH, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161861399) | 2026-11-16 |
 | Aerotek | Sales Internship | Daniel Island, SC, United States | [Apply](https://careers-aerotek.icims.com/jobs/14191/sales-internship/job) | 2026-11-16 |
 | AIMCo | Student, Workplace Experience | Edmonton | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Workplace-Experience_JR100953) | 2026-11-16 |
-| AMAX | R&D Engineering Intern | California, United States | [Apply](https://apply.workable.com/amax-1/j/19B39953E1/) | 2026-11-16 |
 | American Bureau of Shipping | Intern / Estagiário | Rio De Janeiro, RJ | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4994) | 2026-11-16 |
 | Anduril | 2027 Industrial Equipment Maintenance Intern | Ohio, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) | 2026-11-16 |
 | Anduril | 2027 Product Marketing Intern | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) | 2026-11-16 |
@@ -691,15 +690,14 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
 | Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
-| Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
 | Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
-| Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
 | Bask Health | Product Operations Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/) | 2026-11-16 |
 | Bask Health | Software Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/) | 2026-11-16 |
 | Bask Health | Technical Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/63058F60EC/) | 2026-11-16 |
 | Bask Health | Technical Support Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/0F7C20F77C/) | 2026-11-16 |
+| Bask Health | UX Research Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1F58DD2D0A/) | 2026-11-16 |
 | Bask Health | UX Writing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E35FFA0BD1/) | 2026-11-16 |
 | Belmond | Spa Receptionist and Quality Intern - La Residencia, a Belmond Hotel (Mallorca) | Spain | [Apply](https://apply.workable.com/belmond-uk-ltd/j/E396F4FF33/) | 2026-11-16 |
 | Bertelsmann | Events and public relations internship – 6 months (m/f/d) | Neuilly Sur Seine, France | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000161762560) | 2026-11-16 |
@@ -2128,8 +2126,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | AXA | Internship - Data & Actuary CAT NAT | Paris, France | [Apply](https://careers.axa.com/jobs/30272?lang=en-us&icims=1) | 2026-11-05 |
 | AXA | Internship - Flood Nat Cat Analyst - March 2027 | Paris, France | [Apply](https://careers.axa.com/jobs/30274?lang=en-us&icims=1) | 2026-11-05 |
 | AXA | Werkstudent Prozessautomatisierung & Microsoft 365 (m/w/d) | Germany | [Apply](https://careers.axa.com/jobs/30278?lang=en-us&icims=1) | 2026-11-05 |
-| Ballotpedia | Editorial Spring 2027 Internship Program (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/DF762B8021/) | 2026-11-05 |
-| Ballotpedia | GIS Analyst Spring 2027 Internship (Paid/Remote) | United States Remote | [Apply](https://apply.workable.com/ballotpedia/j/4AF879CDEA/) | 2026-11-05 |
 | Belmond | Finance Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/B61BC347D5/) | 2026-11-05 |
 | Belmond | Human Resources Intern | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/A1E17B02FB/) | 2026-11-05 |
 | Bertelsmann | SAP Trainee– Consulting & Development | Birmingham, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159905789) | 2026-11-05 |
@@ -4536,7 +4532,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Aerotek | Sales Internship - East Lansing, MI | East Lansing, MI, United States | [Apply](https://careers-aerotek.icims.com/jobs/13951/sales-internship---east-lansing%2c-mi/job) | 2026-10-12 |
 | Arcadis | Gateway Legal Intern | New York, NY, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45073) | 2026-10-12 |
 | Arcesium | Product Management Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | 2026-10-12 |
-| Arondite | Software Engineer - Summer 2027 Intern | England, United Kingdom | [Apply](https://apply.workable.com/arondite/j/D3211449EF/) | 2026-10-12 |
 | BNY | 2027 BNY Summer Internship Program – Credit & Lending (London) | London, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83005) | 2026-10-12 |
 | BNY | 2027 BNY Summer Internship Program – Trade Execution (London) | London, United Kingdom | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83002) | 2026-10-12 |
 | Bobyard | Computer Vision Research Engineer - Intern | California, United States | [Apply](https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f) | 2026-10-12 |
