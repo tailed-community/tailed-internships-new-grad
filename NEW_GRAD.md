@@ -7,12 +7,14 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162397157) | 2026-11-19 |
 | Anduril | 2026 Early Career Test & Evaluation Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5196267007?gh_jid=5196267007) | 2026-11-19 |
 | Anduril | 2027 Early Career Test & Evaluation Operations Analyst | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007) | 2026-11-19 |
 | Celonis | Associate AI and Data Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209081003?gh_jid=8209081003) | 2026-11-19 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | Germany | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209080003?gh_jid=8209080003) | 2026-11-19 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking) | Spain | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003) | 2026-11-19 |
 | Cummins | 2027 Early Career - Combustion and Emissions Systems Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442840) | 2026-11-19 |
+| Eurofins | Laboratory Technician (Entry Level, no college degree required) Carrollton, TX | Carrollton, TX, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162394189) | 2026-11-19 |
 | Ford Motor Company | Vehicle Access System Engineering - Early Career Program, Advanced EV | Allen Park, MI, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) | 2026-11-19 |
 | Hunt Oil Company | Atmore Driver Entry Level 2 | Atmore, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1113) | 2026-11-19 |
 | Kira | Software Engineer (Entry Level) | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7) | 2026-11-19 |
@@ -20,13 +22,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Relativity Space | New Grad 2027 - Materials & Processes Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002) | 2026-11-19 |
 | Sargent & Lundy | Early Career Talent Recruiter | Not Specified | [Apply](https://careers-sargentlundy.icims.com/jobs/29894/early-career-talent-recruiter/job) | 2026-11-19 |
 | Securitas | Entry Level Security Officer | Lansing, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177368) | 2026-11-19 |
+| Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000162538407) | 2026-11-19 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (St. Charles, MO) | St. Charles, MO | [Apply](https://jobs.lever.co/woodardcurran/31e5954e-76c5-4021-af09-af45b26fdc61) | 2026-11-19 |
 | AECOM | Entry Level Civil Engineer | Minneapolis, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162387449) | 2026-11-18 |
 | AECOM | Entry Level Highway Civil Engineer | Conshohocken, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162176094) | 2026-11-18 |
 | AECOM | Entry-Level Environmental Engineer | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162375129) | 2026-11-18 |
 | AECOM | Entry-Level Environmental Scientist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162373820) | 2026-11-18 |
 | AECOM | Entry-Level Geologist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162375279) | 2026-11-18 |
-| AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162172469) | 2026-11-18 |
 | AECOM | Entry-Level Rail/Transit Engineer | Philadelphia, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162382809) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (PhD) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) | 2026-11-18 |
@@ -47,8 +49,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Environmental Scientist | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99691) | 2026-11-18 |
 | WSP | Early Career Process Pipeline Engineer | Tucson, AZ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99730) | 2026-11-18 |
 | WSP | Early Career Structural Engineer (Buildings) | San Diego, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99669) | 2026-11-18 |
-| AECOM | Entry-Level Civil Engineer | Latham, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161916755) | 2026-11-17 |
-| AECOM | Entry-Level Civil Engineer | Buffalo, NY, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161917599) | 2026-11-17 |
 | Bask Health | Associate Solutions Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AC6A87E0C2/) | 2026-11-17 |
 | Bask Health | Business Development Representative, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/A9930609B4/) | 2026-11-17 |
 | Bask Health | Commercial Operations Associate, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9E7F7A8A91/) | 2026-11-17 |
@@ -67,7 +67,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Environmental Engineer | San Francisco, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98742) | 2026-11-17 |
 | WSP | Early Career Mechanical Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99275) | 2026-11-17 |
 | WSP | Early Career Structural Engineer (Buildings) | Los Angeles, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99566) | 2026-11-17 |
-| AECOM | Entry Level Right of Way Agent | Raleigh, NC, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161876290) | 2026-11-16 |
 | Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161817101) | 2026-11-16 |
 | Avery Dennison | Ingénieur Production / Opérations – Graduate Program (H/F) | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161780376) | 2026-11-16 |
 | Bask Health | Associate Product Designer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3D7A081280/) | 2026-11-16 |
@@ -93,7 +92,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Shield AI | Software Engineer I - Internal Tools (New Grad) - R6052 | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | 2026-11-14 |
 | AECOM | Entry-Level Environmental Scientist -  Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161512490) | 2026-11-13 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | India | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003) | 2026-11-13 |
-| Harvard University | Graduate Program Coordinator | Cambridge, MA, United States | [Apply](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016835366) | 2026-11-13 |
 | ReBuild Manufacturing | Entry Level Composite Technician | Rock Hill, SC | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4753751005) | 2026-11-13 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Atlanta, GA - Diablo Tools - DAT | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377089) | 2026-11-13 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Boston, MA - Diablo Tools - DAT | Boston, MA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377189) | 2026-11-13 |
@@ -158,7 +156,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Dandy | Business Development Representative (NY - Entry Level) | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/ab4d88b1-4a75-424a-bfa5-2b5cc7cb47de) | 2026-11-09 |
 | Dandy | Business Development Representative (UT - Entry Level) | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/a2c25144-1357-47ac-9b27-07c50e42134e) | 2026-11-09 |
 | Eurofins | Entry Level Chemist - Lipids - 2nd shift | Madison, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160734259) | 2026-11-09 |
-| Eurofins | Entry Level Scientist - CGT | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160709820) | 2026-11-09 |
 | Eurofins | Manufacturing Quality Specialist (Entry Level 2nd Shift) | Louisville, KY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160621479) | 2026-11-09 |
 | HoYoverse | Game Operations Specialist (Entry-level) | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/db21e531-e3b1-4d5a-b1a6-3b391f69ab28) | 2026-11-09 |
 | HoYoverse | Test Development Engineer - Entry Level | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94) | 2026-11-09 |
@@ -177,7 +174,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | NASHVILLE - Land/Site Development, New Grad | Tennessee, United States | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5474191008) | 2026-11-05 |
 | Coram AI | Business Development Representative (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/c316ccb3-b80f-4783-bba7-d9fe6315a823) | 2026-11-05 |
 | Coram AI | Sales Athlete (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/ba86f0ef-81e1-4dd6-ae8c-b8bf6a1e9fc6) | 2026-11-05 |
-| Eurofins | Entry Level Production Technician (No College Degree required) | Carrollton, TX, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159744200) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931507002?gh_jid=8931507002) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002) | 2026-11-05 |
 | SpaceX | New Graduate Engineer, Mechanical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002) | 2026-11-05 |
@@ -323,7 +319,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Jencap | Property Damage Claims Adjuster (Entry Level) | Phoenix, AZ | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5200158007) | 2026-10-21 |
 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) | 2026-10-21 |
 | SambaNova Systems | AI Performance Engineer - New Grad | Texas, United States / California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | 2026-10-21 |
-| Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000156401069) | 2026-10-21 |
 | Anduril | 2027 Early Career Warhead Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) | 2026-10-20 |
 | Arcadis | Entry Level Water Engineer | Plantation, FL, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45305) | 2026-10-20 |
 | C3.ai | Forward Deployed Engineer - Federal, New Grad 2027 | Virginia, United States | [Apply](https://c3.ai/job-description/8900477002?gh_jid=8900477002) | 2026-10-20 |
