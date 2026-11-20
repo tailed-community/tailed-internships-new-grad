@@ -150,7 +150,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | Graduate Program - Operations / Manufacturing | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160884551) | 2026-11-10 |
 | Clean Harbors | Environmental Field Chemist – Entry Level (InSite Chemist) | Cincinnati, OH, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168583) | 2026-11-10 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Urban, Campus & Cultural | New York, NY, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4165/project-specialist%2c-architecture-%7c-2026-new-grad---urban%2c-campus-%26-cultural/job) | 2026-11-10 |
-| Etched | Early Career Recruiter | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/d6807446-fab5-45d8-b741-a286f2436936) | 2026-11-10 |
 | General Dynamics | Welding/Materials Engineer - Early Career | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/24317/welding-materials-engineer---early-career/job) | 2026-11-10 |
 | Netic | Recruiting Coordinator - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/0815d91d-2655-43e9-b7de-8a4ecab65772) | 2026-11-10 |
 | WSP | Early Career Civil Engineer | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99097) | 2026-11-10 |
@@ -219,7 +218,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | Il Or New York, NY | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3) | 2026-11-02 |
 | Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/old-mission-capital/cec17eab-6e17-4248-aa35-3824392c056d) | 2026-11-02 |
 | Old Mission | Quantitative Trader – 2027 Graduate Program (February Start) | Il Or New York, NY | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505) | 2026-11-02 |
-| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d) | 2026-11-02 |
 | Path Robotics | Early Career & University Relations Recruiter | Ohio | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8858430002?gh_jid=8858430002) | 2026-11-02 |
 | Quantiq | Hardware Developer- New Graduate | Chicago, IL | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280673009) | 2026-11-02 |
 | Quantiq | Software Developer- New Graduate | Austin, TX | [Apply](https://job-boards.greenhouse.io/quantiq/jobs/4280650009) | 2026-11-02 |
@@ -726,8 +724,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eurofins | Sample Management Officer – Entry Level (Graduates Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138236701) | 2026-07-17 |
 | GHD | GHD Graduate Program 2026/27 - Delivery Phase Services - Electrical Engineers | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27745) | 2026-07-16 |
 | mthree | Entry-Level Analyst – Product & Accounting Control | Montréal, QC, Canada | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4697218006) | 2026-07-16 |
-| Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8) | 2026-07-16 |
-| Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | California, United States | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) | 2026-07-16 |
 | GHD | GHD Graduate Program 2026/27 - Darwin - Civil Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688) | 2026-07-15 |
 | The Health Management Academy | Business Development Associate (Entry Level Sales) | Arlington, VA | [Apply](https://job-boards.greenhouse.io/thehealthmanagementacademy/jobs/5343024008) | 2026-07-14 |
 | Pylon | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | 2026-07-13 |
