@@ -12,6 +12,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | RF Integration Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007) | 2026-11-20 |
 | Arconic | Entry Level Production | Lancaster, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114390) | 2026-11-20 |
 | BMO | Personal & Business Banking Development Program (New Graduate) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260023509) | 2026-11-20 |
+| Eurofins | Microbiologist (Entry Level) | King Of Prussia, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162773049) | 2026-11-20 |
+| Eurofins | Specialist I- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162600266) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams & Water Infra) - Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29554) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29544) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Tailings) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29558) | 2026-11-20 |
@@ -200,8 +202,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veeva Systems | Associate Business Consultant - Entry-Level Life Sciences Consulting | Massachusetts Boston | [Apply](https://jobs.lever.co/veeva/e2f879c3-cfdd-4d1b-b866-7f0987576865) | 2026-11-05 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3057.29 | New York, NY | [Apply](https://jobs.lever.co/wadetrim/0bf0d5aa-d988-458a-bb24-57e08ff0538a) | 2026-11-05 |
 | WSP | Early Career Structural Engineer (Buildings) | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98820) | 2026-11-05 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159539789) | 2026-11-04 |
-| AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000159539729) | 2026-11-04 |
 | CAMS | Entry-Level Electrical Engineer | Texas | [Apply](https://jobs.lever.co/camstex/cb41259c-ad4d-49d7-afe1-f1512c828491) | 2026-11-04 |
 | EaglePicher Technologies | Financial Analyst - Entry Level | Joplin C Street, MO, United States | [Apply](https://careers-eaglepicher.icims.com/jobs/3234/financial-analyst---entry-level/job) | 2026-11-04 |
 | Eurofins | Entry Level Analytical Chemist | Groton, CT, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159538419) | 2026-11-04 |
@@ -273,7 +273,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veolia | Entry Level Wastewater Technician | Oconto, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158386790) | 2026-10-29 |
 | Veolia | Entry Level Wastewater Technician | Lena, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387519) | 2026-10-29 |
 | WSP | Early Career Electrical Engineer - Renewables | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96744) | 2026-10-29 |
-| AECOM | Entry-Level Structural Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000158335424) | 2026-10-28 |
 | Avery Dennison | Procurement Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000157865740) | 2026-10-28 |
 | CannonDesign | Mechanical - Entry Level | Arlington, VA | [Apply](http://www.cannondesign.com/careers/?gh_jid=8920332002) | 2026-10-28 |
 | KCI Technologies | Entry Level Field Surveyor | Sparks, MD, United States | [Apply](https://careers-kci.icims.com/jobs/8229/entry-level-field-surveyor/job) | 2026-10-28 |
