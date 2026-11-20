@@ -10,7 +10,27 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | Mission Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) | 2026-11-20 |
 | Anduril | Radar Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) | 2026-11-20 |
 | Anduril | RF Integration Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007) | 2026-11-20 |
+| Arconic | Entry Level Production | Lancaster, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114390) | 2026-11-20 |
 | BMO | Personal & Business Banking Development Program (New Graduate) | Toronto, ON | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260023509) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams & Water Infra) - Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29554) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29544) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Civil Engineering (Tailings) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29558) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Civil/Structural Engineering - Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29559) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Electrical Engineering (Buildings & Power) - Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29556) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Mechanical Engineering - Traralgon | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29557) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Aquatic Ecology – Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29547) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Brisbane – Graduate Chemical/Process Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29550) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Environmental Engineering/Science (Hydrogeology) – Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29549) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Environmental Engineering/Science (Hydrogeology) – Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29553) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Environmental Science (Planning/Impact Assessment) – Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29552) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Project Management & Civil Engineering – Geelong | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27713) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Project Management & Civil Engineering – Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29551) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 – Project Management & Civil Engineers - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29546) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Chemical (Process) Engineering - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29285) | 2026-11-20 |
+| GHD | GHD Graduate Program 2026/27 - Civil & Structural Drafters/Designers (Melbourne) | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25441) | 2026-11-20 |
+| Honeywell | 2027 UR Early Career Program-Software Engr I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158589) | 2026-11-20 |
+| Honeywell - CX_1 | 2027 UR Early Career Program-Software Engr I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158589) | 2026-11-20 |
+| onsemi | Entry Level Engineer (ELE) | Malaysia | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507237) | 2026-11-20 |
 | AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162397157) | 2026-11-19 |
 | Anduril | 2026 Early Career Test & Evaluation Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5196267007?gh_jid=5196267007) | 2026-11-19 |
 | Anduril | 2027 Early Career Test & Evaluation Operations Analyst | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007) | 2026-11-19 |
@@ -69,7 +89,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/b89ed7ad-8772-4564-9480-ce8d7035f460) | 2026-11-17 |
 | Woodard Curran | Entry-level Instrumentation, Controls & Automation Engineer (MA, RI, CT) | Massachusetts / Andover, MA / Canton, MA / Middletown, CT / Providence, RI | [Apply](https://jobs.lever.co/woodardcurran/ac512037-39b9-4cf8-835f-15248f5dfa51) | 2026-11-17 |
 | WSP | Early Career Environmental Engineer | San Francisco, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98742) | 2026-11-17 |
-| WSP | Early Career Mechanical Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99275) | 2026-11-17 |
 | WSP | Early Career Structural Engineer (Buildings) | Los Angeles, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99566) | 2026-11-17 |
 | Avery Dennison | Graduate Program Européen – Opérations & Production (H/F) | Champ-Sur-Drac, France | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161817101) | 2026-11-16 |
 | Avery Dennison | Ingénieur Production / Opérations – Graduate Program (H/F) | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000161780376) | 2026-11-16 |
@@ -104,7 +123,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools - DAT | Los Angeles, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377399) | 2026-11-13 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Portland, OR - Diablo Tools - DAT | Portland, OR, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161375676) | 2026-11-13 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Seattle, WA - Diablo Tools - DAT | Seattle, WA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377959) | 2026-11-13 |
-| Securitas | Hiring Event for Entry Level Security Officers - Offers on the Spot! | Manassas, VA, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177128) | 2026-11-13 |
 | Securitas | Security Officer - Entry Level | Battle Creek, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177126) | 2026-11-13 |
 | Shield AI | Electrical Engineer I - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d) | 2026-11-13 |
 | Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts, United States | [Apply](https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a) | 2026-11-13 |
@@ -287,7 +305,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | Field Service Technician I - Fire Alarms Systems (Entry Level) | Miami, FL, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160836) | 2026-10-24 |
 | Anduril | 2027 Early Career Electrical Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) | 2026-10-23 |
 | Anduril | 2027 Early Career Software Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007) | 2026-10-23 |
-| Dell Technologies | Inside Sales Product Specialist - Early Career | Round Rock, TX, United States | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301118) | 2026-10-23 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Oklahoma City, OK, United States | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228331) | 2026-10-23 |
 | Keysight Technologies | Inside Sales Representative, Recent Graduate | California | [Apply](https://jobs.keysight.com/jobs/54836?lang=en-us&icims=1) | 2026-10-23 |
 | Palantir | Forward Deployed Software Engineer, New Grad - Warp Speed | New York, NY | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | 2026-10-23 |
@@ -494,6 +511,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | C3.ai | Platform Full-Stack Engineer, New Grad 2027 | California, United States | [Apply](https://c3.ai/job-description/8801434002?gh_jid=8801434002) | 2026-09-14 |
 | Dell Technologies | 2027 Server Hardware Engineering Graduate Program | Taiwan | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11174) | 2026-09-14 |
 | Dell Technologies | 2027 Server Mechanical Engineering Graduate Program | Taiwan | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11171) | 2026-09-14 |
+| GHD | GHD Graduate Program 2026/27 - Landscape Architecture (Melbourne) | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28629) | 2026-09-14 |
 | Honeywell | 2027 UR Early Career Program-IA Marketing UR | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157437) | 2026-09-14 |
 | Honeywell - CX_1 | 2027 UR Early Career Program-IA Marketing UR | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157437) | 2026-09-14 |
 | Scale AI | Software Engineer - New Grad | London, United Kingdom | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | 2026-09-14 |
@@ -514,9 +532,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
 | Dexterra Group | Construction Laborer – Entry Level (contract) | Edmonton, AB, Canada | [Apply](https://jobs.smartrecruiters.com/Dexterra/744000148325920) | 2026-09-09 |
 | Honeywell | 2027 UR Early Career Program-Application/Sys Sales Eng I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157448) | 2026-09-09 |
-| Honeywell | 2027 UR Early Career Program-Software Engr I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157279) | 2026-09-09 |
 | Honeywell - CX_1 | 2027 UR Early Career Program-Application/Sys Sales Eng I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157448) | 2026-09-09 |
-| Honeywell - CX_1 | 2027 UR Early Career Program-Software Engr I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157279) | 2026-09-09 |
 | Keysight Technologies | Solutions Engineer (Recent Graduate) | Illinois | [Apply](https://jobs.keysight.com/jobs/53913?lang=en-us&icims=1) | 2026-09-09 |
 | McWane | McWane Ductile Ohio - Production Entry Level | Coshocton, OH, United States | [Apply](https://jobs.smartrecruiters.com/McWaneInc/3743990015121495) | 2026-09-09 |
 | True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
