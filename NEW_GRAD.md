@@ -103,7 +103,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Bask Health | Product Builder, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/854A2D27D1/) | 2026-11-16 |
 | Bask Health | Product Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/E7E44CA0FC/) | 2026-11-16 |
 | Bask Health | Software Engineer, Early Career | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3AC4353728/) | 2026-11-16 |
-| Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/85b040e5-139a-48bb-9dee-474eb8b376f9) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | Ebensburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15131/entry-level-electrical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Electrical Engineer | State College, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15130/entry-level-electrical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | East Brunswick, NJ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15159/entry-level-geotechnical-engineer/job) | 2026-11-16 |
@@ -177,7 +176,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Clean Harbors | Environmental Field Chemist – Entry Level (InSite Chemist) | Cincinnati, OH, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168583) | 2026-11-10 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Urban, Campus & Cultural | New York, NY, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4165/project-specialist%2c-architecture-%7c-2026-new-grad---urban%2c-campus-%26-cultural/job) | 2026-11-10 |
 | General Dynamics | Welding/Materials Engineer - Early Career | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/24317/welding-materials-engineer---early-career/job) | 2026-11-10 |
-| Netic | Recruiting Coordinator - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/0815d91d-2655-43e9-b7de-8a4ecab65772) | 2026-11-10 |
 | WSP | Early Career Civil Engineer | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99097) | 2026-11-10 |
 | Dandy | Business Development Representative (NY - Entry Level) | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/ab4d88b1-4a75-424a-bfa5-2b5cc7cb47de) | 2026-11-09 |
 | Dandy | Business Development Representative (UT - Entry Level) | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/a2c25144-1357-47ac-9b27-07c50e42134e) | 2026-11-09 |
@@ -260,7 +258,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Relling | Robotics Software Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | 2026-11-02 |
 | Rendezvous Robotics | Flight Software Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) | 2026-11-02 |
 | Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/35306be5-82af-4251-8e6a-36d686d09ae8) | 2026-11-02 |
-| Shield AI | Software Development Engineer - New Graduate | California, United States | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606) | 2026-11-02 |
+| Shield AI | Software Development Engineer - New Graduate | California, United States / Arlington, VA, United States / Boston, MA, United States | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606) | 2026-11-02 |
 | Verkada | Backend Software Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | 2026-11-02 |
 | WSP | Early Career Environmental Engineering | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98658) | 2026-11-02 |
 | WSP | Early Career Substation Engineer | Buffalo, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) | 2026-11-02 |
