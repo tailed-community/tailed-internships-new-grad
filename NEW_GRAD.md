@@ -74,7 +74,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | UL Solutions | Entry-Level Electrical Engineer - Power | Northbrook, IL, United States | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11534) | 2026-11-18 |
 | Workleap | Entry-level sales role: spontaneous applications | Canada Remote | [Apply](https://job-boards.greenhouse.io/workleap/jobs/5296368007) | 2026-11-18 |
 | WSP | Early Career Environmental Scientist | Honolulu, HI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99691) | 2026-11-18 |
-| WSP | Early Career Process Pipeline Engineer | Tucson, AZ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99730) | 2026-11-18 |
 | WSP | Early Career Structural Engineer (Buildings) | San Diego, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99669) | 2026-11-18 |
 | Bask Health | Associate Solutions Engineer, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AC6A87E0C2/) | 2026-11-17 |
 | Bask Health | Business Development Representative, New Grad | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/A9930609B4/) | 2026-11-17 |
@@ -316,7 +315,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | Field Service Technician I - Fire Alarms Systems (Entry Level) | Miami, FL, United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160836) | 2026-10-24 |
 | Anduril | 2027 Early Career Electrical Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) | 2026-10-23 |
 | Anduril | 2027 Early Career Software Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007) | 2026-10-23 |
-| Hilton Worldwide | Cook III/Prep/Entry Level Cook | Oklahoma City, OK, United States | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228331) | 2026-10-23 |
 | Keysight Technologies | Inside Sales Representative, Recent Graduate | California | [Apply](https://jobs.keysight.com/jobs/54836?lang=en-us&icims=1) | 2026-10-23 |
 | Palantir | Forward Deployed Software Engineer, New Grad - Warp Speed | New York, NY | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | 2026-10-23 |
 | Squarepoint Capital | Trading Infrastructure Specialist – Graduate Program | Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 2026-10-23 |
@@ -327,7 +325,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2027 Early Career Business Operations Analyst | California, United States / Washington, United States / District Of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007) | 2026-10-22 |
 | CannonDesign | Interior Designer - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8906456002) | 2026-10-22 |
 | DH Pace | Project Administrator-Entry level | Springfield Mo | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5456964008) | 2026-10-22 |
-| Hilton Worldwide | Cook III/Prep/Entry Level Cook PT | Oklahoma City, OK, United States | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228326) | 2026-10-22 |
 | True Anomaly | Propulsion Engineer I (New Grad) | Denver, CO | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007) | 2026-10-22 |
 | AECOM | Entry-Level Bridge Engineer - Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156587483) | 2026-10-21 |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156412059) | 2026-10-21 |
