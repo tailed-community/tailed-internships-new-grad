@@ -301,7 +301,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3076 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/fa21286f-94e6-48a7-acdd-006b03144a75) | 2026-10-28 |
 | Egis Group | Entry Level ROW Specialist | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000157866660) | 2026-10-27 |
 | Fred Hutchinson Cancer Center | New Graduate Registered Nurse - Infusion - Evergreen Clinic | Kirkland, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/32099/new-graduate-registered-nurse---infusion---evergreen-clinic/job) | 2026-10-27 |
-| Fred Hutchinson Cancer Center | New Graduate Registered Nurse- Infusion- Northwest Clinic | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/32092/new-graduate-registered-nurse--infusion--northwest-clinic/job) | 2026-10-27 |
 | Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8325054?gh_jid=8325054) | 2026-10-27 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Stantec | Entry Level Designer/Structural EIT | Las Cruces, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008529) | 2026-10-27 |
@@ -398,7 +397,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career P&C Field Services Technician | Vancouver, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97448) | 2026-10-12 |
 | Anduril | 2027 Early Career Quality Engineer | Ohio, United States / California, United States / Rhode Island, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007) | 2026-10-09 |
 | Anduril | 2027 Early Career Systems Engineer | Massachusetts, United States / Colorado, United States / California, United States / Alabama, United States / Virginia, United States / Washington, United States / District Of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) | 2026-10-09 |
-| Geosyntec Consultants | Early Career Environmental Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4966/early-career-environmental-engineer/job) | 2026-10-09 |
 | GHD | Recent Graduate Quality Assurance Inspector - Transportation | Waterloo, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28727) | 2026-10-09 |
 | WSP | Early Career Electrical Engineer (Generation) | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97308) | 2026-10-09 |
 | AECOM | Entry Level Bridge Inspector- Hiring Event with AECOM - Boston, MA | Providence, RI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154413631) | 2026-10-08 |
