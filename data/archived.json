@@ -1317904,20 +1317904,6 @@
     "date_archived": "2026-11-19"
   },
   {
-    "id": "lever-stand-together-e9825a41-6736-42dc-af11-13b2ae661010",
-    "company": "Stand Together",
-    "title": "KIP Spring 2027 - Digital Communications Intern - R Street Institute",
-    "location": "Washington, DC",
-    "type": "internship",
-    "season": "Spring 2027",
-    "source": "lever",
-    "url": "https://jobs.lever.co/standtogether/e9825a41-6736-42dc-af11-13b2ae661010",
-    "date_posted": "2026-09-28",
-    "date_added": "2026-09-28",
-    "active": false,
-    "date_archived": "2026-11-19"
-  },
-  {
     "id": "lever-viget-938c3301-b358-42e3-afff-123b97b6d290",
     "company": "Viget",
     "title": "Product & Web Designer Intern (2027)",
@@ -1331326,6 +1331312,34 @@
     "url": "https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R58168-2",
     "date_posted": "Posted 30+ Days Ago",
     "date_added": "2026-06-02",
+    "active": false,
+    "date_archived": "2026-11-21"
+  },
+  {
+    "id": "lever-commonwealth-fusion-systems-5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+    "company": "Commonwealth Fusion Systems",
+    "title": "Intern - Electrical/Electromechanical Engineer - Spring 2027",
+    "location": "Devens, MA",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+    "date_posted": "2026-10-30",
+    "date_added": "2026-10-31",
+    "active": false,
+    "date_archived": "2026-11-21"
+  },
+  {
+    "id": "lever-humble-robotics-b9822bf4-c77c-42ea-a19f-1280ec3ab763",
+    "company": "Humble Robotics",
+    "title": "Electrical Engineer, 2027 Internship",
+    "location": "San Francisco",
+    "type": "internship",
+    "season": "2027",
+    "source": "lever",
+    "url": "https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763",
+    "date_posted": "2026-10-20",
+    "date_added": "2026-10-26",
     "active": false,
     "date_archived": "2026-11-21"
   }

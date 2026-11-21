@@ -52,12 +52,28 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Capital Power | Co-op Engineer, Rotating Equipment | Edmonton, AB | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Co-op-Engineer--Rotating-Equipment_JR807239) | 2026-11-21 |
 | Capital Power | Engineering Student, Industrial Controls | Edmonton, AB | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Engineering-Student--Industrial-Controls_JR807234) | 2026-11-21 |
 | Centene | Marketing & Communications Graduate Summer Intern | Remote | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Marketing---Communications-Graduate-Summer-Intern_1667774) | 2026-11-21 |
+| Commonwealth Fusion Systems | Intern - Electrical Engineer - Spring 2027 | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747) | 2026-11-21 |
+| Commonwealth Fusion Systems | Intern - Electrical Engineer, RF Heating Systems - Spring 2027 | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0) | 2026-11-21 |
 | CoxHealth | CT Technologist/Post Prim Adv Imaging Student - South Computed Tomography - Full Time Evening Shift | Springfield, MO | [Apply](https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/CT-Technologist---South-Computed-Tomography---Full-Time-Evening-Shift_R16979) | 2026-11-21 |
 | J.M. Smucker | Field Sales Intern (Chicago) - Summer 2027 | Chicago, IL | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Chicago-IL/Field-Sales-Intern--Chicago----Summer-2027_116138) | 2026-11-21 |
 | J.M. Smucker | Field Sales Intern (Sacramento, CA) - Summer 2027 | 6 Locations | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Sacramento-CA/Field-Sales-Intern--Sacramento--CA----Summer-2027_116137) | 2026-11-21 |
 | Johnson & Johnson | Oncology Discovery Scientist Summer Intern | Belgium | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Oncology-Discovery-Scientist-Summer-Intern_R-112149) | 2026-11-21 |
 | McGill University | Student Affairs Coordinator | Muhc-Glen | [Apply](https://mcgill.wd3.myworkdayjobs.com/mcgill_careers/job/MUHC-GLEN/Student-Affairs-Coordinator_JR0000083569) | 2026-11-21 |
+| Mom's Meals | Compliance & Privacy Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513) | 2026-11-21 |
+| Mom's Meals | Continuous Improvement Intern | Conyers, GA | [Apply](https://jobs.lever.co/momsmeals/387195a3-2584-4a0a-8b7a-1af4d9f1800f) | 2026-11-21 |
+| Mom's Meals | Continuous Improvement Intern | North Jackson, OH | [Apply](https://jobs.lever.co/momsmeals/c3e6cb8a-b2c2-45ba-bd34-96f77e0280a8) | 2026-11-21 |
+| Mom's Meals | Data Analytics Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774) | 2026-11-21 |
+| Mom's Meals | Human Resources - Talent Acquisition Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/bb119578-f24c-4245-9437-55265d96adcb) | 2026-11-21 |
+| Mom's Meals | Human Resources - Total Rewards Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/4c23e842-eab0-4517-95e8-3fa8079a6657) | 2026-11-21 |
+| Mom's Meals | Marketing Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/c5ce94ba-f7a4-4fad-bb91-c0c97355d534) | 2026-11-21 |
+| Mom's Meals | New Product Development/Strategic Sourcing Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/5fb89117-7ce8-4dff-a46f-e9610a3af13d) | 2026-11-21 |
+| Mom's Meals | Production Intern (Mechanical Engineering) | Oklahoma City, OK | [Apply](https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74) | 2026-11-21 |
+| Mom's Meals | Salesforce Developer Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/ae79f9a3-19de-4a20-981f-8d7a76b034ab) | 2026-11-21 |
+| Mom's Meals | Software Quality Assurance (QA) Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0) | 2026-11-21 |
+| Mom's Meals | Technical Commercialization Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/9dcfcc5d-f6a0-4bfb-8e10-dce09739edda) | 2026-11-21 |
 | Patterson | Sales Intern | Indianapolis, IN | [Apply](https://pattersoncompanies.wd501.myworkdayjobs.com/en-US/pdco/job/Indianapolis-IN/Sales-Intern_R111921) | 2026-11-21 |
+| Pivotal Software | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, Canada | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be) | 2026-11-21 |
+| RosaicLabs | CPU Architecture & Performance Engineer - Intern | Santa Clara, Canada / Austin, TX | [Apply](https://jobs.lever.co/rosaiclabs/5c1436d6-6bb3-4978-8e3e-bdd103cbbcab) | 2026-11-21 |
 | Santander | 2027 Credit Risk - Leveraged Finance Summer Intern | Madison Ave Corp | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Credit-Risk---Leveraged-Finance-Summer-Intern_Req1636233) | 2026-11-21 |
 | Santander | 2027 Market Risk Summer Intern | Madison Ave Corp | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216) | 2026-11-21 |
 | Santander | 2027 Operational Risk Management Summer Intern | Madison Ave Corp | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Operational-Risk-Management-Summer-Intern_Req1636235) | 2026-11-21 |
@@ -3243,7 +3259,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Atlantic Health System | Spiritual Care Intern, Administrative | Morristown, NJ, United States | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/33997) | 2026-10-31 |
 | Base Power | Manufacturing Test Engineering Intern | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6) | 2026-10-31 |
 | Cboe | Legal Intern | Chicago, IL | [Apply](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Legal-Intern_R-4788) | 2026-10-31 |
-| Commonwealth Fusion Systems | Intern - Electrical/Electromechanical Engineer - Spring 2027 | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7) | 2026-10-31 |
 | Commonwealth Fusion Systems | Intern - Mechanical and Magnet Engineer - Spring or Summer 2027 | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f) | 2026-10-31 |
 | Commonwealth Fusion Systems | Intern - Structural Engineer - Summer 2027 | Devens, MA | [Apply](https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3) | 2026-10-31 |
 | Divergent Technologies | Summer 2027 Business Intelligence Intern | California, United States | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5393519008) | 2026-10-31 |
@@ -3819,7 +3834,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hive Financial Systems | Software Internship-2027 | Georgia | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) | 2026-10-26 |
 | Honeywell | Intern (m/w/D) (bachelor) sales operations | Germany | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160470) | 2026-10-26 |
 | Honeywell - CX_1 | Intern (m/w/D) (bachelor) sales operations | Germany | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160470) | 2026-10-26 |
-| Humble Robotics | Electrical Engineer, 2027 Internship | San Francisco | [Apply](https://jobs.lever.co/humble-robotics/b9822bf4-c77c-42ea-a19f-1280ec3ab763) | 2026-10-26 |
 | Hunt Oil Company | Operations Co-Op | Tuscaloosa, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1090) | 2026-10-26 |
 | Jobs for Humanity | Accounting Intern (Open for Final-Year Students) | Vietnam | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157720489) | 2026-10-26 |
 | Keysight Technologies | IT Project Manager, Intern | Colorado | [Apply](https://jobs.keysight.com/jobs/54824?lang=en-us&icims=1) | 2026-10-26 |
@@ -4470,7 +4484,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Inversion Space | Mechanical Engineer - Summer Internship 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743740005) | 2026-10-19 |
 | Inversion Space | RF Engineer - Summer Internship 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4743497005) | 2026-10-19 |
 | Inversion Space | Vehicle Software Engineer - Summer Internship 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) | 2026-10-19 |
-| Laminar | Sensor Characterization Co-Op | Somerville, MA | [Apply](https://jobs.lever.co/runlaminar/7e573316-8d6b-455a-834b-b278bfadded3) | 2026-10-19 |
+| Laminar | Sensor Characterization Co-Op | Boston, MA | [Apply](https://jobs.lever.co/runlaminar/7e573316-8d6b-455a-834b-b278bfadded3) | 2026-10-19 |
 | Lawrence Livermore National Laboratory (LLNL) | Predictive Science Academic Alliance Program IV Student Intern (PSAAP IV) | Livermore, United States | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016225626) | 2026-10-19 |
 | Linea Energy | GIS Intern | Austin, TX | [Apply](https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01) | 2026-10-19 |
 | Michael Baker International | Intern, Water Resources -Summer 2027 | Moon Township, PA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310079) | 2026-10-19 |
@@ -5926,6 +5940,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rheem | Systems Engineering Intern | Montgomery, AL, United States | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4439) | 2026-09-28 |
 | Société Générale de Surveillance (SGS) | Internship - Quality & Digitalization | Malaysia | [Apply](https://jobs.smartrecruiters.com/SGS/744000152094824) | 2026-09-28 |
 | Southern Star Central Gas Pipeline | Intern, Legal | Owensboro, KY, United States | [Apply](https://careers-sscgp.icims.com/jobs/3054/intern%2c-legal/job) | 2026-09-28 |
+| Stand Together | KIP Spring 2027 - Digital Communications Intern - R Street Institute | Washington, DC | [Apply](https://jobs.lever.co/standtogether/e9825a41-6736-42dc-af11-13b2ae661010) | 2026-09-28 |
 | Stand Together | KIP Spring 2027 - Events Intern - R Street Institute | Washington, DC | [Apply](https://jobs.lever.co/standtogether/6b2a1483-9a11-48c9-b03d-bf90e111a4f2) | 2026-09-28 |
 | Stand Together | KIP Spring 2027 - Policy Intern - Grassroot Institute of Hawaii | Hawaii | [Apply](https://jobs.lever.co/standtogether/78e8e15c-0a0e-4baf-9f6f-686d2eb13809) | 2026-09-28 |
 | Standard Aero | Machinist Student/Intern - Spring | Hillsboro, OH, United States | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10268) | 2026-09-28 |
