@@ -1332056,5 +1332056,19 @@
     "date_added": "2026-11-09",
     "active": false,
     "date_archived": "2026-11-21"
+  },
+  {
+    "id": "rippling-american-rare-earths-bd553e0a-f638-439c-8371-7e271fb39443",
+    "company": "American Rare Earths",
+    "title": "Geology Intern (Summer 2027)",
+    "location": "Sierra Blanca, TX",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443",
+    "date_posted": null,
+    "date_added": "2026-09-14",
+    "active": false,
+    "date_archived": "2026-11-21"
   }
 ]

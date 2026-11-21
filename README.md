@@ -6964,7 +6964,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Alliance Laundry Systems | Intern | Ripon, WI, United States | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13135/intern/job) | 2026-09-14 |
 | Alliance Laundry Systems | Inventory Control Analyst Intern | Ripon, WI, United States | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13145/inventory-control-analyst-intern/job) | 2026-09-14 |
 | Alliance Laundry Systems | Materials Project Management Intern | Ripon, WI, United States | [Apply](https://uscareeropenings-alliancelaundry.icims.com/jobs/13127/materials-project-management-intern/job) | 2026-09-14 |
-| American Rare Earths | Geology Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/bd553e0a-f638-439c-8371-7e271fb39443) | 2026-09-14 |
 | American Rare Earths | Mining Engineering Intern (Summer 2027) | Sierra Blanca, TX | [Apply](https://ats.rippling.com/usare/jobs/05f28dd6-bfd8-414a-b35c-c7ff94b8e614) | 2026-09-14 |
 | Arcadis | Arcadis 2027 Project Management Summer Intern (Hong Kong) | Hong Kong | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44294) | 2026-09-14 |
 | Arcadis | Arcadis 2027 Quantity Surveying Summer Intern (Hong Kong) | Hong Kong | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44289) | 2026-09-14 |
