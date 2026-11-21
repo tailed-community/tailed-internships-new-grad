@@ -8,6 +8,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Elanco | Packaging Engineer (Entry Level) | Clinton, IN | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Packaging-Engineer_R0027984-1) | 2026-11-21 |
+| SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) | 2026-11-21 |
 | Anduril | Mission Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) | 2026-11-20 |
 | Anduril | Radar Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) | 2026-11-20 |
 | Anduril | RF Integration Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007) | 2026-11-20 |
@@ -156,6 +157,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Old Mission | Trading Production Engineer - 2027 Graduate Program | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/c15a04cc-696a-4463-aae4-6b73bcf07162) | 2026-11-12 |
 | PA Consulting | Early Career \| Growth Strategy Analyst (2027) | Chicago, United States | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000161325099) | 2026-11-12 |
 | PDI Technologies | Accounting Assistant (entry level $16 an hour) | Temple, TX | [Apply](https://jobs.lever.co/pditechnologies/749b2a13-4376-4cf2-ab6d-ab193a1f7112) | 2026-11-12 |
+| SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002) | 2026-11-12 |
 | WSP | Early Career Geotechnical Engineering | Creve Coeur, IL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99272) | 2026-11-12 |
 | Anduril | 2027 New Grad Information Security Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) | 2026-11-11 |
 | Clean Harbors | Entry-Level Hazardous Waste Technician (Hazardous Material Tech I) | Anaheim, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/164614) | 2026-11-11 |
@@ -188,6 +190,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Environmental Scientist | Gainesville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98991) | 2026-11-08 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Rio De Janeiro, RJ | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/230224) | 2026-11-07 |
 | MPOWERHealth | Entry Level Associate Technician- Tampa, FL | Tampa, FL, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3077/entry-level-associate-technician--tampa%2c-fl/job) | 2026-11-07 |
+| SpaceX | New Graduate Engineer, Mechanical | Mcgregor, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002) | 2026-11-07 |
 | United Wholesale Mortgage | Entry Level Support Specialists | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16343/entry-level-support-specialists/job) | 2026-11-07 |
 | BGE | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5368711008) | 2026-11-06 |
 | BGE - bgeinc | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5368712008) | 2026-11-06 |
@@ -197,6 +200,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | BGE - bgeinc | NASHVILLE - Land/Site Development, New Grad | Tennessee, United States | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5474191008) | 2026-11-05 |
 | Coram AI | Business Development Representative (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/c316ccb3-b80f-4783-bba7-d9fe6315a823) | 2026-11-05 |
 | Coram AI | Sales Athlete (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/ba86f0ef-81e1-4dd6-ae8c-b8bf6a1e9fc6) | 2026-11-05 |
+| SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931507002?gh_jid=8931507002) | 2026-11-05 |
+| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002) | 2026-11-05 |
+| SpaceX | New Graduate Engineer, Mechanical - Satellites (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002) | 2026-11-05 |
 | Texas Instruments | Customer Operations Analyst - Early Career | Japan | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003787) | 2026-11-05 |
 | Veeva Systems | Associate Business Consultant - Entry-Level Life Sciences Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/5079de49-331c-4bae-812b-d02e5f0de5fa) | 2026-11-05 |
 | Veeva Systems | Associate Business Consultant - Entry-Level Life Sciences Consulting | United Kingdom London | [Apply](https://jobs.lever.co/veeva/ae310551-4c21-4c6e-aec5-05da7e29c0e0) | 2026-11-05 |
@@ -216,6 +222,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Shipfitter Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/22457/shipfitter-entry-level-%26-semi-skilled/job) | 2026-11-04 |
 | General Dynamics | Steel Cutting & Forming Mechanic Entry Level & Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21520/steel-cutting-%26-forming-mechanic--entry-level-%26-skilled/job) | 2026-11-04 |
 | MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
+| SpaceX | Starlink Aviation Production Technician (Entry Level, Temporary) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002) | 2026-11-04 |
 | WSP | Early Career Civil Engineering (Overhead Transmission Lines) | Charlotte, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98826) | 2026-11-04 |
 | AIG - early_careers | Early Career Claims Analyst, Casualty | Sydney | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326) | 2026-11-03 |
 | AIG - early_careers | Early Career Risk Engineering Analyst, Property & Casualty | Melbourne | [Apply](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/Melbourne/Early-Career-Risk-Engineering-Analyst--Property---Casualty_JR2604323) | 2026-11-03 |
@@ -263,7 +270,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | American Structurepoint | Construction Inspector (Entry Level) - Toledo, OH | Toledo, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3273/construction-inspector-%28entry-level%29---toledo%2c-oh/job) | 2026-10-31 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | Washington | [Apply](https://jobs.lever.co/fehrandpeers/1b7f95a5-a277-4537-9db3-0dddbdd3c7b7) | 2026-10-31 |
 | Michael Baker International | Aviation Civil Associate (Entry-level Engineer) | Peachtree Corners, GA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310122) | 2026-10-31 |
-| Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8325360?gh_jid=8325360) | 2026-10-31 |
 | The Wonderful Company | ENTRY LEVEL: Farming Rotational Program (Edinburg, TX) | College Station, TX, United States | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000158843689) | 2026-10-31 |
 | Fehr & Peers | Entry-level Transportation Design Engineer | California | [Apply](https://jobs.lever.co/fehrandpeers/09044abc-cc40-4a0f-8624-67d1b913790c) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | District Of Columbia | [Apply](https://jobs.lever.co/fehrandpeers/283dc026-3eaa-4b9a-a791-3a41d20c4dc9) | 2026-10-30 |
@@ -292,13 +298,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | SambaNova Systems | Physical Design Engineer, New Grad | California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004) | 2026-10-28 |
 | SambaNova Systems | Post-Silicon Validation Engineer, New Grad | California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004) | 2026-10-28 |
 | SambaNova Systems | Runtime Engineer - New Grad | Texas, United States / California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | 2026-10-28 |
-| Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8325356?gh_jid=8325356) | 2026-10-28 |
 | SCS Engineers | Entry-Level Civil or Environmental Engineer | Not Specified | [Apply](https://careers-scsengineers.icims.com/jobs/4110/entry-level-civil-or-environmental-engineer/job) | 2026-10-28 |
 | Stripe | Software Engineer, New Grad | Bangalore | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) | 2026-10-28 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3076 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/fa21286f-94e6-48a7-acdd-006b03144a75) | 2026-10-28 |
 | Egis Group | Entry Level ROW Specialist | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000157866660) | 2026-10-27 |
 | Fred Hutchinson Cancer Center | New Graduate Registered Nurse - Infusion - Evergreen Clinic | Kirkland, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/32099/new-graduate-registered-nurse---infusion---evergreen-clinic/job) | 2026-10-27 |
 | Fred Hutchinson Cancer Center | New Graduate Registered Nurse- Infusion- Northwest Clinic | Seattle, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/32092/new-graduate-registered-nurse--infusion--northwest-clinic/job) | 2026-10-27 |
+| Samsara | (New Grad) Account Development Representative II - Phoenix | Arizona, United States | [Apply](https://www.samsara.com/company/careers/roles/8325054?gh_jid=8325054) | 2026-10-27 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Stantec | Entry Level Designer/Structural EIT | Las Cruces, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008529) | 2026-10-27 |
 | Jobs for Humanity | Entry Level Client Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157674579) | 2026-10-26 |
@@ -346,6 +352,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Software Engineer, New Grad - Query Engines | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/0f7d1e01-1f74-4786-944d-910208d390fa) | 2026-10-20 |
 | Palantir | Software Engineer, New Grad - Query Engines | New York, NY | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | 2026-10-20 |
 | Securitas | Entry Level Security Officer | Detroit, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176111) | 2026-10-20 |
+| SpaceX | New Graduate Engineer, Electrical (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) | 2026-10-20 |
 | Anduril | 2027 Early Career Supply Chain Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268564007?gh_jid=5268564007) | 2026-10-19 |
 | FSH Technologies | Engineer - New Grad | Pennsylvania, United States / New York City | [Apply](https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda) | 2026-10-19 |
 | FSH Technologies | Generalist/Builder - New Grad | Pennsylvania, United States / New York City | [Apply](https://jobs.ashbyhq.com/FSH/892bbc19-a5a7-4461-ae31-aa0cb0593ed4) | 2026-10-19 |
@@ -364,6 +371,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Inside Machinist - Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/21117/inside-machinist---entry-level-%26-semi-skilled/job) | 2026-10-16 |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) | 2026-10-16 |
 | Skydio | Product Design Engineer (Early Career) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | 2026-10-16 |
+| SpaceX | New Graduate Engineer, Infrastructure | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) | 2026-10-16 |
 | WSP | Early Career Geotechnical Engineer | Louisville, KY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97717) | 2026-10-16 |
 | Avery Dennison | Sales Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000155608659) | 2026-10-15 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Netherlands Amsterdam | [Apply](https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679) | 2026-10-15 |
@@ -394,7 +402,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2027 Early Career Systems Engineer | Massachusetts, United States / Colorado, United States / California, United States / Alabama, United States / Virginia, United States / Washington, United States / District Of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) | 2026-10-09 |
 | Geosyntec Consultants | Early Career Environmental Engineer | Not Specified | [Apply](https://careers-geosyntec.icims.com/jobs/4966/early-career-environmental-engineer/job) | 2026-10-09 |
 | GHD | Recent Graduate Quality Assurance Inspector - Transportation | Waterloo, ON, Canada | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28727) | 2026-10-09 |
-| Olsson | Entry-Level Geotechnical Driller | Oklahoma City, OK | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5448695008) | 2026-10-09 |
 | WSP | Early Career Electrical Engineer (Generation) | Overland Park, KS, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97308) | 2026-10-09 |
 | AECOM | Entry Level Bridge Inspector- Hiring Event with AECOM - Boston, MA | Providence, RI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000154413631) | 2026-10-08 |
 | Anduril | 2027 Early Career Technical Operations Engineer | England, United Kingdom | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255914007?gh_jid=5255914007) | 2026-10-08 |
@@ -450,6 +457,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Intertek | Acoustical Technician - Entry level | York, PA, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15990) | 2026-09-29 |
 | SCOR | SCOR Actuarial Graduate Program - Intake September 2026 | Ireland | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5439) | 2026-09-29 |
 | SCOR | SCOR Actuarial Graduate Program - Intake September 2027 | Ireland | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5448) | 2026-09-29 |
+| SpaceX | New Graduate Engineer, Software (Starfall) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) | 2026-09-29 |
 | WSP | Early Career Electrical Engineer - Buildings | Kansas City, MO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96488) | 2026-09-29 |
 | CannonDesign | Plumbing/Fire Protection - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8853163002) | 2026-09-28 |
 | Coram AI | Associate Account Executive (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/c33a0f82-a8c3-4741-a989-d4886cf3ff79) | 2026-09-28 |
@@ -477,8 +485,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Voloridge | Quantitative Developer - New University Graduate | Jupiter, FL | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009) | 2026-09-24 |
 | AECOM | Entry-Level Environmental Engineers - Networking Event with AECOM – Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151105059) | 2026-09-23 |
 | AECOM | Entry-Level Environmental Scientist - Networking Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151115602) | 2026-09-23 |
-| CannonDesign | Technology - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832624002) | 2026-09-23 |
 | CannonDesign | Technology - Entry Level | Buffalo, NY / Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832873002) | 2026-09-23 |
+| CannonDesign | Technology - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8832624002) | 2026-09-23 |
 | WSP | Early Career Substation Electrical Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95491) | 2026-09-23 |
 | Arcadis | Entry Level Water Engineer | Middletown, CT, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44559) | 2026-09-21 |
 | Arcadis | Entry Level Water Engineer | East Greenwich, RI, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44561) | 2026-09-21 |
@@ -528,6 +536,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Wade Trim | Entry Level Civil/Mechanical Engineer - #3043 | Fort Worth, TX | [Apply](https://jobs.lever.co/wadetrim/31517226-8d05-4221-a6db-43b6f75b8503) | 2026-09-14 |
 | Wade Trim | Entry Level Substation Electrical Engineer - #3041 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/fc699822-162f-4d0c-9f35-1590cf7f06fa) | 2026-09-14 |
 | Cummins | 2027 Early Career - Electronic Systems Engineer - Software | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437222) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | Washington, DC | [Apply](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) | 2026-09-12 |
+| SpaceX | New Graduate Engineer, Security Software (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | 2026-09-12 |
 | DoorDash - doordashusa | Product Design, Entry-Level (2027 start) | San Francisco, Canada / New York, NY | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8188161) | 2026-09-11 |
 | Emerson Electric | Early Career Field Service Engineer, Power & Water Solutions | Pittsburgh, PA, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010371) | 2026-09-11 |
 | Emerson Electric | Early Career Project Engineer, Power & Water Solutions | Pittsburgh, PA, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010369) | 2026-09-11 |
@@ -535,6 +546,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Engineer - Water/Wastewater | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5420753008) | 2026-09-11 |
 | Olsson | Entry-Level Rail Engineer (EIT) - Construction Management | Dallas, TX / Fayetteville, AR / Fort Worth, TX / Lincoln, NE / Little Rock, AR / Oklahoma City, OK / Olathe, KS / Omaha, NE / Overland Park, KS / Phoenix, AZ / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5421145008) | 2026-09-11 |
 | Sentry | Software Engineer, New Grad (2027) | Austria / Remote | [Apply](https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2) | 2026-09-11 |
+| SpaceX | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002) | 2026-09-11 |
 | Honeywell | 2027 UR Early Career Program-IA HTS UR Tech Supp Professional | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157454) | 2026-09-10 |
 | Honeywell - CX_1 | 2027 UR Early Career Program-IA HTS UR Tech Supp Professional | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157454) | 2026-09-10 |
 | The Brattle Group | Research Analyst Graduate Program - Sydney | Australia | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4732401005) | 2026-09-10 |
@@ -543,7 +555,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Honeywell - CX_1 | 2027 UR Early Career Program-Application/Sys Sales Eng I | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157448) | 2026-09-09 |
 | Keysight Technologies | Solutions Engineer (Recent Graduate) | Illinois | [Apply](https://jobs.keysight.com/jobs/53913?lang=en-us&icims=1) | 2026-09-09 |
 | McWane | McWane Ductile Ohio - Production Entry Level | Coshocton, OH, United States | [Apply](https://jobs.smartrecruiters.com/McWaneInc/3743990015121495) | 2026-09-09 |
-| True Anomaly | Software Engineer I, Elixir (New Grad) | Denver, CO / Long Beach, Canada | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | 2026-09-09 |
+| QuinStreet | Entry Level Sales Representative | Florida | [Apply](https://www.quinstreet.com/careers/?gh_jid=8177281) | 2026-09-09 |
+| SpaceX | New Graduate Engineer, Software (Starship) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 2026-09-09 |
 | Vanasse Hangen Brustlin (VHB) | Entry Level Site Civil Engineer - 2027 Graduate | Tampa, FL, United States | [Apply](https://careers-vhb.icims.com/jobs/6301/entry-level-site-civil-engineer---2027-graduate/job) | 2026-09-09 |
 | Verkada | Technical Support Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) | 2026-09-09 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3023 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/832fa425-7a17-456f-ac27-c5354cbe66b9) | 2026-09-09 |
@@ -589,7 +602,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | DoorDash - doordashusa | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, Canada / New York, NY / San Francisco, Canada / Sunnyvale, Canada / Seattle, WA | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 2026-09-04 |
 | Intertek | Entry Level Field Testing Technician | Brentwood, NY, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15740) | 2026-09-04 |
 | Olsson | Entry-Level Rail Water Resources Engineer | Lincoln, NE / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4674853008) | 2026-09-04 |
-| QuinStreet | Entry Level Sales Representative | Florida | [Apply](https://www.quinstreet.com/careers/?gh_jid=8177280) | 2026-09-04 |
+| SpaceX | New Graduate Engineer, Starship Components | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) | 2026-09-04 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Wroclaw | [Apply](https://jobs.lever.co/veeva/5bfdcc48-ca36-4a7f-b99d-c14dd1453c0a) | 2026-09-04 |
 | Anduril | 2027 Early Career Flight Software Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 2026-09-03 |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | 2026-09-03 |
@@ -623,10 +636,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Sierra | APX (New Grad 2027) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015) | 2026-09-01 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Toronto | [Apply](https://stripe.com/jobs/search?gh_jid=8157838) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) | 2026-09-01 |
+| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=8130881) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | New York | [Apply](https://stripe.com/jobs/search?gh_jid=8128744) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
-| Stripe | Software Engineer, New Grad | Bucharest | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad - Frontend | Barcelona | [Apply](https://stripe.com/jobs/search?gh_jid=8130927) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Dallas/Richardson, TX) | Dallas, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017480) | 2026-09-01 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Lehi, UT) | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017481) | 2026-09-01 |
@@ -637,6 +650,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Peraton | Entry-Level Systems Engineer | Fort Meade, MD, United States | [Apply](https://careers-peraton.icims.com/jobs/170126/entry-level-systems-engineer/job) | 2026-08-31 |
 | Realm | Software Engineer - New Grad | United States / United States Remote | [Apply](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | 2026-08-31 |
 | American Structurepoint | Construction Inspection (Entry Level) - Cincinnati, OH | Cincinnati, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3165/construction-inspection-%28entry-level%29---cincinnati%2c-oh/job) | 2026-08-28 |
+| SpaceX | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002) | 2026-08-28 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist | Lehi, UT, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010989) | 2026-08-28 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Germany Berlin | [Apply](https://jobs.lever.co/veeva/2355b29e-65d6-4dd8-be93-f5289960e05c) | 2026-08-28 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Spain Barcelona | [Apply](https://jobs.lever.co/veeva/2b122666-a441-45fa-a94a-f31dd28d5661) | 2026-08-28 |
@@ -664,12 +678,14 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Applied Intuition | Build & Release Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | 2026-08-25 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | 2026-08-25 |
 | Applied Intuition | UX Test Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | 2026-08-25 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) | 2026-08-25 |
 | Framatome | Entry Level Reactor Services Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2389/entry-level-reactor-services-technician/job) | 2026-08-24 |
 | General Matter | Mechanical Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375956008) | 2026-08-24 |
 | General Matter | Software Engineer, New Grad | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 2026-08-24 |
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Panama | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/209705) | 2026-08-24 |
 | Ralliant | Graduate Program – Technical Sales Engineer | Germany | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10291) | 2026-08-24 |
 | Olsson | Entry Level Civil Engineer (Rail Track) | Loveland, CO / Omaha, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5398029008) | 2026-08-22 |
+| Samsara | (New Grad) Account Development Representative II - Atlanta | Georgia, United States | [Apply](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) | 2026-08-22 |
 | onsemi | Entry Level Talent for LPS (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506365) | 2026-08-21 |
 | onsemi | Entry Level Talent for LPS (Master) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506362) | 2026-08-21 |
 | Freeform | Electrical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895658003) | 2026-08-20 |
@@ -677,11 +693,18 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Freeform | Materials Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003) | 2026-08-20 |
 | Freeform | Process Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895822003) | 2026-08-20 |
 | Freeform | Software Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003) | 2026-08-20 |
+| SpaceX | New Graduate Engineer, Civil/Structural (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002) | 2026-08-20 |
+| SpaceX | New Graduate Engineer, Software (Application Software) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | 2026-08-20 |
 | Applied Intuition | Hardware Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c) | 2026-08-19 |
 | BGE | Raleigh - Land/Site Development, New Grad | Raleigh | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5393908008) | 2026-08-19 |
 | BGE - bgeinc | Raleigh - Land/Site Development, New Grad | Raleigh | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5393907008) | 2026-08-19 |
 | Freeform | Additive Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894104003) | 2026-08-19 |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003) | 2026-08-19 |
+| SpaceX | New Graduate Engineer, Electrical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002) | 2026-08-19 |
+| SpaceX | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002) | 2026-08-19 |
+| SpaceX | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002) | 2026-08-19 |
+| SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002) | 2026-08-19 |
+| SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) | 2026-08-19 |
 | WSP | Early Career Electrical Engineer - Buildings | Dallas, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93517) | 2026-08-19 |
 | Boom Supersonic | Electrical or Embedded Controls Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/dd8a32fb-b2d4-4052-a8e4-6aaab31af70c) | 2026-08-17 |
 | Boom Supersonic | Integration Engineer (Early Career, Exceptional Talent) | Centennial, CO | [Apply](https://ats.rippling.com/boom-supersonic/jobs/545823c3-76b5-4a95-bbfc-3b3c07f65129) | 2026-08-17 |
@@ -695,12 +718,23 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Applied Intuition | Software Engineer - New Grad (2027) | California, United States / Ann Arbor | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | 2026-08-15 |
 | Applied Intuition | Software Integration Engineer - New Grad (2027) | California, United States | [Apply](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19) | 2026-08-15 |
 | Notion | Software Engineer, New Grad (Dec 2026) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Electrical - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, GNC- '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software  - '26/'27  (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Palo Alto, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 2026-08-15 |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 2026-08-15 |
 | WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, Canada | [Apply](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7) | 2026-08-15 |
 | WeRide | New Grads 2027 - Software Engineer, Algorithm | San Jose, Canada | [Apply](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b) | 2026-08-15 |
 | Composio | Forward Deployed Engineer (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6) | 2026-08-14 |
 | Composio | Fullstack Engineer, Product Team (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491) | 2026-08-14 |
 | WSP | Early Career Substation Electrical Engineer | Hallowell, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93181) | 2026-08-14 |
 | Hunt Oil Company | Driver Entry Level 2 | Melvin, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1039) | 2026-08-13 |
+| SpaceX | Machining Technician (Starlink) - Entry Level | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8700616002?gh_jid=8700616002) | 2026-08-13 |
 | WSP | Early Career Structural (Buildings) Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93067) | 2026-08-13 |
 | Peraton | Spring/Summer 2027 University Entry-level STEM Pipeline | Reston, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/169644/spring-summer-2027-university-entry-level-stem-pipeline/job) | 2026-08-12 |
 | Palantir | Deployment Strategist, New Grad - Commercial | South Korea | [Apply](https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8) | 2026-08-11 |
@@ -735,6 +769,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Software Engineer, New Grad | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e) | 2026-07-31 |
 | Palantir | Software Engineer, New Grad - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b) | 2026-07-31 |
 | RoviSys | Entry Level Engineer/Developer | Pr-San Juan | [Apply](https://careers-rovisys.icims.com/jobs/2093/entry-level-engineer-developer/job) | 2026-07-31 |
+| SpaceX | Entry-Level Production Technician, PCBA | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) | 2026-07-31 |
 | WTW | Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting & Technology - Gurugram | India | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904) | 2026-07-31 |
 | Bot Auto | Algorithm Engineer, Deep Learning & Vision (New Grad) | Houston, TX | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5371947008) | 2026-07-28 |
 | CannonDesign | Designer - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8652909002) | 2026-07-28 |
@@ -743,6 +778,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | D.c. | [Apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) | 2026-07-25 |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | [Apply](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | 2026-07-25 |
 | Beyond New Horizons | Early Career Mechanical Systems Engineer (Multiple Openings) | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/24504/early-career-mechanical-systems-engineer-%28multiple-openings%29/job) | 2026-07-24 |
+| SpaceX | Starlink Production Technician - Entry Level | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8647897002?gh_jid=8647897002) | 2026-07-24 |
 | BGIS | Jr. Building Condition Assessor (Future New Grad Opportunity!) | Markham, ON, Canada | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/232063) | 2026-07-23 |
 | Fortinet | Network Support (New Grads 2026) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) | 2026-07-23 |
 | Tutor Perini Corporation | Entry-Level Project Engineer | Not Specified | [Apply](https://tutorperini.wd12.myworkdayjobs.com/external/job/Framingham-MA-/Entry-Level-Project-Engineer_JR102770) | 2026-07-23 |
@@ -754,6 +790,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Health Management Academy | Business Development Associate (Entry Level Sales) | Arlington, VA | [Apply](https://job-boards.greenhouse.io/thehealthmanagementacademy/jobs/5343024008) | 2026-07-14 |
 | Pylon | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | 2026-07-13 |
 | Netic | Technical Recruiter - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/bea76c74-368b-455c-85e2-5f9764a0202b) | 2026-07-09 |
+| SpaceX | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | [Apply](https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002) | 2026-07-08 |
 | NewsBreak | NewsBreak Venture, AI Growth Intelligence Engineer (New Grad） | California, United States | [Apply](https://job-boards.greenhouse.io/newsbreak/jobs/4694899006) | 2026-07-07 |
 | Notion | Software Engineer, Early Career (AI) | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 2026-07-07 |
 | Notion | Software Engineer, Growth (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | 2026-07-07 |
@@ -873,6 +910,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Submarine Insulation Installer - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/17314/submarine-insulation-installer---entry-level/job) | 2026-06-10 |
 | General Dynamics | Submarine Mechanic / Machinist - Entry Level | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/18254/submarine-mechanic---machinist---entry-level/job) | 2026-06-10 |
 | Peraton | Image Scientist (Entry-level) | Springfield, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/165728/image-scientist-%28entry-level%29/job) | 2026-06-10 |
+| SpaceX | New Graduate Engineer, Launch & Test (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) | 2026-06-10 |
 | Ellipsis Labs | Software Engineer - 2027 New Grads | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d) | 2026-06-08 |
 | Etched | Technical Recruiter (Entry Level) | San Jose, United States | [Apply](https://jobs.ashbyhq.com/Etched/06398761-0950-4e5c-8590-26f485ba5509) | 2026-06-08 |
 | Parallel Web Systems | Early Career Research Engineer | California, United States / New York / Palo Alto | [Apply](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd) | 2026-06-08 |
