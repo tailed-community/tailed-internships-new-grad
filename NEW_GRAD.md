@@ -8,6 +8,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Elanco | Packaging Engineer (Entry Level) | Clinton, IN | [Apply](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Clinton-IN/Packaging-Engineer_R0027984-1) | 2026-11-21 |
+| Eurofins | Entry Level Associate Scientist - Biochemistry | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162827509) | 2026-11-21 |
+| Eurofins | Laboratory Support Technician-(entry-level), Eurofins Environment Testing, Earth City , MO | Earth City, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162807529) | 2026-11-21 |
+| Jobs for Humanity | Entry Level Sales Support Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000162827649) | 2026-11-21 |
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) | 2026-11-21 |
 | Anduril | Mission Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) | 2026-11-20 |
 | Anduril | Radar Systems Engineer, Early Career | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) | 2026-11-20 |
@@ -211,7 +214,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Structural Engineer (Buildings) | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98820) | 2026-11-05 |
 | CAMS | Entry-Level Electrical Engineer | Texas | [Apply](https://jobs.lever.co/camstex/cb41259c-ad4d-49d7-afe1-f1512c828491) | 2026-11-04 |
 | EaglePicher Technologies | Financial Analyst - Entry Level | Joplin C Street, MO, United States | [Apply](https://careers-eaglepicher.icims.com/jobs/3234/financial-analyst---entry-level/job) | 2026-11-04 |
-| Eurofins | Entry Level Analytical Chemist | Groton, CT, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000159538419) | 2026-11-04 |
 | Ford Motor Company | Thermal Firmware Integration Engineer - Early Career Program, Advanced EV | Palo Alto, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527) | 2026-11-04 |
 | Ford Motor Company | Thermal Test Engineer - Early Career Program, Advanced EV | Long Beach, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73529) | 2026-11-04 |
 | General Dynamics | Mechanic - Machinist Entry Level & Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21518/mechanic---machinist--entry-level-%26-skilled/job) | 2026-11-04 |
@@ -267,7 +269,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | American Structurepoint | Construction Inspector (Entry Level) - Toledo, OH | Toledo, OH, United States | [Apply](https://careers-structurepoint.icims.com/jobs/3273/construction-inspector-%28entry-level%29---toledo%2c-oh/job) | 2026-10-31 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | Washington | [Apply](https://jobs.lever.co/fehrandpeers/1b7f95a5-a277-4537-9db3-0dddbdd3c7b7) | 2026-10-31 |
 | Michael Baker International | Aviation Civil Associate (Entry-level Engineer) | Peachtree Corners, GA, United States | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310122) | 2026-10-31 |
-| The Wonderful Company | ENTRY LEVEL: Farming Rotational Program (Edinburg, TX) | College Station, TX, United States | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000158843689) | 2026-10-31 |
 | Fehr & Peers | Entry-level Transportation Design Engineer | California | [Apply](https://jobs.lever.co/fehrandpeers/09044abc-cc40-4a0f-8624-67d1b913790c) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | District Of Columbia | [Apply](https://jobs.lever.co/fehrandpeers/283dc026-3eaa-4b9a-a791-3a41d20c4dc9) | 2026-10-30 |
 | Fehr & Peers | Entry-level Transportation Engineer/Planner | California | [Apply](https://jobs.lever.co/fehrandpeers/4ca91de4-b7a8-45a1-8925-051a3d04d695) | 2026-10-30 |
