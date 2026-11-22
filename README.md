@@ -909,7 +909,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | SAS | Summer 2027 – Econometrics Intern (Master's) | Cary Hq, NC, United States | [Apply](https://careers-sas.icims.com/jobs/42755/summer-2027-%e2%80%93-econometrics-intern-%28master%27s%29/job) | 2026-11-17 |
 | SAS | Summer 2027 – IoT Analytics Intern (Master's) | Cary Hq, NC, United States | [Apply](https://careers-sas.icims.com/jobs/42750/summer-2027-%e2%80%93--iot-analytics-intern-%28master%27s%29/job) | 2026-11-17 |
 | Sereact | Internship Teleoperation & Data Labeling - Switzerland | Switzerland | [Apply](https://jobs.ashbyhq.com/sereact/6c550454-1365-4ac1-ab63-db2281806b61) | 2026-11-17 |
-| ServiceNow | Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | California, United States | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) | 2026-11-17 |
 | ServiceNow | Forward Deployed Solution Engineer Intern (Masters Summer 2027) | California, United States | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | 2026-11-17 |
 | SharkNinja | Product Design Engineering Intern | Battersea Power Station | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726667006) | 2026-11-17 |
 | Sherwin-Williams | R&D PCG Summer Graduate Internship- Minneapolis, MN | Minneapolis, MN, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629324) | 2026-11-17 |
@@ -7187,6 +7186,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CDM Smith | Automation Engineering Intern (Summer 2027!) | Texas | [Apply](https://careers.cdmsmith.com/jobs/4425?lang=en-us&icims=1) | 2026-09-09 |
 | CDM Smith | Automation Engineering Intern (Summer 2027!)` | Pennsylvania | [Apply](https://careers.cdmsmith.com/jobs/4421?lang=en-us&icims=1) | 2026-09-09 |
 | Continental | eCommerce Business Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000148511719) | 2026-09-09 |
+| Continental | Marketing Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000148510699) | 2026-09-09 |
 | Crest Industries | 2027 Internships - All Disciplines | Louisiana | [Apply](https://jobs.lever.co/crestoperations/4ad7d2f7-7775-4819-94c8-45627a11e66e) | 2026-09-09 |
 | Cummins | Accounting Summer Internship Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437575) | 2026-09-09 |
 | Cummins | Finance Summer Internship Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437578) | 2026-09-09 |
@@ -8969,6 +8969,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Interstates | High School Manufacturing Intern | Fort Collins, CO | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009) | 2026-07-01 |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 2026-07-01 |
 | Relativity Space | Stage Development Engineer II, Vehicle Build | California | [Apply](https://boards.greenhouse.io/relativity/jobs/8614934002?gh_jid=8614934002) | 2026-07-01 |
+| Sika | Production Operations Intern | Italy | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000135053758) | 2026-07-01 |
 | Sika | Software Engineering Intern | Zürich, ZH | [Apply](https://jobs.smartrecruiters.com/SikaAG/744000135191514) | 2026-07-01 |
 | Société Générale de Surveillance (SGS) | Internship - Billing | Malaysia | [Apply](https://jobs.smartrecruiters.com/SGS/744000135163769) | 2026-07-01 |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Ireland | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | 2026-07-01 |

@@ -1078924,20 +1078924,6 @@
     "date_archived": "2026-11-17"
   },
   {
-    "id": "smartrecruiters-sika-744000135053758",
-    "company": "Sika",
-    "title": "Production Operations Intern",
-    "location": "Italy",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "smartrecruiters",
-    "url": "https://jobs.smartrecruiters.com/SikaAG/744000135053758",
-    "date_posted": "2026-06-30",
-    "date_added": "2026-07-01",
-    "active": false,
-    "date_archived": "2026-11-17"
-  },
-  {
     "id": "smartrecruiters-syngenta-group-744000151678376",
     "company": "Syngenta Group",
     "title": "R&D Intern",
@@ -1317736,20 +1317722,6 @@
     "date_archived": "2026-11-19"
   },
   {
-    "id": "smartrecruiters-continental-744000148510699",
-    "company": "Continental",
-    "title": "Marketing Intern",
-    "location": "Malaysia",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "smartrecruiters",
-    "url": "https://jobs.smartrecruiters.com/Continental/744000148510699",
-    "date_posted": "2026-09-09",
-    "date_added": "2026-09-09",
-    "active": false,
-    "date_archived": "2026-11-19"
-  },
-  {
     "id": "smartrecruiters-eurofins-744000162270489",
     "company": "Eurofins",
     "title": "Stage Strategisch Marktonderzoek",
@@ -1337766,6 +1337738,20 @@
     "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
     "date_posted": "2026-11-13",
     "date_added": "2026-11-13",
+    "active": false,
+    "date_archived": "2026-11-22"
+  },
+  {
+    "id": "smartrecruiters-servicenow-744000161936128",
+    "company": "ServiceNow",
+    "title": "Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027)",
+    "location": "California, United States",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "smartrecruiters",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+    "date_posted": "2026-11-16",
+    "date_added": "2026-11-17",
     "active": false,
     "date_archived": "2026-11-22"
   }
