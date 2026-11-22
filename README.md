@@ -1486,7 +1486,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Upvest | Strategy Intern (f/m/d) | Germany / Remote | [Apply](https://jobs.ashbyhq.com/upvest/d93327d3-6dfe-423a-9cff-eeb487e0020c) | 2026-11-13 |
 | Veolia | Estágio em Customer Service - Order Entry | São Paulo, SP | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161532546) | 2026-11-13 |
 | Veolia | Procurement Co-op | Oakville, ON, Canada | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161390089) | 2026-11-13 |
-| Verisk | Data Science/AI Intern \| 2027 Summer Internship Program | Lehi, UT, United States | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | 2026-11-13 |
 | Vital Lyfe | Electrical Engineering Internship - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/vital-lyfe/e18ed2cd-2172-4971-8de0-c52a875b9fd0) | 2026-11-13 |
 | Vital Lyfe | Software Engineering Internship - Summer 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942) | 2026-11-13 |
 | Walter P Moore | Structural Intern | San Francisco, United States | [Apply](https://careers-walterpmoore.icims.com/jobs/4407/structural-intern/job) | 2026-11-13 |
@@ -7187,7 +7186,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | CDM Smith | Automation Engineering Intern (Summer 2027!) | Arizona | [Apply](https://careers.cdmsmith.com/jobs/4427?lang=en-us&icims=1) | 2026-09-09 |
 | CDM Smith | Automation Engineering Intern (Summer 2027!) | Texas | [Apply](https://careers.cdmsmith.com/jobs/4425?lang=en-us&icims=1) | 2026-09-09 |
 | CDM Smith | Automation Engineering Intern (Summer 2027!)` | Pennsylvania | [Apply](https://careers.cdmsmith.com/jobs/4421?lang=en-us&icims=1) | 2026-09-09 |
-| Citizens Financial Group | 2027 Commercial Summer Intern - Houston, TX | United States | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213) | 2026-09-09 |
 | Continental | eCommerce Business Intern | Malaysia | [Apply](https://jobs.smartrecruiters.com/Continental/744000148511719) | 2026-09-09 |
 | Crest Industries | 2027 Internships - All Disciplines | Louisiana | [Apply](https://jobs.lever.co/crestoperations/4ad7d2f7-7775-4819-94c8-45627a11e66e) | 2026-09-09 |
 | Cummins | Accounting Summer Internship Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437575) | 2026-09-09 |

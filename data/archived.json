@@ -1337726,5 +1337726,47 @@
     "date_added": "2026-10-09",
     "active": false,
     "date_archived": "2026-11-22"
+  },
+  {
+    "id": "oracle_hcm-citizens-financial-group-49213",
+    "company": "Citizens Financial Group",
+    "title": "2027 Commercial Summer Intern - Houston, TX",
+    "location": "United States",
+    "type": "internship",
+    "season": "Summer",
+    "source": "oracle_hcm",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49213",
+    "date_posted": "2026-11-17",
+    "date_added": "2026-09-09",
+    "active": false,
+    "date_archived": "2026-11-22"
+  },
+  {
+    "id": "oracle_hcm-ghd-28498",
+    "company": "GHD",
+    "title": "GHD Graduate Program 2026/27 - Graduate Structural Engineers (New Zealand)",
+    "location": "New Zealand",
+    "type": "new_grad",
+    "season": "2026",
+    "source": "oracle_hcm",
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28498",
+    "date_posted": "2026-11-12",
+    "date_added": "2026-09-01",
+    "active": false,
+    "date_archived": "2026-11-22"
+  },
+  {
+    "id": "oracle_hcm-verisk-5184",
+    "company": "Verisk",
+    "title": "Data Science/AI Intern | 2027 Summer Internship Program",
+    "location": "Lehi, UT, United States",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "oracle_hcm",
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
+    "date_posted": "2026-11-13",
+    "date_added": "2026-11-13",
+    "active": false,
+    "date_archived": "2026-11-22"
   }
 ]
