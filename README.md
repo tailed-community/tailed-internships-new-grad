@@ -1047,9 +1047,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Creative Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/24DD93E3BA/) | 2026-11-16 |
 | Bask Health | Customer Success Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/F97DED6047/) | 2026-11-16 |
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
-| Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
 | Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
+| Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
 | Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |

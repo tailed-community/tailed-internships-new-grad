@@ -1324428,20 +1324428,6 @@
     "date_archived": "2026-11-20"
   },
   {
-    "id": "workable-bask-health-6262985",
-    "company": "Bask Health",
-    "title": "Product Discovery Intern",
-    "location": "Remote, None, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/bask-health-1/j/34C4378E0B/",
-    "date_posted": "2026-11-11",
-    "date_added": "2026-11-16",
-    "active": false,
-    "date_archived": "2026-11-20"
-  },
-  {
     "id": "workable-bask-health-6268288",
     "company": "Bask Health",
     "title": "UX Research Intern",
@@ -1337752,6 +1337738,20 @@
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
     "date_posted": "2026-11-16",
     "date_added": "2026-11-17",
+    "active": false,
+    "date_archived": "2026-11-22"
+  },
+  {
+    "id": "workable-bask-health-6272016",
+    "company": "Bask Health",
+    "title": "Patient Experience Intern",
+    "location": "Remote, None, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/bask-health-1/j/9C8D5A5288/",
+    "date_posted": "2026-11-13",
+    "date_added": "2026-11-16",
     "active": false,
     "date_archived": "2026-11-22"
   }
