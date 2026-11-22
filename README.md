@@ -40,6 +40,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Centene | Business Technical Analyst Undergraduate Summer Intern | Remote | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Technical-Analyst-Undergraduate-Summer-Intern_1667760) | 2026-11-22 |
 | Centene | Pharmacy Undergraduate Summer Intern | Remote | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Pharmacy-Undergraduate-Summer-Intern_1667799) | 2026-11-22 |
 | Centene | Site Reliability Operational Analyst Intern (Undergraduate Summer 2027) | Remote | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Site-Reliability-Operational-Analyst-Intern--Undergraduate-Summer-2027-_1667701) | 2026-11-22 |
+| Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/Clera/c44eb9bb-9aed-49a7-9027-0cd6f09bb538) | 2026-11-22 |
+| Clera | Founders Associate Intern | Germany | [Apply](https://jobs.ashbyhq.com/Clera/36e04471-4ee1-48e5-9e94-90e5f74f45a0) | 2026-11-22 |
+| Clera | Strategic Operations Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/Clera/2698b76b-078f-4531-a6e8-2d15f0e2e963) | 2026-11-22 |
+| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/7df8c7f6-2f6f-478d-99b5-aea148ea96ee) | 2026-11-22 |
+| Clera | Working Student, Go-to-Market (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/Clera/00e3430f-9ad6-4d8c-88ff-a01930bf72f9) | 2026-11-22 |
 | Novanta | Intern Procurement Department | Spain Keonn | [Apply](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Barcelona-Spain---Keonn/Intern-Procurement-Department_R009495) | 2026-11-22 |
 | Schweitzer Engineering Laboratories | Electrical Engineering Intern | California Irvine | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Irvine/Electrical-Engineering-Intern_2026-24990-1) | 2026-11-22 |
 | Schweitzer Engineering Laboratories | Engineering Intern | Washington Pullman | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-23739) | 2026-11-22 |

@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/babe7410-c239-49ea-a1e7-2e8a6d3a8c3e) | 2026-11-22 |
 | SpaceX | New Graduate Engineer, Electrical (Starfall) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002) | 2026-11-22 |
 | Eurofins | Entry Level Associate Scientist - Biochemistry | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162827509) | 2026-11-21 |
 | Eurofins | Laboratory Support Technician-(entry-level), Eurofins Environment Testing, Earth City , MO | Earth City, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162807529) | 2026-11-21 |
