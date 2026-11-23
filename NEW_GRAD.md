@@ -7,10 +7,16 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| ATCO | Control Centre Operator, Entry Level (Temporary) | Edmonton, AB, Canada | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21018) | 2026-11-23 |
 | Cowboy Space | Mechanism Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | 2026-11-23 |
 | Deliveroo | Software Engineer, New Grad | United Kingdom Deliveroo | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 2026-11-23 |
 | General Matter | Design Reliability Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008) | 2026-11-23 |
+| Honeywell Aerospace | Honeywell Aerospace Early Career – IT Analyst | United States | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/121371) | 2026-11-23 |
+| Intertek | Caleb Brett - Entry-Level Petroleum Inspector | Marion, AR, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16369) | 2026-11-23 |
 | LHB | GIS Specialist – Entry Level | Duluth, MN, United States | [Apply](https://careers-lhbcorp.icims.com/jobs/2012/gis-specialist-%e2%80%93-entry-level/job) | 2026-11-23 |
+| WSP | Early Career Distribution Design Technician in Training, Design Support | Charlotte, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99904) | 2026-11-23 |
+| WSP | Early Career Geologist | Lakewood, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99816) | 2026-11-23 |
+| WSP | Early Career Structural Engineer - Buildings | North Providence, RI, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99888) | 2026-11-23 |
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/babe7410-c239-49ea-a1e7-2e8a6d3a8c3e) | 2026-11-22 |
 | SpaceX | New Graduate Engineer, Electrical (Starfall) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002) | 2026-11-22 |
 | Eurofins | Entry Level Associate Scientist - Biochemistry | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162827509) | 2026-11-21 |
@@ -398,7 +404,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Woodard Curran | Entry-level Stormwater Engineer (Rye Brook, NY) | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/a751eebd-ca00-495a-aaf2-6d5c3fc33cb7) | 2026-10-02 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | CannonDesign | Plumbing/Fire Protection - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8856530002) | 2026-09-30 |
-| NOV | CNC Machine Operator (Entry Level) | United Arab Emirates | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44768) | 2026-09-30 |
 | BGE | FRISCO - Cathodic Protection Technician, New Grad | Frisco | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5436858008) | 2026-09-29 |
 | BGE - bgeinc | FRISCO - Cathodic Protection Technician, New Grad | Frisco | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5436859008) | 2026-09-29 |
 | CannonDesign | Mechanical - Entry Level | Buffalo, NY | [Apply](http://www.cannondesign.com/careers/?gh_jid=8856503002) | 2026-09-29 |
