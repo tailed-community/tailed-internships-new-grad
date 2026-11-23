@@ -58,6 +58,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Andersen | Intern – Tax Services – Summer 2028 – (Hybrid) | Texas | [Apply](https://careers.andersen.com/jobs/7510?lang=en-us&icims=1) | 2026-11-23 |
 | AON3D | Electrical Engineering Intern | Montréal, QC, Canada | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504768009) | 2026-11-23 |
 | AON3D | Mechanical Designer Intern | Montréal, QC, Canada | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504779009) | 2026-11-23 |
+| APEX Analytix | Software Engineering Intern, Platform Tooling | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19) | 2026-11-23 |
 | Arcadis | STAGE-Assistant project manager Data center | Paris, France | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46123) | 2026-11-23 |
 | Arcadis | Traffic Internship | Atlanta, GA, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46023) | 2026-11-23 |
 | Artefact | (Stage) Assistant Project Manager Hackathons & Innovation - F/H | Paris, France | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/7060504002) | 2026-11-23 |
@@ -118,6 +119,11 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Berkshire Hathaway Energy | Intern - Pipeline Technician (Wrenshall, MN) | Wrenshall, MN, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006068) | 2026-11-23 |
 | Biohub | AI Research Scientist Intern | Ny (hybrid) / CA (hybrid) | [Apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) | 2026-11-23 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern-Provider Experience | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15150) | 2026-11-23 |
+| Bound | IT Operations & Security Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/379531ae-64b1-45cb-811b-197ecb8fbd89) | 2026-11-23 |
+| Bound | Product Management Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) | 2026-11-23 |
+| Bound | Quality Assurance Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/f34367a8-2849-412e-a691-2d608df0f651) | 2026-11-23 |
+| Bound | Revenue Operations Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/a19799d2-bd8e-49f3-bad6-a6674d2a1a47) | 2026-11-23 |
+| Bound | UX Design Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/ef56b967-e64c-4b26-8a1b-a02753c27d04) | 2026-11-23 |
 | Brave | Software Development Intern - Waterloo University - Web3 Core | Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 |
 | Brave | Systems Build Intern - Waterloo University | Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412598) | 2026-11-23 |
 | Cantor Fitzgerald | 2027 Internship Program: Investment Banking (Real Estate) | New York, NY, United States | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250462) | 2026-11-23 |
@@ -355,6 +361,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Neros Technologies | Electrical Engineering Intern - Summer 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | 2026-11-23 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | 2026-11-23 |
 | Neros Technologies | Mechanical Engineer Intern - Summer 2027 | California, United States | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) | 2026-11-23 |
+| NeuroSpark | AI Hardware Optimization Engineer Intern | Santa Clara, Canada | [Apply](https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3) | 2026-11-23 |
+| NeuroSpark | AI Inference & Training Framework Engineer Intern | Santa Clara, Canada | [Apply](https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea) | 2026-11-23 |
+| NeuroSpark | GTM Intern – Developer Relations & Technical Content | Santa Clara, Canada | [Apply](https://ats.rippling.com/neurospark/jobs/d6274edb-bd4d-4286-baea-faafb196df42) | 2026-11-23 |
 | Newmark Group | Intern | Chicago, IL, United States | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250564) | 2026-11-23 |
 | NielsenIQ | Client Analyst Intern | Amstelveen, NH | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000163248224) | 2026-11-23 |
 | Nokia | Lab Admin Intern | Mexico | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41345) | 2026-11-23 |
@@ -413,6 +422,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sheetz | Real Estate Legal Intern | Pennsylvania | [Apply](https://jobs.sheetz.com/jobs/83329?lang=en-us&icims=1) | 2026-11-23 |
 | Sheetz | Recruitment Marketing Intern | Pennsylvania | [Apply](https://jobs.sheetz.com/jobs/86014?lang=en-us&icims=1) | 2026-11-23 |
 | Sherwin-Williams | 2027 R&D Summer Internship- Pittsburgh | Pittsburgh, PA, United States | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849) | 2026-11-23 |
+| Smarty | Data Acquisition & Quality Specialist Intern | Orem, UT | [Apply](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6) | 2026-11-23 |
 | Spry Methods | Corporate Intern | Mclean, VA | [Apply](https://jobs.lever.co/sprymethods/5323bd64-c7c2-4833-a9aa-81a77b4c7a87) | 2026-11-23 |
 | SSOE Group | Student Intern- Mechanical | Toledo, OH, United States | [Apply](https://careers-ssoe.icims.com/jobs/4040/student-intern--mechanical/job) | 2026-11-23 |
 | Stand Together | KIP Spring 2027 -  Ballot Measures Team Intern - Ballotpedia | Wisconsin | [Apply](https://jobs.lever.co/standtogether/6e28c502-9260-4128-b264-7f9a8e996c50) | 2026-11-23 |
@@ -431,6 +441,12 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Turner & Townsend | Project Manager/Senior Project Manager | Australia | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000163137879) | 2026-11-23 |
 | Unisys | Field Marketing Intern \| US | Blue Bell, PA, United States | [Apply](https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Field-Marketing-Intern---US_REQ577240-1) | 2026-11-23 |
 | University of St. Thomas | Stage Manager | Not Specified | [Apply](https://studentemployment-stthomas.icims.com/jobs/10233/stage-manager/job) | 2026-11-23 |
+| Uplinq | Accounting Specialist Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/335bd3e6-ce0f-40d7-85f7-296d91bc1eab) | 2026-11-23 |
+| Uplinq | Customer Success Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/5448299b-6606-4d09-b547-e2b3fdf99274) | 2026-11-23 |
+| Uplinq | HR Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/118f8591-be02-495f-beb9-7ea49e6f1e34) | 2026-11-23 |
+| Uplinq | Sales Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/d4480e6b-f7fd-46a0-baec-4fd9fd9ff678) | 2026-11-23 |
+| Uplinq | Software Engineer Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c) | 2026-11-23 |
+| Uplinq | Tax Preparer Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/03afc277-9764-4728-b2f5-618537588897) | 2026-11-23 |
 | Veolia | Field Service Representative -Intern | Trevose, PA, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163272659) | 2026-11-23 |
 | Vertiv | Engineering Intern - DC Power Systems (Summer 2027) | Lorain, OH, United States | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643) | 2026-11-23 |
 | Vusion | Stage - Solution Engineer - 6 mois (Janvier/Février 2027) | Idf, France | [Apply](https://jobs.smartrecruiters.com/VusionGroupSA/744000163244649) | 2026-11-23 |
@@ -5655,7 +5671,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Constellation Energy | Summer 2027 Technical Maintenance Internship - Middletown, PA (ASSOCIATE'S DEGREE ONLY) | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/138598?lang=en-us&icims=1) | 2026-09-29 |
 | Dark Wolf Solutions | Creighton University College Fair - Internship | Omaha, NE | [Apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8007372003) | 2026-09-29 |
 | Dell Technologies | Product Marketing Undergraduate Intern | Singapore | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R273268) | 2026-09-29 |
-| Democratic National Committee | Spring 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/82425705-86cd-4211-863c-cef022329b0f) | 2026-09-29 |
 | Democratic National Committee | Summer 2027 DNC Civic Engagement and Voter Protection Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/152213e1-54d9-4b2c-9511-96eb02f38241) | 2026-09-29 |
 | Democratic National Committee | Summer 2027 DNC Legal Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/05aee341-a46e-4a53-8bb0-ee4a45187219) | 2026-09-29 |
 | DNV | Internship Customer & Process Data Quality | Italy | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7650) | 2026-09-29 |
@@ -6188,7 +6203,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Rippling | Data Science Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | 2026-09-22 |
 | Rippling | Full Stack Software Engineer Intern - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
 | Rippling | Machine Learning Software Engineer Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | 2026-09-22 |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | San Francisco, Canada / Seattle, WA / New York, NY | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
 | Robert Bosch Venture Capital | Working Student - Industrial Engineering | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150958359) | 2026-09-22 |
 | SCOR | Business Analyst Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5424) | 2026-09-22 |
 | Snowflake | Software Engineer Intern - Berlin (2027) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) | 2026-09-22 |
