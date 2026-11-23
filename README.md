@@ -119,6 +119,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Berkshire Hathaway Energy | Intern - Pipeline Technician (Wrenshall, MN) | Wrenshall, MN, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006068) | 2026-11-23 |
 | Biohub | AI Research Scientist Intern | Ny (hybrid) / CA (hybrid) | [Apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) | 2026-11-23 |
 | Blue Cross Blue Shield of Michigan | Summer 2027 Intern-Provider Experience | Detroit, MI, United States | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15150) | 2026-11-23 |
+| Botpress Technologies | Growth Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/2FA4CB920D/) | 2026-11-23 |
 | Bound | IT Operations & Security Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/379531ae-64b1-45cb-811b-197ecb8fbd89) | 2026-11-23 |
 | Bound | Product Management Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) | 2026-11-23 |
 | Bound | Quality Assurance Intern (Summer 2027) | Ames, IA | [Apply](https://ats.rippling.com/bound/jobs/f34367a8-2849-412e-a691-2d608df0f651) | 2026-11-23 |
@@ -1394,9 +1395,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Creative Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/24DD93E3BA/) | 2026-11-16 |
 | Bask Health | Customer Success Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/F97DED6047/) | 2026-11-16 |
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
+| Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
 | Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
-| Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
 | Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
@@ -3047,7 +3048,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Columbia University | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680) | 2026-11-02 |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) | 2026-11-02 |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) | 2026-11-02 |
-| AltaLink | Co-Op Student - Project Support (DA) | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/) | 2026-11-02 |
 | AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
 | AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | Astronics | Supply Chain Internship - Summer 2027 | Washington, United States | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) | 2026-11-02 |
@@ -3907,6 +3907,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brunswick Group | Internship Program Spring 2027, Frankfurt - Germany | Germany | [Apply](https://job-boards.greenhouse.io/brunswickgroup/jobs/8479278002) | 2026-10-26 |
 | Carollo Engineers | Water/Wastewater Engineering Intern | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4682/water-wastewater-engineering-intern/job) | 2026-10-26 |
 | ClickHouse | Research Intern, ClickHouse Labs | San Francisco, United States / Germany / The Netherlands / United States Remote | [Apply](https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b) | 2026-10-26 |
+| CommonAI C.I.C. | Software Engineer (Summer 2027 Internship) | England, United Kingdom | [Apply](https://apply.workable.com/commonai/j/021D3FCF3E/) | 2026-10-26 |
+| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/1AF4F8C65F/) | 2026-10-26 |
 | Cook Group | Manufacturing Engineering Co-op - Summer 2027 - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19984/manufacturing-engineering-co-op---summer-2027---bloomington%2c-in/job) | 2026-10-26 |
 | Cook Group | Manufacturing Supplier Engineering Co-op - Spring 2026 - Bloomington, Indiana | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19554/manufacturing-supplier-engineering-co-op---spring-2026---bloomington%2c-indiana/job) | 2026-10-26 |
 | DecisionPoint | COOP Site Support Technician / ORT Analyst (Senior) | Indianapolis, IN, United States | [Apply](https://careers-decisionpointcorp.icims.com/jobs/4173/coop-site-support-technician---ort-analyst-%28senior%29/job) | 2026-10-26 |

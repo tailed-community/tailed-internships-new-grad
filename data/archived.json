@@ -1018234,20 +1018234,6 @@
     "date_archived": "2026-11-12"
   },
   {
-    "id": "workable-connectprep-6224030",
-    "company": "ConnectPrep",
-    "title": "Data Analyst Internship",
-    "location": "Remote, Washington, District of Columbia, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
-    "date_posted": "2026-10-25",
-    "date_added": "2026-10-26",
-    "active": false,
-    "date_archived": "2026-11-12"
-  },
-  {
     "id": "workable-coretek-services-6050685",
     "company": "Coretek Services",
     "title": "AI & Automation Development Intern",
@@ -1327592,20 +1327578,6 @@
     "date_archived": "2026-11-21"
   },
   {
-    "id": "workable-commonai-c-i-c-6194650",
-    "company": "CommonAI C.I.C.",
-    "title": "Software Engineer (Summer 2027 Internship)",
-    "location": "Cambridge, England, United Kingdom",
-    "type": "internship",
-    "season": "Summer 2027",
-    "source": "workable",
-    "url": "https://apply.workable.com/commonai/j/021D3FCF3E/",
-    "date_posted": "2026-10-20",
-    "date_added": "2026-10-26",
-    "active": false,
-    "date_archived": "2026-11-21"
-  },
-  {
     "id": "workable-flexion-robotics-5401232",
     "company": "Flexion Robotics",
     "title": "Internship - Humanoid Motion Generation (Diffusion or Flow Matching)",
@@ -1336394,20 +1336366,6 @@
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
     "date_posted": "2026-11-16",
     "date_added": "2026-11-17",
-    "active": false,
-    "date_archived": "2026-11-22"
-  },
-  {
-    "id": "workable-bask-health-6272016",
-    "company": "Bask Health",
-    "title": "Patient Experience Intern",
-    "location": "Remote, None, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/bask-health-1/j/9C8D5A5288/",
-    "date_posted": "2026-11-13",
-    "date_added": "2026-11-16",
     "active": false,
     "date_archived": "2026-11-22"
   },
@@ -1346376,6 +1346334,34 @@
     "url": "https://ats.rippling.com/democratic-national-committee/jobs/82425705-86cd-4211-863c-cef022329b0f",
     "date_posted": null,
     "date_added": "2026-09-29",
+    "active": false,
+    "date_archived": "2026-11-23"
+  },
+  {
+    "id": "workable-altalink-6131364",
+    "company": "AltaLink",
+    "title": "Co-Op Student - Project Support (DA)",
+    "location": "Calgary, Alberta, Canada",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/altalink/j/59D87FBB0C/",
+    "date_posted": "2026-10-30",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-23"
+  },
+  {
+    "id": "workable-bask-health-6262985",
+    "company": "Bask Health",
+    "title": "Product Discovery Intern",
+    "location": "Remote, None, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/bask-health-1/j/34C4378E0B/",
+    "date_posted": "2026-11-11",
+    "date_added": "2026-11-16",
     "active": false,
     "date_archived": "2026-11-23"
   }
