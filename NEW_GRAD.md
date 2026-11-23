@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Cowboy Space | Mechanism Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | 2026-11-23 |
 | Deliveroo | Software Engineer, New Grad | United Kingdom Deliveroo | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 2026-11-23 |
 | General Matter | Design Reliability Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008) | 2026-11-23 |
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/babe7410-c239-49ea-a1e7-2e8a6d3a8c3e) | 2026-11-22 |
@@ -114,7 +115,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Civil Engineer | Buffalo, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99527) | 2026-11-16 |
 | WSP | Early Career Geotechnical Engineer | Atlanta, GA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99546) | 2026-11-16 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000161580839) | 2026-11-14 |
-| Shield AI | Software Engineer I - Internal Tools (New Grad) - R6052 | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | 2026-11-14 |
 | AECOM | Entry-Level Environmental Scientist -  Hiring Event with AECOM - Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000161512490) | 2026-11-13 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | India | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8203121003?gh_jid=8203121003) | 2026-11-13 |
 | ReBuild Manufacturing | Entry Level Composite Technician | Rock Hill, SC | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4753751005) | 2026-11-13 |
@@ -126,22 +126,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Portland, OR - Diablo Tools - DAT | Portland, OR, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161375676) | 2026-11-13 |
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Seattle, WA - Diablo Tools - DAT | Seattle, WA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377959) | 2026-11-13 |
 | Securitas | Security Officer - Entry Level | Battle Creek, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177126) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/shield/b2660259-a5db-4530-95e6-20e48a41068d) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad (BOS) | Massachusetts, United States | [Apply](https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a) | 2026-11-13 |
-| Shield AI | Electrical Engineer I - New Grad (SEA) (R6107) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0) | 2026-11-13 |
-| Shield AI | Electrical Engineer I, X-BAT (New Grad) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6) | 2026-11-13 |
-| Shield AI | Engineer I, Electrical Integration & Test - New Grad (R5136) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2) | 2026-11-13 |
-| Shield AI | Engineer I, PCB - New Grad (R6065) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | 2026-11-13 |
-| Shield AI | Engineer I, Software - New Grad - 6531 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527) | 2026-11-13 |
-| Shield AI | Engineer I, Software - Perception - New Grad - 6135 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | Virginia, United States | [Apply](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0) | 2026-11-13 |
-| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | San Diego, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) | 2026-11-13 |
-| Shield AI | EWIS Harness Design - Engineer I - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/a0ea5b02-79ed-48e8-b2a6-e31443dd5411) | 2026-11-13 |
-| Shield AI | RF Engineer I - New Grad (R6108) | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17) | 2026-11-13 |
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
 | WSP | Early Career Geologist | Redmond, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99423) | 2026-11-13 |
 | Celonis | Associate Technology Consultant - Galaxy Graduate Program | North Carolina, United States | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003) | 2026-11-12 |
@@ -246,8 +230,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Relling | Mechatronics Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/5f0c9337-ea45-45e2-9608-c53530d4d422) | 2026-11-02 |
 | Relling | Robotics Software Engineer - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e) | 2026-11-02 |
 | Rendezvous Robotics | Flight Software Engineer (Early Career) | Golden, CO | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) | 2026-11-02 |
-| Shield AI | Engineer I, Mechanical (R6302) - New Grad | Washington, United States | [Apply](https://jobs.ashbyhq.com/shield/35306be5-82af-4251-8e6a-36d686d09ae8) | 2026-11-02 |
-| Shield AI | Software Development Engineer - New Graduate | California, United States / Arlington, VA, United States / Boston, MA, United States | [Apply](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606) | 2026-11-02 |
 | Verkada | Backend Software Engineer - University Graduate 2027 | CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | 2026-11-02 |
 | WSP | Early Career Environmental Engineering | Minneapolis, MN, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98658) | 2026-11-02 |
 | WSP | Early Career Substation Engineer | Buffalo, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98679) | 2026-11-02 |
