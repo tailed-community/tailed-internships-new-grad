@@ -463,7 +463,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2027 Early Career Flight Test Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) | 2026-09-24 |
 | Apex Companies | Survey Technician (Entry-Level to Crew Chief) | Somerset, PA | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5421315008) | 2026-09-24 |
 | Beyond New Horizons | Early Career Plant Operations Engineer (Multiple Openings) | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25060/early-career-plant-operations-engineer-%28multiple-openings%29/job) | 2026-09-24 |
-| CSA Group | Product Safety Engineer (New Graduate Development Program) | Cleveland, OH | [Apply](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Cleveland-OH/Product-Safety-Engineer--New-Graduates-_R005002) | 2026-09-24 |
 | Freeform | Manufacturing Engineer, CNC Machining (New Grad December 2026) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004026003) | 2026-09-24 |
 | Freeform | Manufacturing Engineer, CNC Machining (New Grad Summer 2027) | CA (on-Site) | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004100003) | 2026-09-24 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5433174008) | 2026-09-24 |
@@ -601,7 +600,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cummins | 2027 Early Career - Electronic Systems Product Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437103) | 2026-09-03 |
 | Cummins | 2027 Early Career - Engineer - Auto Test | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437212) | 2026-09-03 |
 | Cummins | 2027 Early Career - Thermal and Fluid Systems Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434540) | 2026-09-03 |
-| NorthMark Strategies | NMC² Graduate Program | Not Specified | [Apply](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/NMC--Graduate-Program_R13384) | 2026-09-03 |
 | Stantec | Entry Level Designer/Mechanical EIT | Los Angeles, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007541) | 2026-09-03 |
 | Stripe | Software Engineer, New Grad | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 2026-09-03 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3011.37 | Atlanta, GA / Buford, GA | [Apply](https://jobs.lever.co/wadetrim/521b38f4-d542-4122-a4ef-3b8a20900f02) | 2026-09-03 |
@@ -615,14 +613,12 @@ A community-maintained list of new grad and early-career roles across Canada and
 | KCI Technologies | Entry Level Field Technician | United States | [Apply](https://careers-kci.icims.com/jobs/8049/entry-level-field-technician/job) | 2026-09-02 |
 | KCI Technologies | Entry Level SUE Technician | Hainesport, NJ, United States | [Apply](https://careers-kci.icims.com/jobs/8065/entry-level-sue-technician/job) | 2026-09-02 |
 | Northmarq | 2027 Early Career Professionals - Talent Pipeline | Texas, United States / Colorado, United States / Minnesota, United States | [Apply](https://job-boards.greenhouse.io/northmarq/jobs/5383498008) | 2026-09-02 |
-| RTX (en-US) | Ingénieur - Programme de rotation de nouveaux gradues 2027 / Engineer - New Graduate Rotation Program 2027 | CA-QC-Longueuil-J01 ~ 1000 Blvd Marie-Victorin ~ J01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingnieur---Programme-de-rotation-de-nouveaux-gradues-2027---Engineer---New-Graduate-Rotation-Program-2027_01870776-1) | 2026-09-02 |
 | United Wholesale Mortgage | Entry Level Mortgage Call Center | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15877/entry-level-mortgage-call-center/job) | 2026-09-02 |
 | United Wholesale Mortgage | Entry Level Phone Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15878/entry-level-phone-support-specialist/job) | 2026-09-02 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Cracow | [Apply](https://jobs.lever.co/veeva/4ea9851b-cc73-4bea-a1ce-ae0f83f088b9) | 2026-09-02 |
 | Cummins | 2027 Early Career - Service Engineer 服务工程师 | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435161) | 2026-09-01 |
 | Hormel Foods | Entry Level Foodservice Sales Rep (Multiple Locations) - Campus Recruiting | Eden Prairie, MN, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35260) | 2026-09-01 |
 | Hormel Foods | Entry Level Retail Sales Rep (Multiple Locations) - Campus Recruiting | Bentonville, AR, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35333) | 2026-09-01 |
-| RTX (en-US) | Technologue - Programme de rotation de nouveaux gradues 2027 / Technologist – New Graduate Rotation Program 2027 | CA-QC-Longueuil-J01 ~ 1000 Blvd Marie-Victorin ~ J01 Bldg | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Technologue---Programme-de-rotation-de-nouveaux-gradues-2027---Technologist---New-Graduate-Rotation-Program-2027_01870988-1) | 2026-09-01 |
 | Sierra | APX (New Grad 2027) | San Francisco, United States | [Apply](https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015) | 2026-09-01 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, United States / New York, NY | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 2026-09-01 |
 | Stripe | Software Engineer, New Grad | London | [Apply](https://stripe.com/jobs/search?gh_jid=8130930) | 2026-09-01 |
