@@ -10,6 +10,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cowboy Space | Mechanism Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | 2026-11-23 |
 | Deliveroo | Software Engineer, New Grad | United Kingdom Deliveroo | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 2026-11-23 |
 | General Matter | Design Reliability Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008) | 2026-11-23 |
+| LHB | GIS Specialist – Entry Level | Duluth, MN, United States | [Apply](https://careers-lhbcorp.icims.com/jobs/2012/gis-specialist-%e2%80%93-entry-level/job) | 2026-11-23 |
 | Clera | Robot Learning Engineer, Entry-Level | Germany | [Apply](https://jobs.ashbyhq.com/Clera/babe7410-c239-49ea-a1e7-2e8a6d3a8c3e) | 2026-11-22 |
 | SpaceX | New Graduate Engineer, Electrical (Starfall) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002) | 2026-11-22 |
 | Eurofins | Entry Level Associate Scientist - Biochemistry | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162827509) | 2026-11-21 |
@@ -65,7 +66,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eight Sleep | New Grad - Engineering | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | 2026-11-18 |
 | Eurofins | Laboratory Technician (Sample Splitting Officer) - Graduate / Entry Level | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162214469) | 2026-11-18 |
 | Framatome | Early Career NDE Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2873/early-career-nde-technician/job) | 2026-11-18 |
-| Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15288/entry-level-substation-engineer/job) | 2026-11-18 |
 | General Matter | Automation & Controls Engineer, New Grads | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5476939008) | 2026-11-18 |
 | Intertek | Entry Level Field Testing Technician | Windham, NH, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16335) | 2026-11-18 |
 | Legrand | Entry Level Manufacturing Associate | West Hartford, CT, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1971) | 2026-11-18 |
@@ -109,6 +109,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Gannet Fleming | Entry Level Geotechnical Engineer | East Brunswick, NJ, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15159/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Geotechnical Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job) | 2026-11-16 |
 | Gannet Fleming | Entry Level Structural Engineer | Mechanicsburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15190/entry-level-structural-engineer/job) | 2026-11-16 |
+| Gannet Fleming | Entry Level Substation Engineer | St. Louis, MO, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/14756/entry-level-substation-engineer/job) | 2026-11-16 |
 | Olsson | Entry-Level Geotechnical Driller | La Vista, NE / Lincoln, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5483154008) | 2026-11-16 |
 | Weatherford | Field Engineer - NextGen Graduate Program | Australia | [Apply](https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/108486) | 2026-11-16 |
 | WSP | Early Career Bridge Inspection Engineer | Troy, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99532) | 2026-11-16 |
@@ -154,7 +155,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | Graduate Program - Operations / Manufacturing | Belgium | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000160884551) | 2026-11-10 |
 | Clean Harbors | Environmental Field Chemist – Entry Level (InSite Chemist) | Cincinnati, OH, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168583) | 2026-11-10 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Urban, Campus & Cultural | New York, NY, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4165/project-specialist%2c-architecture-%7c-2026-new-grad---urban%2c-campus-%26-cultural/job) | 2026-11-10 |
-| General Dynamics | Welding/Materials Engineer - Early Career | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/24317/welding-materials-engineer---early-career/job) | 2026-11-10 |
 | WSP | Early Career Civil Engineer | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99097) | 2026-11-10 |
 | Dandy | Business Development Representative (NY - Entry Level) | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/ab4d88b1-4a75-424a-bfa5-2b5cc7cb47de) | 2026-11-09 |
 | Dandy | Business Development Representative (UT - Entry Level) | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/a2c25144-1357-47ac-9b27-07c50e42134e) | 2026-11-09 |
@@ -388,7 +388,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - New York Data Centers | New York, NY, United States | [Apply](https://campus-us-corgan.icims.com/jobs/3469/project-specialist%2c-architecture-%7c-2026-new-grad---new-york-data-centers/job) | 2026-10-05 |
 | Corgan | Project Specialist, Architecture \| 2026 New Grad - Orlando Data Centers | Orlando, FL, United States | [Apply](https://campus-us-corgan.icims.com/jobs/3668/project-specialist%2c-architecture-%7c-2026-new-grad---orlando-data-centers/job) | 2026-10-05 |
 | Corgan | Project Specialist, Architecture \| 2027 New Grad | Dallas, TX, United States / Abilene, TX, United States / Albany, NY, United States / Atlanta, GA, United States / Chicago, IL, United States / Los Angeles, United States / San Francisco, United States / New York, NY, United States / Orlando, FL, United States / ... | [Apply](https://campus-us-corgan.icims.com/jobs/4076/project-specialist%2c-architecture-%7c-2027-new-grad/job) | 2026-10-05 |
-| Corgan | Project Specialist, Interior Design \| 2026 New Grad - Dallas Aviation | Dallas, TX, United States | [Apply](https://campus-us-corgan.icims.com/jobs/4102/project-specialist%2c-interior-design-%7c-2026-new-grad---dallas-aviation/job) | 2026-10-05 |
 | Corgan | Project Specialist, Interior Design\| 2027 New Grad | Dallas, TX, United States / Atlanta, GA, United States / Chicago, IL, United States / Los Angeles, United States / New York, NY, United States / Orlando, FL, United States / Phoenix, AZ, United States / San Francisco, United States / Bellevue, WA, United States / Houston, TX, United States / ... | [Apply](https://campus-us-corgan.icims.com/jobs/4078/project-specialist%2c-interior-design%7c-2027-new-grad/job) | 2026-10-05 |
 | Intertek | Entry-Level Field Testing Technicians | Waukesha, WI, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16023) | 2026-10-05 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3068.08 | Pittsburgh, PA | [Apply](https://jobs.lever.co/wadetrim/bc096290-b74b-487a-8d3d-0e3369fd8ab2) | 2026-10-05 |
