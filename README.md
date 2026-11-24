@@ -41,6 +41,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Ameresco | DDC Controls Technician Intern | United States Kentucky Louisville | [Apply](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Kentucky---Louisville/DDC-Controls-Technician-Intern_R4140-1) | 2026-11-24 |
 | Ameresco | DDC Controls Technician Intern | United States Florida Fort Myers | [Apply](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Florida---Fort-Myers/DDC-Controls-Technician-Intern_R4141) | 2026-11-24 |
 | Analog Devices | Robot Learning Engineer Intern | Rio Robles, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543) | 2026-11-24 |
+| APEX Analytix | Customer Implementation Internship (Performance) | Greensboro, NC | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/d3b5aa70-54dc-49cd-9b8f-30a4b6485646) | 2026-11-24 |
 | Arizona State University - ASUEP | Student HR Coordinator | Asu Enterprise Partners | [Apply](https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-HR-Coordinator_R1601) | 2026-11-24 |
 | Auburn University | Building Specialist - Student Affairs | Auburn University, AL | [Apply](https://jobs.auburn.edu/jobs/10472?lang=en-us&icims=1) | 2026-11-24 |
 | Auburn University | Student Lifeguard | Auburn University, AL | [Apply](https://jobs.auburn.edu/jobs/13357?lang=en-us&icims=1) | 2026-11-24 |
@@ -6997,9 +6998,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | ReBuild Manufacturing | Automation & Controls Engineer Co-op/Intern | Rochester, NY | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005) | 2026-09-22 |
 | Relay | Solutions Engineer Intern (Summer 2027 Opportunity) | Raleigh, NC | [Apply](https://job-boards.greenhouse.io/relaypro/jobs/8214334) | 2026-09-22 |
 | Rippling | Data Science Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) | 2026-09-22 |
-| Rippling | Full Stack Software Engineer Intern - Summer 2027 | New York, NY / Seattle, WA / San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) | 2026-09-22 |
 | Rippling | Machine Learning Software Engineer Intern - Summer 2027 | San Francisco, Canada | [Apply](https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d) | 2026-09-22 |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | San Francisco, Canada / Seattle, WA / New York, NY | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) | 2026-09-22 |
 | Robert Bosch Venture Capital | Working Student - Industrial Engineering | Romania | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150958359) | 2026-09-22 |
 | SCOR | Business Analyst Intern | Ile-De-France, France | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5424) | 2026-09-22 |
 | Snowflake | Software Engineer Intern - Berlin (2027) | Germany | [Apply](https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8) | 2026-09-22 |

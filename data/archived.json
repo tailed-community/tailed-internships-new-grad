@@ -1334226,5 +1334226,33 @@
     "date_added": "2026-11-05",
     "active": false,
     "date_archived": "2026-11-24"
+  },
+  {
+    "id": "rippling-rippling-f64b6158-9534-4bab-9457-45556166b262",
+    "company": "Rippling",
+    "title": "Full Stack Software Engineer Intern - Summer 2027",
+    "location": "New York, NY / Seattle, WA / San Francisco, CA",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+    "date_posted": null,
+    "date_added": "2026-09-22",
+    "active": false,
+    "date_archived": "2026-11-24"
+  },
+  {
+    "id": "rippling-rippling-a07e4e46-3721-4934-b57b-0d58412e22ba",
+    "company": "Rippling",
+    "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+    "location": "San Francisco, CA / Seattle, WA / New York, NY",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+    "date_posted": null,
+    "date_added": "2026-09-22",
+    "active": false,
+    "date_archived": "2026-11-24"
   }
 ]
