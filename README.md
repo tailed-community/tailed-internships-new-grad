@@ -67,6 +67,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Daikin Applied - Pre-Selected_Candidate_Site | Infrastructure Specialist Intern | Plymouth | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/Infrastructure-Specialist-Intern_R004445) | 2026-11-24 |
 | Daikin Applied - Pre-Selected_Candidate_Site | New Technology Introduction Intern | Plymouth | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/New-Technology-Introduction-Intern_R004453) | 2026-11-24 |
 | Ecolab | Paper & Pulp Engineering Technical Sales  Intern | 2 Locations | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Kalamazoo/Paper---Pulp-Engineering-Technical-Sales--Intern_R00305937) | 2026-11-24 |
+| EP Wealth Advisors | IT Service Desk Intern | Torrance CA / Brighton Mi | [Apply](https://jobs.lever.co/epwealth/59bcae35-8a8c-4829-bede-8b9d4b9f10a6) | 2026-11-24 |
 | First PREMIER Bank | PREMIER Correspondence Internship | Sioux Falls, SD | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Correspondence-Internship_R-567-1) | 2026-11-24 |
 | First PREMIER Bank | PREMIER Customer Service Internship | Dakota Dunes, SD | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Dakota-Dunes-SD/PREMIER-Customer-Service-Internship_R-575-1) | 2026-11-24 |
 | First PREMIER Bank | PREMIER Marketing Analytics Internship | Sioux Falls, SD | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Marketing-Analytics-Internship_R-568-1) | 2026-11-24 |
@@ -83,6 +84,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Interdigital - InterDigital_Intern | Marketing/Communication Intern (part-time) | Washington, DC | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Washington-DC/Marketing-Communication-Intern--part-time-_REQ26-1175) | 2026-11-24 |
 | Interdigital - InterDigital_Intern | Ph.D. Intern (Wireless + AI/ML) | 2 Locations | [Apply](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--Wireless---AI-ML-_REQ26-1174) | 2026-11-24 |
 | Marvell - MarvellCareers2 | Product Marketing Intern, MBA - Summer 2027 | Santa Clara, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Marketing-Intern--MBA---Summer-2027_2603894) | 2026-11-24 |
+| Matillion | Finance Systems and Operations - Industrial Student Placement | Manchester | [Apply](https://jobs.lever.co/matillion/b8719aa8-4bf5-4ae3-b407-592db36323ea) | 2026-11-24 |
 | Medtronic - MedtronicCareers | Intern Contracting Team Support | Poland | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Contracting-Team-Support_R82344-1) | 2026-11-24 |
 | Medtronic - MedtronicCareers | Intern: MBA/Graduate | India | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Gurgaon-Haryana-India/Intern--MBA-Graduate_R79232-2) | 2026-11-24 |
 | Medtronic - MedtronicCareers | Intern: MBA/Graduate | 2 Locations | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kochi-Kerala-India/Intern--MBA-Graduate_R79178-1) | 2026-11-24 |
@@ -632,7 +634,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Method | Residency Internship Program - Program Management | Mexico | [Apply](https://job-boards.greenhouse.io/method/jobs/8207687003) | 2026-11-21 |
 | Method | Residency Internship Program - Program Management | Canada Remote | [Apply](https://job-boards.greenhouse.io/method/jobs/8207684003) | 2026-11-21 |
 | Minitab | Business Development Intern | Pennsylvania, United States | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8210859003) | 2026-11-21 |
-| Mom's Meals | Compliance & Privacy Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513) | 2026-11-21 |
 | Mom's Meals | Continuous Improvement Intern | Conyers, GA | [Apply](https://jobs.lever.co/momsmeals/387195a3-2584-4a0a-8b7a-1af4d9f1800f) | 2026-11-21 |
 | Mom's Meals | Continuous Improvement Intern | North Jackson, OH | [Apply](https://jobs.lever.co/momsmeals/c3e6cb8a-b2c2-45ba-bd34-96f77e0280a8) | 2026-11-21 |
 | Mom's Meals | Data Analytics Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/9cc07826-a8bc-4ad4-a570-b54eabc95774) | 2026-11-21 |
@@ -641,6 +642,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mom's Meals | Marketing Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/c5ce94ba-f7a4-4fad-bb91-c0c97355d534) | 2026-11-21 |
 | Mom's Meals | New Product Development/Strategic Sourcing Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/5fb89117-7ce8-4dff-a46f-e9610a3af13d) | 2026-11-21 |
 | Mom's Meals | Production Intern (Mechanical Engineering) | Oklahoma City, OK | [Apply](https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74) | 2026-11-21 |
+| Mom's Meals | Regulatory, Compliance, & Privacy Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/6a8eb87c-46e8-476a-8ef2-e7c1f76af513) | 2026-11-21 |
 | Mom's Meals | Salesforce Developer Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/ae79f9a3-19de-4a20-981f-8d7a76b034ab) | 2026-11-21 |
 | Mom's Meals | Software Quality Assurance (QA) Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0) | 2026-11-21 |
 | Mom's Meals | Technical Commercialization Intern | Ankeny, IA | [Apply](https://jobs.lever.co/momsmeals/9dcfcc5d-f6a0-4bfb-8e10-dce09739edda) | 2026-11-21 |
@@ -1068,7 +1070,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | WSP | Environmental Engineering Intern - Summer 2027 | Mount Laurel, NJ, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99732) | 2026-11-19 |
 | WSP | Industrial Hygienist Intern – Summer 2027 | Jacksonville, FL, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99756) | 2026-11-19 |
 | Zoox | Contract Student Worker - Data Scientist (20 hrs wk) | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483) | 2026-11-19 |
-| Zoox | Process Improvement Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f) | 2026-11-19 |
+| Zoox | Process Improvement Intern (L) [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f) | 2026-11-19 |
 | Adobe | 2027 Intern - Marketing Operations | London | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Marketing-Operations_R173217) | 2026-11-18 |
 | Adobe | 2027 Intern - Marketing Research & Insights Assistant | London | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Marketing-Research---Insights-Assistant_R173219) | 2026-11-18 |
 | Adobe | 2027 Intern - Sports and Marketing Partnerships Intern | London | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---International-Sports-Partnerships-Intern_R173218) | 2026-11-18 |
@@ -1410,7 +1412,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Red Bull | Student Marketeer - Front Range Community College - Westminster | Westminster, CO, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162150049) | 2026-11-17 |
 | Red Bull | Student Marketeer - Oral Roberts University | Tulsa, OK, United States | [Apply](https://jobs.smartrecruiters.com/RedBull/744000162149244) | 2026-11-17 |
 | REGENT | Guidance, Navigation and Control (GNC) Intern | Rhode Island, United States | [Apply](https://jobs.ashbyhq.com/REGENT/6b044f00-b7e8-4141-8cd8-2d77fa40eea0) | 2026-11-17 |
-| Research Innovations | DoW SkillBridge Operations SME Intern | Remote | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e) | 2026-11-17 |
 | Robert Bosch Venture Capital | Content Management Support Internship | Serbia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162085049) | 2026-11-17 |
 | Robert Bosch Venture Capital | Data Administration Internship | Serbia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162037033) | 2026-11-17 |
 | Robert Bosch Venture Capital | Internship 2027, Controlling & Financial Analyst | Thailand | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162075914) | 2026-11-17 |
@@ -2328,7 +2329,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | UL Solutions | 2027 Summer Intern: Business Analyst Intern RC&S | Northbrook, IL, United States | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) | 2026-11-11 |
 | Vertex Pharmaceuticals | Spring 2027 Co-Op, General Ledger Accounting | Boston, MA | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-Op--General-Ledger-Accounting_REQ-31429-1) | 2026-11-11 |
 | Vertiv | Finance Intern | Romania | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283991) | 2026-11-11 |
-| WeRide | PR & Marketing Intern | One-North | [Apply](https://jobs.lever.co/weride/7b9054ed-e05b-4c5a-98ce-46d6630c54c3) | 2026-11-11 |
 | Western Digital | Intern - Automation Development Engineer (Studying Master's Degree) | Thailand | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000136954658) | 2026-11-11 |
 | Western Digital | Summer 2027 Intern - Hardware Engineering | San Jose, United States | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000160975864) | 2026-11-11 |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, United States | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000160975819) | 2026-11-11 |
@@ -2858,9 +2858,10 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Walter P Moore | Engineering Intern - Structural | In-Pune / Ahmedabad, IN / Bengaluru, IN | [Apply](https://careers-walterpmoore.icims.com/jobs/4335/engineering-intern---structural/job) | 2026-11-07 |
 | WSP | Urban Planning Intern - Summer 2027 | New York, NY, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98916) | 2026-11-07 |
 | Yusen Logistics | Control Tower Export Intern | Jacksonville, FL, United States | [Apply](https://careers-yusen-logistics.icims.com/jobs/6615/intern---undergrad/job) | 2026-11-07 |
+| Zoox | AI Engineering Intern, Operational Safety [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) | 2026-11-07 |
 | Zoox | Data Science Intern [Summer 2027] | Foster City, Canada / Boston, MA | [Apply](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) | 2026-11-07 |
 | Zoox | MBA Program Manager Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) | 2026-11-07 |
-| Zoox | Process Improvement Intern [ Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) | 2026-11-07 |
+| Zoox | Process Improvement Intern (A) [ Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) | 2026-11-07 |
 | Zoox | Safety Reporting Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) | 2026-11-07 |
 | AARP | Communications and Outreach Intern | Hawaii | [Apply](https://careers.aarp.org/jobs/7958?lang=en-us&icims=1) | 2026-11-06 |
 | AARP | Financial Planning and Analysis Intern (Summer 2027) | Washington, DC, United States | [Apply](https://careers.aarp.org/jobs/7959?lang=en-us&icims=1) | 2026-11-06 |
@@ -3003,7 +3004,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Zoox | Hardware Engineer Intern, Vehicle Development [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | 2026-11-06 |
 | Zoox | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | 2026-11-06 |
 | Zoox | Information Technology & Applications Intern [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558) | 2026-11-06 |
-| Zoox | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) | 2026-11-06 |
+| Zoox | PhD Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) | 2026-11-06 |
 | Zoox | Software Engineer Intern, Software Platforms & Product [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) | 2026-11-06 |
 | Zoox | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, Canada | [Apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) | 2026-11-06 |
 | Accor | Brand Strategy & Marketing Assistant, Novotel ENA – Internship | Idf, France | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000159818530) | 2026-11-05 |
@@ -4960,6 +4961,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Sinclair | News Intern | Oklahoma City, OK, United States | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17503) | 2026-10-20 |
 | SpaceX | Propulsion Engineer, Stage Systems (Starship) | Starbase, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8901004002?gh_jid=8901004002) | 2026-10-20 |
 | SSOE Group | Mechanical Engineering Intern - Spring 2027 (Part-time) or Summer 2027 (Full-time) | Boise, ID, United States | [Apply](https://careers-ssoe.icims.com/jobs/3979/mechanical-engineering-intern---spring-2027-%28part-time%29-or-summer-2027-%28full-time%29/job) | 2026-10-20 |
+| Stand Together | KIP Spring 2027 - Federal Policy Intern - Pacific Legal Foundation | Virginia | [Apply](https://jobs.lever.co/standtogether/93d509dd-f638-4d58-a371-b87880d2363c) | 2026-10-20 |
 | Stand Together | KIP Spring 2027 - State Policies Intern - Marijuana Policy Project Foundation | Washington, DC | [Apply](https://jobs.lever.co/standtogether/e21ed89d-2cc7-49d7-9f66-8c53108f5dc3) | 2026-10-20 |
 | Stantec | Process Engineering Intern – Energy & Resources (Summer 2027) | Bakersfield, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008254) | 2026-10-20 |
 | Texas Instruments | 2027 Finance, Purchasing, and Logistics Internship | Philippines | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018736) | 2026-10-20 |
@@ -5603,7 +5605,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | IDeaS | Client Success Intern | Bloomington, MN, United States | [Apply](https://ideas-sas.icims.com/jobs/42652/client-success-intern/job) | 2026-10-08 |
 | KCI Technologies | Planning Intern (Summer 2027) | Nashville, TN, United States | [Apply](https://careers-kci.icims.com/jobs/8144/planning-intern-%28summer-2027%29/job) | 2026-10-08 |
 | KCI Technologies | Traffic Engineering Intern (Summer 2027) | Nashville, TN, United States | [Apply](https://careers-kci.icims.com/jobs/8149/traffic-engineering-intern-%28summer-2027%29/job) | 2026-10-08 |
-| Massachusetts School Building Authority | Capital Planning Assistant (Co-Op) - Project Team | Massachusetts | [Apply](https://jobs.lever.co/massschoolbuildings/0e3af3e7-1343-43b3-88a5-8c7264c8c612) | 2026-10-08 |
 | Medtronic - MedtronicCareers | Intern | Malaysia | [Apply](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kulim-Kedah-Malaysia/Intern_R78860) | 2026-10-08 |
 | MEMX | Legal Intern, Summer 2027 (Hybrid, NYC) | United States | [Apply](https://job-boards.greenhouse.io/memx/jobs/5447824008) | 2026-10-08 |
 | Moderna | Co-Op, Clinical Biomarker Biostatistics | Not Specified | [Apply](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Co-Op--Clinical-Biomarker-Biostatistics_R19869) | 2026-10-08 |
@@ -5809,7 +5810,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Stand Together | KIP Spring 2027 - Policy Intern - Fulcrum Foundation | Kentucky | [Apply](https://jobs.lever.co/standtogether/a78902b9-772b-478e-8cc6-6903c9f5b5d3) | 2026-10-06 |
 | Stand Together | KIP Spring 2027 - Policy/Research Intern - Competitive Enterprise Institute | Washington, DC | [Apply](https://jobs.lever.co/standtogether/2d47872b-65e9-45ae-941a-15ef1a88c73b) | 2026-10-06 |
 | Stand Together | KIP Spring 2027 - Programs Logistics Intern - Foundation for Economic Education | Georgia | [Apply](https://jobs.lever.co/standtogether/92af3ee6-eef5-4620-9942-1b8269d5f690) | 2026-10-06 |
-| Stand Together | KIP Spring 2027 - Strategic Leadership Intern - Fair For All | New York | [Apply](https://jobs.lever.co/standtogether/d02174fe-d16c-4dbc-9298-84df32618c68) | 2026-10-06 |
 | Stantec | Geotechnical Engineering Intern - Energy & Resources (Summer 2027) | Sacramento, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008124) | 2026-10-06 |
 | Stantec | Structural Engineering Intern/Co-op – Transportation (Spring 2027) | New York, NY, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008130) | 2026-10-06 |
 | Tenstorrent | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada) | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) | 2026-10-06 |
@@ -6828,7 +6828,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Hearst | Photo Intern - Fall 2027 | Dallas, TX, United States | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027549) | 2026-09-23 |
 | Hearst | Sports Intern - Fall 2027 | Dallas, TX, United States | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027550) | 2026-09-23 |
 | Hearst (CX_10007) | Breaking News Intern | Houston, TX, United States | [Apply](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_10007/job/2027540) | 2026-09-23 |
-| Hermeus | Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) | 2026-09-23 |
+| Hermeus | Propulsion Test Engineering Intern - Summer/Fall 2027 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) | 2026-09-23 |
 | Hewlett Packard (HP) | Placement Year - Business Analyst Intern | Berkshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Business-Analyst-Intern_UNI4893) | 2026-09-23 |
 | Hewlett Packard (HP) | Placement Year - Channel Programs Intern | Berkshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Channel-Programs-Intern_UNI4887) | 2026-09-23 |
 | Hewlett Packard (HP) | Placement Year - Channel Sales Intern | Berkshire, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Reading-Berkshire-United-Kingdom/Placement-Year---Commercial-Channel-Sales-Support-Intern_UNI4892) | 2026-09-23 |
@@ -8490,7 +8490,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | General Dynamics UK | Co-op Winter 2027 - Software Engineering - 4-8 months | CA-ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 |
 | GHD | Electrical Engineering Intern | Orlando, FL, United States | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28160) | 2026-09-04 |
 | Global Infrastructure | Aviation Planning Intern | US \| Il \| Chicago 8755 West Higgins Road | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---8755-West-Higgins-Road/Aviation-Planning-Intern_6318) | 2026-09-04 |
-| Hermeus | Flight Software & GNC Intern - Spring/Summer 2027 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) | 2026-09-04 |
+| Hermeus | Flight Software & GNC Intern - Spring 2027 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) | 2026-09-04 |
 | Hermeus | Mission Systems Engineering Intern - Spring/Summer 2027 | Atlanta, GA / Los Angeles, Canada | [Apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) | 2026-09-04 |
 | Hewlett Packard (HP) | Finance Intern | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Finance-Intern_UNI4241) | 2026-09-04 |
 | Hormel Foods | Food Safety & Quality Intern - Summer 2027 - Campus Recruiting (Multiple Locations) | Austin, MN, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738) | 2026-09-04 |
@@ -10379,7 +10379,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Palantir | Deployment Strategist, Internship | Paris, France | [Apply](https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0) | 2026-06-02 |
 | Palantir | Deployment Strategist, Internship - US Government | Honolulu, HI | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship | Paris, France | [Apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) | 2026-06-02 |
-| Palantir | Forward Deployed Software Engineer, Internship - AUS Government | Australia | [Apply](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | 2026-06-02 |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | 2026-06-02 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | 2026-06-02 |
@@ -10423,7 +10422,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | University of Arkansas | Student Research Assistant-2 | Uapb\|caine\|caine Gilleland Hall | [Apply](https://uasys.wd5.myworkdayjobs.com/uasys/job/UAPBCAINECaine-Gilleland-Hall/Student-Research-Assistant-2_R0085815) | 2026-06-02 |
 | Waabi | 2027 Intern, PhD Research Scientist | Toronto, ON / Pittsburgh, PA / San Francisco, Canada | [Apply](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e) | 2026-06-02 |
 | Waabi | Research Internship/Co-op | Toronto, ON / San Francisco, Canada / United States Remote | [Apply](https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb) | 2026-06-02 |
-| Waterfall | Intern | Remote | [Apply](https://jobs.lever.co/waterfall/0670f801-bf35-410e-8310-0f7aa3fa9650) | 2026-06-02 |
 | WPP Media | Creative Services is looking for interns | Denmark | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/4914736008) | 2026-06-02 |
 | WPP Media | Learning and Development stage | The Netherlands | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/5163716008) | 2026-06-02 |
 | WPP Media | LIA/Internship within SEO | Sweden | [Apply](https://job-boards.greenhouse.io/wppmedia/jobs/4909962008) | 2026-06-02 |
