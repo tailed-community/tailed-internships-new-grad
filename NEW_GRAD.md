@@ -14,6 +14,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Apex Companies | Entry-Level Civil Engineer | Salt Lake City, UT | [Apply](https://job-boards.greenhouse.io/apexcompanies/jobs/5492866008) | 2026-11-24 |
 | Arkansas Children's | RN I New Graduate Resident | Not Specified | [Apply](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/RN-I-New-Graduate-Resident_R0024821) | 2026-11-24 |
 | Cleveland Clinic | New Grad RN Resident - Med/Surg & Post-Op Surgery | Fairview Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/RN---Med-Surg---Post-Op-Surgery_362701) | 2026-11-24 |
+| Gannet Fleming | Entry Level Transportation Planner | Columbus, OH, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15521/entry-level-transportation-planner/job) | 2026-11-24 |
+| General Dynamics | Mechanical Engineer - Facilities (Entry Level) | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/20705/mechanical-engineer---facilities-%28entry-level%29/job) | 2026-11-24 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Elmira/Ithaca, NY) | New York | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Entry-Level-Associate-Neurophysiologist--Elmira-Ithaca--NY-_JR108253-1) | 2026-11-24 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Middlsex/Mercer/Somerset/Monmouth County, NJ) | New Jersey | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-Jersey/Entry-Level-Associate-Neurophysiologist--Middlsex-Mercer-Somerset-Monmouth-County--NJ-_JR108273-1) | 2026-11-24 |
 | Globus Medical | Entry Level Associate Neurophysiologist (Syracuse, NY) | New York | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Entry-Level-Associate-Neurophysiologist--Syracuse--NY-_JR108089-1) | 2026-11-24 |
@@ -317,7 +319,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Stripe | Software Engineer, New Grad | Bangalore | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) | 2026-10-28 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3076 | Detroit, MI | [Apply](https://jobs.lever.co/wadetrim/fa21286f-94e6-48a7-acdd-006b03144a75) | 2026-10-28 |
 | Egis Group | Entry Level ROW Specialist | Lexington, KY, United States | [Apply](https://jobs.smartrecruiters.com/EgisGroup/744000157866660) | 2026-10-27 |
-| Fred Hutchinson Cancer Center | New Graduate Registered Nurse - Infusion - Evergreen Clinic | Kirkland, WA, United States | [Apply](https://careers-fhcrc.icims.com/jobs/32099/new-graduate-registered-nurse---infusion---evergreen-clinic/job) | 2026-10-27 |
 | Sierra | Software Engineer, Agent (New Grad 2027) | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | 2026-10-27 |
 | Stantec | Entry Level Designer/Structural EIT | Las Cruces, NM, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008529) | 2026-10-27 |
 | Jobs for Humanity | Entry Level Client Representative | United States Remote | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000157674579) | 2026-10-26 |
@@ -395,8 +396,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Netherlands Amsterdam | [Apply](https://jobs.lever.co/veeva/38e05d84-6102-4dfa-8da1-096abf825679) | 2026-10-15 |
 | Veeva Systems | Associate Consultant - Entry-Level Technology Consulting | Italy Milan | [Apply](https://jobs.lever.co/veeva/d2af3300-1eb4-47ab-a198-5031e6f366ba) | 2026-10-15 |
 | Anduril | 2027 Early Career Associate Product Designer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | 2026-10-14 |
-| Beyond New Horizons | Early Career Technology Development Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/25285/early-career-technology-development-engineer/job) | 2026-10-14 |
-| United Wholesale Mortgage | Entry Level Escrow Administrator - San Diego | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/14192/entry-level-escrow-administrator---san-diego/job) | 2026-10-14 |
 | WSP | Early Career Electrical Engineer (Substation) | Lake Oswego, OR, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97521) | 2026-10-14 |
 | Belvedere Trading | Quantitative Researcher - Entry Level 2027 | Illinois | [Apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) | 2026-10-13 |
 | Ford Motor Company | Mechanical / Hardware Engineer - Early Career Program, Advanced EV | Long Beach, United States | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72761) | 2026-10-13 |
