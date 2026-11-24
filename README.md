@@ -1698,6 +1698,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
 | Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
+| Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
 | Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
@@ -4417,8 +4418,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Brunswick Group | Internship Program Spring 2027, Frankfurt - Germany | Germany | [Apply](https://job-boards.greenhouse.io/brunswickgroup/jobs/8479278002) | 2026-10-26 |
 | Carollo Engineers | Water/Wastewater Engineering Intern | Seattle, WA, United States | [Apply](https://careers-carollo.icims.com/jobs/4682/water-wastewater-engineering-intern/job) | 2026-10-26 |
 | ClickHouse | Research Intern, ClickHouse Labs | San Francisco, United States / Germany / The Netherlands / United States Remote | [Apply](https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b) | 2026-10-26 |
-| CommonAI C.I.C. | Software Engineer (Summer 2027 Internship) | England, United Kingdom | [Apply](https://apply.workable.com/commonai/j/021D3FCF3E/) | 2026-10-26 |
-| ConnectPrep | Data Analyst Internship | United States Remote | [Apply](https://apply.workable.com/connectprep/j/1AF4F8C65F/) | 2026-10-26 |
 | Cook Group | Manufacturing Engineering Co-op - Summer 2027 - Bloomington, IN | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19984/manufacturing-engineering-co-op---summer-2027---bloomington%2c-in/job) | 2026-10-26 |
 | Cook Group | Manufacturing Supplier Engineering Co-op - Spring 2026 - Bloomington, Indiana | Bloomington, IN, United States | [Apply](https://americas-cookmedical.icims.com/jobs/19554/manufacturing-supplier-engineering-co-op---spring-2026---bloomington%2c-indiana/job) | 2026-10-26 |
 | DecisionPoint | COOP Site Support Technician / ORT Analyst (Senior) | Indianapolis, IN, United States | [Apply](https://careers-decisionpointcorp.icims.com/jobs/4173/coop-site-support-technician---ort-analyst-%28senior%29/job) | 2026-10-26 |

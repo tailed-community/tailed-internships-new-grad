@@ -1330000,20 +1330000,6 @@
     "date_archived": "2026-11-23"
   },
   {
-    "id": "workable-bask-health-6262985",
-    "company": "Bask Health",
-    "title": "Product Discovery Intern",
-    "location": "Remote, None, United States",
-    "type": "internship",
-    "season": "Not specified",
-    "source": "workable",
-    "url": "https://apply.workable.com/bask-health-1/j/34C4378E0B/",
-    "date_posted": "2026-11-11",
-    "date_added": "2026-11-16",
-    "active": false,
-    "date_archived": "2026-11-23"
-  },
-  {
     "id": "workday-adtran-job-munich-germany-student-m-f-d-r003547",
     "company": "Adtran",
     "title": "Intern (M/F/D) Advanced Technology",
@@ -1334252,6 +1334238,34 @@
     "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
     "date_posted": null,
     "date_added": "2026-09-22",
+    "active": false,
+    "date_archived": "2026-11-24"
+  },
+  {
+    "id": "workable-commonai-c-i-c-6194650",
+    "company": "CommonAI C.I.C.",
+    "title": "Software Engineer (Summer 2027 Internship)",
+    "location": "Cambridge, England, United Kingdom",
+    "type": "internship",
+    "season": "Summer 2027",
+    "source": "workable",
+    "url": "https://apply.workable.com/commonai/j/021D3FCF3E/",
+    "date_posted": "2026-10-20",
+    "date_added": "2026-10-26",
+    "active": false,
+    "date_archived": "2026-11-24"
+  },
+  {
+    "id": "workable-connectprep-6224030",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Remote, Washington, District of Columbia, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
+    "date_posted": "2026-10-25",
+    "date_added": "2026-10-26",
     "active": false,
     "date_archived": "2026-11-24"
   }
