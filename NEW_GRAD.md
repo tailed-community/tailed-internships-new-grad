@@ -19,6 +19,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Globus Medical | Entry Level Associate Neurophysiologist (Syracuse, NY) | New York | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Entry-Level-Associate-Neurophysiologist--Syracuse--NY-_JR108089-1) | 2026-11-24 |
 | Hewlett Packard (HP) | Supply Chain Rotational Graduate Program (Non-Technical) | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Non-Technical-_3171473) | 2026-11-24 |
 | Hewlett Packard (HP) | Supply Chain Rotational Graduate Program (Technical) | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Technical-_3171472) | 2026-11-24 |
+| Netic | Technical Recruiter - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/12588fb6-77c3-41fe-b1bf-56f05e00bd8c) | 2026-11-24 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5493753008) | 2026-11-24 |
 | Relativity Space | New Grad 2027 - Aerodynamics Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8957620002?gh_jid=8957620002) | 2026-11-24 |
 | Relativity Space | New Grad 2027 - GNC Mission Design Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8957609002?gh_jid=8957609002) | 2026-11-24 |
@@ -349,7 +350,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2027 Early Career Mechanical Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007) | 2026-10-21 |
 | Anduril | 2027 Early Career Software Development in Test | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007) | 2026-10-21 |
 | Anduril | 2027 Early Career Test & Quality Engineer | Ireland | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5266291007?gh_jid=5266291007) | 2026-10-21 |
-| Brain Co. | AI Platform Engineer, 2027 New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15) | 2026-10-21 |
 | Brain Co. | AI Product Engineer, 2027 New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e) | 2026-10-21 |
 | Brain Co. | AI Security Engineer, 2027 New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030) | 2026-10-21 |
 | Brain Co. | Machine Learning Engineer, 2027 New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd) | 2026-10-21 |
@@ -858,7 +858,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | The Health Management Academy | Business Development Associate (Entry Level Sales) | Arlington, VA | [Apply](https://job-boards.greenhouse.io/thehealthmanagementacademy/jobs/5343024008) | 2026-07-14 |
 | Pylon | Software Engineer, New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | 2026-07-13 |
 | Cleveland Clinic | New Grad RN Resident - Med Surg | Medina Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Medina-Hospital/New-Grad-RN-Resident---Med-Surg_345308) | 2026-07-11 |
-| Netic | Technical Recruiter - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/bea76c74-368b-455c-85e2-5f9764a0202b) | 2026-07-09 |
 | Cleveland Clinic | New Grad RN Resident – Neuroscience Med/Surg | Akron General Medical Center | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/RN---Neuroscience-Med-Surg-09-FTE-7a-7-30p_344986-1) | 2026-07-08 |
 | SpaceX | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | [Apply](https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002) | 2026-07-08 |
 | Cleveland Clinic | New Grad RN Resident – Complex Med/Surg | Hillcrest Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---General-Medicine-Geriatric-Medicine_314399) | 2026-07-07 |
