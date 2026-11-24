@@ -21,11 +21,13 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Globus Medical | Entry Level Associate Neurophysiologist (Syracuse, NY) | New York | [Apply](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/New-York/Entry-Level-Associate-Neurophysiologist--Syracuse--NY-_JR108089-1) | 2026-11-24 |
 | Hewlett Packard (HP) | Supply Chain Rotational Graduate Program (Non-Technical) | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Non-Technical-_3171473) | 2026-11-24 |
 | Hewlett Packard (HP) | Supply Chain Rotational Graduate Program (Technical) | Texas, United States | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Supply-Chain-Rotational-Graduate-Program--Technical-_3171472) | 2026-11-24 |
+| Intertek | Entry-Level Field Technician - Construction Materials Testing | Hudson, FL, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16384) | 2026-11-24 |
 | Netic | Technical Recruiter - New Grad | California, United States | [Apply](https://jobs.ashbyhq.com/netic/12588fb6-77c3-41fe-b1bf-56f05e00bd8c) | 2026-11-24 |
 | Olsson | Entry-Level Civil Engineer - Site Design | Des Moines, IA | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5493753008) | 2026-11-24 |
 | Relativity Space | New Grad 2027 - Aerodynamics Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8957620002?gh_jid=8957620002) | 2026-11-24 |
 | Relativity Space | New Grad 2027 - GNC Mission Design Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8957609002?gh_jid=8957609002) | 2026-11-24 |
 | Relativity Space | New Grad 2027 - Thermal Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8957614002?gh_jid=8957614002) | 2026-11-24 |
+| WSP | Early Career Structural Engineer | Boston, MA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100006) | 2026-11-24 |
 | AECOM | Entry-Level Highway Design Civil Engineer | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163323376) | 2026-11-23 |
 | ATCO | Control Centre Operator, Entry Level (Temporary) | Edmonton, AB, Canada | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21018) | 2026-11-23 |
 | Cowboy Space | Mechanism Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | 2026-11-23 |
@@ -548,7 +550,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Beyond New Horizons | Early Career Test Operations Engineer (Multiple Openings) | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/24996/early-career-test-operations-engineer-%28multiple-openings%29/job) | 2026-09-14 |
 | C3.ai | Forward Deployed Engineer,  New Grad 2027 | California, United States | [Apply](https://c3.ai/job-description/8804558002?gh_jid=8804558002) | 2026-09-14 |
 | C3.ai | Platform Full-Stack Engineer, New Grad 2027 | California, United States | [Apply](https://c3.ai/job-description/8801434002?gh_jid=8801434002) | 2026-09-14 |
-| Dell Technologies | 2027 Server Hardware Engineering Graduate Program | Taiwan | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11174) | 2026-09-14 |
 | Dell Technologies | 2027 Server Mechanical Engineering Graduate Program | Taiwan | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/D11171) | 2026-09-14 |
 | GHD | GHD Graduate Program 2026/27 - Landscape Architecture (Melbourne) | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28629) | 2026-09-14 |
 | Honeywell | 2027 UR Early Career Program-IA Marketing UR | China | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157437) | 2026-09-14 |
@@ -793,7 +794,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Monolithic Power Systems | Analog Design Engineer (Power Management) (New Grad) | Hong Kong China | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Hong-Kong---China/Analog-Design-Engineer--Power-Management---New-Grad-_R-1857) | 2026-08-14 |
 | Monolithic Power Systems | Analog Design Engineer(Precision Analog)(New Grad) | Hong Kong China | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Hong-Kong---China/Analog-Design-Engineer-Precision-Analog--New-Grad-_R-1858) | 2026-08-14 |
 | WSP | Early Career Substation Electrical Engineer | Hallowell, ME, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93181) | 2026-08-14 |
-| Hunt Oil Company | Driver Entry Level 2 | Melvin, AL, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1039) | 2026-08-13 |
 | SpaceX | Machining Technician (Starlink) - Entry Level | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8700616002?gh_jid=8700616002) | 2026-08-13 |
 | WSP | Early Career Structural (Buildings) Engineer | Denver, CO, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93067) | 2026-08-13 |
 | Peraton | Spring/Summer 2027 University Entry-level STEM Pipeline | Reston, VA, United States | [Apply](https://careers-peraton.icims.com/jobs/169644/spring-summer-2027-university-entry-level-stem-pipeline/job) | 2026-08-12 |
@@ -867,8 +867,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Cleveland Clinic | New Grad RN Resident – Telemetry Unit | Euclid Hospital | [Apply](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Euclid-Hospital/New-Grad-RN-Resident---Telemetry-Unit_338264) | 2026-07-02 |
 | CannonDesign | Electrical - Entry Level | St. Louis, MO | [Apply](http://www.cannondesign.com/careers/?gh_jid=8562759002) | 2026-07-01 |
 | onsemi | Entry Level for ONSC Process Engineering (Bachelor) | China | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505867) | 2026-07-01 |
-| Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210764354) | 2026-06-29 |
-| JP Morgan Chase | Fresh Graduates Talent Pooling — Entry Level Position | Philippines | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764354) | 2026-06-29 |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | [Apply](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 2026-06-29 |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 2026-06-29 |
 | Palantir | Software Engineer, New Grad | New York, NY | [Apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | 2026-06-29 |
