@@ -23,6 +23,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officer | Walton, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177633) | 2026-11-25 |
 | Securitas | Entry Level Security Officer \| $250 Sign-on Bonus after 90 days! | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177658) | 2026-11-25 |
 | Securitas | Immediate Hiring! Entry-Level Security Officers Needed for 2nd & 3rd Shifts | Florence, KY, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177652) | 2026-11-25 |
+| Smiths Detection Group | Customer Reliability Engineer (Entry level) | Pasadena, TX, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163724880) | 2026-11-25 |
+| Smiths Detection Group | Customer Reliability Engineer (Entry level) | Baton Rouge, LA, United States | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000163719279) | 2026-11-25 |
 | Stantec | Entry Level Civil/Geological/Geotechnical Engineer | Fargo, ND, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009006) | 2026-11-25 |
 | WSP | Early Career Structural Engineer | Seattle, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100056) | 2026-11-25 |
 | XPENG Motors | Software Engineer - Computing Platform (New Graduate) | Santa Clara, Canada | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) | 2026-11-25 |
@@ -57,8 +59,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Eurofins | Laboratory Support Technician-(entry-level), Eurofins Environment Testing, Earth City , MO | Earth City, MO, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162807529) | 2026-11-21 |
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, Canada | [Apply](https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002) | 2026-11-21 |
 | Arconic | Entry Level Production | Lancaster, PA, United States | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114390) | 2026-11-20 |
-| Eurofins | Microbiologist (Entry Level) | King Of Prussia, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162773049) | 2026-11-20 |
-| Eurofins | Specialist I- Entry Level | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162600266) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams & Water Infra) - Melbourne | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29554) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Dams) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29544) | 2026-11-20 |
 | GHD | GHD Graduate Program 2026/27 - Civil Engineering (Tailings) - Hobart Tasmania | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29558) | 2026-11-20 |
@@ -92,7 +92,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Securitas | Entry Level Security Officer | Lansing, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177368) | 2026-11-19 |
 | Timmons Group | New Graduate Project Engineer I - Transportation Design | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000162538407) | 2026-11-19 |
 | Woodard Curran | 2027 Entry-level Instrumentation, Controls & Automation Engineer (St. Charles, MO) | St. Charles, MO | [Apply](https://jobs.lever.co/woodardcurran/31e5954e-76c5-4021-af09-af45b26fdc61) | 2026-11-19 |
-| AECOM | Entry-Level Geologist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162375279) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (PhD) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) | 2026-11-18 |
 | Eight Sleep | New Grad - Business Functions (full-time) | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
@@ -186,6 +185,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Dandy | Business Development Representative (NY - Entry Level) | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/ab4d88b1-4a75-424a-bfa5-2b5cc7cb47de) | 2026-11-09 |
 | Dandy | Business Development Representative (UT - Entry Level) | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/a2c25144-1357-47ac-9b27-07c50e42134e) | 2026-11-09 |
 | Eurofins | Entry Level Chemist - Lipids - 2nd shift | Madison, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160734259) | 2026-11-09 |
+| Eurofins | Manufacturing Quality Specialist (Entry Level 2nd Shift) | Louisville, KY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160621479) | 2026-11-09 |
 | HoYoverse | Game Operations Specialist (Entry-level) | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/db21e531-e3b1-4d5a-b1a6-3b391f69ab28) | 2026-11-09 |
 | HoYoverse | Test Development Engineer - Entry Level | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94) | 2026-11-09 |
 | Nooks | Software Engineer, New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | 2026-11-09 |
@@ -272,10 +272,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | 2026-10-29 |
 | Northwood Space | Software Engineer- Early Career (Platform) | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) | 2026-10-29 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Denver, CO / Fayetteville, AR / La Vista, NE / Lincoln, NE / Olathe, KS / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5466862008) | 2026-10-29 |
-| Veolia | Entry Level Wastewater Technician | Green Bay, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158385434) | 2026-10-29 |
-| Veolia | Entry Level Wastewater Technician | Marinette, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387865) | 2026-10-29 |
-| Veolia | Entry Level Wastewater Technician | Oconto, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158386790) | 2026-10-29 |
-| Veolia | Entry Level Wastewater Technician | Lena, WI, United States | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158387519) | 2026-10-29 |
 | WSP | Early Career Electrical Engineer - Renewables | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96744) | 2026-10-29 |
 | Avery Dennison | Procurement Early Career Program (ECP) Associate | Mentor, OH, United States | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000157865740) | 2026-10-28 |
 | CannonDesign | Mechanical - Entry Level | Arlington, VA | [Apply](http://www.cannondesign.com/careers/?gh_jid=8920332002) | 2026-10-28 |
