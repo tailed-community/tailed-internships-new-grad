@@ -8,6 +8,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Accenture Federal Services | Recruiting Research Analyst (Entry Level) | Baltimore, MD / San Antonio, TX | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4732103006?gh_jid=4732103006) | 2026-11-25 |
+| Clay | Early Career Recruiter | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/claylabs/49be9f38-09e2-4b89-8d06-eeac07c30f55) | 2026-11-25 |
+| Cowboy Space | Fluids Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/28b2ac23-a7b8-4962-8667-e28060a59b20) | 2026-11-25 |
+| Eight Sleep | New Grad - Engineering (full-time) | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c) | 2026-11-25 |
 | Olsson | Entry-Level Field Geologist | La Vista, NE / Lincoln, NE / Oklahoma City, OK / Olathe, KS / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5494610008) | 2026-11-25 |
 | Relativity Space | New Grad 2027 - Certification Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8960850002?gh_jid=8960850002) | 2026-11-25 |
 | Relativity Space | New Grad 2027 - Mission Reliability Engineer I | California, United States | [Apply](https://boards.greenhouse.io/relativity/jobs/8960854002?gh_jid=8960854002) | 2026-11-25 |
@@ -28,7 +31,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Structural Engineer | Boston, MA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100006) | 2026-11-24 |
 | AECOM | Entry-Level Highway Design Civil Engineer | Mechanicsburg, PA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000163323376) | 2026-11-23 |
 | ATCO | Control Centre Operator, Entry Level (Temporary) | Edmonton, AB, Canada | [Apply](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21018) | 2026-11-23 |
-| Cowboy Space | Mechanism Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/ff892f97-7afa-4dce-95f2-2899757a34c2) | 2026-11-23 |
 | Deliveroo | Software Engineer, New Grad | United Kingdom Deliveroo | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8202627) | 2026-11-23 |
 | Eurofins | Entry Level Chemist | Lancaster, PA, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000163287979) | 2026-11-23 |
 | General Matter | Design Reliability Engineer (New Grad) | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5492316008) | 2026-11-23 |
@@ -83,8 +85,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | AECOM | Entry-Level Geologist | Milwaukee, WI, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000162375279) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (BS/MS) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948844002) | 2026-11-18 |
 | Atoms | AI Researcher - New Grad (PhD) | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8948819002) | 2026-11-18 |
-| Eight Sleep | New Grad - Business Functions | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
-| Eight Sleep | New Grad - Engineering | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79) | 2026-11-18 |
+| Eight Sleep | New Grad - Business Functions (full-time) | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) | 2026-11-18 |
 | Eurofins | Laboratory Technician (Sample Splitting Officer) - Graduate / Entry Level | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162214469) | 2026-11-18 |
 | Framatome | Early Career NDE Technician | Onsite | [Apply](https://careers-framatome.icims.com/jobs/2873/early-career-nde-technician/job) | 2026-11-18 |
 | General Matter | Automation & Controls Engineer, New Grads | Los Angeles, Canada | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5476939008) | 2026-11-18 |
@@ -231,10 +232,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hyphenate | Software Engineer (New Grad) | New York, United States | [Apply](https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e) | 2026-11-02 |
 | Hyphenate | Startup Generalist (New Grad) | New York, United States | [Apply](https://jobs.ashbyhq.com/hyphenate/b75360eb-63dc-4cb0-99b7-67e25986c584) | 2026-11-02 |
 | Intertek | Caleb Brett - Entry-Level Petroleum Inspector | St Louis, MO, United States | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16215) | 2026-11-02 |
-| Old Mission | Floor Trader - 2027 Graduate Program (August Start) | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161) | 2026-11-02 |
+| Old Mission | Floor Trader - 2027 Graduate Program (February/August Start) | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161) | 2026-11-02 |
 | Old Mission | Fundamental Research Analyst - 2027 Graduate Program - (August Start) | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d) | 2026-11-02 |
 | Old Mission | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) | Illinois, United States | [Apply](https://jobs.ashbyhq.com/old-mission-capital/e307627e-98e6-47ac-924e-b0dbef1984c8) | 2026-11-02 |
-| Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | Il Or New York, NY | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3) | 2026-11-02 |
 | Old Mission | Quantitative Trader – 2027 Graduate Program (August Start) | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/old-mission-capital/cec17eab-6e17-4248-aa35-3824392c056d) | 2026-11-02 |
 | Old Mission | Quantitative Trader – 2027 Graduate Program (February Start) | Il Or New York, NY | [Apply](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505) | 2026-11-02 |
 | Path Robotics | Early Career & University Relations Recruiter | Ohio | [Apply](https://boards.greenhouse.io/pathrobotics/jobs/8858430002?gh_jid=8858430002) | 2026-11-02 |
