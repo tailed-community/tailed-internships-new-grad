@@ -8,6 +8,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
 | Accenture Federal Services | Recruiting Research Analyst (Entry Level) | Baltimore, MD / San Antonio, TX | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4732103006?gh_jid=4732103006) | 2026-11-25 |
+| Beyond New Horizons | Early Career Test Operations Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/26056/early-career-test-operations-engineer/job) | 2026-11-25 |
+| Beyond New Horizons | Entry-Level ID&C Software Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/26055/entry-level-id%26c-software-engineer/job) | 2026-11-25 |
 | Clay | Early Career Recruiter | New York, NY, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/claylabs/49be9f38-09e2-4b89-8d06-eeac07c30f55) | 2026-11-25 |
 | Cowboy Space | Fluids Engineer - Early Career | United States | [Apply](https://jobs.ashbyhq.com/cowboyspace/28b2ac23-a7b8-4962-8667-e28060a59b20) | 2026-11-25 |
 | Eight Sleep | New Grad - Engineering (full-time) | New York, United States / San Francisco / Milan / Boston Area | [Apply](https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c) | 2026-11-25 |
@@ -184,7 +186,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Hilton Worldwide | Cook III/Prep/Entry Level Cook | Rio De Janeiro, RJ | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/230224) | 2026-11-07 |
 | MPOWERHealth | Entry Level Associate Technician- Tampa, FL | Tampa, FL, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3077/entry-level-associate-technician--tampa%2c-fl/job) | 2026-11-07 |
 | SpaceX | New Graduate Engineer, Mechanical | Mcgregor, TX | [Apply](https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002) | 2026-11-07 |
-| United Wholesale Mortgage | Entry Level Support Specialists | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/16343/entry-level-support-specialists/job) | 2026-11-07 |
 | BGE | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5368711008) | 2026-11-06 |
 | BGE - bgeinc | SAN ANTONIO - Public Works, New Grad | San Antonio | [Apply](https://job-boards.greenhouse.io/bgeinc/jobs/5368712008) | 2026-11-06 |
 | Hunt Oil Company | Entry Level Sales Representative for Telecommunications Company | Dallas, TX, United States | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1088) | 2026-11-06 |
@@ -213,7 +214,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | General Dynamics | Sheetmetal Worker Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/22458/sheetmetal-worker-entry-level-%26-semi-skilled/job) | 2026-11-04 |
 | General Dynamics | Shipfitter Entry Level & Semi-Skilled | Groton, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/22457/shipfitter-entry-level-%26-semi-skilled/job) | 2026-11-04 |
 | General Dynamics | Steel Cutting & Forming Mechanic Entry Level & Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21520/steel-cutting-%26-forming-mechanic--entry-level-%26-skilled/job) | 2026-11-04 |
-| MPOWERHealth | Entry Level IOM Associate Technician -Marina Del Rey, CA | Marina Del Rey, United States | [Apply](https://careers-mpowerpractice.icims.com/jobs/3074/entry-level-iom-associate-technician--marina-del-rey%2c-ca/job) | 2026-11-04 |
 | SpaceX | Starlink Aviation Production Technician (Entry Level, Temporary) | Woodinville, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8928271002?gh_jid=8928271002) | 2026-11-04 |
 | WSP | Early Career Civil Engineering (Overhead Transmission Lines) | Charlotte, NC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98826) | 2026-11-04 |
 | BGE | North Austin - Public Works, New Grad | Austin | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5471003008) | 2026-11-03 |
