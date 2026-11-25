@@ -1711,7 +1711,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
 | Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
-| Bask Health | Product Design Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/3505AD4868/) | 2026-11-16 |
 | Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
 | Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
@@ -2571,7 +2570,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Badger Meter | Product Management Intern | US Wi Milwaukee Hq | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | 2026-11-09 |
 | Bernhard | Facilities Manager Intern-Hospital Setting | Hackensack, NJ, United States | [Apply](https://careers-enfra.icims.com/jobs/11760/facilities-manager-intern-hospital-setting/job) | 2026-11-09 |
 | Bernhard - careers-bernhard.icims.com | Facilities Manager Intern-Hospital Setting | Hackensack, NJ, United States | [Apply](https://careers-enfra.icims.com/jobs/11760/facilities-manager-intern-hospital-setting/job) | 2026-11-09 |
-| Botpress Technologies | Software Developer Intern - WINTER 2027 | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/) | 2026-11-09 |
 | Brex | Software Engineer, Internship - 2027 | Brazil | [Apply](https://www.brex.com/careers/8935242002?gh_jid=8935242002) | 2026-11-09 |
 | Category Labs | Research Intern, Summer 2027 | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075) | 2026-11-09 |
 | Citizens Energy Group | Corporate & Public Affairs Intern | Indianapolis, IN, United States | [Apply](https://careers-citizensenergygroup.icims.com/jobs/3473/corporate-%26-public-affairs-intern/job) | 2026-11-09 |
@@ -4703,7 +4701,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Xcimer Energy | Summer 2027 Internship - Electrical Engineering | Denver, CO | [Apply](https://jobs.lever.co/xcimer/87bceb04-faeb-4365-9fed-d8f5cd3fb8ac) | 2026-10-20 |
 | American Tower | Alternance / Stage HR Generalist – HR Projects & Operations | Bagneux, France | [Apply](https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3030) | 2026-10-19 |
 | Arcadis | Intern Wegontwerp | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45101) | 2026-10-19 |
-| Ascendis Pharma | Student Assistant for Treasury | Denmark | [Apply](https://apply.workable.com/ascendis-pharma/j/DC4F0A975F/) | 2026-10-19 |
 | Berkshire Hathaway Energy | Intern - Agile Delivery | Des Moines, IA, United States | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005924) | 2026-10-19 |
 | Bracebridge Capital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston | [Apply](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005) | 2026-10-19 |
 | Citco | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | 2026-10-19 |

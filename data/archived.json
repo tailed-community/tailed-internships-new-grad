@@ -1350690,5 +1350690,47 @@
     "date_added": "2026-10-29",
     "active": false,
     "date_archived": "2026-11-25"
+  },
+  {
+    "id": "workable-ascendis-pharma-6208351",
+    "company": "Ascendis Pharma",
+    "title": "Student Assistant for Treasury",
+    "location": "Hellerup, Region of Southern Denmark, Denmark",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/ascendis-pharma/j/DC4F0A975F/",
+    "date_posted": "2026-10-19",
+    "date_added": "2026-10-19",
+    "active": false,
+    "date_archived": "2026-11-25"
+  },
+  {
+    "id": "workable-bask-health-6268280",
+    "company": "Bask Health",
+    "title": "Product Design Intern",
+    "location": "Remote, None, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/bask-health-1/j/3505AD4868/",
+    "date_posted": "2026-11-12",
+    "date_added": "2026-11-16",
+    "active": false,
+    "date_archived": "2026-11-25"
+  },
+  {
+    "id": "workable-botpress-technologies-6243544",
+    "company": "Botpress Technologies",
+    "title": "Software Developer Intern - WINTER 2027",
+    "location": "Montreal, Quebec, Canada",
+    "type": "internship",
+    "season": "Winter 2027",
+    "source": "workable",
+    "url": "https://apply.workable.com/botpress/j/9B3CB646E8/",
+    "date_posted": "2026-11-03",
+    "date_added": "2026-11-09",
+    "active": false,
+    "date_archived": "2026-11-25"
   }
 ]
