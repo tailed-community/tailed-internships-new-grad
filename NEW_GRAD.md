@@ -406,7 +406,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Avery Dennison | European Graduate Program - Operations / Manufacturing | Netherlands | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000153195775) | 2026-10-02 |
 | Bot Auto | Planning & Control Engineer, Early Career | Houston, TX | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5441694008) | 2026-10-02 |
 | Coram AI | Sales Development Associate (Entry-Level Tech Sales) | Arizona, United States | [Apply](https://jobs.ashbyhq.com/coram-ai/81730a43-4842-4ce2-9d60-4b398b565558) | 2026-10-02 |
-| Woodard Curran | Entry-level Stormwater Engineer (Rye Brook, NY) | Rye Brook, NY | [Apply](https://jobs.lever.co/woodardcurran/a751eebd-ca00-495a-aaf2-6d5c3fc33cb7) | 2026-10-02 |
 | AECOM | Entry-Level Environmental Scientist - Hiring Event with AECOM - Atlanta, GA | Atlanta, GA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000153003459) | 2026-10-01 |
 | CannonDesign | Plumbing/Fire Protection - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8856530002) | 2026-09-30 |
 | BGE | FRISCO - Cathodic Protection Technician, New Grad | Frisco | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5436858008) | 2026-09-29 |
