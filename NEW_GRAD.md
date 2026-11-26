@@ -193,8 +193,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career Civil Engineer | Meridian, ID, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99097) | 2026-11-10 |
 | Dandy | Business Development Representative (NY - Entry Level) | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/ab4d88b1-4a75-424a-bfa5-2b5cc7cb47de) | 2026-11-09 |
 | Dandy | Business Development Representative (UT - Entry Level) | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/dandy/a2c25144-1357-47ac-9b27-07c50e42134e) | 2026-11-09 |
-| Eurofins | Entry Level Chemist - Lipids - 2nd shift | Madison, WI, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160734259) | 2026-11-09 |
-| Eurofins | Manufacturing Quality Specialist (Entry Level 2nd Shift) | Louisville, KY, United States | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160621479) | 2026-11-09 |
 | HoYoverse | Game Operations Specialist (Entry-level) | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/db21e531-e3b1-4d5a-b1a6-3b391f69ab28) | 2026-11-09 |
 | HoYoverse | Test Development Engineer - Entry Level | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94) | 2026-11-09 |
 | Nooks | Software Engineer, New Grad | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53) | 2026-11-09 |
@@ -280,7 +278,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2027 New Grad GNC Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007) | 2026-10-29 |
 | Desjardins | Personal Finance Advisor, University Graduate | Montréal | [Apply](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre--Finances-personnelles--Relve-universitaire_R2612055-2) | 2026-10-29 |
 | General Dynamics | Sheetmetal - Entry Level and Skilled | North Kingstown, RI, United States | [Apply](https://careers-gdeb.icims.com/jobs/21414/sheetmetal---entry-level-and-skilled/job) | 2026-10-29 |
-| NielsenIQ | NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d) | Frankfurt, HE | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | 2026-10-29 |
 | Northwood Space | Software Engineer- Early Career (Platform) | California, United States | [Apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) | 2026-10-29 |
 | Olsson | Entry-Level  Geotechnical Engineer (EIT) | Denver, CO / Fayetteville, AR / La Vista, NE / Lincoln, NE / Olathe, KS / Springfield, MO / Tempe, AZ | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5466862008) | 2026-10-29 |
 | WSP | Early Career Electrical Engineer - Renewables | Billings, MT, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96744) | 2026-10-29 |
