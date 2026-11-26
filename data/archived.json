@@ -1354932,5 +1354932,61 @@
     "date_added": "2026-10-27",
     "active": false,
     "date_archived": "2026-11-26"
+  },
+  {
+    "id": "workable-altalink-6086618",
+    "company": "AltaLink",
+    "title": "Summer Student - Substation Technologist",
+    "location": "Calgary, Alberta, Canada",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/altalink/j/506AB37980/",
+    "date_posted": "2026-10-22",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-26"
+  },
+  {
+    "id": "workable-altalink-6086627",
+    "company": "AltaLink",
+    "title": "Summer Student - Protection and Control Technologist",
+    "location": "Calgary, Alberta, Canada",
+    "type": "internship",
+    "season": "Summer",
+    "source": "workable",
+    "url": "https://apply.workable.com/altalink/j/AFFD5F8636/",
+    "date_posted": "2026-10-22",
+    "date_added": "2026-11-02",
+    "active": false,
+    "date_archived": "2026-11-26"
+  },
+  {
+    "id": "workable-bask-health-6262985",
+    "company": "Bask Health",
+    "title": "Product Discovery Intern",
+    "location": "Remote, None, United States",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/bask-health-1/j/34C4378E0B/",
+    "date_posted": "2026-11-11",
+    "date_added": "2026-11-16",
+    "active": false,
+    "date_archived": "2026-11-26"
+  },
+  {
+    "id": "workable-belmond-6134852",
+    "company": "Belmond",
+    "title": "Marketing internship",
+    "location": "Milan, Metropolitan City of Milan, Italy",
+    "type": "internship",
+    "season": "Not specified",
+    "source": "workable",
+    "url": "https://apply.workable.com/belmond-uk-ltd/j/DD6FFE6827/",
+    "date_posted": "2026-09-22",
+    "date_added": "2026-09-22",
+    "active": false,
+    "date_archived": "2026-11-26"
   }
 ]

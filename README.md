@@ -1766,7 +1766,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Bask Health | Frontend Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C2964C7CD/) | 2026-11-16 |
 | Bask Health | Patient Experience Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/9C8D5A5288/) | 2026-11-16 |
 | Bask Health | Patient Experience Product Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/90535FE8AA/) | 2026-11-16 |
-| Bask Health | Product Discovery Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/34C4378E0B/) | 2026-11-16 |
 | Bask Health | Product Engineering Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/1C108B16E2/) | 2026-11-16 |
 | Bask Health | Product Management Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/) | 2026-11-16 |
 | Bask Health | Product Marketing Intern | United States Remote | [Apply](https://apply.workable.com/bask-health-1/j/483ECD15F6/) | 2026-11-16 |
@@ -3314,8 +3313,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Columbia University | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680) | 2026-11-02 |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Georgia Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) | 2026-11-02 |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 \| Massachusetts Institute of Technology | Chicago, IL | [Apply](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) | 2026-11-02 |
-| AltaLink | Summer Student - Protection and Control Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/AFFD5F8636/) | 2026-11-02 |
-| AltaLink | Summer Student - Substation Technologist | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/506AB37980/) | 2026-11-02 |
 | Astronics | Supply Chain Internship - Summer 2027 | Washington, United States | [Apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4458283009) | 2026-11-02 |
 | AtriCure | Accounting Co-op | Mason, OH | [Apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4455466009) | 2026-11-02 |
 | AtriCure | Digital Marketing Intern- Spring 2027 | Minnetonka, MN | [Apply](https://job-boards.greenhouse.io/co-op_intern/jobs/4425828009) | 2026-11-02 |
@@ -6332,7 +6329,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Vital Lyfe | Software Engineering Internship - Spring 2027 | California, United States | [Apply](https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b) | 2026-09-23 |
 | Astranis | Assembly, Integration, and Test Intern (Summer 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704761006) | 2026-09-22 |
 | Astranis | Assembly, Integration, and Test Intern (Winter 2027) | San Francisco | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704759006) | 2026-09-22 |
-| Belmond | Marketing internship | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/DD6FFE6827/) | 2026-09-22 |
 | Belmond | Social Media Internship | Italy | [Apply](https://apply.workable.com/belmond-uk-ltd/j/1B18A237F5/) | 2026-09-22 |
 | BerryDunn | Summer 2027 Consulting Internship - Government Procurement and Contracting | Portland, ME, United States | [Apply](https://careers-berrydunn.icims.com/jobs/4066/summer-2027-consulting-internship---government-procurement-and-contracting/job) | 2026-09-22 |
 | Capital Power | Investor Relations Summer Student | Calgary, AB | [Apply](https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Investor-Relations-Summer-Student_JR807178) | 2026-09-22 |
