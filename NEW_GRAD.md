@@ -356,7 +356,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | WSP | Early Career P&C Field Services Technician | Fort Worth, TX, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97442) | 2026-10-13 |
 | Arondite | Deployed Software Engineer (New Grad) | England, United Kingdom | [Apply](https://apply.workable.com/arondite/j/5C5C551ADA/) | 2026-10-12 |
 | Base Power | Member Experience (New Grad) | Texas, United States | [Apply](https://jobs.ashbyhq.com/base-power/92fa7a4e-cf9f-47f6-834b-037d047d376a) | 2026-10-12 |
-| Cenovus Energy | Engineering New Grad, U.S. Downstream | 4 Locations | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/US-OH-Toledo/Engineering-New-Grad--US-Downstream_R-411164-1) | 2026-10-12 |
 | Figma | Early Career, Inside Sales Representative (2027) | CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004) | 2026-10-12 |
 | Howmet Aerospace | Manufacturing Engineer - Entry Level, Continuous Improvement | Whitehall, MI, United States | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119909) | 2026-10-12 |
 | Legrand | Entry Level Manufacturing Associate, 2nd shift | West Hartford, CT, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166) | 2026-10-12 |
@@ -428,6 +427,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Swarm Aero | Software Engineer, Real-Time Systems (Early Career) | San Francisco | [Apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | 2026-09-28 |
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) | 2026-09-26 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist (Pit Crew) - (Sherman, TX) | Sherman, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017829) | 2026-09-26 |
+| ABB | R&D Early Career Program (US) 2027 Cohort | 5 Locations | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2027-Cohort_JR00047579) | 2026-09-25 |
 | AMT Engineering | Entry Level Water Resources Engineer - May 2027 | Maryland | [Apply](https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52) | 2026-09-25 |
 | CannonDesign | Mechanical - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8844837002) | 2026-09-25 |
 | Stantec | Entry Level Geologist/Environmental Scientist/Environmental Engineer | Alpharetta, GA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007927) | 2026-09-25 |
