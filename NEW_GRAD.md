@@ -7,6 +7,9 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| Parallel Web Systems | Early Career Software Engineer, Developer Experience | California, United States / New York / Palo Alto | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c) | 2026-11-26 |
+| Scout AI | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) | 2026-11-26 |
+| Scout AI | Software Engineer, Core Systems (New Grad, 2027) | California, United States | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) | 2026-11-26 |
 | Accenture Federal Services | Recruiting Research Analyst (Entry Level) | Baltimore, MD / San Antonio, TX | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4732103006?gh_jid=4732103006) | 2026-11-25 |
 | Beyond New Horizons | Early Career Test Operations Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/26056/early-career-test-operations-engineer/job) | 2026-11-25 |
 | Beyond New Horizons | Entry-Level ID&C Software Engineer | Arnold Afb, TN, United States | [Apply](https://careers-bnh.icims.com/jobs/26055/entry-level-id%26c-software-engineer/job) | 2026-11-25 |
