@@ -7,6 +7,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| UBC | Graduate Program Assistant | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Graduate-Program-Assistant_JR26790) | 2026-11-27 |
 | Clean Harbors | Environmental Waste Technician – Healthcare (Entry Level) (InSite Technician) | Saint Paul, MN, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/169261) | 2026-11-26 |
 | Cummins | 2027 Early Career - Product Systems Design Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2443293) | 2026-11-26 |
 | Parallel Web Systems | Early Career Software Engineer, Developer Experience | California, United States / New York / Palo Alto | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c) | 2026-11-26 |
@@ -446,7 +447,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Swarm Aero | Software Engineer, Real-Time Systems (Early Career) | San Francisco | [Apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) | 2026-09-28 |
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) | 2026-09-26 |
 | Texas Instruments | Entry Level Manufacturing Maintenance Specialist (Pit Crew) - (Sherman, TX) | Sherman, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017829) | 2026-09-26 |
-| ABB | R&D Early Career Program (US) 2027 Cohort | 5 Locations | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2027-Cohort_JR00047579) | 2026-09-25 |
 | AMT Engineering | Entry Level Water Resources Engineer - May 2027 | Maryland | [Apply](https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52) | 2026-09-25 |
 | CannonDesign | Mechanical - Entry Level | Chicago, IL | [Apply](http://www.cannondesign.com/careers/?gh_jid=8844837002) | 2026-09-25 |
 | Stantec | Entry Level Geologist/Environmental Scientist/Environmental Engineer | Alpharetta, GA, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007927) | 2026-09-25 |
@@ -870,6 +870,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2026 Early Career Electrical Engineer | California, United States / Colorado, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) | 2026-06-02 |
 | Anduril | 2026 Early Career Mechanical Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) | 2026-06-02 |
 | Aquatic Capital Management | Quantitative Researcher, Early Career | Chicago / New York | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-06-02 |
+| Ivy Tech Community College | Early Childhood Education Peer Mentor (Recent Graduate) | Marion, IN | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Marion-IN/Early-Childhood-Education-Peer-Mentor--Recent-Graduate-_JR0000106588) | 2026-06-02 |
 | Kairos Power | Early Career Professionals - Graduating 2027 | Or Oak Ridge, TN, Canada | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/5644550004) | 2026-06-02 |
 | Link | Entry Level Systems Administrator (VISTA), BS or HS+5 | Annapolis Junction, MD | [Apply](https://jobs.lever.co/linkllc/abf629c1-f670-41ec-bd4a-5c0d5a76a110) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Lincoln, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
