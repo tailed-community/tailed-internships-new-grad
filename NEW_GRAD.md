@@ -379,7 +379,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Figma | Early Career, Inside Sales Representative (2027) | CA • New York, NY | [Apply](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004) | 2026-10-12 |
 | Howmet Aerospace | Manufacturing Engineer - Entry Level, Continuous Improvement | Whitehall, MI, United States | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119909) | 2026-10-12 |
 | Legrand | Entry Level Manufacturing Associate, 2nd shift | West Hartford, CT, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166) | 2026-10-12 |
-| NielsenIQ | NIQ Early Career Program: Alternance – Consultant Analytique programmes collaboratifs (disponibilité linéaire OSA, datasharing) F/H | Bezons, France | [Apply](https://jobs.smartrecruiters.com/NielsenIQ/744000154967229) | 2026-10-12 |
 | Strada | Software Engineer (New Grad) | California, United States | [Apply](https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6) | 2026-10-12 |
 | Texas Instruments | 2027 Entry Level Equipment Technician (Sherman) | Sherman, TX, United States | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018642) | 2026-10-12 |
 | Wade Trim | Entry Level Civil/Environmental Engineer - #3071 | Asheville, NC | [Apply](https://jobs.lever.co/wadetrim/cffa7a9e-9d19-49b9-8835-7a7fcea54023) | 2026-10-12 |
