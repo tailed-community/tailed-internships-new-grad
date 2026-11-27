@@ -2517,7 +2517,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Legrand | Product Management Intern | Syracuse, NY, United States | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | 2026-11-10 |
 | Loft Orbital | AI/ML Engineering Intern: System 1 Models for Reactive Space Operations | Occitanie | [Apply](https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5) | 2026-11-10 |
 | Loft Orbital | Antenna Design Intern: X-band Antenna Array Design for DOA applications | Occitanie | [Apply](https://jobs.lever.co/loftorbital/1c4e1078-48ef-4942-a9c6-acf242fed4cb) | 2026-11-10 |
-| Loft Orbital | Backend Engineering Intern: Ground Platform Control | Occitanie | [Apply](https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84) | 2026-11-10 |
 | Loft Orbital | Image Processing Intern: AI-Assisted Tools for CalVal | Occitanie | [Apply](https://jobs.lever.co/loftorbital/fc7d15c8-5055-48d7-8569-fd7668ed8ee2) | 2026-11-10 |
 | Lumbermen's | Software Developer Internship | Grand Rapids, MI | [Apply](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) | 2026-11-10 |
 | Midmark | Marketing Co-op | Versailles, OH, United States | [Apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4830) | 2026-11-10 |
@@ -3451,10 +3450,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Latent Defense | Software Engineer Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/Latent%20Defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487) | 2026-11-02 |
 | Light | AI Engineering Intern | England, United Kingdom | [Apply](https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9) | 2026-11-02 |
 | Lila Sciences - lilasciences | Co-op, Agentic and Generative Protein Design | Ma USA / CA USA | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) | 2026-11-02 |
-| Loft Orbital | Summer 2027 Internship – Mechanical Engineering | Golden, CO | [Apply](https://jobs.lever.co/loftorbital/34edd0b7-2a5b-4efa-a379-860097784534) | 2026-11-02 |
-| Loft Orbital | Summer 2027 Internship – Satellite Programs | Golden, CO | [Apply](https://jobs.lever.co/loftorbital/d49feb08-351a-4f03-84ba-948c8df633ab) | 2026-11-02 |
-| Loft Orbital | Summer 2027 Internship – Test Engineering | Golden, CO | [Apply](https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9) | 2026-11-02 |
-| Loft Orbital | Summer 2027 Internship – Thermal & Manufacturing Engineering | Golden, CO | [Apply](https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71) | 2026-11-02 |
 | Mayo Clinic | NWWI Summer Student Nurse Internship - SNI | Eau Claire, WI, United States | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394619) | 2026-11-02 |
 | Mayo Clinic | SEMN Summer Student Nurse Internship - SNI | Cannon Falls, MN, United States | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394337) | 2026-11-02 |
 | Mayo Clinic | SEMN Summer Student Nurse Internship - SNI | Austin, MN, United States | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394338) | 2026-11-02 |
