@@ -8415,10 +8415,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Fab2 | Packaging Engineering Intern - Winter | Texas, United States | [Apply](https://jobs.ashbyhq.com/Fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16) | 2026-08-28 |
 | Fab2 | Process Engineering Intern - Winter | Texas, United States | [Apply](https://jobs.ashbyhq.com/Fab2/476007f4-4f8c-4160-86c2-8be11c5efee4) | 2026-08-28 |
 | Fab2 | Rust Software Engineering Intern, Chip Design Tools - Winter | Texas, United States / San Francisco Office | [Apply](https://jobs.ashbyhq.com/Fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904) | 2026-08-28 |
-| HCVT | Tax Internship - Summer 2028 | Salt Lake City, UT | [Apply](https://jobs.lever.co/hcvt/7c51ac85-72ad-4f7e-9409-de0c990b5f4c) | 2026-08-28 |
-| HCVT | Tax Internship - Summer 2028 | Fort Worth, TX | [Apply](https://jobs.lever.co/hcvt/e9e7bfc0-70a8-46dd-b5c1-b3507219f60c) | 2026-08-28 |
-| HCVT | Tax Internship - Winter 2028 | Salt Lake City, UT | [Apply](https://jobs.lever.co/hcvt/b4607802-8c32-4f44-aaf8-beef3b8bb655) | 2026-08-28 |
-| HCVT | Tax Internship - Winter 2028 | Fort Worth, TX | [Apply](https://jobs.lever.co/hcvt/b88ecec3-c4c4-4f1f-b5e1-fe24f72be973) | 2026-08-28 |
 | Quanta Services | BIM Intern | Aurora, CO, United States | [Apply](https://careers-quanta.icims.com/jobs/18080/bim-intern/job) | 2026-08-28 |
 | Quanta Services | Construction Management Intern | Cheyenne, WY, United States | [Apply](https://careers-quanta.icims.com/jobs/18074/construction-management-intern/job) | 2026-08-28 |
 | Quanta Services | Construction Management Intern | Reno, NV, United States | [Apply](https://careers-quanta.icims.com/jobs/17997/construction-management-intern/job) | 2026-08-28 |
@@ -9337,9 +9333,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Figure - figureai | Electrical Engineering Intern [Winter 2027] | San Jose, Canada | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) | 2026-06-17 |
 | General Assembly | Marketing Intern | Singapore | [Apply](https://job-boards.greenhouse.io/generalassembly/jobs/7434440) | 2026-06-17 |
 | HackerRank | Campus Crew Ambassador (Student Program) | Remote | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/7405039) | 2026-06-17 |
-| HCVT | M&A Advisory Internship - Summer 2027 | Pasadena, Canada | [Apply](https://jobs.lever.co/hcvt/98d68656-0dfb-4fa6-9a95-8d668022c588) | 2026-06-17 |
-| HCVT | Tax Internship - Summer 2027 | Pasadena, Canada | [Apply](https://jobs.lever.co/hcvt/2b3dec49-1e99-4b25-9464-96bc20cf51b1) | 2026-06-17 |
-| HCVT | Tax Internship - Summer 2027 | West Los Angeles, Canada | [Apply](https://jobs.lever.co/hcvt/3f638f46-0380-4a53-9328-882830646ba8) | 2026-06-17 |
 | Hexagon AB | Mechanical Engineering Intern | Torrance, United States | [Apply](https://careers-hexagonpositioning.icims.com/jobs/2998/mechanical-engineering-intern/job) | 2026-06-17 |
 | Instead | Software Engineering Intern | San Francisco | [Apply](https://job-boards.greenhouse.io/instead/jobs/7761472003) | 2026-06-17 |
 | Miami University | Assistant Director, Student Transitions and Family Engagement | 2 Locations | [Apply](https://miamioh.wd5.myworkdayjobs.com/miamioh-staff/job/Warfield-Hall/Job-Posting-Title-Assistant-Director--Student-Transitions-and-Family-Engagement_JR104138-1) | 2026-06-17 |
