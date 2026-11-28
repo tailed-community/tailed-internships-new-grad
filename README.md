@@ -23,6 +23,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 |---|---|---|---|---|
 | Capital One | Senior Associate - Internship Program Manager - Students and Grads | Mclean, VA | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate---Internship-Program-Manager---Students-and-Grads_R1006488-1) | 2026-11-28 |
 | ChampionX | Intern | Bra Rio De Janeiro Macaé | [Apply](https://championx.wd1.myworkdayjobs.com/championx_external/job/BRA---Rio-de-Janeiro---Maca/Intern_R00137472) | 2026-11-28 |
+| Clera | Growth & Marketing Intern / New-Grad | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/ba036b8b-143b-4d14-9340-574a7d21fe75) | 2026-11-28 |
+| Clera | Operations Intern | Utah, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/Clera/59c41b02-0ad1-4077-aa33-71bb33b38b84) | 2026-11-28 |
 | Crowdstrike | Global Public Sector Launch Intern - Summer 2027 | 3 Locations | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Global-Public-Sector-Launch-Intern---Summer-2027_R30598) | 2026-11-28 |
 | Crowdstrike | Product Engineering Intern - Threat Detection | 2 Locations | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621) | 2026-11-28 |
 | Crowdstrike | Public Policy Launch Intern | 2 Locations | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Public-Policy-Launch-Intern_R30581) | 2026-11-28 |
@@ -1005,9 +1007,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cell Signaling Technology | Lab Internship | Danvers, MA | [Apply](https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4730880006) | 2026-11-22 |
 | Clera | Founder's Associate Intern (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/Clera/c44eb9bb-9aed-49a7-9027-0cd6f09bb538) | 2026-11-22 |
 | Clera | Founders Associate Intern | Germany | [Apply](https://jobs.ashbyhq.com/Clera/36e04471-4ee1-48e5-9e94-90e5f74f45a0) | 2026-11-22 |
-| Clera | Strategic Operations Intern | New York, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/Clera/2698b76b-078f-4531-a6e8-2d15f0e2e963) | 2026-11-22 |
-| Clera | Strategy & Operations Working Student | California, United States | [Apply](https://jobs.ashbyhq.com/Clera/7df8c7f6-2f6f-478d-99b5-aea148ea96ee) | 2026-11-22 |
-| Clera | Working Student, Go-to-Market (GTM) | Germany | [Apply](https://jobs.ashbyhq.com/Clera/00e3430f-9ad6-4d8c-88ff-a01930bf72f9) | 2026-11-22 |
 | Universal Health Services | NURSING STUDENT/APPRENTICE AUSTIN COMMUNITY COLLEGE | Texas | [Apply](https://jobs.uhsinc.com/jobs/388049?lang=en-us&icims=1) | 2026-11-22 |
 | Universal Health Services | NURSING STUDENT/APPRENTICE Galen College | Texas | [Apply](https://jobs.uhsinc.com/jobs/388024?lang=en-us&icims=1) | 2026-11-22 |
 | Aerotek | Sales Internship | Omaha, NE, United States | [Apply](https://careers-aerotek.icims.com/jobs/14752/sales-internship/job) | 2026-11-21 |
@@ -1497,8 +1496,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Cummins | Human Resources Co-op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437770) | 2026-11-18 |
 | Cummins | Sales Co-Op Positions | Columbus, IN, United States | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437771) | 2026-11-18 |
 | DH Pace | National Accounts Summer Intern (Paid & Full-Time) | Olathe Ks | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5480205008) | 2026-11-18 |
-| DriveWealth | AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027 | Illinois, United States / New York City / United States Remote | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec) | 2026-11-18 |
 | DriveWealth | AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027 | Office Chicago / Office Nyc | [Apply](https://boards.greenhouse.io/drivewealth/jobs/8200548003?gh_jid=8200548003) | 2026-11-18 |
+| DriveWealth | AI Consulting Associate Program (AI CAP) People Analytics Intern, Summer 2027 | Illinois, United States / New York City / United States Remote | [Apply](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec) | 2026-11-18 |
 | Ekimetrics | Stage 2027 - IA/ML Engineer 50% R&D 50% Produit - Statistiques Bayésiennes | Paris | [Apply](https://jobs.lever.co/ekimetrics/a728950b-e131-442f-98d2-7a527dd1b82b) | 2026-11-18 |
 | Empire State Realty Trust | Leasing Intern | New York, United States | [Apply](https://jobs.lever.co/esrtreit/36d00897-a787-4073-9d04-324d3587364d) | 2026-11-18 |
 | Envista | Research and Development Intern | Lubbock, United States | [Apply](https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--Texas--Lubbock/Research-and-Development-Intern_R5027774) | 2026-11-18 |
