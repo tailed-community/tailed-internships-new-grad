@@ -646,7 +646,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Timmons Group | New Graduate Project Engineer I - Traffic Analysis & Planning | Richmond, VA, United States | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000146048559) | 2026-08-27 |
 | WSP | Early Career Mechanical Engineer (Transmission Line) | Fort Mill, SC, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94222) | 2026-08-27 |
 | Creatify | AI Engineer (Early Career) | California, United States | [Apply](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1) | 2026-08-26 |
-| General Dynamics | Systems Engineer-Entry Level | New London, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/20434/systems-engineer-entry-level/job) | 2026-08-26 |
 | Konrad Group | Mobile Developer (Entry Level) | Toronto | [Apply](https://www.konrad.com/careers/job/7976082003?gh_jid=7976082003) | 2026-08-26 |
 | Stantec | Electrical Designer-New Graduate | Chicago, IL, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007395) | 2026-08-26 |
 | Stantec | Mechanical Designer-New Graduate | Chicago, IL, United States | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007396) | 2026-08-26 |
