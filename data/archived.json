@@ -1352958,5 +1352958,61 @@
     "date_added": "2026-11-24",
     "active": false,
     "date_archived": "2026-11-28"
+  },
+  {
+    "id": "rippling-democratic-national-committee-a38d54a1-ac06-4f44-a4a6-9f628e5e0175",
+    "company": "Democratic National Committee",
+    "title": "Spring 2027 DNC Accounting Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/a38d54a1-ac06-4f44-a4a6-9f628e5e0175",
+    "date_posted": null,
+    "date_added": "2026-10-09",
+    "active": false,
+    "date_archived": "2026-11-28"
+  },
+  {
+    "id": "rippling-democratic-national-committee-3e5f80ca-39fa-40b7-9fad-273ae4bc45fd",
+    "company": "Democratic National Committee",
+    "title": "Spring 2027 DNC General Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/3e5f80ca-39fa-40b7-9fad-273ae4bc45fd",
+    "date_posted": null,
+    "date_added": "2026-10-09",
+    "active": false,
+    "date_archived": "2026-11-28"
+  },
+  {
+    "id": "rippling-democratic-national-committee-763743a1-c28a-4f13-b17d-999b1e3b952d",
+    "company": "Democratic National Committee",
+    "title": "Spring 2027 DNC Social Media Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/763743a1-c28a-4f13-b17d-999b1e3b952d",
+    "date_posted": null,
+    "date_added": "2026-10-09",
+    "active": false,
+    "date_archived": "2026-11-28"
+  },
+  {
+    "id": "rippling-democratic-national-committee-9eb716a4-b84c-49c4-aefd-a922ce79a237",
+    "company": "Democratic National Committee",
+    "title": "Spring 2027 DNC Technology Internship",
+    "location": "Washington, DC",
+    "type": "internship",
+    "season": "Spring 2027",
+    "source": "rippling",
+    "url": "https://ats.rippling.com/democratic-national-committee/jobs/9eb716a4-b84c-49c4-aefd-a922ce79a237",
+    "date_posted": null,
+    "date_added": "2026-10-09",
+    "active": false,
+    "date_archived": "2026-11-28"
   }
 ]

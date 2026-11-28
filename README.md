@@ -5336,10 +5336,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Arcadis | Internship Rail | Netherlands | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44931) | 2026-10-09 |
 | Arcesium | Infrastructure Engineer Intern | New York | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) | 2026-10-09 |
 | Constellation Energy | Radiation Protection Intern - Middletown, PA | Pennsylvania | [Apply](https://jobs.constellationenergy.com/jobs/139903?lang=en-us&icims=1) | 2026-10-09 |
-| Democratic National Committee | Spring 2027 DNC Accounting Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/a38d54a1-ac06-4f44-a4a6-9f628e5e0175) | 2026-10-09 |
-| Democratic National Committee | Spring 2027 DNC General Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/3e5f80ca-39fa-40b7-9fad-273ae4bc45fd) | 2026-10-09 |
-| Democratic National Committee | Spring 2027 DNC Social Media Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/763743a1-c28a-4f13-b17d-999b1e3b952d) | 2026-10-09 |
-| Democratic National Committee | Spring 2027 DNC Technology Internship | Washington, DC | [Apply](https://ats.rippling.com/democratic-national-committee/jobs/9eb716a4-b84c-49c4-aefd-a922ce79a237) | 2026-10-09 |
 | DNV | Engineering Intern – Technical Advisory | Brazil | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7758) | 2026-10-09 |
 | Emerson Electric | Quality Intern (Summer 2027) | Knoxville, TN, United States | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009955) | 2026-10-09 |
 | Enterprise Mobility | Spring 2027 Management Trainee Intern - Stamford, CT | Connecticut Stamford & Greenwich | [Apply](https://us-erac.icims.com/jobs/568903/spring-2027-management-trainee-intern---stamford%2c-ct/job) | 2026-10-09 |
