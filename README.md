@@ -594,7 +594,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Robert Bosch Venture Capital | Academic Internship in Computer Science (f/m/div.) | Portugal | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163410519) | 2026-11-24 |
 | Robert Bosch Venture Capital | Internship in AI-Driven Innovation Management | Leinfelden-Echterdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163456519) | 2026-11-24 |
 | Robert Bosch Venture Capital | Internship in Communication & Media | Malaysia | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163404017) | 2026-11-24 |
-| Robert Bosch Venture Capital | Praktikum im Bereich Digital Engineering im Sondermaschinenbau | Stuttgart, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163442794) | 2026-11-24 |
 | Robert Bosch Venture Capital | Praktikum im Bereich Interne Kommunikation | Reutlingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163501454) | 2026-11-24 |
 | Robert Bosch Venture Capital | Praktikum im KI-gestützten Innovationsmanagement (w/m/div.) | Leinfelden-Echterdingen, BW | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163456192) | 2026-11-24 |
 | Robert Bosch Venture Capital | Quality & Continuous Improvement Intern | Welland, ON, Canada | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163539719) | 2026-11-24 |
@@ -989,6 +988,7 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Tiffany & Co. | Aushilfe / Working Student Client Advisor (m/w/d) - München New Store Opening | Germany | [Apply](https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/64201) | 2026-11-23 |
 | Trainline | Intern Engineer | Greater London, United Kingdom / United Kingdom Remote | [Apply](https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd) | 2026-11-23 |
 | Trener Robotics | Robotics Engineer/ Lab Technician (Intern) | California, United States | [Apply](https://jobs.ashbyhq.com/trener-robotics/49c2c8a6-7016-4c54-895e-9a3a4a060a74) | 2026-11-23 |
+| Turner & Townsend | Project Manager/Senior Project Manager | Australia | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000163137879) | 2026-11-23 |
 | University of St. Thomas | Stage Manager | Not Specified | [Apply](https://studentemployment-stthomas.icims.com/jobs/10233/stage-manager/job) | 2026-11-23 |
 | Uplinq | Accounting Specialist Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/335bd3e6-ce0f-40d7-85f7-296d91bc1eab) | 2026-11-23 |
 | Uplinq | Customer Success Intern - ASU | Scottsdale, AZ | [Apply](https://ats.rippling.com/uplinq/jobs/5448299b-6606-4d09-b547-e2b3fdf99274) | 2026-11-23 |
@@ -2649,7 +2649,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | DP World | Legal Intern | Charlotte, NC, United States | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27980) | 2026-11-10 |
 | DP World | Talent Acquisition Intern | Charlotte, NC, United States | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27858) | 2026-11-10 |
 | Epic Games | AI Programmer Intern | North Carolina, United States | [Apply](https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004) | 2026-11-10 |
-| Eurofins | Stage - Ingénieur Qualité & Amélioration Continue (H/F) - Nantes (44) | Pays De La Loire, France | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000160896604) | 2026-11-10 |
 | Expeditors | Distribution Internship - PHX | Surprise, AZ, United States | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000160955129) | 2026-11-10 |
 | Gannet Fleming | Intern - Electrical Engineering | Ebensburg, PA, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job) | 2026-11-10 |
 | Gannet Fleming | Intern - Roadway Engineering | Columbus, OH, United States | [Apply](https://careers-gannettfleming.icims.com/jobs/15123/intern---roadway-engineering/job) | 2026-11-10 |
@@ -2913,7 +2912,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NBCUniversal | Music Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160664696) | 2026-11-09 |
 | NBCUniversal | Music Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160663160) | 2026-11-09 |
 | NBCUniversal | NBC 4 DC News Internships – Summer 2027 | Washington, DC, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160691960) | 2026-11-09 |
-| NBCUniversal | NBC 4 New York Marketing & Digital Design Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160733409) | 2026-11-09 |
 | NBCUniversal | NBC Local Boston News Internships – Summer 2027 | Needham, MA, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160694609) | 2026-11-09 |
 | NBCUniversal | NBC Local Los Angeles News Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160695451) | 2026-11-09 |
 | NBCUniversal | NBC Local Production, Editorial, and Marketing News Internships – Summer 2027 | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160696244) | 2026-11-09 |
@@ -2922,8 +2920,6 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NBCUniversal | NBC News Bureau Internships – Summer 2027 | Chicago, IL, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160671074) | 2026-11-09 |
 | NBCUniversal | NBC News Bureau Internships – Summer 2027 | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160672109) | 2026-11-09 |
 | NBCUniversal | NBC News Bureau Internships – Summer 2027 | Washington, DC, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160668730) | 2026-11-09 |
-| NBCUniversal | NBC News Communications, Marketing, and Research Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160733129) | 2026-11-09 |
-| NBCUniversal | NBC News Group Technology Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160731770) | 2026-11-09 |
 | NBCUniversal | NBC Sports Logistics & Inventory Operations Internships – Summer 2027 | Stamford, CT, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160651569) | 2026-11-09 |
 | NBCUniversal | NBC Sports Marketing Internships – Summer 2027 | Stamford, CT, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160642921) | 2026-11-09 |
 | NBCUniversal | NBC Sports Olympic Digital & Production Internships – Summer 2027 | Stamford, CT, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160643394) | 2026-11-09 |
@@ -2942,7 +2938,9 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | NBCUniversal | Telemundo News, Digital, & Marketing Internships – Summer 2027 | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160645208) | 2026-11-09 |
 | NBCUniversal | Telemundo Production & Operations Internships – Summer 2027 | Miami, FL, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160645359) | 2026-11-09 |
 | NBCUniversal | Universal Pictures Publicity & Marketing Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649714) | 2026-11-09 |
-| NBCUniversal | Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160639419) | 2026-11-09 |
+| NBCUniversal | Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160636835) | 2026-11-09 |
+| NBCUniversal | Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027 | Universal City, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160635200) | 2026-11-09 |
+| NBCUniversal | Universal Television Entertainment Production, Development & Programming Internships – Summer 2027 | New York, NY, United States | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000160639069) | 2026-11-09 |
 | Netcompany | Student Assistant, Netcompany's Service Desk | Denmark | [Apply](https://jobs.smartrecruiters.com/Netcompany1/744000160570755) | 2026-11-09 |
 | Nooks | Software Engineer, Intern | California, United States / United States Remote | [Apply](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) | 2026-11-09 |
 | Novelis | Process Engineering Intern | Berea, KY, United States | [Apply](https://careers-novelis.icims.com/jobs/58520/process-engineering-intern/job) | 2026-11-09 |
@@ -5709,6 +5707,8 @@ Built by Tail’ed Community to help students discover opportunities faster.
 | Mercor | Research Intern | California, United States | [Apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518) | 2026-10-05 |
 | National Laboratory of the Rockies | Undergraduate / Graduate (Spring / Summer) Intern - Cyber Security Research – 5G | Golden, CO | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555) | 2026-10-05 |
 | National Life | People Center Intern – Summer 2027 | Addison, TX / Montpelier, VT | [Apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410926009) | 2026-10-05 |
+| NBCUniversal | IT Workplace Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153463669) | 2026-10-05 |
+| NBCUniversal | Key Account Management Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153463899) | 2026-10-05 |
 | NBCUniversal | Post Production Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153464645) | 2026-10-05 |
 | NBCUniversal | Production & Operations Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153465874) | 2026-10-05 |
 | NBCUniversal | Projects & Delivery Intern | London, United Kingdom | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000153466880) | 2026-10-05 |
