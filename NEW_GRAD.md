@@ -7,6 +7,10 @@ A community-maintained list of new grad and early-career roles across Canada and
 <!-- NEW_GRAD_TABLE_START -->
 | Company | Role | City | Apply | Date Added |
 |---|---|---|---|---|
+| AIG | Early Career: Risk Engineering | Capelle Aan Den Ijssel | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Capelle-aan-den-IJssel/Early-Career--Risk-Engineering_JR2604967) | 2026-11-28 |
+| AIG | Early Career: Underwriting | Capelle Aan Den Ijssel | [Apply](https://aig.wd1.myworkdayjobs.com/aig/job/Capelle-aan-den-IJssel/Early-Career--Underwriting_JR2604968) | 2026-11-28 |
+| Guardian Life | 2027 Early Career Program, Sales Trainee | 2 Locations | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Early-Career-Program--Sales-Trainee_R000110565) | 2026-11-28 |
+| Ovintiv | New Graduate Accountant | Calgary, AB, Canada | [Apply](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Calgary-AB-CA/New-Graduate-Accountant_R2617) | 2026-11-28 |
 | UBC | Graduate Program Assistant | Ubc Vancouver Campus Vancouver, BC, Canada | [Apply](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Graduate-Program-Assistant_JR26790) | 2026-11-27 |
 | Clean Harbors | Environmental Waste Technician – Healthcare (Entry Level) (InSite Technician) | Saint Paul, MN, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/169261) | 2026-11-26 |
 | Cummins | 2027 Early Career - Product Systems Design Engineer | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2443293) | 2026-11-26 |
@@ -331,6 +335,8 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Experian | Finance Graduate Program | Malaysia | [Apply](https://jobs.smartrecruiters.com/Experian/744000156458029) | 2026-10-21 |
 | Jencap | Property Damage Claims Adjuster (Entry Level) | Phoenix, AZ | [Apply](https://job-boards.greenhouse.io/jencapinc/jobs/5200158007) | 2026-10-21 |
 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | United States / Canada / United States Remote | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) | 2026-10-21 |
+| S&P Global | CREDit Graduate Program Analyst | Colorado, United States | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Colorado-US/CREDit-Graduate-Program-Analyst---Corporates_332373-2) | 2026-10-21 |
+| S&P Global | CREDit Graduate Program Analyst | Can | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Toronto-CAN/CREDit-Graduate-Program-Analyst_332377-1) | 2026-10-21 |
 | SambaNova Systems | AI Performance Engineer - New Grad | Texas, United States / California, United States | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | 2026-10-21 |
 | Anduril | 2027 Early Career Warhead Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) | 2026-10-20 |
 | Arcadis | Entry Level Water Engineer | Plantation, FL, United States | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45305) | 2026-10-20 |
@@ -460,6 +466,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Olsson | Entry-Level Civil Engineer - Site Design | Springfield, MO | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5433174008) | 2026-09-24 |
 | Open Farm Pet | Financial Analyst – New Graduate | Toronto, ON | [Apply](https://job-boards.greenhouse.io/openfarminc/jobs/5433068008) | 2026-09-24 |
 | Palantir | Software Engineer, New Grad | Singapore | [Apply](https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e) | 2026-09-24 |
+| S&P Global | CREDit Graduate Program Analyst | New York, NY | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/CREDit-Graduate-Program-Analyst_331830-1) | 2026-09-24 |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, Canada | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | 2026-09-24 |
 | Voloridge | Quantitative Developer - New University Graduate | Jupiter, FL | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009) | 2026-09-24 |
 | AECOM | Entry-Level Environmental Engineers - Networking Event with AECOM – Arlington, VA | Arlington, VA, United States | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000151105059) | 2026-09-23 |
@@ -599,6 +606,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | United Wholesale Mortgage | Entry Level Mortgage Call Center | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15877/entry-level-mortgage-call-center/job) | 2026-09-02 |
 | United Wholesale Mortgage | Entry Level Phone Support Specialist | Not Specified | [Apply](https://careers-uwmcareers.icims.com/jobs/15878/entry-level-phone-support-specialist/job) | 2026-09-02 |
 | Veeva Systems | Associate Technical Consultant - Entry-Level Consulting | Poland Cracow | [Apply](https://jobs.lever.co/veeva/4ea9851b-cc73-4bea-a1ce-ae0f83f088b9) | 2026-09-02 |
+| Arkansas Children's | RN I New Graduate Resident | Not Specified | [Apply](https://archildrens.wd1.myworkdayjobs.com/external_career_site/job/Little-Rock/RN-I-New-Graduate-Resident_R0024368) | 2026-09-01 |
 | Cummins | 2027 Early Career - Service Engineer 服务工程师 | China | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435161) | 2026-09-01 |
 | Hormel Foods | Entry Level Foodservice Sales Rep (Multiple Locations) - Campus Recruiting | Eden Prairie, MN, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35260) | 2026-09-01 |
 | Hormel Foods | Entry Level Retail Sales Rep (Multiple Locations) - Campus Recruiting | Bentonville, AR, United States | [Apply](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35333) | 2026-09-01 |
@@ -743,6 +751,7 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Fortinet | Network Support (New Grads 2026) | Burnaby, BC, Canada | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) | 2026-07-23 |
 | Fortinet | Network Support (New Grads 2026) | Atlanta, GA, United States | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22204) | 2026-07-22 |
 | Eurofins | Sample Management Officer – Entry Level (Graduates Welcome to Apply) | Australia | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000138236701) | 2026-07-17 |
+| Solar Turbines | 2027 Entry Level Suppler Technical Engineer | California | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122) | 2026-07-17 |
 | GHD | GHD Graduate Program 2026/27 - Delivery Phase Services - Electrical Engineers | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27745) | 2026-07-16 |
 | mthree | Entry-Level Analyst – Product & Accounting Control | Montréal, QC, Canada | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4697218006) | 2026-07-16 |
 | GHD | GHD Graduate Program 2026/27 - Darwin - Civil Engineer | Australia | [Apply](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27688) | 2026-07-15 |
@@ -869,7 +878,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Anduril | 2026 Early Career Electrical Engineer | California, United States / Colorado, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) | 2026-06-02 |
 | Anduril | 2026 Early Career Mechanical Engineer | California, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) | 2026-06-02 |
 | Aquatic Capital Management | Quantitative Researcher, Early Career | Chicago / New York | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002) | 2026-06-02 |
-| Ivy Tech Community College | Early Childhood Education Peer Mentor (Recent Graduate) | Marion, IN | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Marion-IN/Early-Childhood-Education-Peer-Mentor--Recent-Graduate-_JR0000106588) | 2026-06-02 |
 | Kairos Power | Early Career Professionals - Graduating 2027 | Or Oak Ridge, TN, Canada | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/5644550004) | 2026-06-02 |
 | Link | Entry Level Systems Administrator (VISTA), BS or HS+5 | Annapolis Junction, MD | [Apply](https://jobs.lever.co/linkllc/abf629c1-f670-41ec-bd4a-5c0d5a76a110) | 2026-06-02 |
 | Olsson | Entry-level Civil Engineer - Site Design/Municipal | Grand Island, NE / Kearney, NE / Lincoln, NE / Norfolk, NE / South Sioux City, NE | [Apply](https://job-boards.greenhouse.io/olsson/jobs/4934474008) | 2026-06-02 |
