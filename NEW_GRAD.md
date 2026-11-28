@@ -171,7 +171,6 @@ A community-maintained list of new grad and early-career roles across Canada and
 | Robert Bosch Venture Capital | Entry-level Sales and Marketing Representative - Seattle, WA - Diablo Tools - DAT | Seattle, WA, United States | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161377959) | 2026-11-13 |
 | Securitas | Security Officer - Entry Level | Battle Creek, MI, United States | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177126) | 2026-11-13 |
 | Uber | Entry Level Sales, Account Representative, Dallas - January Start Date | Dallas, TX, United States | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304349) | 2026-11-13 |
-| WSP | Early Career Geologist | Redmond, WA, United States | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99423) | 2026-11-13 |
 | City of Greeley | Facilities Service Worker - Seasonal - Entry Level | Greeley, CO, United States | [Apply](https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2826) | 2026-11-12 |
 | Clean Harbors | Entry-Level Hazardous Waste Technician (Hazardous Material Tech I) | Irvine, United States | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168270) | 2026-11-12 |
 | General Dynamics | Entry Level Electrostatic Discharge Engineer | New London, CT, United States | [Apply](https://careers-gdeb.icims.com/jobs/20439/entry-level-electrostatic-discharge-engineer/job) | 2026-11-12 |
